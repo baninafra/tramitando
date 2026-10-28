@@ -1,0 +1,158 @@
+{
+  "tramite": {
+    "slug": "primera-inscripcion",
+    "nombre": "Primera inscripción",
+    "nombre_busqueda": "primera inscripción",
+    "resumen": "Este trámite permite registrar y proteger la autoría de todas las obras incluidas en una publicación periódica. Su vigencia es anual y es renovable por igual período.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional del Derecho de Autor",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan una publicación periódica."
+    ],
+    "requisitos": [
+      {
+        "texto": "Comprobante de pago del trámite por depósito o transferencia bancaria de 3800 al Fondo Cooperador Ley 23.412 DNDA-CAPIF.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago de la tasa por depósito o transferencia bancaria al Fondo Nacional de las Artes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante del trámite Consulta de Título de Publicación Periódica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI, Pasaporte. Original y copia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número del trámite de Consulta de Título de Publicación Periódica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar último ejemplar de la publicación periódica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos del trámite completos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "El publicación periódica debe tener: Título de la publicación, Propietario (nombre y apellido completo o Razón Social), Director Responsable (nombre y apellido completo), Nº de Edición y fecha, Domicilio Legal Completo (Calle y Nº, localidad y provincia), Leyenda: Registro DNDA en trámite, Pie de I…",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD -Inscripción de Publicación Periódica e iniciá el trámite."
+      },
+      {
+        "texto": "Subí la documentación obligatoria y complementaria."
+      },
+      {
+        "texto": "Al finalizar se otorgará un número de Expediente Electrónico (carátula variable), el cual deberás presentar impreso junto con los comprobantes de pago y la obra."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Podés presentar tu obra en Sede Central."
+      },
+      {
+        "texto": "Se toma la recepción de los ejemplares de la Publicaciones Periódicas junto con las carátulas de inicio del trámite, a fin de completar el proceso de registro."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La inscripción o renovación de una publicación periódica implica la obligatoriedad de declarar periódicamente las ediciones publicadas mediante el trámite Declaración de Ediciones de Publicaciones Periódicas.",
+      "IMPORTANTE: Previo al primer registro de una publicación periódica es obligatorio realizar el trámite Consulta de título de publicación periódica."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 380000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/primera-inscripcion"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 620,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/primera-inscripcion"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1030,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/primera-inscripcion"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 2060,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/primera-inscripcion"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 10280,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/primera-inscripcion"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Sede Central",
+      "direccion": "Moreno 1230",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/primera-inscripcion"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/primera-inscripcion",
+      "titulo": "Primera Inscripción | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T01:53:42.874Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La vigencia es anual y es renovable por igual período.",
+    "El monto exacto de la tasa legal depende de la tirada de ejemplares.",
+    "Si el trámite es gratis, monto_centavos: null",
+    "Si el trámite es gratis, monto_centavos: null"
+  ]
+}

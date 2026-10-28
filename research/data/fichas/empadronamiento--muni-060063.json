@@ -1,0 +1,90 @@
+{
+  "tramite": {
+    "slug": "empadronamiento",
+    "nombre": "Empadronamiento",
+    "nombre_busqueda": "Empadronamiento",
+    "resumen": "Trámite para profesionales de la construcción (arquitectos, ingenieros, etc.) para visados de obras privadas.",
+    "sinonimos": [],
+    "temas": [
+      "obras-y-construccion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060063",
+  "organismo": {
+    "nombre": "Municipalidad de Balcarce",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Profesionales: arquitectos, maestros mayores de obra, ingenieros, técnicos constructores."
+    ],
+    "requisitos": [
+      {
+        "texto": "Matricula profesional activa",
+        "aclaracion": null
+      },
+      {
+        "texto": "Matriculación profesional municipal",
+        "aclaracion": null
+      },
+      {
+        "texto": "1 copia de plano municipal",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planilla de desarrollo de visado con certificación colegial",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Ingresá documentación en la Dirección de Obras Privadas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Obras Privadas",
+      "direccion": "Av. del Valle Nº 602",
+      "localidad": "Balcarce",
+      "horario": null,
+      "fuente_url": "https://balcarce-app.gob.ar/portal_servicios/servicio/empadronamiento"
+    },
+    {
+      "nombre": "Oficina de ARBAL",
+      "direccion": "Av. del Valle Nº 602",
+      "localidad": "Balcarce",
+      "horario": null,
+      "fuente_url": "https://balcarce-app.gob.ar/portal_servicios/servicio/empadronamiento"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://balcarce-app.gob.ar/portal_servicios/servicio/empadronamiento",
+      "titulo": "Portal de Servicios | Modernizacion Balcarce",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T03:04:41.993Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto en centavos del pago no se especifica en el texto.",
+    "El plazo de duración del trámite no se especifica en el texto.",
+    "La vigencia del trámite desde una fecha exacta no se especifica en el texto."
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "tramite": {
+    "slug": "presentar-los-estados-contables-e-informacion-complementaria",
+    "nombre": "Presentar los Estados Contables e Información Complementaria",
+    "nombre_busqueda": "Presentar Estados Contables SSN",
+    "resumen": "Las aseguradoras y reaseguradoras deben presentar sus Estados Contables e Información Complementaria trimestralmente ante la Superintendencia de Seguros de la Nación (SSN) a través del sistema TAD.",
+    "sinonimos": [
+      "Presentación de Estados Contables SSN",
+      "Trámite TAD aseguradoras"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Seguros de la Nación",
+    "sigla": "SSN",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Entidades aseguradoras y reaseguradoras.",
+      "Apoderados designados por el administrador de relaciones de clave fiscal de la entidad."
+    ],
+    "requisitos": [
+      {
+        "texto": "Usuario de acceso a Trámites a Distancia (TAD).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Usuario de SINENSUP (Sistema de Información de Entidades Supervisadas).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estados Contables, Anexos, Notas, Capitales, Cobertura y Financiera obtenidos de SINENSUP.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estado de Cobertura del artículo 35 RGAA obtenido de SINENSUP.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estado de Cobertura de Compromisos Exigibles y Siniestros Liquidados a Pagar obtenido de SINENSUP.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estados Contables Básicos (Activo, Pasivo, Evolución del Patrimonio Neto y Estado de Resultados) obtenidos de SINENSUP.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Anexos a los Estados Contables obtenidos de SINENSUP.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Notas a los Estados Contables.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fondo Fiduciario Enfermedades Profesionales (solo ART) obtenido de SINENSUP.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cuadro e Informes de aseguradoras de Retiro / Vida obtenido de SINENSUP.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cuadro de Resultado Técnico obtenido de SINENSUP.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Otros Cuadros y anexos específicos obtenidos de SINENSUP.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informe del auditor sobre el Estado de Capitales Mínimos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informe del auditor sobre el Estado cobertura del artículo 35 RGAA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informe del auditor sobre el Estado de Cobertura de Compromisos Exigibles y Siniestros.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informe del auditor sobre los Estados Contables.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informe evaluación de control interno (solo en anual).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Otros informes específicos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informe del actuario sobre los Estados Contables.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Otros informes específicos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informe de la Comisión Fiscalizadora / Síndico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informe de la Comisión Fiscalizadora / Síndicos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación digitalizada para todos los documentos.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD con clave fiscal."
+      },
+      {
+        "texto": "Operá como apoderado de la entidad representada."
+      },
+      {
+        "texto": "Establecé los firmantes y adjuntá los documentos requeridos."
+      },
+      {
+        "texto": "Confirmá el trámite."
+      },
+      {
+        "texto": "Esperá que cada firmante realice su tarea de firma digital."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Realizá la certificación de firmas del Consejo Profesional de Ciencias Económicas (CPCE) de tu jurisdicción."
+      },
+      {
+        "texto": "Presentá la documentación papel en el CPCE."
+      },
+      {
+        "texto": "Escaneá y subí la certificación CPCE al TAD en la tarea que te asignó la SSN."
+      },
+      {
+        "texto": "Confirmá el trámite."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El trámite tendrá vigencia permanente con frecuencia de presentación trimestral.",
+      "Para las entidades con legalizaciones web, el balance se considera presentado en el momento de la generación del expediente.",
+      "Para las entidades sin legalización web, el trámite pasa a subsanación y se considera presentado solo tras subir la certificación CPCE.",
+      "Se recomienda guardar digitalmente una copia del trámite con todos sus documentos firmados una vez presentado."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/presentar-los-estados-contables-e-informacion-complementaria",
+      "titulo": "Presentar los Estados Contables e Información Complementaria | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T07:49:09.096Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto del trámite es gratuito.",
+    "El plazo exacto de presentación trimestral no está especificado en el texto."
+  ]
+}

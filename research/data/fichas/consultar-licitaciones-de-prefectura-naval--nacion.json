@@ -1,0 +1,72 @@
+{
+  "tramite": {
+    "slug": "consultar-licitaciones-de-prefectura-naval",
+    "nombre": "Consultar licitaciones de Prefectura Naval",
+    "nombre_busqueda": "Consultar licitaciones Prefectura Naval",
+    "resumen": "Podés consultar los actos licitatorios de la Prefectura Naval para ofrecer observaciones con antelación a la fecha de apertura. El trámite es gratuito y se puede hacer por correo electrónico o presentando una nota en la Mesa de Entradas.",
+    "sinonimos": [],
+    "temas": [
+      "proveedores-y-compras"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Prefectura Naval Argentina",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota con membrete (Nota original presentada en Mesa de Entradas dirigida a la División Contrataciones).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá una nota con membrete dirigida a la Dirección de Administración Financiera, Departamento Adquisiciones y Aprovisionamiento, División Contrataciones en la Mesa de Entradas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Las observaciones a los Proyectos de Pliegos deben ser efectuadas con una antelación mínima de cinco (5) días a la fecha de apertura si se presentan por escrito en la Mesa de Entradas.",
+      "Si realizás las observaciones por correo electrónico, tenés que esperar a la recepción para contar con la antelación requerida."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Mesa de Entradas, División Contrataciones",
+      "direccion": "Av. Madero 235, 7° Piso, Oficina 7.51",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/consultar-licitaciones-de-prefectura-naval"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consultar-licitaciones-de-prefectura-naval",
+      "titulo": "Consultar licitaciones de Prefectura Naval | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-26T05:53:18.429Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica si el trámite requiere turno para la presentación de la nota en la Mesa de Entradas."
+  ]
+}

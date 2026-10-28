@@ -1,0 +1,69 @@
+{
+  "tramite": {
+    "slug": "reclamos-vecinales",
+    "nombre": "Gestión de reclamos ciudadanos vecinales",
+    "nombre_busqueda": "Reclamos ciudadanos vecinales",
+    "resumen": "Formulario online para presentar reclamos ciudadanos vecinales con datos personales y detalles del reclamo.",
+    "sinonimos": [],
+    "temas": [
+      "reclamos-vecinales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060203",
+  "organismo": {
+    "nombre": "Municipalidad de Coronel Suárez",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Ciudadanos vecinales"
+    ],
+    "requisitos": [
+      {
+        "texto": "Nombre y apellido",
+        "aclaracion": null
+      },
+      {
+        "texto": "Teléfono",
+        "aclaracion": null
+      },
+      {
+        "texto": "Correo electrónico",
+        "aclaracion": null
+      },
+      {
+        "texto": "Detalle del reclamo",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá los campos requeridos: nombre y apellido, teléfono, correo electrónico y detalle del reclamo."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.coronelsuarez.gob.ar/reclamos/",
+      "titulo": "Reclamos – Municipalidad de Coronel Suárez",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T04:52:07.235Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos adicionales, plazos de respuesta ni costos en el texto."
+  ]
+}

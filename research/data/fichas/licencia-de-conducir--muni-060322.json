@@ -1,0 +1,151 @@
+{
+  "tramite": {
+    "slug": "licencia-de-conducir-general-la-madrid",
+    "nombre": "Licencia de conducir",
+    "nombre_busqueda": "sacar o renovar la licencia de conducir en General La Madrid",
+    "resumen": "Tramitá la licencia de conducir en la oficina municipal. El trámite incluye documentación, pagos y evaluaciones; para el test psicosensométrico tenés que pedir turno en la oficina.",
+    "sinonimos": [
+      "registro de conducir",
+      "carnet de conducir"
+    ],
+    "temas": [
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060322",
+  "organismo": {
+    "nombre": "Municipalidad de General La Madrid",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que tramitan una licencia de conducir; si sos menor de 18 años, necesitás autorización de madre, padre o tutor."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original y fotocopia de ambos lados; la constancia de trámite no es válida.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización de madre, padre o tutor.",
+        "aclaracion": "Si sos menor de 18 años."
+      },
+      {
+        "texto": "Certificado impreso de deudores alimentarios morosos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia del laboratorio o conocimiento del grupo sanguíneo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Análisis de sangre: hemograma, urea, glucemia, colesterol y VDRL; el análisis de HIV es opcional.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Avalá los análisis con un médico antes del trámite; el profesional debe firmarlos y sellarlos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de defunción de sus progenitores.",
+        "aclaracion": "Si sos menor de edad y tus progenitores fallecieron."
+      },
+      {
+        "texto": "Instructivo retirado en Telefónica, leído y llevado a la charla.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de aprobación de los exámenes teórico y práctico.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Retirá en Telefónica el instructivo, leelo y llevalo a la charla."
+      },
+      {
+        "texto": "Asistí a la charla obligatoria de concientización en la fecha y el horario que te asigne la Oficina de Licencia de Conducir."
+      },
+      {
+        "texto": "Participá de la jornada de concientización online."
+      },
+      {
+        "texto": "Realizá el examen teórico."
+      },
+      {
+        "texto": "Realizá el examen práctico si corresponde."
+      },
+      {
+        "texto": "Aprobá los exámenes teórico y práctico, y presentá la constancia al hacer el trámite."
+      },
+      {
+        "texto": "Aboná el arancel CENAT-CEPAT en las oficinas de Licencias de Conducir."
+      },
+      {
+        "texto": "Pagá en la Oficina de Recaudación del Palacio Municipal los importes indicados."
+      },
+      {
+        "texto": "Retirá el comprobante de libre deuda de infracción local en el Juzgado de Faltas."
+      },
+      {
+        "texto": "Presentate en la oficina de licencia de conducir con todos los requisitos y pedí turno para el test psicosensométrico."
+      },
+      {
+        "texto": "Realizá la evaluación psicosensométrica."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 21000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.lamadrid.gob.ar/licencia-de-conducir/"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 60000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.lamadrid.gob.ar/licencia-de-conducir/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Licencia de Conducir",
+      "direccion": "Calle San Martín 831",
+      "localidad": "Calle San Martín 831",
+      "horario": null,
+      "fuente_url": "https://www.lamadrid.gob.ar/licencia-de-conducir/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.lamadrid.gob.ar/licencia-de-conducir/",
+      "titulo": "Licencia de Conducir – Municipalidad de General La Madrid",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T12:44:43.405Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto del arancel CENAT-CEPAT no está indicado.",
+    "No se precisa si la licencia es por primera vez, renovación particular o profesional."
+  ]
+}

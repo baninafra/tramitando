@@ -1,0 +1,139 @@
+{
+  "tramite": {
+    "slug": "regularizacion-de-construcciones",
+    "nombre": "Regularización de construcciones",
+    "nombre_busqueda": "Regularizar construcción",
+    "resumen": "El Plan de Regularización de Construcciones permite actualizar la documentación de propiedades mediante la presentación de planos previos y definitivos ante la Municipalidad de Almafuerte.",
+    "sinonimos": [
+      "Regularización edilicia",
+      "Visación de planos",
+      "Plan de regularización de obras"
+    ],
+    "temas": [
+      "obras-y-construccion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141421",
+  "organismo": {
+    "nombre": "Municipalidad de Almafuerte",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Propietarios que necesiten regularizar la situación de una construcción",
+      "Profesionales de la construcción"
+    ],
+    "requisitos": [
+      {
+        "texto": "Plano Previo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de conformidad firmada en puño y letra por el comitente y por el profesional (firma, aclaración y DNI)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planilla de arbolado (proyecto)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación para acreditar titularidad (boleto de compraventa, escritura etc)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano definitivo sellado por el Colegio Profesional correspondiente",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar a la plataforma de presentación de planos de la Municipalidad de Almafuerte."
+      },
+      {
+        "texto": "Iniciar el trámite denominado Previa."
+      },
+      {
+        "texto": "Presentar la documentación digital para avanzar con la revisión."
+      },
+      {
+        "texto": "Descargar los documentos con referencias de correcciones y una planilla de correcciones."
+      },
+      {
+        "texto": "Iniciar un nuevo trámite de Visación Definitiva."
+      },
+      {
+        "texto": "Adjuntar el plano definitivo sellado por el Colegio Profesional."
+      },
+      {
+        "texto": "Descargar el documento visado."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Contactar a un profesional de la construcción para evaluar la propiedad."
+      },
+      {
+        "texto": "Presentar la documentación de titularidad certificada por escribanía en formato físico ante el Área de Obras Privadas."
+      },
+      {
+        "texto": "Vender a abonar los aranceles correspondientes una vez visado el plano definitivo."
+      },
+      {
+        "texto": "Retirar el plano definitivo visado, el permiso de edificación y los permisos de servicios solicitados."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Antes de realizar la presentación definitiva, deben encontrarse resueltas las observaciones efectuadas durante la instancia de Previa.",
+      "No se recibirán planos definitivos colegiados que no tengan realizadas las correcciones especificadas en la previa.",
+      "La documentación de titularidad debe presentarse posteriormente ante el área en formato físico y certificada por escribanía como copia fiel del original."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 295000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://almafuertecba.gob.ar/content/plan-regularizacion-construcciones"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://almafuertecba.gob.ar/content/plan-regularizacion-construcciones",
+      "titulo": "PLAN DE REGULARIZACIÓN DE CONSTRUCCIONES | Municipalidad de Almafuerte",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T09:38:55.109Z"
+    },
+    {
+      "url": "https://almafuertecba.gob.ar/content/presentacion-planos-obra-en-municipalidad-almafuerte",
+      "titulo": "PRESENTACION DE PLANOS DE OBRA EN MUNICIPALIDAD DE ALMAFUERTE",
+      "bloques": [
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T09:38:55.109Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El Plan tiene vigencia hasta el 31 de diciembre de 2027.",
+    "Se otorgan 50% de descuento en tasas y aranceles municipales.",
+    "Se otorgan 50% de reducción en los aranceles correspondientes al Colegio de Arquitectos.",
+    "El costo de visación definitiva se calcula dependiendo de los metros cuadrados de la obra a proyectar y/o relevar."
+  ]
+}

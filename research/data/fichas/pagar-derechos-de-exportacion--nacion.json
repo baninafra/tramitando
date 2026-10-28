@@ -1,0 +1,127 @@
+{
+  "tramite": {
+    "slug": "pagar-derechos-de-exportacion",
+    "nombre": "Pagar derechos de exportación",
+    "nombre_busqueda": "Pagar derechos de exportación",
+    "resumen": "Para exportar, podés pagar los tributos y derechos de forma anticipada o con plazo de espera. El momento imponible es la fecha de oficialización del permiso de embarque.",
+    "sinonimos": [],
+    "temas": [
+      "emprendedores-y-monotributo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A los exportadores."
+    ],
+    "requisitos": [
+      {
+        "texto": "Depositar los fondos necesarios en la subcuenta correspondiente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener habilitado el servicio en AFIP (Gestión de Importadores / Exportadores o Gestión de Despachantes).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener la CUIT del despachante si sos persona física en representación de una persona jurídica.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Optá por una de las dos formas de pago: depósito en el Banco de la Nación Argentina o transferencia bancaria a la cuenta AFIP."
+      },
+      {
+        "texto": "Aboná el monto a tributar a través del procedimiento elegido."
+      },
+      {
+        "texto": "Gestioná la afectación de fondos en el Sistema Malvina."
+      },
+      {
+        "texto": "Ingresá al sitio web de AFIP con clave fiscal."
+      },
+      {
+        "texto": "Entrá al servicio Gestión de Importadores / Exportadores o Gestión de Despachantes."
+      },
+      {
+        "texto": "Si no tenés el servicio habilitado, seleccioná Administrador de Relaciones y desde allí AFIP - Gestión de Importadores / Exportadores o Gestión de Despachantes."
+      },
+      {
+        "texto": "Si sos persona física en representación de una persona jurídica, delegate el servicio para que a través de Aceptación de Designación puedas finalmente habilitarlo."
+      },
+      {
+        "texto": "Una vez habilitado, seleccioná la opción Generación de Liquidaciones Aduaneras (LMAN)."
+      },
+      {
+        "texto": "El sistema te solicitará los siguientes datos: CUIT Despachante, Documento de Referencia, Motivo de Liquidación, Fecha de momento imponible e Importe de la liquidación."
+      },
+      {
+        "texto": "Ingresá los conceptos recaudatorios de exportación con su respectivo monto a pagar en dólares."
+      },
+      {
+        "texto": "Podés modificar los datos ingresados a través de la opción Ingresar encabezado o confirmarlos a través de Generar liquidación."
+      },
+      {
+        "texto": "El sistema arrojará una constancia con el número de liquidación, la fecha de vencimiento y el importe total a pagar."
+      },
+      {
+        "texto": "Volvé a ingresar al servicio Gestión de Importadores / Exportadores o Gestión de Despachantes."
+      },
+      {
+        "texto": "Buscá la liquidación generada, seleccionala y generá el Volante Electrónico de Pago para abonarlo posteriormente."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Para pago en forma anticipada, el momento imponible corresponde a la fecha de oficialización del permiso de embarque.",
+      "Para pago con plazo de espera, tenés un tiempo para pagar sin intereses, pero te exigen una garantía bajo una de estas formas: efectivo, seguro de caución, aval bancario, letra caucional, Declaración Jurada.",
+      "Las liquidaciones manuales LAEX (vencidas y exigibles) pasarán automáticamente a estado anulada si no efectivizás el pago ese mismo día."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/pagar-derechos-de-exportacion",
+      "titulo": "Pagar derechos de exportación | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T07:22:05.404Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T07:22:05.404Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/",
+      "titulo": "Inicio | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T07:22:05.404Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia del trámite.",
+    "El monto exacto a pagar."
+  ]
+}

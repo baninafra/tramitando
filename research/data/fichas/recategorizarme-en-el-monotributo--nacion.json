@@ -1,0 +1,96 @@
+{
+  "tramite": {
+    "slug": "recategorizarme-en-el-monotributo",
+    "nombre": "Recategorizarme en el monotributo",
+    "nombre_busqueda": "recategorizarme en el monotributo",
+    "resumen": "Es la evaluación de parámetros cada seis meses para saber si tenés que mantener tu categoría o modificarla según tus ingresos y actividad.",
+    "sinonimos": [],
+    "temas": [
+      "emprendedores-y-monotributo",
+      "monotributo-social-y-general"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Argentina.gob.ar",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A las personas incluidas en el régimen de monotributo."
+    ],
+    "requisitos": [
+      {
+        "texto": "CUIT",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave fiscal en ARCA",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estar incluido en el régimen de monotributo",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Entrá al sitio de ARCA e ingresá tu número de cuit/cuil/cdi y tu clave fiscal."
+      },
+      {
+        "texto": "Entrá a la opción recategorización presionando sobre el botón Recategorizarme."
+      },
+      {
+        "texto": "Revisá las categorías vigentes presionando el botón Escalas vigentes."
+      },
+      {
+        "texto": "Presioná el botón Continuar recategorización."
+      },
+      {
+        "texto": "Informá el monto facturado en los últimos 12 meses."
+      },
+      {
+        "texto": "Donde el sistema te pregunta si tenés o usás un local, seleccioná la opción que corresponda."
+      },
+      {
+        "texto": "Ingresá los datos correspondientes a tu actividad que te pide el sistema."
+      },
+      {
+        "texto": "Verificá bien antes de aceptar la validación."
+      },
+      {
+        "texto": "Presioná en el botón Confirmar categoría."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "15 minutos",
+    "consejos": [
+      "Si los movimientos de tu cuenta bancaria o las operaciones que realizaste con tarjeta de crédito hicieran presuponer que tenés ingresos superiores a los que declaraste para tu categoría, ARCA te reconvertirá automáticamente a una categoría superior a la registrada."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/recategorizarme-en-el-monotributo",
+      "titulo": "Recategorizarme en el monotributo | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:49:42.201Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia de la recategorización no está especificada en el texto, solo se menciona que son cada 6 meses en febrero y agosto."
+  ]
+}

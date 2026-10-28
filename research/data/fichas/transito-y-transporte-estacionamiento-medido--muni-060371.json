@@ -1,0 +1,72 @@
+{
+  "tramite": {
+    "slug": "estacionamiento-medido",
+    "nombre": "Estacionamiento medido",
+    "nombre_busqueda": "Estacionamiento medido San Martín",
+    "resumen": "Trámite para solicitar la instalación de medidores de estacionamiento en vehículos particulares en el municipio de San Martín.",
+    "sinonimos": [
+      "Instalación de medidores",
+      "Medidores de estacionamiento"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "patente-automotor-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060371",
+  "organismo": {
+    "nombre": "Municipalidad de San Martín",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Particulares que tengan vehículo registrado en el municipio."
+    ],
+    "requisitos": [
+      {
+        "texto": "Copia del DNI del propietario del vehículo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de la patente del vehículo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acudí a la oficina de Trámites de la Municipalidad de San Martín."
+      },
+      {
+        "texto": "Presentá los requisitos requeridos."
+      },
+      {
+        "texto": "Completá el formulario de solicitud."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://sanmartin.gob.ar/tramites/transito-y-transporte-estacionamiento-medido",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://sanmartin.gob.ar/tramites/transito-y-transporte-estacionamiento-medido",
+      "titulo": "Estacionamiento medido",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T13:33:57.126Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere sacar turno para realizar el trámite.",
+    "Se requiere pagar la tasa correspondiente."
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "tramite": {
+    "slug": "inscripcion-de-entes-sanitarios",
+    "nombre": "Inscribir/Actualizar/Solicitar la baja en el registro de entes sanitarios",
+    "nombre_busqueda": "Inscribir actualizarsolicitar la baja en el registro de entes sanitarios",
+    "resumen": "Los entes sanitarios deben inscribirse en el Registro Nacional de Entes Sanitarios (RNES) para ejecutar acciones sanitarias y fitosanitarias. El trámite es gratuito y se realiza en línea mediante la plataforma TAD.",
+    "sinonimos": [
+      "Inscripción RNES",
+      "Registro Nacional de Entes Sanitarios",
+      "Inscripción en Senasa"
+    ],
+    "temas": [
+      "obra-social-y-prepaga"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Fundaciones y Entes Locales de Lucha Sanitaria",
+      "Asociaciones Civiles",
+      "Asociaciones Sectoriales",
+      "Fundaciones",
+      "Colegios Profesionales",
+      "Laboratorios de Red acreditados o reconocidos vinculados con el Senasa"
+    ],
+    "requisitos": [
+      {
+        "texto": "Personería jurídica",
+        "aclaracion": null
+      },
+      {
+        "texto": "Capacidad técnica, administrativa y financiera suficiente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio electrónico declarado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contabilidad en los libros exigidos por la normativa vigente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Memorias, balances, inventarios",
+        "aclaracion": null
+      },
+      {
+        "texto": "Rendiciones de cuentas",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estadísticas",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación respaldatoria de las erogaciones de fondos asignados o transferidos",
+        "aclaracion": null
+      },
+      {
+        "texto": "Adopción de recaudos para mantener relaciones laborales o contractuales exclusivas con el Ente prestador",
+        "aclaracion": null
+      },
+      {
+        "texto": "Garantía de que las personas afectadas hayan recibido las capacitaciones y/o habilitaciones pertinentes por parte del Senasa",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Entrá a la plataforma TAD"
+      },
+      {
+        "texto": "Completá los datos del Ente a inscribir"
+      },
+      {
+        "texto": "Completá el formulario"
+      },
+      {
+        "texto": "Adjuntá la documentación (sólo obligatorio el Estatuto)"
+      },
+      {
+        "texto": "Confirmá el trámite para obtener el número de expediente"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "10 días hábiles",
+    "consejos": [
+      "Si la documentación requiere intervención de la Dirección de Asuntos Jurídicos o debe ser subsanada, el plazo se extiende.",
+      "Para actualizaciones, necesitás declarar los cambios en la plataforma TAD."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Senasa",
+      "direccion": "Av. Paseo Colón 367 piso 10° cfrente, C1063ACD, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribiractualizarsolicitar-la-baja-en-el-registro-de-entes-sanitarios"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribiractualizarsolicitar-la-baja-en-el-registro-de-entes-sanitarios",
+      "titulo": "Inscribir/Actualizar/Solicitar la baja en el registro de entes sanitarios | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T17:19:07.340Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia exacta del trámite",
+    "Si el trámite requiere turno"
+  ]
+}

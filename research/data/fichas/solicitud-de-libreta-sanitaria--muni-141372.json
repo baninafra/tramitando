@@ -1,0 +1,99 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-libreta-sanitaria",
+    "nombre": "Solicitud de libreta sanitaria",
+    "nombre_busqueda": "Solicitud de libreta sanitaria",
+    "resumen": "Para obtener la libreta sanitaria anual se requiere DNI actualizado, foto carnet actualizada y examen médico de salud pública municipal. El trámite se realiza en la Industria y Comercio.",
+    "sinonimos": [
+      "Licencia sanitaria",
+      "Libreta sanitaria anual"
+    ],
+    "temas": [
+      "carnet-sanitario"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141372",
+  "organismo": {
+    "nombre": "Municipalidad de Alta Gracia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares que presenten DNI actualizado y foto carnet actualizada."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del titular (Actualizado)",
+        "aclaracion": null
+      },
+      {
+        "texto": "1 (una) foto carnet (Actualizada)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Examen Médico de Salud Pública Municipal",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el DNI actualizado y la foto carnet actualizada."
+      },
+      {
+        "texto": "Realizá el examen médico de salud pública municipal."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 110000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://altagracia.gob.ar/subareas/solicitud-de-libreta-sanitaria/"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 220000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://altagracia.gob.ar/subareas/solicitud-de-libreta-sanitaria/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Industria y Comercio Sala B. Roldán (Ex Bingo)",
+      "direccion": "España 135",
+      "localidad": "España 135",
+      "horario": null,
+      "fuente_url": "https://altagracia.gob.ar/subareas/solicitud-de-libreta-sanitaria/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://altagracia.gob.ar/subareas/solicitud-de-libreta-sanitaria/",
+      "titulo": "Solicitud de Libreta Sanitaria – Municipalidad de Alta Gracia",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-26T08:04:05.221Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horario de atención",
+    "Plazo de tramitación"
+  ]
+}

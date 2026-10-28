@@ -1,0 +1,94 @@
+---
+// /tramites/<tramite>, /tramites/<tramite>/<provincia>, /tramites/<tramite>/<provincia>/<municipio>
+import Base from '../../../layouts/Base.astro';
+import FichaCompleta from '../../../components/FichaCompleta.astro';
+import FichaTramite from '../../../components/FichaTramite.astro';
+import Reporte from '../../../components/Reporte.astro';
+import Sello from '../../../components/Sello.astro';
+import { obtenerFicha } from '../../../lib/data';
+import { descripcionFicha, jsonldFicha, nombreDeLugar, tituloFicha } from '../../../lib/seo';
+
+const partes = (Astro.params.lugar ?? '').split('/').filter(Boolean);
+if (partes.length > 2) return Astro.rewrite('/404');
+const [prov, muni] = partes;
+
+const resultado = await obtenerFicha(Astro.params.tramite!, prov, muni);
+if (!resultado) return Astro.rewrite('/404');
+---
+{resultado.tipo === 'ficha' && (
+  <Base
+    titulo={tituloFicha(resultado.ficha)}
+    descripcion={descripcionFicha(resultado.ficha)}
+    indexar={resultado.ficha.indexable}
+    tramite={resultado.ficha.tramite.slug}
+    jsonld={resultado.ficha.indexable ? jsonldFicha(resultado.ficha, Astro.site!) : undefined}
+  >
+    <FichaCompleta ficha={resultado.ficha} />
+  </Base>
+)}
+
+{resultado.tipo === 'indice' && (
+  <Base
+    titulo={`${resultado.indice.tramite.nombreBusqueda}: requisitos, costo y dónde se hace según tu lugar`}
+    tramite={resultado.indice.tramite.slug}
+    descripcion={`${resultado.indice.tramite.resumen} Elegí tu provincia o municipio para ver requisitos, costo y plazos.`}
+  >
+    <div class="contenedor">
+      <nav class="migas" aria-label="Estás en">
+        <ol>
+          <li><a href="/">Inicio</a></li>
+          <li><a href={`/categorias/${resultado.indice.categoria.slug}`}>{resultado.indice.categoria.nombre}</a></li>
+          <li aria-current="page">{resultado.indice.tramite.nombre}</li>
+        </ol>
+      </nav>
+      <header class="cabecera">
+        <h1 class="titulo-seccion">{resultado.indice.tramite.nombre}</h1>
+        <p class="bajada">{resultado.indice.tramite.resumen}</p>
+        <p class="bajada">Este trámite cambia según dónde vivís.</p>
+        <a href="/ubicacion" class="btn btn-primario" data-abrir-ubicacion>Elegí tu lugar</a>
+      </header>
+      <ul class="lista-tramites">
+        {resultado.indice.lugares.map((t) => <li><FichaTramite tarjeta={t} nivel="h2" /></li>)}
+      </ul>
+      <p class="bajada pie-indice">¿No está tu lugar? Lo vamos sumando de a poco. También podés <a href="/#ubicacion">elegir tu ubicación</a> en la portada.</p>
+    </div>
+  </Base>
+)}
+
+{resultado.tipo === 'sin-datos' && (
+  <Base
+    titulo={`${resultado.tramite.nombre} en ${nombreDeLugar(resultado.pedido)}`}
+    descripcion={`Todavía no tenemos datos de ${resultado.tramite.nombre.toLowerCase()} en ${nombreDeLugar(resultado.pedido)}.`}
+    indexar={false}
+    tramite={resultado.tramite.slug}
+  >
+    <div class="contenedor">
+      <nav class="migas" aria-label="Estás en">
+        <ol>
+          <li><a href="/">Inicio</a></li>
+          <li><a href={`/tramites/${resultado.tramite.slug}`}>{resultado.tramite.nombre}</a></li>
+          <li aria-current="page">{nombreDeLugar(resultado.pedido)}</li>
+        </ol>
+      </nav>
+      <header class="cabecera">
+        <h1 class="titulo-seccion">{resultado.tramite.nombre} en {nombreDeLugar(resultado.pedido)}</h1>
+        <Sello estado="sin-datos" textoSinDatos={resultado.pedido.municipio ? 'Sin datos de tu municipio' : 'Sin datos de tu provincia'} />
+        <p class="bajada">Todavía no tenemos información de este trámite para {nombreDeLugar(resultado.pedido)}. Mientras tanto, mirá cómo es en otros lugares: suele ser parecido, pero el costo y la oficina cambian.</p>
+      </header>
+      {resultado.alternativas.length > 0 && (
+        <ul class="lista-tramites">
+          {resultado.alternativas.map((t) => <li><FichaTramite tarjeta={t} nivel="h2" /></li>)}
+        </ul>
+      )}
+      <div class="aportar">
+        <Reporte tramite={resultado.tramite.slug} pagina={Astro.url.pathname} modo="aportar" />
+      </div>
+    </div>
+  </Base>
+)}
+
+<style>
+  .cabecera { display: grid; gap: var(--espacio-3); justify-items: start; padding-block: var(--espacio-4) var(--espacio-5); }
+  .pie-indice { margin-top: var(--espacio-6); }
+  .aportar { margin-top: var(--espacio-6); max-width: var(--ancho-texto); }
+</style>

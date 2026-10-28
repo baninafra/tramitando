@@ -1,0 +1,83 @@
+{
+  "tramite": {
+    "slug": "causa-contravencional-por-infracciones",
+    "nombre": "Causa contravencional por infracciones",
+    "nombre_busqueda": "Causa contravencional por infracciones",
+    "resumen": "Permite la iniciación del expediente de faltas por infracciones cometidas en el partido. Se realiza en el Juzgado de Faltas.",
+    "sinonimos": [],
+    "temas": [
+      "infracciones-y-multas",
+      "juzgado-de-faltas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060245",
+  "organismo": {
+    "nombre": "Municipalidad de Ensenada",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El infractor en forma personal"
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación del vehículo para el caso de secuestro",
+        "aclaracion": null
+      },
+      {
+        "texto": "Carnet de conductor",
+        "aclaracion": null
+      },
+      {
+        "texto": "Concurrir con el representante legal",
+        "aclaracion": "Si sos menor de edad."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Concurrí al Juzgado de Faltas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Juzgado de Faltas",
+      "direccion": "Pte. Perón entre Libertad e Independencia",
+      "localidad": "Pte. Perón entre Libertad e Independencia",
+      "horario": null,
+      "fuente_url": "https://www.ensenada.gov.ar/causa-contravencional-por-infracciones/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.ensenada.gov.ar/causa-contravencional-por-infracciones/",
+      "titulo": "CAUSA CONTRAVENCIONAL POR INFRACCIONES – Municipalidad de Ensenada",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T23:20:49.974Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa o sanción no se especifica en el texto, depende de la sanción que se aplique.",
+    "El horario de atención es de lunes a viernes de 8:30 a 13:00 horas."
+  ]
+}

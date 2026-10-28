@@ -1,0 +1,91 @@
+{
+  "tramite": {
+    "slug": "darse-de-baja-en-el-monotributo",
+    "nombre": "Darse de baja en el monotributo",
+    "nombre_busqueda": "Darse de baja en el monotributo",
+    "resumen": "Para dejar de ser monotributista, tenés que tramitar la baja en ARCA a través de internet. Es un trámite gratuito que se realiza en cualquier momento, siempre que el mes de la baja esté pagado.",
+    "sinonimos": [
+      "Renuncia al monotributo",
+      "Cese de actividades monotributo",
+      "Baja monotributo ARCA"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo",
+      "monotributo-social-y-general"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración Federal de Ingresos Nacionales",
+    "sigla": "AFIP",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Monotributistas que deseen tramitar la baja en el régimen."
+    ],
+    "requisitos": [
+      {
+        "texto": "Contar con CUIT y clave fiscal en ARCA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estar inscripto previamente en el régimen de monotributo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Entrá al Acceso con clave fiscal de ARCA e ingresá tu número de CUIT y clave fiscal."
+      },
+      {
+        "texto": "Seleccioná Monotributo en la lista de servicios habilitados."
+      },
+      {
+        "texto": "Elegí la opción Modificación y baja en el menú de la izquierda."
+      },
+      {
+        "texto": "Buscá la tarjeta que dice Darse de baja del monotributo y presioná el botón Dar de baja."
+      },
+      {
+        "texto": "Ingresá el período de la baja, indicando el mes y año."
+      },
+      {
+        "texto": "Seleccioná el motivo de la baja y presioná el botón Continuar."
+      },
+      {
+        "texto": "Verificá los datos en el Registro único tributario y presioná Confirmar."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si renunciás al monotributo, no podrás reingresar hasta después de transcurridos 3 años calendarios completos.",
+      "Si no solicitás la baja, vas a acumular deuda con ARCA y al cabo de 10 meses te darán automáticamente de baja.",
+      "Si estabas haciendo aportes de jubilación y obra social mediante el monotributo, cuando la baja se haga efectiva, finalizarán también los aportes.",
+      "Si ya no reunís las condiciones por las cuales te inscribiste como monotributista, además de estar obligado a inscribirte en el Régimen General, también estás obligado a comunicar la exclusión dentro de los 15 días hábiles siguientes."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/darme-de-baja-en-el-monotributo",
+      "titulo": "Darme de baja en el monotributo | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T05:33:32.261Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El mes en el que se solicita la baja debe quedar pago para que la baja se haga efectiva a partir del mes siguiente."
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-licencia-de-taxi",
+    "nombre": "Solicitud de licencia de taxi",
+    "nombre_busqueda": "Licencia de taxi Balcarce",
+    "resumen": "Para habilitar una licencia de taxi en Balcarce, necesitás un vehículo tipo sedan de menos de 10 años, ser dueño del mismo y tener domicilio en la ciudad o partido desde hace al menos dos años.",
+    "sinonimos": [
+      "Habilitación de taxi",
+      "Licencia de taxi Balcarce",
+      "Permiso para conducir taxi"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "tasa-inmobiliaria-y-servicios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060063",
+  "organismo": {
+    "nombre": "Municipalidad de Balcarce",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que posean un vehículo tipo sedan de 4 o 5 puertas con un máximo de 10 años de antigüedad.",
+      "Personas que acrediten el dominio del 100% del vehículo que desea habilitar.",
+      "Personas que acrediten domicilio real en la Ciudad y/o Partido de Balcarce con una antigüedad mínima de 2 años al momento de solicitar dicha licencia."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Libreta Sanitaria (Inspección General).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Licencia de conducir con categoría D1.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación del Tribunal de Faltas (Dirección de Recursos).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de domicilio (Registro civil).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Inscripción en Afip y Arba con el código de actividad (492120).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tarjeta verde y título de la propiedad del vehículo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Póliza de Seguro contratada con responsabilidad civil, daños a tercero obligatorios sumados a la responsabilidad civil del chofer, terceros transportados y no transportados, y a cosas de terceros.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Oblea de GNC en caso de contar con equipo a gas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "VTV realizada como transporte público.",
+        "aclaracion": null
+      },
+      {
+        "texto": "4 fotos carnet 4x4.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación requerida en la Dirección de Inspección General."
+      },
+      {
+        "texto": "Realizá el pago de los valores establecidos en la Ord. Impositiva en la Dirección de Recursos."
+      },
+      {
+        "texto": "Recibí la notificación del acto administrativo mediante la Secretaria de Gobierno."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Verificá que el vehículo tenga menos de 10 años de antigüedad antes de iniciar el trámite.",
+      "Asegurá que tu domicilio en Balcarce tenga al menos dos años de antigüedad."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Inspección General",
+      "direccion": "Calle 23 N° 636",
+      "localidad": "Balcarce",
+      "horario": null,
+      "fuente_url": "https://balcarce-app.gob.ar/portal_servicios/servicio/solicitud-de-licencia-de-taxi"
+    },
+    {
+      "nombre": "Dirección de Recursos",
+      "direccion": "Av. Del Valle Nº 602",
+      "localidad": "Balcarce",
+      "horario": null,
+      "fuente_url": "https://balcarce-app.gob.ar/portal_servicios/servicio/solicitud-de-licencia-de-taxi"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://balcarce-app.gob.ar/portal_servicios/servicio/solicitud-de-licencia-de-taxi",
+      "titulo": "Portal de Servicios | Modernizacion Balcarce",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T21:45:51.624Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del pago no se especifica en el texto.",
+    "No se indica si el trámite requiere turno.",
+    "No se especifica el plazo de espera para la notificación."
+  ]
+}

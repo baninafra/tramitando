@@ -1,0 +1,109 @@
+{
+  "tramite": {
+    "slug": "pagar-tasas-municipales-san-vicente",
+    "nombre": "Pagar tasas municipales San Vicente",
+    "nombre_busqueda": "Pagar tasas San Vicente",
+    "resumen": "Regularizá tus tasas municipales con planes de pago, quita del 100% de intereses y multas, o sumá beneficios acumulables desde Mi San Vicente.",
+    "sinonimos": [
+      "Pagar tasas AFIS San Vicente",
+      "Regularizar tasas municipales San Vicente",
+      "Pagar tributos San Vicente"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060770",
+  "organismo": {
+    "nombre": "Municipio San Vicente",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Contribuyentes con tasas vencidas o pendientes.",
+      "Vecinos que quieran consultar su estado de cuenta.",
+      "Comercios e instituciones con deudas tributarias."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de partida, comercio, dominio o identificador correspondiente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Correo electrónico y teléfono de contacto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tipo de tasa: inmueble, comercio, automotor o cementerio.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá desde el botón o escaneá el QR de pago."
+      },
+      {
+        "texto": "Seleccioná el tipo de tasa."
+      },
+      {
+        "texto": "Cargá el número de partida, comercio, dominio o identificador que corresponda."
+      },
+      {
+        "texto": "Elegí si querés cancelar al contado o regularizar en 3 pagos."
+      },
+      {
+        "texto": "Presioná Seleccionar imponible para que el sistema muestre la deuda actual total."
+      },
+      {
+        "texto": "Completá un correo electrónico y un teléfono de contacto."
+      },
+      {
+        "texto": "Presioná Generar recibo y pagar."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate al Palacio Municipal para consultar las alternativas disponibles antes de fin de año."
+      },
+      {
+        "texto": "Si necesitás analizar tu caso, acercate al Palacio Municipal para recibir asesoramiento presencial antes de fin de año."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.sanvicente.gob.ar/campanas/rentas-2026/beneficios-tasas-municipales.html",
+      "titulo": "Opciones de pago y beneficios para tus tasas municipales | AFIS San Vicente",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T15:45:03.283Z"
+    },
+    {
+      "url": "https://recibos.sanvicente.gob.ar/apex/f?p=204:104",
+      "titulo": "Ingreso Anonimo",
+      "bloques": [
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T15:45:03.283Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia de la campaña no se especifica en el texto.",
+    "No se indica si se requiere turno para el pago online."
+  ]
+}

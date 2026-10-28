@@ -1,0 +1,101 @@
+{
+  "tramite": {
+    "slug": "tramitar-reposicion-dni-error-omision-ejemplar-vigente",
+    "nombre": "Tramitar la reposición del DNI por error u omisión en ejemplar vigente",
+    "nombre_busqueda": "Reposición DNI error omisión",
+    "resumen": "Si recibiste tu DNI y al revisarlo encontraste algún error de emisión, defecto de confección o inexistencia de CUIL, vas a tener que tramitar la reposición. Es un trámite gratuito que se realiza en el Registro Civil o en un Centro de Documentación Renaper.",
+    "sinonimos": [
+      "Reposición DNI",
+      "Corrección DNI",
+      "DNI con error"
+    ],
+    "temas": [
+      "dni"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Renaper",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que haya recibido un DNI con errores de emisión, defectos de confección o inexistencia de CUIL.",
+      "Padres o madres de menores de 14 años que tengan un DNI con errores."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI a corregir",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditación del representante legal",
+        "aclaracion": "Si sos menor de 14 años."
+      },
+      {
+        "texto": "Autorización de representación firmada y sellada por la autoridad competente",
+        "aclaracion": "Si sos menor de 14 años y se encuentra en una institución de cuidado u hogar convivencial."
+      },
+      {
+        "texto": "Oficio judicial o testimonio de guarda provisoria con fines de adopción",
+        "aclaracion": "Si sos menor de 14 años y se encuentra en una institución de cuidado u hogar convivencial."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Sacá turno para un Centro de Documentación Renaper en la app Mi Argentina."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en la oficina elegida con la constancia de solicitud de trámite."
+      },
+      {
+        "texto": "Guardá la constancia de solicitud de trámite y hacé el seguimiento online con tu ID desde aquí."
+      },
+      {
+        "texto": "Cuando va el correo a tu domicilio, recibilo vos o alguien mayor de 18 años con la constancia de solicitud de trámite."
+      },
+      {
+        "texto": "Si vas a retiralo a una oficina, presentate con la constancia de solicitud de trámite."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://mi.argentina.gob.ar/turnos/seleccion-turno/1070",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tramitar-la-reposicion-del-dni-por-error-u-omision-en-ejemplar-vigente",
+      "titulo": "Tramitar la reposición del DNI por error u omisión en ejemplar vigente | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T00:39:46.829Z"
+    },
+    {
+      "url": "https://mi.argentina.gob.ar/turnos/seleccion-turno/1070",
+      "titulo": "Ingresar | Mi Argentina",
+      "bloques": [
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T00:39:46.829Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo exacto de espera para la entrega del DNI reposicionado.",
+    "La dirección exacta de los Centros de Documentación Renaper disponibles."
+  ]
+}

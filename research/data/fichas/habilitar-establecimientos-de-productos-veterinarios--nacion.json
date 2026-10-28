@@ -1,0 +1,134 @@
+{
+  "tramite": {
+    "slug": "habilitacion-comercial",
+    "nombre": "Habilitar establecimientos de productos veterinarios",
+    "nombre_busqueda": "Habilitar establecimiento productos veterinarios",
+    "resumen": "Para elaborar o depositar productos veterinarios, necesitás habilitar el establecimiento ante el Senasa. El trámite requiere presentar documentación técnica y municipal, pagar un arancel y puede realizarse en línea o presencialmente.",
+    "sinonimos": [
+      "Habilitación Senasa productos veterinarios",
+      "Registro de plantas propias productos veterinarios"
+    ],
+    "temas": [
+      "habilitacion-comercial"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Interesados en habilitar un establecimiento elaborador o depositario de productos veterinarios."
+    ],
+    "requisitos": [
+      {
+        "texto": "Solicitud de modificación al registro de firmas de productos veterinarios",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tipo de productos a elaborar/fraccionar/depositar según corresponda",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano general de corte transversal y longitudinal en una escala mínima de uno en cien (1:100)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de la habilitación municipal acorde a la actividad a desarrollar a nombre del solicitante ante el Senasa",
+        "aclaracion": null
+      },
+      {
+        "texto": "Esquema indicando instalaciones y equipos fijos",
+        "aclaracion": null
+      },
+      {
+        "texto": "Esquema/ Memoria descriptiva física-edilicia",
+        "aclaracion": null
+      },
+      {
+        "texto": "Registro de domicilio electrónico",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a alta de planta propia."
+      },
+      {
+        "texto": "Solicitá la modificación al registro de firmas de productos veterinarios."
+      },
+      {
+        "texto": "Ingresá los datos del tipo de productos a elaborar/fraccionar/depositar."
+      },
+      {
+        "texto": "Adjuntá el plano general de corte transversal y longitudinal en escala 1:100."
+      },
+      {
+        "texto": "Adjuntá la fotocopia de la habilitación municipal."
+      },
+      {
+        "texto": "Adjuntá el esquema indicando instalaciones y equipos fijos."
+      },
+      {
+        "texto": "Adjuntá el esquema o memoria descriptiva física-edilicia."
+      },
+      {
+        "texto": "Registrá tu domicilio electrónico."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Sanidad Animal - Dirección de Productos Veterinarios",
+      "direccion": "Carlos Calvo N° 66, PB, C1107ADR, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/habilitar-establecimientos-de-productos-veterinarios"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/habilitar-establecimientos-de-productos-veterinarios",
+      "titulo": "Habilitar establecimientos de productos veterinarios | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T16:15:24.916Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T16:15:24.916Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T16:15:24.916Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel de habilitación (SA042) no se especifica en el texto.",
+    "El plazo de resolución del trámite no se especifica en el texto."
+  ]
+}

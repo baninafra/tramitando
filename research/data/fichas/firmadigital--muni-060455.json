@@ -1,0 +1,104 @@
+{
+  "tramite": {
+    "slug": "solicitud-emision-firma-digital",
+    "nombre": "Solicitud y emisión de firma digital",
+    "nombre_busqueda": "firma digital en Las Flores",
+    "resumen": "Solicitá la emisión presencial de un certificado de firma digital en Las Flores. Para iniciar, necesitás un token que cumpla con las especificaciones indicadas y DNI, además de número de CUIL o CUIT.",
+    "sinonimos": [
+      "sacar la firma digital",
+      "certificado de firma digital"
+    ],
+    "temas": [
+      "firma-digital"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060455",
+  "organismo": {
+    "nombre": "Autoridad de Registro de Las Flores",
+    "sigla": "AR",
+    "web": "https://lasflores.gob.ar/modernizacion/firmadigital/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "La página ofrece el servicio de registro de firma digital en Las Flores y para toda la zona."
+    ],
+    "requisitos": [
+      {
+        "texto": "Adquirí un dispositivo criptográfico (token) que cumpla con el estándar FIPS 140-2 nivel 2 o superior y soporte claves RSA de 2048 bits. Consultá a la Autoridad de Registro antes de comprarlo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento Nacional de Identidad (DNI).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de CUIL o CUIT.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Solicitá un turno mediante el formulario o por correo electrónico a firmadigital@lasflores.gob.ar."
+      },
+      {
+        "texto": "Presentate en la Autoridad de Registro para realizar el trámite de manera presencial."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://lasflores.gob.ar/modernizacion/firmadigital/formulario-turno-firmas-digitales/",
+    "plazo": null,
+    "consejos": [
+      "La cadena de certificados emitidos por AC-Raíz permite validar los archivos firmados digitalmente. No es excluyente para tramitar la firma.",
+      "El certificado tiene una validez de 2 años y puede renovarse por otros períodos."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": true,
+      "monto_centavos": null,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://lasflores.gob.ar/modernizacion/firmadigital/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Autoridad de Registro",
+      "direccion": "Av. Rivadavia 385",
+      "localidad": "Las Flores",
+      "horario": null,
+      "fuente_url": "https://lasflores.gob.ar/modernizacion/firmadigital/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://lasflores.gob.ar/modernizacion/firmadigital/",
+      "titulo": "Firma Digital - Las Flores",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:37:38.002Z"
+    },
+    {
+      "url": "https://lasflores.gob.ar/modernizacion/firmadigital/formulario-turno-firmas-digitales/",
+      "titulo": "FORMULARIO - TURNO FIRMAS DIGITALES - Las Flores",
+      "bloques": [
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T14:37:38.002Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa quiénes pueden solicitar el certificado según edad, residencia u otras condiciones.",
+    "La ficha no precisa si el token se compra a través de la Autoridad de Registro ni su costo."
+  ]
+}

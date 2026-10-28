@@ -1,0 +1,79 @@
+{
+  "tramite": {
+    "slug": "habilitacion-comercial",
+    "nombre": "Habilitación de Actividades Económicas",
+    "nombre_busqueda": "Habilitación comercial",
+    "resumen": "Trámite para habilitar actividades económicas en la Municipalidad de Carlos Casares.",
+    "sinonimos": [],
+    "temas": [
+      "comercio-e-industria",
+      "habilitacion-comercial"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060147",
+  "organismo": {
+    "nombre": "Municipalidad de Carlos Casares",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes deseen habilitar actividades económicas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de Oficio para Escribanos",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá el trámite de Habilitación de Actividades Económicas haciendo click en el enlace correspondiente."
+      },
+      {
+        "texto": "Adherite al Comprobante de Pago Electrónico haciendo click en el enlace correspondiente."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://casares.gob.ar/tramites/habilitacion-comercial/",
+      "titulo": "Habilitación Comercial – Municipalidad de Carlos Casares",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T22:04:27.593Z"
+    },
+    {
+      "url": "https://casares.gob.ar/tramites/formulario-de-oficio-de-escribanos/",
+      "titulo": "Formulario de Oficio para Escribanos – Municipalidad de Carlos Casares",
+      "bloques": [
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T22:04:27.593Z"
+    },
+    {
+      "url": "https://casares.gob.ar/tramites/adherite-al-comprobante-de-pago-electronico/",
+      "titulo": "Adherite al Comprobante de Pago Electrónico – Municipalidad de Carlos Casares",
+      "bloques": [
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T22:04:27.593Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos adicionales, plazos, costos, oficinas ni modalidades en el texto."
+  ]
+}

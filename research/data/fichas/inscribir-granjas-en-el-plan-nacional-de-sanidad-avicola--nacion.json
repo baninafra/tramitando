@@ -1,0 +1,84 @@
+{
+  "tramite": {
+    "slug": "inscripcion-granjas-sanidad-avicola",
+    "nombre": "Inscribir granjas en el plan nacional de sanidad avicola",
+    "nombre_busqueda": "Inscribir granjas en el plan nacional de sanidad avicola",
+    "resumen": "Si tenés un establecimiento de producción avícola, reproducción y plantas de incubación, tenés que inscribirlo en el Plan Nacional de Sanidad Avícola. Es obligatorio y se hace en línea declarando tu domicilio electrónico.",
+    "sinonimos": [],
+    "temas": [
+      "animales-y-zoonosis",
+      "castraciones-y-vacunas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Productores que poseen cabañas avícolas de producción y plantas de incubación."
+    ],
+    "requisitos": [
+      {
+        "texto": "Inscripción en el RENAVI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma Trámites a Distancia - TAD."
+      },
+      {
+        "texto": "Completá los datos solicitados."
+      },
+      {
+        "texto": "Subí la documentación solicitada."
+      },
+      {
+        "texto": "Al confirmar el trámite el sistema otorgará un número de expediente que lo identifica y también se podrá observar cada uno de los documentos que se adjuntaron y conforman el trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Para realizar este trámite necesitás declarar tu domicilio electrónico. Los usuarios externos que utilicen servicios o se encuentren inscriptos en registros del SENASA deberán constituirlo mediante el sistema SIGTrámites."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribir-granjas-en-el-plan-nacional-de-sanidad-avicola",
+      "titulo": "Inscribir granjas en el Plan Nacional de Sanidad Avícola | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T17:07:07.213Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T17:07:07.213Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no se especifica en el texto, consultá las Normativas relacionadas con los costos del trámite.",
+    "La fecha de vigencia del trámite no se especifica en el texto, consultá la Resolución Senasa N° 882/2002."
+  ]
+}

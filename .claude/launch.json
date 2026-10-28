@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "web",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev", "-w", "@tramitando/web", "--", "--port", "4321", "--force"],
+      "port": 4321
+    },
+    {
+      "name": "api",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev", "-w", "@tramitando/api", "--", "--persist-to", "C:/Temp/tramitando-d1"],
+      "port": 8787
+    }
+  ]
+}

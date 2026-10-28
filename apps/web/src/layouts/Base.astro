@@ -1,0 +1,182 @@
+---
+import '@fontsource-variable/figtree';
+import '../styles/global.css';
+import Buscador from '../components/Buscador.astro';
+import Icono from '../components/Icono.astro';
+import Ubicacion from '../components/Ubicacion.astro';
+import { USA_DATOS_DE_EJEMPLO, listarCategorias } from '../lib/data';
+
+interface Props {
+  titulo: string;
+  descripcion: string;
+  /** false agrega noindex (fichas municipales sin datos propios, búsquedas, vistas de impresión). */
+  indexar?: boolean;
+  /** Ruta canónica si no es la URL actual. */
+  canonica?: string;
+  /** Objeto schema.org que va en un <script type="application/ld+json">. */
+  jsonld?: object;
+  /** En la portada el buscador grande ya está en la página: la cabecera no lo repite. */
+  portada?: boolean;
+  valorBusqueda?: string;
+  /** Slug del trámite en las fichas: el selector de ubicación lleva a la ficha de ese lugar. */
+  tramite?: string;
+}
+const { titulo, descripcion, indexar = true, canonica, jsonld, portada = false, valorBusqueda, tramite } = Astro.props;
+const urlCanonica = new URL(canonica ?? Astro.url.pathname, Astro.site);
+const tituloCompleto = titulo.includes('tramitando') ? titulo : `${titulo} | tramitando`;
+const categorias = await listarCategorias();
+---
+<!doctype html>
+<html lang="es-AR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script is:inline>document.documentElement.classList.add('js')</script>
+    <title>{tituloCompleto}</title>
+    <meta name="description" content={descripcion} />
+    <link rel="canonical" href={urlCanonica} />
+    {!indexar && <meta name="robots" content="noindex, follow" />}
+    <meta name="color-scheme" content="light dark" />
+    <meta name="theme-color" content="#FFFFFF" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#15191D" media="(prefers-color-scheme: dark)" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="es_AR" />
+    <meta property="og:site_name" content="tramitando" />
+    <meta property="og:title" content={titulo} />
+    <meta property="og:description" content={descripcion} />
+    <meta property="og:url" content={urlCanonica} />
+    <meta property="og:image" content={new URL('/tramitando-logo.svg', Astro.site)} />
+    {jsonld && <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />}
+  </head>
+  <body>
+    <a class="saltar" href="#contenido">Saltar al contenido</a>
+
+    {USA_DATOS_DE_EJEMPLO && (
+      <div class="aviso-ejemplo no-imprimir" role="note">
+        <div class="contenedor"><Icono nombre="triangle-alert" />Versión de prueba: los trámites, montos y direcciones son datos de ejemplo, no reales.</div>
+      </div>
+    )}
+
+    <header class:list={['cabecera no-imprimir', { 'sin-buscador': portada }]}>
+      <div class="contenedor cabecera-fila">
+        <a href="/" class="logo" aria-label="tramitando, ir a la portada">
+          <picture>
+            <source srcset="/tramitando-logo-negativo.svg" media="screen and (prefers-color-scheme: dark)" />
+            <img src="/tramitando-logo.svg" alt="" width="150" height="30" />
+          </picture>
+        </a>
+        {!portada && <div class="cabecera-buscador"><Buscador tamano="compacto" valor={valorBusqueda} /></div>}
+        <div class="cabecera-lugar"><Ubicacion tramite={tramite} /></div>
+        <nav aria-label="Principal" class="cabecera-nav">
+          <a href="/temas">Temas</a>
+          <a href="/como-verificamos">Cómo verificamos</a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="contenido" tabindex="-1">
+      <slot />
+    </main>
+
+    <footer class="pie no-imprimir">
+      <div class="contenedor">
+        <div class="pie-grilla">
+          <div class="pie-intro">
+            <a href="/" class="pie-marca" aria-label="tramitando, ir a la portada">
+              <img src="/tramitando-logo-negativo.svg" alt="" width="1200" height="241" loading="lazy" />
+            </a>
+            <p class="pie-promesa">Tu trámite, claro y sin vueltas. Qué llevar, cuánto cuesta y dónde se hace, con la fuente oficial de cada dato.</p>
+            <nav aria-label="Sobre el sitio" class="pie-col">
+              <h2>Sobre el sitio</h2>
+              <ul class="pie-sitio">
+                <li><a href="/quienes-somos">Quiénes somos</a></li>
+                <li><a href="/como-verificamos">Cómo verificamos</a></li>
+                <li><a href="/aviso-legal">Aviso legal</a></li>
+                <li><a href="/privacidad">Privacidad</a></li>
+              </ul>
+            </nav>
+          </div>
+          <nav aria-label="Temas" class="pie-col pie-temas">
+            <h2>Temas</h2>
+            <ul>{categorias.map((c) => <li><a href={`/temas/${c.slug}`}>{c.nombre}</a></li>)}</ul>
+          </nav>
+        </div>
+        <div class="pie-final">
+          <p class="pie-aviso">
+            Tramitando es un sitio independiente y no pertenece a ningún organismo del Estado. Verificá siempre en la fuente oficial antes de hacer tu trámite.
+          </p>
+        </div>
+        <p class="pie-copy">© {new Date().getFullYear()} tramitando</p>
+      </div>
+    </footer>
+
+    <script>
+      import { mejorarSelectores } from '../scripts/selector';
+      mejorarSelectores();
+
+      // Entradas al hacer scroll: una vez, cuando el elemento asoma. Sin JS todo queda visible.
+      const io = new IntersectionObserver((entradas) => {
+        for (const e of entradas) if (e.isIntersecting) { e.target.classList.add('visible'); io.unobserve(e.target); }
+      }, { rootMargin: '0px 0px -8% 0px', threshold: 0.05 });
+      document.querySelectorAll('[data-revelar]').forEach((el) => io.observe(el));
+    </script>
+  </body>
+</html>
+
+<style>
+  .aviso-ejemplo { background: var(--aviso-fondo); color: var(--aviso); font: var(--t-nota); }
+  .aviso-ejemplo .contenedor { display: flex; gap: var(--espacio-2); align-items: center; padding-block: var(--espacio-2); }
+  .aviso-ejemplo :global(.icono) { width: 16px; height: 16px; }
+
+  .cabecera { background: var(--fondo); }
+  /* Celular: marca y lugar en una fila, el buscador abajo. Los enlaces van al pie. */
+  .cabecera-fila {
+    display: grid; align-items: center; gap: var(--espacio-3) var(--espacio-4);
+    grid-template-columns: auto minmax(0, 1fr); grid-template-areas: 'logo lugar' 'buscador buscador';
+    padding-block: var(--espacio-4);
+  }
+  .sin-buscador .cabecera-fila { grid-template-areas: 'logo lugar'; }
+  .logo { grid-area: logo; display: block; border-radius: 8px; }
+  .logo img { width: 150px; height: auto; }
+  .cabecera-buscador { grid-area: buscador; }
+  .cabecera-lugar { grid-area: lugar; min-width: 0; justify-self: end; }
+  .cabecera-nav { grid-area: nav; display: none; gap: var(--espacio-1); justify-self: end; }
+  .cabecera-nav a { color: var(--tinta); text-decoration: none; font: 600 15px/20px var(--font-sans); padding: var(--espacio-3); border-radius: var(--r-control); transition: background-color var(--t-hover) ease; }
+  @media (hover: hover) { .cabecera-nav a:hover { background: var(--superficie); } }
+  @media (max-width: 479px) { .logo img { width: 124px; } }
+  @media (min-width: 720px) {
+    .cabecera-nav { display: flex; }
+    .cabecera-lugar { justify-self: start; margin-left: var(--espacio-4); }
+    .cabecera-fila { grid-template-columns: auto auto 1fr; grid-template-areas: 'logo lugar nav' 'buscador buscador buscador'; }
+    .sin-buscador .cabecera-fila { grid-template-areas: 'logo lugar nav'; }
+  }
+  @media (min-width: 1000px) {
+    .cabecera:not(.sin-buscador) .cabecera-fila { grid-template-columns: auto minmax(0, 400px) auto 1fr; grid-template-areas: 'logo buscador lugar nav'; }
+    .cabecera:not(.sin-buscador) .cabecera-buscador { margin-left: var(--espacio-4); }
+  }
+
+  main:focus { outline: none; }
+
+  /* Pie: la marca en grande sobre carbón, después lo práctico. */
+  .pie { background: var(--suelo-oscuro); color: #EEF2F6; margin-top: var(--separacion); padding-block: var(--espacio-7) var(--espacio-6); font: var(--t-cuerpo-chico); }
+  .pie a { color: #8DC0EC; }
+  .pie-marca { display: inline-block; border-radius: 12px; }
+  .pie-marca img { width: clamp(180px, 20vw, 260px); height: auto; }
+  .pie-grilla { display: grid; gap: var(--espacio-7); }
+  .pie-intro { display: grid; gap: var(--espacio-5); align-content: start; }
+  .pie-promesa { font: 600 18px/1.45 var(--font-sans); max-width: 32ch; color: #EEF2F6; }
+  .pie-col h2 { font: var(--t-etiqueta); color: #B4BDC7; margin-bottom: var(--espacio-2); }
+  .pie-col ul { list-style: none; padding: 0; display: grid; }
+  .pie-col a { display: inline-block; padding-block: 4px; color: #EEF2F6; text-decoration: none; font-size: 15px; }
+  /* Los temas en columnas: con 30 temas una sola lista larga quedaba desproporcionada. */
+  .pie-temas ul { display: block; columns: 2; column-gap: var(--espacio-6); }
+  .pie-temas li { break-inside: avoid; }
+  .pie-sitio { display: flex !important; flex-wrap: wrap; gap: 0 var(--espacio-5); }
+  @media (hover: hover) { .pie-col a:hover { text-decoration: underline; text-underline-offset: 4px; } }
+  .pie-final { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: var(--espacio-5); margin-top: var(--espacio-7); padding: var(--espacio-5) var(--espacio-6); border-radius: var(--r-panel); background: #262C33; }
+  .pie-aviso { font: var(--t-cuerpo); max-width: 62ch; color: #EEF2F6; }
+  .pie-copy { margin-top: var(--espacio-5); color: #B4BDC7; }
+  .pie :focus-visible { outline-color: #8DC0EC; }
+  @media (min-width: 900px) { .pie-grilla { grid-template-columns: minmax(0, 1fr) minmax(0, 2fr); } .pie-temas ul { columns: 3; } }
+</style>

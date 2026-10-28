@@ -1,0 +1,159 @@
+{
+  "tramite": {
+    "slug": "licencia-de-conducir-profesional",
+    "nombre": "Licencia de conducir profesional",
+    "nombre_busqueda": "Licencia de conducir profesional",
+    "resumen": "Trámite para obtener o renovar la licencia de conducir profesional según la actividad del conductor, requiriendo exámenes, antecedentes penales y pago de tasas.",
+    "sinonimos": [
+      "Licencia profesional",
+      "Licencia de conducir profesional"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060274",
+  "organismo": {
+    "nombre": "Municipalidad de Florencio Varela",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas mayores de 21 años con experiencia mínima de un año en conducir vehículo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Licencia a vencer, original y dos fotocopias.",
+        "aclaracion": "Es excluyente tener domicilio en Florencio Varela."
+      },
+      {
+        "texto": "Documento Nacional de Identidad (DNI), original y dos copias.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estudios psicofísicos completos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de antecedentes penales de Registro de reincidencia y logística criminal.",
+        "aclaracion": "Duración de 30 días desde su emisión."
+      },
+      {
+        "texto": "Pago del sellado nacional, provincial, municipal y libre deuda.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Solicitá el certificado de antecedentes penales en www.dnrec.jus.gov.ar o a través del sitio web argentina.gob.ar."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la licencia a vencer, original y dos fotocopias."
+      },
+      {
+        "texto": "Presentá el DNI, original y dos copias."
+      },
+      {
+        "texto": "Rendí los exámenes visual, teórico y práctico en el predio AGFA, sito en Batalla de Maipú y Álvarez Thomas."
+      },
+      {
+        "texto": "Presentá estudios psicofísicos completos."
+      },
+      {
+        "texto": "Presentá certificado de antecedentes penales de Registro de reincidencia y logística criminal."
+      },
+      {
+        "texto": "Rendí prueba práctica de manejo."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://www.varela.gob.ar/licenciasdeconducir/turnos.aspx",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 4448750,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.varela.gob.ar/licenciasdeconducir/profesional.aspx"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 5265750,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.varela.gob.ar/licenciasdeconducir/profesional.aspx"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Predio AGFA",
+      "direccion": "Batalla de Maipú y Álvarez Thomas",
+      "localidad": "Batalla de Maipú y Álvarez Thomas",
+      "horario": null,
+      "fuente_url": "https://www.varela.gob.ar/licenciasdeconducir/profesional.aspx"
+    },
+    {
+      "nombre": "Centro de capacitación para categoría E2",
+      "direccion": "Camino Costanera e/ calle 10 y 12",
+      "localidad": "Punta Lara",
+      "horario": null,
+      "fuente_url": "https://www.varela.gob.ar/licenciasdeconducir/profesional.aspx"
+    },
+    {
+      "nombre": "Centro de capacitación para cargas peligrosas",
+      "direccion": "Coronel Salvadores Nº 1343",
+      "localidad": "Barracas",
+      "horario": null,
+      "fuente_url": "https://www.varela.gob.ar/licenciasdeconducir/profesional.aspx"
+    },
+    {
+      "nombre": "Jefatura General de Compras y Suministros",
+      "direccion": "Calle 25 de Mayo Nº 2725",
+      "localidad": "San Juan Bautista",
+      "horario": null,
+      "fuente_url": "https://www.varela.gob.ar/licenciasdeconducir/profesional.aspx"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.varela.gob.ar/licenciasdeconducir/profesional.aspx",
+      "titulo": "Otorgamiento Renovación Profesional Turnos / Aranceles Otros trámites",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T13:00:50.958Z"
+    },
+    {
+      "url": "https://www.varela.gob.ar/licenciasdeconducir/turnos.aspx",
+      "titulo": "TURNOS/ARANCELES 2026",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T13:00:50.958Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Plazo de tramitación",
+    "Dirección exacta de la oficina de trámite principal",
+    "Horario de atención de la oficina de trámite principal",
+    "Requisitos específicos para renovación"
+  ]
+}

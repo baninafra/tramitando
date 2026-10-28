@@ -1,0 +1,119 @@
+{
+  "tramite": {
+    "slug": "obtener-matricula-de-martillero",
+    "nombre": "Obtener matrícula de martillero",
+    "nombre_busqueda": "Obtener matrícula de martillero",
+    "resumen": "Para obtener la matrícula de martillero necesitás presentar un formulario, varios certificados y abonar una tasa. El trámite se realiza presencialmente en la Mesa de Entradas.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes deseen obtener la matrícula de martillero."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de Matrícula de Martillero completado e impreso.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado emitido por el Registro Nacional de Reincidencia acreditando la inexistencia de antecedentes penales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado del Archivo de Actuaciones Notariales sobre pedidos de quiebra contra el interesado o presentación en concurso preventivo del mismo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de presentación indicando, con carácter de declaración jurada, los datos personales del solicitante (nombre y apellido, número de documento nacional de identidad, fecha y lugar de nacimiento, estado civil, nacionalidad, domicilio real y domicilio comercial dentro del radio de la Ciudad Autónom…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Firma certificada judicial o notarialmente del solicitante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el presentante es menor de edad, copia auténtica del instrumento de la emancipación civil o la autorización para el ejercicio del comercio con la constancia de su inscripción.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de depósito bancario en pesos argentinos, intransferible a la orden de la Inspección General de Justicia, en el Banco de la Nación Argentina (Cuenta Nº 00000790/30) o seguro de caución.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia certificada y legalizada del título universitario conforme a la Ley Nº 20.266, modificada por la Ley Nº 25.028 o copia auténtica del certificado de aprobación del examen de idoneidad si lo hubiere obtenido con anterioridad a la vigencia de dicha reforma legal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el examen de idoneidad se rindió en jurisdicción distinta de la Ciudad de Buenos Aires, fotocopia certificada del título de enseñanza secundaria expedido o revalidado en la República junto con el certificado de aprobación del examen de idoneidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia reducida de margen ancho (8 cms) de la documentación indicada en los apartados B, C, D, E, F y G anteriores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago de la tasa retributiva de servicios a nombre de quien lo solicita.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Completá los formularios, emití las tasas y trámites detallados y solicitá turno para Mesa de Entradas."
+      },
+      {
+        "texto": "Presentá la documentación junto al resto de los requisitos en la Mesa de Entradas."
+      },
+      {
+        "texto": "Retirá el trámite finalizado previa solicitud de turno."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 25000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/obtener-matricula-de-martillero"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-matricula-de-martillero",
+      "titulo": "Obtener matrícula de martillero | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T06:38:31.751Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa retributiva de servicios no está especificado en el texto, solo se menciona que se obtiene desde el servicio de emisión de tasas de la página web de IGJ y se abona en cualquier sucursal del Banco Nación Argentina o en las cajas de IGJ.",
+    "El plazo de duración del trámite completo no está especificado en el texto.",
+    "La fecha de vigencia del trámite no está especificada en el texto."
+  ]
+}

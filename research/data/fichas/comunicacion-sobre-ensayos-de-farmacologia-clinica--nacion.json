@@ -1,0 +1,94 @@
+{
+  "tramite": {
+    "slug": "comunicacion-ensayos-farmacologia-clinica",
+    "nombre": "Comunicación sobre ensayos de farmacología clínica",
+    "nombre_busqueda": "Comunicación ensayos farmacología clínica ANMAT",
+    "resumen": "Trámite posterior a la autorización de un estudio de farmacología clínica para notificar a ANMAT información pertinente como material de reclutamiento, cancelaciones o resultados finales.",
+    "sinonimos": [
+      "Comunicación a DERM",
+      "Notificación ensayo clínico ANMAT"
+    ],
+    "temas": [
+      "salud-y-prevencion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMAT",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El patrocinador del estudio"
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota con la comunicación correspondiente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Disposición autorizante del estudio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Adjunto con la información correspondiente",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Accedé a TAD"
+      },
+      {
+        "texto": "Ingresá con tu usuario y contraseña"
+      },
+      {
+        "texto": "Buscá el trámite con código ANMA00206"
+      },
+      {
+        "texto": "Cargá la documentación solicitada"
+      },
+      {
+        "texto": "Generá el expediente"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si surgieran observaciones, se realizará un corte de plazos para que el patrocinador presente su respuesta",
+      "Al finalizar, el patrocinador será notificado mediante la toma de conocimiento de la comunicación presentada"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/comunicacion-sobre-ensayos-de-farmacologia-clinica",
+      "titulo": "Comunicación sobre ensayos de farmacología clínica | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:52:46.394Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T04:52:46.394Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto del trámite es gratis",
+    "El plazo exacto de evaluación no está especificado en el texto",
+    "La fecha de vigencia de la disposición autorizante no está especificada en el texto"
+  ]
+}

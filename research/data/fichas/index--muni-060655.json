@@ -1,0 +1,120 @@
+{
+  "tramite": {
+    "slug": "reclamos-vecinales",
+    "nombre": "Reclamos vecinales",
+    "nombre_busqueda": "Reclamos vecinales",
+    "resumen": "Gestioná nuevos reclamos o consultá el estado de los existentes a través del sistema de servicios públicos del municipio.",
+    "sinonimos": [
+      "Sistema de Reclamos",
+      "Gestión de Reclamos",
+      "Reclamos por luminarias, bacheo, limpieza o residuos"
+    ],
+    "temas": [
+      "reclamos-vecinales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060655",
+  "organismo": {
+    "nombre": "Municipio de Verónica Punta del Indio",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier ciudadano que desee gestionar un reclamo o consultar el estado de uno existente."
+    ],
+    "requisitos": [
+      {
+        "texto": "Apellido y Nombre",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dirección (Buscador)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Localidad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Teléfono",
+        "aclaracion": null
+      },
+      {
+        "texto": "Email",
+        "aclaracion": null
+      },
+      {
+        "texto": "Detalle del Problema",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ubicación Exacta",
+        "aclaracion": null
+      },
+      {
+        "texto": "Foto del Reclamo",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sistema de gestión de reclamos."
+      },
+      {
+        "texto": "Seleccioná si querés iniciar un nuevo reclamo o consultar el estado de uno existente."
+      },
+      {
+        "texto": "Si es nuevo, completá la información detallada solicitada: Apellido y Nombre, Dirección, Localidad, Teléfono, Email, Detalle del Problema y Ubicación Exacta."
+      },
+      {
+        "texto": "Opcionalmente, subí una foto del reclamo y un comprobante de pago si tenés cupón."
+      },
+      {
+        "texto": "Hacé clic en Enviar para finalizar la gestión."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://puntaindio.gov.ar/pages/reclamos/index.php",
+      "titulo": "Gestión de Reclamos | Servicios Públicos",
+      "bloques": [
+        "resumen",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T04:18:37.076Z"
+    },
+    {
+      "url": "https://puntaindio.gov.ar/pages/reclamos/reclamo.php",
+      "titulo": "Sistema de Reclamos | Municipio",
+      "bloques": [
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T04:18:37.076Z"
+    },
+    {
+      "url": "https://puntaindio.gov.ar/pages/reclamos/repetir.php",
+      "titulo": "Reiterar Reclamo - Servicios Públicos",
+      "bloques": [
+        "quien",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T04:18:37.076Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos de costos.",
+    "No se especifican plazos de respuesta.",
+    "No se especifican direcciones de oficinas presenciales."
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "tramite": {
+    "slug": "partidas-y-actas",
+    "nombre": "Solicitud de partidas",
+    "nombre_busqueda": "Solicitud de partidas",
+    "resumen": "Para obtener partidas de nacimiento, matrimonio o defunción, necesitás el DNI original, el certificado de nacimiento o matrimonio y la partida original. Se puede hacer online o presencial.",
+    "sinonimos": [
+      "Solicitud de partida",
+      "Obtener partida",
+      "Partida de nacimiento",
+      "Partida de matrimonio",
+      "Partida de defunción"
+    ],
+    "temas": [
+      "partidas-y-actas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "prov-06",
+  "organismo": {
+    "nombre": "Ministerio de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en obtener una partida."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de nacimiento o matrimonio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Partida original.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal de trámites."
+      },
+      {
+        "texto": "Buscá el trámite de solicitud de partidas."
+      },
+      {
+        "texto": "Completá los datos requeridos."
+      },
+      {
+        "texto": "Realizá el pago si corresponde."
+      },
+      {
+        "texto": "Recibí tu partida digital."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://portal.gba.gob.ar/tramite/13197",
+      "titulo": "Portal de Trámites",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T18:00:48.396Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se especifica que se necesita el DNI original, pero no se detalla si se aceptan copias o si hay requisitos adicionales para menores o casos especiales.",
+    "No se indican plazos de entrega ni costos asociados al trámite.",
+    "No se especifican las oficinas donde se puede realizar el trámite presencial ni los requisitos específicos para ese modo."
+  ]
+}

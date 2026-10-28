@@ -1,0 +1,105 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-partidas",
+    "nombre": "Solicitud de Partidas",
+    "nombre_busqueda": "Solicitud de Partidas",
+    "resumen": "Este trámite permite solicitar copias de partidas de nacimiento, matrimonio, defunción y uniones convivenciales inscriptas en la Provincia de Córdoba de forma digital.",
+    "sinonimos": [
+      "Solicitud de actas",
+      "Búsqueda de actas"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141498",
+  "organismo": {
+    "nombre": "Municipalidad de Tancacha",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan una cuenta de Ciudadano Digital."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener una cuenta de Ciudadano Digital.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos del acta necesarios para que la búsqueda sea exitosa.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá la solicitud de actas en el servicio Mi Registro Civil de la plataforma Ciudadano Digital (CiDi)."
+      },
+      {
+        "texto": "Generá tu cuenta de CiDi si no la tenés."
+      },
+      {
+        "texto": "Verificá tu cuenta siguiendo las instrucciones del link indicado."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Indicá en qué localidad está inscripta originalmente el acta, además de los datos de número de acta, tomo, serie, folio y año, para garantizar mejores resultados en la búsqueda.",
+      "Las actas legalizadas se emiten únicamente con firma digital, la cual es igual de válida y eficaz que la firma ológrafa (manuscrita).",
+      "La firma digital está avalada por la Ley 25.506 del año 2001.",
+      "Todas las notificaciones sobre el proceso de gestión y búsqueda de la partida que solicitaste te llegarán de manera digital al mail asociado a la cuenta de CiDi que utilizaste para pedir la partida.",
+      "Para descargar la partida podés hacerlo desde la sección «Mis trámites» en el servicio «Mi Registro Civil», solo con una cuenta nivel 1."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 425000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.tancacha.gob.ar/solicitudPartidas.html"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 580000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.tancacha.gob.ar/solicitudPartidas.html"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.tancacha.gob.ar/solicitudPartidas.html",
+      "titulo": "Municipalidad de Tancacha",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T09:45:45.461Z"
+    },
+    {
+      "url": "https://cidi.cba.gov.ar/portal-publico/?App=579",
+      "titulo": "Ciudadano Digital",
+      "bloques": [
+        "pasos"
+      ],
+      "consultada_en": "2026-10-26T09:45:45.461Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto menciona que si no contás con una cuenta de CiDi, el primer paso es que generes tu cuenta, pero no detalla los pasos específicos para generarla ni los requisitos para generarla.",
+    "El texto menciona que incluso luego podrás pasar a nivel 2 (verificar tu cuenta) siguiendo las instrucciones de este link, pero no detalla los pasos específicos para verificar la cuenta ni los requisitos para verificarla."
+  ]
+}

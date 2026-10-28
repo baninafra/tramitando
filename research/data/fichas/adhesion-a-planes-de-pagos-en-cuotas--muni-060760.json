@@ -1,0 +1,120 @@
+{
+  "tramite": {
+    "slug": "adhesion-a-planes-de-pagos-en-cuotas",
+    "nombre": "Adhesión a planes de pagos en cuotas",
+    "nombre_busqueda": "Adherir al débito automático",
+    "resumen": "Trámite para unirse al pago por débito automático de tasas de servicios municipales o de rodados. Se puede hacer online o presencialmente.",
+    "sinonimos": [
+      "Adherir al débito automático",
+      "Unirse al débito automático",
+      "Plan de pagos TSM",
+      "Plan de pagos TISH",
+      "Plan de pagos Rodados"
+    ],
+    "temas": [
+      "planes-de-pago-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060760",
+  "organismo": {
+    "nombre": "Municipalidad San Miguel",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de tasas de servicios municipales o de rodados con cuotas adeudadas.",
+      "Gestores autorizados por el titular."
+    ],
+    "requisitos": [
+      {
+        "texto": "TISH: Contar con todas las declaraciones juradas de TISH de las cuotas adeudas realizadas en el portal de autogestión.",
+        "aclaracion": null
+      },
+      {
+        "texto": "TISH: Si sos menor de edad, presentá DNI anterior y acta de nacimiento.",
+        "aclaracion": "Si sos menor de edad."
+      },
+      {
+        "texto": "TSM: Presentar fotocopia de escritura o boleto de compra/venta debidamente sellado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "TSM: Presentar fotocopia de DNI del titular en caso de gestor (matrícula y DNI).",
+        "aclaracion": "Si sos gestor."
+      },
+      {
+        "texto": "Rodados: Presentar fotocopia de escritura o boleto de compra/venta debidamente sellado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Rodados: Presentar fotocopia de DNI del titular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Rodados: Si sos gestor, presentá matrícula y DNI.",
+        "aclaracion": "Si sos gestor."
+      },
+      {
+        "texto": "Abonar la 1º cuota en el mismo momento del trámite.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al Portal de Pagos con tu usuario y clave web."
+      },
+      {
+        "texto": "Seleccioná el Plan de Pagos entre las opciones ofrecidas."
+      },
+      {
+        "texto": "Firmá el convenio luego que el empleado haya cargado los datos en el sistema."
+      },
+      {
+        "texto": "Consolidá el convenio abonando la 1º cuota del mismo."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Dirigite al sector de TSM con la documentación solicitada en el item Requisitos."
+      },
+      {
+        "texto": "Seleccioná el Plan de Pagos entre las opciones ofrecidas."
+      },
+      {
+        "texto": "Firmá el convenio luego que el empleado haya cargado los datos en el sistema."
+      },
+      {
+        "texto": "Dirigite a las cajas para consolidar el convenio abonando la 1º cuota del mismo."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.msm.gov.ar/guia-tramites/economia-finanzas/adhesion-a-planes-de-pagos-en-cuotas/",
+      "titulo": "Adhesión a planes de pagos en cuotas TSM/TISH/RODADOS - Municipalidad San Miguel",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T13:05:30.978Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica si se requiere turno para realizar el trámite.",
+    "El texto no especifica la fecha de vigencia del trámite."
+  ]
+}

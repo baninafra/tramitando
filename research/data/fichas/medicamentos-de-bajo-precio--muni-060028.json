@@ -1,0 +1,78 @@
+{
+  "tramite": {
+    "slug": "medicamentos-y-farmacia-municipal",
+    "nombre": "Medicamentos de bajo costo",
+    "nombre_busqueda": "Medicamentos de bajo costo",
+    "resumen": "Trámite municipal para obtener medicamentos esenciales de bajo costo o gratuitos, previo cumplimiento de requisitos médicos y sociales.",
+    "sinonimos": [],
+    "temas": [
+      "medicamentos-y-farmacia-municipal",
+      "salud-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060028",
+  "organismo": {
+    "nombre": "Municipio de Almirante Brown",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas sin cobertura médica que deseen acceder a medicamentos esenciales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Receta médica realizada en el Recetario único, firmada y sellada por un médico/a registrado/a en el resumen de historia clínica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI donde conste el domicilio en la provincia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación negativa de ANSES que demuestre que la persona no cuenta con Obra Social o Prepaga.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá los requisitos en la CAPS 29."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "CAPS 29",
+      "direccion": "Manuel de Lavardén 131",
+      "localidad": "Don Orione",
+      "horario": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/medicamentos-de-bajo-precio/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.brown.gob.ar/tramites/medicamentos-de-bajo-precio/",
+      "titulo": "Medicamentos de Bajo Costo",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien",
+        "donde",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T01:45:08.266Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el monto del costo.",
+    "No se especifica el plazo de atención.",
+    "No se especifica si se requiere turno."
+  ]
+}

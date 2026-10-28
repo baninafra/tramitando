@@ -1,0 +1,122 @@
+{
+  "tramite": {
+    "slug": "juzgado-de-faltas",
+    "nombre": "Juzgado de Faltas",
+    "nombre_busqueda": "Juzgado de Faltas San Fernando",
+    "resumen": "El Juzgado de Faltas juzga las infracciones a las normas municipales, nacionales y provinciales. Se tramitan causas por tránsito, habilitaciones, construcciones, zoonosis y ocupación del espacio público.",
+    "sinonimos": [
+      "Juzgado Municipal de Faltas",
+      "Contravenciones municipales"
+    ],
+    "temas": [
+      "juzgado-de-faltas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060749",
+  "organismo": {
+    "nombre": "Municipio de San Fernando",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona imputada por infracciones a las normas municipales, nacionales o provinciales aplicables al municipio."
+    ],
+    "requisitos": [
+      {
+        "texto": "Presentarse con DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Registro de conducir y documentación del vehículo.",
+        "aclaracion": "Solo para infracciones de tránsito."
+      },
+      {
+        "texto": "Factibilidad emitida por el Área de Habilitaciones, contrato de locación o título de propiedad del inmueble.",
+        "aclaracion": "Solo para infracciones de comercio."
+      },
+      {
+        "texto": "Documentación relacionada con habilitaciones, construcciones, zoonosis, bromatología, ocupación del espacio público, podas o extracciones de árboles de la vía pública sin permiso municipal.",
+        "aclaracion": "Para otras infracciones."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Tomar conocimiento de las infracciones que se le imputan."
+      },
+      {
+        "texto": "Solicitar y efectuar el pago voluntario."
+      },
+      {
+        "texto": "Presentar el descargo por escrito."
+      },
+      {
+        "texto": "Realizar otros trámites afines."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": "https://www.sanfernando.gob.ar/municipio/secretarias/secretaria-de-gobierno/juzgado-de-faltas",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "Tramitación de expediente ante el Juzgado de Faltas",
+      "gratis": false,
+      "monto_centavos": 144060,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.sanfernando.gob.ar/municipio/secretarias/secretaria-de-gobierno/juzgado-de-faltas"
+    },
+    {
+      "modalidad": "Certificado de libre deuda por faltas",
+      "gratis": false,
+      "monto_centavos": 29000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.sanfernando.gob.ar/municipio/secretarias/secretaria-de-gobierno/juzgado-de-faltas"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Centro Municipal de Tránsito y Gestión",
+      "direccion": "Colectora Reguera 1447",
+      "localidad": "Colectora Reguera 1447",
+      "horario": null,
+      "fuente_url": "https://www.sanfernando.gob.ar/municipio/secretarias/secretaria-de-gobierno/juzgado-de-faltas"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.sanfernando.gob.ar/municipio/secretarias/secretaria-de-gobierno/juzgado-de-faltas",
+      "titulo": "San Fernando Municipio - Juzgado de Faltas",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T11:38:49.429Z"
+    },
+    {
+      "url": "https://www.sanfernando.gob.ar/municipio/secretarias/secretaria-de-gobierno/turnos-juzgado-de-faltas",
+      "titulo": "San Fernando Municipio - Turnos Juzgado de Faltas",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T11:38:49.429Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de las costas por la tramitación de expediente varía según la gravedad del hecho y se establece entre $1.440,60 y $10.808,20.",
+    "La fecha de vigencia de la ordenanza impositiva vigente no se especifica en el texto.",
+    "No se indica el plazo de resolución de las causas."
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "tramite": {
+    "slug": "renovacion-de-licencia",
+    "nombre": "Renovación de licencia particular",
+    "nombre_busqueda": "Renovar licencia de conducir",
+    "resumen": "Para renovar tu licencia particular si está por vencer o venció hace menos de 90 días, necesitás cumplir requisitos específicos y pagar tasas. El trámite se hace online y te envían la licencia a tu domicilio.",
+    "sinonimos": [
+      "Renovación de licencia de conducir",
+      "Renovación de carnet de conducir"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060763",
+  "organismo": {
+    "nombre": "Municipalidad de San Nicolás de los Arroyos",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Ser mayor de 18 años y conocer tu grupo sanguíneo.",
+      "Tener DNI con domicilio en San Nicolás.",
+      "No poseer multas en el Partido de San Nicolás de los Arroyos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Licencia anterior.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado médico que indique que estás apto para conducir.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Comunicate a través de WhatsApp para comenzar tu trámite."
+      },
+      {
+        "texto": "Ingresá desde acá y seleccioná la opción licencia de conducir."
+      },
+      {
+        "texto": "Validá tu identidad."
+      },
+      {
+        "texto": "Tendrás que cargar tu número de CUIL y sacarte una selfie, que es la misma foto que luego se imprimirá en tu licencia."
+      },
+      {
+        "texto": "Seguí los pasos que te indique el asistente y enviá toda la documentación requerida."
+      },
+      {
+        "texto": "En el caso de poseer multas, recibirás las boletas para regularizar tu situación."
+      },
+      {
+        "texto": "Una vez realizado el pago, no olvides informarlo ingresando al menú principal del chat, opción INFRACCIONES VEHICULARES y luego INFORMAR PAGO."
+      },
+      {
+        "texto": "También tendrás que adjuntar la foto del certificado médico que indique que estás apto para conducir."
+      },
+      {
+        "texto": "Por último, se te enviará un link para completar una Declaración Jurada."
+      },
+      {
+        "texto": "Seleccioná la dirección donde querés recibir tu licencia."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 2231300,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.sannicolasciudad.gob.ar/tramites/licencia-de-conducir/renovacion-de-licencia"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.sannicolasciudad.gob.ar/tramites/licencia-de-conducir/renovacion-de-licencia",
+      "titulo": "Renovación de licencia particular | Licencia de conducir | Trámites | San Nicolás Ciudad",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T15:38:02.908Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo exacto de renovación no está especificado en el texto, solo se menciona que debe hacerse si la licencia está por vencer dentro del próximo mes o venció hace menos de 90 días."
+  ]
+}

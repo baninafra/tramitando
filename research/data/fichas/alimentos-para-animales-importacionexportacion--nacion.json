@@ -1,0 +1,149 @@
+{
+  "tramite": {
+    "slug": "alimentos-para-animales-importacionexportacion",
+    "nombre": "Alimentos para animales. Importación/exportación",
+    "nombre_busqueda": "Alimentos para animales importación exportación",
+    "resumen": "Para importar o exportar alimentos para animales, necesitás realizar el trámite ante el Senasa en línea completando el formulario de solicitud de inscripción y adjuntando la documentación correspondiente.",
+    "sinonimos": [],
+    "temas": [
+      "bromatologia-y-alimentos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Interesado"
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento único aduanero",
+        "aclaracion": null
+      },
+      {
+        "texto": "Protocolos de análisis de los productos solicitados",
+        "aclaracion": null
+      },
+      {
+        "texto": "Factura definitiva",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado sanitario de origen (en caso de que los productos a importarse tengan ingredientes de origen animal)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cupones de pago",
+        "aclaracion": null
+      },
+      {
+        "texto": "Instructivos de aprobados por la DNC",
+        "aclaracion": null
+      },
+      {
+        "texto": "Lista de empaque",
+        "aclaracion": null
+      },
+      {
+        "texto": "Composición cualicuantitativa (solo si contienen soja y superen 30% de proteína bruta)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización de exportación de alimentos para animales",
+        "aclaracion": null
+      },
+      {
+        "texto": "Factura proforma o factura definitiva",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cupones de pago abonados",
+        "aclaracion": null
+      },
+      {
+        "texto": "Lista de empaque (cuando la factura proforma o factura definitiva no cuente con un detalle de la cantidad de envases y su peso o volumen)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de solicitud de autorización de exportación firmada por apoderado o DT",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la Plataforma Trámites a Distancia (TAD)"
+      },
+      {
+        "texto": "Completá el formulario de solicitud de inscripción"
+      },
+      {
+        "texto": "Adjuntá la documentación"
+      },
+      {
+        "texto": "Vas a recibir la confirmación en tu correo electrónico"
+      },
+      {
+        "texto": "Aboná el arancel que corresponda, ver medios de pago habilitados de Senasa"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Para poder importar alimentos para animales, estos deben cumplir con todos los requisitos sanitarios exigidos y estarán amparados por el certificado veterinario de país de origen emitido por la autoridad oficial.",
+      "Asimismo deberán proceder de establecimientos habilitados por la autoridad veterinaria oficial del país importador.",
+      "Para poder exportar los mismos cumplirán con los requisitos sanitarios establecidos por el país de destino y estarán habilitados por el Senasa."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Coordinación General de Aprobación de Productos Alimenticios para Animales",
+      "direccion": "Azopardo N° 1020, C1107ACE, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/alimentos-para-animales-importacionexportacion"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/alimentos-para-animales-importacionexportacion",
+      "titulo": "Alimentos para animales. Importación/exportación | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-26T04:29:19.393Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T04:29:19.393Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T04:29:19.393Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no se especifica en el texto, solo se indica que se debe abonar según corresponda.",
+    "La fecha de vigencia exacta no se especifica en el texto, solo se menciona la normativa Resolución Senasa N° 594/2015."
+  ]
+}

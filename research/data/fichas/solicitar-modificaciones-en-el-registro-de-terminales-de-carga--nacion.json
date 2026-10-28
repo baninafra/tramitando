@@ -1,0 +1,143 @@
+{
+  "tramite": {
+    "slug": "solicitar-modificaciones-en-el-registro-de-terminales-de-carga",
+    "nombre": "Solicitar modificaciones en el registro de terminales de carga",
+    "nombre_busqueda": "modificación habilitación terminal de carga senasa",
+    "resumen": "Actualizá la habilitación de tu establecimiento de terminal de carga comercial ante el Senasa si cambiás condiciones edilicias, rubros o maquinarias. El trámite incluye inspección fiscalización y entrega de certificado.",
+    "sinonimos": [
+      "modificación habilitación terminal de carga",
+      "actualización registro terminal de carga senasa"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que realicen operaciones de tráfico internacional de mercaderías bajo fiscalización del Senasa."
+    ],
+    "requisitos": [
+      {
+        "texto": "Declarar tu domicilio electrónico mediante el sistema SIGTrámites.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Completar el formulario de actualización de la habilitación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Adjuntar los documentos pertinentes que pueden ser de carácter obligatorio o adicional.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma Trámites a Distancia - TAD."
+      },
+      {
+        "texto": "Aboná el arancel que corresponde y ver los Medios de pago habilitados – Senasa."
+      },
+      {
+        "texto": "Completá el formulario confirmando que los datos sean correctos."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Inspección-Fiscalización del establecimiento de terminal de cargas comerciales verificando que lo solicitado se vea reflejado in situ."
+      },
+      {
+        "texto": "Aprobación del trámite de actualización."
+      },
+      {
+        "texto": "Entrega del certificado de actualización al interesado."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El trámite se realiza dentro del período que el establecimiento de terminal de cargas se encuentra debidamente registrado por Senasa."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Operaciones Coordinación General de Fronteras y Barreras Sanitarias",
+      "direccion": "Av. Paseo Colón N° 367, Piso 7° frente, C1063ACD, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-modificaciones-en-el-registro-de-terminales-de-carga"
+    },
+    {
+      "nombre": "sede del Centro Regional Metropolitano",
+      "direccion": "Azopardo 1020 - CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-modificaciones-en-el-registro-de-terminales-de-carga"
+    },
+    {
+      "nombre": "sede Central",
+      "direccion": "Paseo Colón 367 - CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-modificaciones-en-el-registro-de-terminales-de-carga"
+    },
+    {
+      "nombre": "Laboratorio Central",
+      "direccion": "Talcahuano 1660 – Martínez, Provincia de Buenos Aires",
+      "localidad": "Martínez",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-modificaciones-en-el-registro-de-terminales-de-carga"
+    },
+    {
+      "nombre": "sede del Centro Regional Buenos Aires",
+      "direccion": "Mar de Plata, Provincia de Buenos Aires",
+      "localidad": "Mar de Plata",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-modificaciones-en-el-registro-de-terminales-de-carga"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-modificaciones-en-el-registro-de-terminales-de-carga",
+      "titulo": "Solicitar modificaciones en el registro de terminales de carga | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T10:18:47.717Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T10:18:47.717Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T10:18:47.717Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no se especifica en el texto, consultá las Normativas relacionadas con los costos del trámite.",
+    "La fecha de vigencia del trámite se define por el período de registro del establecimiento, no hay una fecha fija."
+  ]
+}

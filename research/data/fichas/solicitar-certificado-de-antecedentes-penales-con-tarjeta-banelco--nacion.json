@@ -1,0 +1,165 @@
+{
+  "tramite": {
+    "slug": "solicitar-certificado-de-antecedentes-penales-con-tarjeta-banelco",
+    "nombre": "Solicitar certificado de antecedentes penales con tarjeta Banelco",
+    "nombre_busqueda": "Certificado de antecedentes penales tarjeta Banelco",
+    "resumen": "Si tenés DNI argentino y más de 18 años, podés tramitarlo en línea con tu tarjeta Banelco. El certificado es un documento electrónico que certifica que no tenés antecedentes penales pendientes.",
+    "sinonimos": [
+      "Certificado de Antecedentes Penales",
+      "CAP",
+      "Certificado de antecedentes penales con tarjeta Banelco"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro Nacional de Reincidencia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas mayores de 18 años con DNI argentino.",
+      "Extranjeros mayores de 18 años (tramitación presencial)."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento Nacional de Identidad emitido por el Registro Nacional de las Personas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cuenta de correo electrónico a tu nombre.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tarjeta Banelco a tu nombre.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Original y fotocopia de documento de identidad de tu país, pasaporte o carta de nacionalidad (para extranjeros).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD Reincidencia y seleccioná el banco que emitió tu tarjeta Banelco."
+      },
+      {
+        "texto": "Informá tu correo electrónico."
+      },
+      {
+        "texto": "Hacé clic en el enlace que aparece en el mensaje de validación de dirección."
+      },
+      {
+        "texto": "Completá el formulario en línea con tus datos personales (sin acentos), el banco y la modalidad de entrega."
+      },
+      {
+        "texto": "Recibí otro correo electrónico con tus datos confirmados."
+      },
+      {
+        "texto": "Ingresá a PagoMisCuentas.com o a la sección de pago de servicios de tu homebanking y aboná 'Reg Nac Reincidencia'."
+      },
+      {
+        "texto": "Recibí un correo electrónico con la confirmación de la acreditación de tu pago."
+      },
+      {
+        "texto": "Descargá tu certificado de antecedentes penales desde el último correo electrónico recibido."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La vigencia del certificado es de 5 días hábiles desde que recibiste el certificado.",
+      "Consultá en el organismo donde vas a presentarlo sobre la vigencia.",
+      "Si tenés antecedentes, te van a brindar la copia de los datos que se encuentran en el Poder Judicial."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 850000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-antecedentes-penales-con-tarjeta-banelco"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 480000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-antecedentes-penales-con-tarjeta-banelco"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 240000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-antecedentes-penales-con-tarjeta-banelco"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 100000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-antecedentes-penales-con-tarjeta-banelco"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-antecedentes-penales-con-tarjeta-banelco",
+      "titulo": "Solicitar certificado de antecedentes penales con tarjeta Banelco | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:06:02.555Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-antecedentes-penales-con-documento-extranjero",
+      "titulo": "Solicitar certificado de antecedentes penales con documento extranjero | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:06:02.555Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-antecedentes-penales-con-usuario-de-mi-argentina",
+      "titulo": "Solicitar certificado de antecedentes penales con usuario de Mi Argentina | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:06:02.555Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia exacta del certificado.",
+    "El método de pago específico para extranjeros en embajadas o consulados."
+  ]
+}

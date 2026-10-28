@@ -1,0 +1,92 @@
+{
+  "tramite": {
+    "slug": "copia-de-registros-graficos",
+    "nombre": "Copia de registros gráficos",
+    "nombre_busqueda": "Copia de registros gráficos catastro",
+    "resumen": "Solicita una copia de los planos y registros gráficos del catastro de tu propiedad en el municipio de Bahía Blanca.",
+    "sinonimos": [
+      "Copia catastral",
+      "Planos catastrales",
+      "Registros gráficos catastro"
+    ],
+    "temas": [
+      "catastro-e-inmuebles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en obtener la copia de sus registros gráficos."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original y copia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cédula de identidad del propietario o poseedor del inmueble.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de la cédula de identidad del propietario o poseedor del inmueble.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá tu DNI original y copia."
+      },
+      {
+        "texto": "Presentá la cédula de identidad del propietario o poseedor del inmueble original y copia."
+      },
+      {
+        "texto": "Esperá el turno asignado en la oficina de Catastro."
+      },
+      {
+        "texto": "Recibí tu copia de registros gráficos una vez procesada."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá el horario de atención del Departamento de Catastro antes de ir.",
+      "Llevá los documentos originales para evitar demoras."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Departamento de Catastro",
+      "direccion": "Chiclana 453",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/catastro/registros-graficos/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/tramites/catastro/registros-graficos/",
+      "titulo": "Copia de registros gráficos | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T20:42:21.629Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere sacar turno para realizar el trámite.",
+    "No se especifica el monto de la tasa o costo del trámite.",
+    "No se indica el plazo de entrega de la copia."
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "tramite": {
+    "slug": "licencias-de-conducir-originales-vencimiento",
+    "nombre": "Licencias de conducir originales por vencimiento",
+    "nombre_busqueda": "Licencia original vencida",
+    "resumen": "Para renovar una licencia original cuyo vencimiento excede los 90 días o que tiene datos no reflejados en el plazo. Se requiere DNI vigente, licencia actual y resolución de infracciones.",
+    "sinonimos": [
+      "Renovación de licencia original vencida",
+      "Licencia original vencida",
+      "Licencia original vencida La Plata"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060441",
+  "organismo": {
+    "nombre": "Municipalidad de La Plata",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas con domicilio en La Plata que presenten último DNI vigente.",
+      "Personas con licencia de otra provincia que no contengan formato nacional.",
+      "Personas con licencia cuyo vencimiento excede los 90 días.",
+      "Personas con cambios de datos no reflejados en la licencia dentro de 90 días de ocurridos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Presentar último DNI vigente con domicilio en La Plata (original y copia legible, frente y contrafrente).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar licencia de conducir y fotocopia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar constancia de DNI en trámite acompañado de un DNI anterior o DNI digital en Mi Argentina (si no se tiene el último DNI vigente).",
+        "aclaracion": "Si no se tiene el último DNI vigente (sea por robo o extravío)."
+      },
+      {
+        "texto": "Presentar Certificado de Legalidad expedido por las autoridades otorgantes de esta (si la licencia es de otra jurisdicción).",
+        "aclaracion": "Si la licencia es de otra jurisdicción."
+      },
+      {
+        "texto": "Presentar certificado de antecedentes penales con vigencia de 30 días (en caso de acceder a las categorías profesionales C, D y E).",
+        "aclaracion": "En caso de acceder a las categorías profesionales C, D y E."
+      },
+      {
+        "texto": "Presentar exposición de extravío o denuncia de robo (si no se posee la licencia de conducir).",
+        "aclaracion": "En caso de no poseer la licencia de conducir."
+      },
+      {
+        "texto": "Presentar constancia de domicilio vial electrónico (por única vez).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar exámenes teóricos y prácticos de acuerdo con la categoría que se desee obtener.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar exámenes teóricos y prácticos de acuerdo con la categoría que se desee obtener (si la licencia es de otra jurisdicción).",
+        "aclaracion": "Si la licencia es de otra jurisdicción."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Consultar si posee infracciones en la Provincia de Buenos Aires y en la Municipalidad de La Plata."
+      },
+      {
+        "texto": "Rendir los exámenes teóricos y prácticos de acuerdo con la categoría que se desee obtener."
+      },
+      {
+        "texto": "Concurrir al Centro de Emisión de Licencias (CEL) con los documentos y comprobantes de pago."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": "https://turnos.laplata.gob.ar/misdatos",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://tramites.laplata.gob.ar/licencias/originales.html",
+      "titulo": "Licencias - Municipalidad de La Plata",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:26:16.093Z"
+    },
+    {
+      "url": "https://turnos.laplata.gob.ar/misdatos",
+      "titulo": "Turnos online - Municipalidad de La Plata",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:26:16.093Z"
+    },
+    {
+      "url": "https://licenciasba.dppsv.gba.gob.ar/licencias/boletas_cenat_cepat/public/solicitante/new",
+      "titulo": "Licencias BA",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:26:16.093Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de los costos no está especificado en el texto, se debe consultar el tarifario.",
+    "El plazo de espera para la renovación no está especificado en el texto."
+  ]
+}

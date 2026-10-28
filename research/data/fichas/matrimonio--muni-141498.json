@@ -1,0 +1,157 @@
+{
+  "tramite": {
+    "slug": "matrimonio",
+    "nombre": "Matrimonio",
+    "nombre_busqueda": "Casarse",
+    "resumen": "Trámite para contraer matrimonio civil, disponible en modalidad digital o presencial. Se requiere documentación específica según el caso y pago de tasa.",
+    "sinonimos": [
+      "Casamiento civil",
+      "Contratar matrimonio"
+    ],
+    "temas": [
+      "familia-y-pareja",
+      "matrimonios-y-uniones-convivenciales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141498",
+  "organismo": {
+    "nombre": "Registro Civil",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Contrayentes mayores de edad",
+      "Contrayentes entre 16 y 18 años con autorización de representantes legales",
+      "Contrayentes menores de 16 años con dispensa judicial",
+      "Viudos o divorciados",
+      "Personas que no comprenden el idioma español con traductor público"
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI de los contrayentes",
+        "aclaracion": null
+      },
+      {
+        "texto": "Actas de nacimiento actualizadas (si hay inconsistencias)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Actas de nacimiento legalizadas (si nacieron en otras provincias)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Actas de nacimiento apostilladas o visadas por consulado (si nacieron en otros países)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Traducción de documentos si corresponde",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación del traductor público (DNI y matrícula profesional)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización de representantes legales (si tienen entre 16 y 18 años)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dispensa judicial (si tienen menos de 16 años)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dos testigos mayores de edad con identificación",
+        "aclaracion": null
+      },
+      {
+        "texto": "Convención matrimonial (si se opta por separación de bienes)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de comunidad de bienes (si se opta por este régimen)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciar el trámite en el portal Mi Registro Civil con cuenta Ciudadano Digital nivel 2"
+      },
+      {
+        "texto": "Seleccionar la oficina de registro civil correspondiente"
+      },
+      {
+        "texto": "Completar la información solicitada: nombre y apellido completo, DNI, fecha y hora de la ceremonia, teléfono de contacto"
+      },
+      {
+        "texto": "Presentar la documentación requerida según el caso"
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Reservar turno para la celebración civil en el registro civil correspondiente"
+      },
+      {
+        "texto": "Presentar la documentación requerida según el caso"
+      },
+      {
+        "texto": "Firmar el formulario correspondiente en presencia del Oficial Público (si se opta por comunidad de bienes)"
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Verificar que no existan impedimentos del art. 403 del Código Civil y Comercial de la Nación",
+      "Asegurar que los testigos estén presentes el día de la ceremonia con su DNI"
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 570000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.tancacha.gob.ar/matrimonio.html"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1140000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.tancacha.gob.ar/matrimonio.html"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1710000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.tancacha.gob.ar/matrimonio.html"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.tancacha.gob.ar/matrimonio.html",
+      "titulo": "Municipalidad de Tancacha",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T09:47:53.249Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Fecha de vigencia del trámite",
+    "Dirección exacta de la oficina para presencial",
+    "Enlace para reservar turno"
+  ]
+}

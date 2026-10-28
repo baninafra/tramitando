@@ -1,0 +1,91 @@
+{
+  "tramite": {
+    "slug": "solicitar-tenencia-armas-usuarios-colectivos-empresas",
+    "nombre": "Solicitar la tenencia de armas para usuarios colectivos (Empresas)",
+    "nombre_busqueda": "Solicitar tenencia armas empresas",
+    "resumen": "Este trámite permite a empresas obtener la credencial de tenencia de armas si son legítimos usuarios colectivos. Requiere que la institución esté previamente inscripta y presentar documentación completa en un Centro de Atención de ANMaC.",
+    "sinonimos": [
+      "Solicitud tenencia armas empresas",
+      "Credencial tenencia armas usuarios colectivos"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMaC",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas cuyo acto de servicio sea la custodia de dinero y otros valores, transportadoras de caudales, entidades financieras, agencias de seguridad y organismos oficiales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener previamente inscripta a la institución o empresa como legítimo usuario colectivo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el arma no está registrada en ANMaC, realizar antes el trámite de reempadronamiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación completa.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completa la solicitud electrónica ingresando a través de la página miAnmac y presionando SOLICITUD."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si el arma no está registrada en ANMaC, tenés que realizar antes el trámite de reempadronamiento."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-tenencia-de-armas-para-usuarios-colectivos-empresas",
+      "titulo": "Solicitar la tenencia de armas para usuarios colectivos (Empresas) | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T09:42:01.343Z"
+    },
+    {
+      "url": "https://mi.renar.gob.ar/gral/aranceles.html",
+      "titulo": "(sin título)",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T09:42:01.343Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T09:42:01.343Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa no se especifica en el texto, consultar aranceles vigentes.",
+    "La fecha de vigencia de la resolución o normativa no se especifica en el texto."
+  ]
+}

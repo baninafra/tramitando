@@ -1,0 +1,78 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-plazo-para-presentacion-de-planos",
+    "nombre": "Solicitud de plazo para presentación de planos",
+    "nombre_busqueda": "Solicitud de plazo para presentación de planos",
+    "resumen": "Arquitectos, ingenieros y maestros mayores de obra pueden solicitar un plazo para presentar planos de obras iniciadas sin intervención profesional o para completar documentación.",
+    "sinonimos": [],
+    "temas": [
+      "obras-y-construccion",
+      "permiso-de-obra-y-planos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060763",
+  "organismo": {
+    "nombre": "San Nicolás Ciudad",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Arquitectos",
+      "Ingenieros",
+      "Maestros mayores de obra"
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de Solicitud de Plazo para Presentación de Planos",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos catastrales del inmueble",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Completá la nota de Solicitud de Plazo para Presentación de Planos."
+      },
+      {
+        "texto": "Enviá toda la documentación a mesadeentradas@sannicolas.gob.ar."
+      },
+      {
+        "texto": "Recibirás por correo electrónico la respuesta a tu solicitud."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.sannicolasciudad.gob.ar/tramites/obras-privadas/solicitud-de-plazo-para-presentacion-de-planos",
+      "titulo": "Solicitud de plazo para presentación de planos | Obras privadas | Trámites | San Nicolás Ciudad",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T15:17:54.667Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina",
+    "Localidad",
+    "Nombre de la oficina",
+    "Vigencia desde",
+    "Plazo estimado",
+    "Requisitos específicos para menores o casos especiales",
+    "Pasos adicionales no detallados en el texto"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "tramite": {
+    "slug": "denunciar-la-venta-de-un-arma",
+    "nombre": "Denunciar la venta de un arma",
+    "nombre_busqueda": "Denunciar venta de arma",
+    "resumen": "Este trámite permite a legítimos usuarios denunciar la venta de un arma de fuego registrada a su nombre. Se debe presentar documentación completa en el Centro de Atención de RENAR.",
+    "sinonimos": [],
+    "temas": [
+      "seguridad-y-denuncias",
+      "denuncias-anonimas-y-policiales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro Nacional de Armas",
+    "sigla": "RENAR",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Legítimos usuarios que vendan un arma de fuego registrada a su nombre."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formularios",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ley 23.283 y 23.412",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos del solicitante",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos del comprador",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos del arma",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de RENAR que prefieras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La denuncia de venta de un arma de fuego no te exime de la responsabilidad administrativa hasta tanto el arma esté a nombre del comprador.",
+      "Las armas de fuego no pueden ser entregadas a su nuevo comprador hasta tanto él no tenga la credencial de tenencia a su nombre."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/denunciar-la-venta-de-un-arma",
+      "titulo": "Denunciar la venta de un arma | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T15:17:12.772Z"
+    },
+    {
+      "url": "https://mi.renar.gob.ar/gral/aranceles.html",
+      "titulo": "(sin título)",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T15:17:12.772Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T15:17:12.772Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto en centavos de peso.",
+    "La fecha de vigencia del trámite.",
+    "Si se requiere turno y cómo sacarlo."
+  ]
+}

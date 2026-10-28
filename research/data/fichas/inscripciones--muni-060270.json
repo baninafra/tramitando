@@ -1,0 +1,75 @@
+{
+  "tramite": {
+    "slug": "inscripcion-talleres-escuelas-y-actividades",
+    "nombre": "Inscribirse a talleres y actividades",
+    "nombre_busqueda": "inscripción a talleres, escuelas deportivas y actividades culturales y comunitarias",
+    "resumen": "Completá el formulario del Municipio de Ezeiza para elegir una secretaría y una actividad, curso o taller. El formulario también solicita datos personales y de contacto.",
+    "sinonimos": [
+      "inscripción a actividades municipales"
+    ],
+    "temas": [
+      "talleres-y-escuelas-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060270",
+  "organismo": {
+    "nombre": "Municipio Ezeiza",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "La página no especifica quiénes pueden inscribirse."
+    ],
+    "requisitos": [
+      {
+        "texto": "Completá los datos que solicite el formulario para la actividad elegida.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Elegí una secretaría."
+      },
+      {
+        "texto": "Seleccioná la actividad, curso, taller u otra opción."
+      },
+      {
+        "texto": "Completá los campos del formulario que correspondan."
+      },
+      {
+        "texto": "Marcá que comprendés que los datos están protegidos por la Ley 25.326 de protección de datos personales."
+      },
+      {
+        "texto": "Enviá el formulario."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://ezeiza.gob.ar/inscripciones/",
+      "titulo": "Inscripciones - Municipio Ezeiza",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T12:33:25.622Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La página no especifica quiénes pueden inscribirse.",
+    "No se detallan requisitos específicos para completar la inscripción.",
+    "No se informa si la inscripción tiene costo.",
+    "No se informa un plazo de respuesta o inscripción."
+  ]
+}

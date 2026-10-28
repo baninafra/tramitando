@@ -1,0 +1,85 @@
+{
+  "tramite": {
+    "slug": "despachar-tropas-desde-zona-con-garrapatas-o-en-erradicacion-hacia-zona-libre",
+    "nombre": "Despachar tropas desde zona con garrapatas o en erradicación hacia zona libre",
+    "nombre_busqueda": "Despachar tropas desde zona con garrapatas",
+    "resumen": "Para mover animales desde zonas con garrapatas a zonas libres, necesitás solicitar inspección al técnico acreditado o agente de Senasa y abonar el arancel correspondiente.",
+    "sinonimos": [],
+    "temas": [
+      "salud-y-prevencion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Productores agropecuarios que deseen realizar movimientos de animales desde zonas con presencia de garrapatas (zonas sucias) a zonas libre de garrapatas (zonas limpias), y que dicho movimiento requiera el Formulario de inspección y despacho de hacienda (FIDHA)."
+    ],
+    "requisitos": [
+      {
+        "texto": "Solicitud de inspección al técnico acreditado o agente de senasa.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a las Oficinas autorizadas de Senasa y presentá la documentación de lunes a viernes de 8 a 14."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Sanidad Animal",
+      "direccion": "Av. Paseo Colón Nº 367, piso 4º cfrente, C1063ACD, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/despachar-tropas-desde-zona-con-garrapatas-o-en-erradicacion-hacia-zona-libre"
+    },
+    {
+      "nombre": "Oficina La Cruz - Corrientes",
+      "direccion": "Buenos Aires 891",
+      "localidad": "La Cruz",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/despachar-tropas-desde-zona-con-garrapatas-o-en-erradicacion-hacia-zona-libre"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/despachar-tropas-desde-zona-con-garrapatas-o-en-erradicacion-hacia-zona-libre",
+      "titulo": "Despachar tropas desde zona con garrapatas o en erradicación hacia zona libre | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T15:19:32.922Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/centros-regionales",
+      "titulo": "Centros Regionales | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T15:19:32.922Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no se especifica en el texto, consultá las Normativas relacionadas con los costos del trámite.",
+    "La fecha de vigencia de la normativa Resolución Senasa N°0655/2026 no está indicada con precisión en el texto."
+  ]
+}

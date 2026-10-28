@@ -1,0 +1,91 @@
+{
+  "tramite": {
+    "slug": "reclamo-haberes-impagos-jubilados",
+    "nombre": "Reclamar haberes impagos de personas jubiladas y pensionadas",
+    "nombre_busqueda": "Reclamar haberes impagos jubilados",
+    "resumen": "Si sos titular de una jubilación o pensión, podés reclamar los haberes que no pudiste cobrar dentro de los dos años posteriores a la fecha de reclamo. El trámite es gratuito y se puede hacer online o presencialmente.",
+    "sinonimos": [
+      "Reclamo de haberes impagos",
+      "Reclamo mensual no cobrado"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones",
+      "adultos-mayores"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANSES",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A personas jubiladas y/o pensionadas."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI de la persona titular de la prestación",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario Reclamos de haberes impagos (PS 6.5) (de ser necesario)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá en Atención Virtual con tu CUIL y Clave de la Seguridad Social."
+      },
+      {
+        "texto": "Elegí la opción Reclamar un beneficio suspendido o un mensual no cobrado (Activación/Repago) para comenzar tu trámite."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Reuní la documentación requerida."
+      },
+      {
+        "texto": "Presentá el formulario de reclamo en tu banco."
+      },
+      {
+        "texto": "De ser necesario, presentá el formulario en tu banco."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://www.argentina.gob.ar/turnos",
+    "plazo": null,
+    "consejos": [
+      "Si tu haber impago es mayor a 60 días probablemente ya figure en nuestros sistema pero si es inferior a 2 meses deberás imprimir y completar el formulario Reclamo de Haberes impagos (PS 6.5)."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reclamar-haberes-impagos-de-personas-jubiladas-y-pensionadas",
+      "titulo": "Reclamar haberes impagos de personas jubiladas y pensionadas | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T02:15:48.615Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T02:15:48.615Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si tu haber impago es mayor a 60 días probablemente ya figure en nuestros sistema pero si es inferior a 2 meses deberás imprimir y completar el formulario Reclamo de Haberes impagos (PS 6.5)."
+  ]
+}

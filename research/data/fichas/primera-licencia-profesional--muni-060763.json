@@ -1,0 +1,126 @@
+{
+  "tramite": {
+    "slug": "primera-licencia-profesional",
+    "nombre": "Primera licencia profesional",
+    "nombre_busqueda": "Licencia de conducir profesional",
+    "resumen": "Para transportar pasajeros, cargas generales o peligrosas, necesitás ser mayor de 21 años, tener licencia particular desde hace un año, aprobar exámenes y pagar tasas. La licencia tiene 30 días de validez.",
+    "sinonimos": [
+      "Licencia de conducir profesional",
+      "Licencia profesional",
+      "Licencia de transporte"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060763",
+  "organismo": {
+    "nombre": "Municipalidad de San Nicolás de los Arroyos",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Ser mayor de 21 años y menor de 65 años.",
+      "Tener licencia particular para manejar automóviles desde hace, como mínimo, un año.",
+      "No poseer multas en el Partido de San Nicolás de los Arroyos.",
+      "Tener DNI con domicilio en San Nicolás.",
+      "Tener licencia particular vigente."
+    ],
+    "requisitos": [
+      {
+        "texto": "Certificado de antecedentes penales vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Aprobar el examen teórico y práctico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Superar examen psicofísico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Conocer tu grupo sanguíneo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para obtener Categoría E3 (Cargas peligrosas): Certificado del Curso de Capacitación y Certificado de Evaluación Psicofísica (COCATRA).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Comunicate a través del asistente virtual para comenzar tu trámite."
+      },
+      {
+        "texto": "Ingresá desde la opción licencia de conducir y luego INICIAR TRÁMITE."
+      },
+      {
+        "texto": "Un operador responderá tu consulta."
+      },
+      {
+        "texto": "En el caso de poseer multas, te enviarán las boletas para regularizar tu situación."
+      },
+      {
+        "texto": "Una vez realizado el pago, informalo ingresando al menú principal del chat, opción INFRACCIONES VEHICULARES y luego INFORMAR PAGO."
+      },
+      {
+        "texto": "Seguí los pasos que te indique el asistente."
+      },
+      {
+        "texto": "Podrás enviar toda la documentación requerida a través del chat."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en el día y horario agendado."
+      },
+      {
+        "texto": "Dirigite a Av. Illia 1130 con DNI original, comprobantes de pago y el resto de la documentación que requiera tu tipo de licencia."
+      },
+      {
+        "texto": "Te entregarán tu licencia."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Una vez generado el documento tiene 30 días de validez para ser presentado."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 2574400,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.sannicolasciudad.gob.ar/tramites/licencia-de-conducir/primera-licencia-profesional"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.sannicolasciudad.gob.ar/tramites/licencia-de-conducir/primera-licencia-profesional",
+      "titulo": "Primera licencia profesional | Licencia de conducir | Trámites | San Nicolás Ciudad",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T15:35:23.845Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de la oficina de turno (se menciona Av. Illia 1130 pero no se especifica si es la única o el turno se saca por otro medio).",
+    "Plazo exacto para la tramitación online o presencial (se menciona validez de 30 días pero no tiempo de espera para el turno).",
+    "Si se requiere turno presencial o si se puede agendar por internet sin ir a la oficina."
+  ]
+}

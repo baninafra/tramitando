@@ -1,0 +1,91 @@
+{
+  "tramite": {
+    "slug": "registro-de-pyme",
+    "nombre": "Registrar una PyME",
+    "nombre_busqueda": "Registrar una PyME para obtener beneficios",
+    "resumen": "Para obtener beneficios como alivio fiscal y fomento a inversiones, las PyMES deben registrar su categorización en ARCA.",
+    "sinonimos": [
+      "Categorización PyME",
+      "Beneficios Ley PyME",
+      "Registro PyME ARCA"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Economía",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas PyMES que desarrollan actividades productivas en el país."
+    ],
+    "requisitos": [
+      {
+        "texto": "CUIT activo sin limitaciones.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave fiscal, nivel 3.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Actividades económicas declaradas correctamente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaraciones juradas de IVA de los 3 últimos períodos fiscales cerrados que presentaste.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Correo electrónico declarado en el servicio con clave fiscal Sistema registral.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá con clave fiscal en la web de ARCA."
+      },
+      {
+        "texto": "En Servicios habilitados, elegí PYMES."
+      },
+      {
+        "texto": "Solicitá la categorización y/o beneficios."
+      },
+      {
+        "texto": "Completá el formulario."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Vas a recibir la aprobación o rechazo de tu categorización como PyME a través del Domicilio Fiscal Electrónico o E_Ventanilla de PYME."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/registrar-una-pyme-para-obtener-beneficios-de-la-ley-pyme",
+      "titulo": "Registrar una PyME para obtener beneficios de la Ley PyME | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T03:39:52.526Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica un plazo de tiempo para la resolución de la solicitud."
+  ]
+}

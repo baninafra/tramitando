@@ -1,0 +1,251 @@
+---
+// Portada: el foco principal es qué trámite querés hacer, acompañado por el lugar donde lo hacés.
+import Base from '../layouts/Base.astro';
+import CamposUbicacion from '../components/CamposUbicacion.astro';
+import Icono from '../components/Icono.astro';
+import type { NombreIcono } from '../components/iconos';
+import { listarTemas } from '../lib/data';
+
+const { temas, situaciones } = await listarTemas({ portada: true });
+const jsonld = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'tramitando',
+  url: Astro.site?.href,
+  inLanguage: 'es-AR',
+  potentialAction: {
+    '@type': 'SearchAction',
+    target: new URL('/buscar?q={q}', Astro.site).href.replace('%7Bq%7D', '{q}'),
+    'query-input': 'required name=q',
+  },
+};
+---
+<Base
+  titulo="tramitando: trámites de la Argentina, claros y sin vueltas"
+  descripcion="Qué necesitás, dónde se hace, cuánto cuesta y cuánto tarda cada trámite de Nación, provincias y municipios. Con fuente oficial y fecha de verificación."
+  portada
+  jsonld={jsonld}
+>
+  <section class="contenedor portada" aria-labelledby="titulo-portada">
+    <div class="heroe">
+      <h1 id="titulo-portada" class="lineas">
+        <span class="linea"><span data-linea style="--i:0">Tu trámite,</span></span>
+        <span class="linea"><span data-linea style="--i:1">sin vueltas</span></span>
+      </h1>
+      <p class="lema" data-entra style="--d:360ms">Qué llevar, cuánto cuesta y dónde se hace cada trámite del país, con la fuente oficial y la fecha en que lo chequeamos.</p>
+
+      <form class="buscador-portada" action="/buscar" method="get" role="search" aria-label="Buscá tu trámite" data-buscador-portada data-entra style="--d:460ms">
+        <div class="barra">
+          <div class="barra-principal">
+            <div class="campo campo-q">
+              <label for="q-portada">¿Qué querés hacer?</label>
+              <input id="q-portada" class="entrada" type="search" name="q" placeholder="Ej.: renovar el DNI, sacar el pasaporte, licencia de conducir…" autocomplete="off" enterkeyhint="search" />
+            </div>
+            <button class="btn btn-primario enviar" type="submit"><Icono nombre="search" /><span>Buscar</span></button>
+          </div>
+          <div class="barra-ubicacion">
+            <CamposUbicacion id="portada" disposicion="en-linea" conGps={false} />
+          </div>
+        </div>
+        <p class="gps" data-gps hidden>
+          <button type="button" class="btn-texto" data-gps-boton><Icono nombre="map-pin" />Usar mi ubicación</button>
+          <span class="gps-estado" role="status" data-gps-estado></span>
+        </p>
+      </form>
+    </div>
+  </section>
+
+  <section class="seccion temas" id="temas" aria-labelledby="t-temas">
+    <div class="contenedor">
+      <div class="seccion-cabecera" data-revelar>
+        <h2 id="t-temas" class="titulo-seccion">Elegí por tema</h2>
+        <p class="cuenta">{temas.length} temas · <a href="/temas">Ver todos los temas</a></p>
+      </div>
+      <ul class="indice">
+        {temas.map((c, i) => (
+          <li data-revelar style={`--i:${i % 3}`}>
+            <a class="indice-fila" href={`/temas/${c.slug}`}>
+              <span class="indice-icono"><Icono nombre={c.icono as NombreIcono} /></span>
+              <span class="indice-nombre">{c.nombre}</span>
+              <span class="indice-dato">
+                <span class="indice-cuenta">{c.cantidad > 0 ? `${c.cantidad} ${c.cantidad === 1 ? 'trámite' : 'trámites'}` : 'Próximamente'}</span>
+              </span>
+              <Icono nombre="arrow-up-right" class="indice-ir" />
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  {situaciones.length > 0 && (
+    <section class="seccion situaciones" id="situaciones" aria-labelledby="t-situaciones">
+      <div class="contenedor">
+        <div class="seccion-cabecera" data-revelar>
+          <h2 id="t-situaciones" class="titulo-seccion">¿Qué te pasó?</h2>
+          <p class="cuenta">Atajos por situación de vida</p>
+        </div>
+        <ul class="situaciones-lista">
+          {situaciones.slice(0, 6).map((s, i) => (
+            <li data-revelar style={`--i:${i % 3}`}>
+              <a class="situacion" href={`/situaciones/${s.slug}`}>
+                <Icono nombre="footprints" />
+                <span>{s.nombre}</span>
+                <Icono nombre="arrow-up-right" class="situacion-ir" />
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </section>
+  )}
+</Base>
+
+<script>
+  import { EVENTO, filtrarMunicipios, guardarUbicacion, leerUbicacion, ponerEnSelects, desdeSelects } from '../scripts/ubicacion';
+  import { conectarGps } from '../scripts/gps';
+
+  // Buscador de la portada: arranca con la ubicación guardada y la guarda al buscar.
+  const form = document.querySelector<HTMLFormElement>('[data-buscador-portada]');
+  if (form) {
+    const prov = form.querySelector<HTMLSelectElement>('[data-prov]')!;
+    const muni = form.querySelector<HTMLSelectElement>('[data-muni]')!;
+    ponerEnSelects(leerUbicacion(), prov, muni);
+    prov.addEventListener('change', () => filtrarMunicipios(prov, muni));
+    document.addEventListener(EVENTO, (e) => ponerEnSelects((e as CustomEvent).detail, prov, muni));
+    conectarGps(form);
+    form.addEventListener('submit', () => {
+      const u = desdeSelects(prov, muni);
+      if (u) guardarUbicacion(u);
+    });
+  }
+</script>
+
+<style>
+  /* Portada: una sola columna centrada. Escala de espacios 16 / 24 / 40 / 64. */
+  .portada { padding-top: var(--espacio-2); }
+  .heroe {
+    --heroe-fondo: #6CACE4; --heroe-tinta: #1E2329; --heroe-tinta-2: #24323F;
+    display: grid; justify-items: center; text-align: center;
+    padding: var(--espacio-8) var(--espacio-5) var(--espacio-7);
+    border-radius: 40px; background: var(--heroe-fondo); color: var(--heroe-tinta);
+  }
+  @media screen and (prefers-color-scheme: dark) {
+    .heroe { --heroe-fondo: #1A2E40; --heroe-tinta: #EEF2F6; --heroe-tinta-2: #B4BDC7; }
+  }
+  .heroe h1 { font: 800 clamp(40px, 5.4vw, 80px)/1.02 var(--font-sans); letter-spacing: -0.035em; }
+  .lineas .linea { display: inline-block; overflow: hidden; padding-bottom: 0.1em; margin-bottom: -0.1em; vertical-align: top; }
+  .lineas .linea + .linea { margin-left: 0.25em; }
+  .lineas [data-linea] { display: block; }
+  .lema { margin-top: var(--espacio-4); font: 400 clamp(17px, 1.5vw, 20px)/1.5 var(--font-sans); max-width: 48ch; color: var(--heroe-tinta-2); }
+
+  /* Buscador: "¿Qué querés hacer?" ocupa la fila principal con protagonismo total; ubicación debajo. */
+  .buscador-portada { width: min(100%, 920px); margin-top: var(--espacio-7); display: grid; gap: var(--espacio-4); justify-items: center; text-align: left; }
+  .barra {
+    width: 100%; display: grid; gap: var(--espacio-2);
+    padding: var(--espacio-3); border-radius: 28px; background: var(--superficie-alta); color: var(--tinta);
+    box-shadow: 0 8px 32px rgba(30, 35, 41, 0.12);
+  }
+  .barra-principal {
+    display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; gap: var(--espacio-3);
+  }
+  .barra .campo-q {
+    padding: var(--espacio-3) var(--espacio-5); border-radius: 20px; background: var(--superficie);
+    gap: 4px; transition: background-color var(--t-hover) ease;
+  }
+  .barra .campo-q > label {
+    font: 700 15px/20px var(--font-sans); color: var(--celeste-tinta); cursor: pointer;
+  }
+  .barra .campo-q .entrada {
+    min-height: 36px; padding: 0; border: 0; border-radius: 0; background-color: transparent;
+    font: 600 clamp(18px, 2vw, 22px)/1.3 var(--font-sans);
+  }
+  .barra-ubicacion {
+    display: grid; grid-template-columns: 1fr 1fr; align-items: center;
+    padding-top: var(--espacio-2); border-top: 1px solid var(--borde);
+  }
+  .barra-ubicacion :global(.campo) {
+    position: relative; gap: 2px; padding: 8px var(--espacio-5); border-radius: 16px; transition: background-color var(--t-hover) ease;
+  }
+  .barra-ubicacion :global(.campo + .campo)::before {
+    content: ''; position: absolute; left: 0; top: 20%; height: 60%; width: 1px; background: var(--borde);
+  }
+  @media (hover: hover) { .barra-ubicacion :global(.campo:hover) { background: var(--superficie); } }
+  .barra-ubicacion :global(.campo:focus-within) { background: var(--superficie); }
+  .barra-ubicacion :global(.campo > label) { font: 600 13px/18px var(--font-sans); color: var(--tinta-2); cursor: pointer; }
+  .barra-ubicacion :global(.campo .opcional) { font-weight: 400; }
+  .barra :global(.selector-boton), .barra :global(select.entrada) {
+    min-height: 26px; padding: 0; border: 0; border-radius: 0; background-color: transparent; font: 400 16px/24px var(--font-sans);
+  }
+  .barra :global(select.entrada) { background-position: right 0 center; padding-right: 28px; }
+  /* El foco marca el segmento entero, no una caja dentro. */
+  .barra .entrada:focus-visible, .barra :global(.selector-boton:focus-visible), .barra :global(select.entrada:focus-visible) { outline: none; }
+  .barra :global(.campo:has(:focus-visible)) { outline: 2px solid var(--foco); outline-offset: -2px; }
+  .barra :global(.selector.abierto .selector-boton) { border-color: transparent; }
+  .barra :global(.selector-lista) { left: calc(var(--espacio-5) * -1); right: auto; width: max(100% + 2 * var(--espacio-5), 260px); top: calc(100% + 14px); }
+  .enviar { min-height: 68px; padding-inline: var(--espacio-6); font-size: 17px; border-radius: 20px; }
+
+  .gps { display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: var(--espacio-2) var(--espacio-4); }
+  .gps[hidden] { display: none; }
+  .gps .btn-texto { color: var(--heroe-tinta); min-height: 32px; }
+  .gps-estado { font: var(--t-cuerpo-chico); color: var(--heroe-tinta-2); }
+
+  @media (max-width: 719px) {
+    .heroe { padding: var(--espacio-7) var(--espacio-4) var(--espacio-6); border-radius: 28px; }
+    .barra { border-radius: 24px; padding: var(--espacio-3); }
+    .barra-principal { grid-template-columns: 1fr; }
+    .barra .campo-q { padding: var(--espacio-3) var(--espacio-4); border-radius: 16px; }
+    .barra-ubicacion { grid-template-columns: 1fr; }
+    .barra-ubicacion :global(.campo) { border-radius: 16px; padding: 10px var(--espacio-4); }
+    .barra-ubicacion :global(.campo + .campo)::before { left: var(--espacio-4); right: var(--espacio-4); top: 0; width: auto; height: 1px; }
+    .barra :global(.selector-lista) { left: calc(var(--espacio-4) * -1); width: calc(100% + 2 * var(--espacio-4)); }
+    .enviar { min-height: 56px; width: 100%; }
+  }
+
+  /* Por tema: un índice de filas grandes. */
+  .indice { list-style: none; padding: 0; display: grid; gap: var(--espacio-1) var(--espacio-4); }
+  @media (min-width: 880px) { .indice { grid-template-columns: 1fr 1fr; } }
+  .indice-fila {
+    display: grid; grid-template-columns: auto minmax(0, 1fr) auto auto; gap: var(--espacio-2) var(--espacio-5); align-items: center;
+    padding: var(--espacio-3) var(--espacio-4); border-radius: 20px; color: var(--tinta); text-decoration: none;
+    transition: background-color var(--t-hover) ease;
+  }
+  .indice-icono { display: grid; place-items: center; width: 44px; height: 44px; border-radius: 50%; background: var(--celeste-suave); color: var(--celeste-tinta); }
+  .indice-icono :global(.icono) { width: 20px; height: 20px; }
+  .indice-nombre { font: 700 clamp(22px, 2.2vw, 30px)/1.15 var(--font-sans); letter-spacing: -0.02em; }
+  .indice-dato { display: grid; gap: 2px; text-align: right; justify-items: end; }
+  .indice-cuenta { font: var(--t-etiqueta); color: var(--celeste-tinta); }
+  .indice-fila :global(.indice-ir) { width: 22px; height: 22px; color: var(--tinta-2); transition: transform var(--t-ui) var(--ease-out), color var(--t-hover) ease; }
+  @media (hover: hover) {
+    .indice-fila:hover { background: var(--superficie); }
+    .indice-fila:hover :global(.indice-ir) { transform: translate(3px, -3px); color: var(--tinta); }
+  }
+  @media (max-width: 719px) {
+    .indice-fila { grid-template-columns: auto minmax(0, 1fr) auto; padding: var(--espacio-3); gap: var(--espacio-2) var(--espacio-4); }
+    .indice-icono { width: 44px; height: 44px; }
+    .indice-fila :global(.indice-ir) { display: none; }
+  }
+
+  /* Situaciones de vida: tarjetas compactas, en fila, para entrar por lo que te pasó. */
+  .situaciones-lista { list-style: none; padding: 0; display: grid; gap: var(--espacio-2); grid-template-columns: repeat(auto-fill, minmax(min(100%, 260px), 1fr)); }
+  .situacion {
+    height: 100%; display: grid; grid-template-columns: auto minmax(0, 1fr) auto; align-items: center; gap: var(--espacio-3);
+    min-height: 64px; padding: var(--espacio-3) var(--espacio-4); border-radius: 20px;
+    background: var(--superficie); color: var(--tinta); text-decoration: none;
+    font: 600 16px/1.3 var(--font-sans); transition: background-color var(--t-hover) ease;
+  }
+  .situacion > :global(.icono:first-child) { width: 20px; height: 20px; color: var(--celeste-tinta); }
+  .situacion :global(.situacion-ir) { width: 18px; height: 18px; color: var(--tinta-2); transition: transform var(--t-ui) var(--ease-out), color var(--t-hover) ease; }
+  @media (hover: hover) {
+    .situacion:hover { background: var(--celeste-suave); }
+    .situacion:hover :global(.situacion-ir) { transform: translate(2px, -2px); color: var(--tinta); }
+  }
+
+  /* Carga: el titular sube línea por línea, después el lema y el buscador. */
+  @media (prefers-reduced-motion: no-preference) {
+    .js .portada [data-linea] { transform: translateY(105%); animation: sube 800ms var(--ease-expo) forwards; animation-delay: calc(100ms + var(--i) * 90ms); }
+    .js .portada [data-entra] { opacity: 0; translate: 0 14px; animation: aparece 560ms var(--ease-out) forwards; animation-delay: var(--d); }
+    @keyframes sube { to { transform: none; } }
+    @keyframes aparece { to { opacity: 1; translate: 0 0; } }
+  }
+</style>

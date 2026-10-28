@@ -1,0 +1,74 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-venta-ambulante",
+    "nombre": "Solicitud de venta ambulante",
+    "nombre_busqueda": "Autorización venta ambulante",
+    "resumen": "Obtené la autorización para vender en espacios públicos o vía pública del Partido de San Nicolás de los Arroyos. Debes completar el formulario y enviar la documentación por correo electrónico.",
+    "sinonimos": [
+      "Autorización venta ambulante",
+      "Permiso venta ambulante",
+      "Factibilidad venta ambulante"
+    ],
+    "temas": [
+      "ferias-y-venta-ambulante"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060763",
+  "organismo": {
+    "nombre": "San Nicolás Ciudad",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan DNI con domicilio en el partido de San Nicolás"
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI con domicilio en el partido de San Nicolás",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de factibilidad para tramitar la autorización de la venta ambulante",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Completá el formulario de Solicitud de venta ambulante."
+      },
+      {
+        "texto": "Enviá toda la documentación por correo electrónico a mesadeentradas@sannicolas.gob.ar."
+      },
+      {
+        "texto": "Recordá indicar en el asunto del mail el nombre del trámite que estás realizando."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.sannicolasciudad.gob.ar/tramites/permisos-y-solicitudes/solicitud-de-venta-ambulante",
+      "titulo": "Solicitud de venta ambulante | Permisos y solicitudes | Trámites | San Nicolás Ciudad",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T15:39:41.832Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el plazo de respuesta.",
+    "No se especifica si el trámite requiere turno.",
+    "No se especifica si se puede realizar el trámite online."
+  ]
+}

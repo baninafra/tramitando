@@ -1,0 +1,93 @@
+{
+  "tramite": {
+    "slug": "reclamo-suministro-gas",
+    "nombre": "Reclamar por suministro escaso o corte de gas",
+    "nombre_busqueda": "Reclamar suministro escaso o corte de gas",
+    "resumen": "Si tenés poco o nada de gas natural o GLP y ya hiciste el reclamo a la empresa prestadora sin respuesta, podés trasladarlo ante el ENARGAS.",
+    "sinonimos": [
+      "Reclamo ENARGAS gas",
+      "Queja suministro gas escaso"
+    ],
+    "temas": [
+      "servicios-urbanos-y-reclamos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ente Nacional Regulador del Gas",
+    "sigla": "ENARGAS",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Clientes y/o usuarios de gas natural o GLP por redes en casa."
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia de haber reclamado ante la empresa prestadora.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descripción del reclamo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Completá el formulario de reclamo ante el ENARGAS."
+      },
+      {
+        "texto": "Presentá la constancia de haber reclamado ante la empresa prestadora."
+      },
+      {
+        "texto": "Presentá la descripción del reclamo."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Conservá siempre el número de reclamo ante la empresa prestadora.",
+      "Durante la inspección para rehabilitar el servicio, tené una persona mayor de edad en la vivienda."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central ENARGAS",
+      "direccion": "Suipacha 636",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/reclamar-por-suministro-escaso-o-corte-de-gas"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reclamar-por-suministro-escaso-o-corte-de-gas",
+      "titulo": "Reclamar por suministro escaso o corte de gas | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:42:26.086Z"
+    },
+    {
+      "url": "https://www.enargas.gov.ar/secciones/oficina-virtual/oficina-virtual.php",
+      "titulo": "Oficina virtual ENARGAS",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T02:42:26.086Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Plazo estimado de resolución del reclamo ante la empresa prestadora.",
+    "Horarios de atención presencial en sedes más próximas al domicilio del usuario."
+  ]
+}

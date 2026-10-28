@@ -1,0 +1,106 @@
+{
+  "tramite": {
+    "slug": "inscripcion-proveedores-personas-humanas",
+    "nombre": "Inscripción en el Registro de Proveedores Municipales",
+    "nombre_busqueda": "Inscripción proveedor municipal",
+    "resumen": "Para inscribirse como proveedor de la Municipalidad de Chivilcoy, las personas físicas deben presentar constancias de AFIP, ingresos brutos, habilitación municipal y pagar la tasa. Los profesionales y personas jurídicas tienen requisitos adicionales.",
+    "sinonimos": [
+      "Registro de proveedores Chivilcoy",
+      "Inscripción como proveedor municipal",
+      "Proveedor municipal personas físicas"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo",
+      "comercio-e-industria",
+      "habilitacion-comercial"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060224",
+  "organismo": {
+    "nombre": "Municipalidad de Chivilcoy",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas físicas",
+      "Profesionales",
+      "Personas jurídicas"
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia de Constancia de Inscripción AFIP",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de Constancia de Inscripción Ingresos Brutos",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de Habilitación Municipal",
+        "aclaracion": null
+      },
+      {
+        "texto": "En su caso, constancia de Exención de Tributos Nacional y/o Provinciales",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de Inscripción en Registro Habilitante",
+        "aclaracion": "Si sos profesional."
+      },
+      {
+        "texto": "Copia de último pago de Aportes Jubilatorios",
+        "aclaracion": "Si sos profesional."
+      },
+      {
+        "texto": "Balance societario",
+        "aclaracion": "Si sos persona jurídica."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Completá los formularios de Solicitud de Alta / Modificación en el Registro de Proveedores, Solicitud de Alta / Modificación en el Registro de Beneficiarios y Poderes y Autorización de acreditación en Cuenta Bancaria."
+      },
+      {
+        "texto": "Firmitá y entregá obligatoriamente toda la documentación requerida para su posterior inscripción."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "Proveedores de otras localidades",
+      "gratis": false,
+      "monto_centavos": 2300000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://chivilcoy.gov.ar/registro-de-proveedores/"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://chivilcoy.gov.ar/registro-de-proveedores/",
+      "titulo": "Registro de proveedores – Municipalidad de Chivilcoy",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "costo",
+        "resumen",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T23:23:48.501Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de la Tesorería Municipal para el pago de la tasa",
+    "Plazo de inscripción o respuesta al trámite",
+    "Si se puede realizar el trámite online o solo presencial",
+    "Si se requiere sacar turno para la entrega de documentos"
+  ]
+}

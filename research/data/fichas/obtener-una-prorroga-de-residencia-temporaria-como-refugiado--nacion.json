@@ -1,0 +1,117 @@
+{
+  "tramite": {
+    "slug": "residencia-temporaria-refugiado",
+    "nombre": "Obtener una prórroga de residencia temporaria como refugiado",
+    "nombre_busqueda": "prorroga residencia refugiado",
+    "resumen": "Extende la permanencia de personas extranjeras reconocidas como refugiadas o asiladas por CONARE por un año. El trámite es gratuito y se realiza de manera presencial.",
+    "sinonimos": [
+      "prórroga de residencia como refugiado",
+      "extensión de residencia temporaria refugiado"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria",
+      "residencias-temporarias-y-permanentes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Migraciones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas extranjeras que hayan obtenido una residencia temporaria en la categoría de asiladas o refugiadas por la Comisión Nacional para los Refugiados (CONARE) y deseen extender su permanencia."
+    ],
+    "requisitos": [
+      {
+        "texto": "Pasaporte válido y vigente (todas las nacionalidades).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Nacionalidad emitido por autoridad Consular, con fotografía y legalizado por el Ministerio de Relaciones Exteriores, Comercio Internacional y Culto de la Nación (solo si no se tiene pasaporte).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Antecedentes Penales Argentinos emitido por el Registro Nacional de Reincidencia (solo para mayores de 16 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Carta de la CONARE que certifique la continuidad de la condición de refugiado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación expedida en el extranjero legalizada por el Consulado Argentino o Apostillada (si el país ratificó el Convenio de La Haya).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación expedida por representaciones consulares en el territorio nacional legalizada por el Ministerio de Relaciones Exteriores, Comercio Internacional y Culto (excepto MERCOSUR).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación en idioma extranjero traducida al castellano por Traductor Público Nacional y legalizada por el Colegio de Traductores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Originalidad de toda la documentación presentada.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate personalmente ante la Comisión Nacional para los Refugiados (Co.Na.Re) si residís en el AMBA para el inicio del trámite ante la Dirección Nacional de Migraciones."
+      },
+      {
+        "texto": "Presentate personalmente ante la delegación u oficina migratoria de la Dirección Nacional de Migraciones de acuerdo a tu jurisdicción si te encontrás en el interior del país."
+      },
+      {
+        "texto": "Llevá toda la documentación original requerida."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "1 año",
+    "consejos": [
+      "Si abonás un monto adicional para cita preferencial, el Certificado de Antecedentes Penales Argentinos se tramita por fuera de RADEX y es obligatorio presentarlo el día de la cita.",
+      "Es necesario que te encuentres dentro del territorio de la República Argentina."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-una-prorroga-de-residencia-temporaria-como-refugiado",
+      "titulo": "Obtener una prórroga de residencia temporaria como refugiado | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-27T06:51:11.183Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T06:51:11.183Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/cdn-cgi/content?id=UdfJwYcq4j9sg9QJtYbgHfONIQZ1Cns3B3ET3NYPRuU-1792994886.9009078-1.2.1.1-IvltjBTDpI20kgROcbQbMuUZ1dob8FPJbwP51xaYDZpsCNEnKb4rGzjjIwOV0Cx4",
+      "titulo": "Food Service Management: The Art of Culinary Harmony",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T06:51:11.183Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia del trámite.",
+    "Si se requiere turno para el trámite."
+  ]
+}

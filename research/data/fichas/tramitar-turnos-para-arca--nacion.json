@@ -1,0 +1,95 @@
+{
+  "tramite": {
+    "slug": "tramitar-turnos-para-arca",
+    "nombre": "Sacar turno para ARCA",
+    "nombre_busqueda": "Sacar turno ARCA",
+    "resumen": "Sacá un turno por Internet para trámites que exigen cita previa en ARCA. El trámite lleva 5 minutos y es gratuito.",
+    "sinonimos": [],
+    "temas": [
+      "cuil-y-clave-de-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ARCA",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes obligatoriamente deben solicitar un turno en ARCA."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI y fotocopia (frente y dorso)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Entrá al sistema de turnos de ARCA y seleccioná el trámite que vas realizar."
+      },
+      {
+        "texto": "Elegí la agencia cercana al domicilio que figura en tu DNI."
+      },
+      {
+        "texto": "Seleccioná fecha y horario."
+      },
+      {
+        "texto": "Completá los datos que te pide el organismo y luego elegí la opción solicitar turno."
+      },
+      {
+        "texto": "Confirmá el turno ingresando el código de seguridad que aparece en pantalla."
+      },
+      {
+        "texto": "Guardá o imprimí el formulario con la información de tu turno."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tramitar-turnos-para-arca",
+      "titulo": "Tramitar turnos para ARCA | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T00:24:51.738Z"
+    },
+    {
+      "url": "https://servicioscf.arca.gob.ar/publico/turnos/Turnos.aspx",
+      "titulo": "Solicitud de turnos - ARCA",
+      "bloques": [
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-28T00:24:51.738Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T00:24:51.738Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La página no especifica si se requiere turno para todos los trámites o solo para algunos.",
+    "La página no especifica la dirección exacta de las oficinas ni la localidad."
+  ]
+}

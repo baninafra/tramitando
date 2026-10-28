@@ -1,0 +1,130 @@
+{
+  "tramite": {
+    "slug": "habilitacion-rehabilitacion-polvorin-tipo-b-c-o-e-0",
+    "nombre": "Habilitación rehabilitación polvorín tipo B C o E",
+    "nombre_busqueda": "Habilitación polvorín tipo B C o E",
+    "resumen": "Solicita la habilitación o rehabilitación de instalaciones para el almacenamiento de explosivos ante ANMaC. Se requiere documentación técnica, planos firmados y pago de tasas. La vigencia es de cinco años.",
+    "sinonimos": [
+      "Habilitación polvorín tipo B",
+      "Habilitación polvorín tipo C",
+      "Habilitación polvorín tipo E",
+      "Habilitación polvorín tipo A"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMaC",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Representante legal o titular de la empresa.",
+      "Causante."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de solicitud especificando la petición y las instalaciones.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que se agrega, con firma y aclaración del representante legal o titular, debidamente certificada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopias debidamente certificadas de título de dominio o contrato de alquiler, comodato, etc.",
+        "aclaracion": "Debe tener habilitación o radicación municipal con mención del rubro a nombre del solicitante."
+      },
+      {
+        "texto": "Ficha de Datos Técnicos (FDT) F1, suscripto por el representante legal o titular, con firma debidamente certificada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planos firmados por profesional matriculado y solicitante, con firmas certificadas del último.",
+        "aclaracion": "Deben incluir el predio, zonas circundantes, distribución de edificios, caminos, casas, viviendas, locales e instalaciones a escala no menor de 1:1000, planta y corte de recintos con características constructivas y distribución de maquinarias."
+      },
+      {
+        "texto": "Fotografías intervenidas por el representante legal o titular, visualizando interior y exterior de las instalaciones.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ficha de Datos Técnicos (FDT) F2, suscripto por el representante legal de la causante e intervenido por policía jurisdiccional.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Memoria descriptiva de las características constructivas y/o edilicias, firmada por profesional matriculado y solicitante, con firmas certificadas del último.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Memoria descriptiva, planimetría e informe de puesta a tierra del Sistema de Protección contra Descargas Atmosféricas, firmada por profesional matriculado e intervenida por el solicitante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota declarando los tipos de explosivos a almacenar, la capacidad máxima requerida, las medidas de seguridad contra incendio adoptadas y el plano de distribución interno del polvorín (altura, ancho de estibas, distancias entre ellas y a las paredes).",
+        "aclaracion": "Conforme al Decreto 302/83."
+      },
+      {
+        "texto": "Adquirir el Libro de Registro Oficial de Movimientos de Explosivos (entradas y salidas), otorgado por la ANMaC.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ficha de Datos Técnicos (FDT) E2 Anexo, declarando el/los encargado/s del manejo de explosivos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación vigente de los encargados declarados: Certificado de aptitud psicofísica, certificado de antecedentes policiales o judiciales, Curriculum vitae y/o Título Habilitante.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 200000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/habilitacion-rehabilitacion-polvorin-tipo-b-c-o-e-0"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 60000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/habilitacion-rehabilitacion-polvorin-tipo-b-c-o-e-0"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/habilitacion-rehabilitacion-polvorin-tipo-b-c-o-e-0",
+      "titulo": "Habilitación-rehabilitación polvorín tipo A, B, C o E | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T16:43:29.351Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La vigencia es de cinco años."
+  ]
+}

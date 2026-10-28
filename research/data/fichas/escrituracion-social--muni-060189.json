@@ -1,0 +1,130 @@
+{
+  "tramite": {
+    "slug": "escrituracion-social",
+    "nombre": "Escrituración Social",
+    "nombre_busqueda": "Escrituración Social",
+    "resumen": "Trámite para regularizar la propiedad de inmuebles mediante escritura pública, requiriendo documentos de identidad, compraventa y, en algunos casos, sucesiones.",
+    "sinonimos": [],
+    "temas": [
+      "catastro-e-inmuebles",
+      "tasa-inmobiliaria-y-servicios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060189",
+  "organismo": {
+    "nombre": "Municipalidad de Coronel Dorrego",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas físicas"
+    ],
+    "requisitos": [
+      {
+        "texto": "Boleto de compraventa entre vendedor y comprador",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cesiones autorizadas con firma del vendedor (si existen)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Escritura antecedente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano respectivo (si el inmueble se originó por subdivisión posterior al título de propiedad)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopias del DNI del comprador y vendedor (1º y 2º hoja)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta de matrimonio o libreta (si el vendedor es casado)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Sentencia de divorcio (si el vendedor es divorciado)",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUIT/CUIL del comprador y vendedor",
+        "aclaracion": null
+      },
+      {
+        "texto": "Escrito donde se denuncia el bien a escriturar (en original o copia certificada por el Juzgado, en caso de fallecimiento del titular de dominio)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaratoria de herederos (en original o copia certificada por el Juzgado, en caso de fallecimiento del titular de dominio)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Auto que ordena la inscripción de la Declaratoria de Herederos, con relación al inmueble que se pretende transferir (en original o copia certificada por el Juzgado, en caso de fallecimiento del titular de dominio)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://dorrego.gob.ar/mun/direcciones/administracion/menu/legales/escrituracion-social.php",
+      "titulo": "Legales - Esc. Social",
+      "bloques": [
+        "quien",
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T22:27:21.360Z"
+    },
+    {
+      "url": "https://dorrego.gob.ar/mun/direcciones/administracion/menu/hacienda/oficinas.php",
+      "titulo": "Hacienda - Oficinas",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T22:27:21.360Z"
+    },
+    {
+      "url": "https://dorrego.gob.ar/mun/direcciones/administracion/menu/compras/licitaciones.php",
+      "titulo": "Compras - Licitaciones",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T22:27:21.360Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de oficinas",
+    "Localidad de oficinas",
+    "Nombre de oficinas",
+    "Portal",
+    "Jurisdicción",
+    "Vigente desde",
+    "Nombre del trámite",
+    "Sinonimos",
+    "Temas",
+    "Temas propuestos",
+    "Organismo",
+    "Quién puede",
+    "Requisitos",
+    "Pasos online",
+    "Pasos presencial",
+    "Requiere turno",
+    "Turno URL",
+    "Plazo",
+    "Consejos",
+    "Costos",
+    "Oficinas",
+    "Fuentes"
+  ]
+}

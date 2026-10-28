@@ -1,0 +1,137 @@
+{
+  "tramite": {
+    "slug": "certificar-exclusion-del-iva",
+    "nombre": "Certificar la exclusión del IVA",
+    "nombre_busqueda": "Certificar exclusión del IVA",
+    "resumen": "Solicitá el certificado de exclusión total o parcial de los regímenes de retención, percepción y/o de pagos a cuenta del IVA en línea desde ARCA.",
+    "sinonimos": [
+      "Certificado de exclusión del impuesto al valor agregado",
+      "Certificado de exclusión ret/percep del IVA"
+    ],
+    "temas": [
+      "cuil-y-clave-de-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración Federal de Ingresos Públicos",
+    "sigla": "AFIP",
+    "web": "https://www.argentina.gob.ar/afip"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Responsables inscriptos en el impuesto que cumplan con los siguientes requisitos:"
+    ],
+    "requisitos": [
+      {
+        "texto": "Revestir el carácter de responsable inscripto en el Impuesto al Valor Agregado (IVA).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener actualizada la información respecto de las actividades económicas que se realizan.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener actualizado el domicilio fiscal declarado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Haber presentado las declaraciones juradas del IVA y de los recursos de la seguridad social, correspondientes a los 12 últimos períodos fiscales, vencidas con anterioridad a la fecha de solicitud.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Haber presentado la última declaración jurada del impuesto a las ganancias y de impuesto sobre los bienes personales, según corresponda, vencidas a la fecha de la solicitud.",
+        "aclaracion": null
+      },
+      {
+        "texto": "No registrar deuda líquida y exigible con ARCA a la fecha de solicitud.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poseer saldo de libre disponibilidad, que surja de la última Declaración Jurada del IVA vencida a la fecha de solicitud.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dicho saldo deberá ser equivalente, como mínimo, al 20% del promedio del impuesto determinado en las últimas 12 declaraciones juradas, con excepción de aquellos contribuyentes cuyas operaciones estén gravadas con alícuota reducida, a quienes se les aplicará distintas pautas de control tendientes a…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poseer CAI (Código de Autorización de Impresión) vigente al momento de presentación de la solicitud.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Haber cumplido, de corresponder, con la obligación de presentación de la declaración jurada del régimen de información establecido por la Resolución General 3293 y su complementaria, del último período fiscal vencido a la fecha de presentación de la solicitud.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a Acceso con Clave Fiscal de ARCA con tu CUIT/CUIL, servicio 'Certificados de Exclusión Ret/Percep del IVA y Certificados de Exclusión Percep del IVA - Aduana'."
+      },
+      {
+        "texto": "Como constancia, el sistema emitirá un comprobante, que tendrá el carácter de acuse de recibo."
+      },
+      {
+        "texto": "Luego, dentro de los 2 días corridos contados a partir del día siguiente al de la presentación, ingresá nuevamente al sistema, con el fin de consultar el resultado."
+      },
+      {
+        "texto": "Si tu solicitud fuese observada, el sistema reflejará las inconsistencias detectadas por el organismo."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Deberás presentarte en la dependencia en la cual estás inscripto/a dentro de los 10 días corridos a partir del día siguiente, inclusive, de la presentación de la solicitud, con la documentación que permita evaluar los controles efectuados."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si no te presentás en el plazo establecido, la solicitud será archivada.",
+      "En cualquier etapa del trámite podrás desistir de la solicitud a través del mismo servicio.",
+      "Si tu solicitud fuese observada, deberás presentarte en la dependencia en la cual estás inscripto/a dentro de los 10 días corridos a partir del día siguiente, inclusive, de la presentación de la solicitud, con la documentación que permita evaluar los controles efectuados."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/certificar-la-exclusion-del-iva",
+      "titulo": "Certificar la exclusión del IVA | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T04:25:27.330Z"
+    },
+    {
+      "url": "https://www.afip.gob.ar/iva/solicitud-certificados-exclusion/requisitos.asp",
+      "titulo": "Certificados de exclusión - IVA | ARCA",
+      "bloques": [
+        "quien",
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T04:25:27.330Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T04:25:27.330Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La vigencia del certificado es de 6 meses calendarios, contados a partir del primer día del mes inmediato siguiente a aquel en que sea resuelta favorablemente.",
+    "El monto del saldo de libre disponibilidad debe ser equivalente al 20% del promedio del impuesto determinado en las últimas 12 declaraciones juradas, con excepción de aquellos contribuyentes cuyas operaciones estén gravadas con alícuota reducida, a quienes se les aplicará distintas pautas de control tendientes a verificar la condición indicada.",
+    "Para importadores que no cumplan con el requisito del saldo de libre disponibilidad, se requiere estar inscripto y habilitado en carácter de importador/exportador en los Registros Especiales Aduaneros con antigüedad igual o mayor a 1 año y no registrar suspensiones superiores a 31 días corridos, consideradas individualmente, en los últimos 12 meses.",
+    "Para importadores que no cumplan con el requisito del saldo de libre disponibilidad, se requiere haber oficializado en los últimos 12 meses anteriores a la solicitud, al menos 12 despachos de importación con mercaderías libradas a plaza (Estado Cancelado), por un monto de valor FOB igual o superior a U$S 300.000.- o su equivalente en otras monedas al tipo de cambio considerado en la oficialización.",
+    "Para importadores que no cumplan con el requisito del saldo de libre disponibilidad, se requiere estar inscripto como empleador, habiendo declarado 2 trabajadores en relación de dependencia, como mínimo."
+  ]
+}

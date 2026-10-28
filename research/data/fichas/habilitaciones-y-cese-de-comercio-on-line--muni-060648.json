@@ -1,0 +1,201 @@
+{
+  "tramite": {
+    "slug": "habilitacion-y-cese-de-comercio",
+    "nombre": "Habilitación y cese de comercio",
+    "nombre_busqueda": "habilitar o dar de baja un comercio",
+    "resumen": "Consultá en línea si podés habilitar un comercio o iniciar su cese. Después, imprimí el formulario y presentalo con la documentación requerida en la oficina correspondiente.",
+    "sinonimos": [
+      "habilitación comercial",
+      "baja de habilitación comercial"
+    ],
+    "temas": [
+      "habilitacion-comercial",
+      "cambios-y-baja-de-habilitacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060648",
+  "organismo": {
+    "nombre": "Municipio de Presidente Perón",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés iniciar la habilitación de un comercio o una industria.",
+      "Si tenés un negocio habilitado y cesás la actividad, tenés que comunicar la baja al Municipio."
+    ],
+    "requisitos": [
+      {
+        "texto": "Apellido y nombres.",
+        "aclaracion": "Para consultar la habilitación."
+      },
+      {
+        "texto": "Documento de identidad (DNI).",
+        "aclaracion": "Para consultar la habilitación."
+      },
+      {
+        "texto": "Número de partida del inmueble donde funciona el comercio o la industria.",
+        "aclaracion": "Para consultar la habilitación. Está en el recibo de la Tasa por Servicios Municipales Urbanos."
+      },
+      {
+        "texto": "Código de actividad del comercio.",
+        "aclaracion": "Para consultar la habilitación. Se obtiene en el servicio Sistema Registral de AFIP, en Datos de Contribuyente, reflejo de datos registrados y datos de actividad económica."
+      },
+      {
+        "texto": "Superficie afectada al comercio.",
+        "aclaracion": "Para consultar la habilitación."
+      },
+      {
+        "texto": "Formulario de Declaración Jurada impreso.",
+        "aclaracion": "Para la habilitación. Presentalo con la documentación requerida dentro de los 30 días corridos desde su emisión."
+      },
+      {
+        "texto": "Formulario de Localización impreso.",
+        "aclaracion": "Si corresponde hacer el trámite de localización. Presentalo con la documentación requerida dentro de los 30 días corridos desde su emisión."
+      },
+      {
+        "texto": "Número de inscripción del comercio.",
+        "aclaracion": "Para consultar el cese. Está en el recibo de pago de la tasa por Inspección de Seguridad e Higiene."
+      },
+      {
+        "texto": "Fecha de cese de la actividad comercial o industrial.",
+        "aclaracion": "Para consultar el cese."
+      },
+      {
+        "texto": "DNI.",
+        "aclaracion": "Para el cese, si sos una persona física."
+      },
+      {
+        "texto": "Contrato de sociedad.",
+        "aclaracion": "Para el cese, si sos una persona jurídica."
+      },
+      {
+        "texto": "Acta vigente de designación de cargos.",
+        "aclaracion": "Para el cese, si sos una persona jurídica."
+      },
+      {
+        "texto": "Constancia de baja de la actividad ante AFIP.",
+        "aclaracion": "Para el cese."
+      },
+      {
+        "texto": "Constancia de baja de la actividad ante ARBA.",
+        "aclaracion": "Para el cese."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá en el sitio web municipal la consulta de habilitación con los datos solicitados."
+      },
+      {
+        "texto": "Revisá si el inmueble y el contribuyente tienen deuda, si el rubro puede habilitarse en esa ubicación y qué trámite corresponde."
+      },
+      {
+        "texto": "Completá el formulario de habilitación o de localización que se despliega y adjuntá la documentación indicada."
+      },
+      {
+        "texto": "Imprimí el formulario de Declaración Jurada y anotá el número de inicio de trámite."
+      },
+      {
+        "texto": "Si vas a cesar la actividad, primero pedí la baja ante AFIP con tu CUIT y clave fiscal por internet."
+      },
+      {
+        "texto": "Pedí la baja ante ARBA con tu CIT por internet."
+      },
+      {
+        "texto": "Completá en el sitio web municipal la consulta de cese con los datos solicitados y revisá si tenés deuda pendiente."
+      },
+      {
+        "texto": "Completá el formulario de Solicitud de Baja de Habilitación Comercial con la documentación que indique."
+      },
+      {
+        "texto": "Imprimí el formulario de Declaración Jurada y anotá el número de inicio de trámite."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el formulario de Localización y la documentación en la Secretaría de Medio Ambiente y Planificación Estratégica, si te corresponde ese trámite."
+      },
+      {
+        "texto": "Esperá la evaluación del impacto ambiental y la resolución sobre la localización solicitada."
+      },
+      {
+        "texto": "Recibí por correo electrónico el Certificado de Localización si aprueban la solicitud."
+      },
+      {
+        "texto": "Presentá el formulario de Habilitación y la documentación en la Dirección de Rentas."
+      },
+      {
+        "texto": "Recibí el Certificado de Habilitación Provisoria si los datos son correctos y presentaste la documentación requerida."
+      },
+      {
+        "texto": "Permití la inspección municipal dentro de los 30 días corridos desde la emisión del Certificado de Habilitación Provisoria."
+      },
+      {
+        "texto": "Subsaná las observaciones de la inspección dentro de los 30 días corridos, si te las hacen."
+      },
+      {
+        "texto": "Recibí el Certificado de Habilitación Definitiva después de que la inspección resulte satisfactoria."
+      },
+      {
+        "texto": "Pagá la deuda pendiente si aparece en la consulta de cese, para finalizar la baja."
+      },
+      {
+        "texto": "Presentá el formulario de Cese y la documentación en la Dirección de Rentas."
+      },
+      {
+        "texto": "Recibí el Certificado de Cese si los datos son correctos y presentaste la documentación requerida."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "La inspección se realiza dentro de los 30 días corridos desde la emisión del Certificado de Habilitación Provisoria. Si hay observaciones, tenés 30 días corridos para corregirlas. Tras una inspección…",
+    "consejos": [
+      "Antes de alquilar, comprar o invertir en un local, consultá la reglamentación municipal para saber si la actividad es compatible con la zona.",
+      "Si vas a alquilar el inmueble, verificá que tenga plano aprobado por el Municipio y que no registre deuda.",
+      "Para iniciar el negocio, el texto también indica que tenés que inscribirte en AFIP y ARBA, obtener una Libreta Sanitaria o contar con una vigente y hacer el trámite de habilitación municipal.",
+      "El Certificado de Localización se envía por correo electrónico y permite seguir con la habilitación por internet.",
+      "Las presentaciones presenciales se reciben de 8 a 13 hs."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Secretaría de Medio Ambiente y Planificación Estratégica",
+      "direccion": "Crisólogo Larralde 241, primer piso",
+      "localidad": "Crisólogo Larralde 241, primer piso",
+      "horario": null,
+      "fuente_url": "https://presidenteperon.gob.ar/habilitaciones-y-cese-de-comercio-on-line/"
+    },
+    {
+      "nombre": "Dirección de Rentas",
+      "direccion": "Crisólogo Larralde 241, planta baja",
+      "localidad": "Crisólogo Larralde 241, planta baja",
+      "horario": null,
+      "fuente_url": "https://presidenteperon.gob.ar/habilitaciones-y-cese-de-comercio-on-line/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://presidenteperon.gob.ar/habilitaciones-y-cese-de-comercio-on-line/",
+      "titulo": "Habilitaciones y Cese de Comercio On-line – Presidente Perón",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T16:31:15.547Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no informa si el trámite tiene costo ni el monto.",
+    "El texto no indica si hace falta sacar turno.",
+    "El texto no especifica la localidad de las oficinas.",
+    "El texto no informa una fecha exacta de vigencia."
+  ]
+}

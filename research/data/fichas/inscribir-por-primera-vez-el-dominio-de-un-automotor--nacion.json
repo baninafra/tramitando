@@ -1,0 +1,94 @@
+{
+  "tramite": {
+    "slug": "inscripcion-de-vehiculos",
+    "nombre": "Inscribir por primera vez el dominio de un automotor",
+    "nombre_busqueda": "inscribir automotor por primera vez",
+    "resumen": "Este trámite permite anotar el dominio de un vehículo nuevo (0 km) o de uno que no ha sido inscripto previamente. Al finalizar, obtendrás la chapa patente.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro de la Propiedad Automotor",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A los compradores del vehículo, concesionario / agencias o terceros que medien entre ambos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento identificatorio original y fotocopia o copia certificada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de CUIL, CUIT o CDI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de presentación con sello de recepción del organismo receptivo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario 12: Verificación Policial del Vehículo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de fabricación o de importación, según la procedencia del vehículo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitud Tipo 01 Nacional o Solicitud Tipo 01 Importado, debidamente completada a favor del comprador, con firma certificada por el concesionario, el encargado del Registro correspondiente al domicilio del adquirente o por escribano.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Factura de compra original y fotocopia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación obtenida a través de la agencia / concesionaria donde compraste tu vehículo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Buscá el Registro Automotor que corresponde al domicilio del comprador."
+      },
+      {
+        "texto": "Dirigite al Registro con toda la documentación requerida."
+      },
+      {
+        "texto": "Entregá la documentación en el Registro y completá el formulario 13 que te entregarán allí para poder dar de alta tu nueva patente."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "48 horas",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribir-por-primera-vez-el-dominio-de-un-automotor",
+      "titulo": "Inscribir por primera vez el dominio de un automotor | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-26T17:03:00.177Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La información sobre turnos no se encuentra en el texto de las páginas proporcionadas."
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "tramite": {
+    "slug": "tramitar-certificado-unico-discapacidad",
+    "nombre": "Tramitar el Certificado Único de Discapacidad",
+    "nombre_busqueda": "sacar el CUD",
+    "resumen": "Podés pedir una evaluación de una junta interdisciplinaria para determinar si corresponde emitir el CUD. El trámite es voluntario y gratuito.",
+    "sinonimos": [
+      "CUD",
+      "Certificado Único de Discapacidad"
+    ],
+    "temas": [
+      "certificado-unico-de-discapacidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060547",
+  "organismo": {
+    "nombre": "Municipalidad de Monte",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que quieran pedir una evaluación para determinar si tienen una discapacidad."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documentación indicada por la consulta personalizada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificados médicos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informes del equipo de salud que te trata.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planillas del equipo de salud que te trata.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estudios complementarios.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Respondé las preguntas de la consulta personalizada para saber qué documentación llevar y dónde pedir un turno."
+      },
+      {
+        "texto": "Reuní la documentación con el equipo de salud que te trata."
+      },
+      {
+        "texto": "Acercate al lugar que te asignaron y pedí un turno para la Junta Evaluadora."
+      },
+      {
+        "texto": "Anotá el día que te asignen para la evaluación y asistí."
+      },
+      {
+        "texto": "Retirá el CUD o la denegatoria en el lugar donde te evaluaron, en la fecha que te indiquen. Puede hacerlo cualquier persona mayor de 18 años con tu documento original."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El CUD tiene una vigencia máxima de 5 años para personas de 0 a 5 años y de 10 años para personas mayores de 5 años. La Junta Evaluadora interdisciplinaria determina la vigencia."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": true,
+      "monto_centavos": null,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://monte.gob.ar/cud/"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://monte.gob.ar/cud/",
+      "titulo": "Certificado Único de Discapacidad (CUD) - Municipalidad de Monte",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T15:12:52.760Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/cud/consulta-de-requisitos-para-tramitar-el-cud",
+      "titulo": "Consulta de requisitos para tramitar el Certificado Único de Discapacidad (CUD) | Argentina.gob.ar",
+      "bloques": [
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T15:12:52.760Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La página no informa el plazo para obtener el CUD o la denegatoria.",
+    "La página indica que el turno se pide en el lugar asignado, pero no confirma si se requiere turno previo ni cómo se obtiene."
+  ]
+}

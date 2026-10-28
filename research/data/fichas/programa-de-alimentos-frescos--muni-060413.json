@@ -1,0 +1,74 @@
+{
+  "tramite": {
+    "slug": "programa-de-alimentos-frescos",
+    "nombre": "Programa de Alimentos frescos",
+    "nombre_busqueda": "alimentos frescos para personas con patologías",
+    "resumen": "El programa entrega mensualmente alimentos frescos a personas derivadas por un profesional médico que tienen determinadas patologías y necesitan alcanzar un estado nutricional adecuado.",
+    "sinonimos": [
+      "entrega mensual de alimentos frescos"
+    ],
+    "temas": [
+      "asistencia-alimentaria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060413",
+  "organismo": {
+    "nombre": "Subsecretaría de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés acceder si tenés HIV, TBC, desnutrición o bajo peso y te deriva un profesional médico."
+    ],
+    "requisitos": [
+      {
+        "texto": "Resumen de historia clínica emitido por el Hospital o una Unidad Sanitaria, con tu diagnóstico y la dieta indicada.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el resumen de historia clínica en la Subsecretaría de Salud."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "La entrega de alimentos es mensual.",
+    "consejos": [
+      "Según tu patología, te pueden pedir controles cada cuatro o seis meses y la renovación del certificado."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Subsecretaría de Salud",
+      "direccion": "Gandini 92",
+      "localidad": "Junín",
+      "horario": null,
+      "fuente_url": "https://www.junin.gob.ar/content/programa-de-alimentos-frescos"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.junin.gob.ar/content/programa-de-alimentos-frescos",
+      "titulo": "Programa de Alimentos frescos | Gobierno de Junín",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos",
+        "donde",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T13:53:58.047Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa un plazo para iniciar o completar el trámite.",
+    "No se indica si necesitás turno."
+  ]
+}

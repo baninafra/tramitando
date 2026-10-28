@@ -1,0 +1,92 @@
+{
+  "tramite": {
+    "slug": "solicitud-al-sistema-nacional-de-certificacion-snc",
+    "nombre": "Solicitud al Sistema Nacional de Certificación SNC",
+    "nombre_busqueda": "Solicitud SNC",
+    "resumen": "El SNC ofrece asistencia tecnológica para el reconocimiento de certificaciones y organismos en sectores como alimentos, energía y salud. Se envía un correo electrónico con los datos de la solicitud.",
+    "sinonimos": [
+      "Solicitud al SNC",
+      "Asistencia tecnológica SNC"
+    ],
+    "temas": [
+      "legalizaciones-y-apostillados"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Sistema Nacional de Certificación",
+    "sigla": "SNC",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Particulares",
+      "Empresas",
+      "Organismos del sector público o privado",
+      "Entidades gubernamentales, de ciencia e investigación"
+    ],
+    "requisitos": [
+      {
+        "texto": "Correo electrónico",
+        "aclaracion": null
+      },
+      {
+        "texto": "Asunto del correo: Asistencia Tecnológica",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombre de la asistencia que necesitás",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombre de la empresa u organismo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si sos particular, nombre y apellido",
+        "aclaracion": "Si sos particular"
+      },
+      {
+        "texto": "Motivo de la solicitud de asistencia",
+        "aclaracion": null
+      },
+      {
+        "texto": "Mail y teléfono de contacto",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Enviá un correo electrónico con el asunto Asistencia Tecnológica a [email protected]"
+      },
+      {
+        "texto": "Completá en el cuerpo del mail los datos solicitados: nombre de la asistencia, nombre de la empresa u organismo, nombre y apellido (si sos particular), motivo de la solicitud y mail y teléfono de contacto."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitud-al-sistema-nacional-de-certificacion-snc",
+      "titulo": "Solicitud al Sistema Nacional de Certificación (SNC) | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T16:53:08.338Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de correo electrónico exacta no aparece en el texto, solo se indica [email protected]",
+    "Plazo de respuesta no especificado en el texto, solo se menciona comunicación a la brevedad"
+  ]
+}

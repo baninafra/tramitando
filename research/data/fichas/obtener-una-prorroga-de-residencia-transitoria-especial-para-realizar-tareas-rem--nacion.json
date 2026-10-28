@@ -1,0 +1,120 @@
+{
+  "tramite": {
+    "slug": "prorroga-residencia-transitoria-especial-cientifico",
+    "nombre": "Prorroga de residencia transitoria especial para realizar tareas remuneradas o no",
+    "nombre_busqueda": "Prorroga residencia transitoria especial",
+    "resumen": "Extende tu permanencia en el país si eres extranjero con residencia transitoria para tareas remuneradas o no en campos científico, profesional, técnico, religioso o artístico.",
+    "sinonimos": [
+      "Prorroga residencia transitoria especial",
+      "Extensión residencia transitoria especial"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria",
+      "residencias-temporarias-y-permanentes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Seguridad Nacional",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas extranjeras que hayan obtenido una residencia transitoria para realizar tareas remuneradas o no, en el campo científico, profesional, técnico, religioso o artístico y deseen extender su permanencia."
+    ],
+    "requisitos": [
+      {
+        "texto": "Pasaporte válido y vigente (todas las nacionalidades) o documento de viaje del MERCOSUR.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Nacionalidad emitido por autoridad Consular (solo si no tenés documento de viaje del MERCOSUR).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Antecedentes Penales Argentinos emitido por el Registro Nacional de Reincidencia (solo para mayores de 16 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditación de Domicilio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación probatoria que acredite la continuidad de la actividad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Legalización del Consulado Argentino o Apostilla para documentación expedida en el extranjero.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Traducción al castellano legalizada por Colegio de Traductores para documentación en idioma extranjero.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sistema RaDEX."
+      },
+      {
+        "texto": "Registrate como usuario."
+      },
+      {
+        "texto": "Completá el formulario de solicitud."
+      },
+      {
+        "texto": "Aboná las tasas correspondientes."
+      },
+      {
+        "texto": "Adjuntá la documentación y datos requeridos según el tipo de residencia."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación original el día de la cita."
+      },
+      {
+        "texto": "El Certificado de Antecedentes Penales Argentinos se presenta obligatoriamente el día de la cita fuera de RaDEX."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://www.argentina.gob.ar/turnos",
+    "plazo": "hasta un 1 mes",
+    "consejos": [
+      "La residencia transitoria se otorga por un plazo de hasta un mes, prorrogable.",
+      "Es necesario que te encuentres dentro del territorio de la República Argentina."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-una-prorroga-de-residencia-transitoria-especial-para-realizar-tareas-remuneradas-o",
+      "titulo": "Obtener una prórroga de residencia transitoria especial para realizar tareas remuneradas o no, en el campo científico, profesional, técnico, religioso o artístico | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T07:20:52.194Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T07:20:52.194Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de las tasas migratorias no se especifica en el texto, solo se indica que deben abonarse en la plataforma RaDEX.",
+    "La dirección exacta de las oficinas de Migraciones no se especifica en el texto, solo se indica que se debe estar dentro del territorio de la República Argentina."
+  ]
+}

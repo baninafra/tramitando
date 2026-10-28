@@ -1,0 +1,108 @@
+{
+  "tramite": {
+    "slug": "prorroga-residencia-transitoria-academico",
+    "nombre": "Obtener una prórroga de una residencia transitoria como académico",
+    "nombre_busqueda": "prorroga residencia transitoria académico",
+    "resumen": "Extende tu permanencia en el país si obtuviste residencia transitoria como académico bajo acuerdos con instituciones de educación superior. El trámite es semipresencial y requiere documentación personal, antecedentes penales y constancia de la institución recepcionante.",
+    "sinonimos": [
+      "prórroga residencia transitoria",
+      "extensión residencia transitoria académico"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria",
+      "residencias-temporarias-y-permanentes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Migraciones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas extranjeras que hayan obtenido una residencia transitoria en la categoría de académico y deseen extender su permanencia."
+    ],
+    "requisitos": [
+      {
+        "texto": "Pasaporte válido y vigente (todas las nacionalidades) o documento de viaje del MERCOSUR legalizado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Nacionalidad emitido por autoridad Consular, legalizado por el Ministerio de Relaciones Exteriores, Comercio Internacional y Culto de la Nación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Antecedentes Penales Argentinos emitido por el Registro Nacional de Reincidencia o Policía Federal (solo para mayores de 16 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado que acredite fehacientemente que no registra condenas anteriores ni procesos penales en trámite, emitido por las autoridades competentes de los países donde haya residido por un plazo superior a un año durante los últimos tres años (solo para mayores de 16 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de la institución recepcionante donde certifique que continúa con el acuerdo académico que diera encuadre a su residencia, legalizada por el organismo competente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Traducción al castellano de toda documentación expedida en idioma extranjero, efectuada por Traductor Público Nacional y legalizada por el Colegio de Traductores.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá tu trámite a distancia ingresando en el sistema RADEX."
+      },
+      {
+        "texto": "Registrate como usuario, completá el formulario de solicitud y aboná las tasas correspondientes."
+      },
+      {
+        "texto": "Adjuntá la documentación y datos requeridos según el tipo de residencia a la que quieras aplicar."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación original y el Certificado de Antecedentes Penales Argentinos (si se tramita por fuera de RADEX) el día de la cita."
+      },
+      {
+        "texto": "Recibí el email con la fecha de tu cita presencial si cumplís con los requisitos para formalizar tu solicitud."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La residencia transitoria se otorga por un plazo máximo de un año, prorrogable.",
+      "Es necesario que te encuentres dentro del territorio de la República Argentina para realizar el trámite.",
+      "Podés realizar tu trámite con cita preferencial abonando un monto adicional."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-una-prorroga-de-una-residencia-transitoria-como-academico",
+      "titulo": "Obtener una prórroga de una residencia transitoria como académico | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T07:23:07.588Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T07:23:07.588Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de las tasas migratorias no se especifica en el texto, solo se indica que deben abonarse en el sistema RADEX.",
+    "La fecha de vigencia de la resolución o decreto que regula este trámite no se especifica en el texto."
+  ]
+}

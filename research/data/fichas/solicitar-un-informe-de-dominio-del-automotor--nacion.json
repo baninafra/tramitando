@@ -1,0 +1,109 @@
+{
+  "tramite": {
+    "slug": "solicitar-informe-historico-de-dominio-del-automotor",
+    "nombre": "Solicitar informe histórico de dominio del automotor",
+    "nombre_busqueda": "informe historico dominio automotor",
+    "resumen": "Conseguí el historial completo de titulares de un vehículo desde su primera inscripción hasta hoy. Se puede hacer en línea o presencialmente.",
+    "sinonimos": [
+      "informe historico dominio",
+      "historial dominio automotor"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Justicia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada que sea mayor de edad."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento identificatorio: DNI (LC o LE solo si tenés más de 75 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pasaporte si sos extranjero sin residencia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI si sos extranjero con residencia permanente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dni, ci, ci del país de origen o pasaporte si sos de países limítrofes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La constancia de Documento en trámite no acredita identidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos de identificación del vehículo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la web del trámite y elegí la opción Informes de dominio e históricos."
+      },
+      {
+        "texto": "Completá el formulario con tus datos personales y de contacto (correo electrónico y teléfono)."
+      },
+      {
+        "texto": "Aboná el arancel a través de Pago mis cuentas."
+      },
+      {
+        "texto": "Recibí el informe en tu correo electrónico dos días después."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Completa los formularios en el Registro que elijas: Formulario 02 si lo hacés en el Registro de la radicación, o Formulario 57 si lo hacés en cualquier otro Registro Seccional."
+      },
+      {
+        "texto": "Paga los aranceles correspondientes."
+      },
+      {
+        "texto": "Retirá el informe luego de las 48 horas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "24 horas",
+    "consejos": [
+      "El trámite lleva 24 horas.",
+      "El Formulario 02 es gratuito si certificás la firma ante el Registro Seccional y presentás el trámite en ese momento.",
+      "El Formulario TP es gratuito si realizás el trámite en línea."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-informe-historico-de-dominio-del-automotor",
+      "titulo": "Solicitar informe histórico de dominio del automotor | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T10:36:15.013Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de oficinas",
+    "Localidad de oficinas",
+    "Nombre de oficinas",
+    "Vigencia desde fecha exacta"
+  ]
+}

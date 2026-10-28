@@ -1,0 +1,117 @@
+{
+  "tramite": {
+    "slug": "presentacion-de-comprobantes-autogestion-de-proveedores-dadse",
+    "nombre": "Presentación de comprobantes – Autogestión de proveedores DADSE",
+    "nombre_busqueda": "Presentación de comprobantes DADSE",
+    "resumen": "Los proveedores de la DADSE pueden presentar sus comprobantes de pago de forma gratuita en línea a través del TAD.",
+    "sinonimos": [
+      "Presentación de comprobantes DADSE",
+      "Comprobantes proveedores DADSE"
+    ],
+    "temas": [
+      "proveedores-y-compras"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Salud",
+    "sigla": "MSAL",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A los proveedores de la DADSE que deban presentar comprobantes de pago."
+    ],
+    "requisitos": [
+      {
+        "texto": "Contar con una clave fiscal nivel 3",
+        "aclaracion": null
+      },
+      {
+        "texto": "Completar el formulario de Autogestión de Proveedores - DADSE",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante electrónico a presentar (factura)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Remito Resolución Ministerial que aprueba el subsidio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de trazabilidad, acompañando con troquel físico en caso de corresponder",
+        "aclaracion": null
+      },
+      {
+        "texto": "Otra documentación",
+        "aclaracion": "En caso de corresponder y que el medicamento cuente con troquel se deberá acompañar de forma física la identificación (Número de Trazabilidad) del producto médico."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al TAD, seleccioná el trámite Presentación de comprobantes – Autogestión de Proveedores (DADSE)"
+      },
+      {
+        "texto": "Seleccioná la opción Iniciar el trámite a través de AFIP o Mi Argentina"
+      },
+      {
+        "texto": "Validá los datos del solicitante"
+      },
+      {
+        "texto": "Completá el formulario con los datos del trámite"
+      },
+      {
+        "texto": "Adjuntá el comprobante electrónico (factura), el remito, la Resolución y otra documentación si corresponde"
+      },
+      {
+        "texto": "Confirmá el trámite"
+      },
+      {
+        "texto": "El sistema te entregará un número de expediente para el seguimiento"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Mesa de Entradas y Notificaciones de la Dirección de Despacho – MSAL",
+      "direccion": "AV 9 julio 1925 PB",
+      "localidad": "AV 9 julio 1925 PB",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/presentacion-de-comprobantes-autogestion-de-proveedores-dadse"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/presentacion-de-comprobantes-autogestion-de-proveedores-dadse",
+      "titulo": "Presentación de Comprobantes – Autogestión de Proveedores (DADSE) | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T07:15:02.471Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T07:15:02.471Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite no está especificada en el texto."
+  ]
+}

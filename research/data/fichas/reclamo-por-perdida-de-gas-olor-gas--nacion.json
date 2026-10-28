@@ -1,0 +1,120 @@
+{
+  "tramite": {
+    "slug": "reclamo-por-perdida-de-gas-olor-gas",
+    "nombre": "Reclamo por pérdida de gas (olor a gas)",
+    "nombre_busqueda": "Reclamo por pérdida de gas",
+    "resumen": "Si la Prestadora no responde o su respuesta es insatisfactoria, podés reclamar ante el ENARGAS. El trámite es gratuito y se puede hacer en línea o presencialmente.",
+    "sinonimos": [
+      "Queja ante ENARGAS",
+      "Denuncia por olor a gas"
+    ],
+    "temas": [
+      "seguridad-y-denuncias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ente Nacional Regulador del Gas",
+    "sigla": "ENARGAS",
+    "web": "https://www.argentina.gob.ar/servicio/reclamo-por-perdida-de-gas-olor-gas"
+  },
+  "contenido": {
+    "quien_puede": [
+      "El cliente y/o el usuario."
+    ],
+    "requisitos": [
+      {
+        "texto": "Ubicación exacta del olor a gas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descripción del reclamo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Consultá las direcciones y números telefónicos de la Prestadora en su factura de gas."
+      },
+      {
+        "texto": "Efectuá su queja ante la Prestadora del Servicio a fin de lograr la inmediata intervención por parte de la Prestadora (cumplimentando la Norma NAG – 100)."
+      },
+      {
+        "texto": "Importá siempre conservá el número de su reclamo ante la Prestadora."
+      },
+      {
+        "texto": "Si la Distribuidora no responde luego de un día de realizado el reclamo o su respuesta es insatisfactoria, contactate con el ENARGAS."
+      },
+      {
+        "texto": "Ingresá al formulario de reclamos en la página del ENARGAS."
+      },
+      {
+        "texto": "Completá los datos personales del reclamante (DNI, e-mail, domicilio postal, localidad, código postal, provincia, teléfono)."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Personalmente en Sede Central, Suipacha 636, C1008AAN, Ciudad Autónoma de Buenos Aires o en la Sede más próxima a su domicilio, días hábiles de 10 a 16 hs."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Importá exijá el número de reclamo correspondiente y el plazo estimativo para la resolución, datos que la Prestadora está obligada a proporcionarle.",
+      "Recordá que si no estás conforme con la facturación, la prestación del servicio, la gestión de tu deuda o tenés inconvenientes con el suministro de gas, primero debés realizar el reclamo ante tu prestadora de gas.",
+      "Si el motivo de tu Contacto es por una pérdida de gas u otra urgencia, comunicate sin demora con tu prestadora de gas, telefónicamente o por las vías que tenga habilitadas, al número de Urgencias o Emergencias que figura en tu factura de gas.",
+      "Importá que al momento de realizar la inspección para rehabilitar el servicio deberá haber en la vivienda un mayor de edad."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central",
+      "direccion": "Suipacha 636, C1008AAN, Ciudad Autónoma de Buenos Aires",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/reclamo-por-perdida-de-gas-olor-gas"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reclamo-por-perdida-de-gas-olor-gas",
+      "titulo": "Reclamo por pérdida de gas (olor a gas) | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:41:56.694Z"
+    },
+    {
+      "url": "https://www.enargas.gob.ar/secciones/contacto/reclamos-formulario.php",
+      "titulo": "ENReGE",
+      "bloques": [
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:41:56.694Z"
+    },
+    {
+      "url": "https://www.enargas.gov.ar/secciones/oficina-virtual/oficina-virtual.php",
+      "titulo": "Oficina virtual ENARGAS",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T02:41:56.694Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo exacto para la resolución del reclamo ante el ENARGAS.",
+    "Si el trámite requiere turno para presentarse presencialmente."
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "tramite": {
+    "slug": "autogestion-inmuebles-vehiculos-y-tasas",
+    "nombre": "Autogestión de Inmuebles, Vehículos y Tasas Municipales",
+    "nombre_busqueda": "Autogestión de Inmuebles, Vehículos y Tasas Municipales",
+    "resumen": "Podés realizar el pago de tasas y servicios municipales directamente desde tu domicilio sin necesidad de acudir a la oficina.",
+    "sinonimos": [
+      "Pago de tasas en línea",
+      "Pago de servicios municipales online"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "tasa-inmobiliaria-y-servicios",
+      "patente-automotor-municipal",
+      "boletas-y-vencimientos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060420",
+  "organismo": {
+    "nombre": "Municipalidad de La Costa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona natural o jurídica que tenga deuda vencida o vencible con el municipio."
+    ],
+    "requisitos": [
+      {
+        "texto": "Copia del DNI o CUIL del responsable del pago.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de cuenta bancaria donde recibir el pago.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de boleta o comprobante de deuda.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal de autogestión de la Municipalidad de La Costa."
+      },
+      {
+        "texto": "Ingresá con tu usuario y contraseña."
+      },
+      {
+        "texto": "Buscá la sección de tasas y servicios."
+      },
+      {
+        "texto": "Seleccioná la boleta o servicio que querés pagar."
+      },
+      {
+        "texto": "Completá los datos de tu cuenta bancaria."
+      },
+      {
+        "texto": "Confirmá el pago y guardá el comprobante."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://tramites.lacosta.gob.ar/",
+      "titulo": "Autogestión",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T07:31:21.850Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los montos exactos de las tasas no se especifican en el texto.",
+    "El plazo de vencimiento de cada boleta no se detalla en el texto."
+  ]
+}

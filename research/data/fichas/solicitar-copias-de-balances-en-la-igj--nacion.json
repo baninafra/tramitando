@@ -1,0 +1,88 @@
+{
+  "tramite": {
+    "slug": "solicitar-copias-de-balances-en-la-igj",
+    "nombre": "Solicitar copias de balances en la IGJ",
+    "nombre_busqueda": "Copias de balances IGJ",
+    "resumen": "Para obtener copias de balances de la Inspección General de Justicia, necesitás tener habilitado el servicio Trámites a Distancia (TAD) con clave fiscal nivel 2 o superior, o ser usuario de Mi Argentina.",
+    "sinonimos": [],
+    "temas": [
+      "cuil-y-clave-de-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quiénes tienen habilitado el servicio Trámites a Distancia (TAD) a través de ARCA con clave fiscal nivel 2 o superior, o usuarios de Mi Argentina."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener habilitado el servicio Trámites a Distancia (TAD) a través de ARCA (clave fiscal nivel 2 o superior) o usuario de Mi Argentina.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD."
+      },
+      {
+        "texto": "Seleccioná el trámite Copias y testimonios."
+      },
+      {
+        "texto": "Completá el formulario con los datos requeridos."
+      },
+      {
+        "texto": "Realizá el pago."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Solo se puede solicitar copia de un estado contable por trámite.",
+      "Tanto las copias solicitadas, como las notificaciones y las observaciones que puedan surgir, serán enviadas a la casilla del usuario TAD que solicitó el trámite."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-copias-de-balances-en-la-igj",
+      "titulo": "Solicitar copias de Balances en la IGJ | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T07:59:06.128Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T07:59:06.128Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/",
+      "titulo": "Inicio | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T07:59:06.128Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de cierre del ejercicio para solicitar la copia.",
+    "El monto exacto del trámite común de 6 módulos."
+  ]
+}

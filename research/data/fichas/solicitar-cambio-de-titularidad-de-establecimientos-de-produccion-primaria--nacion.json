@@ -1,0 +1,123 @@
+{
+  "tramite": {
+    "slug": "cambio-de-titularidad-de-establecimientos-de-produccion-primaria",
+    "nombre": "Cambio de titularidad de establecimientos de producción primaria",
+    "nombre_busqueda": "cambio de titularidad senasa",
+    "resumen": "Podés cambiar de responsable sanitario de animales dentro de un mismo establecimiento por autogestión o presencialmente. Se requiere declarar domicilio electrónico y abonar un arancel.",
+    "sinonimos": [
+      "cambio de titularidad senasa",
+      "cambio de responsable sanitario",
+      "cambio de titularidad animales"
+    ],
+    "temas": [
+      "produccion-rural"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Productores agropecuarios que deseen realizar cambio de titularidad (cambio de responsable sanitario) de animales dentro de un mismo establecimiento."
+    ],
+    "requisitos": [
+      {
+        "texto": "Declarar domicilio electrónico mediante el sistema SIGTrámites.",
+        "aclaracion": null
+      },
+      {
+        "texto": "El titular de origen debe emitir la novedad a través del Sistema Integrado de Gestión de Sanidad Animal (Sigsa).",
+        "aclaracion": null
+      },
+      {
+        "texto": "El titular de destino debe realizar la confirmación por esa vía.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si es presencial, se requiere el consentimiento de ambas partes mediante la firma (titular y nuevo titular) sobre el documento que emite el Sistema Integrado de Gestión de Sanidad Animal (Sigsa).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "El titular de origen debe emitir la novedad a través del Sigsa."
+      },
+      {
+        "texto": "Aboná el arancel que corresponda: ver los Medios de pago habilitados – Senasa."
+      },
+      {
+        "texto": "El titular de destino debe realizar la confirmación de cambio de titularidad: ingresar el número de novedad y el código de confirmación que te brinda el Sigsa al CONFIRMAR."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Andá a las oficinas del Senasa autorizadas y solicitá el trámite."
+      },
+      {
+        "texto": "Aboná el arancel que corresponda: ver los Medios de pago habilitados – Senasa."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "A partir del 14 de noviembre de 2018 los productores podrán realizar por autogestión la declaración de nacimiento y muerte de animales y el cambio de titularidad dentro de los establecimientos."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Sanidad Animal",
+      "direccion": "Av. Paseo Colón Nº 367, piso 4º cfrente, C1063ACD, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-cambio-de-titularidad-de-establecimientos-de-produccion-primaria"
+    },
+    {
+      "nombre": "Dirección Nacional de Operaciones",
+      "direccion": "Paseo Colón 367 - Piso 7° - Frente",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-cambio-de-titularidad-de-establecimientos-de-produccion-primaria"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-cambio-de-titularidad-de-establecimientos-de-produccion-primaria",
+      "titulo": "Solicitar cambio de titularidad de establecimientos de producción primaria | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T08:06:54.365Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T08:06:54.365Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/centros-regionales",
+      "titulo": "Centros Regionales | Argentina.gob.ar",
+      "bloques": [
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T08:06:54.365Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Vigencia Sin plazo de vencimiento"
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "tramite": {
+    "slug": "solicitar-autorizacion-destino-exportacion-productos-apicolas",
+    "nombre": "Solicitar autorización de destino exportación para productos apícolas",
+    "nombre_busqueda": "autorizacion exportacion miel senasa",
+    "resumen": "Para exportar miel y productos apícolas, necesitás solicitar la aprobación y certificación zoosanitaria del Senasa. El trámite implica declarar el exportador, el destino y los productos, además de cumplir con el Sistema de Trazabilidad (SITA).",
+    "sinonimos": [
+      "autorizacion exportacion miel",
+      "certificacion zoosanitaria apicultura",
+      "exportacion productos apicolas senasa"
+    ],
+    "temas": [
+      "comercio-e-industria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas exportadoras",
+      "Establecimientos aprobados por el Senasa"
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener habilitado el establecimiento apícola por el Senasa",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estar autorizado para exportar al destino solicitado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Operar bajo el Sistema de Trazabilidad (SITA)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cumplir con los requerimientos de trazabilidad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estar autorizado a operar por SIGCER",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contar con clave fiscal de nivel 2 ó 3",
+        "aclaracion": null
+      },
+      {
+        "texto": "Registrar domicilio electrónico mediante el sistema SIGTrámites",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitar el Formulario de ABM de usuario externo por correo electrónico si necesitás dar el alta del usuario externo",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar a ARCA con clave fiscal y CUIT de la empresa"
+      },
+      {
+        "texto": "Ir a administración de relaciones, buscar SENASA, Servicios Interactivos, Sistema Informático de Trazabilidad Apícola y adherir al sistema con CUIT de la persona o empresa"
+      },
+      {
+        "texto": "Ir a administración de relaciones, buscar SENASA, Servicios Interactivos, SIGCER Lácteos y Apícolas y adherir al sistema con CUIT de la persona o empresa"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El trámite continúa con la verificación oficial de la mercadería en el establecimiento, toma de muestras oficial y remisión al laboratorio del Senasa o de red autorizada por Senasa",
+      "Se requiere verificación de mercadería en frontera y emisión del certificado zoosanitario exportación, si corresponde",
+      "De acuerdo a los países donde se remita los productos se requiere el cumplimiento de los requisitos de los países a los cuales se importa"
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Inocuidad y Calidad Agroalimentaria",
+      "direccion": "Av. Paseo Colon Nº 367, piso 5º cfrente, C1063ACD, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-autorizacion-de-destino-exportacion-para-los-establecimientos-interesados-en"
+    },
+    {
+      "nombre": "sede del Centro Regional Metropolitano",
+      "direccion": "Azopardo 1020 - CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-autorizacion-de-destino-exportacion-para-los-establecimientos-interesados-en"
+    },
+    {
+      "nombre": "Laboratorio Central",
+      "direccion": "Talcahuano 1660 – Martínez, Provincia de Buenos Aires",
+      "localidad": "Martínez",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-autorizacion-de-destino-exportacion-para-los-establecimientos-interesados-en"
+    },
+    {
+      "nombre": "sede del Centro Regional Buenos Aires",
+      "direccion": "Mar de Plata, Provincia de Buenos Aires",
+      "localidad": "Mar de Plata",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-autorizacion-de-destino-exportacion-para-los-establecimientos-interesados-en"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-autorizacion-de-destino-exportacion-para-los-establecimientos-interesados-en",
+      "titulo": "Solicitar autorización de destino exportación para los establecimientos interesados en exportar próductos apícolas | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T04:14:55.632Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T04:14:55.632Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T04:14:55.632Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no está especificado en el texto, solo se indica que se debe abonar según corresponda y consultar los medios de pago habilitados en Senasa",
+    "La fecha de vigencia del trámite no está especificada en el texto, solo se menciona que se aceptan medios electrónicos desde el 4 de enero de 2021 en oficinas específicas"
+  ]
+}

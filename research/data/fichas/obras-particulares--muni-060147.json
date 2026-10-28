@@ -1,0 +1,101 @@
+{
+  "tramite": {
+    "slug": "obras-particulares",
+    "nombre": "Obras Particulares",
+    "nombre_busqueda": "Simulador de derechos de construcción y planos",
+    "resumen": "Herramienta para calcular derechos de construcción y gestionar planos en la ciudad de Carlos Casares.",
+    "sinonimos": [
+      "Simulador de construcción",
+      "Derechos de construcción",
+      "Planos de obra"
+    ],
+    "temas": [
+      "obras-y-construccion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060147",
+  "organismo": {
+    "nombre": "Municipalidad de Carlos Casares",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en realizar obras particulares en la ciudad de Carlos Casares."
+    ],
+    "requisitos": [
+      {
+        "texto": "Acceder al simulador de derechos de construcción.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cargar el plano de la obra.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ingresar los datos de la obra en el formulario.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Verificar los datos ingresados.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Generar el comprobante de pago electrónico.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al simulador de derechos de construcción y planos."
+      },
+      {
+        "texto": "Cargá el plano de la obra."
+      },
+      {
+        "texto": "Completá los datos de la obra en el formulario."
+      },
+      {
+        "texto": "Revisá que toda la información sea correcta."
+      },
+      {
+        "texto": "Generá el comprobante de pago electrónico."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://casares.gob.ar/obras-particulares/",
+      "titulo": "Obras Particulares – Municipalidad de Carlos Casares",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T11:02:28.713Z"
+    },
+    {
+      "url": "https://casares.gob.ar/tramites/adherite-al-comprobante-de-pago-electronico/",
+      "titulo": "Adherite al Comprobante de Pago Electrónico – Municipalidad de Carlos Casares",
+      "bloques": [
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T11:02:28.713Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de los derechos de construcción no se especifica en el texto.",
+    "El plazo de tramitación no se especifica en el texto.",
+    "La dirección exacta de la oficina no se especifica en el texto."
+  ]
+}

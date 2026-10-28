@@ -1,0 +1,122 @@
+{
+  "tramite": {
+    "slug": "denunciar-un-hecho-de-corrupcion",
+    "nombre": "Denunciar un hecho de corrupción",
+    "nombre_busqueda": "Denunciar corrupción",
+    "resumen": "Podés denunciar hechos de corrupción en organismos públicos, empresas y entidades con aporte estatal. El trámite es gratuito y se puede hacer por internet, por teléfono o en persona.",
+    "sinonimos": [
+      "Denunciar corrupción",
+      "Reportar corrupción",
+      "Denunciar hecho de corrupción"
+    ],
+    "temas": [
+      "seguridad-y-denuncias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Oficina Anticorrupción",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Toda persona que desee denunciar un hecho de corrupción."
+    ],
+    "requisitos": [
+      {
+        "texto": "La denuncia debe contener la mayor cantidad de datos acerca de los hechos y los funcionarios intervinientes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La denuncia debe ser precisa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La denuncia debe ser respetuosa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La denuncia debe tratar sobre organismos de la Administración Pública Nacional centralizada y descentralizada, empresas, sociedades y todo otro ente público o privado con participación del Estado o que tenga como principal fuente de recursos el aporte estatal.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Accedé al formulario de denuncia."
+      },
+      {
+        "texto": "Indicá la forma elegida: anónima, con identidad reservada o con identificación."
+      },
+      {
+        "texto": "Completá tus datos."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá tu denuncia personalmente en la Oficina Anticorrupción de 25 de Mayo 544, CABA, de lunes a viernes de 10:00 a 15:00 hs."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si tenés alguna duda o consulta, podés comunicarte con nosotros de 10 a 15 hs. a través de los teléfonos: 0800-444-4462 (54-11) 5300-4100 o personalmente en 25 de Mayo N° 544, CABA.",
+      "Si querés hacer una denuncia sobre un hecho de corrupción, podés realizarla por diferentes canales.",
+      "En caso de que la denuncia exceda la competencia de la Oficina Anticorrupción, se la remitirá al organismo habilitado para darle el trámite adecuado.",
+      "Cuando puedas aportar datos a la investigación pero desees que tus datos personales no se den a conocer, podrás solicitar que se reserven.",
+      "La reglamentación garantiza la reserva en el ámbito administrativo, pero obliga a entregar los datos personales del denunciante mediante el pedido del juez interviniente.",
+      "Aceptamos denuncias anónimas, siempre y cuando cumplan con los requisitos señalados anteriormente."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina Anticorrupción",
+      "direccion": "25 de Mayo 544",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/denunciar-un-hecho-de-corrupcion"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/denunciar-un-hecho-de-corrupcion",
+      "titulo": "Denunciar un hecho de corrupción | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T04:48:12.178Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/anticorrupcion",
+      "titulo": "Oficina Anticorrupción | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T04:48:12.178Z"
+    },
+    {
+      "url": "https://denuncias.anticorrupcion.gob.ar/",
+      "titulo": "Formulario de Denuncias - Oficina Anticorrupción",
+      "bloques": [
+        "requisitos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T04:48:12.178Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo de respuesta o resolución de la denuncia.",
+    "La fecha de vigencia de la normativa actual."
+  ]
+}

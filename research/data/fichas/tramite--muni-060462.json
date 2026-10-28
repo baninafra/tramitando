@@ -1,0 +1,76 @@
+{
+  "tramite": {
+    "slug": "adhesion-factura-electronica-tasas-municipales",
+    "nombre": "Adherir las tasas municipales a factura electrónica",
+    "nombre_busqueda": "factura electrónica de tasas municipales",
+    "resumen": "Podés recibir por mail en formato PDF la boleta municipal que antes recibías en papel. Completá el formulario e indicá para qué tasa querés recibirla.",
+    "sinonimos": [
+      "adhesión a factura electrónica municipal"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060462",
+  "organismo": {
+    "nombre": "Municipalidad de L. N. Alem",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "La página no especifica quiénes pueden adherirse."
+    ],
+    "requisitos": [
+      {
+        "texto": "Ingresá tus datos y el mail donde querés recibir las boletas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Indicá por qué tasa querés recibir la factura por mail.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Indicá el número de partida, comercio o rodado, según corresponda.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario en línea e ingresá tus datos y el mail donde querés recibir las boletas."
+      },
+      {
+        "texto": "Indicá por qué tasa querés recibir la factura y el número de partida, comercio o rodado, según corresponda."
+      },
+      {
+        "texto": "Esperá a recibir la factura en formato digital por mail a partir del próximo período."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "Recibís la factura en formato digital por mail a partir del próximo período.",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://municipioalem.gob.ar/?q=content/factura-electronica",
+      "titulo": "| Municipalidad de L. N. Alem",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T14:40:41.929Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Quiénes pueden adherirse.",
+    "Si el trámite tiene costo."
+  ]
+}

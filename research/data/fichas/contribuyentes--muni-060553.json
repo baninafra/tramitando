@@ -1,0 +1,65 @@
+{
+  "tramite": {
+    "slug": "pago-de-tasas-municipales",
+    "nombre": "Pagar tasas municipales",
+    "nombre_busqueda": "pagar tasas municipales de Monte Hermoso",
+    "resumen": "Podés pagar tus tasas municipales mediante un interdepósito bancario o con Link Pagos. Para el interdepósito, enviá una copia con tus datos y el número de partida.",
+    "sinonimos": [
+      "interdepósito de tasas",
+      "pago de tasas por Link"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060553",
+  "organismo": {
+    "nombre": "Municipalidad de Monte Hermoso",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Contribuyentes que necesitan pagar tasas municipales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de partida de la tasa que vas a pagar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombre y apellido para identificar el interdepósito.",
+        "aclaracion": "Si pagás mediante interdepósito bancario."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Para obtener el código Link, completá con ceros al inicio del número de partida hasta llegar a siete dígitos. Por ejemplo, la partida 1250 corresponde al código 0001250."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://montehermoso.gov.ar/sitio/tramites-municipales/contribuyentes/",
+      "titulo": "Contribuyentes - Monte Hermoso sitio oficial",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T15:16:03.968Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa el monto de las tasas.",
+    "No se detallan los pasos para completar el pago con Link Pagos."
+  ]
+}

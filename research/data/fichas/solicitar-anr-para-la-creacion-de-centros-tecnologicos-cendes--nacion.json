@@ -1,0 +1,79 @@
+{
+  "tramite": {
+    "slug": "solicitar-anr-centros-tecnologicos",
+    "nombre": "Solicitar ANR para la creación de centros tecnológicos",
+    "nombre_busqueda": "Solicitar ANR CENDES",
+    "resumen": "Financiamiento parcial para la creación de centros tecnológicos que generen servicios de transferencia, I+D y análisis de alto valor agregado.",
+    "sinonimos": [],
+    "temas": [
+      "emprendedores-y-monotributo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Agencia Nacional de Promoción de la Investigación, el Desarrollo Tecnológico y la Innovación",
+    "sigla": "ANPI",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Consorcios Asociativos Público-Privados (CAPP) constituidos por al menos una Institución Pública y al menos una Empresa o una entidad gremial empresarial."
+    ],
+    "requisitos": [
+      {
+        "texto": "Presentar un proyecto y la documentación respectiva de acuerdo a las Bases de la ventanilla.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Leer las Bases de la ventanilla y documentación respectiva que se encuentra en la página oficial."
+      },
+      {
+        "texto": "Realizar la presentación del proyecto a través del Sistema de Gestión de Proyectos (SGP)."
+      },
+      {
+        "texto": "Confirmar el envío del proyecto a través de la plataforma Trámites a Distancia (TAD) con clave de AFIP nivel 3."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "36 meses",
+    "consejos": [
+      "El monto del beneficio será de hasta pesos argentinos 900000000 por proyecto.",
+      "La Agencia podrá financiar hasta el 80% del costo total del proyecto.",
+      "El beneficiario deberá aportar no menos de 20% del costo total del proyecto.",
+      "Los recursos de contrapartida consistirán en aportes del nuevo centro tecnológico aplicados a la financiación de gastos aceptables correspondientes a proyectos elegibles bajo el presente componente."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-anr-para-la-creacion-de-centros-tecnologicos-cendes",
+      "titulo": "Solicitar ANR para la creación de Centros Tecnológicos (CENDES) | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-27T04:37:21.938Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T04:37:21.938Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia exacta del plazo de ejecución y los montos específicos de los proyectos elegibles no están detallados en el texto."
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "tramite": {
+    "slug": "consulta-descarga-pago-tasa-servicios-urbanos",
+    "nombre": "Consultar, descargar y pagar la tasa de servicios urbanos",
+    "nombre_busqueda": "Consulta, descarga y pago de Tasa de Servicios Urbanos",
+    "resumen": "Consultá la deuda de la tasa urbana y generá una boleta para pagarla de forma presencial o por internet. Podés pagar el total o algunas cuotas.",
+    "sinonimos": [
+      "pagar tasa urbana"
+    ],
+    "temas": [
+      "tasa-inmobiliaria-y-servicios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060399",
+  "organismo": {
+    "nombre": "Municipalidad de Guaminí",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que necesiten consultar o pagar una deuda de tasa urbana."
+    ],
+    "requisitos": [
+      {
+        "texto": "Ingresá una partida de 8 dígitos numéricos, sin barras ni guiones. Si tiene menos dígitos, completala con ceros al inicio.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá la partida y consultá las cuotas adeudadas."
+      },
+      {
+        "texto": "Seleccioná todas las cuotas adeudadas o algunas."
+      },
+      {
+        "texto": "Elegí «Pago On Line» y generá la boleta en línea."
+      },
+      {
+        "texto": "Completá el formulario con apellido, nombre, DNI, género y correo electrónico de quien realizará el pago."
+      },
+      {
+        "texto": "Hacé clic en «Generar»."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Ingresá la partida y consultá las cuotas adeudadas."
+      },
+      {
+        "texto": "Seleccioná todas las cuotas adeudadas o algunas."
+      },
+      {
+        "texto": "Elegí «Pago Presencial»."
+      },
+      {
+        "texto": "Generá y confirmá la boleta presencial."
+      },
+      {
+        "texto": "Descargá e imprimí la boleta para pagarla en una delegación municipal o en una boca de cobro de Provincia Net."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://serviciosweb.guamini.gob.ar/tasaspagosydeudas/urbano",
+      "titulo": "Municipalidad de Guaminí",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T13:42:41.687Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no informa el costo del trámite."
+  ]
+}

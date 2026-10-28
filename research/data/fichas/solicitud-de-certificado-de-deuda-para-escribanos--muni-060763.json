@@ -1,0 +1,69 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-certificado-de-deuda-para-escribanos",
+    "nombre": "Solicitud de certificado de deuda para escribanos",
+    "nombre_busqueda": "Certificado de deuda para escribanos",
+    "resumen": "Trámite online para notarios y escribanos que requieran certificado de deudas conforme Ley Nº 14351 sobre inmuebles del partido de San Nicolás.",
+    "sinonimos": [
+      "Certificado de libre deuda para escribanos",
+      "Certificado de deuda inmobiliaria para escribanos"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060763",
+  "organismo": {
+    "nombre": "Municipalidad de San Nicolás",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Escribanos que requieran certificado de deudas conforme Ley Nº 14351 de los servicios prestados a inmuebles del partido de San Nicolás."
+    ],
+    "requisitos": [
+      {
+        "texto": "Ingresar al sistema y completar la nota de solicitud de certificado de deuda.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario de solicitud de certificado de deuda."
+      },
+      {
+        "texto": "Ingresá al sistema para cargar los datos."
+      },
+      {
+        "texto": "Recibirás por mail el certificado correspondiente."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.sannicolasciudad.gob.ar/tramites/inmuebles/solicitud-de-certificado-de-deuda-para-escribanos",
+      "titulo": "Solicitud de certificado de deuda para escribanos | Inmuebles | Trámites | San Nicolás Ciudad",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T15:20:00.495Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica el monto del trámite ni si es gratuito.",
+    "El texto no indica si el trámite requiere turno."
+  ]
+}

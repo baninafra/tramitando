@@ -1,0 +1,87 @@
+{
+  "tramite": {
+    "slug": "obtener-la-licencia-para-configuracion-ambiental-lca-vehiculos-pesados",
+    "nombre": "Obtener la licencia para configuración ambiental lca vehículos pesados",
+    "nombre_busqueda": "Licencia configuración ambiental vehículos pesados",
+    "resumen": "Para lanzar al mercado local un nuevo modelo de vehículo o motor, antes debe solicitar la Licencia para la Configuración Ambiental completando un formulario online y adjuntando ensayos de emisiones.",
+    "sinonimos": [
+      "Licencia LCA vehículos pesados",
+      "Configuración ambiental vehículos pesados"
+    ],
+    "temas": [
+      "ambiente-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Si tu empresa quiere lanzar al mercado local un nuevo modelo de vehículo/motor, ya sea nacional o Importado"
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de datos",
+        "aclaracion": "Completar en formulario online los datos. Incluye opcional el numero de registro RLM del motor."
+      },
+      {
+        "texto": "Formulario O",
+        "aclaracion": "Adjuntar documento ya completado según formato Anexo III Resolucion 269/2019 SGAyDS."
+      },
+      {
+        "texto": "Comprobante de pago",
+        "aclaracion": "Adjuntar comprobante de pago."
+      },
+      {
+        "texto": "Ensayo de emisiones sonoras",
+        "aclaracion": "Adjuntar ensayo del laboratorio."
+      },
+      {
+        "texto": "Carta de aprobación del uso del motor y copia de la LCA o certificado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Carta de autorización del uso del motor por quien haya hecho la homologación de emisiones gaseosas del mismo y copia de la LCA o certificado de emisiones gaseosas",
+        "aclaracion": "Adjuntar documento escaneado."
+      },
+      {
+        "texto": "Cuadro de datos",
+        "aclaracion": "Adjuntar archivo excel completado según formato Cuadro de datos (completar hoja correspondiente Pesado o Pesado Electrico)."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la Plataforma TAD e Iniciar Trámite hasta finalizar."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "Entre 30 y 45 días",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-la-licencia-para-configuracion-ambiental-lca-vehiculos-pesados",
+      "titulo": "Obtener la Licencia para Configuración Ambiental (LCA) – vehículos pesados | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T06:43:33.240Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tarifa no se especifica en el texto, solo se indica que será función del Tipo de Presentación según la Resolución Nº 382/2021 ART Nº4 y 5."
+  ]
+}

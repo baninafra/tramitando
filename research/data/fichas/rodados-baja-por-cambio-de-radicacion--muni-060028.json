@@ -1,0 +1,73 @@
+{
+  "tramite": {
+    "slug": "rodados-baja-por-cambio-de-radicacion",
+    "nombre": "Rodados – Baja por Cambio de Radicación",
+    "nombre_busqueda": "Baja rodados cambio de radicación",
+    "resumen": "Trámite municipal para dar de baja un vehículo del registro local tras trasladar su radicación a otra jurisdicción, actualizando el padrón y cesando obligaciones fiscales.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias",
+      "tasa-inmobiliaria-y-servicios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060028",
+  "organismo": {
+    "nombre": "Municipio de Almirante Brown",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Solicitante del vehículo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Presentación de DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título donde figure la radicación posterior al distrito o informe histórico.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el DNI y el título donde figure la radicación posterior al distrito o informe histórico en el Dpto. Registro Deudores."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dpto. Registro Deudores",
+      "direccion": "Rosales 1312 de Adrogué, Planta Baja",
+      "localidad": "Rosales 1312 de Adrogué, Planta Baja",
+      "horario": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/rodados-baja-por-cambio-de-radicacion/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.brown.gob.ar/tramites/rodados-baja-por-cambio-de-radicacion/",
+      "titulo": "Rodados – Baja por Cambio de Radicación",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T01:23:19.218Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se desconoce si el trámite requiere turno.",
+    "Se desconoce el plazo de realización del trámite.",
+    "Se desconoce si hay costos asociados al trámite."
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "tramite": {
+    "slug": "consulta-deuda-infracciones-faltas-municipales",
+    "nombre": "Consulta de deuda de infracciones y faltas",
+    "nombre_busqueda": "Consulta deuda faltas",
+    "resumen": "Consultá el estado de tu deuda con el Juzgado de Faltas de La Plata ingresando tu DNI o Cédula de Extranjero.",
+    "sinonimos": [
+      "Consulta estado deuda faltas",
+      "Verificar deuda juzgado faltas"
+    ],
+    "temas": [
+      "infracciones-y-multas",
+      "juzgado-de-faltas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060441",
+  "organismo": {
+    "nombre": "Juzgado de Faltas",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas con DNI",
+      "Personas con Cédula de Extranjero"
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cédula de Extranjero",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio web del Juzgado de Faltas."
+      },
+      {
+        "texto": "Seleccioná el tipo de documento (DNI o Cédula de Extranjero)."
+      },
+      {
+        "texto": "Ingresá tus datos personales y buscá tu deuda."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://faltas.laplata.gob.ar/es-ar/",
+      "titulo": "Estado de deuda · Juzgado de Faltas",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T07:53:19.575Z"
+    },
+    {
+      "url": "https://cam.laplata.gob.ar/",
+      "titulo": "Centro Administrativo Municipal",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T07:53:19.575Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos adicionales ni aclaraciones especiales para casos particulares."
+  ]
+}

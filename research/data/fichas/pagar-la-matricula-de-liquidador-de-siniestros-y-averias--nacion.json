@@ -1,0 +1,90 @@
+{
+  "tramite": {
+    "slug": "pagar-matricula-liquidador-siniestros",
+    "nombre": "Pagar la matrícula de Liquidador de Siniestros y Averías",
+    "nombre_busqueda": "Pagar matrícula liquidador siniestros",
+    "resumen": "Los Liquidadores de Siniestros y Averías deben pagar una matrícula anual fija antes del 30 de abril. Si no se paga a tiempo, se aplican multas que pueden causar la caducidad de la inscripción.",
+    "sinonimos": [
+      "Pago matrícula liquidador siniestros",
+      "Matrícula anual liquidador siniestros"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Seguros de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Liquidadores de Siniestros y Averías"
+    ],
+    "requisitos": [
+      {
+        "texto": "Boleta de pago generada",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá en el siguiente enlace para generar la boleta de pago."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "24 horas",
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1500000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/pagar-la-matricula-de-liquidador-de-siniestros-y-averias"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/pagar-la-matricula-de-liquidador-de-siniestros-y-averias",
+      "titulo": "Pagar la matrícula de Liquidador de Siniestros y Averías | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T23:12:25.744Z"
+    },
+    {
+      "url": "https://erecauda.mecon.gov.ar/erecauda/",
+      "titulo": "eRecauda",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-26T23:12:25.744Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-26T23:12:25.744Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia del trámite no está especificada en el texto, solo se menciona el plazo anual hasta el 30 de abril.",
+    "El monto de la matrícula para años posteriores al 2024 no está indicado en el texto."
+  ]
+}

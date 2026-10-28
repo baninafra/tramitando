@@ -1,0 +1,78 @@
+{
+  "tramite": {
+    "slug": "cese-temporal-operaciones-farmaceuticas",
+    "nombre": "Cese temporal de operaciones de establecimientos elaboradores y/o importadores de medicamentos y/o ingredientes farmacé…",
+    "nombre_busqueda": "Cese temporal operaciones farmacéuticos ANMAT",
+    "resumen": "Notificación obligatoria para establecimientos farmacéuticos que suspenden actividades por vacaciones, parada de planta o suspensiones transitorias. Deben mantener una estructura mínima para gestiones críticas y no pueden realizar actividades comprendidas en la notificación.",
+    "sinonimos": [
+      "Cese temporal operaciones ANMAT",
+      "Suspension transitoria establecimientos farmacéuticos"
+    ],
+    "temas": [
+      "bromatologia-y-alimentos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMAT",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Los titulares de establecimientos farmacéuticos habilitados por la ANMAT."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de notificación de Form CTO 1.1 Cese temporal de operaciones de elaboradores y/o importadores de medicamentos y/o ingredientes farmacéuticos activos de origen biológico o radiofarmacéutico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota explicativa dirigida a la Dirección de Evaluación y Control de Biológicos y Radiofármacos de la ANMAT, de causas de Suspensión transitoria de funcionamiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de pago de arancel.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciar el trámite mediante TAD (Código de Trámite: ANMA 00146 'Notificaciones y Declaraciones')."
+      },
+      {
+        "texto": "Completar el formulario y adjuntar la documentación requerida."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "En caso de suspensión transitoria de funcionamiento, la misma no deberá superar un año de cese.",
+      "Una vez iniciado el periodo de cese de operación notificado, es considerado ilegal realizar cualquier actividad comprendida en la notificación.",
+      "Deben mantener al menos una estructura mínima durante el período de cese para permitir la continuidad de gestiones críticas como farmacovigilancia, información médica, gestión de reclamos y desvíos de calidad, y gestión de retiros de lotes/productos del mercado.",
+      "Si una empresa comunicó suspensión transitoria y quiere reiniciar actividades, deberá realizar una notificación simple a la ANMAT y solicitar una inspección de verificación de buenas prácticas de manufactura."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/cese-temporal-de-operaciones-de-establecimientos-elaboradores-yo-importadores-de",
+      "titulo": "Cese temporal de operaciones de establecimientos elaboradores y/o importadores de medicamentos y/o ingredientes farmacéuticos activos de origen biológico o radio farmacéutico | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:35:44.368Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo exacto de notificación o respuesta de la ANMAT no se especifica en el texto."
+  ]
+}

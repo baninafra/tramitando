@@ -1,0 +1,142 @@
+{
+  "tramite": {
+    "slug": "altas-bajas-unidades-transporte-publico",
+    "nombre": "Altas y bajas de unidades",
+    "nombre_busqueda": "Altas y bajas de unidades transporte",
+    "resumen": "Para modificar la flota de transporte público, necesitás traer documentación específica y abonar tasas. El trámite se hace presencialmente en la Dirección General de Tránsito y Transporte.",
+    "sinonimos": [
+      "Alta y baja de vehículos transporte",
+      "Registro de unidades transporte"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titular o apoderado del legajo y/o registro"
+    ],
+    "requisitos": [
+      {
+        "texto": "Libre deuda de tasa de comercio o en su defecto, convenio de pagos vigente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento de identidad",
+        "aclaracion": "CONSTATAR IDENTIDAD"
+      },
+      {
+        "texto": "Póliza para pasajeros transportados y no transportados",
+        "aclaracion": "Original y copia"
+      },
+      {
+        "texto": "Titulo del automotor para el uso que corresponda según el servicio",
+        "aclaracion": "Original, y copia"
+      },
+      {
+        "texto": "Tarjeta verde con el uso que corresponda al servicio",
+        "aclaracion": "Original, y copia"
+      },
+      {
+        "texto": "Verificación Técnica Vehicular (para transporte de personas)",
+        "aclaracion": "Salvo que sea 0km y que cuente con la vtv vigente, original y copia"
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Abonar el sellado municipal en las cajas del Municipio, ingresando por Alsina 43, o en la misma Dirección General de Tránsito y Transporte."
+      },
+      {
+        "texto": "Abonar canon en caso de alta de un vehículo: Únicamente en las cajas de la Municipalidad, ingresando por Alsina 45."
+      },
+      {
+        "texto": "Presentarse con la documentación precisada en la Dirección General de Tránsito y Transporte."
+      },
+      {
+        "texto": "El trámite finaliza el mismo día que concurro con la documentación."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "Baja de vehículo",
+      "gratis": false,
+      "monto_centavos": 325000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/transporte/altas-bajas-unidades/"
+    },
+    {
+      "modalidad": "Alta de vehículo",
+      "gratis": false,
+      "monto_centavos": 325000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/transporte/altas-bajas-unidades/"
+    },
+    {
+      "modalidad": "Alta de vehículo",
+      "gratis": false,
+      "monto_centavos": 7734900,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/transporte/altas-bajas-unidades/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Dirección General de Tránsito y Transporte",
+      "direccion": "Av. Cabrera 4118",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/transporte/altas-bajas-unidades/"
+    },
+    {
+      "nombre": "Cajas del Municipio",
+      "direccion": "Alsina 43",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/transporte/altas-bajas-unidades/"
+    },
+    {
+      "nombre": "Cajas de la Municipalidad",
+      "direccion": "Alsina 45",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/transporte/altas-bajas-unidades/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/tramites/transporte/altas-bajas-unidades/",
+      "titulo": "Altas y bajas de unidades | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T02:55:03.884Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Variable cada 2 meses según ordenanza fiscal",
+    "Horario de atención: 8 a 13.30 horas",
+    "Vigencia de la información no especificada en el texto"
+  ]
+}

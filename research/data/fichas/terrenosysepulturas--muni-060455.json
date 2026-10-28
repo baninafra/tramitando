@@ -1,0 +1,79 @@
+{
+  "tramite": {
+    "slug": "consulta-y-regularizacion-de-sepulturas-y-terrenos",
+    "nombre": "Regularizar una sepultura o parcela",
+    "nombre_busqueda": "regularización de sepulturas y terrenos con arrendamiento vencido",
+    "resumen": "Si tu sepultura o parcela figura en el listado municipal, presentate dentro de los 30 días para regularizar el arrendamiento vencido. Si no se regulariza en ese plazo, se procederá a exhumar y trasladar los restos al Osario General.",
+    "sinonimos": [
+      "regularización de arrendamiento de sepultura",
+      "regularización de parcela en el cementerio"
+    ],
+    "temas": [
+      "nichos-y-parcelas",
+      "cementerio-y-servicios-funebres"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060455",
+  "organismo": {
+    "nombre": "Municipalidad de Las Flores",
+    "sigla": null,
+    "web": "https://lasflores.gob.ar/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Si figurás como propietario de una sepultura o parcela incluida en el listado de la página, podés presentarte para regularizar su situación."
+    ],
+    "requisitos": [
+      {
+        "texto": "Que la sepultura o parcela figure en el listado publicado por la Municipalidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentarte dentro de los 30 días indicados por la Municipalidad.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en la Secretaría de Planeamiento, Obras, Servicios Públicos y Ambiente, en el Palacio Municipal, para regularizar la situación."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "Presentate dentro de los 30 días indicados en la página. Pasado ese plazo, se procederá a la exhumación y al traslado de los restos al Osario General, según la Ordenanza 2532/11, artículo 28.",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Secretaría de Planeamiento, Obras, Servicios Públicos y Ambiente",
+      "direccion": "Palacio Municipal",
+      "localidad": "Las Flores",
+      "horario": null,
+      "fuente_url": "https://lasflores.gob.ar/terrenosysepulturas/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://lasflores.gob.ar/terrenosysepulturas/",
+      "titulo": "TERRENOS O SEPULTURAS CEMENTERIO LOCAL CON ARRENDAMIENTO VENCIDO - Las Flores",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T14:39:36.629Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa la fecha exacta desde la que se cuentan los 30 días.",
+    "No se informa si hace falta pedir turno.",
+    "No se informa qué documentación tenés que presentar.",
+    "No se informa el costo de la regularización."
+  ]
+}

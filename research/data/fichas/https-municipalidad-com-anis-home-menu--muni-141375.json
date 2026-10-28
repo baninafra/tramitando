@@ -1,0 +1,61 @@
+{
+  "tramite": {
+    "slug": "pagos-online",
+    "nombre": "Pagos Online",
+    "nombre_busqueda": "Pagos Online",
+    "resumen": "La Municipalidad de Anisacate ofrece la posibilidad de realizar pagos a través de su aplicación móvil.",
+    "sinonimos": [],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141375",
+  "organismo": {
+    "nombre": "Municipalidad de Anisacate",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que tenga instalada la aplicación App La Anisacatense en su dispositivo móvil."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener instalada la aplicación App La Anisacatense en el celular.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Abre la aplicación App La Anisacatense en tu celular."
+      },
+      {
+        "texto": "Ingresá con tu usuario y contraseña."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://anisacatemunicipio.gob.ar/",
+      "titulo": "Municipalidad de Anisacate – Año de la Grandeza Argentina",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-26T08:03:17.938Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos, plazos ni requisitos adicionales en el texto."
+  ]
+}

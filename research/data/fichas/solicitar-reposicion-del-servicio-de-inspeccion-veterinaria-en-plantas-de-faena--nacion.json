@@ -1,0 +1,89 @@
+{
+  "tramite": {
+    "slug": "solicitar-reposicion-inspeccion-veterinaria-ciclo-i",
+    "nombre": "Solicitar reposición del servicio de inspección veterinaria en plantas de faena ciclo I",
+    "nombre_busqueda": "Reposición servicio inspección veterinaria faena",
+    "resumen": "Los establecimientos de faena suspendidos por Senasa pueden solicitar la reposición del servicio si implementan las medidas correctivas y Senasa las verifica in situ.",
+    "sinonimos": [
+      "Reposición servicio veterinaria faena",
+      "Reactivar inspección veterinaria faena"
+    ],
+    "temas": [
+      "animales-y-zoonosis"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Todo establecimiento de faena que previamente haya sido suspendido por Senasa."
+    ],
+    "requisitos": [
+      {
+        "texto": "La implementación de las medidas correctivas para resolver los desvíos que motivaron la suspensión y que Senasa las verifique in situ.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la solicitud de reposición del servicio veterinario en el Centro Regional de Senasa correspondiente a la jurisdicción en donde está ubicado el establecimiento habilitado."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "1 a 3 días hábiles",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Inocuidad y Calidad Agroalimentaria",
+      "direccion": "Av. Paseo Colón N° 367, Piso 5° Contrafrente, C1063ACD, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-reposicion-del-servicio-de-inspeccion-veterinaria-en-plantas-de-faena-ciclo-i"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-reposicion-del-servicio-de-inspeccion-veterinaria-en-plantas-de-faena-ciclo-i",
+      "titulo": "Solicitar reposición del servicio de inspección veterinaria en plantas de faena (ciclo I) | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T16:32:07.772Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T16:32:07.772Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T16:32:07.772Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no se especifica en el texto, solo se indica que se debe abonar el arancel correspondiente.",
+    "La fecha de vigencia del trámite no se especifica en el texto, solo se menciona la normativa vigente."
+  ]
+}

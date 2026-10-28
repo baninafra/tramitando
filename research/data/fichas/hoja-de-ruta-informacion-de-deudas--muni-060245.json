@@ -1,0 +1,87 @@
+{
+  "tramite": {
+    "slug": "hoja-de-ruta-informacion-de-deudas",
+    "nombre": "Hoja de ruta (información de deudas)",
+    "nombre_busqueda": "Hoja de ruta deudas",
+    "resumen": "Es un trámite que contiene información de deudas correspondientes a distintas oficinas. Tiene como objetivo comprobar la inexistencia de deudas, la cual es necesaria para realizar distintas presentaciones y se anexa a cualquier trámite iniciado en la comuna.",
+    "sinonimos": [],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "catastro-e-inmuebles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060245",
+  "organismo": {
+    "nombre": "Municipalidad de Ensenada",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Para los Contribuyentes."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota con la solicitud",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Recibo de sueldo (según el tipo de informe requerido)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la nota con la solicitud, el DNI y el recibo de sueldo en el mostrador de Catastro."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 500,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.ensenada.gov.ar/hoja-de-ruta-informacion-de-deudas/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Catastro",
+      "direccion": "San Martin y Pte. Perón",
+      "localidad": "San Martin y Pte. Perón",
+      "horario": null,
+      "fuente_url": "https://www.ensenada.gov.ar/hoja-de-ruta-informacion-de-deudas/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.ensenada.gov.ar/hoja-de-ruta-informacion-de-deudas/",
+      "titulo": "HOJA DE RUTA (INFORMACIÓN DE DEUDAS) – Municipalidad de Ensenada",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-27T23:34:17.207Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horario de atención: De lunes a viernes de 7:30 a 14:30 hs."
+  ]
+}

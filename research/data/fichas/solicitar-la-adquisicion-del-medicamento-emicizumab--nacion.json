@@ -1,0 +1,92 @@
+{
+  "tramite": {
+    "slug": "solicitar-adquisicion-emicizumab",
+    "nombre": "Solicitar la adquisición del medicamento Emicizumab",
+    "nombre_busqueda": "solicitar adquisición emicizumab",
+    "resumen": "Los Agentes del Seguro con beneficiarios portadores de hemofilia A severa pueden solicitar la compra de Emicizumab a través de la Plataforma SIGMAC. El trámite es gratuito y requiere documentación médica específica y capacitación previa.",
+    "sinonimos": [
+      "solicitud emicizumab hemofilia",
+      "adquisición medicamento emicizumab",
+      "provisión emicizumab obra social"
+    ],
+    "temas": [
+      "salud-y-prevencion",
+      "prestaciones-medicas-e-incluir-salud"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Servicios de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Agentes del Seguro que tengan beneficiarios portadores de hemofilia A severa en tratamiento con Emicizumab"
+    ],
+    "requisitos": [
+      {
+        "texto": "Prescripción médica con firma y sello del profesional tratante",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planilla de aplicación con datos del beneficiario (Apellido, Nombre, DNI, Edad, Peso) y stickers de viales consumidos",
+        "aclaracion": null
+      },
+      {
+        "texto": "Firma del beneficiario, tutor o encargado, médico tratante y Auditor Médico de la Obra Social",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitud de provisión cursada por SIGMAC",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completar el formulario de solicitud de alta de usuario Agente del Seguro"
+      },
+      {
+        "texto": "Realizar la capacitación del Nuevo Proceso de Provisión de Medicamentos de Alto Costo y del uso de la Plataforma SIGMAC"
+      },
+      {
+        "texto": "Dar de alta al Beneficiario en cuestión siguiendo los pasos de la capacitación"
+      },
+      {
+        "texto": "Chequear y aprobar la documentación subida al sistema por el Beneficiario para solicitar su empadronamiento"
+      },
+      {
+        "texto": "Solicitar la provisión del medicamento"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El beneficiario tendrá un máximo de 10 días hábiles para retirar la medicación una vez entregada en farmacia",
+      "Si la solicitud es rechazada o requerir revisión, la Obra Social será notificada y podrá subsanar las observaciones",
+      "Para poder solicitar una nueva provisión, el beneficiario deberá cargar indefectiblemente la planilla de aplicación completa en la plataforma SIGMAC"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-adquisicion-del-medicamento-emicizumab",
+      "titulo": "Solicitar la adquisición del medicamento Emicizumab | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T09:08:52.633Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia exacta del trámite no está especificada en el texto, solo menciona Resolucion N°1363/25 y Resolución N° 1432/2025 (Rectifica Anexo I)"
+  ]
+}

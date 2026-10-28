@@ -1,0 +1,93 @@
+{
+  "tramite": {
+    "slug": "ingreso-electronica-becarios",
+    "nombre": "Ingreso electrónico becarios",
+    "nombre_busqueda": "ingreso electronica becarios",
+    "resumen": "Permiso de ingreso para extranjeros que participan en becas de investigación o formación profesional en Argentina.",
+    "sinonimos": [
+      "ingreso electronico becarios",
+      "ingreso electronico becarios",
+      "ingreso electronico becarios"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El ingresante",
+      "El requirente: Entidad u organismo inscripto en el Registro Nacional Único de Requirentes (Re.N.U.R.E.)",
+      "El Apoderado del Requirente: Con poder/designación con facultades suficientes (ante escribano público)"
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia de inscripción electrónica al curso pretendido suscrita por el responsable de la entidad educativa que se encuentre registrado ante el Re.N.U.R.E. para tales fines.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pasaporte válido y vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Foto del ingresante tomada al momento de la carga del trámite. No es válida una imagen anterior. (Debe tomarse únicamente del rostro con un fondo blanco y ser presentada en formato JPG)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia del otorgamiento de la beca. (Formato PDF)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cuando la permanencia en el país sea de más de 6 meses, presentar certificado que acredite fehacientemente que no registra condenas anteriores ni procesos penales en trámite, emitido por las autoridades competentes de los países donde haya residido por un plazo superior a UN (1) año, durante el tra…",
+        "aclaracion": null
+      },
+      {
+        "texto": "En el caso de estudiantes menores, deberán presentar autorización de sus padres o tutor legal y acreditar la designación de un representante legal en el Territorio Nacional.",
+        "aclaracion": "Si sos menor de edad."
+      },
+      {
+        "texto": "Toda documentación expedida en el extranjero deberá contar con la legalización del Consulado Argentino, sito en el país emisor del documento, o apostillada, si el país hubiera ratificado el Convenio de La Haya, y su correspondiente traducción al idioma español.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá tu trámite a distancia ingresando en Tramitación de Ingreso Electrónico- TIE 24H"
+      },
+      {
+        "texto": "Debes adjuntar la documentación y datos requeridos según el tipo de ingreso que solicites."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tramitacion-de-ingreso-electronica-becarios",
+      "titulo": "Tramitación de Ingreso Electrónica - Becarios | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T18:00:50.429Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa migratoria no se especifica en el texto, solo se indica que se debe consultar el cuadro tasas migratorias.",
+    "El plazo exacto para la resolución del trámite no se especifica en el texto."
+  ]
+}

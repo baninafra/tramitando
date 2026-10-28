@@ -1,0 +1,111 @@
+{
+  "tramite": {
+    "slug": "aprobacion-inscripcion-y-libre-circulacion-de-productos-enologicos",
+    "nombre": "Aprobar productos enológicos",
+    "nombre_busqueda": "cómo inscribir y aprobar productos enológicos en el INV",
+    "resumen": "Si fabricás, importás o distribuís productos o elementos de uso enológico, tenés que inscribirlos y obtener la aprobación del INV para poder comercializarlos.",
+    "sinonimos": [
+      "inscripción de vinos en el INV",
+      "aprobación de productos de uso enológico",
+      "libre circulación de productos enológicos"
+    ],
+    "temas": [
+      "comercio-e-industria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto Nacional de Vitivinicultura",
+    "sigla": "INV",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona física o jurídica que quiera fabricar, importar o distribuir productos o elementos de uso enológico.",
+      "La persona titular del trámite o su representante debidamente acreditado."
+    ],
+    "requisitos": [
+      {
+        "texto": "Estar inscripto o inscripta ante el INV como importador, fabricante o distribuidor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Completar el Formulario 1401.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá una copia digital legible de la ficha técnica del producto, escaneada o en foto de buena calidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá una copia digital de la ficha de composición.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá una copia digital de la ficha de seguridad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá una copia digital del análisis físico-químico del producto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá una copia digital de la nota de responsabilidad en la que la empresa declara que el producto no contiene ninguna sustancia nociva que perjudique la salud humana.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá una copia digital de la muestra del producto entregada en la dependencia más cercana del INV, en el mismo envase comercial y etiquetada con el número de expediente generado por TAD, el tipo de producto, la marca y la razón social de la empresa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el producto es importado, presentá una copia digital del certificado de aprobación e inscripción del producto en el país de origen.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma TAD."
+      },
+      {
+        "texto": "Completá el formulario de inscripción N° 1401."
+      },
+      {
+        "texto": "Adjuntá la documentación complementaria."
+      },
+      {
+        "texto": "Pagá el arancel correspondiente."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá con el Departamento de Estudios Enológicos y Sensoriales del INV según el producto que quieras aprobar.",
+      "El arancel depende de la normativa vigente: consultala antes de pagar."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/aprobacion-inscripcion-y-libre-circulacion-de-productos-enologicos",
+      "titulo": "Aprobación, inscripción y libre circulación de productos enológicos | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:32:48.506Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto del arancel.",
+    "El plazo de respuesta del INV.",
+    "Cuánto dura la aprobación: la sección Vigencia de la página está vacía."
+  ]
+}

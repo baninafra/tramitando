@@ -1,0 +1,101 @@
+{
+  "tramite": {
+    "slug": "tramitar-el-primer-ejemplar-de-dni-para-casos-de-inscripcion-tardia",
+    "nombre": "Tramitar el primer ejemplar de DNI para casos de inscripción tardía",
+    "nombre_busqueda": "primer ejemplar dni inscripcion tardia",
+    "resumen": "Si tenés la inscripción tardía de nacimiento y la partida de nacimiento, podés tramitar tu primer ejemplar de DNI. Es un trámite gratuito que se realiza en Registro Civil o Centro de Documentación Renaper.",
+    "sinonimos": [
+      "primer ejemplar de DNI",
+      "DNI por inscripción tardía"
+    ],
+    "temas": [
+      "dni"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Renaper",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A todas las personas cuyos nacimientos no fueron registrados durante el primer año de vida y ya tengan completa la Inscripción tardía de nacimiento."
+    ],
+    "requisitos": [
+      {
+        "texto": "Copia certificada de la partida de nacimiento con o sin oblea, la que deberá contar con sello y firma del oficial público en tinta o extendida con firma digital, sin importar su fecha de expedición.",
+        "aclaracion": null
+      },
+      {
+        "texto": "O Certificado de nacimiento original con o sin oblea o número manuscrito, con firma del oficial público o extendida digitalmente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acompañamiento del padre, madre o representante legal.",
+        "aclaracion": "Si sos menor de 14 años."
+      },
+      {
+        "texto": "Su DNI.",
+        "aclaracion": "Si sos menor de 14 años."
+      },
+      {
+        "texto": "Acreditación del representante legal, cuando corresponda: Oficio judicial o testimonio de tutela del menor de edad. Es otorgado por el juzgado. Debe contar con sello y firma del juez, secretario o funcionario autorizado a extender oficios en cumplimiento mandas judiciales.",
+        "aclaracion": "Si sos menor de 14 años."
+      },
+      {
+        "texto": "Autorización de representación firmada y sellada por la autoridad competente que corresponda.",
+        "aclaracion": "Si sos menor de 14 años."
+      },
+      {
+        "texto": "Oficio judicial o testimonio de guarda provisoria con fines de adopción.",
+        "aclaracion": "Si sos menor de 14 años."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Elegí un Registro Civil cercano o sacá turno para un Centro de Documentación Renaper en la app Mi Argentina."
+      },
+      {
+        "texto": "Presentate en la oficina elegida con la constancia de turno."
+      },
+      {
+        "texto": "Si sos mayor de 14 años, podés solicitar también el DNI en tu celular. Guardá la constancia de solicitud de trámite y hacé el seguimiento online con tu ID desde aquí."
+      },
+      {
+        "texto": "Retiralo en la oficina con la constancia de solicitud de trámite."
+      },
+      {
+        "texto": "O, si va el correo a tu domicilio, recibilo vos o alguien mayor de 18 años con la constancia de solicitud de trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tramitar-el-primer-ejemplar-de-dni-para-casos-de-inscripcion-tardia",
+      "titulo": "Tramitar el primer ejemplar de DNI para casos de inscripción tardía | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T18:09:35.223Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de oficinas",
+    "Modalidad de trámite",
+    "Plazo de espera para obtener el DNI"
+  ]
+}

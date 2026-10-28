@@ -1,0 +1,78 @@
+{
+  "tramite": {
+    "slug": "obras-particulares-sigd",
+    "nombre": "Obra particular SIGD",
+    "nombre_busqueda": "Obra particular SIGD",
+    "resumen": "Presentación y aprobación virtual de carpetas de obras particulares iniciando presencialmente en Tesorería.",
+    "sinonimos": [
+      "SIGD",
+      "Gestión de obras particulares"
+    ],
+    "temas": [
+      "obras-y-construccion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060260",
+  "organismo": {
+    "nombre": "Municipio Esteban Echeverría",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de dominio de la obra."
+    ],
+    "requisitos": [
+      {
+        "texto": "Pago correspondiente para la apertura del expediente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación de titularidad de dominio en la Dirección de Catastro.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar con usuario y contraseña para empezar a operar."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Realizar la presentación en Tesorería."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Centro de Atención al Vecino",
+      "direccion": "Sofía T. Santamarina 455",
+      "localidad": "Monte Grande",
+      "horario": null,
+      "fuente_url": "https://www.estebanecheverria.gob.ar/sistema-de-gestion-de-obras-particulares/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.estebanecheverria.gob.ar/sistema-de-gestion-de-obras-particulares/",
+      "titulo": "Sistema de Gestión de Obras Particulares (SIGD) – Esteban Echeverría",
+      "bloques": [
+        "resumen",
+        "quien",
+        "pasos",
+        "consejos",
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-28T00:06:48.726Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos, plazos ni requisitos adicionales en el texto."
+  ]
+}

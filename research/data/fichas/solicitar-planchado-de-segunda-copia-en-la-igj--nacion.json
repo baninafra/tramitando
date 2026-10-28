@@ -1,0 +1,88 @@
+{
+  "tramite": {
+    "slug": "solicitar-planchado-de-segunda-copia-en-la-igj",
+    "nombre": "Solicitar planchado de segunda copia en la IGJ",
+    "nombre_busqueda": "solicitar planchado segunda copia igj",
+    "resumen": "Para obtener el planchado de segunda copia, necesitás completar el formulario, presentar el segundo testimonio de la escritura pública y sacar turno en la Mesa General de Entradas de IGJ.",
+    "sinonimos": [
+      "planchado segunda copia escritura",
+      "copias certificadas igj"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Sociedades comerciales con número correlativo mayor a 1.000.000",
+      "Entidades civiles",
+      "Sociedades comerciales con número correlativo menor a 1.000.000"
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario Fotocopias certificadas / Planchado de segunda copia completado, impreso y abonado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Segundo testimonio de la escritura pública en original o copia expedida por el Archivo protocolar del Colegio de Escribanos",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nuevos formularios debidamente timbrados (uno cada 100 copias) si el requerimiento supera las 100 fojas",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Sacá turno"
+      },
+      {
+        "texto": "Presentate en la Mesa General de Entradas de IGJ, ubicada en Av. Paseo Colón 291, CABA, con la documentación requerida"
+      },
+      {
+        "texto": "Retirá el trámite finalizado sacando turno nuevamente"
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Los trámites recibidos en los colegios profesionales son procesados por la IGJ el día hábil inmediato posterior a la fecha de presentación, tanto en su modalidad común como urgente"
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Mesa General de Entradas de IGJ",
+      "direccion": "Av. Paseo Colón 291",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-planchado-de-segunda-copia-en-la-igj"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-planchado-de-segunda-copia-en-la-igj",
+      "titulo": "Solicitar planchado de segunda copia en la IGJ | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T10:19:13.521Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El trámite puede ser realizado mediante procedimiento urgente únicamente para las sociedades comerciales con número correlativo mayor a 1.000.000"
+  ]
+}

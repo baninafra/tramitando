@@ -1,0 +1,100 @@
+{
+  "tramite": {
+    "slug": "solicitar-adquisicion-medicamento-factor-viii",
+    "nombre": "Solicitar la adquisición del medicamento Factor VIII",
+    "nombre_busqueda": "Solicitar Factor VIII hemofilia",
+    "resumen": "Agente del Seguro con beneficiarios mayores de 21 años portadores de hemofilia A severa puede solicitar la compra de medicamentos especiales a través de la plataforma SIGMAC.",
+    "sinonimos": [
+      "Solicitud de medicamentos especiales hemofilia",
+      "Adquisición de Factor VIII para hemofilia"
+    ],
+    "temas": [
+      "salud-y-prevencion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Servicios de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Agente del Seguro que tenga beneficiarios mayores de veintiún (21) años portadores de hemofilia A severa y utilicen Factor VIII recombinante o plasmático de 500 UI y de 1000"
+    ],
+    "requisitos": [
+      {
+        "texto": "Declaración Jurada firmada por presidente o apoderado del Agente del Seguro, certificada por escribano público, donde se enuncien los siguientes datos del beneficiario: Nombre y Apellido, Número de beneficiario, Fecha de alta de la OS, Número de documento C.U.I.L, Fecha de nacimiento, Sexo, Peso ex…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Resumen de historia clínica, firmada por médico tratante y auditor médico del Agente del Seguro.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Protocolos de laboratorio, con firma y sello de profesional bioquímico responsable.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Consentimiento informado, firmado por paciente, tutor o encargado y médico tratante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de vacunas de Hepatitis A y B.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de curso de venopunción.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completar el formulario de solicitud de alta de usuario Agente del Seguro."
+      },
+      {
+        "texto": "Realizar la capacitación del Nuevo Proceso de Provisión de Medicamentos de Alto Costo y del uso de la Plataforma SIGMAC."
+      },
+      {
+        "texto": "Dar de alta al Beneficiario en cuestión, siguiendo los pasos explicados en la capacitación."
+      },
+      {
+        "texto": "Chequear y aprobar la documentación subida al sistema por el Beneficiario para solicitar su empadronamiento."
+      },
+      {
+        "texto": "Solicitar la provisión del medicamento."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La medicación es personal e intransferible.",
+      "El beneficiario tendrá un máximo de 10 días hábiles para retirar la medicación una vez que la misma haya sido entregada en farmacia.",
+      "Una vez cumplido dicho plazo ya no podrá retirar la medicación.",
+      "Para poder solicitar una nueva provisión, el beneficiario deberá cargar indefectiblemente la planilla de aplicación completa en la plataforma SIGMAC."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-adquisicion-del-medicamento-factor-viii-para-beneficiarios-mayores-de-21-anos",
+      "titulo": "Solicitar la adquisición del medicamento Factor VIII para beneficiarios mayores de 21 años | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T09:13:13.089Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite no está especificada en el texto, solo se menciona la Resolución 1224/2025."
+  ]
+}

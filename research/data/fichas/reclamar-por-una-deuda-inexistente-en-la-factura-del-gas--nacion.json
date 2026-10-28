@@ -1,0 +1,109 @@
+{
+  "tramite": {
+    "slug": "reclamo-deuda-inexistente-gas",
+    "nombre": "Reclamar por una deuda inexistente en la factura del gas",
+    "nombre_busqueda": "Reclamar deuda inexistente factura gas",
+    "resumen": "Si la empresa de gas no te responde o te da una respuesta insatisfactoria después de 15 días, podés trasladar el reclamo al ENARGAS sin tener que abonar la factura.",
+    "sinonimos": [
+      "Reclamo ENARGAS gas",
+      "Queja deuda gas inexistente"
+    ],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ente Nacional Regulador del Gas",
+    "sigla": "ENARGAS",
+    "web": "https://www.enargas.gov.ar"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Clientes y/o usuarios de gas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia del haber hecho el reclamo ante la empresa prestadora.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descripción del reclamo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Reclamo de deuda y/o aviso/s recibidos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del/los pago/s efectuado/s de la/s factura/s reclamada/s.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en la Sede Central de Suipacha 636 en Ciudad Autónoma de Buenos Aires o en la Sede más próxima a tu domicilio."
+      },
+      {
+        "texto": "Llevá los documentos requeridos para el reclamo."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Conservá siempre el número de tu reclamo.",
+      "Anotá el número de reclamo y el plazo estimativo para la resolución que te proporcione la prestadora."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central ENARGAS",
+      "direccion": "Suipacha 636",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/reclamar-por-una-deuda-inexistente-en-la-factura-del-gas"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reclamar-por-una-deuda-inexistente-en-la-factura-del-gas",
+      "titulo": "Reclamar por una deuda inexistente en la factura del gas | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:46:31.731Z"
+    },
+    {
+      "url": "https://www.enargas.gov.ar/secciones/oficina-virtual/oficina-virtual.php",
+      "titulo": "Oficina virtual ENARGAS",
+      "bloques": [
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T02:46:31.731Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T02:46:31.731Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horario de atención presencial: días hábiles de 10 a 16.",
+    "Vías alternativas de contacto: telefónico, fax y correo electrónico.",
+    "Direcciones de sedes más próximas a domicilio."
+  ]
+}

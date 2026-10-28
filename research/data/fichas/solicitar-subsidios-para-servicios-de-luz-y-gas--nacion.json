@@ -1,0 +1,109 @@
+{
+  "tramite": {
+    "slug": "solicitar-subsidios-para-servicios-de-luz-y-gas",
+    "nombre": "Solicitar subsidios para servicios de luz y gas",
+    "nombre_busqueda": "Solicitar subsidios luz y gas",
+    "resumen": "Podés recibir subsidios para energía eléctrica, gas natural, garrafa o gas propano por redes si tu hogar cumple con los requisitos de ingresos y tenés los documentos necesarios.",
+    "sinonimos": [
+      "Subsidio energía eléctrica",
+      "Subsidio gas natural",
+      "Subsidio gas propano",
+      "Subsidio garrafa"
+    ],
+    "temas": [
+      "subsidios-a-los-servicios-publicos",
+      "familia-y-pareja"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Hogares con ingresos netos menores a tres Canastas Básicas Totales para un hogar tipo 2 según INDEC.",
+      "Hogares que tengan un integrante con Certificado de Vivienda expedido por el ReNaBaP.",
+      "Hogares que tengan un integrante con Pensión Vitalicia a Veteranos de Guerra del Atlántico Sur.",
+      "Hogares que tengan un integrante con Certificado Único de Discapacidad (CUD)."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de medidor y número de Cliente/Servicio/Cuenta/Contrato o NIS de la factura de energía eléctrica y gas por red.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Último ejemplar de tu DNI vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de CUIL de cada integrante del hogar mayor de 18 años.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dirección de correo electrónico personal que utilizás con frecuencia.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al trámite y completá el formulario para registrarte en el Registro para los Subsidios Energéticos Focalizados (ReSEF)."
+      },
+      {
+        "texto": "Seguí los pasos indicados en el formulario con atención."
+      },
+      {
+        "texto": "Asegurate de revisar todos los datos ingresados."
+      },
+      {
+        "texto": "Guardá el código de confirmación de tu solicitud que vas a obtener como archivo PDF."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Este documento tiene carácter de Declaración Jurada.",
+      "El código de confirmación es importante para que puedas conocer el estado del trámite desde la aplicación o desde la web MiArgentina."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-subsidios-para-servicios-de-luz-y-gas",
+      "titulo": "Solicitar subsidios para servicios de luz y gas | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T10:20:12.052Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T10:20:12.052Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/",
+      "titulo": "Inicio | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T10:20:12.052Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Vigencia del trámite",
+    "Si se requiere turno para la mayoría de los turnos según la página de turnos"
+  ]
+}

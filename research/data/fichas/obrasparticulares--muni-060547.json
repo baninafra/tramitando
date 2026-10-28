@@ -1,0 +1,92 @@
+{
+  "tramite": {
+    "slug": "solicitud-matricula-municipal-profesionales-constructores",
+    "nombre": "Solicitud de matrícula municipal",
+    "nombre_busqueda": "Matrícula municipal para profesionales de la construcción",
+    "resumen": "Si ya tenés matrícula provincial y trabajás en construcción, presentá el formulario con la documentación requerida en Mesa de Entrada. La matrícula municipal es necesaria para presentar expedientes en la Dirección de Obras Particulares y el trámite es gratuito.",
+    "sinonimos": [
+      "Matrícula municipal para profesionales y constructores"
+    ],
+    "temas": [
+      "profesionales-de-la-construccion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060547",
+  "organismo": {
+    "nombre": "Municipalidad de Monte - Obras Particulares",
+    "sigla": null,
+    "web": "https://monte.gob.ar/obrasparticulares/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Profesionales con matrícula provincial que trabajen en el rubro de la construcción: maestros mayores de obra, arquitectos, ingenieros civiles y electricistas matriculados."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de Solicitud de Matrícula Municipal completo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI de ambas caras.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de CUIT o CUIL, según corresponda.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de la credencial profesional de la Provincia de Buenos Aires.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del comprobante de pago de la matrícula al día.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Completá el formulario de Solicitud de Matrícula Municipal."
+      },
+      {
+        "texto": "Adjuntá la documentación requerida."
+      },
+      {
+        "texto": "Presentá el formulario y la documentación en Mesa de Entrada."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": true,
+      "monto_centavos": null,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://monte.gob.ar/obrasparticulares/"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://monte.gob.ar/obrasparticulares/",
+      "titulo": "Obras Particulares - Municipalidad de Monte",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T15:11:09.223Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa si necesitás sacar turno."
+  ]
+}

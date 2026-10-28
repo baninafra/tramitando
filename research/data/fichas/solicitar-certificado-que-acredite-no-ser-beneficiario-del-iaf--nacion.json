@@ -1,0 +1,89 @@
+{
+  "tramite": {
+    "slug": "solicitar-certificado-no-beneficiario-iaf",
+    "nombre": "Solicitar certificado que acredite no ser beneficiario del IAF",
+    "nombre_busqueda": "Certificado no beneficiario IAF",
+    "resumen": "Tramitá una constancia gratuita que confirma que no sos beneficiario del Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares.",
+    "sinonimos": [
+      "Certificado no beneficiario IAF",
+      "Constancia no beneficiario IAF"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A todo aquel que necesite certificar ante alguna entidad u organismo que no es beneficiario del Instituto."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del titular.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate con la documentación requerida a la sede central del IAF, Cerrito 572 – CABA o las Delegaciones del Interior, en el horario de 08:00 a 13:00 horas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede central del IAF",
+      "direccion": "Cerrito 572",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-que-acredite-no-ser-beneficiario-del-iaf"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-que-acredite-no-ser-beneficiario-del-iaf",
+      "titulo": "Solicitar certificado que acredite no ser beneficiario del IAF. | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T08:16:49.845Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/iaf",
+      "titulo": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T08:16:49.845Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T08:16:49.845Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horario de atención telefónica: 08:00 a 15:00 horas.",
+    "Dirección postal exacta para envío por correo: Cerrito 572 (C1010AAL) - Ciudad Autónoma de Buenos Aires."
+  ]
+}

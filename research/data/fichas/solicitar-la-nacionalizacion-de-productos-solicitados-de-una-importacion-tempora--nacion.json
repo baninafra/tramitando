@@ -1,0 +1,87 @@
+{
+  "tramite": {
+    "slug": "solicitar-nacionalizacion-productos-importacion-temporal",
+    "nombre": "Solicitar la nacionalización de productos solicitados de una importación temporal",
+    "nombre_busqueda": "Solicitar nacionalización productos importación temporal",
+    "resumen": "Para usar o transformar productos importados temporalmente en territorio nacional, necesitás presentar documentación específica y pagar un arancel según la categoría del producto.",
+    "sinonimos": [
+      "Nacionalización de mercadería importada temporal",
+      "Autorización ingreso mercadería temporal nacionalizada"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMAT",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Solicitantes que requieran autorización de ingreso de mercadería proveniente de una importación temporal que necesite ser nacionalizada para su utilización y transformación en territorio nacional."
+    ],
+    "requisitos": [
+      {
+        "texto": "Copia de factura",
+        "aclaracion": null
+      },
+      {
+        "texto": "Conocimiento de embarque / carta de porte / guía aérea",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado fitosanitario original (cuando corresponda, solo para el caso de alimentos de Importación temporal)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago del arancel vigente correspondiente, gestionado previamente a través del Sistema de Pago Electrónico de ANMAT",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar en la plataforma TAD"
+      },
+      {
+        "texto": "Completar el formulario y adjuntar la documentación correspondiente"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-nacionalizacion-de-productos-solicitados-de-una-importacion-temporal",
+      "titulo": "Solicitar la nacionalización de productos solicitados de una importación temporal | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T09:45:25.365Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T09:45:25.365Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite no está especificada en el texto.",
+    "La dirección de las oficinas no está especificada en el texto."
+  ]
+}

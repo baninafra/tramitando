@@ -1,0 +1,73 @@
+{
+  "tramite": {
+    "slug": "emision-de-certificados-de-deuda-de-la-ex-obras-sanitarias-de-la-nacion-osn",
+    "nombre": "Emisión de certificados de deuda de la ex obras sanitarias de la nación osn",
+    "nombre_busqueda": "certificado deuda osn",
+    "resumen": "Pedí un certificado de libre deuda en línea con el número de expediente y una factura de AYSA. Si hay deuda, necesitás contactar al Ministerio de Economía para el pago y recibirás el recibo cancelatorio.",
+    "sinonimos": [
+      "certificado deuda osn",
+      "certificado libre deuda osn",
+      "certificado deuda ex obras sanitarias"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Economía",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Escribanos y usuarios particulares."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de expediente del inmueble.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Una factura emitida por la empresa AYSA.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Hacé clic en deudaosn.mecon.gob.ar e ingresá el número de expediente del inmueble."
+      },
+      {
+        "texto": "Si el inmueble no está en CABA, especificá el prefijo de la provincia donde se encuentre."
+      },
+      {
+        "texto": "Seguí las instrucciones indicadas en la pantalla."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/emision-de-certificados-de-deuda-de-la-ex-obras-sanitarias-de-la-nacion-osn",
+      "titulo": "Emisión de certificados de deuda de la ex Obras Sanitarias de la Nación (OSN) | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T15:25:32.312Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El trámite lleva 15 minutos según el texto, pero no se especifica si este tiempo es para la consulta inicial o para todo el proceso completo incluyendo el contacto posterior si hay deuda."
+  ]
+}

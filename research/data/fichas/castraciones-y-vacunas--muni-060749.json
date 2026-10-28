@@ -1,0 +1,75 @@
+{
+  "tramite": {
+    "slug": "castraciones-y-vacunas",
+    "nombre": "Veterinaria en tu barrio",
+    "nombre_busqueda": "Veterinaria en tu barrio",
+    "resumen": "Operativo municipal para castración, desparasitación y vacunación antirrábica de perros y gatos en barrios específicos.",
+    "sinonimos": [],
+    "temas": [
+      "animales-y-zoonosis",
+      "castraciones-y-vacunas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060749",
+  "organismo": {
+    "nombre": "San Fernando Municipio",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Vecinos de los barrios donde se realizan los operativos."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI con domicilio en la zona.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Facturas que puedan acreditar su dirección.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Concurrí al operativo en la zona asignada."
+      },
+      {
+        "texto": "Presentá tu DNI y facturas de dirección."
+      },
+      {
+        "texto": "Esperá tu turno asignado a partir de las 8.15am."
+      },
+      {
+        "texto": "Recibí el servicio de castración, desparasitación o vacunación según corresponda."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.sanfernando.gob.ar/zoonosis-en-tu-barrio",
+      "titulo": "San Fernando Municipio - Veterinaria en tu barrio",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T11:42:57.704Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican los barrios donde se realizan los operativos.",
+    "No se especifican los horarios de atención más allá de la hora de inicio de turnos.",
+    "No se especifica si hay costo por el servicio.",
+    "No se especifica si se puede realizar el trámite en línea."
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "tramite": {
+    "slug": "solicitar-asesoramiento-juridico-gratuito-para-trabajadores-asistir",
+    "nombre": "Solicitar asesoramiento jurídico gratuito para trabajadores (Asistir)",
+    "nombre_busqueda": "asesoramiento juridico gratuito trabajadores asistir",
+    "resumen": "El programa Asistir brinda asesoramiento, orientación e información jurídico-legal a trabajadores del sector privado en CABA o con empleadores en la Ciudad. El servicio es gratuito y se realiza de modo presencial o virtual.",
+    "sinonimos": [
+      "asesoramiento legal gratuito trabajadores",
+      "patrocinio jurídico Asistir"
+    ],
+    "temas": [
+      "conflictos-laborales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Capital Humano",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Trabajadores del sector privado que presten tareas dentro del ámbito de la Ciudad Autónoma de Buenos Aires o cuyos empleadores tengan domicilio en ella.",
+      "Quienes no cuenten con abogado ni asesoramiento legal previo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento Nacional de Identidad (DNI) o residencia precaria vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos de Empleador (CUIT, razón social, nombre y apellido).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio de prestación de servicios.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Recibos de sueldo (si los tenés).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Toda documentación que consideres pertinente respecto a la situación que vas a consultar.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate al día de la consulta a la calle 25 de Mayo 645, PB, CABA."
+      },
+      {
+        "texto": "Llevá tu documentación y la información requerida."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://www.argentina.gob.ar/turnos",
+    "plazo": null,
+    "consejos": [
+      "Para la atención presencial con turno, ingresá a MiArgentina.",
+      "Para la atención virtual, contactá por correo institucional o vía WhatsApp.",
+      "Es importante que detalles los motivos de tu consulta."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-asesoramiento-juridico-gratuito-para-trabajadores-asistir",
+      "titulo": "Solicitar asesoramiento jurídico gratuito para trabajadores (Asistir) | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T04:45:01.690Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T04:45:01.690Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica el plazo de atención.",
+    "El texto no detalla si el turno se puede sacar exclusivamente por internet o si hay requisitos adicionales para la modalidad virtual."
+  ]
+}

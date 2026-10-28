@@ -1,0 +1,195 @@
+{
+  "tramite": {
+    "slug": "estacionamiento-medido-miramar-y-pago-de-infracciones",
+    "nombre": "Estacionamiento medido y pago de infracciones",
+    "nombre_busqueda": "Estacionamiento medido en Miramar y pago de multas",
+    "resumen": "Consultá cómo funciona el estacionamiento medido en Miramar y cómo pagar infracciones. El sistema de estacionamiento medido funcionó hasta el 13 de marzo de 2026 inclusive; la app y los puntos de venta siguieron operativos hasta el 15 de marzo para pagar infracciones preexistentes.",
+    "sinonimos": [
+      "SEM Miramar",
+      "pago voluntario de infracciones"
+    ],
+    "temas": [
+      "estacionamiento-medido",
+      "infracciones-y-multas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060280",
+  "organismo": {
+    "nombre": "Municipio de General Alvarado",
+    "sigla": null,
+    "web": "https://mga.gov.ar/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés usar el sistema de estacionamiento medido en Miramar.",
+      "Si tu vehículo tiene el símbolo internacional de acceso, podés estacionar libremente."
+    ],
+    "requisitos": [
+      {
+        "texto": "Cargá un mínimo de 2000 para pagar desde la aplicación.",
+        "aclaracion": "Si pagás desde el celular."
+      },
+      {
+        "texto": "Exponé en el parabrisas delantero el símbolo internacional de acceso impreso, asociado a la patente del vehículo.",
+        "aclaracion": "Si estacionás con el beneficio para vehículos que trasladan a una persona con discapacidad."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Descargá la aplicación oficial para pagar el estacionamiento medido."
+      },
+      {
+        "texto": "Pagá la infracción desde la aplicación dentro de las 72 horas para abonar el 50% del monto."
+      },
+      {
+        "texto": "Consultá en línea si tenés infracciones."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Estacioná y aboná en el punto de venta más cercano dentro de los 15 minutos de tolerancia."
+      },
+      {
+        "texto": "Pagá el monto total de la infracción en el Juzgado de Faltas si pasaron más de 72 horas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "El sistema de estacionamiento medido funcionó hasta el viernes 13 de marzo de 2026 inclusive. La aplicación y los puntos de venta continuaron operativos hasta el 15 de marzo para pagar infracciones p…",
+    "consejos": [
+      "El estacionamiento medido rige de 08:00 a 23:00. Fuera de ese horario no hace falta pagar.",
+      "La primera hora se cobra completa al activar el estacionamiento. Después, el cobro se fracciona en bloques de 15 minutos.",
+      "Podés consultar el mapa de calles incluidas en el sistema desde la página del SEM.",
+      "El símbolo internacional de acceso identifica al vehículo asociado y permite transitar y estacionar libremente conforme a las normas de tránsito. Si no lo tenés, podés tramitarlo desde Mi Argentina."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 65000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://mga.gov.ar/sem/"
+    },
+    {
+      "modalidad": "Desde el celular",
+      "gratis": false,
+      "monto_centavos": 200000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://mga.gov.ar/sem/"
+    },
+    {
+      "modalidad": "Pago voluntario",
+      "gratis": false,
+      "monto_centavos": 1711000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://mga.gov.ar/sem/"
+    },
+    {
+      "modalidad": "Pago en el Juzgado de Faltas",
+      "gratis": false,
+      "monto_centavos": 3422000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://mga.gov.ar/sem/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Juzgado de Faltas",
+      "direccion": "Calle 17 N° 1630",
+      "localidad": "Miramar",
+      "horario": null,
+      "fuente_url": "https://mga.gov.ar/sem/"
+    },
+    {
+      "nombre": "Atención presencial del SEM",
+      "direccion": "Terminal de Ómnibus, Av. 40 y 15, PB Oficina 3",
+      "localidad": "Miramar",
+      "horario": null,
+      "fuente_url": "https://mga.gov.ar/sem/"
+    },
+    {
+      "nombre": "Todo limpieza",
+      "direccion": "Calle 22 N° 1042",
+      "localidad": "Miramar",
+      "horario": null,
+      "fuente_url": "https://mga.gov.ar/sem/"
+    },
+    {
+      "nombre": "Kiosko Bandi",
+      "direccion": "Calle 21 N° 1079",
+      "localidad": "Miramar",
+      "horario": null,
+      "fuente_url": "https://mga.gov.ar/sem/"
+    },
+    {
+      "nombre": "Kiosko la Terminal",
+      "direccion": "Av. 40 N° 799",
+      "localidad": "Miramar",
+      "horario": null,
+      "fuente_url": "https://mga.gov.ar/sem/"
+    },
+    {
+      "nombre": "Kiosko Maracuya",
+      "direccion": "Av. Costanera N° 927",
+      "localidad": "Miramar",
+      "horario": null,
+      "fuente_url": "https://mga.gov.ar/sem/"
+    },
+    {
+      "nombre": "Kiosko S y M",
+      "direccion": "Av. Costanera N° 1009",
+      "localidad": "Miramar",
+      "horario": null,
+      "fuente_url": "https://mga.gov.ar/sem/"
+    },
+    {
+      "nombre": "Kiosko Hipocampo",
+      "direccion": "Calle 21 N° 1194",
+      "localidad": "Miramar",
+      "horario": null,
+      "fuente_url": "https://mga.gov.ar/sem/"
+    },
+    {
+      "nombre": "Mediterraneum Pago Fácil",
+      "direccion": "Calle 32 N° 1541",
+      "localidad": "Miramar",
+      "horario": null,
+      "fuente_url": "https://mga.gov.ar/sem/"
+    },
+    {
+      "nombre": "Kiosko Bon o Bon",
+      "direccion": "Calle 21 N° 1004",
+      "localidad": "Miramar",
+      "horario": null,
+      "fuente_url": "https://mga.gov.ar/sem/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://mga.gov.ar/sem/",
+      "titulo": "SEM - Municipio Gral Alvarado",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T12:38:44.814Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa si hace falta turno para la atención presencial.",
+    "No se indica el monto que se paga presencialmente por estacionar; la carga mínima informada corresponde a la aplicación.",
+    "No se informa la fecha exacta de vigencia de las tarifas."
+  ]
+}

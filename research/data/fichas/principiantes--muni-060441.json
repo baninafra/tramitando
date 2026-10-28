@@ -1,0 +1,93 @@
+{
+  "tramite": {
+    "slug": "licencia-de-conducir-principiantes",
+    "nombre": "Licencia de conducir principiantes",
+    "nombre_busqueda": "Licencia de conducir principiantes",
+    "resumen": "Obtención de la primera licencia de conducir en La Plata. Requiere DNI vigente, constancia de curso de educación vial y autorización de padres para menores.",
+    "sinonimos": [
+      "Licencia de conducir primera vez",
+      "Licencia de conducir principiante"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060441",
+  "organismo": {
+    "nombre": "Municipalidad de La Plata",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan domicilio en La Plata.",
+      "Extranjeros con Radicación Temporaria donde conste domicilio en La Plata.",
+      "Menores de edad (16/17 años) con autorización de madre, padre o tutor firmada ante escribano público."
+    ],
+    "requisitos": [
+      {
+        "texto": "Último DNI vigente con domicilio en La Plata (original y copia legible, frente y contrafrente).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de haber asistido al curso de Educación Vial (presencial o online).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si no tiene el último DNI vigente, debe presentar constancia de DNI en trámite acompañado de un DNI anterior o DNI digital en Mi Argentina.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si presenta un ejemplar de DNI anterior al que figura en el sitio https://tramites.renaper.gob.ar/mi_ejemplar/, no podrá continuar su trámite.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Extranjeros con Radicación Temporaria: Deberán presentar el último DNI vigente donde conste domicilio en La Plata.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Los menores de edad (16/17 años) deben presentar autorización de madre, padre o tutor firmada ante escribano público.",
+        "aclaracion": "Si sos menor de edad."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Sacá tu turno online ingresando tus datos en el sistema de turnos."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": "https://turnos.laplata.gob.ar/misdatos",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://tramites.laplata.gob.ar/licencias/principiantes.html",
+      "titulo": "Licencias - Municipalidad de La Plata",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T14:24:35.025Z"
+    },
+    {
+      "url": "https://turnos.laplata.gob.ar/misdatos",
+      "titulo": "Turnos online - Municipalidad de La Plata",
+      "bloques": [
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T14:24:35.025Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos, plazos ni montos de costos en el texto.",
+    "No se indica fecha de vigencia del trámite."
+  ]
+}

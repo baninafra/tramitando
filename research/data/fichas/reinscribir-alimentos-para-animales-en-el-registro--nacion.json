@@ -1,0 +1,142 @@
+{
+  "tramite": {
+    "slug": "reinscribir-alimentos-para-animales-en-el-registro",
+    "nombre": "Reinscribir alimentos para animales en el registro",
+    "nombre_busqueda": "Reinscribir alimentos para animales",
+    "resumen": "Este trámite permite a los titulares y directores técnicos de establecimientos reinscribir productos para la alimentación animal aprobados por Senasa. Se requiere declarar un domicilio electrónico y presentar documentación específica según el tipo de producto.",
+    "sinonimos": [
+      "Reinscripción de alimentos para animales",
+      "Reinscripción de suplementos para animales"
+    ],
+    "temas": [
+      "bromatologia-y-alimentos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de establecimientos elaboradores de alimentos para animales",
+      "Directores técnicos de productos",
+      "Apoderados de los establecimientos"
+    ],
+    "requisitos": [
+      {
+        "texto": "Boleta del arancel",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cupón de pago del arancel",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cupón de pago del plazo solicitado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitud de Reinscripción de Alimentos y Suplementos para animales (formato pdf)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitud de Reinscripción de Aditivos, Núcleos vitamínicos minerales y premezcla de aditivos (formato pdf)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitud de Reinscripción de Subproductos de Origen Vegetal (formato pdf)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Último certificado de uso y comercialización",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Libre Venta del país de origen (para productos importados, firmado por Autoridad Oficial competente y traducido)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Rótulo del país de origen (traducido por traductor público matriculado)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ingredientes de origen animal (en archivo pdf, si aplica)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de designación del Director Técnico (si se modifica)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración Jurada de Elaboración en terceros (si se modifica el establecimiento)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma Trámites a Distancia - TAD"
+      },
+      {
+        "texto": "Completá la solicitud para la modificación"
+      },
+      {
+        "texto": "Aboná el arancel que corresponda"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Para productos importados, necesitás agregar el Certificado de Libre Venta del país de origen y el Rótulo del país de origen, ambos traducidos por traductor público matriculado.",
+      "Si tenés ingredientes de origen animal, incluílos en un archivo pdf.",
+      "Si modificás al Director Técnico de producto, adjuntá la Nota de designación del mismo.",
+      "Si modificás el establecimiento de elaboración en terceros autorizados, adjuntá la Declaración Jurada de Elaboración en terceros.",
+      "El domicilio electrónico es obligatorio para realizar este trámite."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Registro de Alimentos para Animales",
+      "direccion": "Azopardo N° 1020, C1107ADR, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/reinscribir-alimentos-para-animales-en-el-registro"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reinscribir-alimentos-para-animales-en-el-registro",
+      "titulo": "Reinscribir alimentos para animales en el registro | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T04:00:32.217Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-modificaciones-en-el-registro-de-alimentos-para-animales",
+      "titulo": "Solicitar modificaciones en el registro de alimentos para animales | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T04:00:32.217Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no se especifica en el texto, solo se menciona que se debe abonar el arancel correspondiente.",
+    "La fecha de vigencia exacta del trámite no se detalla, solo se indica que no tiene vencimiento."
+  ]
+}

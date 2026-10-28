@@ -1,0 +1,117 @@
+{
+  "tramite": {
+    "slug": "constituir-sociedades-comerciales-urgente",
+    "nombre": "Constituir sociedades comerciales urgente",
+    "nombre_busqueda": "constituir una sociedad urgente",
+    "resumen": "Inscribí una Sociedad Anónima, Anónima Unipersonal o de Responsabilidad Limitada bajo la modalidad urgente de la IGJ. Se resuelve en 5 días hábiles si no tiene observaciones e incluye el instrumento constitutivo y el CUIT.",
+    "sinonimos": [
+      "constitución urgente de sociedades",
+      "inscribir una SRL",
+      "inscribir una SA",
+      "sociedad anónima unipersonal"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo"
+    ],
+    "temas_propuestos": [
+      {
+        "slug": "sociedades-comerciales",
+        "nombre": "Sociedades comerciales",
+        "padre": null
+      }
+    ]
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": "IGJ",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quiénes quieran constituir una Sociedad Anónima (SA), una Sociedad Anónima Unipersonal (SAU) o una Sociedad de Responsabilidad Limitada (SRL) bajo la modalidad urgente."
+    ],
+    "requisitos": [
+      {
+        "texto": "Presentá el formulario de constitución y la documentación requerida según el tipo societario (SA, SAU o SRL).",
+        "aclaracion": "La página remite a una guía de trámites para ver la documentación de cada tipo societario."
+      },
+      {
+        "texto": "Llevá una copia del Formulario 185 de la AFIP junto con la constancia de presentación ante ese organismo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Completá y presentá el formulario de adhesión a rúbrica inicial al inicio del trámite.",
+        "aclaracion": "Solo si elegís la constitución con rúbrica de libros. Indicá para cada tipo de libro si es copiador y la cantidad de páginas o fojas."
+      },
+      {
+        "texto": "Completá, descargá y aboná el formulario Constitución Urgente con Rúbrica de libros Obligatorios, o el de Rúbrica de libros Obligatorios y Opcionales, según el tipo societario.",
+        "aclaracion": "Solo para la modalidad con rúbrica de libros."
+      },
+      {
+        "texto": "Llevá los libros físicos el día del retiro del trámite.",
+        "aclaracion": "Solo si optaste por la constitución con rúbrica inicial."
+      },
+      {
+        "texto": "Asegurate de que los libros sean de un tamaño superior a A4 (21 cm de ancho por 29,7 cm de alto).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Completá el formulario de constitución urgente y reuní la documentación según el tipo societario."
+      },
+      {
+        "texto": "Presentate con el formulario y la documentación el día del turno en Av. Paseo Colón 285, Ciudad Autónoma de Buenos Aires."
+      },
+      {
+        "texto": "Retirá el estatuto de la sociedad con su plancha de inscripción y el número de CUIT asignado, con turno para \"Retiro de trámite finalizado\"."
+      },
+      {
+        "texto": "Si elegiste la rúbrica inicial, presentá los libros físicos al retirar el trámite para que fijen las obleas de rúbrica; podés retirarlos el mismo día junto con el estatuto."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": "5 días hábiles desde la presentación, siempre que el trámite no tenga observaciones.",
+    "consejos": [
+      "La rúbrica de libros es opcional y se pide al inicio del trámite: no se aceptan formularios de rúbrica inicial después del ingreso.",
+      "Si no elegís la rúbrica de libros, tenés que pedir las rúbricas según la Resolución General IGJ 3/18 (fojas escribanos); esa opción no tiene el trámite preferencial.",
+      "El trámite entrega el instrumento constitutivo inscripto y el número de CUIT asignado."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Mesa de Entradas de la Inspección General de Justicia",
+      "direccion": "Av. Paseo Colón 285",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/constituir-sociedades-comerciales-urgente"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/constituir-sociedades-comerciales-urgente",
+      "titulo": "Constituir sociedades comerciales urgente | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:50:33.982Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No figura el monto de los formularios de constitución urgente ni de la rúbrica de libros.",
+    "El link de turnos no está disponible: la página de turnos devuelve error 404.",
+    "No se indica el horario de atención de la Mesa de Entradas.",
+    "No se detalla la documentación específica de cada tipo societario; la página remite a una guía de trámites.",
+    "No surge del texto si hay una tasa además del pago de los formularios."
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "tramite": {
+    "slug": "consulta-y-pago-de-tasa-por-servicios-generales-urbanos-y-suburbanos-rurales",
+    "nombre": "Consulta y pago de Tasa por Servicios Generales Urbanos y Suburbanos / Rurales",
+    "nombre_busqueda": "Consulta y pago de Tasa por Servicios Generales Urbanos y Suburbanos / Rurales",
+    "resumen": "Consultá el estado de tu deuda y las cuotas de tasas municipales desde cualquier dispositivo. Podés visualizar importes, opciones de pago y convenios disponibles.",
+    "sinonimos": [
+      "Consulta de Tasas y Convenios",
+      "Cuenta Corriente Municipal",
+      "Estado de deuda municipal"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060483",
+  "organismo": {
+    "nombre": "Municipalidad de Lobos",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Contribuyentes que deseen consultar su estado de deuda o cuotas de tasas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tasa",
+        "aclaracion": null
+      },
+      {
+        "texto": "Objeto correspondiente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos del contribuyente",
+        "aclaracion": "Verifiqué que coincidan con los registrados por el municipio."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la página de Trámites On-line."
+      },
+      {
+        "texto": "Seleccioná el servicio de Consulta de Tasas y Convenios."
+      },
+      {
+        "texto": "Ingresá la tasa y el objeto correspondiente."
+      },
+      {
+        "texto": "Visualizá cuotas, importes y opciones de pago online."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://servicios.lobos.gov.ar/tramites-on-line/",
+      "titulo": "Trámites on-line",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T14:53:08.222Z"
+    },
+    {
+      "url": "https://servicios.lobos.gov.ar/tramites-on-line/ctacte.asp",
+      "titulo": "Cuenta Corriente",
+      "bloques": [
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T14:53:08.222Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos de tasas ni costos de trámite en el texto proporcionado.",
+    "No se especifican plazos de respuesta ni tiempos de espera en el texto proporcionado."
+  ]
+}

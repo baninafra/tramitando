@@ -1,0 +1,90 @@
+{
+  "tramite": {
+    "slug": "ampliar-categorias-sometidas-a-control",
+    "nombre": "Ampliar categorías sometidas a control",
+    "nombre_busqueda": "ampliar categorías sometidas a control residuos peligrosos",
+    "resumen": "Pedí la ampliación de categorías sometidas a control si sos generador, transportista u operador de residuos peligrosos. El trámite se hace en línea por Trámites a Distancia (TAD).",
+    "sinonimos": [
+      "ampliación de categorías de residuos peligrosos",
+      "ampliar categorías de residuos peligrosos"
+    ],
+    "temas": [
+      "ambiente-municipal"
+    ],
+    "temas_propuestos": [
+      {
+        "slug": "residuos-peligrosos",
+        "nombre": "Residuos peligrosos",
+        "padre": "ambiente-municipal"
+      }
+    ]
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Ambiente y Desarrollo Sostenible",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés hacerlo si sos generador, transportista u operador de residuos peligrosos y tenés un Certificado Ambiental Anual vigente del Ministerio de Ambiente y Desarrollo Sostenible."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener usuario de Trámites a Distancia (TAD).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contar con un Certificado Ambiental Anual vigente del Ministerio de Ambiente y Desarrollo Sostenible.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener un representante técnico que firme junto con vos los documentos que lo exijan.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a Trámites a Distancia (TAD) con tu usuario."
+      },
+      {
+        "texto": "Accedé al trámite de ampliación de categorías sometidas a control."
+      },
+      {
+        "texto": "Completá los datos y verificá que estén bien cargados antes de terminar."
+      },
+      {
+        "texto": "Pagá las tasas que tengas que acreditar por la plataforma e-Recauda."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": false,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá el instructivo de TAD para ver las formas de acceder.",
+      "Podés descargar el instructivo para la ampliación de categorías sometidas a control."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/ampliar-categorias-sometidas-control",
+      "titulo": "Ampliar categorías sometidas a control | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:24:41.990Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto de las tasas no figura en la página.",
+    "El plazo del trámite no figura en la página.",
+    "La página no muestra el enlace directo del trámite ni los datos de contacto."
+  ]
+}

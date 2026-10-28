@@ -1,0 +1,78 @@
+{
+  "tramite": {
+    "slug": "pagos-y-tasas-municipales",
+    "nombre": "Pago y Consulta de Tasas Municipales",
+    "nombre_busqueda": "Pago de tasas municipales",
+    "resumen": "Permití consultar y pagar las tasas de servicios generales, automotor y comercio de la ciudad de La Costa.",
+    "sinonimos": [
+      "Pago de tasas La Costa",
+      "Consulta de tasas municipales"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060420",
+  "organismo": {
+    "nombre": "Municipalidad de La Costa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona natural o jurídica que tenga deudas con el municipio o que desee consultar sus tasas."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI o documento de identidad vigente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal de autogestión."
+      },
+      {
+        "texto": "Seleccioná el trámite de pago de tasas."
+      },
+      {
+        "texto": "Ingresá tus datos de identificación."
+      },
+      {
+        "texto": "Consultá el detalle de las tasas a pagar o las que tenés deudas."
+      },
+      {
+        "texto": "Realizá el pago mediante transferencia bancaria o tarjeta."
+      },
+      {
+        "texto": "Guardá el comprobante de pago."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://tramites.lacosta.gob.ar/pagar",
+      "titulo": "Autogestión",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:35:32.010Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere confirmar si existen plazos específicos para el pago de cada tipo de tasa.",
+    "Se requiere confirmar si hay exenciones o descuentos para ciertos casos."
+  ]
+}

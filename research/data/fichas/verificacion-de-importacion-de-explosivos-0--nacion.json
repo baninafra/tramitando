@@ -1,0 +1,104 @@
+{
+  "tramite": {
+    "slug": "verificacion-de-importacion-de-explosivos",
+    "nombre": "Verificación de importación de explosivos",
+    "nombre_busqueda": "Verificación importación explosivos ANMaC",
+    "resumen": "Para importar explosivos, necesitás presentar una Ficha de Datos Técnicos (FDT) por duplicado, estampillas de pago y documentación de transporte como la Guía Aérea o el Conocimiento de embarque.",
+    "sinonimos": [
+      "Verificación ANMaC explosivos",
+      "Importación explosivos trámite"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMaC",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Importadores y exportadores antes del ingreso o egreso de productos del país."
+    ],
+    "requisitos": [
+      {
+        "texto": "Ficha de datos técnicos (FDT) N° 7 por duplicado, suscriptas por el representante legal o titular con certificación de firma en imprenta, sin espacios en blanco ni corrector líquido, consignando el número de Autorización de Importación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estampillas por un valor de 100000.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Despacho de Importación oficializado o despacho de importación provisorio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia auténtica de la Guía Aérea (AWB), Carta de Porte Internacional por Carretera (CRT) o Conocimiento de embarque (B/L), según corresponda.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia certificada de la factura.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Lista de Empaque (Packing List) indicando los números con los datos técnicos correspondientes dependiente del medio de transporte aéreo, marítimo o terrestre, Nº de contenedores, detalle de la mercadería (bultos, pallets, etc) contenida en cada uno de ellos, con su número de código y riesgo princip…",
+        "aclaracion": null
+      },
+      {
+        "texto": "La documentación confeccionada en idioma extranjero deberá contar con su correspondiente traducción al idioma castellano, efectuada por traductor público nacional.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de la Autorización de Importación oportunamente emitida por la ANMaC.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de la habilitación del vehículo para el transporte de sustancias peligrosas (para transporte terrestre).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 10000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/verificacion-de-importacion-de-explosivos-0"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/verificacion-de-importacion-de-explosivos-0",
+      "titulo": "Verificación de importación de explosivos | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-28T06:54:49.456Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de los Centros de Atención de ANMaC.",
+    "Si se requiere sacar turno en línea para este trámite específico."
+  ]
+}

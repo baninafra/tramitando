@@ -1,0 +1,135 @@
+{
+  "tramite": {
+    "slug": "certificado-de-pre-identificacion-cpi",
+    "nombre": "Certificado de pre-identificación",
+    "nombre_busqueda": "Certificado de pre-identificación CPI",
+    "resumen": "Es un instrumento gratuito que permite el registro de datos de nacidos en Argentina que no tienen partida de nacimiento ni DNI. Tiene vigencia de seis meses para iniciar el trámite de inscripción tardía.",
+    "sinonimos": [
+      "CPI",
+      "Certificado de pre-identificación"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Renaper",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Nacidos en territorio argentino que no han sido inscriptos al nacer.",
+      "Personas que no cuentan con partida de nacimiento ni DNI.",
+      "Personas mayores de un año de edad.",
+      "Menores de 14 años acompañados por su padre, madre o representante legal con su DNI.",
+      "Personas menores de edad con acreditación del representante legal (oficio judicial o testimonio de tutela)."
+    ],
+    "requisitos": [
+      {
+        "texto": "Acreditación de haber nacido en territorio argentino.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditación de no estar inscripto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentación de toda la documentación que se tenga sobre el nacimiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inicio de trámite para retirar el CPI impreso.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acompañamiento y DNI del padre, madre o representante legal si se es menor de 14 años.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Oficio judicial o testimonio de tutela si se es menor de 14 años.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización de representación firmada y sellada por la autoridad competente si se está en una institución de cuidado u hogar de menores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Oficio judicial o testimonio de guarda provisoria con fines de adopción si se está en una institución de cuidado u hogar de menores.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en cualquier oficina del Renaper o en los Registros Civiles de todo el país."
+      },
+      {
+        "texto": "Llevá toda la documentación que tengas sobre tu nacimiento."
+      },
+      {
+        "texto": "Recibí la constancia de inicio de trámite."
+      },
+      {
+        "texto": "Esperá que te contacten cuando el CPI esté impreso."
+      },
+      {
+        "texto": "Retirá tu CPI en la misma sede donde lo tramitaste con la constancia de inicio de trámite."
+      }
+    ],
+    "requiere_turno": false,
+    "turno_url": null,
+    "plazo": "6 meses",
+    "consejos": [
+      "El CPI no se podrá tramitar en aeropuertos.",
+      "Si pasados los seis meses aún no tenés la partida de nacimiento, podés solicitar una prórroga.",
+      "Con la partida de nacimiento obtenida, podés iniciar el trámite de tu primer DNI."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 0,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/certificado-de-pre-identificacion-cpi"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/certificado-de-pre-identificacion-cpi",
+      "titulo": "Certificado de Pre-identificación (CPI) | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:46:57.139Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T04:46:57.139Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Vigencia exacta: 6 meses",
+    "Fecha de vigencia inicial",
+    "Fecha de vigencia final",
+    "Fecha de prórroga",
+    "Dirección de oficinas",
+    "Localidad de oficinas",
+    "Nombre de oficinas"
+  ]
+}

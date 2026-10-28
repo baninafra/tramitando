@@ -1,0 +1,97 @@
+{
+  "tramite": {
+    "slug": "evaluar-insumos-comerciales-aptos-para-el-uso-en-produccion-organica",
+    "nombre": "Evaluar insumos comerciales aptos para el uso en producción orgánica",
+    "nombre_busqueda": "Evaluar insumos para producción orgánica",
+    "resumen": "Para usar insumos comerciales en producción orgánica necesitás la aprobación del Senasa. Debo presentar documentación específica y abonar un arancel.",
+    "sinonimos": [],
+    "temas": [
+      "produccion-rural",
+      "agroquimicos-y-fumigaciones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Toda persona física o jurídica que solicite evaluar la potencial condición orgánica de un producto destinado a dicho sistema productivo, el cual cuente previamente con su aprobación para su utilización en producción convencional por la autoridad competente."
+    ],
+    "requisitos": [
+      {
+        "texto": "Comprobante de registro actualizado y vigente en el área de competencia del Senasa u otros organismos de la administración pública competentes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Detalle de la composición, la naturaleza y función de los constituyentes del insumo comercial, en particular, el principio activo y sus coformulantes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Detalle del proceso de obtención del insumo comercial.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cualquier otra información que se considere pertinente a los fines de la evaluación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitud del cupón de pago correspondiente a la evaluación del insumo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá los datos del trámite en TAD."
+      },
+      {
+        "texto": "Adjuntá toda la documentación requerida en TAD."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Productos ecológicos/orgánicos",
+      "direccion": "Azopardo N° 1020 Piso 2 C1102ADR, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/evaluar-insumos-comerciales-aptos-para-el-uso-en-produccion-organica"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/evaluar-insumos-comerciales-aptos-para-el-uso-en-produccion-organica",
+      "titulo": "Evaluar insumos comerciales aptos para el uso en producción orgánica | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T15:43:37.899Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T15:43:37.899Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo de resolución no se especifica en el texto.",
+    "La fecha de vigencia de la normativa no se especifica en el texto, solo se menciona la Resolución Senasa N° 374/2016."
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "tramite": {
+    "slug": "inclusion-de-nuevo-integrante-en-pension",
+    "nombre": "Incluir un nuevo integrante en una pensión ya concedida",
+    "nombre_busqueda": "Incluir a un nuevo integrante en una pensión ya concedida",
+    "resumen": "Para acceder a la pensión que ya está cobrando un familiar de la persona fallecida, tenés que acreditar el vínculo con esa persona fallecida. El trámite es gratuito y se realiza de forma presencial.",
+    "sinonimos": [
+      "Compartir pensión",
+      "Ingresar nuevo beneficiario en pensión"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANSES",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Un familiar de una persona fallecida, por la que otro familiar percibe ya la pensión.",
+      "Esposa/esposo.",
+      "Conviviente (acreditado).",
+      "Hijos menores de edad.",
+      "Hijos discapacitados sin límite de edad."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original de los integrantes del grupo familiar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de discapacidad, en caso de corresponder.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación adicional si se trata de una pensión por el fallecimiento de un jubilado.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Entrá a Mi ANSES con tu clave de la seguridad social y fijate si tus datos y los de tu grupo familiar están actualizados."
+      },
+      {
+        "texto": "Es necesario que acredites el vínculo con la persona fallecida."
+      },
+      {
+        "texto": "Reuní la documentación necesaria y sacá un turno en ANSES."
+      },
+      {
+        "texto": "Posteriormente y en caso de ser necesario podés consultar la información del día y el lugar del turno para cerciorarte o cancelarlo."
+      },
+      {
+        "texto": "Presentá la documentación en la Oficina de ANSES en el día y la hora indicados en el turno concedido."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá a través de la línea telefónica gratuita 130, de 8 a 20 h."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/incluir-un-nuevo-integrante-en-una-pension-ya-concedida",
+      "titulo": "Incluir a un nuevo integrante en una pensión ya concedida | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T16:41:16.134Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-26T16:41:16.134Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La documentación adicional específica para pensión por fallecimiento de jubilado no se detalla en el texto.",
+    "El plazo de atención no está indicado en el texto.",
+    "La fecha de vigencia del trámite no está indicada en el texto."
+  ]
+}

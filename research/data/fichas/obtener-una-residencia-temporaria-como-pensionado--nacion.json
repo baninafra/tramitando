@@ -1,0 +1,106 @@
+{
+  "tramite": {
+    "slug": "residencia-temporaria-pensionado",
+    "nombre": "Obtener residencia temporaria como pensionado",
+    "nombre_busqueda": "Residencia temporaria pensionado",
+    "resumen": "Se otorga una residencia temporaria de un año a personas extranjeras que perciban una pensión regular y permanente de un gobierno, organismo internacional o empresa particular por servicios prestados en el exterior, con un monto igual o superior a cinco salarios mínimos.",
+    "sinonimos": [],
+    "temas": [
+      "residencias-temporarias-y-permanentes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Migraciones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas extranjeras que perciban una pensión regular y permanente de un gobierno, de organismos internacionales o de empresas particulares, por servicios prestados en el exterior."
+    ],
+    "requisitos": [
+      {
+        "texto": "Pasaporte válido y vigente (todas las nacionalidades) o documento de viaje del MERCOSUR legalizado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Antecedentes Penales Argentinos emitido por el Registro Nacional de Reincidencia (solo para mayores de 16 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado que acredite que no registra condenas anteriores ni procesos penales en trámite de los países donde haya residido por un plazo superior a un año durante los últimos tres años (solo para mayores de 16 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia expedida por un gobierno, un organismo internacional o una empresa particular que certifique la percepción de una pensión o jubilación en forma regular y permanente, de un monto igual o superior a la suma de cinco salarios mínimos vital y móvil.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Toda documentación expedida en el extranjero deberá contar con la legalización del Consulado Argentino, sito en el país emisor del documento, o Apostillada, si el país hubiera ratificado el Convenio de La Haya.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La documentación expedida por las representaciones consulares en el territorio nacional deberá contar con la legalización del Ministerio de Relaciones Exteriores Comercio Internacional y Culto, excepto MERCOSUR.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si estuviera en idioma extranjero debe ser traducida al castellano por un traductor público nacional y legalizada por el Colegio de Traductores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Toda la documentación debe ser original.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá tu trámite a distancia ingresando en el sistema RaDEX."
+      },
+      {
+        "texto": "Registrate como usuario, completá el formulario de solicitud y aboná las tasas correspondientes."
+      },
+      {
+        "texto": "Adjuntá la documentación y datos requeridos según el tipo de residencia a la que quieras aplicar."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Recibí un email con la fecha de tu cita presencial si cumplís con los requisitos para formalizar tu solicitud."
+      },
+      {
+        "texto": "Presentá la documentación original y el Certificado de Antecedentes Penales Argentinos (si corresponde) el día de la cita."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "1 año",
+    "consejos": [
+      "La residencia temporaria es prorrogable.",
+      "Es necesario que te encuentres dentro del territorio de la República Argentina para realizar el trámite.",
+      "Podés realizar tu trámite con cita preferencial abonando un monto adicional."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-una-residencia-temporaria-como-pensionado",
+      "titulo": "Obtener una residencia temporaria como pensionado | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T07:06:59.458Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de las tasas migratorias no se especifica en el texto, solo se indica que deben abonarse en la plataforma RaDEX.",
+    "La fecha de vigencia de la normativa no se especifica en el texto, solo se menciona la resolución modificadora."
+  ]
+}

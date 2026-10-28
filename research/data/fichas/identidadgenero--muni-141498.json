@@ -1,0 +1,110 @@
+{
+  "tramite": {
+    "slug": "identidad-de-genero",
+    "nombre": "Identidad de género",
+    "nombre_busqueda": "Identidad de género",
+    "resumen": "Modificá tu nombre y sexo en el Registro Civil según la Ley 26.743 y el Decreto Nacional 476/2021, incluyendo la opción 'X' para personas no binarias.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141498",
+  "organismo": {
+    "nombre": "Municipalidad de Tancacha",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Toda persona que quiera ejercer su derecho a la identidad de género en la provincia.",
+      "Personas mayores de 18 años.",
+      "Personas menores de 18 años con sus progenitores y el abogado del niño."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si naciste en la Provincia de Córdoba, aportá los datos de tu acta de nacimiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si naciste en otra provincia, presentá tu acta de nacimiento con firma legalizada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el menor nació en la Provincia de Córdoba, los progenitores deberán aportar los datos de su acta de nacimiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el menor nació en otra provincia, presentá su acta de nacimiento con firma legalizada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI de la/los progenitores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presencia de ambos progenitores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presencia del abogado del niño y su carnet.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Concurrí con los documentos requeridos al Registro Civil."
+      },
+      {
+        "texto": "Presentá tu DNI y, si corresponde, tu acta de nacimiento o la de tus progenitores según tu situación."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.tancacha.gob.ar/identidadGenero.html",
+      "titulo": "Identidad de género",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "costo",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-26T09:51:18.103Z"
+    },
+    {
+      "url": "https://www.tancacha.gob.ar/index.html",
+      "titulo": "Municipalidad de Tancacha",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T09:51:18.103Z"
+    },
+    {
+      "url": "https://cidi.cba.gov.ar/portal-publico/?App=579",
+      "titulo": "Ciudadano Digital",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T09:51:18.103Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de la oficina de Registro Civil.",
+    "Horarios de atención.",
+    "Si se requiere sacar turno y cómo hacerlo.",
+    "Plazo de atención estimado."
+  ]
+}

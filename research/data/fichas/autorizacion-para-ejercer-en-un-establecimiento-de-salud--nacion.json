@@ -1,0 +1,79 @@
+{
+  "tramite": {
+    "slug": "autorizacion-para-ejercer-en-un-establecimiento-de-salud",
+    "nombre": "Autorización para ejercer en un establecimiento de salud",
+    "nombre_busqueda": "Autorización para ejercer en un establecimiento de salud",
+    "resumen": "Es el trámite por el cual se autoriza a un profesional a ejercer en un establecimiento de salud habilitado. Ambos, el titular del establecimiento y el profesional, deben firmar el trámite.",
+    "sinonimos": [],
+    "temas": [
+      "salud-y-prevencion",
+      "cuidados-domiciliarios-y-salud-mental"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de establecimientos sanitarios que soliciten autorización para ejercer de profesionales de la salud.",
+      "Al profesional a autorizar."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de Solicitud de Autorización para ejercer en un establecimiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de solicitar autorización para más de un profesional, incorporar una nota por cada profesional a autorizar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Disposición de Habilitación o Informar N° Expediente donde tramita la solicitud de Habilitación del Establecimiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave fiscal nivel 2 o superior de la AFIP o Apoderamiento en trámites a distancia para realizar el registro.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresa al trámite Autorización para ejercer."
+      },
+      {
+        "texto": "Identifícate con tu CUIT y Clave Fiscal."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Para hacer el Trámite a Distancia (TAD) se recomienda ingresar a la página desde una CPU a través del Mozilla Firefox o el Google Chrome, no mediante celulares u otros dispositivos móviles porque se han detectado inconvenientes."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/autorizacion-para-ejercer-en-un-establecimiento-de-salud",
+      "titulo": "Autorización para ejercer en un establecimiento de salud | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T15:09:48.724Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite.",
+    "Si el trámite requiere turno."
+  ]
+}

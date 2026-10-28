@@ -1,0 +1,84 @@
+{
+  "tramite": {
+    "slug": "patentes-de-rodados",
+    "nombre": "Patentes de Rodados",
+    "nombre_busqueda": "Patente de moto o auto",
+    "resumen": "Descargá las boletas de patentes de tu vehículo o moto y abonalas on line o en el centro de cobro. Se requiere DNI y título del automotor.",
+    "sinonimos": [
+      "Patente automotor",
+      "Patente de moto",
+      "Patente de vehículo"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "tasa-inmobiliaria-y-servicios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060126",
+  "organismo": {
+    "nombre": "Municipalidad de Campana",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares con DNI o Informe histórico de dominio."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI (original y copia)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título del automotor/motovehículo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario R.541",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Descargá las boletas de patentes de tu moto o vehículo automotor."
+      },
+      {
+        "texto": "Abonalas on line o en el centro de cobro que prefieras."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Centro de atención al Vecino",
+      "direccion": "Av. Varela 750",
+      "localidad": "Av. Varela 750",
+      "horario": null,
+      "fuente_url": "https://www.campana.gob.ar/patentes/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.campana.gob.ar/patentes/",
+      "titulo": "Patentes – Municipalidad de Campana",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T11:06:54.577Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa no se especifica en el texto.",
+    "No se indica si el trámite requiere turno."
+  ]
+}

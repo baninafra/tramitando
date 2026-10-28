@@ -1,0 +1,123 @@
+{
+  "tramite": {
+    "slug": "patente-automotor-municipal",
+    "nombre": "Patente automotores municipalizados",
+    "nombre_busqueda": "Patente automotores San Isidro",
+    "resumen": "Trámite para obtener, regularizar o modificar la patente de vehículos radicados en el municipio. Incluye altas, bajas, cambios de titularidad y exenciones por discapacidad.",
+    "sinonimos": [
+      "Patente municipal",
+      "Patente automotores",
+      "Tasa de patente"
+    ],
+    "temas": [
+      "patente-automotor-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060756",
+  "organismo": {
+    "nombre": "Agencia de Recaudación de San Isidro",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de vehículos radicados en el municipio",
+      "Nuevos titulares que adquieren el vehículo"
+    ],
+    "requisitos": [
+      {
+        "texto": "Título de Propiedad del Automotor con domicilio en el Municipio o Informe Histórico de Dominio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificados de Baja y Libre Deuda (Form. 541) del último lugar de radicación (Municipio, Provincia o Capital Federal)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del DNI del nuevo titular, frente y dorso",
+        "aclaracion": null
+      },
+      {
+        "texto": "Denuncia Policial Form. 04 y 02 y sus anexos otorgados por el Registro de la Propiedad Automotor",
+        "aclaracion": "Solo para Robo, Hurto o Destrucción"
+      },
+      {
+        "texto": "Certificado Único de Discapacidad (CUD) – Ley 22.431",
+        "aclaracion": "Solo para Exenciones por Discapacidad"
+      },
+      {
+        "texto": "DNI del solicitante",
+        "aclaracion": "Solo para Exenciones por Discapacidad"
+      },
+      {
+        "texto": "Título de Propiedad del Automotor",
+        "aclaracion": "Solo para Exenciones por Discapacidad"
+      },
+      {
+        "texto": "Número de Dominio (Patente)",
+        "aclaracion": "Solo para Exenciones por Discapacidad"
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio web arsi.gob.ar, opción Descarga tu boleta. Opción: Patentes Motos-Automotores."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación requerida en la Mesa General de Entradas, sita en Av. Centenario 77, 1º subsuelo, Sector de Patentes."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Municipalidad de San Isidro",
+      "direccion": "Av. Centenario 77, 1º subsuelo, Sector de Patentes",
+      "localidad": "San Isidro",
+      "horario": null,
+      "fuente_url": "https://arsi.gob.ar/tramites-automotores/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://arsi.gob.ar/tramites-automotores/",
+      "titulo": "Automotores – ARSI",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T12:06:40.261Z"
+    },
+    {
+      "url": "https://arsi.gob.ar/boletas-de-pago/",
+      "titulo": "Boletas de Pago – ARSI",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-28T12:06:40.261Z"
+    },
+    {
+      "url": "https://arsi.gob.ar/medios-de-pago-electronicos/",
+      "titulo": "Medios de Pago Electrónicos – ARSI",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-28T12:06:40.261Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la patente no se especifica en el texto, solo se menciona la base imponible según cotización DNRPA vigente al mes de octubre de 2017.",
+    "La fecha de vigencia del trámite no se especifica en el texto.",
+    "Si el trámite requiere turno no se indica en el texto."
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "tramite": {
+    "slug": "denuncia",
+    "nombre": "Denuncia",
+    "nombre_busqueda": "Denuncia",
+    "resumen": "Presentá una denuncia en la Mesa de Entradas de Almirante Brown con los documentos requeridos.",
+    "sinonimos": [],
+    "temas": [
+      "seguridad-y-denuncias",
+      "denuncias-anonimas-y-policiales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060028",
+  "organismo": {
+    "nombre": "Municipio de Almirante Brown",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada."
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia del DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planilla completa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotos de la denuncia (opcional).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Llevá la fotocopia de tu DNI."
+      },
+      {
+        "texto": "Llevá la planilla completa."
+      },
+      {
+        "texto": "Llevá las fotos de la denuncia si las tenés."
+      },
+      {
+        "texto": "Presentá la documentación en la Mesa de Entradas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Mesa de entrada",
+      "direccion": "Rosales 1312",
+      "localidad": "Adrogué",
+      "horario": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/denuncia/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.brown.gob.ar/tramites/denuncia/",
+      "titulo": "Denuncia",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T19:31:06.129Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica si se requiere turno.",
+    "No se especifica el plazo de respuesta.",
+    "No se especifica si la denuncia puede ser anónima.",
+    "No se especifica si se puede hacer por internet."
+  ]
+}

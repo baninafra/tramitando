@@ -1,0 +1,132 @@
+{
+  "tramite": {
+    "slug": "renovacion-de-obra-inedita-software",
+    "nombre": "Renovación de obra inédita software",
+    "nombre_busqueda": "renovacion obra inedita software",
+    "resumen": "Este trámite permite renovar la custodia de una obra de software inédito por tres años. Es opcional y se realiza en línea sin necesidad de ir a una oficina.",
+    "sinonimos": [
+      "renovación de depósito de software",
+      "prórroga obra inédita software"
+    ],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional del Derecho de Autor",
+    "sigla": "DNDA",
+    "web": "https://www.argentina.gob.ar/servicio/renovacion-de-obra-inedita-software"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Autores, coordinadores o titulares de software."
+    ],
+    "requisitos": [
+      {
+        "texto": "Comprobante de pago del trámite por depósito o transferencia bancaria de 1400000 al Fondo Cooperador Ley 23.412 dnda-cessi (cuit 30-65309254-3) alias: camaracessi cbu Nº: 01400199-01401901247953. Banco de la Provincia de Buenos Aires, cta.cte. Nº: 12479/5.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombre completo del autor, coordinador o titular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de cuil/cuit/cdi (en caso de ser extranjero) o Pasaporte.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nacionalidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estado civil.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Correo electrónico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Teléfono.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Porcentaje de titularidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el autor es menor de edad: documentación que acredite vínculo, copia del DNI y constancia de CUIT, CUIL o CDI (en caso de ser extranjero) del menor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el autor es fallecido: certificado de defunción.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el solicitante no es participante de la obra: estar apoderado a través de la plataforma TAD.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD- Renovacion de obra inédita software e iniciá el trámite."
+      },
+      {
+        "texto": "Subí la documentación obligatoria y complementaria."
+      },
+      {
+        "texto": "Completá los datos de la obra a renovar."
+      },
+      {
+        "texto": "El sistema te otorgará un número de Expediente Electrónico con dos carátulas: carátula de expediente y carátula variable."
+      },
+      {
+        "texto": "Si tenés algún error se te enviará una tarea de subsanación; caso contrario, se te otorgará la constancia de renovación del depósito en custodia por TAD."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "15 minutos",
+    "consejos": [
+      "Podés renovar el depósito por otros 3 años, dentro de los treinta días posteriores al vencimiento.",
+      "Si no lo renovás, la obra se destruye (Decreto 972/2024)."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1400000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/renovacion-de-obra-inedita-software"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/renovacion-de-obra-inedita-software",
+      "titulo": "Renovación de obra inédita - Software | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T03:44:57.998Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Vigencia exacta: 3 años (texto dice lapso tras el cual podés volver a renovar, pero no especifica fecha de inicio ni fin exacta en formato AAAA-MM-DD)."
+  ]
+}

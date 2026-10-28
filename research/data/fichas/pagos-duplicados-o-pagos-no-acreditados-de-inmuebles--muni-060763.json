@@ -1,0 +1,77 @@
+{
+  "tramite": {
+    "slug": "pagos-duplicados-o-pagos-no-acreditados-de-inmuebles",
+    "nombre": "Pagos duplicados o pagos no acreditados de inmuebles",
+    "nombre_busqueda": "Pagos duplicados o pagos no acreditados de inmuebles",
+    "resumen": "Declará si abonaste tasas de manera duplicada o si los pagos no están acreditados para recibir nota de crédito o acreditación correspondiente.",
+    "sinonimos": [],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "tasa-inmobiliaria-y-servicios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060763",
+  "organismo": {
+    "nombre": "Municipalidad de San Nicolás de los Arroyos",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares que hayan abonado las tasas de manera duplicada.",
+      "Titulares que hayan realizado pagos que no estén acreditados."
+    ],
+    "requisitos": [
+      {
+        "texto": "Boletas correspondientes a los meses abonados por duplicado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobantes de pago duplicados de las boletas mencionadas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Boletas correspondientes a los meses abonados y no acreditados.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobantes de pago de las boletas mencionadas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación legible adjuntada en formato PDF, JPG o PNG.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Envías las boletas y comprobantes de pago correspondientes a tasasinmuebles@sannicolas.gob.ar indicando en el asunto a qué caso pertenece."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.sannicolasciudad.gob.ar/tramites/inmuebles/pagos-duplicados-o-pagos-no-acreditados-de-inmuebles",
+      "titulo": "Pagos duplicados o pagos no acreditados de inmuebles | Inmuebles | Trámites | San Nicolás Ciudad",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T15:18:11.719Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el monto del trámite."
+  ]
+}

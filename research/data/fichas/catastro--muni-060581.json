@@ -1,0 +1,81 @@
+{
+  "tramite": {
+    "slug": "cambio-de-titularidad-catastro-necochea",
+    "nombre": "Cambio de titularidad",
+    "nombre_busqueda": "cambiar la titularidad de un inmueble",
+    "resumen": "Dá de alta a la persona responsable y titular de un bien. Puede hacerlo el titular o un profesional en nombre del propietario.",
+    "sinonimos": [
+      "cambio de titularidad de un inmueble"
+    ],
+    "temas": [
+      "catastro-e-inmuebles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060581",
+  "organismo": {
+    "nombre": "Municipalidad de Necochea",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El titular del bien.",
+      "Un profesional en nombre del propietario."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI.",
+        "aclaracion": "Si sos titular del bien."
+      },
+      {
+        "texto": "Copia de la escritura o certificado de escritura en trámite.",
+        "aclaracion": "Si sos titular del bien."
+      },
+      {
+        "texto": "Matrícula activa correspondiente al día.",
+        "aclaracion": "Si sos profesional."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación requerida."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "Se realiza en el momento.",
+    "consejos": [
+      "Si el escribano no corresponde al Partido de Necochea, certificá la copia de la escritura o el certificado en el colegio de escribanos."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": true,
+      "monto_centavos": null,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://necochea.gov.ar/tramites/catastro/"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://necochea.gov.ar/tramites/catastro/",
+      "titulo": "Tramites – Catastro – Municipalidad de Necochea",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T15:34:29.500Z"
+    }
+  ],
+  "sin_confirmar": []
+}

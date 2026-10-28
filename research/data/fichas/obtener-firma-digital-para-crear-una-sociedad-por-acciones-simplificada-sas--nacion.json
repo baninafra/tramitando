@@ -1,0 +1,135 @@
+{
+  "tramite": {
+    "slug": "obtener-firma-digital-para-crear-una-sociedad-por-acciones-simplificada-sas",
+    "nombre": "Obtener firma digital para crear una sociedad por acciones simplificada sas",
+    "nombre_busqueda": "Obtener firma digital para crear una sociedad por acciones simplificada sas",
+    "resumen": "Para crear un estatuto de una SAS, necesitás una firma digital. Podés obtenerla con un dispositivo Token en una oficina o de forma remota con smartphone.",
+    "sinonimos": [],
+    "temas": [
+      "firma-digital"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Producción",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes vayan a constituir una Sociedad por Acciones Simplificada (SAS)."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original y copia impresa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia impresa de CUIT O CUIL.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitud de certificado impresa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dispositivo Token según estándares + drivers.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acceso remoto a tu cuenta de correo electrónico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Smartphone con una aplicación OTP (One Time Password) descargada para generar códigos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pasaporte u otro documento válido (para extranjeros sin DNI argentino).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de CDI (para extranjeros sin DNI argentino).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la página para obtener el certificado raíz de la autoridad certificante e instalá el Certificado Raíz y el de la AC-ONTI para que tu firma digital sea válida."
+      },
+      {
+        "texto": "Completá el formulario de solicitud de firma."
+      },
+      {
+        "texto": "Imprimí la solicitud de certificado."
+      },
+      {
+        "texto": "Confirmá la recepción de la solicitud en tu correo electrónico."
+      },
+      {
+        "texto": "Entrá en Mi Argentina o creá tu cuenta, y solicitá un turno en línea y acercate a las sedes del Ministerio de Producción que ofrecen firma digital."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Un oficial de registro va a verificar tu identidad."
+      },
+      {
+        "texto": "Se van a generar claves en tu dispositivo y se te va a solicitar una contraseña para que protejas tu clave privada."
+      },
+      {
+        "texto": "Una vez que el oficial de registro apruebe tu solicitud, va a instalar en tu token un certificado personal de firma digital."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://turnos.argentina.gob.ar/turnos/seleccionTurno/68",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 100000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/obtener-firma-digital-para-crear-una-sociedad-por-acciones-simplificada-sas"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-firma-digital-para-crear-una-sociedad-por-acciones-simplificada-sas",
+      "titulo": "Obtener Firma Digital para crear una Sociedad por Acciones Simplificada (SAS) | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T22:19:41.747Z"
+    },
+    {
+      "url": "https://turnos.argentina.gob.ar/turnos/seleccionTurno/68",
+      "titulo": "Sistema Nacional de Turnos",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T22:19:41.747Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite.",
+    "La dirección exacta de las oficinas del Ministerio de Producción que ofrecen firma digital.",
+    "El plazo estimado para la tramitación."
+  ]
+}

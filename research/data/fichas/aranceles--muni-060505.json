@@ -1,0 +1,139 @@
+{
+  "tramite": {
+    "slug": "aranceles-de-licencias-de-conducir",
+    "nombre": "Aranceles de licencias de conducir",
+    "nombre_busqueda": "Aranceles licencias conducir",
+    "resumen": "Se deben abonar los aranceles correspondientes según el tipo de trámite, la edad, la vigencia y si se trata de particular o profesional.",
+    "sinonimos": [],
+    "temas": [
+      "licencia-de-conducir",
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060505",
+  "organismo": {
+    "nombre": "Municipalidad de Magdalena",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes deseen tramitar la Licencia de Conducir."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tipo de licencia (particular, profesional, etc.).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Trámite solicitado (original, renovación, ampliación, duplicado).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Vigencia de la licencia.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "16 a 17 años, Original y Renovación",
+      "gratis": false,
+      "monto_centavos": 2224750,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://magdalena.gob.ar/detalle-guia-de-tramites-y-servicios/aranceles/"
+    },
+    {
+      "modalidad": "18 a 65 años, Original y Renovación",
+      "gratis": false,
+      "monto_centavos": 5288750,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://magdalena.gob.ar/detalle-guia-de-tramites-y-servicios/aranceles/"
+    },
+    {
+      "modalidad": "66 a 70 años, Original y Renovación",
+      "gratis": false,
+      "monto_centavos": 3756750,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://magdalena.gob.ar/detalle-guia-de-tramites-y-servicios/aranceles/"
+    },
+    {
+      "modalidad": "Mayor a 71 años, Original y Renovación",
+      "gratis": false,
+      "monto_centavos": 2224750,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://magdalena.gob.ar/detalle-guia-de-tramites-y-servicios/aranceles/"
+    },
+    {
+      "modalidad": "Profesionales C-D-E, 21 a 45 Años, Original y Renovación",
+      "gratis": false,
+      "monto_centavos": 2990750,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://magdalena.gob.ar/detalle-guia-de-tramites-y-servicios/aranceles/"
+    },
+    {
+      "modalidad": "Profesionales C-D-E, Mayor a 46 Años, Original y Renovación",
+      "gratis": false,
+      "monto_centavos": 2224750,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://magdalena.gob.ar/detalle-guia-de-tramites-y-servicios/aranceles/"
+    },
+    {
+      "modalidad": "Profesionales C-D-E, Duplicado",
+      "gratis": false,
+      "monto_centavos": 3875750,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://magdalena.gob.ar/detalle-guia-de-tramites-y-servicios/aranceles/"
+    },
+    {
+      "modalidad": "Profesionales C-D-E, Ampliación",
+      "gratis": false,
+      "monto_centavos": 3269750,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://magdalena.gob.ar/detalle-guia-de-tramites-y-servicios/aranceles/"
+    },
+    {
+      "modalidad": "Profesionales C-D-E, Reemplazo",
+      "gratis": false,
+      "monto_centavos": 3269750,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://magdalena.gob.ar/detalle-guia-de-tramites-y-servicios/aranceles/"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://magdalena.gob.ar/detalle-guia-de-tramites-y-servicios/aranceles/",
+      "titulo": "Aranceles : Magdalena",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T15:40:31.772Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los valores podrán actualizarse sin previo aviso conforme a la normativa vigente.",
+    "Dirección de oficinas para el pago o trámite.",
+    "Plazo estimado para la tramitación.",
+    "Si se requiere turno para el pago o trámite."
+  ]
+}

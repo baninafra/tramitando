@@ -1,0 +1,99 @@
+{
+  "tramite": {
+    "slug": "reservas-de-pasajes-para-personas-con-discapacidad",
+    "nombre": "Reservar pasajes para personas con discapacidad",
+    "nombre_busqueda": "reservar pasajes gratis con CUD",
+    "resumen": "Podés reservar pasajes gratuitos en el transporte público nacional de corta, mediana y larga distancia. La reserva se gestiona por internet.",
+    "sinonimos": [
+      "Pasajes gratuitos por discapacidad",
+      "Reserva de pasajes con CUD"
+    ],
+    "temas": [
+      "pasajes-gratuitos-por-discapacidad",
+      "transporte-publico-y-viajes",
+      "discapacidad-y-accesibilidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060413",
+  "organismo": {
+    "nombre": "Gobierno de Junín",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas con discapacidad que quieran acceder a pasajes gratuitos en trenes, subtes, colectivos y micros de corta, mediana y larga distancia."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de CUD, que figura debajo del código de barras del certificado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de teléfono o celular.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio de reservas de la CNRT."
+      },
+      {
+        "texto": "Cargá el número de DNI y el número de CUD."
+      },
+      {
+        "texto": "Ingresá solo el número de teléfono o celular y confirmá los datos."
+      },
+      {
+        "texto": "Elegí origen, destino, fecha de salida y cantidad de pasajes; buscá las opciones disponibles."
+      },
+      {
+        "texto": "Seleccioná la empresa y reservá."
+      },
+      {
+        "texto": "Confirmá la reserva e imprimila."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "Hacé la reserva con 72 horas de anticipación a la fecha de salida.",
+    "consejos": [
+      "Si no encontrás el horario o la empresa de transporte, podés reclamar ante la CNRT al 0800-333-0300."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección para Personas con Discapacidad",
+      "direccion": "Gandini 92",
+      "localidad": "Junín",
+      "horario": null,
+      "fuente_url": "https://www.junin.gob.ar/programa/reservas-de-pasajes-para-personas-con-discapacidad"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.junin.gob.ar/programa/reservas-de-pasajes-para-personas-con-discapacidad",
+      "titulo": "Reservas de pasajes para personas con discapacidad | Gobierno de Junín",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos",
+        "donde",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T14:02:13.621Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La página no informa si la reserva tiene costo."
+  ]
+}

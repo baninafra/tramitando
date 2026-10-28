@@ -1,0 +1,77 @@
+{
+  "tramite": {
+    "slug": "certificado-unico-de-discapacidad",
+    "nombre": "Certificado Único de Discapacidad",
+    "nombre_busqueda": "Certificado Único de Discapacidad",
+    "resumen": "Para tramitar el CUD necesitás documentos específicos según tu tipo de discapacidad y presentarte a una Junta Evaluadora.",
+    "sinonimos": [
+      "CUD",
+      "Certificado Único de Discapacidad Campana"
+    ],
+    "temas": [
+      "discapacidad-y-accesibilidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060126",
+  "organismo": {
+    "nombre": "Municipalidad de Campana",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas con discapacidad que residan en Campana."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documentos en los que se detallen los requisitos para tramitar el CUD según el tipo de discapacidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario a completar por el médico especialista.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación para iniciar el expediente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate con la documentación a las oficinas en 25 de Mayo 1117 para iniciar el expediente."
+      },
+      {
+        "texto": "Presentate a la Junta Evaluadora."
+      },
+      {
+        "texto": "Retira el CUD personalmente en Becerra y Moreno."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.campana.gob.ar/discapacidad/",
+      "titulo": "Discapacidad – Municipalidad de Campana",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T10:57:31.885Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se especifica que la documentación debe presentarse en las oficinas para iniciar el expediente, pero no se detallan los documentos específicos requeridos para cada tipo de discapacidad en el texto general.",
+    "No se especifica el monto de la tasa o si hay costos asociados al trámite en el texto general."
+  ]
+}

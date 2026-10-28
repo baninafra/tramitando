@@ -1,0 +1,74 @@
+{
+  "tramite": {
+    "slug": "oficina-tecnica",
+    "nombre": "Oficina Técnica",
+    "nombre_busqueda": "Oficina Técnica Municipalidad de Rivadavia",
+    "resumen": "Servicio de la Municipalidad de Rivadavia para revisión de planos, inspección eléctrica y gestión de trámites técnicos.",
+    "sinonimos": [],
+    "temas": [
+      "servicios-urbanos-y-reclamos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060679",
+  "organismo": {
+    "nombre": "Municipalidad de Rivadavia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en trámites técnicos o inspecciones."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documentación específica según el trámite solicitado.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acudí a la oficina técnica."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina Técnica",
+      "direccion": "Av. Libertador San Martín 5416 oeste",
+      "localidad": "Rivadavia",
+      "horario": null,
+      "fuente_url": "https://rivadavia.gob.ar/servicios/oficina-tecnica/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://rivadavia.gob.ar/servicios/oficina-tecnica/",
+      "titulo": "Oficina Técnica – Municipalidad de Rivadavia",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T09:31:38.462Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos detallados en el texto.",
+    "No se especifican pasos de llenado de formularios en línea.",
+    "No se especifica si se requiere turno.",
+    "No se especifica el plazo de atención.",
+    "No se especifica el monto de los costos."
+  ]
+}

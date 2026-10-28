@@ -1,0 +1,161 @@
+{
+  "tramite": {
+    "slug": "solicitar-licencia-de-marca-pais",
+    "nombre": "Solicitar licencia de Marca País",
+    "nombre_busqueda": "Licencia Marca País empresa evento entidad",
+    "resumen": "El trámite permite a empresas, cooperativas, entidades y eventos utilizar la identidad gráfica de la Marca País en sus productos, servicios o comunicaciones. Es un proceso en línea gratuito que se resuelve en 60 días hábiles.",
+    "sinonimos": [
+      "Licencia Marca País",
+      "Uso Marca País",
+      "Marca País Argentina"
+    ],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas jurídicas nacionales o extranjeras que se distinguen por sus productos y servicios argentinos o marcas registradas de origen y tradición nacional.",
+      "Entidades públicas o privadas que cuenten con socios y cuyos fines coincidan con los valores y principios de la Marca País.",
+      "Personas humanas o personas jurídicas que organicen un evento en la Argentina o en el exterior con el fin de promocionar el turismo, las exportaciones, la cultura, el deporte, las inversiones o la imagen de la Argentina."
+    ],
+    "requisitos": [
+      {
+        "texto": "Estatuto o acta constitutiva de la persona jurídica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Última designación de autoridades inscripta en el registro correspondiente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de CUIT o CUIL.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de libre deuda fiscal y previsional emitida dentro de un período que no supere los 60 días hábiles de la presentación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Matrícula Nacional vigente otorgada por el Instituto Nacional de Asociativismo y Economía Social (INAES) y estado de cumplimiento de sistema de cuentas tributarias (para cooperativas).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poder de representación (si la solicitud la presenta un mandatario).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado vigente de registro de la marca.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización de uso de la denominación de origen (si corresponde).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que certifique la calidad de los productos o servicios (premios, reconocimientos, distinciones, entre otros).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración jurada de autoría de obras (en caso de uso vinculado a derechos de autor).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cuenta en Mi Argentina con verificación biométrica o clave fiscal nivel 3 asociada con la plataforma Trámites a Distancia.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá con tu clave fiscal o cuenta de Mi Argentina a la plataforma Trámites a Distancia, trámite Solicitud de Licencia de Marca País."
+      },
+      {
+        "texto": "Verificá tus datos y continuá."
+      },
+      {
+        "texto": "Según te corresponda, elegí 'Empresas' o 'Cooperativas' o 'Entidades' o 'Eventos'."
+      },
+      {
+        "texto": "En 'Formulario de Solicitud' informá la denominación comercial o nombre de la empresa y elegí el tipo de licencia que corresponda según tu caso."
+      },
+      {
+        "texto": "Informá el nombre de la entidad o del evento en 'Formulario de Solicitud' y elegí el tipo de licencia correspondiente."
+      },
+      {
+        "texto": "Subí la documentación obligatoria (identificada con una tilde roja) y la documentación opcional que quieras adjuntar."
+      },
+      {
+        "texto": "Si lo considerás necesario, al final tenés un espacio para redactar observaciones y aclaraciones."
+      },
+      {
+        "texto": "Confirmá el trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "60 días hábiles",
+    "consejos": [
+      "Revisá periódicamente las notificaciones de TAD durante los 60 días hábiles, ya que pueden enviarte un pedido de aclaración o rectificación de documentación.",
+      "Si no contás con la última acta de directorio, debés adjuntar un archivo en el que aclares el porqué.",
+      "Si sos monotributista, informalo en el campo de observaciones y aclaraciones."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-licencia-de-marca-pais-para-empresa-o-cooperativa",
+      "titulo": "Solicitar licencia de Marca País para empresa o cooperativa | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T09:56:17.975Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-licencia-de-marca-pais-para-entidad",
+      "titulo": "Solicitar licencia de Marca País para entidad | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T09:56:17.975Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-licencia-de-marca-pais-para-un-evento",
+      "titulo": "Solicitar licencia de Marca País para un evento | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T09:56:17.975Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Vigencia de la licencia: 2 años desde que se aprobó la solicitud (empresas y entidades) / desde el inicio hasta la finalización del evento (eventos).",
+    "Silencio administrativo: El plazo estipulado para su configuración es de 60 días hábiles después de haber acreditado el cumplimiento de las condiciones previstas para el otorgamiento de la autorización administrativa."
+  ]
+}

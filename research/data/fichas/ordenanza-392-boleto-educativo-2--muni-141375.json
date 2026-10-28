@@ -1,0 +1,86 @@
+{
+  "tramite": {
+    "slug": "boleto-educativo",
+    "nombre": "Boleto Educativo",
+    "nombre_busqueda": "Boleto educativo Anisacate",
+    "resumen": "La Municipalidad de Anisacate establece la Ordenanza 392 para regular el Boleto Educativo, definiendo montos, plazos y condiciones de pago para los servicios de educación municipal.",
+    "sinonimos": [],
+    "temas": [
+      "educacion-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141375",
+  "organismo": {
+    "nombre": "Municipalidad de Anisacate",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Los padres de familia o tutores legales de los alumnos matriculados en los establecimientos educativos municipales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Presentar el DNI del titular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar el DNI del alumno.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar el certificado de matrícula vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar la factura de luz en nombre del titular.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acudí a la oficina de la Dirección de Educación."
+      },
+      {
+        "texto": "Presentá los documentos requeridos."
+      },
+      {
+        "texto": "Completá el formulario de solicitud."
+      },
+      {
+        "texto": "Recibí el boleto educativo o el comprobante de pago."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Verificá que el certificado de matrícula esté vigente antes de acudir.",
+      "Llevá la factura de luz actualizada en nombre del titular."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://anisacatemunicipio.gob.ar/download/ordenanza-392-boleto-educativo-2/",
+      "titulo": "ORDENANZA 392 (Boleto Educativo) – Municipalidad de Anisacate",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-26T08:38:16.567Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los montos exactos de los boletos educativos.",
+    "Los plazos específicos para el pago o entrega.",
+    "La dirección exacta de la oficina de la Dirección de Educación.",
+    "Si el trámite se puede realizar online.",
+    "Si se requiere turno para la atención."
+  ]
+}

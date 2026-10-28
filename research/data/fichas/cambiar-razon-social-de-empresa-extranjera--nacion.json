@@ -1,0 +1,86 @@
+{
+  "tramite": {
+    "slug": "cambiar-razon-social-de-empresa-extranjera",
+    "nombre": "Cambiar razón social de empresa extranjera",
+    "nombre_busqueda": "Cambiar razón social empresa extranjera",
+    "resumen": "Trámite para transportistas de carga extranjeros con permiso complementario modificar su razón social en línea de forma gratuita.",
+    "sinonimos": [],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Transportistas de carga extranjeros con permiso complementario vigente que realizan transporte bilateral o en tránsito por Argentina hacia Brasil, Uruguay, Paraguay, Bolivia, Chile y/o Perú."
+    ],
+    "requisitos": [
+      {
+        "texto": "Fax de notificación o nuevo documento de idoneidad con la nueva razón social",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de solicitud de cambio de razón social",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario CI2",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nuevo poder de representación legal",
+        "aclaracion": null
+      },
+      {
+        "texto": "Parque móvil actualizado",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Presentá la documentación a través de TAD."
+      },
+      {
+        "texto": "Asegurate de que tu clave fiscal sea de nivel 3."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/cambiar-razon-social-de-empresa-extranjera",
+      "titulo": "Cambiar razón social de empresa extranjera | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T04:45:03.041Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T04:45:03.041Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica el plazo de resolución del trámite.",
+    "El texto no menciona si se requiere asistencia presencial o no."
+  ]
+}

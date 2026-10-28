@@ -1,0 +1,73 @@
+{
+  "tramite": {
+    "slug": "tribunal-de-faltas",
+    "nombre": "Tribunal de Faltas",
+    "nombre_busqueda": "Tribunal de Faltas Almirante Brown",
+    "resumen": "El Tribunal de Faltas juzga infracciones a normas municipales, nacionales o provinciales en Almirante Brown. Se puede consultar el historial de infracciones y realizar trámites relacionados con multas.",
+    "sinonimos": [],
+    "temas": [
+      "infracciones-y-multas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060028",
+  "organismo": {
+    "nombre": "Tribunal de Faltas",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que tenga infracciones registradas en el sistema."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI o documento de identidad vigente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio web del Tribunal de Faltas de Almirante Brown."
+      },
+      {
+        "texto": "Seleccioná la opción de consulta de infracciones."
+      },
+      {
+        "texto": "Ingresá tu DNI sin espacios ni guiones para buscar tu historial."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.brown.gob.ar/tramites/tribunal-de-faltas/",
+      "titulo": "Tribunal de Faltas",
+      "bloques": [
+        "resumen",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T19:08:32.124Z"
+    },
+    {
+      "url": "https://a.brown.gob.ar/turnos/licencias-de-conducir/consultar-infracciones/1",
+      "titulo": "Almirante Brown",
+      "bloques": [
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T19:08:32.124Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere llevar DNI o documento de identidad vigente para realizar la consulta.",
+    "No se especifica el monto de las multas ni el plazo para su pago en la información disponible.",
+    "No se indica si se requiere turno para realizar trámites presenciales."
+  ]
+}

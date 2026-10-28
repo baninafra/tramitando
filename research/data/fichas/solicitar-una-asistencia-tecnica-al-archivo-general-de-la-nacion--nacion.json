@@ -1,0 +1,76 @@
+{
+  "tramite": {
+    "slug": "solicitar-asistencia-tecnica-archivo-general-nacion",
+    "nombre": "Solicitar una asistencia técnica al Archivo General de la Nación",
+    "nombre_busqueda": "Asesoramiento para gestionar documentos de archivo",
+    "resumen": "Pedí asesoramiento a profesionales del Archivo General de la Nación para gestionar documentos de organismos públicos e instituciones civiles. El trámite es gratuito.",
+    "sinonimos": [
+      "Asistencia técnica del Archivo General de la Nación"
+    ],
+    "temas": [
+      "acceso-a-la-informacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Archivo General de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Principalmente, los organismos de la Administración Pública Nacional y las instituciones civiles."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento Nacional de Identidad (DNI) o documento oficial que acredite tu identidad.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Solicitá una cita por correo electrónico a [email protected] y escribí «Asistencia Técnica» en el asunto."
+      },
+      {
+        "texto": "Explicá en el cuerpo del correo las dificultades que tenés para gestionar los documentos bajo tu custodia."
+      },
+      {
+        "texto": "Esperá la respuesta para comenzar el asesoramiento."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": true,
+      "monto_centavos": null,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-una-asistencia-tecnica-al-archivo-general-de-la-nacion"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-una-asistencia-tecnica-al-archivo-general-de-la-nacion",
+      "titulo": "Solicitar una asistencia técnica al Archivo General de la Nación | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T16:26:09.624Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa un plazo para recibir respuesta ni para completar el asesoramiento."
+  ]
+}

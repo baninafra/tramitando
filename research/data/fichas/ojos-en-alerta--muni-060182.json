@@ -1,0 +1,74 @@
+{
+  "tramite": {
+    "slug": "inscripcion-al-programa-de-seguridad-ciudadana-ojos-en-alerta",
+    "nombre": "Inscripción al Programa de Seguridad Ciudadana Ojos en Alerta",
+    "nombre_busqueda": "Inscripción Ojos en Alerta",
+    "resumen": "El programa Ojos en Alerta permite a los vecinos reportar situaciones de riesgo en su barrio para mejorar la seguridad ciudadana.",
+    "sinonimos": [
+      "Ojos en Alerta",
+      "Programa de Seguridad Ciudadana"
+    ],
+    "temas": [
+      "seguridad-y-denuncias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060182",
+  "organismo": {
+    "nombre": "Municipio de Coronel Rosales",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier vecino que viva en el área de cobertura del programa."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del vecino.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acudí a la oficina de la Intendencia Municipal."
+      },
+      {
+        "texto": "Presentá tu DNI."
+      },
+      {
+        "texto": "Contestá las preguntas sobre la situación de riesgo que querés reportar."
+      },
+      {
+        "texto": "Recibí el comprobante de inscripción."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Llevá información detallada sobre la situación de riesgo para ayudar a los funcionarios a evaluar el caso."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mcr.gob.ar/documentos/ojos-en-alerta/",
+      "titulo": "OJOS EN ALERTA - MCR",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T22:35:59.657Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de la oficina para la inscripción.",
+    "Horarios de atención de la Intendencia Municipal.",
+    "Si se requiere turno previo para la inscripción."
+  ]
+}

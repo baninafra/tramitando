@@ -1,0 +1,84 @@
+{
+  "tramite": {
+    "slug": "exenciones-y-tasa-social",
+    "nombre": "Solicitud de Tasa Social",
+    "nombre_busqueda": "Solicitud de Tasa Social",
+    "resumen": "Permiso para eximir el pago de tasas municipales por situación económica o discapacidad.",
+    "sinonimos": [
+      "Exención de tasas",
+      "Tasa social",
+      "Permiso de pago cero"
+    ],
+    "temas": [
+      "exenciones-y-tasa-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060413",
+  "organismo": {
+    "nombre": "ARJUN",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier contribuyente que cumpla con los requisitos de la ley de tasas."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original o fotocopia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de la resolución de la autoridad competente que acredite la situación económica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de la resolución de la autoridad competente que acredite la discapacidad.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a arjun.gob.ar."
+      },
+      {
+        "texto": "Registráte con tu usuario y contraseña."
+      },
+      {
+        "texto": "Elegí la sección de Trámites."
+      },
+      {
+        "texto": "Buscá el trámite de Exenciones y prescripciones de tasas."
+      },
+      {
+        "texto": "Completá la solicitud con los documentos adjuntos."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Recordá adjuntar las copias de los documentos originales."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://arjun.gob.ar/inicio",
+      "titulo": "ARJUN",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T14:14:39.584Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los montos exactos de las tasas eximibles no se especifican en el texto."
+  ]
+}

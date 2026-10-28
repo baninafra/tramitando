@@ -1,0 +1,82 @@
+{
+  "tramite": {
+    "slug": "cartilla-medica-municipal",
+    "nombre": "Cartilla médica municipal",
+    "nombre_busqueda": "Cartilla médica municipal",
+    "resumen": "Obtén tu cartilla médica municipal con los especialistas de la ciudad. El trámite es gratuito y se realiza en las oficinas de salud.",
+    "sinonimos": [
+      "Cartilla sanitaria municipal",
+      "Cartilla de salud municipal"
+    ],
+    "temas": [
+      "salud-municipal",
+      "centros-de-salud-y-turnos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060126",
+  "organismo": {
+    "nombre": "Municipalidad de Campana",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Vecinos de Campana"
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cartilla médica anterior o constancia de extravío",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Dirijite a la sede donde se dicta el curso elegido (Coletta y Pasaje Carhué o Becerra 718) de lunes a viernes de 9 a 14 con el DNI."
+      },
+      {
+        "texto": "Presentá la documentación requerida."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá qué barrio visita nuestro quirófano móvil esta semana aquí mismo."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.campana.gob.ar/cartilla-medica-municipal/",
+      "titulo": "Cartilla médica municipal – Municipalidad de Campana",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T10:24:09.551Z"
+    },
+    {
+      "url": "https://www.campana.gob.ar/turnos/",
+      "titulo": "Turnos, reclamos y solicitudes – Municipalidad de Campana",
+      "bloques": [
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T10:24:09.551Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de las oficinas de salud",
+    "Horarios de atención en las oficinas",
+    "Si se requiere turno para la entrega de la cartilla"
+  ]
+}

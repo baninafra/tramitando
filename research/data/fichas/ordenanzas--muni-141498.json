@@ -1,0 +1,69 @@
+{
+  "tramite": {
+    "slug": "ordenanzas-y-normativa",
+    "nombre": "Consultar ordenanzas",
+    "nombre_busqueda": "ver ordenanzas",
+    "resumen": "Consultá el listado de ordenanzas, resoluciones y presupuestos de la Municipalidad de Tancacha.",
+    "sinonimos": [
+      "leyes municipales",
+      "normativas locales"
+    ],
+    "temas": [
+      "ordenanzas-y-normativa"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141498",
+  "organismo": {
+    "nombre": "Municipalidad de Tancacha",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en consultar la normativa municipal."
+    ],
+    "requisitos": [
+      {
+        "texto": "Acceso a internet.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Entrá al sitio web de la Municipalidad de Tancacha."
+      },
+      {
+        "texto": "Buscá el menú o sección llamado Ordenanzas."
+      },
+      {
+        "texto": "Consultá el listado de ordenanzas, resoluciones y presupuestos disponibles."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Revisá las fechas de vigencia de cada ordenanza antes de consultar detalles específicos."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.tancacha.gob.ar/ordenanzas.html",
+      "titulo": "Municipalidad de Tancacha - Ordenanzas, resoluciones y presupuestos",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T09:39:36.447Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica en el texto si hay costos asociados a la consulta."
+  ]
+}

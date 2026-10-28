@@ -1,0 +1,125 @@
+{
+  "tramite": {
+    "slug": "habilitar-y-registrar-libreta-sanitaria-equina",
+    "nombre": "Habilitar y registrar libreta sanitaria equina",
+    "nombre_busqueda": "Habilitar libreta sanitaria equina",
+    "resumen": "Este trámite habilita y registra la libreta sanitaria equina, documento obligatorio para todos los poseedores de equinos. Requiere declarar domicilio electrónico, adquirir la libreta por un veterinario acreditado y presentarla en una oficina del Senasa.",
+    "sinonimos": [
+      "Habilitar libreta equina",
+      "Registrar libreta sanitaria equina",
+      "Libreta sanitaria equina"
+    ],
+    "temas": [
+      "animales-y-zoonosis",
+      "cuidados-domiciliarios-y-salud-mental"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Tenedores, responsables sanitarios o propietarios de equinos a cualquier título y finalidad."
+    ],
+    "requisitos": [
+      {
+        "texto": "Adquirí la Libreta Sanitaria Equina (LSE) por intermedio de un profesional veterinario acreditado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Consigná y verificá los datos necesarios para la identificación del equino mediante el profesional veterinario acreditado por el Senasa en sanidad equina.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estar inscripto en el Registro Nacional Sanitario de Productores Agropecuarios - RENSPA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Registrar tu domicilio electrónico mediante el sistema SIGTrámites.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá la libreta habilitada en la oficina local del Senasa de la jurisdicción en la que se encuentra el equino.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a las oficinas del Senasa autorizadas para habilitar la Libreta Sanitaria Equina."
+      },
+      {
+        "texto": "Aboná el arancel que corresponda."
+      },
+      {
+        "texto": "Verificá los Medios de pago habilitados en Senasa."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Recordá completar todos los datos requeridos.",
+      "La libreta sanitaria equina es de uso obligatorio para todos los poseedores de equinos."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Sanidad Animal",
+      "direccion": "Av. Paseo Colón Nº 367, piso 4º, cfrente, C1063ACD, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/habilitar-y-registrar-libreta-sanitaria-equina"
+    },
+    {
+      "nombre": "Dirección Nacional de Operaciones",
+      "direccion": "Paseo Colón 367 - Piso 7° - Frente",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/habilitar-y-registrar-libreta-sanitaria-equina"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/habilitar-y-registrar-libreta-sanitaria-equina",
+      "titulo": "Habilitar y registrar libreta sanitaria equina | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T16:26:29.483Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/capacitacion/veterinarios-acreditados",
+      "titulo": "Veterinarios y técnicos acreditados | Argentina.gob.ar",
+      "bloques": [
+        "requisitos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T16:26:29.483Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/centros-regionales",
+      "titulo": "Centros Regionales | Argentina.gob.ar",
+      "bloques": [
+        "donde"
+      ],
+      "consultada_en": "2026-10-26T16:26:29.483Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no está especificado en el texto, se debe consultar la normativa vigente.",
+    "La fecha de vigencia de la normativa no está especificada en el texto, se menciona una resolución pero no su fecha de publicación."
+  ]
+}

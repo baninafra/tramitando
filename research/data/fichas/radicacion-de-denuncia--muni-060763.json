@@ -1,0 +1,88 @@
+{
+  "tramite": {
+    "slug": "radicacion-de-denuncia",
+    "nombre": "Radicar denuncia",
+    "nombre_busqueda": "Radicar denuncia defensa del consumidor",
+    "resumen": "Si sos usuario o consumidor final titular de bienes o servicios adquiridos en San Nicolás y creés que se violan tus derechos, podés radicar la denuncia. El proceso es gratuito y requiere un reclamo previo ante la entidad denunciada.",
+    "sinonimos": [
+      "Denuncia defensa del consumidor",
+      "Reclamo defensa del consumidor",
+      "Proceso administrativo defensa del consumidor"
+    ],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060763",
+  "organismo": {
+    "nombre": "Defensa del Consumidor",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Ser usuario o consumidor final titular del servicio o bien adquirido en el ámbito del Partido de San Nicolás.",
+      "Los bienes o servicios adquiridos y/o utilizados deben estar destinados al consumo final.",
+      "Haber realizado previamente el reclamo ante la entidad denunciada y poseer número de reclamo, nota o mail que lo acredite."
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia de DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de documentación que acredite la relación de consumo (ticket, factura, contrato, intimaciones de pago, resumen de cuenta).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de denuncia con el relato de los hechos de manera clara y concisa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de reclamo, nota o mail que acredite el reclamo previo realizado ante la entidad denunciada.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Realizá la denuncia de manera online ingresando al enlace indicado."
+      },
+      {
+        "texto": "Completá el formulario online y cargá toda la documentación requerida en formato PDF."
+      },
+      {
+        "texto": "Recibirás un correo electrónico donde se indicará fecha y hora de audiencia."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate a la audiencia concurriendo personalmente al Juzgado de Faltas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.sannicolasciudad.gob.ar/tramites/omic/radicacion-de-denuncia",
+      "titulo": "Radicación de denuncia | OMIC | Trámites | San Nicolás Ciudad",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T15:29:45.245Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el plazo de resolución del trámite.",
+    "No se especifica si se requiere turno para la audiencia."
+  ]
+}

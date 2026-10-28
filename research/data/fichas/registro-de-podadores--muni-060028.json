@@ -1,0 +1,100 @@
+{
+  "tramite": {
+    "slug": "registro-de-podadores",
+    "nombre": "Registro de Podadores",
+    "nombre_busqueda": "Registro de Podadores",
+    "resumen": "Trámite municipal para obtener autorización como podador habilitado, ya sea para tareas en vía pública o propiedades privadas.",
+    "sinonimos": [],
+    "temas": [
+      "poda-y-arbolado"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060028",
+  "organismo": {
+    "nombre": "Municipio de Almirante Brown",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas físicas",
+      "Personas jurídicas - Empresas y/o Cooperativas"
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia del Formulario de Inscripción AFIP como Responsable Inscripto o Monotributo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Capacitación de Poda expedido por la Granja Educativa Municipal",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de Póliza de Seguro de Responsabilidad Civil contra terceros",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de DNI del solicitante para certificar",
+        "aclaracion": "Solo para personas físicas"
+      },
+      {
+        "texto": "Fotocopia de Contrato Social o Acta Constitutiva de la Cooperativa certificadas ante escribano público o autoridad municipal",
+        "aclaracion": "Solo para personas jurídicas - Empresas y/o Cooperativas"
+      },
+      {
+        "texto": "Fotocopia certificada de poder para iniciar el tramite",
+        "aclaracion": "Solo para personas jurídicas - Empresas y/o Cooperativas"
+      },
+      {
+        "texto": "Fotocopia certificada de Acta de Asamblea actualizada",
+        "aclaracion": "Solo para personas jurídicas - Empresas y/o Cooperativas"
+      },
+      {
+        "texto": "Fotocopia certificada de póliza vigente de accidentes personales o ART",
+        "aclaracion": "Solo para personas jurídicas - Empresas y/o Cooperativas"
+      },
+      {
+        "texto": "Reflejo de Padrón de datos AFIP",
+        "aclaracion": "Solo si el responsable es Monotributo"
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá los requisitos en la Secretaría de Gestión Descentralizada."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Secretaría de Gestión Descentralizada",
+      "direccion": "Rosales 1312",
+      "localidad": "Adrogué",
+      "horario": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/registro-de-podadores/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.brown.gob.ar/tramites/registro-de-podadores/",
+      "titulo": "Registro de Podadores",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T19:36:00.383Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el monto del trámite.",
+    "No se especifica el plazo de tramitación.",
+    "No se especifica si requiere turno."
+  ]
+}

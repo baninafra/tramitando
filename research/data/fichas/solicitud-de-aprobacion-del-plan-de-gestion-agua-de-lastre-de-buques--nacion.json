@@ -1,0 +1,99 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-aprobacion-del-plan-de-gestion-agua-de-lastre-de-buques",
+    "nombre": "Solicitud de aprobación del plan de gestión agua de lastre de buques",
+    "nombre_busqueda": "Aprobación plan gestión agua lastre buques",
+    "resumen": "Propietarios, armadores o agentes marítimos deben completar formularios en TAD y presentar documentación técnica para obtener la aprobación del plan de gestión de agua de lastre en un plazo de 30 días.",
+    "sinonimos": [],
+    "temas": [
+      "ambiente-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Prefectura Naval Argentina",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Propietario, armador o agente marítimo"
+    ],
+    "requisitos": [
+      {
+        "texto": "Completar datos del Trámite en plataforma TAD",
+        "aclaracion": null
+      },
+      {
+        "texto": "Completar formulario de solicitud de inspección en plataforma TAD",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de apoderamiento",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plan de Gestión de Agua de Lastre de Lastre",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Matricula",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de aprobación OMI de la Planta de tratamiento",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de solicitud de análisis, con los datos del buque y representante administrativo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento demostrativo de puesta a punto de plata de tratamiento",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a Trámites a Distancia, luego agregá los requisitos solicitados"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "30 días",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Edificio Guardacostas",
+      "direccion": "Edificio Guardacostas, Avenida Eduardo Madero 235 - CIUDAD AUTONOMA DE BUENOS AIRES, Piso 4, Oficina 4.37",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitud-de-aprobacion-del-plan-de-gestion-agua-de-lastre-de-buques"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitud-de-aprobacion-del-plan-de-gestion-agua-de-lastre-de-buques",
+      "titulo": "Solicitud de aprobación del plan de gestión agua de lastre de buques | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T17:18:42.518Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos de identidad o documentos personales adicionales más allá de la constancia de apoderamiento",
+    "No se especifican montos de tasas o costos económicos para el trámite"
+  ]
+}

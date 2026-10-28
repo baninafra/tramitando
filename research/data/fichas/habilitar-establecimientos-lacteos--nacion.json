@@ -1,0 +1,130 @@
+{
+  "tramite": {
+    "slug": "habilitacion-comercial",
+    "nombre": "Habilitar establecimientos lácteos",
+    "nombre_busqueda": "Habilitar establecimientos lácteos",
+    "resumen": "Obtené la habilitación nacional para los establecimientos de productos lácteos presentando documentación técnica y abonando el arancel correspondiente ante el Senasa.",
+    "sinonimos": [],
+    "temas": [
+      "habilitacion-comercial"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de establecimientos de productos lácteos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota del titular o apoderado de la empresa interesada, al señor Director Regional del Centro Regional del Senasa correspondiente a la localización geográfica del establecimiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Razón social.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de CUIT.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio industrial, teléfono y correo electrónico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio legal, teléfono y fax.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ubicación del establecimiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Actividades a desarrollar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dos (2) ejemplares del plano de planta en escala 1:100, ajustados a las normas IRAM indicando las dependencias y la ubicación de los equipos e instalaciones, certificado por profesional competente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano de iluminación y ventilación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planos de los desagües industriales, aprobados o habilitados por autoridad municipal, provincial o nacional competente o en su defecto ajustados a las exigencias de las presentes normas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Protocolo de análisis químico y bacteriológico de agua, realizado por dependencia oficial autorizada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Memoria descriptiva de los procesos de elaboración, indicando capacidad instalada, abastecimiento de la materia prima y toda otra información que al efecto le sea requerida.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación en los Centros Regionales o Ministerios de Producción Agropecuaria o similares de los Gobiernos Provinciales en las Provincias de Buenos Aires, Catamarca, Chaco, Córdoba, Corrientes, Entre Ríos, Formosa, La Pampa, La Rioja, Mendoza, Misiones, Neuquén, Río Negro y Santiago del Estero."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Casa Central",
+      "direccion": "Av. Paseo Colón Nº 367, Piso 5° cfrente, C1063ACD, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/habilitar-establecimientos-lacteos"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/habilitar-establecimientos-lacteos",
+      "titulo": "Habilitar establecimientos lácteos | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T16:17:56.314Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T16:17:56.314Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T16:17:56.314Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no está especificado en el texto, solo se indica que se debe abonar el arancel correspondiente.",
+    "La fecha de vigencia de la habilitación no está especificada en el texto."
+  ]
+}

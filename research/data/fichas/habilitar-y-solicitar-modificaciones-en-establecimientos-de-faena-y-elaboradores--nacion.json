@@ -1,0 +1,124 @@
+{
+  "tramite": {
+    "slug": "habilitacion-comercial",
+    "nombre": "Habilitar y solicitar modificaciones en establecimientos de faena y elaboradores de productos de origen animal",
+    "nombre_busqueda": "Habilitar establecimiento faena Senasa",
+    "resumen": "Para vender alimentos de origen animal necesitás habilitarte ante el Senasa. El trámite se hace presencialmente en los Centros Regionales de Senasa y lleva entre 15 y 120 días hábiles.",
+    "sinonimos": [
+      "Habilitación plantas de faena",
+      "Registro plantas de procesamiento animal",
+      "Modificación habilitación Senasa"
+    ],
+    "temas": [
+      "habilitacion-comercial"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Todo establecimiento elaborador de productos cárnicos que cuente con la aprobación municipal y provincial para la actividad.",
+      "Todo establecimiento previamente habilitado por Senasa que realice modificaciones."
+    ],
+    "requisitos": [
+      {
+        "texto": "Habilitación municipal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Habilitación provincial.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación requerida según Decreto N° 4238/68, Capítulo II.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Habilitación de Senasa vigente (para modificaciones).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación legal que acredite el cambio (para modificaciones).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la solicitud y documentación obligatoria ante el Centro Regional de Senasa correspondiente a la jurisdicción en donde está ubicado el establecimiento a habilitar."
+      },
+      {
+        "texto": "Realizá la modificación ante el Centro Regional de Senasa correspondiente."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Duración del trámite de habilitación y registro de plantas de faena de animales terrestres de Ciclo I, plantas de procesamiento de productos de origen animal de Ciclo II, depósitos y dadores de frío de Ciclo III: 120 días hábiles.",
+      "Duración de la modificación de habilitación y registro de Plantas de faena de animales terrestres de Ciclo I: 120 días hábiles.",
+      "Duración de la modificación de habilitación y registro de Plantas de procesamiento de productos de origen animal de Ciclo II, depósitos y dadores de frío de Ciclo III: 15 días hábiles.",
+      "Contás con la opción de Trámite Urgente, que es hasta 30 días hábiles para habilitación y modificación de Ciclo I y Ciclo II.",
+      "Contás con la opción de Trámite Urgente, que es hasta 7 días hábiles para modificación de Ciclo II."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Inocuidad y Calidad Agroalimentaria",
+      "direccion": "Av. Paseo Colón N° 367, Piso 5° Contrafrente, C1063ACD, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/habilitar-y-solicitar-modificaciones-en-establecimientos-de-faena-y-elaboradores-de"
+    },
+    {
+      "nombre": "Coordinación General de Animales Terrestres",
+      "direccion": "Av. Paseo Colón N° 367, Piso 5° Contrafrente, C1063ACD, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/habilitar-y-solicitar-modificaciones-en-establecimientos-de-faena-y-elaboradores-de"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/habilitar-y-solicitar-modificaciones-en-establecimientos-de-faena-y-elaboradores-de",
+      "titulo": "Habilitar y solicitar modificaciones en establecimientos de faena y elaboradores de productos de origen animal | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T16:27:50.159Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T16:27:50.159Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T16:27:50.159Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no se especifica en el texto, consultá las Normativas relacionadas con los costos del trámite.",
+    "La fecha de vigencia de la normativa no se especifica en el texto."
+  ]
+}

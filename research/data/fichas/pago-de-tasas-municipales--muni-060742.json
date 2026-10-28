@@ -1,0 +1,107 @@
+{
+  "tramite": {
+    "slug": "pago-de-tasas-municipales",
+    "nombre": "Pago de tasas municipales",
+    "nombre_busqueda": "Pago de tasas municipales San Cayetano",
+    "resumen": "Se pueden abonar las tasas municipales en línea mediante medios habilitados o presencialmente en Banco Provincia y Tesorería Municipal. Desde este año, los contribuyentes que reciban la tasa en papel deben abonar el costo de distribución.",
+    "sinonimos": [
+      "Pago de tasas",
+      "Pago de servicios municipales",
+      "Abono de tasas"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060742",
+  "organismo": {
+    "nombre": "Municipalidad de San Cayetano",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier contribuyente que tenga que abonar tasas municipales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tasa a abonar seleccionada en el portal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Boleta descargada para pago presencial.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar en https://www.tasaswebsancayetano.com.ar."
+      },
+      {
+        "texto": "Seleccionar la tasa a abonar."
+      },
+      {
+        "texto": "Elegir el medio de pago on-line disponible."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Descargar la boleta."
+      },
+      {
+        "texto": "Ir a Banco Provincia o Tesorería Municipal."
+      },
+      {
+        "texto": "Realizar el pago con el medio habilitado."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si reciban la tasa en papel, deben abonar el costo de distribución.",
+      "Para recibir la factura por mail, deben completar el formulario de contacto."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "Costo de distribución",
+      "gratis": false,
+      "monto_centavos": 100000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://sancayetano.gob.ar/pago-de-tasas-municipales/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Tesorería Municipal",
+      "direccion": "Av. San Martín 451",
+      "localidad": "San Cayetano",
+      "horario": null,
+      "fuente_url": "https://sancayetano.gob.ar/pago-de-tasas-municipales/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://sancayetano.gob.ar/pago-de-tasas-municipales/",
+      "titulo": "PAGO DE TASAS MUNICIPALES - San Cayetano | Municipalidad",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T10:09:29.172Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos adicionales para el pago en línea.",
+    "No se especifican requisitos adicionales para el pago presencial.",
+    "No se especifican plazos de vencimiento.",
+    "No se especifican medios de pago habilitados para el pago presencial."
+  ]
+}

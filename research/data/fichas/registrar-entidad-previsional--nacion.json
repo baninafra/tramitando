@@ -1,0 +1,70 @@
+{
+  "tramite": {
+    "slug": "registro-de-entidades-previsionales",
+    "nombre": "Registrar entidad previsional",
+    "nombre_busqueda": "Registrar entidad previsional",
+    "resumen": "Inscribir entidades que administren regímenes previsionales en el Registro de Entidades Previsionales (REP) de forma gratuita y en línea.",
+    "sinonimos": [],
+    "temas": [
+      "jubilaciones-y-pensiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El representante legal de la entidad previsional."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documentación que acredite la representación de la entidad previsional.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poseer Clave Fiscal Nivel 3 de AFIP.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a Trámites a Distancia (TAD) con tu CUIT."
+      },
+      {
+        "texto": "Seleccioná 'Iniciar Trámite por AFIP'."
+      },
+      {
+        "texto": "Validá tus datos como representante legal y comenzá con el proceso de inscripción de la entidad."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "20 minutos",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/registrar-entidad-previsional",
+      "titulo": "Registrar entidad previsional | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-27T03:05:18.014Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite."
+  ]
+}

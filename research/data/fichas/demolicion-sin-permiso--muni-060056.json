@@ -1,0 +1,94 @@
+{
+  "tramite": {
+    "slug": "demolicion-sin-permiso",
+    "nombre": "Registración de demolición sin permiso",
+    "nombre_busqueda": "Registración de demolición sin permiso",
+    "resumen": "Se utiliza para regularizar una demolición por la cual no se solicitó el permiso correspondiente.",
+    "sinonimos": [],
+    "temas": [
+      "obras-y-construccion",
+      "demolicion-y-cerramientos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan una demolición sin permiso que regularizar."
+    ],
+    "requisitos": [
+      {
+        "texto": "Estado de deuda municipal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitud de construcción.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planilla de registración de demolición o registración de construcción sin permiso.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano visado por el Colegio respectivo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dos copias para visado y aprobación municipal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Adjuntar copia digital de los planos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Revalúos visados por Rentas de Provincia de Buenos Aires, presentar para la aprobación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración jurada o título, según corresponda (actualizado o en vigencia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta de Confirmación de Sociedad, en caso de Fideicomiso, S.A., S.R.L., etc.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá los documentos en la oficina."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/tramites/obrasparticulares/demolicion-sin-permiso/",
+      "titulo": "Registración de Demolición sin Permiso | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien",
+        "donde",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T14:56:27.726Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el monto de la tasa.",
+    "No se especifica el plazo de tramitación.",
+    "No se especifica si se requiere turno."
+  ]
+}

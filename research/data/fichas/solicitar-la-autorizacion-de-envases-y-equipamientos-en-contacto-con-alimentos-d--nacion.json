@@ -1,0 +1,80 @@
+{
+  "tramite": {
+    "slug": "solicitar-autorizacion-envases-equipamientos-contacto-alimentos",
+    "nombre": "Solicitar autorización de envases y equipamientos en contacto con alimentos de origen",
+    "nombre_busqueda": "autorización envases equipamientos alimentos origen",
+    "resumen": "Para importar envases o equipamientos que tocan alimentos, necesitás una ficha técnica del fabricante, una declaración de material 100% virgen si es plástico, el comprobante del arancel y traducciones si aplica. El trámite se hace en línea en TAD y tiene silencio administrativo de un día hábil.",
+    "sinonimos": [
+      "autorización INAL envases importados",
+      "permiso envases contacto alimentos"
+    ],
+    "temas": [
+      "bromatologia-y-alimentos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMAT",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Importadores de envases y equipamientos en contacto con alimentos de origen."
+    ],
+    "requisitos": [
+      {
+        "texto": "Ficha técnica y/o especificaciones del producto final, emitida por el fabricante (en hoja membretada, con fecha, firma y aclaración del responsable), en la que se incluya: Descripción completa del producto, Nombre Comercial y/o Código/s de Identificación, MARCA, Foto/ilustración, Croquis donde se i…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración de producto elaborado con material 100% virgen, emitida por el fabricante (esta declaración es obligatoria solo para productos plásticos).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago del arancel vigente correspondiente, gestionado previamente a través del Sistema de Pago Electrónico de ANMAT.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Los documentos que estén en un idioma diferente del castellano deberán adjuntarse acompañados de traducción legalizada por Colegio de Traductores.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar a la plataforma TAD y buscar el trámite: Registrar envase Riesgo BAJO, Registrar envase Riesgo MODERADO Y ALTO."
+      },
+      {
+        "texto": "Completar el formulario."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "1 dia habil",
+    "consejos": [
+      "El plazo estipulado para su configuración es de 1 día hábil después de haber acreditado el cumplimiento de las condiciones previstas para el otorgamiento de la autorización administrativa."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-autorizacion-de-envases-y-equipamientos-en-contacto-con-alimentos-de-origen",
+      "titulo": "Solicitar la autorización de envases y equipamientos en contacto con alimentos de origen importado | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T09:16:01.636Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia de la disposición no se especifica en el texto."
+  ]
+}

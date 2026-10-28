@@ -1,0 +1,79 @@
+{
+  "tramite": {
+    "slug": "denuncias-anonimas-y-policiales",
+    "nombre": "Denuncias anónimas de seguridad",
+    "nombre_busqueda": "Denunciar hechos de seguridad anónimamente",
+    "resumen": "Formulario para reportar hechos relacionados con la seguridad sin revelar la identidad del denunciante.",
+    "sinonimos": [
+      "Reporte de seguridad anónimo",
+      "Denuncia policial anónima"
+    ],
+    "temas": [
+      "denuncias-anonimas-y-policiales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060644",
+  "organismo": {
+    "nombre": "Municipalidad de Pinamar",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que desee denunciar hechos de seguridad."
+    ],
+    "requisitos": [
+      {
+        "texto": "Detalle de la denuncia con la mayor información posible.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotos o documentos adjuntados (opcional).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Accedé al formulario de denuncias anónimas de seguridad."
+      },
+      {
+        "texto": "Completá los campos opcionales de nombre, email y teléfono."
+      },
+      {
+        "texto": "Describí el detalle de la denuncia con la mayor información posible."
+      },
+      {
+        "texto": "Adjuntá fotos o documentos si los tenés (es opcional)."
+      },
+      {
+        "texto": "Envías el formulario para registrar la denuncia."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://pinamar.gob.ar/denunciasanonimas/",
+      "titulo": "Denuncias anónimas de seguridad – Municipalidad de Pinamar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T16:36:47.437Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica si la denuncia se puede hacer presencialmente o solo online.",
+    "No se indica si requiere turno para la recepción de la denuncia.",
+    "No se especifica el plazo de respuesta o investigación de la denuncia."
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "tramite": {
+    "slug": "alta-impositiva-automotores",
+    "nombre": "Alta impositiva de automotores",
+    "nombre_busqueda": "Alta impositiva automotores",
+    "resumen": "Trámite para dar de alta un vehículo al impuesto automotor municipal. Se requiere el DNI del titular y el documento del vehículo.",
+    "sinonimos": [
+      "Alta de impuesto automotor",
+      "Alta de auto al municipio",
+      "Inscripción de auto"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "patente-automotor-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060490",
+  "organismo": {
+    "nombre": "Municipio de Lomas de Zamora",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de vehículos que desean darlos de alta impositiva."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del titular del vehículo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento del vehículo (patente o cédula).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el DNI del titular y el documento del vehículo en la oficina."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://sag.lomasdezamora.gov.ar/",
+      "titulo": "Portal de Autogestión de Ingresos Municipales",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T14:57:56.231Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere confirmar si el trámite se realiza presencialmente o si hay opción online.",
+    "Se requiere confirmar el monto de la tasa impositiva.",
+    "Se requiere confirmar si se requiere turno para realizar el trámite."
+  ]
+}

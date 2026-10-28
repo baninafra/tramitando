@@ -1,0 +1,63 @@
+{
+  "tramite": {
+    "slug": "inscripcion-proveedores-municipales",
+    "nombre": "Inscripción al Registro de Proveedores Municipales",
+    "nombre_busqueda": "Inscripción proveedor Carlos Tejedor",
+    "resumen": "Para ser proveedor del Municipio de Carlos Tejedor, hay que completar los datos y cumplir requisitos específicos descritos en la página.",
+    "sinonimos": [
+      "Registro de proveedores",
+      "Inscripción como proveedor municipal"
+    ],
+    "temas": [
+      "proveedores-y-compras"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060154",
+  "organismo": {
+    "nombre": "Municipio de Carlos Tejedor",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes quieran ser proveedores del Municipio de Carlos Tejedor."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documentación requerida.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Dirigirse a la Oficina de Compras del Municipio."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://carlostejedor.gob.ar/proveedores/",
+      "titulo": "Proveedores – Carlos Tejedor Municipalidad",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T11:26:36.193Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los requisitos específicos de documentación no se detallan en el texto disponible.",
+    "No se especifican montos, plazos ni direcciones de oficinas en el texto."
+  ]
+}

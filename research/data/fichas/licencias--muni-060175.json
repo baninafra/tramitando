@@ -1,0 +1,138 @@
+{
+  "tramite": {
+    "slug": "licencia-de-conducir",
+    "nombre": "Licencia de conducir particular",
+    "nombre_busqueda": "Licencia de conducir particular",
+    "resumen": "Para obtener la licencia de conducir particular en Colón, necesitás cumplir requisitos específicos según tu edad, superar exámenes teóricos y prácticos, y pagar los aranceles correspondientes.",
+    "sinonimos": [
+      "Licencia particular",
+      "Permiso de conducir particular"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060175",
+  "organismo": {
+    "nombre": "Municipio de Colón",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan DNI con domicilio en Colón PBA y sean mayores de 18 años y conozcan su grupo sanguíneo.",
+      "Quienes tengan entre 16 y 17 años y presenten la Autorización correspondiente debidamente certificada en el Juzgado de Paz.",
+      "Quienes no posean multas en el partido de Colón PBA y regularicen infracciones pendientes.",
+      "Quienes deseen obtener la licencia profesional deben ser mayores de 21 años y menores de 65 años.",
+      "Quienes deseen obtener la licencia profesional tengan licencia particular vigente para manejar automóviles desde hace al menos un año."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI con domicilio en Colón PBA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Conocer su grupo sanguíneo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización correspondiente debidamente certificada en el Juzgado de Paz (para menores de 18 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Antecedentes Penales vigente (para licencias profesionales).",
+        "aclaracion": null
+      },
+      {
+        "texto": "No poseer multas en el partido de Colón PBA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Regularizar infracciones pendientes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pagar sellado municipal, provincial y nacional.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Superar el examen psicofísico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Aprobar el examen teórico y práctico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar previamente el Certificado de Antecedentes Penales (para licencias profesionales).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Obtener el libre deuda en el Juzgado Municipal de Faltas, calle 17, entre 51 y 52."
+      },
+      {
+        "texto": "Realizar la capacitación virtual y aprobar examen teórico y práctico."
+      },
+      {
+        "texto": "Retirar los aranceles en la oficina de licencias de conducir, en calle 17 entre 51 y 52 y abonarlas en los lugares habilitados para tal efecto."
+      },
+      {
+        "texto": "Presentar los aranceles abonados para obtener el turno del examen sensométrico."
+      },
+      {
+        "texto": "Aprobar el examen sensométrico."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El Certificado de Antecedentes Penales tiene 30 días de validez para ser presentado.",
+      "Para los registros profesionales se deberá presentar previamente el Certificado de Antecedentes Penales."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de licencias de conducir",
+      "direccion": "Calle 17, entre calles 51 y 52",
+      "localidad": "Colón PBA",
+      "horario": null,
+      "fuente_url": "https://municipalidadcolonpba.gob.ar/licencias.php"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://municipalidadcolonpba.gob.ar/licencias.php",
+      "titulo": "Municipio de Colón PBA - Licencias de conducir",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T04:55:04.476Z"
+    },
+    {
+      "url": "https://curso.seguridadvial.gob.ar/ansv/",
+      "titulo": "Curso Nacional de Seguridad Vial Digital - Agencia Nacional de Seguridad Vial",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-28T04:55:04.476Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Monto exacto de los aranceles a pagar.",
+    "Plazo de tiempo para obtener la licencia.",
+    "Dirección exacta de los lugares habilitados para el pago de aranceles."
+  ]
+}

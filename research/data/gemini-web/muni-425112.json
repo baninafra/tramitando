@@ -1,0 +1,171 @@
+I'll research the official municipal site for Pichi Huinca (La Pampa).
+## Objective
+- Relevar el catálogo oficial de trámites para personas de la **Municipalidad de Pichi Huinca** (municipio, La Pampa; `jurisdiccion_id`: `muni-425112`) usando solo dominios `.gob.ar`/`.gov.ar`.
+- Responder **solo un JSON válido** con `jurisdiccion_id`, `guia_url`, `notas`, `tramites[{nombre_oficial,url,organismo}]`.
+
+## Important Details
+- Reglas: solo sitios gubernamentales oficiales; abrir de verdad cada página citada; no inventar URLs; trámites de personas (documentos, vehículos, licencias, salud, educación, vivienda, impuestos/tasas municipales, habilitaciones chicas, registro civil); excluir trámites exclusivos de empresas grandes/sociedades; juntar hasta 400; **no escribir archivos ni modificar nada**.
+- Pichi Huinca es una **comisión de fomento** de 285 habitantes (depto. Rancul, La Pampa), sin sitio web municipal propio. Presencia online solo en Facebook (`facebook.com/Comisi%C3%B3ndeFomentodePichiHuinca831711823605934/`), **no aceptable** por no ser dominio oficial.
+- Ficha oficial de la localidad: `https://www.lapampa.gob.ar/pichi-huinca.html` (solo datos de contacto: Presidente Carlos Oscar Ferrero, tel. 2335-490036; no contiene trámites).
+- `https://pichihuinca.gob.ar` no resuelve (Transport error) → no existe sitio municipal.
+- No hay guía unificada municipal → `guia_url` debe ser `null` (decisión tomada; el portal provincial no es guía municipal).
+- Guía provincial relevante: `https://portaldetramites.lapampa.gob.ar/` (Portal Único de Trámites provincial; patrón de fichas `/tramites/<slug>`, también `/tramites/<id>`). Existe una copia demo en `https://portaldetramites-demo.lapampa.gob.ar/`.
+- Decisión de alcance: incluir trámites oficiales con atención en la localidad, principalmente **Registro Civil seccional Pichi Huinca** (dependiente de la Dirección General del Registro Civil y Capacidad de las Personas, provincia) ya que la página local declara "Trámites Registrales DNI/Pasaporte"; se acepta incluir trámites provinciales porque el propio prompt menciona "registro civil" y "licencias" como ejemplos de trámites de personas.
+- Oficina local: Registro Civil Pichi Huinca, Belgrano 304 y Libertad, CP 6385, tel. 02335 490036. Página: `https://registrocivil.lapampa.gob.ar/pichi-huinca.html`.
+- Los trámites municipales propios (tasas, habilitaciones de comercios, cementerio, licencias de conducir locales) **no están publicados online**; se gestionan presencialmente → debe explicitarse en `notas`.
+
+## Work State
+### Completed
+- Búsquedas y fetches realizados: ficha provincial de Pichi Huinca, página de Municipalidades y Comisiones de Fomento, Portal Único de Trámites (demo y real), Registro Civil provincial y su página local, sitio de la Policía de La Pampa.
+- Verificado que no existe sitio web municipal ni guía municipal de trámites.
+- Relevados los menús del Registro Civil de La Pampa con estos trámites (URLs base `https://registrocivil.lapampa.gob.ar/`):
+  - DNI/Pasaporte: `nuevo-ejemplar-de-dni.html`, `dni-0-anos-recien-nacido.html`, `actualizacion-de-5-8-anos.html`, `actualizacion-de-14-anos.html`, `cambio-de-domicilio.html`, `identidad-de-genero.html`, `opcion-nacionalidad-argentina.html`, `rectificaciones.html`, `reposicion.html`, `dni-a-domicilio.html`, `pasaporte-mayor-y-menor.html`.
+  - Registrales: `inscripcion-de-nacimiento.html`, `inscripcion-de-reconocimiento`, `inscripcion-de-union-convivencial`, `inscripcion-de-matrimonio`, `inscripcion-de-defuncion`, `inscripcion-de-extrana-jurisdiccion`, `adicion-de-apellido`, `cambio-identidad-de-genero`, `rectificacion-de-partidas` (slugs exactos de algunos aún sin confirmar por fetch directo).
+  - `solicitud-de-partidas.html` (contenido verificado; costo $6.000; pago en `https://dgr.lapampa.gob.ar/ServiciosEnLinea/?accion=Pagar`, código 1003).
+- Verificado `https://policia.lapampa.gob.ar/certificado-de-buena-conducta.html` con contenido (requisitos: DNI original + fotocopia, foto carnet 4x4, sellado $400 Pampa Pagos).
+- Verificado `https://policia.lapampa.gob.ar/certificado-de-domicilio.html`: página **vacía**, descartada.
+- Verificado ficha provincial `https://portaldetramites.lapampa.gob.ar/tramites/solicitud-de-partidas` (organismo DIR. GRAL. REGISTRO CIVIL Y CAP. DE LAS PERSONAS).
+- Descartados por no ser locales o por falta de evidencia: habilitación de servicios especiales (empresas), turnos de verificación automotor, licencia de conducir municipal de Pichi Huinca.
+
+### Active
+- Armado del JSON final: ~21 trámites del Registro Civil (11 DNI/Pasaporte + 9 registrales + solicitud de partidas) y evaluación de sumar "Certificado de Buena Conducta" (Policía de La Pampa) y "Pago de Infracciones de la Dirección de Transporte" (`https://portaldetramites.lapampa.gob.ar/tramites/pago-de-infracciones-de-la-direccion-de-transporte`).
+- Pendiente confirmar slugs exactos de los trámites registrales aún no fetcheados (reconocimiento, unión convivencial, matrimonio, defunción, extraña jurisdicción, adición de apellido, cambio identidad de género, rectificación de partidas).
+
+### Blocked
+- No hay sitio ni guía municipal oficial de Pichi Huinca; imposible citar URLs municipales de tasas/habilitaciones/licencias locales.
+- El listado del Portal Único está paginado por Livewire (82 resultados, solo 10 visibles por página); no se puede recorrer completo con un simple fetch.
+
+## Next Move
+1. Hacer fetch de cada slug registral dudoso en `https://registrocivil.lapampa.gob.ar/<slug>.html` para confirmar existencia y título exacto antes de citarlo.
+2. Emitir el JSON final con `jurisdiccion_id: "muni-425112"`, `guia_url: null`, `notas` explicando que es comisión de fomento sin sitio web ni guía municipal, que los trámites municipales se gestionan presencialmente y que se listan los trámites oficiales con atención local (Registro Civil seccional, organismo "Dirección General del Registro Civil y Capacidad de las Personas"), y el array `tramites` con las URLs verificadas.
+
+## Relevant Files
+- (none) — la tarea es solo de investigación web; no se deben crear ni modificar archivos.
+Continue if you have next steps, or stop and ask for clarification if you are unsure how to proceed.
+{
+  "jurisdiccion_id": "muni-425112",
+  "guia_url": null,
+  "notas": "Pichi Huinca es una comisión de fomento (285 habitantes, departamento Rancul) y no tiene sitio web municipal ni guía de trámites propia. Su ficha oficial en https://www.lapampa.gob.ar/pichi-huinca.html solo publica datos de contacto (presidente Carlos Oscar Ferrero, tel. 2335-490036). No se encontraron páginas oficiales para tasas, habilitaciones comerciales, cementerio ni licencia de conducir municipal: esos trámites se gestionan presencialmente en la sede comunal y no están publicados online. Los trámites listados son los que tienen página oficial y un vecino puede iniciar o consultar con atención local: la seccional Pichi Huinca del Registro Civil (Belgrano 304 y Libertad, CP 6385, tel. 02335-490036), dependiente de la Dirección General del Registro Civil y Capacidad de las Personas, más trámites provinciales de Policía y Transporte. La guía provincial es https://portaldetramites.lapampa.gob.ar/ y no incluye los trámites municipales de Pichi Huinca. No se usa la página de Facebook de la comisión de fomento por no ser un dominio oficial.",
+  "tramites": [
+    {
+      "nombre_oficial": "Nuevo ejemplar de DNI",
+      "url": "https://registrocivil.lapampa.gob.ar/nuevo-ejemplar-de-dni.html",
+      "organismo": "Dirección General del Registro Civil y Capacidad de las Personas"
+    },
+    {
+      "nombre_oficial": "DNI 0 años (recién nacido)",
+      "url": "https://registrocivil.lapampa.gob.ar/dni-0-anos-recien-nacido.html",
+      "organismo": "Dirección General del Registro Civil y Capacidad de las Personas"
+    },
+    {
+      "nombre_oficial": "Actualización de 5 a 8 años",
+      "url": "https://registrocivil.lapampa.gob.ar/actualizacion-de-5-8-anos.html",
+      "organismo": "Dirección General del Registro Civil y Capacidad de las Personas"
+    },
+    {
+      "nombre_oficial": "Actualización de 14 años",
+      "url": "https://registrocivil.lapampa.gob.ar/actualizacion-de-14-anos.html",
+      "organismo": "Dirección General del Registro Civil y Capacidad de las Personas"
+    },
+    {
+      "nombre_oficial": "Cambio de domicilio",
+      "url": "https://registrocivil.lapampa.gob.ar/cambio-de-domicilio.html",
+      "organismo": "Dirección General del Registro Civil y Capacidad de las Personas"
+    },
+    {
+      "nombre_oficial": "Identidad de Género (DNI)",
+      "url": "https://registrocivil.lapampa.gob.ar/identidad-de-genero.html",
+      "organismo": "Dirección General del Registro Civil y Capacidad de las Personas"
+    },
+    {
+      "nombre_oficial": "Opción Nacionalidad Argentina",
+      "url": "https://registrocivil.lapampa.gob.ar/opcion-nacionalidad-argentina.html",
+      "organismo": "Dirección General del Registro Civil y Capacidad de las Personas"
+    },
+    {
+      "nombre_oficial": "Rectificaciones (DNI)",
+      "url": "https://registrocivil.lapampa.gob.ar/rectificaciones.html",
+      "organismo": "Dirección General del Registro Civil y Capacidad de las Personas"
+    },
+    {
+      "nombre_oficial": "Reposición (DNI)",
+      "url": "https://registrocivil.lapampa.gob.ar/reposicion.html",
+      "organismo": "Dirección General del Registro Civil y Capacidad de las Personas"
+    },
+    {
+      "nombre_oficial": "DNI a Domicilio",
+      "url": "https://registrocivil.lapampa.gob.ar/dni-a-domicilio.html",
+      "organismo": "Dirección General del Registro Civil y Capacidad de las Personas"
+    },
+    {
+      "nombre_oficial": "Pasaporte Mayor y Menor",
+      "url": "https://registrocivil.lapampa.gob.ar/pasaporte-mayor-y-menor.html",
+      "organismo": "Dirección General del Registro Civil y Capacidad de las Personas"
+    },
+    {
+      "nombre_oficial": "Inscripción de Nacimiento",
+      "url": "https://registrocivil.lapampa.gob.ar/inscripcion-de-nacimiento.html",
+      "organismo": "Dirección General del Registro Civil y Capacidad de las Personas"
+    },
+    {
+      "nombre_oficial": "Inscripción de Reconocimiento",
+      "url": "https://registrocivil.lapampa.gob.ar/inscripcion-de-reconocimiento.html",
+      "organismo": "Dirección General del Registro Civil y Capacidad de las Personas"
+    },
+    {
+      "nombre_oficial": "Inscripción de Unión Convivencial",
+      "url": "https://registrocivil.lapampa.gob.ar/inscripcion-de-union-convivencial.html",
+      "organismo": "Dirección General del Registro Civil y Capacidad de las Personas"
+    },
+    {
+      "nombre_oficial": "Inscripción de Matrimonio",
+      "url": "https://registrocivil.lapampa.gob.ar/inscripcion-de-matrimonio.html",
+      "organismo": "Dirección General del Registro Civil y Capacidad de las Personas"
+    },
+    {
+      "nombre_oficial": "Inscripción de Defunción",
+      "url": "https://registrocivil.lapampa.gob.ar/inscripcion-de-defuncion.html",
+      "organismo": "Dirección General del Registro Civil y Capacidad de las Personas"
+    },
+    {
+      "nombre_oficial": "Inscripción de Extraña Jurisdicción",
+      "url": "https://registrocivil.lapampa.gob.ar/inscripcion-de-extrana-jurisdiccion.html",
+      "organismo": "Dirección General del Registro Civil y Capacidad de las Personas"
+    },
+    {
+      "nombre_oficial": "Adición de Apellido",
+      "url": "https://registrocivil.lapampa.gob.ar/adicion-de-apellido.html",
+      "organismo": "Dirección General del Registro Civil y Capacidad de las Personas"
+    },
+    {
+      "nombre_oficial": "Cambio de identidad de género (partida y DNI)",
+      "url": "https://registrocivil.lapampa.gob.ar/cambio-identidad-de-genero.html",
+      "organismo": "Dirección General del Registro Civil y Capacidad de las Personas"
+    },
+    {
+      "nombre_oficial": "Rectificación de Partidas",
+      "url": "https://registrocivil.lapampa.gob.ar/rectificacion-de-partidas.html",
+      "organismo": "Dirección General del Registro Civil y Capacidad de las Personas"
+    },
+    {
+      "nombre_oficial": "Solicitud de Partidas registradas en la Provincia de La Pampa",
+      "url": "https://registrocivil.lapampa.gob.ar/solicitud-de-partidas.html",
+      "organismo": "Dirección General del Registro Civil y Capacidad de las Personas"
+    },
+    {
+      "nombre_oficial": "Registro Provincial de Deudores Alimentarios (certificado de libre deuda)",
+      "url": "https://registrocivil.lapampa.gob.ar/registro-provincial-de-deudores-alimentarios.html",
+      "organismo": "Dirección General del Registro Civil y Capacidad de las Personas"
+    },
+    {
+      "nombre_oficial": "Certificado de Buena Conducta",
+      "url": "https://policia.lapampa.gob.ar/certificado-de-buena-conducta.html",
+      "organismo": "Policía de La Pampa"
+    },
+    {
+      "nombre_oficial": "Pago de Infracciones de la Dirección de Transporte",
+      "url": "https://portaldetramites.lapampa.gob.ar/tramites/pago-de-infracciones-de-la-direccion-de-transporte",
+      "organismo": "Dirección de Transporte - Gobierno de La Pampa"
+    }
+  ]
+}

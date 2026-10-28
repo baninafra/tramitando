@@ -1,0 +1,88 @@
+{
+  "tramite": {
+    "slug": "impugnaciones-y-observaciones-legajos-de-creditos",
+    "nombre": "Impugnaciones y observaciones a legajos de créditos",
+    "nombre_busqueda": "impugnaciones legajos créditos",
+    "resumen": "Permití a pretensos acreedores y accionistas revisar legajos de acreedores de entidades aseguradoras en liquidación judicial sin necesidad de patrocinio letrado.",
+    "sinonimos": [],
+    "temas": [
+      "jubilaciones-y-pensiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Seguros de la Nación",
+    "sigla": "SSN",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Pretensos acreedores y accionistas de la entidad aseguradora en liquidación judicial"
+    ],
+    "requisitos": [
+      {
+        "texto": "Usuario de acceso a Trámites a Distancia (TAD)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave fiscal",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación respaldatoria",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD con clave fiscal"
+      },
+      {
+        "texto": "Seleccioná la Entidad Aseguradora en liquidación judicial"
+      },
+      {
+        "texto": "Completá el formulario adjuntando la documentación en los campos obligatorios"
+      },
+      {
+        "texto": "Confirmá el trámite"
+      },
+      {
+        "texto": "Consultá tu estado del trámite"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá la fecha indicada en el decreto de apertura de la liquidación judicial ante la Gerencia de Liquidaciones de Entidades Controladas de la SSN"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/impugnaciones-y-observaciones-legajos-de-creditos",
+      "titulo": "Impugnaciones y observaciones a Legajos de créditos | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-26T16:40:29.437Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T16:40:29.437Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia del trámite no está especificada en el texto, solo se menciona la fecha del decreto de apertura de la liquidación judicial."
+  ]
+}

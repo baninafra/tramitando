@@ -1,0 +1,95 @@
+{
+  "tramite": {
+    "slug": "autorizacion-de-importacion-de-nitrato-de-amonio",
+    "nombre": "Autorización de importación de nitrato de amonio",
+    "nombre_busqueda": "autorizacion importacion nitrato amonio",
+    "resumen": "Para importar nitrato de amonio necesitás tener la inscripción como usuario importador y depósitos habilitados. Presentá la Ficha de Datos Técnicos N° 6 por duplicado y las estampillas en el Centro de Atención de ANMaC.",
+    "sinonimos": [
+      "autorizacion ingreso nitrato amonio",
+      "autorizacion egreso nitrato amonio"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMaC",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Solicitante con inscripción como usuario de nitrato de amonio en el rubro importador/exportador y depósitos habilitados y vigentes a su nombre."
+    ],
+    "requisitos": [
+      {
+        "texto": "Ficha de Datos Técnicos N° N6 por duplicado, suscriptas por el representante legal o titular, con certificación de firma en imprenta, sin espacios en blanco ni corrector líquido.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estampillas por un valor de 100000.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La solicitud de Autorización de Importación deberá tramitarse con antelación a la fecha estimada del embarque del material.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La solicitud de prórroga de Autorización de Importación requiere presentar las ficha de datos tëcnicos N° 6 por duplicado, suscriptas por el representante legal o titular, cumplimentada con letra clara de imprenta, sin tachaduras o enmiendas, adjuntando la Autorización original oportunamente expedi…",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 10000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/autorizacion-de-importacion-de-nitrato-de-amonio"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/autorizacion-de-importacion-de-nitrato-de-amonio",
+      "titulo": "Autorización de importación de nitrato de amonio. | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:27:04.618Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T04:27:04.618Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Fecha de vigencia de la autorización.",
+    "Dirección exacta del Centro de Atención de ANMaC.",
+    "Localidad del Centro de Atención de ANMaC.",
+    "Requisito de turno para el trámite."
+  ]
+}

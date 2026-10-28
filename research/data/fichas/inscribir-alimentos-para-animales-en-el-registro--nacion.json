@@ -1,0 +1,92 @@
+{
+  "tramite": {
+    "slug": "inscripcion-de-productos-alimenticios-animales",
+    "nombre": "Inscripción de productos alimenticios para animales",
+    "nombre_busqueda": "Inscripción alimentos animales Senasa",
+    "resumen": "Para comercializar alimentos para animales necesitás tramitar la inscripción ante el Senasa y obtener la aprobación definitiva del producto. El trámite se realiza en línea a través de la plataforma SIG-Trámites.",
+    "sinonimos": [
+      "Registro de alimentos para animales",
+      "Inscripción productos alimentación animal",
+      "Certificado de uso y comercialización alimentos animales"
+    ],
+    "temas": [
+      "bromatologia-y-alimentos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Toda persona humana o jurídica interesada en comercializar productos destinados a la alimentación animal."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de designación de Director Técnico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración Jurada de Elaboración en terceros (si el producto se elabora en un establecimiento de terceros autorizado).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la Plataforma SIG-Trámites a través del sitio de ARCA."
+      },
+      {
+        "texto": "Ingresá en ARCA iniciando sesión con Clave Fiscal (CUIT y clave)."
+      },
+      {
+        "texto": "En el buscador de ARCA, escribí SIG-Trámites para acceder al mismo."
+      },
+      {
+        "texto": "Realizá el estudio y el registro del producto."
+      },
+      {
+        "texto": "Aboná el arancel correspondiente en la plataforma SIG-Trámites si el sistema lo solicite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Atentá a la implementación de la nueva Norma Técnica de Alimentos para Animales puesta en vigencia por Resolución SENASA N° 1415/2024 del 3 de diciembre de 2024.",
+      "A partir del 27/01/2025 se encontrará disponible la plataforma SIG-Trámites para las tramitaciones de inscripción, modificaciones, transferencias, extensiones, bajas y reemisiones de certificados.",
+      "Los trámites iniciados por TAD previo a la fecha de puesta en marcha de SIG-Trámites continuarán vía TAD."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Senasa",
+      "direccion": "Azopardo N° 1020, C1107ADR, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-alimentos-para-animales-en-el-registro"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribir-alimentos-para-animales-en-el-registro",
+      "titulo": "Inscribir alimentos para animales en el registro | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T16:44:21.920Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no está especificado en el texto, solo se indica que se abonará dentro de la plataforma SIG-Trámites cuando el sistema lo solicite."
+  ]
+}

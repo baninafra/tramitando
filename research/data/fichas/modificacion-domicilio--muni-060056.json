@@ -1,0 +1,90 @@
+{
+  "tramite": {
+    "slug": "ingresos-brutos-modificacion-domicilio",
+    "nombre": "Modificación de domicilio",
+    "nombre_busqueda": "Modificación de domicilio IIBB",
+    "resumen": "Para modificar el domicilio fiscal en el Impuesto Ingresos Brutos, completá el formulario en ARBA y presentá el documento de identidad y el formulario impreso en la oficina de Ingresos Brutos.",
+    "sinonimos": [
+      "Cambiar domicilio IIBB",
+      "Actualizar domicilio fiscal",
+      "Modificar domicilio Ingresos Brutos"
+    ],
+    "temas": [
+      "cuil-y-clave-de-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares del Impuesto Ingresos Brutos"
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario 445",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de la presentación en ARBA",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento de identidad",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar al sitio web oficial de ARBA."
+      },
+      {
+        "texto": "Gestionar en dicho sitio web la modificación del domicilio."
+      },
+      {
+        "texto": "Confirmar/Validar la casilla de correo informada en ARBA al momento de generar el formulario."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentarse en la Municipalidad, Área de Ingresos Brutos, ingresando por Alsina 43, con toda la documentación requerida."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Departamento de Ingresos y Política Fiscal",
+      "direccion": "Alsina 43, área Ingresos Brutos",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/iibb/modificacion-domicilio/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/tramites/iibb/modificacion-domicilio/",
+      "titulo": "Modificación de domicilio | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-27T20:47:42.517Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere entregar el formulario impreso en ARBA junto con el documento de identidad en la oficina presencial."
+  ]
+}

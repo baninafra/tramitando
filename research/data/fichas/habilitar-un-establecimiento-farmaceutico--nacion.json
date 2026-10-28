@@ -1,0 +1,119 @@
+{
+  "tramite": {
+    "slug": "habilitacion-de-establecimiento-farmaceutico",
+    "nombre": "Habilitar un establecimiento farmacéutico",
+    "nombre_busqueda": "Habilitar establecimiento farmacéutico",
+    "resumen": "El trámite para habilitar un establecimiento farmacéutico es gratuito y se realiza online mediante el TAD. Se requiere completar un formulario, presentar documentos de propiedad y planos del local, y adjuntar certificados de libre regencia del profesional.",
+    "sinonimos": [],
+    "temas": [
+      "salud-y-prevencion",
+      "medicamentos-y-farmacia-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Al titular del establecimiento o apoderado."
+    ],
+    "requisitos": [
+      {
+        "texto": "Completar formulario de solicitud online en TAD y/o Nota de presentación en conformidad de aceptación de Cargo firmada conjuntamente (TAD) por el Presentante y el Director Técnico ingresante o en su defecto certificar por Banco o Escribano.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título de propiedad, contrato de locación o comodato (según el titular sea propietario, locatario o comodatario del inmueble), con firmas certificadas por escribano público de las partes intervinientes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En el caso del contrato de comodato, adjuntar título de propiedad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tanto el contrato de alquiler como el contrato de comodato, tienen que especificar en sus respectivas cláusulas el destino y el plazo del mismo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano del establecimiento con carátula del Ministerio de Salud de la Nación y las siguientes características: a) Escala 1:100 b) Detalle de los ambientes c) Medida de los ambientes (Lineales y de superficie).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Firma y sello del profesional y apoderado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Disposición de Habilitación definitiva o provisoria otorgada por GCABA (Lectura de Código QR).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Libre Regencia del Profesional Farmacéutico, solicitado ante el Ministerio de Salud de la Provincia de Buenos Aires.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el Establecimiento se encuentra en una propiedad sometida al régimen de propiedad horizontal, se debe adjuntar reglamento de copropiedad indicando destino del Inmueble, correspondiente al establecimiento habilitado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Requerimientos de Planta Física: 35 m2 atención al público 15 m2 alopático (Depósito y/o oficina conforme a resolución 2070/2014).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acorde Resolución N° 192/1998.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En el caso de personas jurídicas, adjuntar: a) Estatuto Social, debidamente inscripto en IGJ, autenticada por Escribano Público, en el que se indique el objeto. b) Acta de Directorio que designa al Director Técnico autenticada por Escribano Público.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave fiscal nivel 2 o superior de AFIP o Apoderamiento en trámites a distancia para realizar el registro.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al TAD, trámite 'Habilitación de establecimiento farmacéutico', con clave fiscal y número de CUIT."
+      },
+      {
+        "texto": "Completá el formulario de solicitud online."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Para hacer el Trámite a Distancia (TAD) se recomienda ingresar a la página desde una CPU a través del Mozilla Firefox o el Google Chrome, no mediante celulares u otros dispositivos móviles porque se han detectado inconvenientes.",
+      "La constancia de trámite iniciado no es habilitante para funcionar.",
+      "Atento que por Resolución de este Ministerio de Salud N° 1938/2025 este trámite es gratuito, se modificará el proceso del trámite en el TAD. Hasta que se modifique en dicha plataforma, donde figura el ítem 'Comprobante de pago', se solicita subir en su lugar una foto de una nota en puño y letra don…"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/habilitar-un-establecimiento-farmaceutico",
+      "titulo": "Habilitar un establecimiento farmacéutico | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T16:23:12.666Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite.",
+    "El plazo exacto de tramitación."
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "tramite": {
+    "slug": "inscripcion-registro-de-actuarios",
+    "nombre": "Inscripción en el Registro de Actuarios",
+    "nombre_busqueda": "inscripción registro de actuarios SSN",
+    "resumen": "Si sos actuario y trabajás en entidades aseguradoras, tenés que inscribirte en el Registro de Actuarios de la Superintendencia de Seguros de la Nación. Presentás la documentación por la plataforma de Trámites a Distancia y el organismo emite una Resolución de inscripción.",
+    "sinonimos": [
+      "Registro de Actuarios",
+      "Matrícula de actuario",
+      "Inscripción de actuarios en la SSN"
+    ],
+    "temas": [
+      "trabajo-y-seguridad-social"
+    ],
+    "temas_propuestos": [
+      {
+        "slug": "seguros-y-reaseguros",
+        "nombre": "Seguros y reaseguros",
+        "padre": null
+      }
+    ]
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Seguros de la Nación",
+    "sigla": "SSN",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Profesionales que se desempeñen en tareas actuariales en entidades aseguradoras, de forma independiente o como integrantes de una Sociedad de Graduados inscripta en el Consejo Profesional.",
+      "Profesionales que quieran hacer tareas de auditoría en compañías de seguros."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de inscripción completo.",
+        "aclaracion": "Lo podés descargar en la página del trámite."
+      },
+      {
+        "texto": "Curriculum Vitae.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de tu DNI digital.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del título profesional con la autenticación de la autoridad competente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado del Consejo Profesional de Ciencias Económicas con tu número de matrícula y que a la fecha no tengas sanciones disciplinarias inhabilitantes.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Presentá la documentación requerida por la SSN por la plataforma de Trámites a Distancia (TAD)."
+      },
+      {
+        "texto": "Esperá el análisis de la información por parte del Organismo de control."
+      },
+      {
+        "texto": "Recibí la Resolución de inscripción, que se publica en el Boletín Oficial."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscripcion-en-el-registro-de-actuarios",
+      "titulo": "Inscripción en el Registro de Actuarios | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T00:20:19.688Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No dice cuánto cuesta la inscripción.",
+    "No dice cuánto tarda la resolución.",
+    "No dice si hay que ir a una oficina en algún momento del trámite."
+  ]
+}

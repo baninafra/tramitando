@@ -1,0 +1,89 @@
+{
+  "tramite": {
+    "slug": "vacunacion-antirrabica-y-desparasitacion-de-mascotas",
+    "nombre": "Vacunar y desparasitar mascotas",
+    "nombre_busqueda": "vacunación antirrábica y desparasitación de mascotas",
+    "resumen": "La Dirección de Zoonosis realiza campañas gratuitas de vacunación antirrábica para perros y gatos. La página no brinda información sobre desparasitación.",
+    "sinonimos": [
+      "vacunación antirrábica de perros y gatos"
+    ],
+    "temas": [
+      "castraciones-y-vacunas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060547",
+  "organismo": {
+    "nombre": "Dirección de Zoonosis",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés llevar perros y gatos a vacunar contra la rabia."
+    ],
+    "requisitos": [
+      {
+        "texto": "Llevá a los perros con correa y pretal.",
+        "aclaracion": "Si llevás un perro."
+      },
+      {
+        "texto": "Llevá a los gatos dentro de una transportadora o bolso seguro.",
+        "aclaracion": "Si llevás un gato."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercá a tu mascota al punto fijo de la Sede de Zoonosis o a una jornada itinerante."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La vacuna es obligatoria desde los 3 meses de edad y debe aplicarse una vez al año.",
+      "Consultá el cronograma semanal por barrio o localidad para conocer las jornadas itinerantes."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": true,
+      "monto_centavos": null,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://monte.gob.ar/zoonosis/calendario/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Sede de Zoonosis",
+      "direccion": "Calle Italia y 25 de Mayo",
+      "localidad": "Calle Italia y 25 de Mayo",
+      "horario": null,
+      "fuente_url": "https://monte.gob.ar/zoonosis/calendario/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://monte.gob.ar/zoonosis/calendario/",
+      "titulo": "Calendario de Vacunación Antirrábica - Municipalidad de Monte",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "consejos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T15:10:06.793Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La página no informa cómo acceder a la desparasitación mencionada en el nombre oficial de la ficha.",
+    "No se especifican fechas de las próximas campañas itinerantes ni si hace falta sacar turno.",
+    "La página no indica un plazo de atención."
+  ]
+}

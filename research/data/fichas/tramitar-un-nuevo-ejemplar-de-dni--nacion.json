@@ -1,0 +1,118 @@
+{
+  "tramite": {
+    "slug": "tramitar-un-nuevo-ejemplar-de-dni",
+    "nombre": "Sacar un nuevo ejemplar de DNI",
+    "nombre_busqueda": "tramitar nuevo ejemplar dni",
+    "resumen": "Si cambiaste tu domicilio, perdiste el documento, se te venció, necesitás canjearlo, te lo robaron o sufrió deterioro, tenés que tramitar un nuevo ejemplar de DNI. El trámite lleva 15 minutos y cuesta $10000.00.",
+    "sinonimos": [
+      "Canjear DNI",
+      "Renovar DNI",
+      "Sacar DNI nuevo"
+    ],
+    "temas": [
+      "dni"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro Civil",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Mayores de 14 años.",
+      "Menores de 14 años acompañados por padre, madre o tutor."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Denuncia de extravío o robo (si aplica).",
+        "aclaracion": "Si tenés el DNI extraviado o te lo robaron."
+      },
+      {
+        "texto": "Oficio judicial o testimonio de tutela del menor.",
+        "aclaracion": "Si sos menor de 14 años y sos representante legal."
+      },
+      {
+        "texto": "Autorización de representación firmada y sellada por la autoridad competente.",
+        "aclaracion": "Si el menor se encuentra en una institución de cuidado u hogar de menores."
+      },
+      {
+        "texto": "Oficio judicial o testimonio de guarda provisoria con fines de adopción.",
+        "aclaracion": "Si el menor se encuentra en una institución de cuidado u hogar de menores."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Sacá turno para un Centro de Documentación Renaper en la app Mi Argentina."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en la oficina elegida con la constancia de turno."
+      },
+      {
+        "texto": "Guardá la constancia de solicitud de trámite y hacé el seguimiento online con tu ID desde aquí."
+      },
+      {
+        "texto": "Si vas a retirarlo a una oficina, presentate con la constancia de solicitud de trámite."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://mi.argentina.gob.ar/turnos/seleccion-turno/1070",
+    "plazo": "15 minutos",
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/tramitar-un-nuevo-ejemplar-de-dni"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tramitar-un-nuevo-ejemplar-de-dni",
+      "titulo": "Tramitar un nuevo ejemplar de DNI | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T00:26:32.787Z"
+    },
+    {
+      "url": "https://mi.argentina.gob.ar/turnos/seleccion-turno/1070",
+      "titulo": "Ingresar | Mi Argentina",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T00:26:32.787Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T00:26:32.787Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de las oficinas de Registro Civil.",
+    "Horarios de atención de las oficinas."
+  ]
+}

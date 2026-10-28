@@ -1,0 +1,95 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-cortes-de-transito",
+    "nombre": "Solicitud de cortes de tránsito",
+    "nombre_busqueda": "Solicitud de cortes de tránsito",
+    "resumen": "Es necesario realizar este trámite para obtener autorización municipal antes de efectuar un corte en el tránsito en un punto específico de la ciudad. La solicitud debe realizarse con al menos 10 días de anticipación.",
+    "sinonimos": [],
+    "temas": [
+      "cortes-y-uso-de-la-via-publica"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060763",
+  "organismo": {
+    "nombre": "Municipalidad de San Nicolás de los Arroyos",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Persona física",
+      "Persona jurídica",
+      "Organización sin personería jurídica"
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del solicitante",
+        "aclaracion": "Solo para persona física"
+      },
+      {
+        "texto": "Estatuto social",
+        "aclaracion": "Solo para persona jurídica"
+      },
+      {
+        "texto": "Acta de directorio con última designación de autoridades autenticada por escribano público",
+        "aclaracion": "Solo para persona jurídica"
+      },
+      {
+        "texto": "DNI del apoderado",
+        "aclaracion": "Solo para persona jurídica"
+      },
+      {
+        "texto": "Listado de firmas que avalen la representación invocada",
+        "aclaracion": "Solo para organización sin personería jurídica"
+      },
+      {
+        "texto": "Completar el Formulario de solicitud de cortes de tránsito",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota informativa sobre el evento a realizar",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario de Solicitud de cortes de tránsito"
+      },
+      {
+        "texto": "Enviá toda la documentación por correo electrónico a mesadeentradas@sannicolas.gob.ar"
+      },
+      {
+        "texto": "Recordá indicar en el asunto del mail el nombre del trámite que estás realizando"
+      },
+      {
+        "texto": "Recibirás por correo electrónico la respuesta a tu solicitud"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La solicitud debe realizarse con al menos 10 días de anticipación"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.sannicolasciudad.gob.ar/tramites/permisos-y-solicitudes/solicitud-de-cortes-de-transito",
+      "titulo": "Solicitud de cortes de tránsito | Permisos y solicitudes | Trámites | San Nicolás Ciudad",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T15:33:43.193Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el monto del trámite"
+  ]
+}

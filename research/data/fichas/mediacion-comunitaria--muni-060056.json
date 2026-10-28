@@ -1,0 +1,75 @@
+{
+  "tramite": {
+    "slug": "mediacion-comunitaria",
+    "nombre": "Mediación Comunitaria",
+    "nombre_busqueda": "Mediación Comunitaria OMIC Bahía Blanca",
+    "resumen": "Es un servicio voluntario y gratuito para resolver conflictos vecinales o comunitarios a través de un acuerdo asistido por una mediadora.",
+    "sinonimos": [
+      "Resolución de conflictos vecinales",
+      "Mediación OMIC"
+    ],
+    "temas": [
+      "reclamos-vecinales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "OMIC",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas y/o instituciones implicadas en un conflicto comunitario o vecinal que estén interesadas en resolverlo a través de un acuerdo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Planilla de solicitud de mediación",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la planilla de solicitud de mediación en la oficina de la OMIC."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El proceso es voluntario y se busca llegar a un acuerdo mediante el diálogo y la comunicación asistida."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "OMIC",
+      "direccion": "Donado 242",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/omic/mediacion-comunitaria/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/omic/mediacion-comunitaria/",
+      "titulo": "Mediación Comunitaria | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T03:09:22.903Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos adicionales más allá de la planilla de solicitud.",
+    "No se especifican plazos de atención ni duración del proceso.",
+    "No se especifica si se requiere turno previo para concurrir a la oficina."
+  ]
+}

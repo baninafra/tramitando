@@ -1,0 +1,84 @@
+{
+  "tramite": {
+    "slug": "subsidios-tarifa-luz",
+    "nombre": "Subsidio a la tarifa de luz",
+    "nombre_busqueda": "inscribirse en los subsidios de luz",
+    "resumen": "Inscribite en el Registro de Acceso a los Subsidios a la Energía (RASE) para solicitar o mantener el beneficio. Podés hacerlo por internet o acercándote a la municipalidad.",
+    "sinonimos": [
+      "inscripción al RASE",
+      "subsidios a la energía"
+    ],
+    "temas": [
+      "subsidios-a-los-servicios-publicos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060413",
+  "organismo": {
+    "nombre": "Dirección General de Defensa de los Consumidores y Usuarios",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Si todavía no te inscribiste o quedaste incluido en el registro, podés hacer la inscripción.",
+      "Si recibís la tarifa social o un programa provincial, tenés que inscribirte aunque estés registrado provisoriamente."
+    ],
+    "requisitos": [
+      {
+        "texto": "Inscribite en el Registro de Acceso a los Subsidios a la Energía (RASE).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá la inscripción en argentina.gob.ar/subsidios."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a la municipalidad para hacer la inscripción."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "La página informa un plazo de hasta 60 días para inscribirte y también indica que tenés tiempo hasta el 5 de agosto del año en curso; no especifica el año.",
+    "consejos": [
+      "Si no te inscribís, pasás automáticamente a la categoría de ingresos altos.",
+      "El subsidio para usuarios N2 de ingresos bajos cubre consumos de hasta 350 kWh por mes; el excedente se paga a tarifa plena.",
+      "El subsidio para usuarios N3 de ingresos medios cubre los primeros 250 kWh por mes; el excedente se paga a tarifa plena.",
+      "Para usuarios N2 sin gas natural, la página indica subsidio para los primeros 700 kWh por mes y tarifa plana para el excedente de 150 kWh por mes; también señala que el cargo fijo queda sin subsidio hasta el 31 de agosto de 2024."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección General de Defensa de los Consumidores y Usuarios",
+      "direccion": "Hipólito Yrigoyen 63",
+      "localidad": "Junín",
+      "horario": "De 8:30 a 13:30",
+      "fuente_url": "https://www.junin.gob.ar/programa/subsidios-luz"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.junin.gob.ar/programa/subsidios-luz",
+      "titulo": "SUBSIDIOS LUZ | Gobierno de Junín",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:02:28.266Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La página no precisa a qué año corresponde el 5 de agosto indicado como fecha límite.",
+    "La página menciona el 31 de agosto de 2024 para la condición de usuarios N2 sin gas natural, sin aclarar si esa condición sigue vigente.",
+    "La página no indica si hace falta turno."
+  ]
+}

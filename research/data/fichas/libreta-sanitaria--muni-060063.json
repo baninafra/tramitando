@@ -1,0 +1,88 @@
+{
+  "tramite": {
+    "slug": "libreta-sanitaria",
+    "nombre": "Libreta Sanitaria",
+    "nombre_busqueda": "Libreta Sanitaria",
+    "resumen": "Certificado de salud para trabajadores en actividades laborales específicas, que previene enfermedades infectocontagiosas.",
+    "sinonimos": [],
+    "temas": [
+      "carnet-sanitario"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060063",
+  "organismo": {
+    "nombre": "Municipalidad de Balcarce",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas físicas según la actividad que desarrollen"
+    ],
+    "requisitos": [
+      {
+        "texto": "2 fotos frente color (4x4)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia DNI (con domicilio en Balcarce)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá las 2 fotos frente color (4x4) y la fotocopia del DNI con domicilio en Balcarce."
+      },
+      {
+        "texto": "Acudí a la Dirección de Inspección General, calle 23 N° 636, de 7.30 a 12hs."
+      },
+      {
+        "texto": "Finalizá el trámite con la adquisición de la libreta sanitaria."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 240000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://balcarce-app.gob.ar/portal_servicios/servicio/libreta-sanitaria"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Inspección General",
+      "direccion": "Calle 23 N° 636",
+      "localidad": "Balcarce",
+      "horario": null,
+      "fuente_url": "https://balcarce-app.gob.ar/portal_servicios/servicio/libreta-sanitaria"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://balcarce-app.gob.ar/portal_servicios/servicio/libreta-sanitaria",
+      "titulo": "Portal de Servicios | Modernizacion Balcarce",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "costo",
+        "donde",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T03:31:05.817Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el plazo de entrega.",
+    "No se indica si se requiere turno."
+  ]
+}

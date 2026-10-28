@@ -1,0 +1,32 @@
+[0m
+> build · deepseek-v4.1-flash-free
+[0m
+[0m◈ [0mExa Web Search "Municipalidad de Capayán Catamarca sitio oficial trámites"
+[0m◈ [0mExa Web Search ""Capayán" municipalidad gob.ar"
+[0m✗ [0mWebFetch https://municipalidaddecapayan.gob.ar/ failed
+[91m[1mError: [0mTransport error (GET https://municipalidaddecapayan.gob.ar/)
+[0m✗ [0mWebFetch https://municipalidaddecapayan.gob.ar/wp-sitemap.xml failed
+[91m[1mError: [0mTransport error (GET https://municipalidaddecapayan.gob.ar/wp-sitemap.xml)
+[0m✗ [0mWebFetch https://municipalidaddecapayan.gob.ar/inicio/ failed
+[91m[1mError: [0mTransport error (GET https://municipalidaddecapayan.gob.ar/inicio/)
+[0m◈ [0mExa Web Search "site:municipalidaddecapayan.gob.ar trámite"
+[0m% [0mWebFetch https://municipios.arcat.gob.ar/pago/
+[0m◈ [0mExa Web Search ""Capayán" "trámites" municipalidad habilitación licencia conducir"
+[0m% [0mWebFetch https://portal.catamarca.gob.ar/
+[0m◈ [0mExa Web Search "Catamarca registro civil gob.ar DNI pasaporte trámites oficial"
+[0m◈ [0mExa Web Search "site:municipalidaddecapayan.gob.ar licencia OR tasa OR habilitación OR registro"
+[0m◈ [0mExa Web Search "portal.catamarca.gob.ar trámites guía organismos dirección provincial"
+[0m✗ [0mWebFetch https://municipalidaddecapayan.gob.ar/wp-json/wp/v2/pages?per_page=100 failed
+[91m[1mError: [0mTransport error (GET https://municipalidaddecapayan.gob.ar/wp-json/wp/v2/pages?per_page=100)
+[0m◈ [0mExa Web Search "site:portal.catamarca.gob.ar "Capayán""
+[0m% [0mWebFetch https://portal.catamarca.gob.ar/tramites
+[0m% [0mWebFetch https://portal.catamarca.gob.ar/organismos/direccion-provincial-del-registro-del-estado-civil-y-capacidad-de-las-personas
+[0m◈ [0mExa Web Search ""Municipalidad de Capayán" licencia de conducir OR carnet OR habilitación comercial"
+[0m◈ [0mExa Web Search "Catamarca municipios portal trámites municipales oficial "Capayán" intendencia"
+[0m◈ [0mExa Web Search "site:portal.catamarca.gob.ar "Solicitud de partidas digitales""
+[0m◈ [0mExa Web Search "Catamarca licencia de conducir trámite oficial portal.catamarca.gob.ar OR policiadecatamarca.gob.ar"
+[0m✗ [0mWebFetch https://municipalidaddecapayan.gob.ar/tramites/ failed
+[91m[1mError: [0mTransport error (GET https://municipalidaddecapayan.gob.ar/tramites/)
+[0m✗ [0mWebFetch https://municipalidaddecapayan.gob.ar/servicios/ failed
+[91m[1mError: [0mTransport error (GET https://municipalidaddecapayan.gob.ar/servicios/)
+[0m◈ [0mExa Web Search ""municipalidaddecapayan.gob.ar""

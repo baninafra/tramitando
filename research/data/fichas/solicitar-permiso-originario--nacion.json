@@ -1,0 +1,101 @@
+{
+  "tramite": {
+    "slug": "solicitar-permiso-originario",
+    "nombre": "Solicitar permiso originario",
+    "nombre_busqueda": "solicitar permiso originario",
+    "resumen": "Permiso para transportistas de carga nacionales que quieran realizar transporte de cargas internacionales hacia o desde Brasil, Uruguay, Paraguay, Bolivia, Chile o Perú.",
+    "sinonimos": [],
+    "temas": [
+      "transporte-publico-y-viajes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Transportistas de carga, ya sea una persona humana o jurídica, que reúna una flota mínima propia de 80 toneladas transportativas dinámicas de capacidad de carga, y quiera llevar o traer cargas hacia o desde Brasil, Uruguay, Paraguay, Bolivia, Chile o Perú."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de Solicitud de Permiso Originario",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título de propiedad del vehículo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contrato de leasing (si está bajo esa modalidad)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contrato social o estatuto en el caso de sociedades personas jurídicas",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poder de representación en caso de corresponder",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario CI2 (declaración jurada de vehículos y seguros)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Arancel por destino solicitado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ultima acta de directorio o modificación societaria",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario CI1 (declaración jurada de socios, accionistas o único propietario)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitud de permiso ocasional (es optativa y lo podés pedir mientras se gestiona tu permiso definitivo)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Reválida de RUTA vigente por dominio",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Presentá la documentación a través de TAD."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La clave fiscal debe ser de nivel 3."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-permiso-originario",
+      "titulo": "Solicitar permiso originario | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T10:21:49.774Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica un plazo de tiempo para la gestión del trámite."
+  ]
+}

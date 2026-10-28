@@ -1,0 +1,175 @@
+{
+  "tramite": {
+    "slug": "libreta-sanitaria",
+    "nombre": "Obtención y renovación de libreta sanitaria",
+    "nombre_busqueda": "Libreta sanitaria",
+    "resumen": "Para obtener la libreta sanitaria se requiere una foto, 8 horas de ayuno, DNI y curso de MSA. El costo varía según si se realiza en empresa o consultorio y si se maneja alimentos.",
+    "sinonimos": [
+      "Libreta sanitaria",
+      "Libreta de alimentos",
+      "Libreta de manipulador de alimentos"
+    ],
+    "temas": [
+      "carnet-sanitario"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060260",
+  "organismo": {
+    "nombre": "Municipio de Esteban Echeverría",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes deseen obtener la libreta sanitaria."
+    ],
+    "requisitos": [
+      {
+        "texto": "Foto 4 x 4",
+        "aclaracion": null
+      },
+      {
+        "texto": "8 horas de ayuno",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Realización del curso de MSA (Manipulación Segura de Alimentos)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la foto 4 x 4."
+      },
+      {
+        "texto": "Realizá el ayuno de 8 horas."
+      },
+      {
+        "texto": "Acordá el curso de MSA."
+      },
+      {
+        "texto": "Acudí al consultorio externo Ramón Carrillo o Carlos Pellegrini 263."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "No Alimenticios Sin manipulación de alimentos realizada en Consultorios Externos",
+      "gratis": false,
+      "monto_centavos": 1651500,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.estebanecheverria.gob.ar/libreta-sanitaria/"
+    },
+    {
+      "modalidad": "Alimenticios Con manipulación de alimentos realizada en Consultorios Externos",
+      "gratis": false,
+      "monto_centavos": 2165300,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.estebanecheverria.gob.ar/libreta-sanitaria/"
+    },
+    {
+      "modalidad": "No Alimenticios Sin manipulación de alimentos realizada en empresa",
+      "gratis": false,
+      "monto_centavos": 2018500,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.estebanecheverria.gob.ar/libreta-sanitaria/"
+    },
+    {
+      "modalidad": "Alimenticios Con manipulación de alimentos realizada en empresa",
+      "gratis": false,
+      "monto_centavos": 2532300,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.estebanecheverria.gob.ar/libreta-sanitaria/"
+    },
+    {
+      "modalidad": "No Alimenticios Sin manipulación de alimentos presentando estudios",
+      "gratis": false,
+      "monto_centavos": 1101000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.estebanecheverria.gob.ar/libreta-sanitaria/"
+    },
+    {
+      "modalidad": "Curso BPM",
+      "gratis": false,
+      "monto_centavos": 513800,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.estebanecheverria.gob.ar/libreta-sanitaria/"
+    },
+    {
+      "modalidad": "Alimenticios Con manipulación de alimentos presentando estudios",
+      "gratis": false,
+      "monto_centavos": 1614800,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.estebanecheverria.gob.ar/libreta-sanitaria/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Consultorios Externos Ramón Carrillo",
+      "direccion": "Consultorios Externos Ramón Carrillo, Carlos Pellegrini 263, Monte Grande",
+      "localidad": "Monte Grande",
+      "horario": null,
+      "fuente_url": "https://www.estebanecheverria.gob.ar/libreta-sanitaria/"
+    },
+    {
+      "nombre": "Consultorios Externos Carlos Pellegrini",
+      "direccion": "Consultorios Externos Carlos Pellegrini 263, Monte Grande",
+      "localidad": "Monte Grande",
+      "horario": null,
+      "fuente_url": "https://www.estebanecheverria.gob.ar/libreta-sanitaria/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.estebanecheverria.gob.ar/libreta-sanitaria/",
+      "titulo": "Libreta Sanitaria – Esteban Echeverría",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "costo",
+        "donde",
+        "quien",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T00:31:54.252Z"
+    },
+    {
+      "url": "https://www.estebanecheverria.gob.ar/licencia-02-requisitos-por-tramite/",
+      "titulo": "Requisitos por Trámite – Esteban Echeverría",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T00:31:54.252Z"
+    },
+    {
+      "url": "https://www.estebanecheverria.gob.ar/pases-de-transportes-para-discapacitados/",
+      "titulo": "Pases de transportes para discapacitados – Esteban Echeverría",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T00:31:54.252Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia de la libreta sanitaria.",
+    "El plazo para realizar el trámite.",
+    "Si se requiere turno para el trámite."
+  ]
+}

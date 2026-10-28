@@ -1,0 +1,103 @@
+{
+  "tramite": {
+    "slug": "consulta-descarga-pago-tasa-conservacion-red-vial",
+    "nombre": "Consultar y pagar la tasa de red vial",
+    "nombre_busqueda": "tasa de red vial de Guaminí",
+    "resumen": "Consultá la deuda de la Tasa de Red Vial por partida y generá una boleta para pagar el total o algunas cuotas, de forma presencial o en línea.",
+    "sinonimos": [
+      "tasa de conservación de la red vial"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060399",
+  "organismo": {
+    "nombre": "Municipalidad de Guaminí",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que quieran consultar o pagar la deuda de la Tasa de Red Vial de una partida."
+    ],
+    "requisitos": [
+      {
+        "texto": "Ingresá una partida de 8 dígitos numéricos, sin barras ni guiones. Si tiene menos dígitos, completala con ceros al inicio.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá la partida y buscá la deuda."
+      },
+      {
+        "texto": "Seleccioná todas o algunas de las cuotas adeudadas."
+      },
+      {
+        "texto": "Elegí la opción «Pago On Line»."
+      },
+      {
+        "texto": "Hacé clic en «Generar Boleta On Line»."
+      },
+      {
+        "texto": "Completá el formulario con apellido, nombre, DNI, género y correo electrónico de quien hará el pago."
+      },
+      {
+        "texto": "Hacé clic en «Generar»."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Ingresá la partida y buscá la deuda."
+      },
+      {
+        "texto": "Seleccioná todas o algunas de las cuotas adeudadas."
+      },
+      {
+        "texto": "Elegí la opción «Pago Presencial»."
+      },
+      {
+        "texto": "Hacé clic en «Generar Boleta Presencial»."
+      },
+      {
+        "texto": "Confirmá la generación de la boleta."
+      },
+      {
+        "texto": "Descargá e imprimí la boleta para pagarla presencialmente en una delegación municipal o una boca de cobro de Provincia Net."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://serviciosweb.guamini.gob.ar/tasaspagosydeudas/redvial",
+      "titulo": "Municipalidad de Guaminí",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T13:44:15.916Z"
+    },
+    {
+      "url": "https://serviciosweb.guamini.gob.ar/tasaspagosydeudas",
+      "titulo": "Municipalidad de Guaminí",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T13:44:15.916Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no indica el monto de la tasa."
+  ]
+}

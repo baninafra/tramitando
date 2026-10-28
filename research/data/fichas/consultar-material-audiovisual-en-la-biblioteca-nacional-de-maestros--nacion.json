@@ -1,0 +1,80 @@
+{
+  "tramite": {
+    "slug": "consultar-material-audiovisual-biblioteca-nacional-maestros",
+    "nombre": "Consultar material audiovisual en la Biblioteca Nacional de Maestros",
+    "nombre_busqueda": "consultar material audiovisual biblioteca nacional maestros",
+    "resumen": "Consultá material educativo o películas de cine argentino e internacional en la Sala de Lectura de la Biblioteca Nacional de Maestros. El servicio es gratuito y no requiere turno.",
+    "sinonimos": [
+      "acceso sala lectura biblioteca nacional maestros",
+      "ver material educativo biblioteca nacional"
+    ],
+    "temas": [
+      "educacion-y-estudios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Biblioteca Nacional de Maestros",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Docentes",
+      "Investigadores",
+      "Lectores interesados"
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Consultá el catálogo en línea filtrando por VHS y/o DVD, o hacelo en las terminales de autoconsulta de la Sala de Lectura."
+      },
+      {
+        "texto": "Tomá nota de la ubicación en el campo Pedir como."
+      },
+      {
+        "texto": "Solicitá el material al personal de atención al público."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consultar-material-audiovisual-en-la-biblioteca-nacional-de-maestros",
+      "titulo": "Consultar material audiovisual en la Biblioteca Nacional de Maestros | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-26T05:55:31.707Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T05:55:31.707Z"
+    }
+  ],
+  "sin_confirmar": [
+    "horario de atención",
+    "ubicacion exacta sala lectura"
+  ]
+}

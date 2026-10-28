@@ -1,0 +1,117 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-cambio-de-destino",
+    "nombre": "Solicitud de cambio de destino",
+    "nombre_busqueda": "Cambio de destino obra",
+    "resumen": "Permite cambiar el destino de una obra si las superficies no superan los 30m2 y no modifican la condición de reglamentariedad. Se obtiene un plano de obra actualizado.",
+    "sinonimos": [
+      "Cambio de destino de obra",
+      "Modificación de destino urbanístico"
+    ],
+    "temas": [
+      "obras-y-construccion",
+      "final-de-obra"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060760",
+  "organismo": {
+    "nombre": "Municipalidad San Miguel",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Propietario",
+      "Persona y/o gestor autorizado por el mismo"
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia de la escritura o boleto de compra venta",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano del plano de aprobado original",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del plano de obra original",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de último recibo de impuesto municipal",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de Cambio de Destino",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago de Sellado correspondiente",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Dirigirse a la Dirección de Obras Particulares con el plano de obra original, y verificar la viabilidad del cambio de destino que se desea realizar."
+      },
+      {
+        "texto": "Completar la solicitud de Cambio de destino."
+      },
+      {
+        "texto": "El personal de Obras Particulares visará la documentación presentada e imprimirá una boleta para el pago del sellado correspondiente."
+      },
+      {
+        "texto": "Dirigirse a las cajas (ubicadas en la planta baja del Palacio Municipal) y realizar el pago del sellado."
+      },
+      {
+        "texto": "Dirigirse con toda la documentación a Mesa De Entrada, donde se inicia el expediente."
+      },
+      {
+        "texto": "El expediente es girado internamente a la Subsecretaria de Obras Particulares y Desarrollo Urbano, y desde allí a la Dirección de Obras Particulares, donde se realizará el cambio de destino solicitado."
+      },
+      {
+        "texto": "Retornar a la Dirección de Obras Particulares para retirar el plano de obra cambio de destino."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "2 a 5 días hábiles desde el momento que el expediente llega a la Dirección de Obras Particulares",
+    "consejos": [
+      "El documento obtenido es permanente.",
+      "Los cambios de destino no pueden superar los 30m2, de ser así debe iniciarse como expediente de obra."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Obras Particulares",
+      "direccion": "Belgrano 1342",
+      "localidad": "Belgrano 1342",
+      "horario": null,
+      "fuente_url": "https://www.msm.gov.ar/guia-tramites/obras-particulares/final-de-obra/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.msm.gov.ar/guia-tramites/obras-particulares/final-de-obra/",
+      "titulo": "Solicitud de cambio de destino - Municipalidad San Miguel",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T14:34:37.992Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica el monto exacto del sellado, solo menciona que se requiere comprobante de pago.",
+    "No se indica si el trámite requiere turno."
+  ]
+}

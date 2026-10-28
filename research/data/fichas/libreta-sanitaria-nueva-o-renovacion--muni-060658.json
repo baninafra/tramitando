@@ -1,0 +1,64 @@
+{
+  "tramite": {
+    "slug": "libreta-sanitaria-nueva-o-renovacion",
+    "nombre": "Libreta Sanitaria - nueva o renovación",
+    "nombre_busqueda": "Libreta Sanitaria Quilmes",
+    "resumen": "Para obtener o renovar la libreta sanitaria en Quilmes, necesitás presentar tu DNI y el certificado de vacunación vigente. El trámite se realiza en la oficina de salud.",
+    "sinonimos": [],
+    "temas": [
+      "carnet-sanitario"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060658",
+  "organismo": {
+    "nombre": "Secretaría de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que necesite la libreta sanitaria."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de vacunación vigente",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá tu DNI y el certificado de vacunación vigente en la oficina de salud."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mi.quilmes.gov.ar/tramites/109/libreta-sanitaria-nueva-o-renovacion",
+      "titulo": "Libreta Sanitaria - nueva o renovación",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T14:35:36.665Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina de salud",
+    "Horario de atención",
+    "Si se requiere turno previo",
+    "Plazo de espera o entrega"
+  ]
+}

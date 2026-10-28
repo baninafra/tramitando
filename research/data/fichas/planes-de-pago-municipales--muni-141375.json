@@ -1,0 +1,71 @@
+{
+  "tramite": {
+    "slug": "planes-de-pago-municipales",
+    "nombre": "Pagos municipales",
+    "nombre_busqueda": "Pagos Anisacate",
+    "resumen": "Podés realizar tus pagos online a través de CiDi o con cuotas sin interés mediante CORDOBESA.",
+    "sinonimos": [
+      "Pago de tasas",
+      "Pago de servicios"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141375",
+  "organismo": {
+    "nombre": "Municipalidad de Anisacate",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que tenga boletas a pagar."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de cuenta",
+        "aclaracion": null
+      },
+      {
+        "texto": "E-mail",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a través de CiDi."
+      },
+      {
+        "texto": "Adherite para recibir tus boletas de manera digital ingresando tu número de cuenta y tu e-mail."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Podés pagar en cuotas sin interés con CORDOBESA ingresando al botón Taca Taca."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://anisacatemunicipio.gob.ar/pagos/",
+      "titulo": "Pagos – Municipalidad de Anisacate",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T12:19:14.168Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos, plazos ni requisitos adicionales en el texto."
+  ]
+}

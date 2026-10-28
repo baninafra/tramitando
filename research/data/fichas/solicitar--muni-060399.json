@@ -1,0 +1,170 @@
+{
+  "tramite": {
+    "slug": "solicitud-becas-estudiantiles-municipales-residencia",
+    "nombre": "Solicitar una beca estudiantil municipal",
+    "nombre_busqueda": "solicitar becas estudiantiles municipales o residencia estudiantil",
+    "resumen": "Completá la solicitud para una beca municipal o una residencia estudiantil. Las opciones incluyen Beca Educar, beca de educación a distancia y residencia estudiantil.",
+    "sinonimos": [
+      "Solicitud de becas estudiantiles municipales",
+      "Solicitar residencia estudiantil"
+    ],
+    "temas": [
+      "becas-municipales",
+      "becas-y-ayudas-estudiantiles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060399",
+  "organismo": {
+    "nombre": "Secretaría de Educación y Derechos Humanos",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Si cursás una carrera universitaria o de educación superior."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nombre y apellido.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Correo electrónico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contraseña.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Localidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dirección.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Celular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Género autopercibido.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fecha de nacimiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Establecimiento secundario.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombre de la carrera.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Institución y localidad de la institución.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cantidad de años de la carrera.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Año para el cual solicitás la beca.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Año de la carrera que vas a cursar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plan de estudio en formato jpg, pdf, png o DOCX.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Situación de la vivienda: alquiler, propia, compartida o plan de vivienda adjudicado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Información sobre si contás con otro inmueble.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos de cada integrante del grupo familiar: nombre, apellido, vínculo, fecha de nacimiento, teléfono o celular, ocupación, ingreso mensual estimado y comentario sobre los ingresos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Información sobre si cada integrante recibe una beca, plan o programa nacional, provincial o municipal, y su descripción.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Información sobre discapacidad de cada integrante y su descripción.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Información sobre si cada integrante tiene número de CUD y su indicación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Información sobre cobertura de salud de cada integrante y su descripción.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Elegí el tipo de beca: Beca Educar, Beca de Unidad de Educación a Distancia o Residencia Estudiantil."
+      },
+      {
+        "texto": "Completá tus datos personales y académicos."
+      },
+      {
+        "texto": "Indicá la situación de vivienda y si contás con otro inmueble."
+      },
+      {
+        "texto": "Agregá los datos de cada integrante del grupo familiar."
+      },
+      {
+        "texto": "Seleccioná «Solicitar» para enviar la solicitud."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://becas.guamini.gob.ar/solicitar",
+      "titulo": "Becas – Solicitar beca",
+      "bloques": [
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T13:46:07.769Z"
+    },
+    {
+      "url": "https://becas.guamini.gob.ar/",
+      "titulo": "Becas – Inicio",
+      "bloques": [
+        "quien",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T13:46:07.769Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa si la solicitud tiene costo.",
+    "No se informa el plazo de resolución."
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "tramite": {
+    "slug": "traslado-por-propios-medios-de-buques-de-bandera-extranjera",
+    "nombre": "Traslado por propios medios de buques de bandera extranjera",
+    "nombre_busqueda": "Traslado buques de bandera extranjera",
+    "resumen": "Autorización para mover buques de bandera extranjera en aguas nacionales verificando su seguridad técnica y vigencia de certificados.",
+    "sinonimos": [
+      "Traslado buques de bandera extranjera",
+      "Autorización traslado buques bandera extranjera"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Prefectura Naval Argentina",
+    "sigla": "PNA",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Propietario o Titular de la Embarcación",
+      "Agente Marítimo",
+      "Armador",
+      "Persona designada bajo mandato o Poder",
+      "Representante legal y/o agencia marítima"
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de solicitud por parte del propietario/armador o agente marítimo/representante legal de la embarcación a ser trasladada o en su defecto del representante legal y/o agencia marítima",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poder notarial o nominación pertinente (si aplica)",
+        "aclaracion": "Si sos persona designada bajo mandato o Poder"
+      },
+      {
+        "texto": "Plan de navegación y análisis de riesgo confeccionado por el Capitán del buque a ser trasladado o por un profesional habilitado como Perito Naval en Navegación y Maniobras",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificados estatutarios incluyéndose situación registral de éstos",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotografías actuales del buque",
+        "aclaracion": null
+      },
+      {
+        "texto": "Intervención por el Estado de abanderamiento y/u organización reconocida, donde conste opinión favorable en relación con el traslado del buque en las condiciones en que se encuentra",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago del arancel administrativo de análisis",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Reúna la totalidad de la documentación requerida precedentemente a fin de poder dar curso a la solicitud de Traslado por propios medios"
+      },
+      {
+        "texto": "Abonar el arancel correspondiente Cuadro Tarifario de Aranceles"
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "12 días hábiles",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/traslado-por-propios-medios-de-buques-de-bandera-extranjera",
+      "titulo": "Traslado por propios medios de buques de bandera extranjera | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T18:38:53.157Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/prefecturanaval/aranceles",
+      "titulo": "Aranceles | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T18:38:53.157Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T18:38:53.157Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de las oficinas no especificada, solo se indica que están en las Dependencias Jurisdiccionales de todo el país",
+    "Valor exacto del arancel administrativo no especificado, solo se indica consultar el Cuadro Tarifario de Aranceles acorde al Decreto 2756/75"
+  ]
+}

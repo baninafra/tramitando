@@ -1,0 +1,79 @@
+{
+  "tramite": {
+    "slug": "tramites-de-tasas-municipales",
+    "nombre": "Trámites de tasas municipales",
+    "nombre_busqueda": "tasas municipales de Necochea",
+    "resumen": "Podés consultar los requisitos para cambiar la titularidad, corregir errores, pedir un libre deuda o reimprimir tasas municipales. La página indica que algunos de estos trámites se realizan ante la Oficina de Tasa.",
+    "sinonimos": [
+      "trámites de tasas de Necochea"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060581",
+  "organismo": {
+    "nombre": "Municipalidad de Necochea",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "La página no especifica quiénes pueden hacer estos trámites."
+    ],
+    "requisitos": [
+      {
+        "texto": "Original y copia de la escritura con firmas certificadas o constancia de escritura en trámite.",
+        "aclaracion": "Para el cambio de titularidad."
+      },
+      {
+        "texto": "Copia del DNI.",
+        "aclaracion": "Para el cambio de titularidad."
+      },
+      {
+        "texto": "Presentá al menos uno de estos documentos: original de una tasa anterior, factura original de ARBA o datos catastrales.",
+        "aclaracion": "Para el convenio de pago, la emisión del libre deuda o la reimpresión de tasas vencidas o extraviadas."
+      },
+      {
+        "texto": "Presentá todas las facturas de luz pagas que estén mal facturadas.",
+        "aclaracion": "Para corregir errores en la tasa de alumbrado público."
+      },
+      {
+        "texto": "Presentá todas las tasas municipales pagas que estén mal facturadas.",
+        "aclaracion": "Para corregir errores en la tasa de alumbrado público."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación ante la Oficina de Tasa."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://necochea.gov.ar/tramites/tasas/",
+      "titulo": "Tramites – Tasas – Municipalidad de Necochea",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T15:34:01.044Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La página no especifica quiénes pueden hacer estos trámites.",
+    "La página no indica si se requiere turno.",
+    "La página no informa costos ni plazos."
+  ]
+}

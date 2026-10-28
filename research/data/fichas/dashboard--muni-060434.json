@@ -1,0 +1,94 @@
+{
+  "tramite": {
+    "slug": "licencia-de-conducir",
+    "nombre": "Licencia de conducir",
+    "nombre_busqueda": "Licencia de conducir Lanús",
+    "resumen": "Para obtener, renovar o duplicar la licencia de conducir en Lanús, necesitás ingresar al portal, agendar un turno y presentar los documentos requeridos en la oficina.",
+    "sinonimos": [
+      "Permiso de conducir",
+      "Tarjeta de conducir"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060434",
+  "organismo": {
+    "nombre": "Municipalidad de Lanús",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que cumpla con los requisitos legales para conducir."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original o fotocopia",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotografías recientes",
+        "aclaracion": null
+      },
+      {
+        "texto": "Licencia de conducir anterior (si es renovación o duplicado)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal de trámites web de Lanús."
+      },
+      {
+        "texto": "Registráte o ingresá con tu usuario Lanús Digital."
+      },
+      {
+        "texto": "Buscá el trámite de licencia de conducir."
+      },
+      {
+        "texto": "Completá los datos personales y cargá los documentos."
+      },
+      {
+        "texto": "Agendá un turno en la oficina correspondiente."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá los documentos en la oficina de tránsito."
+      },
+      {
+        "texto": "Realizá la toma de huellas y fotografía."
+      },
+      {
+        "texto": "Recibí el comprobante de pago o la tarjeta de espera."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://tramitesweb.lanus.gob.ar/login",
+      "titulo": "Lanús | Trámites web",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T14:21:00.439Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los requisitos específicos para cada tipo de licencia (original, renovación, duplicado) no están detallados en el texto proporcionado.",
+    "El monto de la tasa no se especifica en el texto.",
+    "La dirección exacta de la oficina no se indica en el texto.",
+    "El plazo de espera para la licencia no se menciona en el texto.",
+    "La URL para agendar el turno no se proporciona en el texto."
+  ]
+}

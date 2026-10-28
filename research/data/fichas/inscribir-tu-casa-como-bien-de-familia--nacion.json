@@ -1,0 +1,157 @@
+{
+  "tramite": {
+    "slug": "inscripcion-de-nacimientos",
+    "nombre": "Inscribir tu casa como bien de familia",
+    "nombre_busqueda": "Inscribir casa como bien de familia",
+    "resumen": "Protege tu vivienda de ejecuciones por deudas posteriores a la inscripción. Es un trámite gratuito, presencial y que lleva 15 días hábiles.",
+    "sinonimos": [
+      "Afectación a protección de la vivienda",
+      "Bien de familia"
+    ],
+    "temas": [
+      "vivienda-y-servicios-del-hogar"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro de la Propiedad Inmueble",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Al titular o a los titulares de la vivienda y a quienes tengan su usufructo (si los hay)."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del propietario o de los propietarios de la vivienda.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si alguno de los propietarios está casado, su libreta o acta de matrimonio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si alguno está divorciado, la sentencia de divorcio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si alguno es viudo, su libreta o acta de matrimonio y la partida de defunción del o de la cónyuge.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si alguno está en unión convivencial, el acta de unión.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si una o varias personas tienen usufructo sobre la vivienda, sus DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si uno de los propietarios o usufructuarios tiene apoderado, original de la escritura del poder y DNI del apoderado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si uno de los propietarios o usufructuarios tiene curador, original de la sentencia vigente de la curatela y DNI del curador.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si uno de los propietarios o usufructuarios es menor de edad y tiene responsable parental, acta de nacimiento del menor o libreta de matrimonio con registro de su nacimiento y DNI del adulto responsable.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si vas a designar como beneficiario de la protección a un familiar que no es propietario, original de la documentación que acredite el vínculo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Original del título de propiedad: escritura, adjudicación, subasta o declaratoria de herederos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si presentás declaratoria de herederos, también deberás presentar original de la escritura a nombre de la persona que falleció.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a https://www.dnrpi.jus.gob.ar/pv_requisitos.php (solo para viviendas de la Ciudad Autónoma de Buenos Aires)."
+      },
+      {
+        "texto": "Informá tus datos de contacto."
+      },
+      {
+        "texto": "Ingresá los datos de cada uno de los titulares que figuran en el título de propiedad."
+      },
+      {
+        "texto": "Si ahora cambió el estado civil de alguno, informá el estado actual."
+      },
+      {
+        "texto": "Si una o varias personas tienen usufructo sobre la vivienda, ingresá sus datos."
+      },
+      {
+        "texto": "Si uno de los propietarios o usufructuarios tiene apoderado, curador o responsable parental, ingresá sus datos."
+      },
+      {
+        "texto": "Ingresá los datos del inmueble tal como figuran en el título de propiedad e informá los propietarios o los beneficiarios que viven allí."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Elegí día y hora del turno para ir al Registro de la Propiedad Inmueble."
+      },
+      {
+        "texto": "El día del turno, 15 minutos antes del horario que elegiste, preséntense con la documentación que les corresponda todos los propietarios y los que tengan usufructo sobre la vivienda en la oficina Protección de la Vivienda del Registro de la Propiedad Inmueble, Av. Belgrano 1130, Ciudad Autónoma de Buenos Aires."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": "15 días hábiles",
+    "consejos": [
+      "Aproximadamente tres semanas después vas a recibir en el correo electrónico que informaste en el primer paso la constancia digital de la afectación de la vivienda.",
+      "Si tenés el título original en papel, el número de matrícula figura en la última página, debajo de la firma del escribano, en un sello de goma.",
+      "Si el título original es digital (tiene firma digital), la matrícula figura al final del documento, después del texto 'registrado en la matrícula dig'.",
+      "Si el título original es digital, cuando vayas personalmente al Registro de la Propiedad Inmueble llevalo copiado en un pendrive tal como fue descargado del sitio del Registro de la Propiedad Inmueble cuando se inscribió la propiedad (en un mismo archivo están la carátula, el título y la constancia…",
+      "Si no tenés el título digital, podés llevarlo impreso cuando vengas a nuestra oficina."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "oficina Protección de la Vivienda del Registro de la Propiedad Inmueble",
+      "direccion": "Av. Belgrano 1130",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-tu-casa-como-bien-de-familia"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribir-tu-casa-como-bien-de-familia",
+      "titulo": "Inscribir tu casa como bien de familia | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-26T17:12:37.313Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T17:12:37.313Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La URL de la página de turnos específica para este trámite no se especifica en el texto, solo se indica que se debe buscar el turno en la página general de turnos.",
+    "El texto menciona que para provincias se debe consultar en el respectivo sitio web oficial, pero no proporciona los enlaces ni los nombres de esos sitios."
+  ]
+}

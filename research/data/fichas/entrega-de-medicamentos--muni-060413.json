@@ -1,0 +1,81 @@
+{
+  "tramite": {
+    "slug": "entrega-de-medicamentos",
+    "nombre": "Entrega de medicamentos",
+    "nombre_busqueda": "medicamentos que no hay en el centro de salud",
+    "resumen": "Podés solicitar medicamentos que no están disponibles en el Centro Asistencial donde te atienden. La medicación se pide en Droguería y se entrega al día siguiente de presentar la receta.",
+    "sinonimos": [
+      "medicación faltante en el centro de salud"
+    ],
+    "temas": [
+      "medicamentos-y-farmacia-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060413",
+  "organismo": {
+    "nombre": "Subsecretaría de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Pacientes atendidos en las Unidades Sanitarias que no encuentran su medicamento en el Centro Asistencial correspondiente."
+    ],
+    "requisitos": [
+      {
+        "texto": "Receta del medicamento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Resumen de historia clínica.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en la Subsecretaría de Salud con la receta y el resumen de historia clínica."
+      },
+      {
+        "texto": "Retirá la medicación al día siguiente."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "La medicación se entrega al día siguiente de presentar la receta.",
+    "consejos": [
+      "Solo se cubre la medicación recetada en el Nivel Primario de Atención. Los tratamientos de mayor complejidad se derivan al Nivel Hospitalario."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Subsecretaría de Salud",
+      "direccion": "Gandini 92",
+      "localidad": "Gandini 92",
+      "horario": null,
+      "fuente_url": "https://www.junin.gob.ar/content/entrega-de-medicamentos"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.junin.gob.ar/content/entrega-de-medicamentos",
+      "titulo": "Entrega de medicamentos | Gobierno de Junín",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T13:53:43.721Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa si hace falta sacar turno.",
+    "No se informa si la entrega tiene costo."
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "tramite": {
+    "slug": "solicitar-reconocimiento-jubilacion-convenio-internacional",
+    "nombre": "Solicitar reconocimiento para jubilarte por convenio internacional",
+    "nombre_busqueda": "Reconocimiento jubilacion convenio internacional",
+    "resumen": "Si trabajaste en Argentina o en países con convenio de seguridad social vigente, podés acceder a prestaciones como jubilación o pensión por fallecimiento. El trámite es gratuito y se realiza en ANSES.",
+    "sinonimos": [
+      "Reconocimiento de servicios por convenio",
+      "Jubilación por convenio internacional",
+      "Prestaciones seguridad social internacional"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones",
+      "inicio-de-jubilacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANSES",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que trabajaron o trabajan en relación de dependencia o forma autónoma en países con convenio vigente y realizaron los aportes respectivos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documentación requerida según tu situación de servicio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Mantener un acuerdo bilateral o multilateral vigente con la República Argentina.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Reuní la documentación requerida según tu situación de servicio."
+      },
+      {
+        "texto": "Solicitá un turno en ANSES."
+      },
+      {
+        "texto": "Presentá la documentación al momento de iniciar tu trámite ante el organismo correspondiente en el lugar de residencia o en el último país donde se hubieran registrado aportes."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si trabajaste en actividades de servicios comunes por un tiempo y en actividades especiales, riesgosas o insalubres en otro período, se tomarán en cuenta los requisitos de cada actividad para calcular la edad jubilatoria.",
+      "Lo mismo sucederá con las condiciones específicas de cada convenio internacional al que se adhiera para tu situación en particular."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Unidad de Atención de Trámites con Organismos Externos",
+      "direccion": "Pte. Juan D. Perón 332",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/tramitar-prestaciones-por-convenio-internacional-de-seguridad-social"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tramitar-prestaciones-por-convenio-internacional-de-seguridad-social",
+      "titulo": "Tramitar prestaciones por Convenio Internacional de Seguridad Social | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T00:52:21.679Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-turnos-en-anses",
+      "titulo": "Solicitar turnos en ANSES | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T00:52:21.679Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los requisitos específicos de documentación no se detallan en el texto, consultá en la web de ANSES.",
+    "El plazo de atención no se especifica en el texto.",
+    "La fecha de vigencia de los convenios mencionados no es exacta en el texto (se indica año o resolución).",
+    "La URL para solicitar el turno en línea no se proporciona en el texto."
+  ]
+}

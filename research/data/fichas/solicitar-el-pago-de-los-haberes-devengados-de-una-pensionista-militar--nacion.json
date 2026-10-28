@@ -1,0 +1,126 @@
+{
+  "tramite": {
+    "slug": "solicitar-pago-haberes-devengados-pensionista-militar",
+    "nombre": "Solicitar el pago de los haberes devengados de una pensionista militar",
+    "nombre_busqueda": "solicitar pago haberes devengados pensionista militar fallecida",
+    "resumen": "El trámite permite cobrar los haberes y el aguinaldo pendientes de una pensionista militar fallecida a sus deudos o quienes hayan pagado los gastos de sepelio. Es gratuito y se realiza en sede del IAF, por teléfono o correo.",
+    "sinonimos": [
+      "cobro haberes devengados fallecida",
+      "liquidación haberes pensionista militar fallecida"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A los derechohabientes de la pensionista fallecida o quien se haya hecho cargo de los gastos de su sepelio en su totalidad."
+    ],
+    "requisitos": [
+      {
+        "texto": "Partida de defunción.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI de/de los solicitante/s.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia bancaria donde figure N° cuenta, CBU y sucursal en donde se acreditará el pago.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Partida de nacimiento de/ de los solicitante/s.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Factura Original de los gastos de sepelio, extendida a nombre del solicitante y con sus datos completos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación bancaria de la entidad con la que opera la Casa de Sepelios.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración Jurada HD (si sos heredero único).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración Jurada de Herederos legítimos (si sos heredero único).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Oficio Judicial firmado por el Juez que intervino en la Sucesión (si son herederos laterales o varios hijos sin autorización).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate con la documentación requerida a la sede central del IAF, Cerrito 572 – CABA o las Delegaciones del Interior."
+      },
+      {
+        "texto": "Presentá la documentación requerida en la sede del IAF."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "30 días",
+    "consejos": [
+      "El plazo de prescripción para el reclamo de los haberes devengados es de DOS (2) años a partir de la fecha de fallecimiento del titular.",
+      "Consultá telefónicamente o de forma presencial para analizar cada caso en particular."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede central del IAF",
+      "direccion": "Cerrito 572",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-el-pago-de-los-haberes-devengados-de-una-pensionista-militar"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-el-pago-de-los-haberes-devengados-de-una-pensionista-militar",
+      "titulo": "Solicitar el pago de los Haberes Devengados de una pensionista militar. | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:32:24.493Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/iaf",
+      "titulo": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T08:32:24.493Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T08:32:24.493Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La vigencia del plazo de prescripción es de DOS (2) años a partir de la fecha de fallecimiento del titular, de acuerdo a lo estipulado por el art. 2537 del Nuevo Código Civil y Comercial de la Nación."
+  ]
+}

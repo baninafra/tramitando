@@ -1,0 +1,115 @@
+{
+  "tramite": {
+    "slug": "consultar-declaraciones-juradas-de-funcionarios-publicos",
+    "nombre": "Consultar declaraciones juradas de funcionarios públicos",
+    "nombre_busqueda": "Consultar declaraciones juradas funcionarios",
+    "resumen": "Podés consultar las declaraciones juradas patrimoniales y de intereses de funcionarios públicos de la Nación, el Poder Legislativo y el Judicial, ingresando tus datos y el año de la declaración.",
+    "sinonimos": [
+      "Verificar declaraciones juradas",
+      "Consultar DJPI funcionarios",
+      "Acceso a declaraciones juradas"
+    ],
+    "temas": [
+      "gobierno-y-participacion",
+      "acceso-a-la-informacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Oficina Anticorrupción",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier ciudadano interesado en ejercer su derecho de acceso a la información, por razones periodísticas, académicas, de investigación u otras."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nombre y apellido del funcionario.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de CUIT del funcionario (si lo tenés).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cargo del funcionario (opcional para búsqueda por cargo).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Año de la declaración que querés consultar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tus datos personales actualizados: nombre, apellido y número de DNI (o CUIT, Pasaporte, Licencia de Conducir).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario de búsqueda con los datos del funcionario y el año de la declaración."
+      },
+      {
+        "texto": "Si querés consultar a una persona en particular, ingresá \"Apellido + Año\" o \"número de CUIT + Año\" y dejá el resto en blanco."
+      },
+      {
+        "texto": "Si querés buscar por cargo, completá el campo \"Año de la DJPI + Cargo\"."
+      },
+      {
+        "texto": "Descargá la Declaración Jurada Patrimonial Integral de carácter público solicitada."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Para consultas anteriores al año 2012, la Oficina Anticorrupción se pondrá en contacto con vos para informarte el resultado y remitir la declaración.",
+      "Es muy importante consignar todos los datos del formulario y que sean correctos.",
+      "Si el apellido contiene la letra Ñ, escribí al menos dos letras anteriores o posteriores, ya que el sistema no la reconoce.",
+      "El sistema no admite tildes ni caracteres especiales."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consultar-declaraciones-juradas-de-funcionarios-publicos",
+      "titulo": "Consultar Declaraciones Juradas de funcionarios públicos | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T05:17:12.551Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/anticorrupcion",
+      "titulo": "Oficina Anticorrupción | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T05:17:12.551Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T05:17:12.551Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia exacta de la publicación de las declaraciones juradas en la página web.",
+    "El plazo exacto para que la Oficina Anticorrupción publique las declaraciones en la página web tras la presentación por parte del funcionario."
+  ]
+}

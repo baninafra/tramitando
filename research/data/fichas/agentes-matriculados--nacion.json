@@ -1,0 +1,74 @@
+{
+  "tramite": {
+    "slug": "agentes-matriculados",
+    "nombre": "Agentes matriculados",
+    "nombre_busqueda": "Agentes matriculados",
+    "resumen": "Declaración jurada anual para Agentes de la Propiedad Industrial. Se debe abonar por año calendario para que la matrícula esté vigente.",
+    "sinonimos": [],
+    "temas": [
+      "monotributo-social-y-general"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto Nacional de la Propiedad Industrial",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Agentes de la Propiedad Industrial"
+    ],
+    "requisitos": [
+      {
+        "texto": "Declaración jurada anual de Agentes de la Propiedad Industrial",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal de trámites"
+      },
+      {
+        "texto": "Iniciá sesión ARCA con clave fiscal"
+      },
+      {
+        "texto": "Dentro del botón Instructivo, seleccioná Autogestión Agentes"
+      },
+      {
+        "texto": "Hacé clic en el botón pagar matrícula agente"
+      },
+      {
+        "texto": "Subí documentación respaldatoria y adjuntá formulario de DDJJ en formato PDF"
+      },
+      {
+        "texto": "Aguardá que se carguen los pdf y luego seleccioná finalizar"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/agentes-matriculados",
+      "titulo": "Agentes matriculados | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:28:53.471Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la matrícula no se especifica en el texto."
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "tramite": {
+    "slug": "inscripcion-como-empresa-prestadora-de-servicio-grafico",
+    "nombre": "Inscripción como empresa prestadora de servicio gráfico",
+    "nombre_busqueda": "inscripción empresa prestadora de servicio gráfico vitivinícola",
+    "resumen": "Trámite para que imprentas y empresas que proveen etiquetas y marbetes a establecimientos vitivinícolas queden inscriptas ante el INV.",
+    "sinonimos": [
+      "inscripción de imprenta para etiquetas de vino",
+      "registro de prestador gráfico vitivinícola",
+      "habilitación de empresa de marbetes"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo"
+    ],
+    "temas_propuestos": [
+      {
+        "slug": "registro-de-empresas-proveedoras",
+        "nombre": "Registro de empresas proveedoras",
+        "padre": null
+      },
+      {
+        "slug": "vitivinicultura",
+        "nombre": "Vitivinicultura",
+        "padre": null
+      }
+    ]
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto Nacional de Vitivinicultura",
+    "sigla": "INV",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas prestatarias que proveen a establecimientos inscriptos en el INV el material multilaminado o los marbetes identificatorios para los productos vitivinícolas fraccionados."
+    ],
+    "requisitos": [
+      {
+        "texto": "Copia digital de la solicitud de preinscripción electrónica como prestador de servicio gráfico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia digital de la habilitación municipal conforme al rubro de inscripción.",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUIT.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia digital de representación y personería.",
+        "aclaracion": "Acreditada conforme a la Ley de Procedimiento Administrativo N.º 19.549 y su Decreto Reglamentario N.º 1.759/72 (T.O. 1991)."
+      },
+      {
+        "texto": "Copia digital del título habilitante del inmueble.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia digital de la autorización que permite al INV inspeccionar el material de uso.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Seleccioná el contacto de la Delegación del INV."
+      },
+      {
+        "texto": "Enviá una copia digital de cada uno de los requisitos para la planta de fraccionamiento."
+      },
+      {
+        "texto": "Recibí la confirmación en tu correo electrónico."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "Inscripción",
+      "gratis": true,
+      "monto_centavos": null,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscripcion-como-empresa-prestadora-de-servicio-grafico"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscripcion-como-empresa-prestadora-de-servicio-grafico",
+      "titulo": "Inscripción como empresa prestadora de servicio gráfico | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T00:15:47.058Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Cuánto tarda el trámite.",
+    "Dirección y horario de la Delegación del INV que corresponde.",
+    "Fecha de vigencia de la Resolución E 58/2017."
+  ]
+}

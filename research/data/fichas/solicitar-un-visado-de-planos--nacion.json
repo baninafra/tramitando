@@ -1,0 +1,123 @@
+{
+  "tramite": {
+    "slug": "solicitar-un-visado-de-planos",
+    "nombre": "Solicitar el visado de planos",
+    "nombre_busqueda": "visado de planos",
+    "resumen": "Podés solicitar el visado de planos que involucren inmuebles del Estado Nacional o que sean linderos a ellos. El trámite debe iniciarlo el profesional que firma el plano.",
+    "sinonimos": [
+      "visado de planos"
+    ],
+    "temas": [
+      "permiso-de-obra-y-planos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Agencia de Administración de Bienes del Estado",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas físicas, personas jurídicas, provincias y municipios pueden hacer el trámite.",
+      "El trámite debe iniciarlo el profesional que firma el plano."
+    ],
+    "requisitos": [
+      {
+        "texto": "Copia certificada del DNI del profesional que solicita el visado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota habilitante del profesional, expedida por el colegio profesional de la jurisdicción correspondiente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano actualizado del inmueble, con el último visado, en formato PDF.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Antecedentes catastrales del inmueble.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Antecedentes dominiales del inmueble.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano del inmueble en formato AUTOCAD.",
+        "aclaracion": "Opcional."
+      },
+      {
+        "texto": "Copia certificada por escribano y legalizada, si corresponde, del documento que acredita la transferencia del inmueble del Estado Nacional a una persona privada u organización gubernamental o no gubernamental.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de encomienda firmada por el profesional competente.",
+        "aclaracion": "Si el caso corresponde a la Ciudad Autónoma de Buenos Aires. Es optativa."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Entrá al Sistema de Tramitación a Distancia desde tramitesadistancia.gob.ar."
+      },
+      {
+        "texto": "Ingresá tu CUIT o CUIL y tu Clave Fiscal de nivel 3."
+      },
+      {
+        "texto": "Confirmá tus datos personales cuando el sistema te lo solicite por única vez."
+      },
+      {
+        "texto": "Aceptá los términos y condiciones de uso para abrir el Escritorio Único de Trámites a Distancia."
+      },
+      {
+        "texto": "Seleccioná “Nuevo trámite” y elegí la Agencia de Administración de Bienes del Estado."
+      },
+      {
+        "texto": "Revisá los trámites disponibles y leé la sección “Detalles” para conocer las condiciones de presentación de la documentación."
+      },
+      {
+        "texto": "Seleccioná el trámite de visado de planos que corresponde."
+      },
+      {
+        "texto": "Confirmá tus datos, completá el formulario y cargá la documentación obligatoria."
+      },
+      {
+        "texto": "Seleccioná “Confirmá trámite” para finalizar."
+      },
+      {
+        "texto": "Anotá el número de expediente y consultá los documentos asociados que muestra el sistema."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": false,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Al ingresar por primera vez a TAD, solo después podés modificar el domicilio constituido, el correo electrónico y el teléfono. Los demás datos quedan como los cargaste en ese primer ingreso."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-un-visado-de-planos",
+      "titulo": "Solicitar un Visado de Planos | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T16:25:43.706Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El trámite excluye los inmuebles linderos a Rutas Nacionales, que deben visarse ante la Dirección Nacional de Vialidad.",
+    "La página no indica el costo del trámite.",
+    "La página no informa cuánto tarda la gestión."
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "tramite": {
+    "slug": "solicitar-servidumbre",
+    "nombre": "Solicitar una servidumbre",
+    "nombre_busqueda": "Solicitar una servidumbre",
+    "resumen": "Autorización para paso o tránsito y ejecución de obras sobre fracciones de inmuebles del Estado Nacional. Requiere formularios, documentos de dominio y proyectos técnicos.",
+    "sinonimos": [
+      "Autorización para paso o tránsito",
+      "Servidumbre de paso o tránsito",
+      "Servidumbre de paso"
+    ],
+    "temas": [
+      "vivienda-y-servicios-del-hogar"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Agencia de Administración de Bienes del Estado",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Gobiernos Provinciales",
+      "Gobiernos Municipales e Intendencias",
+      "Gobiernos Comunales",
+      "Personas Jurídicas (Entes, Prestatarias o Cooperativas de Servicios Públicos de Red)",
+      "Personas Humanas (solo si son titulares dominiales de inmuebles que requieran servidumbres de paso o tránsito)"
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario Completo de Requerimiento de solicitud de constitución de servidumbre",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estatuto o contrato social y designación de autoridades",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción en la Administración Federal de Ingresos Públicos",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de Inscripción en la Dirección General de Rentas de la jurisdicción",
+        "aclaracion": null
+      },
+      {
+        "texto": "Balance, memoria y estado de resultados",
+        "aclaracion": "Opcional"
+      },
+      {
+        "texto": "Escritura traslativa de dominio del inmueble servido",
+        "aclaracion": null
+      },
+      {
+        "texto": "Partida Catastral ó Ficha Parcelaria",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado, Asiento o Informe de Dominio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Resolución o acto administrativo que aprueban el proyecto",
+        "aclaracion": null
+      },
+      {
+        "texto": "Croquis con una delimitación precisa de la fracción afectada por la presentación",
+        "aclaracion": null
+      },
+      {
+        "texto": "Proyecto a ejecutar",
+        "aclaracion": null
+      },
+      {
+        "texto": "Anteproyecto de mensura",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informe de prefactibilidad/factibilidad hidráulica y certificado de no inundabilidad",
+        "aclaracion": "Opcional"
+      },
+      {
+        "texto": "Autorización Ambiental, Licencia Ambiental del Proyecto o Certificado de Aptitud Ambiental",
+        "aclaracion": "Opcional"
+      },
+      {
+        "texto": "Cronograma de Ejecución o Plan de Trabajos del Proyecto, considerando la obra y su posterior habilitación al uso",
+        "aclaracion": null
+      },
+      {
+        "texto": "Foto Satelital con ubicación respecto al Ejido Urbano",
+        "aclaracion": null
+      },
+      {
+        "texto": "Foto Satelital identificando con un polígono el Inmueble y la fracción requerida respecto de la cual se solicita constituir la servidumbre",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotos del Inmueble requerido",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informe de agrimensor justificando la necesidad de la servidumbre solicitada",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación adicional",
+        "aclaracion": "Opcional"
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Accedé al Sistema de Tramitación a Distancia por medio del sitio web: tramitesadistancia.gob.ar"
+      },
+      {
+        "texto": "Ingresá tu CUIT/CUIL y la Clave Fiscal (Nivel 3)"
+      },
+      {
+        "texto": "Aceptá los Términos y Condiciones de uso de la plataforma"
+      },
+      {
+        "texto": "Ingresá al Escritorio Único de Trámites a Distancia"
+      },
+      {
+        "texto": "Seleccioná la opción de usuario y editá los datos si es necesario (email, teléfono, domicilio constituido)"
+      },
+      {
+        "texto": "Seleccioná el organismo: Agencia de Administración de Bienes del Estado"
+      },
+      {
+        "texto": "Seleccioná el trámite correspondiente"
+      },
+      {
+        "texto": "Completá el formulario y la documentación obligatoria"
+      },
+      {
+        "texto": "Confirmá el trámite con el botón CONFIRMÁ TRÁMITE"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-una-servidumbre",
+      "titulo": "Solicitar una Servidumbre | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T17:20:07.467Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto del trámite no se especifica en el texto.",
+    "El plazo de resolución no se especifica en el texto.",
+    "La dirección de oficinas no se especifica en el texto."
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "tramite": {
+    "slug": "presentar-libros-formato-digital",
+    "nombre": "Presentar los libros en formato digital",
+    "nombre_busqueda": "presentar libros formato digital",
+    "resumen": "Entidades aseguradoras y reaseguradoras deben llevar sus libros específicos mediante el método de Libros Digitales usando el sistema TAD.",
+    "sinonimos": [],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Seguros de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Entidades aseguradoras y reaseguradoras."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener usuario de acceso a Trámites a Distancia (TAD).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descargar el generador de HASH desde TAD.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Instalar el archivo descargado GeneradorDeHash.exe en tu equipo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Obtener el hash correspondiente al archivo que se quiere subir, mediante el generador de HASH, y copiarlo en el portapapeles.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Operar como apoderado de la entidad a la que representás.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener clave fiscal.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD, trámite 'Libros digitales – Actividad Aseguradoras / Reaseguradoras', con clave fiscal."
+      },
+      {
+        "texto": "Pegá el hash obtenido a través del Generador y que copiaste al portapapeles."
+      },
+      {
+        "texto": "Confirmá el trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Una vez que se ha confirmado el trámite, TAD devuelve la confirmación con el recibo de Blockchain. En ese momento, los libros se consideran presentados."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/presentar-los-libros-en-formato-digital",
+      "titulo": "Presentar los libros en formato digital | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T07:51:29.137Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La vigencia del trámite es permanente según el texto, pero no se especifica una fecha de inicio exacta."
+  ]
+}

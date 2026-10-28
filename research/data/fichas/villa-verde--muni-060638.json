@@ -1,0 +1,77 @@
+{
+  "tramite": {
+    "slug": "centros-de-salud-y-turnos",
+    "nombre": "Centro de Salud Villa Verde",
+    "nombre_busqueda": "Centro de Salud Villa Verde",
+    "resumen": "El Centro de Salud Villa Verde ofrece atención médica con especialistas y servicios de laboratorio. Para recibir atención, es necesario solicitar un turno a través de la plataforma Mi Muni.",
+    "sinonimos": [
+      "Centro de Salud Villa Verde",
+      "Clínica Villa Verde"
+    ],
+    "temas": [
+      "centros-de-salud-y-turnos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060638",
+  "organismo": {
+    "nombre": "Municipalidad del Pilar",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que necesite atención médica en el Centro de Salud Villa Verde."
+    ],
+    "requisitos": [
+      {
+        "texto": "Solicitar un turno a través de la plataforma Mi Muni.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Accedé a la plataforma Mi Muni."
+      },
+      {
+        "texto": "Solicitá un turno para atenderte."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Centro de Salud Villa Verde",
+      "direccion": "Pilar Sur Sarmiento 1345 e/ Cefiro y Fgta Heroína",
+      "localidad": "Pilar",
+      "horario": null,
+      "fuente_url": "https://pilar.gov.ar/centros-de-salud/villa-verde/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://pilar.gov.ar/centros-de-salud/villa-verde/",
+      "titulo": "Villa Verde - Municipio Pilar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T09:16:38.818Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el costo del turno o de la atención médica.",
+    "No se especifica el plazo para recibir atención una vez solicitado el turno."
+  ]
+}

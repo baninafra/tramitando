@@ -1,0 +1,120 @@
+{
+  "tramite": {
+    "slug": "reemplazo-de-licencia-de-conducir",
+    "nombre": "Reemplazo de licencia de conducir",
+    "nombre_busqueda": "Reemplazo de licencia de conducir La Plata",
+    "resumen": "Trámite para reflejar cambios de datos como domicilio o nombre en la licencia vigente. Requiere DNI, licencia actual y resolución de infracciones si las hay.",
+    "sinonimos": [
+      "Reemplazo de licencia",
+      "Cambio de datos en licencia",
+      "Licencia con nuevo domicilio"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060441",
+  "organismo": {
+    "nombre": "Municipalidad de La Plata",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que tenga domicilio en La Plata y posea la licencia actualizada."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI vigente con domicilio en La Plata (original y copia legible, frente y contrafrente).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de DNI en trámite y DNI anterior o DNI digital en Mi Argentina (si no tiene el último DNI vigente).",
+        "aclaracion": "Solo si no tiene el último DNI vigente."
+      },
+      {
+        "texto": "Licencia de conducir original y fotocopia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Exposición de extravío o denuncia de robo (si no posee la licencia).",
+        "aclaracion": "Solo si no posee la licencia."
+      },
+      {
+        "texto": "Certificado de antecedentes penales con vigencia de 30 días (si tiene o desea acceder a las categorías C, D y E).",
+        "aclaracion": "Solo si tiene o desea acceder a las categorías C, D y E."
+      },
+      {
+        "texto": "Certificado de Legalidad expedido por las autoridades otorgantes (si la licencia es de otra jurisdicción).",
+        "aclaracion": "Solo si la licencia es de otra jurisdicción."
+      },
+      {
+        "texto": "Resolución de infracciones en los juzgados correspondientes.",
+        "aclaracion": "Solo si la licencia contiene infracciones."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Consultá si posees infracciones en la Provincia de Buenos Aires y en la Municipalidad de La Plata."
+      },
+      {
+        "texto": "Resolvé las infracciones en los juzgados donde se encuentren."
+      },
+      {
+        "texto": "Solicitá tu turno online."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Concurrí al Centro Emisor de Licencias (CEL) con los documentos y comprobantes de pago."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://turnos.laplata.gob.ar/misdatos",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://tramites.laplata.gob.ar/licencias/reemplazo.html",
+      "titulo": "Licencias - Municipalidad de La Plata",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T14:37:20.092Z"
+    },
+    {
+      "url": "https://turnos.laplata.gob.ar/misdatos",
+      "titulo": "Turnos online - Municipalidad de La Plata",
+      "bloques": [
+        "pasos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T14:37:20.092Z"
+    },
+    {
+      "url": "https://licenciasba.dppsv.gba.gob.ar/licencias/boletas_cenat_cepat/public/solicitante/new",
+      "titulo": "Licencias BA",
+      "bloques": [
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T14:37:20.092Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Vigencia del trámite.",
+    "Dirección exacta del Centro Emisor de Licencias (CEL) en La Plata.",
+    "Horarios de atención del CEL."
+  ]
+}

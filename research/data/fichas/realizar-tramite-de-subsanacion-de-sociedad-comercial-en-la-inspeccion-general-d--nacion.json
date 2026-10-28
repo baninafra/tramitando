@@ -1,0 +1,128 @@
+{
+  "tramite": {
+    "slug": "subsanacion-sociedad-comercial",
+    "nombre": "Subsanación de sociedad comercial",
+    "nombre_busqueda": "Subsanación de sociedad comercial",
+    "resumen": "Trámite para subsanar o transformar una sociedad comercial ante la Inspección General de Justicia, requiriendo formularios, dictámenes profesionales y pago de tasas.",
+    "sinonimos": [
+      "Regularización de sociedad",
+      "Subsanación sociedad civil",
+      "Transformación sociedad"
+    ],
+    "temas": [
+      "comercio-e-industria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": "IGJ",
+    "web": "https://www.argentina.gob.ar/servicio/realizar-tramite-de-subsanacion-de-sociedad-comercial-en-la-inspeccion-general-de-justicia"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Socios de la sociedad que desea subsanar o transformar."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de subsanación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de reserva de denominación (si se realizó y está vigente).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dictamen de precalificación profesional emitido por escribano público o abogado (si la transformación es por escritura pública).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dictamen de precalificación profesional emitido por graduado en ciencias económicas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia protocolar de lo indicado en los requisitos anteriores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Primer testimonio de escritura pública o instrumento privado original con el acuerdo de subsanación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Balance a la fecha de la subsanación cerrado a una fecha de antelación no mayor a un mes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Inventario resumido de los rubros del balance certificado por contador público.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de la publicación en el Boletín Oficial del aviso previsto por el art. 10 de la Ley Nº 19.550 (si el tipo adoptado es sociedad por acciones o de responsabilidad limitada).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago de la tasa retributiva de servicios.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración Jurada sobre la condición de Persona Expuesta Políticamente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Completá el formulario, descargalo y abonalo."
+      },
+      {
+        "texto": "Solicitá turno para Mesa General de Entradas."
+      },
+      {
+        "texto": "Presentá el formulario del trámite y toda la documentación indicada en la Inspección General de Justicia, Av. Paseo Colón 291."
+      },
+      {
+        "texto": "Retirá el trámite por Av. Paseo Colón 291 previa solicitud de turno."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si sos matriculado/a y realizás la presentación en la sede de tu colegio profesional, la atención se realiza con turno previo.",
+      "Los trámites recibidos en los colegios son procesados por IGJ el día hábil inmediato posterior a la fecha de presentación, tanto en su modalidad común como urgente."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Inspección General de Justicia",
+      "direccion": "Av. Paseo Colón 291",
+      "localidad": "Av. Paseo Colón 291",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/realizar-tramite-de-subsanacion-de-sociedad-comercial-en-la-inspeccion-general-de-justicia"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/realizar-tramite-de-subsanacion-de-sociedad-comercial-en-la-inspeccion-general-de-justicia",
+      "titulo": "Realizar trámite de subsanación de sociedad comercial en la Inspección General de Justicia | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:28:36.728Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto menciona plazos establecidos en el art. 22 de la Ley Nº 19.550, pero no especifica los días exactos.",
+    "El texto menciona plazos para la inscripción registral y notificaciones, pero no especifica los días exactos.",
+    "El texto menciona que el dictamen debe referirse a un balance cerrado a una fecha de antelación no mayor a un mes, pero no especifica el plazo total del trámite."
+  ]
+}

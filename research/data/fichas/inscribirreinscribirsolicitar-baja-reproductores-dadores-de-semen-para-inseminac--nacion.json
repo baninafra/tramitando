@@ -1,0 +1,125 @@
+{
+  "tramite": {
+    "slug": "inscripcion-reinscripcion-baja-reproductores-dadores-de-semen",
+    "nombre": "Inscribir/Reinscribir/Solicitar baja reproductores dadores de semen",
+    "nombre_busqueda": "Inscribir reproductores dadores de semen Senasa",
+    "resumen": "Los titulares de centros de inseminación artificial deben inscribir a sus reproductores dadores de semen en el Senasa. El trámite requiere documentación específica y pago de arancel, y se realiza presencialmente en oficinas autorizadas.",
+    "sinonimos": [
+      "Inscripción dadores de semen",
+      "Registro reproductores inseminación",
+      "Baja reproductores Senasa"
+    ],
+    "temas": [
+      "salud-y-prevencion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de Centros de Inseminación Artificial habilitados por el Senasa."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de solicitud de inscripción/reinscripción/baja de reproductores dadores de semen.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pruebas diagnósticas requeridas según Ley N° 20.425 y Decreto Nº 4.678/1973.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración de domicilio electrónico mediante el sistema SIGTrámites.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a la oficina del Senasa autorizada más próxima a tu domicilio con la documentación correspondiente."
+      },
+      {
+        "texto": "Aboná el arancel que corresponda."
+      },
+      {
+        "texto": "Obtené el certificado de habilitación de macho dador."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El Certificado de habilitación del macho dador tiene una validez de 6 meses. Solo el material reproductivo extraído en ese lapso se puede comercializar."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Sanidad Animal",
+      "direccion": "Av. Paseo Colón 367, piso 4º cfrente, C1063ACD, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribirreinscribirsolicitar-baja-reproductores-dadores-de-semen-para-inseminacion"
+    },
+    {
+      "nombre": "sede del Centro Regional Metropolitano",
+      "direccion": "Azopardo 1020 - CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribirreinscribirsolicitar-baja-reproductores-dadores-de-semen-para-inseminacion"
+    },
+    {
+      "nombre": "sede Central",
+      "direccion": "Paseo Colón 367 - CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribirreinscribirsolicitar-baja-reproductores-dadores-de-semen-para-inseminacion"
+    },
+    {
+      "nombre": "Laboratorio Central",
+      "direccion": "Talcahuano 1660 – Martínez, Provincia de Buenos Aires",
+      "localidad": "Martínez",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribirreinscribirsolicitar-baja-reproductores-dadores-de-semen-para-inseminacion"
+    },
+    {
+      "nombre": "sede del Centro Regional Buenos Aires",
+      "direccion": "Mar de Plata, Provincia de Buenos Aires",
+      "localidad": "Mar de Plata",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribirreinscribirsolicitar-baja-reproductores-dadores-de-semen-para-inseminacion"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribirreinscribirsolicitar-baja-reproductores-dadores-de-semen-para-inseminacion",
+      "titulo": "Inscribir/Reinscribir/Solicitar baja reproductores dadores de semen para inseminación artificial | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T17:30:30.668Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T17:30:30.668Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite no está indicada en el texto."
+  ]
+}

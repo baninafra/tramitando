@@ -1,0 +1,125 @@
+{
+  "tramite": {
+    "slug": "solicitar-derecho-al-haber-de-pasividad-caja-de-retiros-pfa",
+    "nombre": "Solicitar derecho al haber de pasividad",
+    "nombre_busqueda": "solicitar derecho al haber de pasividad caja retiros pfa",
+    "resumen": "Todo personal civil como de seguridad tiene derecho a solicitar el Haber de Pasividad ingresando a Plataforma de Trámites a Distancia (TAD). Se requiere presentar documentos originales y copias certificadas, incluyendo la foja de servicios y la certificación de sueldos.",
+    "sinonimos": [
+      "haber de pasividad pfa",
+      "beneficio previsional pfa",
+      "jubilacion pasividad pfa"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones",
+      "inicio-de-jubilacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Caja de Retiros, Jubilaciones y Pensiones de la Policía Federal",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Todo personal civil como de seguridad.",
+      "Personal de la Policía Federal Argentina/Policía de ex territorios nacionales que se haya reunido con el tiempo mínimo de aportes exigibles en el Art.7 de la Ley 21.965.",
+      "Personal de la Policía de Seguridad Aeroportuaria que cumpla con los tiempos requeridos por el Art. 66 ap. 3 de la Ley 26.102."
+    ],
+    "requisitos": [
+      {
+        "texto": "Foja de servicios (original).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia certificada de la Resolución de Cesantía.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación de sueldos y aportes (original).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Último recibo de haberes percibidos (mes de cese).",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI original y copia (anverso y reverso).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave de identificación tributaria: CDI, CUIL o CUIT.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de solicitud de beneficio previsional (impresión del frente y dorso en la misma hoja).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si percibió rubro titulo o Capacitación Superior: copia certificada del mismo y una certificación o titulo analítico donde conste la duración de la carrera al momento de cursarla.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la Plataforma de Trámites a Distancia (TAD)."
+      },
+      {
+        "texto": "Accedé al trámite de Derecho al Haber de pasividad."
+      },
+      {
+        "texto": "Completá el formulario de solicitud de beneficio previsional."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si todavía no tenés el nuevo DNI, podés comenzar el trámite aquí."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Departamento Central de Policía",
+      "direccion": "Moreno 1550",
+      "localidad": "C.A.B.A.",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-derecho-al-haber-de-pasividad-caja-de-retiros-pfa"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-derecho-al-haber-de-pasividad-caja-de-retiros-pfa",
+      "titulo": "Solicitar derecho al haber de pasividad - Caja de Retiros PFA | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:20:12.933Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T08:20:12.933Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto del beneficio no se especifica en el texto.",
+    "El plazo de resolución no se especifica en el texto.",
+    "La vigencia del trámite no se especifica en el texto."
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "tramite": {
+    "slug": "verificacion-de-importacion-de-pirotecnia",
+    "nombre": "Verificación de importación de pirotecnia",
+    "nombre_busqueda": "verificacion importacion pirotecnia",
+    "resumen": "Antes de importar pirotecnia, debés presentar una solicitud de verificación con documentación técnica y pagar aranceles mediante estampillas en el Centro de Atención de ANMaC.",
+    "sinonimos": [],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMaC",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Importadores de pirotecnia"
+    ],
+    "requisitos": [
+      {
+        "texto": "Ficha de datos técnicos (FDT) N° 7, por duplicado, suscriptas por el representante legal o titular con certificación de firma en imprenta, sin espacios en blanco ni corrector líquido, consignando el número de Autorización de Importación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estampillas por un valor de 100000.",
+        "aclaracion": "Res. Nº 204/22"
+      },
+      {
+        "texto": "Pago de arancel reglamentado mediante estampillas Leyes N° 23.283 y 23.412, equivalente al 2% del valor total de la mercadería (FOB).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitud de Verificación de Importación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copias auténticas de la Guía Aérea (AWB), Carta de Porte Internacional por Carretera (CRT) o Conocimiento de embarque (B/L), según corresponda.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia certificada de la factura.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Lista de Empaque (Packing List) indicando los números con los datos técnicos correspondientes dependientes del medio de transporte (aéreo, marítimo o terrestre), número de contenedores, detalle de la mercadería (bultos, pallets, etc.) con su número de código y riesgo principal de Naciones Unidas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación en idioma extranjero con traducción al castellano efectuada por traductor público nacional.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copias de la Autorización de Importación oportunamente emitida por la ANMaC.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copias de la habilitación del vehículo para el transporte de sustancias peligrosas (para transporte terrestre).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Inscripción, registro del material y depósitos habilitados y vigentes a su nombre.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "Estampillas por verificación",
+      "gratis": false,
+      "monto_centavos": 10000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/verificacion-de-importacion-de-pirotecnia"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/verificacion-de-importacion-de-pirotecnia",
+      "titulo": "Verificación de importación de pirotecnia. | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T18:32:45.604Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de los Centros de Atención de ANMaC",
+    "Fecha de vigencia de la resolución 204/22",
+    "Si el trámite requiere turno online o presencial"
+  ]
+}

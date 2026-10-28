@@ -1,0 +1,162 @@
+{
+  "tramite": {
+    "slug": "apostillar-tu-titulo",
+    "nombre": "Apostillar tu título",
+    "nombre_busqueda": "Apostillar título universitario",
+    "resumen": "Podés apostillar o legalizar tus títulos universitarios y secundarios desde casa con TAD. El trámite es gratuito para títulos universitarios y cuesta $4500 para otros documentos.",
+    "sinonimos": [
+      "Apostillar título universitario",
+      "Legalizar título secundario",
+      "Apostillar partida de nacimiento"
+    ],
+    "temas": [
+      "validacion-y-equivalencia-de-titulos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que necesite apostillar un documento.",
+      "Cualquier persona que tenga acceso a internet y cuente con Clave Fiscal Nivel 2 (o superior).",
+      "No necesitás ser el titular de la documentación ya que el trámite no es personal."
+    ],
+    "requisitos": [
+      {
+        "texto": "Ser mayor de 18 años.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contar con Clave Fiscal Nivel 2 o superior en AFIP.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener cuenta bancaria en la Argentina asociada a la Clave Fiscal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contar con CUIT y Clave Fiscal Nivel 2 (o superior).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento/s a legalizar original avalado por un Organismo Oficial del Estado, cuyo funcionario tenga la firma registrada en la base de datos de este Ministerio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Una PC con acceso a Internet.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a Trámites a Distancia (TAD)."
+      },
+      {
+        "texto": "Hacé clic en Trámites, elegí en la barra superior AFIP y accedé con tu CUIL y tu Clave Fiscal."
+      },
+      {
+        "texto": "En la barra de búsqueda tipeá 'Apostilla', seleccioná la segunda opción ('Solicitud de apostilla/Legalización para documentos públicos electrónicos') y hacé clic en Iniciar trámite."
+      },
+      {
+        "texto": "Verificá que tus datos personales sean correctos y hacé clic en Continuar."
+      },
+      {
+        "texto": "Hacé clic en Adjuntar y seleccioná en tu computadora el documento con firma digital que deseás apostillar o legalizar."
+      },
+      {
+        "texto": "Hacé clic en Confirmar trámite."
+      },
+      {
+        "texto": "Elegí la forma de pago: 'Link' si tenés cuenta en bancos de la red Link, o 'Pago mis Cuentas' si tenés cuenta en Banelco."
+      },
+      {
+        "texto": "Pagá el VEP generado automáticamente en tu home banking."
+      },
+      {
+        "texto": "Esperá al menos 72 horas hábiles hasta la confirmación del pago."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "30 días hábiles",
+    "consejos": [
+      "Te recomendamos iniciar el trámite en días hábiles.",
+      "Consultá en el Colegio de Escribanos de tu provincia o en el Consulado argentino más cercano para obtener el detalle de cómo realizar el trámite a través de estos organismos.",
+      "Si tenés una partida con firma digital de cualquier Registro Civil del país ya sea para trámite de ciudadanía o para presentar en el exterior, no hace falta realizar la legalización del Ministerio del Interior, directamente se apostilla en Cancillería.",
+      "Por Resolución Conjunta 1-E/2017 los diplomas, analíticos, programas y planes de estudio de nivel universitario emitidos a partir del 2012 no se legalizan en el Ministerio del Interior.",
+      "Por Resolución Conjunta 1-E/2017 los diplomas y analíticos secundarios y terciarios emitidos a partir del 2010 no se legalizan en el Ministerio del Interior.",
+      "No se legalizan fotocopias ni documentación plastificada.",
+      "El documento a legalizar debe ser legible, estar escaneado a color y en forma completa.",
+      "Recordá que solo se admite 1 documento por expediente y no se permiten múltiples documentos en un único archivo PDF.",
+      "Si el reverso de las hojas contiene firmas también deben ser escaneadas.",
+      "En el caso que se haya cargado con algún error o necesite modificación, te llegará una notificación para que puedas subsanarlo.",
+      "Pasados los 30 días se archivará.",
+      "Podés verificar si tu documento fue legalizado ingresando el número de etiqueta Consulta de documentos legalizados."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 450000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/legalizar-o-apostillar-un-documento-traves-de-tad"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 150000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/legalizar-o-apostillar-un-documento-traves-de-tad"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/legalizar-o-apostillar-un-documento-traves-de-tad",
+      "titulo": "Legalizar o apostillar un documento a través de TAD | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T05:22:52.636Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/legalizar-documentos-publicos",
+      "titulo": "Legalizar Documentos Públicos | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T05:22:52.636Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T05:22:52.636Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Vigencia: No tiene vencimiento, se realiza por única vez."
+  ]
+}

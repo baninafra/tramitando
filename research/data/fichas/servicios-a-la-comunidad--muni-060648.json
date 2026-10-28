@@ -1,0 +1,143 @@
+{
+  "tramite": {
+    "slug": "servicios-a-la-comunidad",
+    "nombre": "Servicios a la comunidad",
+    "nombre_busqueda": "Servicios sociales municipales en Presidente Perón",
+    "resumen": "La Municipalidad informa sobre servicios fúnebres gratuitos, espacios de cuidado infantil y otros servicios a la comunidad. Para ingresar a los CAI o a la Casa del Niño, tenés que presentar documentación en fotocopia.",
+    "sinonimos": [
+      "servicios sociales municipales",
+      "servicios de desarrollo social"
+    ],
+    "temas": [
+      "desarrollo-social-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060648",
+  "organismo": {
+    "nombre": "Secretaría de Desarrollo Social",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Para el servicio fúnebre, personas sin ingresos ni obra social que residan en Presidente Perón.",
+      "Para la Casa del Niño, niñas y niños de 6 a 13 años.",
+      "Para los CAI, niñas y niños de 2 a 5 años."
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia del DNI de cada padre o madre.",
+        "aclaracion": "Para ingresar a los CAI o a la Casa del Niño."
+      },
+      {
+        "texto": "Fotocopia del DNI de cada niña o niño que va a ingresar.",
+        "aclaracion": "Para ingresar a los CAI o a la Casa del Niño."
+      },
+      {
+        "texto": "Fotocopia de la libreta de vacunas al día.",
+        "aclaracion": "Para ingresar a los CAI o a la Casa del Niño."
+      },
+      {
+        "texto": "Fotocopia de la partida de nacimiento.",
+        "aclaracion": "Para ingresar a los CAI o a la Casa del Niño."
+      },
+      {
+        "texto": "Tener domicilio en el DNI en Presidente Perón.",
+        "aclaracion": "Para pedir el servicio fúnebre."
+      },
+      {
+        "texto": "Negativa de Anses.",
+        "aclaracion": "Para pedir el servicio fúnebre."
+      },
+      {
+        "texto": "Certificado de fallecimiento emitido por el hospital.",
+        "aclaracion": "Para pedir el servicio fúnebre."
+      },
+      {
+        "texto": "DNI de la persona fallecida.",
+        "aclaracion": "Para pedir el servicio fúnebre."
+      },
+      {
+        "texto": "DNI del familiar que se va a ocupar del trámite.",
+        "aclaracion": "Para pedir el servicio fúnebre."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá las fotocopias de la documentación requerida para ingresar a un CAI o a la Casa del Niño."
+      },
+      {
+        "texto": "Presentá el certificado de fallecimiento, el DNI de la persona fallecida y el DNI del familiar a cargo para pedir el servicio fúnebre."
+      },
+      {
+        "texto": "Tramitá el certificado de fallecimiento en el distrito donde ocurrió el deceso si la persona falleció fuera de Presidente Perón y de las cercanías indicadas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La página indica que, por el contexto de la pandemia, el servicio fúnebre solo se ofrece si la persona falleció en el distrito o en localidades cercanas, hasta Adrogué, partido de Almirante Brown.",
+      "Si la persona falleció fuera de esa zona, la página indica que tenés que tramitar el certificado de fallecimiento en el distrito donde ocurrió el deceso.",
+      "La Casa del Niño funciona de lunes a viernes, de 7 a 18, durante todo el año.",
+      "Los CAI trabajan durante cuatro horas. La página no informa el horario."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "Personas sin ingresos ni obra social",
+      "gratis": true,
+      "monto_centavos": null,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://presidenteperon.gob.ar/secretaria-de-desarrollo-social/servicios-a-la-comunidad/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "CAI Presidente Perón",
+      "direccion": "Calle 118 y 133, barrio La Yaya",
+      "localidad": "Calle 118 y 133, barrio La Yaya",
+      "horario": null,
+      "fuente_url": "https://presidenteperon.gob.ar/secretaria-de-desarrollo-social/servicios-a-la-comunidad/"
+    },
+    {
+      "nombre": "CAI Niños de la Paz",
+      "direccion": "Calle Washington y Honduras, barrio Parque Americano",
+      "localidad": "Calle Washington y Honduras, barrio Parque Americano",
+      "horario": null,
+      "fuente_url": "https://presidenteperon.gob.ar/secretaria-de-desarrollo-social/servicios-a-la-comunidad/"
+    },
+    {
+      "nombre": "Casa del Niño Hogar Infantil de la Madre Trabajadora de Guernica",
+      "direccion": "Calle 31 entre 12 y 14",
+      "localidad": "Guernica",
+      "horario": null,
+      "fuente_url": "https://presidenteperon.gob.ar/secretaria-de-desarrollo-social/servicios-a-la-comunidad/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://presidenteperon.gob.ar/secretaria-de-desarrollo-social/servicios-a-la-comunidad/",
+      "titulo": "Servicios a la Comunidad – Presidente Perón",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T16:36:49.433Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informan los pasos para solicitar el ingreso a los CAI o a la Casa del Niño.",
+    "No se informan los pasos para solicitar el servicio fúnebre.",
+    "No se informa si hace falta sacar turno.",
+    "No se informa un plazo de respuesta o resolución."
+  ]
+}

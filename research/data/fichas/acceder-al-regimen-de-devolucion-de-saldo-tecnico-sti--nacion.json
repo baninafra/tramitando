@@ -1,0 +1,90 @@
+{
+  "tramite": {
+    "slug": "acceso-regimen-devolucion-saldo-tecnico-sti",
+    "nombre": "Acceder al Régimen de Devolución de Saldo Técnico (STI)",
+    "nombre_busqueda": "recuperar saldo técnico STI",
+    "resumen": "Permite recuperar la diferencia del saldo técnico del IVA en bienes de capital vendidos en Argentina. Es para productores locales de bienes de capital.",
+    "sinonimos": [
+      "devolución de saldo técnico",
+      "recuperar saldo técnico"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Economía",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Productores locales de bienes de capital."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener CUIT y clave fiscal nivel 3 o superior.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contar con Trámites a Distancia (TAD) asociado a ARCA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Los bienes fabricados deben estar clasificados en el listado oficial.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD con tu clave fiscal."
+      },
+      {
+        "texto": "Mirá el manual de procedimientos en TAD."
+      },
+      {
+        "texto": "Iniciá el trámite TAD Solicitud de Saldo Técnico IVA para Fabricantes de Bienes de Capital."
+      },
+      {
+        "texto": "Adjuntá el formulario de declaración de Saldo Técnico de IVA."
+      },
+      {
+        "texto": "Adjuntá el modelo de informe del ingeniero industrial."
+      },
+      {
+        "texto": "Adjuntá el modelo de informe del contador público con firma certificada."
+      },
+      {
+        "texto": "Adjuntá título de ingeniero interviniente o certificado de matrícula."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Mirá el manual de procedimientos en TAD antes de iniciar."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/acceder-al-regimen-de-devolucion-de-saldo-tecnico-sti",
+      "titulo": "Acceder al Régimen de Devolución de Saldo Técnico (STI) | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T02:52:28.992Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica la vigencia exacta del trámite, solo se mencionan decretos y resoluciones."
+  ]
+}

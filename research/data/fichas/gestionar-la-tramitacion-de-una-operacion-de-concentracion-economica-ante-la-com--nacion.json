@@ -1,0 +1,143 @@
+{
+  "tramite": {
+    "slug": "notificacion-operaciones-concentraciones-economicas",
+    "nombre": "Notificación de operaciones de concentraciones económicas",
+    "nombre_busqueda": "Aprobar operación de concentración económica",
+    "resumen": "Aprobá la unificación de empresas o la transferencia de negocios ante la Comisión Nacional de Defensa de la Competencia de forma gratuita y en línea.",
+    "sinonimos": [
+      "Aprobar concentración económica",
+      "Unificar empresas ante la CNDPC",
+      "Notificar operación de concentración"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Comisión Nacional de Defensa de la Competencia",
+    "sigla": "CNDPC",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona física o jurídica que necesite la aprobación de una operación de concentración económica.",
+      "Argentinos o extranjeros residentes en el país.",
+      "Mayores de 18 años.",
+      "Quienes cuenten con Trámites a Distancia (TAD) asociado a AFIP.",
+      "Quienes estén inscriptos en el Registro Único de la Matriz Productiva (RUMP).",
+      "Quienes tengan CUIT y clave fiscal nivel 2.",
+      "Quienes constituyan domicilio en el radio de la Ciudad Autónoma de Buenos Aires.",
+      "Quienes acrediten representación y/o personería."
+    ],
+    "requisitos": [
+      {
+        "texto": "Trámites a Distancia (TAD) asociado a AFIP",
+        "aclaracion": null
+      },
+      {
+        "texto": "Inscripción en el Registro Único de la Matriz Productiva (RUMP)",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUIT y clave fiscal nivel 2",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constitución de domicilio en el radio de la Ciudad Autónoma de Buenos Aires",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditar representación y/o personería",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario F0",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario F1",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario F2",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario F0+F1",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario F0+F1+F2",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación solicitada según el caso",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD con tu CUIT o como apoderado y clave fiscal."
+      },
+      {
+        "texto": "Buscá el trámite Notificación de Operaciones de concentraciones económicas."
+      },
+      {
+        "texto": "Descargá los formularios F0, F1, F2, F0+F1, F0+F1+F2 desde el botón Detalles del trámite de acuerdo al trámite que necesites realizar."
+      },
+      {
+        "texto": "Completá el formulario con los datos correspondientes."
+      },
+      {
+        "texto": "Adjuntá la documentación solicitada."
+      },
+      {
+        "texto": "Confirmá la iniciación del trámite generando el expediente correspondiente a la operación notificada."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La información necesaria para solicitarte o notificarte será mediante TAD a través de la solapa Notificaciones."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/gestionar-la-tramitacion-de-una-operacion-de-concentracion-economica-ante-la-comision",
+      "titulo": "Gestionar la tramitación de una operación de concentración económica ante la Comisión Nacional de Defensa de la Competencia | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T15:44:21.675Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T15:44:21.675Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/",
+      "titulo": "Inicio | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T15:44:21.675Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los plazos de notificación establecidos en el art. 9 de la Ley N° 27.442 y el Decreto reglamentario N° 480/2018, la Resolución N° 40/2001 de la Secretaría de Defensa de la Competencia y el Consumidor, la Resolución N° 208/2018 de la Secretaría de Comercio y la Resolución N° 903/2023 de la Secretaría de Comercio."
+  ]
+}

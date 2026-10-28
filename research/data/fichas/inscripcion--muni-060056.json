@@ -1,0 +1,109 @@
+{
+  "tramite": {
+    "slug": "ingresos-brutos-inscripcion",
+    "nombre": "Inscripción de Ingresos Brutos",
+    "nombre_busqueda": "Inscripción IIBB",
+    "resumen": "Trámite para la inscripción de contribuyentes en el impuesto sobre los Ingresos Brutos, administrado por el Municipio de Bahía Blanca para ingresos que no superen los $450.000.",
+    "sinonimos": [
+      "Alta de Ingresos Brutos",
+      "Inscripción IIBB"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Unipersonales",
+      "Sociedades de Hecho",
+      "SA, SRL, Cooperativas, otras",
+      "Empresas Constructoras",
+      "Cooperativas",
+      "UTE"
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario 444N, copia de la presentación en ARBA",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario 444I (anticipo de inicio de actividades), copia de la presentación en ARBA",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción AFIP",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento de Identidad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Impuesto o servicio correspondientes al domicilio fiscal, a nombre del titular (original y copia)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contrato Social SA: Documento de identidad del Presidente / SRL: Documento de Identidad del Socio Gerente autorizado a firmar",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar al sitio web oficial de ARBA."
+      },
+      {
+        "texto": "Gestionar en dicho sitio web el Alta de Ingresos Brutos (generación de formulario), siguiendo este instructivo."
+      },
+      {
+        "texto": "Confirmar/Validar la casilla de correo informada en ARBA al momento de generar el formulario."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentarse en la Municipalidad, Área de Ingresos Brutos, ingresando por Alsina 43, con toda la documentación requerida, para finalizar el trámite de inscripción."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Área de Ingresos Brutos",
+      "direccion": "Alsina 43",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/iibb/inscripcion/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/tramites/iibb/inscripcion/",
+      "titulo": "Inscripción | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T20:41:26.120Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Vigencia del trámite",
+    "Requisitos específicos para UTE"
+  ]
+}

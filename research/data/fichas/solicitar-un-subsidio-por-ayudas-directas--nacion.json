@@ -1,0 +1,127 @@
+{
+  "tramite": {
+    "slug": "solicitar-un-subsidio-por-ayudas-directas",
+    "nombre": "Solicitar un subsidio por ayudas directas",
+    "nombre_busqueda": "subsidio para medicamentos o insumos médicos",
+    "resumen": "Podés solicitar un subsidio para comprar medicamentos o insumos médicos si atravesás una situación de salud y estás en situación de vulnerabilidad social sin cobertura médica. El subsidio cubre hasta el 50% del salario mínimo, vital y móvil.",
+    "sinonimos": [
+      "ayuda directa para medicamentos",
+      "subsidio para insumos médicos"
+    ],
+    "temas": [
+      "prestaciones-medicas-e-incluir-salud"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección de Asistencia Directa por Situaciones Especiales",
+    "sigla": "DADSE",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que atraviesan situaciones de salud agudas o crónicas, están en situación de vulnerabilidad social y no tienen cobertura médica."
+    ],
+    "requisitos": [
+      {
+        "texto": "Prescripción médica actualizada con nombre y apellido completos, DNI, diagnóstico, nombre del medicamento por monodroga y asociado, gramaje, presentación, cantidad de envases para un mes de tratamiento, y sello y firma del médico especialista y de una institución pública.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Receta por duplicado o triplicado, según corresponda.",
+        "aclaracion": "Si solicitás psicofármacos."
+      },
+      {
+        "texto": "Breve resumen de historia clínica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Negativa municipal y de la región sanitaria correspondiente a tu domicilio.",
+        "aclaracion": "Si residís en una provincia."
+      },
+      {
+        "texto": "Negativa del hospital local o del CeSAC más cercano a tu domicilio.",
+        "aclaracion": "Si residís en CABA."
+      },
+      {
+        "texto": "Certificación negativa de ANSES del mes en curso.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación negativa de ANSES de la madre, el padre o el representante legal.",
+        "aclaracion": "Si la persona solicitante es menor de edad."
+      },
+      {
+        "texto": "DNI vigente de la persona solicitante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Carta de mandatario y DNI del mandatario.",
+        "aclaracion": "Si otra persona adulta autorizada por la titular del trámite lo realiza."
+      },
+      {
+        "texto": "Acreditación del vínculo mediante el dorso del DNI, partida de nacimiento o documento que acredite que sos tutor, tutora o apoderado legal.",
+        "aclaracion": "Si la persona solicitante es menor de 18 años."
+      },
+      {
+        "texto": "Partida de nacimiento u otro documento que acredite que sos tutor, tutora o apoderado legal.",
+        "aclaracion": "Si la persona adulta solicitante no puede firmar."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate con la documentación completa en original y fotocopias legibles, sin tachaduras ni enmiendas, en la Dirección de Asistencia Directa por Situaciones Especiales."
+      },
+      {
+        "texto": "Esperá a que el equipo analice tu situación y te comunique los pasos a seguir."
+      },
+      {
+        "texto": "Comunicate al 0-800-333-2645 para hacer consultas o dar seguimiento."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": true,
+      "monto_centavos": null,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-un-subsidio-por-ayudas-directas"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Asistencia Directa por Situaciones Especiales (DADSE)",
+      "direccion": "Av. Rivadavia 870 - PBº",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-un-subsidio-por-ayudas-directas"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-un-subsidio-por-ayudas-directas",
+      "titulo": "Solicitar un subsidio por ayudas directas | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T16:25:25.727Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se indica un plazo para recibir una respuesta o el subsidio.",
+    "No se informa si hace falta sacar turno."
+  ]
+}

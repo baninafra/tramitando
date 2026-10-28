@@ -1,0 +1,59 @@
+{
+  "tramite": {
+    "slug": "mesa-de-entradas-tramite-principal",
+    "nombre": "Iniciar un trámite en Mesa de Entradas",
+    "nombre_busqueda": "mesa de entradas de Junín",
+    "resumen": "Iniciá trámites municipales en Mesa de Entradas. El expediente recibe un número y se gira a la secretaría correspondiente para que puedas hacer el seguimiento.",
+    "sinonimos": [
+      "inicio de expedientes municipales"
+    ],
+    "temas": [
+      "mesa-de-entradas-y-expedientes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060413",
+  "organismo": {
+    "nombre": "Gobierno de Junín",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Vecinos y contribuyentes del distrito pueden iniciar trámites."
+    ],
+    "requisitos": [
+      {
+        "texto": "Indicá el tema del trámite que querés iniciar.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Guardá el número de expediente para hacer el seguimiento del trámite."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.junin.gob.ar/content/mesa-de-entradas-tramite-principal",
+      "titulo": "Mesa de Entradas - Trámite Principal | Gobierno de Junín",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T13:56:57.875Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se detallan los requisitos para iniciar cada tipo de trámite.",
+    "No se indica el procedimiento, la dirección, los horarios ni si necesitás turno."
+  ]
+}

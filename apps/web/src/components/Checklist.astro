@@ -1,0 +1,76 @@
+---
+// "Qué necesitás": lista que se tilda. Lo tildado queda guardado solo en el navegador.
+import type { ItemRequisito } from '../lib/data';
+
+interface Props {
+  items: ItemRequisito[];
+  /** Identificador estable de la variante, para la clave de localStorage. */
+  clave: string;
+}
+const { items, clave } = Astro.props;
+---
+<div class="checklist" data-checklist={clave}>
+  <ul>
+    {items.map((item) => (
+      <li>
+        <label>
+          <input type="checkbox" name={item.id} value="1" />
+          <span>
+            {item.texto}
+            {item.aclaracion && <small>{item.aclaracion}</small>}
+          </span>
+        </label>
+      </li>
+    ))}
+  </ul>
+  <p class="visualmente-oculto" aria-live="polite" data-progreso></p>
+</div>
+
+<script>
+  document.querySelectorAll<HTMLElement>('[data-checklist]').forEach((lista) => {
+    const clave = `tramitando:checklist:${lista.dataset.checklist}`;
+    const casillas = [...lista.querySelectorAll<HTMLInputElement>('input[type="checkbox"]')];
+    const progreso = lista.querySelector<HTMLElement>('[data-progreso]')!;
+
+    let marcadas: string[] = [];
+    try { marcadas = JSON.parse(localStorage.getItem(clave) ?? '[]'); } catch { /* sin almacenamiento */ }
+    casillas.forEach((c) => (c.checked = marcadas.includes(c.name)));
+
+    // Sin texto de ayuda visible: solo se anuncia a lectores de pantalla cuando cambia.
+    const actualizar = (anunciar: boolean) => {
+      const listas = casillas.filter((c) => c.checked);
+      if (anunciar) progreso.textContent = listas.length === casillas.length ? 'Tenés todo' : `Tenés ${listas.length} de ${casillas.length}`;
+      try {
+        if (listas.length) localStorage.setItem(clave, JSON.stringify(listas.map((c) => c.name)));
+        else localStorage.removeItem(clave);
+      } catch { /* sin almacenamiento */ }
+    };
+    casillas.forEach((c) => c.addEventListener('change', () => actualizar(true)));
+    actualizar(false);
+  });
+</script>
+
+<style>
+  ul { list-style: none; padding: 0; display: grid; gap: var(--espacio-1); }
+  label {
+    display: grid; grid-template-columns: 22px 1fr; gap: var(--espacio-3); align-items: start;
+    min-height: 44px; padding-block: var(--espacio-2); cursor: pointer;
+  }
+  input {
+    appearance: none; margin: 2px 0 0; width: 22px; height: 22px;
+    border: 1.5px solid var(--borde-fuerte); border-radius: var(--radio-chico);
+    background: var(--fondo); display: grid; place-content: center; cursor: pointer;
+  }
+  input:checked { background: var(--accion); border-color: var(--accion); }
+  input:checked::after {
+    content: ''; width: 10px; height: 6px;
+    border: solid var(--on-accion); border-width: 0 0 2px 2px;
+    transform: translateY(-1px) rotate(-45deg);
+  }
+  small { display: block; font: var(--t-cuerpo-chico); color: var(--tinta-2); }
+  .progreso { margin-top: var(--espacio-3); font: var(--t-nota); color: var(--tinta-suave); }
+  @media print {
+    input { border-color: #000; background: #fff !important; }
+    input:checked::after { display: none; }
+  }
+</style>

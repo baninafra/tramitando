@@ -1,0 +1,95 @@
+{
+  "tramite": {
+    "slug": "inscripcion-plan-piloto-certificacion-fitosanitaria-semilla",
+    "nombre": "Inscripción en el plan piloto de certificación fitosanitaria para la exportación de semilla",
+    "nombre_busqueda": "Inscripción plan piloto certificación fitosanitaria semilla",
+    "resumen": "Trámite voluntario y gratuito para exportadores de semilla de maíz (Zea mays) con destino propagación y propósito experimental. Requiere completar una solicitud en TAD con anexos específicos 30 días antes de la siembra.",
+    "sinonimos": [],
+    "temas": [
+      "produccion-rural"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Exportadores de semilla de maíz (Zea mays) con destino propagación y propósito experimental."
+    ],
+    "requisitos": [
+      {
+        "texto": "Cumplimiento del Plan Piloto de Certificación Fitosanitaria (PPCF) y el anexo de la plaga Pantoea stewartii.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración de domicilio electrónico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Completar la Solicitud de Inscripción en la página de Trámites a Distancia (TAD).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Adjuntar los Anexos ii, iii, iv y V correspondientes.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá la solicitud de adhesión en la página de trámites a distancia TAD."
+      },
+      {
+        "texto": "Completá los anexos ii, iii, iv y V y adjuntalos al trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "30 días antes de la siembra del material.",
+    "consejos": [
+      "La inscripción se realiza 30 días antes de la fecha de siembra.",
+      "Se debe completar una solicitud de inscripción TAD por cada establecimiento que desee inscribir en el plan.",
+      "La información de la inscripción será evaluada por el Senasa, comunicándose la aceptación o solicitando información complementaria."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Comercio Exterior Vegetal",
+      "direccion": "Av. Paseo Colón N° 367, Piso 6° contrafrente, C1063ACD, CABA.",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-en-el-plan-piloto-de-certificacion-fitosanitaria-para-la-exportacion-de-semilla"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribir-en-el-plan-piloto-de-certificacion-fitosanitaria-para-la-exportacion-de-semilla",
+      "titulo": "Inscribir en el plan piloto de certificación fitosanitaria para la exportación de semilla experimental de maíz | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T17:00:10.440Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T17:00:10.440Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto menciona que se debe abonar un arancel, pero no especifica el monto exacto ni la fecha de vigencia de dicho arancel."
+  ]
+}

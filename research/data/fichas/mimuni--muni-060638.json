@@ -1,0 +1,71 @@
+{
+  "tramite": {
+    "slug": "turnos-salud",
+    "nombre": "Turnos Salud",
+    "nombre_busqueda": "Turnos salud",
+    "resumen": "Sistema para agendar citas en centros de salud y obtener información sobre servicios disponibles.",
+    "sinonimos": [
+      "Citas salud",
+      "Agendar cita salud"
+    ],
+    "temas": [
+      "centros-de-salud-y-turnos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060638",
+  "organismo": {
+    "nombre": "Municipalidad de Vicente López",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en agendar un turno o consultar servicios."
+    ],
+    "requisitos": [
+      {
+        "texto": "Datos personales (nombre, apellido, DNI, domicilio, teléfono).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio web de Turnos Mi Muni."
+      },
+      {
+        "texto": "Seleccioná el tipo de servicio que necesitás."
+      },
+      {
+        "texto": "Completá los datos de tu solicitud."
+      },
+      {
+        "texto": "Confirmá tu turno y guardá el comprobante."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://pilar.gov.ar/mimuni/",
+      "titulo": "Turnos Mi Muni",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T16:20:48.974Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere verificar si se necesita turno presencial para ciertos servicios específicos.",
+    "Se requiere confirmar si hay costos asociados a la consulta o agendamiento."
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "tramite": {
+    "slug": "certificado-unico-de-discapacidad-discapacidad-visceral",
+    "nombre": "Certificado Único de Discapacidad - Discapacidad Visceral",
+    "nombre_busqueda": "CUD visceral",
+    "resumen": "Trámite para personas con discapacidad de deficiencia física de origen visceral (renal, cardiovascular, respiratoria, hepática o digestiva). Requiere documentación médica especializada y presentación presencial.",
+    "sinonimos": [
+      "CUD visceral",
+      "Certificado discapacidad visceral",
+      "CUD origen visceral"
+    ],
+    "temas": [
+      "discapacidad-y-accesibilidad",
+      "certificado-unico-de-discapacidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas con discapacidad de deficiencia física de origen visceral."
+    ],
+    "requisitos": [
+      {
+        "texto": "Original y fotocopia del DNI con domicilio en Bahía Blanca.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Original y fotocopia del DNI, certificado o acta de nacimiento.",
+        "aclaracion": "Si sos menor de 18 años."
+      },
+      {
+        "texto": "Fotocopia del DNI del padre, madre, tutor o curador.",
+        "aclaracion": "Si sos menor de 18 años."
+      },
+      {
+        "texto": "Fotocopia de la resolución judicial.",
+        "aclaracion": "Si sos menor de 18 años y tenés curatela o tutela."
+      },
+      {
+        "texto": "Planilla de solicitud de CUD.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del carnet de Obra Social.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planilla según patología correspondiente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado médico del especialista donde conste el diagnóstico, el estado actual y la secuela que presenta.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estudios complementarios según patología.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Descargá y completá la planilla de solicitud de CUD y formularios según corresponda el tipo de discapacidad."
+      },
+      {
+        "texto": "Presentate personalmente en la oficina de Certificación de Discapacidad: Alsina 335 de lunes a viernes de 8:00 a 13:00 horas."
+      },
+      {
+        "texto": "Entregá toda la documentación requerida para que se verifique si es la correcta."
+      },
+      {
+        "texto": "Concurrí a la fecha y horario indicado para la evaluación en la Junta Evaluadora Interdisciplinaria."
+      },
+      {
+        "texto": "Retirá el CUD o la denegatoria desde la oficina de Certificación de Discapacidad."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Discapacidad",
+      "direccion": "Alsina 335",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/cud/visceral/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/tramites/cud/visceral/",
+      "titulo": "Discapacidad Visceral | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T03:01:40.027Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el monto del trámite.",
+    "No se especifica el plazo de espera para obtener el CUD."
+  ]
+}

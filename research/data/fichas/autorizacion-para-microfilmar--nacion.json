@@ -1,0 +1,79 @@
+{
+  "tramite": {
+    "slug": "autorizacion-para-microfilmar",
+    "nombre": "Autorización para microfilmar",
+    "nombre_busqueda": "Autorización para microfilmar",
+    "resumen": "Trámite para que establecimientos farmacéuticos habilitados en CABA soliciten autorización para microfilmar recetas. Es gratuito y se realiza en línea.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Director Médico o Apoderado (con firma conjunta del Director Médico)"
+    ],
+    "requisitos": [
+      {
+        "texto": "Completar formulario de solicitud online en TAD",
+        "aclaracion": null
+      },
+      {
+        "texto": "Disposición de Habilitación del Establecimiento",
+        "aclaracion": null
+      },
+      {
+        "texto": "Disposición de alta del Director Técnico actual",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota en puño y letra indicando que el trámite es no arancelado de acuerdo a la Resolución Ministerial N° 1938/2025",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave fiscal nivel 2 o superior de la AFIP o Apoderamiento en trámites a distancia para realizar el registro",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al trámite Autorizar microfilmación con tu número de CUIT y clave fiscal"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Para hacer el Trámite a Distancia (TAD) se recomienda ingresar a la página desde una CPU a través del Mozilla Firefox o el Google Chrome, no mediante celulares u otros dispositivos móviles porque se han detectado inconvenientes"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/autorizacion-para-microfilmar",
+      "titulo": "Autorización para microfilmar | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T15:13:52.105Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de atención al público",
+    "Horarios de atención",
+    "Vigencia del trámite"
+  ]
+}

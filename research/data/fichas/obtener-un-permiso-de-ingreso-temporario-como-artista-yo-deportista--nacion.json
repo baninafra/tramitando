@@ -1,0 +1,105 @@
+{
+  "tramite": {
+    "slug": "permiso-de-ingreso-temporario-artistas-deportistas",
+    "nombre": "Permiso de ingreso temporario como artista o deportista",
+    "nombre_busqueda": "Permiso de ingreso temporario artista deportista",
+    "resumen": "Permiso para artistas o deportistas contratados por personas físicas o jurídicas que desarrollan actividades en el país. Requiere constancia de inscripción en Re.N.U.R.E., poder de apoderado, DNI, pasaporte y documentación detallada de la actividad.",
+    "sinonimos": [
+      "Permiso de ingreso temporario deportista",
+      "Permiso de ingreso temporario artista"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Migraciones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Artistas o deportistas contratados en razón de su especialidad por personas físicas o jurídicas que desarrollan actividades en el país."
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia de inscripción en el Re.N.U.R.E. (original y copia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poder otorgado por el Requirente, con facultades suficientes para actuar ante la DNM (original y copia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI vigente del apoderado (original y copia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de solicitud detallando los motivos de la petición, conteniendo los siguientes datos del ingresante: Nombres y Apellidos, Fecha de Nacimiento, Número de pasaporte, País de nacimiento, Nacionalidad, Estado civil, Profesión, Nivel de estudios cursados, País y ciudad donde reside, Plazo de perman…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia completa y actualizada del pasaporte válido y vigente del ingresante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Se acreditará el carácter de deportista/artista mediante la agregación de carta de presentación, referencias o certificaciones emanadas de autoridades o asociaciones deportivas/culturales o artísticas que revistan esas características, constancias de cursos, estudios, presentaciones o referencias d…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contrato de trabajo ofrecido, suscripto únicamente por el empleador ante escribano público, con cláusulas que suspendan su inicio hasta tanto el ingresante se encuentre migratoriamente habilitado para trabajar, y también deberá constar en el mismo el Convenio Colectivo de Trabajo aplicable.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la nota de solicitud con documentación correcta y completa en la Dirección Nacional de Migraciones (Av. Antártida Argentina 1355, CABA) o en las Delegaciones de todo el país."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://www.argentina.gob.ar/turnos",
+    "plazo": null,
+    "consejos": [
+      "Durante el período de supervisión de la solicitud presentada, podrás seguir el estado de tu trámite.",
+      "Una vez resuelto el trámite, debés presentarte en donde hayas iniciado la solicitud a los fines de notificarte del otorgamiento del mismo, y poder informarle al ingresante que puede presentarse ante el Consulado Argentino que le corresponda con el fin de obtener su visa."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Migraciones",
+      "direccion": "Av. Antártida Argentina 1355, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/obtener-un-permiso-de-ingreso-temporario-como-artista-yo-deportista"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-un-permiso-de-ingreso-temporario-como-artista-yo-deportista",
+      "titulo": "Obtener un Permiso de Ingreso Temporario como artista y/o deportista | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T06:57:29.383Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T06:57:29.383Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto menciona 'Ver cuadro tasas migratorias' pero no detalla el monto exacto en centavos.",
+    "El texto menciona una vigencia de 3 años para la residencia temporaria, pero no especifica un plazo de resolución del trámite en días o meses."
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "tramite": {
+    "slug": "certificado-de-localizacion-y-radicacion",
+    "nombre": "Certificado de localización y radicación",
+    "nombre_busqueda": "Certificado de localización y radicación",
+    "resumen": "Trámite municipal que certifica la ubicación y el domicilio fiscal o legal de un inmueble o contribuyente dentro de la jurisdicción.",
+    "sinonimos": [],
+    "temas": [
+      "catastro-e-inmuebles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060028",
+  "organismo": {
+    "nombre": "Municipalidad de Almirante Brown",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes necesiten certificar la ubicación y el domicilio fiscal o legal de un inmueble o contribuyente."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario completo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano de obra o croquis",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Solicitá turno."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Municipalidad de Almirante Brown",
+      "direccion": "Rosales 1312",
+      "localidad": "Adrogué",
+      "horario": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/certificado-de-localizacion-y-radicacion/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.brown.gob.ar/tramites/certificado-de-localizacion-y-radicacion/",
+      "titulo": "Certificado de Localización y Radicación",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T07:38:36.851Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto de la tasa no se especifica en el texto.",
+    "El plazo de entrega no se especifica en el texto.",
+    "La modalidad online no se especifica en el texto."
+  ]
+}

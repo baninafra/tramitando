@@ -1,0 +1,93 @@
+{
+  "tramite": {
+    "slug": "creditos-productores-alimentos-frescos-bna",
+    "nombre": "Créditos para productores de alimentos frescos del BNA",
+    "nombre_busqueda": "Créditos BNA productores alimentos frescos",
+    "resumen": "Crédito para MIPYMES agrícolas que cultivan vegetales, hortalizas, frutas o producen huevos, inscriptas en el RENSPA. Financia inversiones o capital de trabajo con tasas fijas del 21% TNA.",
+    "sinonimos": [
+      "Crédito BNA agricultores",
+      "Financiamiento BNA alimentos frescos"
+    ],
+    "temas": [
+      "produccion-rural",
+      "apoyo-a-productores"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Banco de la Nación Argentina",
+    "sigla": "BNA",
+    "web": "https://www.argentina.gob.ar/servicio/creditos-para-productores-de-alimentos-frescos-del-banco-de-la-nacion-argentina-bna"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Micro, Pequeñas y Medianas Empresas con certificado MiPyME vigente.",
+      "Inscriptas en el Registro Nacional Sanitario de Productores Agropecuarios (RENSPA).",
+      "Cuya actividad se encuentre informada en los Claes definidos: 11310, 11321, 11329, 11331, 11341, 11342, 12200, 12311, 12410, 14820."
+    ],
+    "requisitos": [
+      {
+        "texto": "Certificado de elegibilidad emitido por el Registro Nacional Sanitario de Productores Agropecuarios (RENSPA).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado MiPyME vigente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Para montos de hasta $882.000, solicitá tu aval de Garantizar digital."
+      },
+      {
+        "texto": "Para montos superiores a $882.000, completá tu solicitud."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Inversiones: mínimo 48 meses, máximo 60 meses, incluido el período de gracia de hasta 6 meses.",
+      "Capital de Trabajo: hasta 36 meses sin período de gracia."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 21000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/creditos-para-productores-de-alimentos-frescos-del-banco-de-la-nacion-argentina-bna"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/creditos-para-productores-de-alimentos-frescos-del-banco-de-la-nacion-argentina-bna",
+      "titulo": "Créditos para Productores de Alimentos Frescos del Banco de la Nación Argentina (BNA) | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T05:23:20.062Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T05:23:20.062Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La información contenida en la presente página puede estar sujeta a modificaciones."
+  ]
+}

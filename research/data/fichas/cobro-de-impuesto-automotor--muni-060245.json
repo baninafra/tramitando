@@ -1,0 +1,81 @@
+{
+  "tramite": {
+    "slug": "cobro-de-impuesto-automotor",
+    "nombre": "Cobro de impuesto automotor",
+    "nombre_busqueda": "Cobro impuesto automotor",
+    "resumen": "Es el cobro del Impuesto Automotor de los vehículos municipales. El trámite es gratuito, solo se abona el importe del impuesto.",
+    "sinonimos": [],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "patente-automotor-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060245",
+  "organismo": {
+    "nombre": "Municipalidad de Ensenada",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier ciudadano"
+    ],
+    "requisitos": [
+      {
+        "texto": "Recibo emitido",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el recibo emitido en el mostrador de Catastro."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Catastro",
+      "direccion": "San Martín y Pte. Perón",
+      "localidad": "San Martín y Pte. Perón",
+      "horario": null,
+      "fuente_url": "https://www.ensenada.gov.ar/cobro-de-impuesto-automotor/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.ensenada.gov.ar/cobro-de-impuesto-automotor/",
+      "titulo": "COBRO DE IMPUESTO AUTOMOTOR – Municipalidad de Ensenada",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T23:21:56.813Z"
+    },
+    {
+      "url": "http://pagos.ensenada.gov.ar/nuevo_index.php",
+      "titulo": "Tasas Municipales - Municipalidad de Ensenada",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T23:21:56.813Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horario de atención: De lunes a viernes de 7:30 a 14:30 horas.",
+    "Vigencia del trámite: No se especifica fecha exacta.",
+    "Requisitos adicionales: No se especifican otros requisitos."
+  ]
+}

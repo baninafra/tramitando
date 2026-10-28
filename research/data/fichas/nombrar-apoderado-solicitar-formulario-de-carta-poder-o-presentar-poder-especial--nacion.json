@@ -1,0 +1,124 @@
+{
+  "tramite": {
+    "slug": "nombrar-apoderado-solicitar-formulario-de-carta-poder-o-presentar-poder-especial",
+    "nombre": "Nombrar apoderado",
+    "nombre_busqueda": "nombrar apoderado solicitar formulario carta poder",
+    "resumen": "El beneficiario de la Caja puede designar un representante para tramitar y percibir sus haberes. Se requiere un formulario de Carta Poder o un Poder Especial ante escribano, junto con documentos de identidad y constancias de CDI, CUIL o CUIT.",
+    "sinonimos": [
+      "designar representante",
+      "otorgar poder especial",
+      "solicitar formulario carta poder"
+    ],
+    "temas": [
+      "familia-y-pareja"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Caja de Retiros, Jubilaciones y Pensiones de la Policía Federal",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El titular del beneficio",
+      "Su representante (apoderado, tutor o sistema de apoyo)"
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de Carta Poder suscripto en las condiciones citadas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento Nacional de Identidad del titular y del apoderado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de CDI, CUIL o CUIT del titular y apoderado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de tutoría: testimonio extendido por autoridad judicial con autorización judicial expresa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de poderes especiales: poder otorgado ante Escribano Público legalizado por el Colegio de Escribanos correspondiente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de apoderado con domicilio, código postal, teléfono y correo electrónico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para poder sin presencia del titular: copia certificada del DNI y constancia de CDI-CUIL o CUIT.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de carta poder firmado por el titular y certificado por autoridad competente con aclaración de nombre, apellido, documento, fecha, membrete, firma y aclaración del funcionario.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el titular no puede firmar: impresión dígito pulgar derecha o izquierda con nombre y apellido y documento, más certificado médico original de validez una semana.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si se designa al cónyuge: documento de identidad y acta o certificado de matrimonio (fotocopia certificada).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentarse con la documentación solicitada en la Caja."
+      },
+      {
+        "texto": "Completar el formulario de Carta Poder."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Caja de Retiros, Jubilaciones y Pensiones de la Policía Federal",
+      "direccion": "Sarmiento 1624",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/nombrar-apoderado-solicitar-formulario-de-carta-poder-o-presentar-poder-especial"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/nombrar-apoderado-solicitar-formulario-de-carta-poder-o-presentar-poder-especial",
+      "titulo": "Nombrar apoderado: Solicitar formulario de Carta Poder o presentar Poder Especial | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T06:09:28.971Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T06:09:28.971Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La vigencia de la Carta Poder y el Poder Especial depende de los plazos que la CRJPPF establezca.",
+    "La renovación de la autorización judicial en casos de tutoría debe realizarse anualmente, salvo casos particulares con plazos menores o mayores.",
+    "Si el formulario de Carta Poder se encuentra raspado o tachado, debe estar salvado por la autoridad emisora."
+  ]
+}

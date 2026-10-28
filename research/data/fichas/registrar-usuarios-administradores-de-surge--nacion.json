@@ -1,0 +1,107 @@
+{
+  "tramite": {
+    "slug": "registrar-usuarios-administradores-de-surge",
+    "nombre": "Registrar usuarios administradores de SURGE",
+    "nombre_busqueda": "Registrar usuarios administradores de SURGE",
+    "resumen": "Este trámite permite registrar o administrar usuarios dentro del Sistema Único de Reintegros por Gestión de Enfermedades (SURGE) para que las Obras Sociales interactúen con los sistemas de la Superintendencia de Servicios de Salud.",
+    "sinonimos": [],
+    "temas": [
+      "discapacidad-y-accesibilidad",
+      "cuidados-domiciliarios-y-salud-mental"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Servicios de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A personas jurídicas de las Obras Sociales Nacionales registradas en la Superintendencia de Servicios de Salud."
+    ],
+    "requisitos": [
+      {
+        "texto": "Datos de la Entidad (RNOS, código de la entidad, Denominación, Cuit)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tipo de usuario a solicitar - rnos (sss) - rnos (ftp) - Nuevo usuario",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tipo de tramite - Nuevo Usuario - Blanqueo de clave - Modificación de datos",
+        "aclaracion": null
+      },
+      {
+        "texto": "Detalle del perfil solicitado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos del Usuario Solicitante - Nombre y Apellido",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tipo de Documento y Numero de Documento",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Correo electrónico",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cargo",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al trámite gestión de personas usuarias mediante la plataforma de Trámites a Distancia con tu usuario apoderado en AFIP de la razón social a la que representás."
+      },
+      {
+        "texto": "Cargá la documentación solicitada."
+      },
+      {
+        "texto": "Finalizá el trámite apretando el botón de Confirmar trámite."
+      },
+      {
+        "texto": "Para ver el estado de su trámite, podés hacerlo desde la pestaña de Mis Trámites de la plataforma Trámites a Distancia (TAD)."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Para registrar o administrar los usuarios dentro del Sistema SURGE, primero debés gestionar la habilitación de las personas usuarias mediante TAD y obtener la confirmación de los usuarios, siguiendo los pasos del Instructivo de Gestión de Personas Usuarias.",
+      "Una vez finalizado el registro/confirmación de usuario por el tramite gestion de personas usuarias, debés ingresar al siguiente link con usuario de afip (cuit/cuil Y CLAVE).",
+      "Ingresá al portal y presioná el boton SURGE.",
+      "Para agregar, editar o eliminar usuarios y permisos, consultá el Manual del Usuario SURGE."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/registrar-usuarios-administradores-de-surge",
+      "titulo": "Registrar usuarios administradores de SURGE | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T03:41:24.625Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia exacta no está especificada en el texto.",
+    "No se indica si el trámite requiere turno."
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "tramite": {
+    "slug": "solicitar-derivaciones-sanitarias-pami-inssjp",
+    "nombre": "Solicitar derivaciones sanitarias pami inssjp",
+    "nombre_busqueda": "Solicitar derivaciones sanitarias pami inssjp",
+    "resumen": "Si necesitás atenderte en otra jurisdicción, podés solicitar la derivación sanitaria a otras jurisdicciones.",
+    "sinonimos": [],
+    "temas": [
+      "salud-y-prevencion",
+      "cuidados-domiciliarios-y-salud-mental"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "PAMI",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Toda persona afiliada que requiera atención médica especializada, por motivos diagnósticos o terapéuticos, a la que no pueda acceder en el ámbito de la jurisdicción donde reside."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento de identidad de la persona afiliada",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento Nacional de Identidad de su acompañante",
+        "aclaracion": null
+      },
+      {
+        "texto": "Credencial de afiliación",
+        "aclaracion": null
+      },
+      {
+        "texto": "Orden de Prestación Electrónica originada en la UGL origen",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta compromiso para la derivación por razones de salud a CABA",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio web de Pami"
+      },
+      {
+        "texto": "Hacé clic en el botón Iniciar este trámite web"
+      },
+      {
+        "texto": "Completá los datos"
+      },
+      {
+        "texto": "Hacé clic en el botón Enviar formulario"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-derivaciones-sanitarias-pami-inssjp",
+      "titulo": "Solicitar derivaciones sanitarias a PAMI (INSSJP) | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T08:22:32.073Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T08:22:32.073Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si necesitás atenderte en otra jurisdicción, podés solicitar la derivación"
+  ]
+}

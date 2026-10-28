@@ -1,0 +1,70 @@
+{
+  "tramite": {
+    "slug": "registrar-usuario-portal-eiaf",
+    "nombre": "Registrar un usuario en el portal eIAF y la app eIAF",
+    "nombre_busqueda": "Registrar usuario portal eIAF",
+    "resumen": "Podés realizar trámites de manera virtual ingresando al SIC (Sistema Integrado de Consultas) o usando la app eIAF, si tenés cuenta en Mi Argentina y correo electrónico.",
+    "sinonimos": [],
+    "temas": [
+      "cuil-y-clave-de-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Al personal en actividad, retirados y pensionistas militares."
+    ],
+    "requisitos": [
+      {
+        "texto": "Una dirección de correo electrónico activa para poder recibir la contraseña temporal que te brindará el sistema.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Celular compatible con sistema operativo Android.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Seguí el paso a paso detallado en este instructivo."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/registrar-un-usuario-en-el-portal-eiaf-y-la-app-eiaf",
+      "titulo": "Registrar un usuario en el portal eIAF y la app eIAF | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T03:06:14.572Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/iaf",
+      "titulo": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T03:06:14.572Z"
+    }
+  ],
+  "sin_confirmar": [
+    "¿Cómo se saca el turno?"
+  ]
+}

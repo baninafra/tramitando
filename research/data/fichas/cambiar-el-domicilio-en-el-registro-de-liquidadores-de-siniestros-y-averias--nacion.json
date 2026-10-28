@@ -1,0 +1,71 @@
+{
+  "tramite": {
+    "slug": "cambiar-domicilio-registro-liquidadores-siniestros",
+    "nombre": "Cambiar el domicilio en el registro de liquidadores de siniestros y averías",
+    "nombre_busqueda": "cambiar domicilio liquidadores siniestros",
+    "resumen": "Si sos Liquidador de Siniestros y Averías podés solicitar el cambio de domicilio ante la Superintendencia de Seguros de la Nación (SSN) presentando el formulario o nota junto con la fotocopia del DNI.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Seguros de la Nación",
+    "sigla": "SSN",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Liquidadores de Siniestros y Averías"
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de cambio de domicilio completo o escribir una nota que informe el nuevo domicilio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI digital",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el formulario o nota junto con la fotocopia del DNI ante la SSN."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/cambiar-el-domicilio-en-el-registro-de-liquidadores-de-siniestros-y-averias",
+      "titulo": "Cambiar el domicilio en el registro de Liquidadores de Siniestros y Averías | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:40:41.917Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T04:40:41.917Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite no está indicada en el texto.",
+    "No se especifica si el trámite requiere turno ni la dirección de las oficinas."
+  ]
+}

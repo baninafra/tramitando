@@ -1,0 +1,127 @@
+{
+  "tramite": {
+    "slug": "solicitar-autorizacion-de-redestino-de-exportacion-de-establecimientos-de-productos-de",
+    "nombre": "Solicitar autorización de redestino de exportación de establecimientos de productos de origen animal",
+    "nombre_busqueda": "autorizacion redestino exportacion productos origen animal",
+    "resumen": "Declará tu domicilio electrónico en SIGTrámites y presentá la solicitud en SIGCER para que evalúen la documentación de mercadería retenida o rechazada.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Todo establecimiento elaborador de alimentos de origen animal, productos, subproductos y derivados (carnes, lácteos, apícolas, huevos, ovoproductos, productos de la caza, cueros, pieles y lanas)."
+    ],
+    "requisitos": [
+      {
+        "texto": "Registro y habilitación para tránsito federal emitido por Senasa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Los productos a exportar deben estar dentro de los rubros que el establecimiento tiene habilitado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Productos registrados por la Coordinación de Aprobación de Productos de Origen Animal (CAPA).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cumplimiento con el Plan de Control de Residuos e Higiene en Alimentos (Plan CREHA).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cumplir con los requisitos establecidos por el país de destino.",
+        "aclaracion": null
+      },
+      {
+        "texto": "No poseer deudas con Senasa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declarar domicilio electrónico mediante el sistema SIGTrámites.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal de ARCA al Sistema Integrado de Gestión de Certificación Sanitaria (SIGCER) para presentar la solicitud de autorización de exportación."
+      },
+      {
+        "texto": "Pagá el arancel correspondiente."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "20 días hábiles",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Inocuidad y Calidad Agroalimentaria",
+      "direccion": "Av. Paseo Colón N° 367, Piso 5° Contrafrente, C1063ACD, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-autorizacion-de-redestino-de-exportacion-de-establecimientos-de-productos-de"
+    },
+    {
+      "nombre": "Dirección de Inocuidad de Pesca y Acuicultura",
+      "direccion": "Av. Paseo Colón N° 367, Piso 5° Contrafrente, C1063ACD, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-autorizacion-de-redestino-de-exportacion-de-establecimientos-de-productos-de"
+    },
+    {
+      "nombre": "Coordinación General de Animales Terrestres",
+      "direccion": "Av. Paseo Colón N° 367, Piso 5° Contrafrente, C1063ACD, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-autorizacion-de-redestino-de-exportacion-de-establecimientos-de-productos-de"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-autorizacion-de-redestino-de-exportacion-de-establecimientos-de-productos-de",
+      "titulo": "Solicitar autorización de redestino de exportación de establecimientos de productos de origen animal | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T04:20:46.906Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T04:20:46.906Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T04:20:46.906Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no se especifica en el texto, consultá las Normativas relacionadas con los costos del trámite.",
+    "La fecha de vigencia exacta del trámite no se especifica en el texto, solo se menciona la normativa Circular Senasa N° 3852A."
+  ]
+}

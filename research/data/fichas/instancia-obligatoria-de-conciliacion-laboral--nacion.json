@@ -1,0 +1,117 @@
+{
+  "tramite": {
+    "slug": "instancia-obligatoria-de-conciliacion-laboral",
+    "nombre": "Instancia obligatoria de conciliación laboral",
+    "nombre_busqueda": "instancia obligatoria de conciliación laboral",
+    "resumen": "Es un trámite previo a la demanda judicial donde se resuelven conflictos laborales individuales o pluriindividuales. Es obligatorio para trabajadores y empleadores radicados en la Ciudad Autónoma de Buenos Aires.",
+    "sinonimos": [],
+    "temas": [
+      "conflictos-laborales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Servicio de Conciliación Laboral Obligatoria",
+    "sigla": "SECLO",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Trabajadores (o ex-trabajadores) y empleadores de empresas radicadas en la Ciudad Autónoma de Buenos Aires o con domicilio fiscal en esta ciudad.",
+      "En caso de fallecimiento, sus descendientes, cónyuges o ascendientes (derechohabientes)."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del o los requirente/s",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poder o Acta Certificada",
+        "aclaracion": null
+      },
+      {
+        "texto": "Minuta acta poder, expedida por la Cámara Nacional de Apelaciones del Trabajo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poder otorgado ante escribano público.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de autorización, si el apoderado envía a un tercero a presentar el trámite.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Inicia el trámite a través del Portal de Abogados."
+      },
+      {
+        "texto": "Seleccioná Inicio de Trámite/solicitud de Turno - Obligatoria."
+      },
+      {
+        "texto": "Cargá los datos de las partes junto con la documentación requerida para obtener el número de trámite."
+      },
+      {
+        "texto": "Consultá en la sección Novedades del Portal de Abogados la designación del Conciliador/a, fecha y hora de la Audiencia Virtual."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La primera audiencia se realizará dentro de los 10 días hábiles desde la presentación de la documentación ante el SECLO.",
+      "El SECLO notificará de manera electrónica la primera audiencia a las partes requeridas por medio fehaciente al Domicilio Fiscal Electrónico (e-ventanilla) constituido por los contribuyentes y/o responsables ante la Administración Federal de Ingreso Públicos (AFIP) y en el caso de no contar con N° d…",
+      "El tiempo total del trámite dependerá de la cantidad de audiencias y de la voluntad de las partes."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 11759000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/instancia-obligatoria-de-conciliacion-laboral"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 23518000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/instancia-obligatoria-de-conciliacion-laboral"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/instancia-obligatoria-de-conciliacion-laboral",
+      "titulo": "Instancia Obligatoria de Conciliación Laboral | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T05:32:18.685Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T05:32:18.685Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de las oficinas donde se realiza el trámite.",
+    "Si se puede realizar el trámite de forma presencial o solo online.",
+    "Si se requiere turno presencial o solo online."
+  ]
+}

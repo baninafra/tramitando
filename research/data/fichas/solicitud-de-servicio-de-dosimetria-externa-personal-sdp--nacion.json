@@ -1,0 +1,84 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-servicio-de-dosimetria-externa-personal-sdp",
+    "nombre": "Solicitud de servicio de dosimetría externa personal SDP",
+    "nombre_busqueda": "solicitud servicio dosimetria externa personal",
+    "resumen": "El Laboratorio de Monitoreo de la Radiación Externa de la Comisión Nacional de Energía Atómica brinda el servicio de dosimetría externa a trabajadores expuestos a radiaciones ionizantes mediante dosímetros termoluminiscentes.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Comisión Nacional de Energía Atómica",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Clínicas, centros de radiología, medicina nuclear, radioterapia y otras actividades en la que sea requisito el uso de dosímetros personales por parte de la Autoridad Regulatoria Nuclear (ARN) o de Ministerios de salud, como sectores de salud, farmacéutico, medicina, investigación, energético, defen…"
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia AFIP para la facturación",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá los formularios de solicitud."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Retirá los dosímetros a principio de mes en el Laboratorio Monitoreo de la Radiación Externa, ubicado en el Centro Atómico Constituyentes CAC - Av. Gral. Paz 1499 Villa Maipú, Buenos Aires."
+      },
+      {
+        "texto": "Devolvé los dosímetros a fin de mes."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Laboratorio Monitoreo de la Radiación Externa",
+      "direccion": "Centro Atómico Constituyentes CAC - Av. Gral. Paz 1499 Villa Maipú, Buenos Aires",
+      "localidad": "Villa Maipú",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitud-de-servicio-de-dosimetria-externa-personal-sdp"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitud-de-servicio-de-dosimetria-externa-personal-sdp",
+      "titulo": "Solicitud de Servicio de Dosimetría Externa Personal (SDP) | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T17:14:41.747Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El precio se cotiza según las cantidades, tipos de dosímetros y periodicidad de recambio.",
+    "El pago se realiza por transferencia bancaria a la Fundación José A. Balseiro.",
+    "Los dosímetros serán enviados el primer día hábil del mes y la demora en llegar dependerá del correo.",
+    "La devolución de los dosímetros puede realizarse presencial, o por correo, de igual manera que las dos opciones de para la recepción.",
+    "Los dosímetros deben ser usados en la instalación, siguiendo las indicaciones de buen uso de los mismos.",
+    "Los dosímetros deben ser devueltos una vez finalizado el período de uso hasta el día 10 de cada mes.",
+    "Luego de esta fecha, los dosímetros serán medidos e informados al mes siguiente.",
+    "Una vez finalizadas las mediciones te enviaremos el informe por correo electrónico."
+  ]
+}

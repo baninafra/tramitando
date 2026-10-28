@@ -1,0 +1,96 @@
+{
+  "tramite": {
+    "slug": "solicitar-licencia-de-marca-pais-para-entidad",
+    "nombre": "Solicitar licencia de Marca País para entidad",
+    "nombre_busqueda": "Licencia Marca País entidad",
+    "resumen": "Las entidades públicas o privadas con socios pueden gestionar esta licencia gratuita en línea para usar la identidad gráfica en su comunicación promocional.",
+    "sinonimos": [
+      "Licencia Marca País para entidades",
+      "Licencia Marca País para organizaciones"
+    ],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Entidades públicas o privadas que cuenten con socios."
+    ],
+    "requisitos": [
+      {
+        "texto": "Estatuto constitutivo de la persona jurídica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Última acta de designación de autoridades inscripta en el registro correspondiente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de CUIT de la entidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Toda la documentación debe estar en formato digital, preferiblemente pdf.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá con tu clave fiscal o cuenta de Mi Argentina a la plataforma Trámites a Distancia, trámite Solicitud de Licencia de Marca País."
+      },
+      {
+        "texto": "Verificá tus datos y continuá."
+      },
+      {
+        "texto": "Elegí la opción 'Entidades'."
+      },
+      {
+        "texto": "Informá el nombre de la entidad en 'Formulario de Solicitud' y elegí el tipo de licencia correspondiente."
+      },
+      {
+        "texto": "Subí la documentación y confirmá el trámite."
+      },
+      {
+        "texto": "A partir de que confirmás el trámite, dentro de los siguientes 60 días hábiles vas a recibir una notificación en TAD con el resultado de tu solicitud."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "60 días hábiles",
+    "consejos": [
+      "Durante el período de 60 días hábiles, revisá periódicamente las notificaciones de TAD, podemos enviarte un pedido de aclaración o rectificación de documentación.",
+      "Ante cualquier duda, consultá el reglamento de Marca País.",
+      "La vigencia es de 2 años desde que se aprobó la solicitud."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-licencia-de-marca-pais-para-entidad",
+      "titulo": "Solicitar licencia de Marca País para entidad | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T09:59:37.739Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia exacta no está especificada en el texto, solo se menciona que es de 2 años desde la aprobación.",
+    "El texto no detalla si existen plazos específicos para la presentación de aclaraciones o rectificaciones más allá del período general de 60 días hábiles."
+  ]
+}

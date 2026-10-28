@@ -1,0 +1,68 @@
+{
+  "tramite": {
+    "slug": "registro-deudores-solicitud-de-chequeras-para-saldar-deuda-de-tasas",
+    "nombre": "Registro deudores. Solicitud de chequeras para saldar deuda de tasas",
+    "nombre_busqueda": "Solicitud de chequeras para saldar deuda de tasas",
+    "resumen": "Trámite municipal para que los contribuyentes con deudas por tasas puedan solicitar chequeras de pago mediante un plan de pagos.",
+    "sinonimos": [],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "planes-de-pago-municipales",
+      "libre-deuda-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060028",
+  "organismo": {
+    "nombre": "Municipio de Almirante Brown",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Contribuyentes con deudas por tasas"
+    ],
+    "requisitos": [
+      {
+        "texto": "Presentar el número de partida y/o inscripción",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Depto Registro Deudores",
+      "direccion": "Rosales 1312",
+      "localidad": "Adrogué",
+      "horario": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/registro-deudores-solicitud-de-chequeras-para-saldar-deuda-de-tasas/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.brown.gob.ar/tramites/registro-deudores-solicitud-de-chequeras-para-saldar-deuda-de-tasas/",
+      "titulo": "Registro Deudores. Solicitud de Chequeras para Saldar Deuda de Tasas.",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T01:18:33.354Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere verificar si el trámite se puede realizar online o solo presencialmente.",
+    "Se requiere verificar si se necesita sacar turno.",
+    "Se requiere verificar si hay costos asociados al trámite.",
+    "Se requiere verificar si hay plazos establecidos para la solicitud.",
+    "Se requiere verificar si hay consejos adicionales sobre el trámite."
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "tramite": {
+    "slug": "generacion-y-pago-de-comprobantes-de-tasas-municipales",
+    "nombre": "Generación y Pago de Comprobantes de Tasas Municipales",
+    "nombre_busqueda": "Comprobante tasas inmuebles comercios rodados",
+    "resumen": "Generá el comprobante de tasas para inmuebles, comercios o rodados ingresando los datos correspondientes y pagá la cuota en los lugares habilitados.",
+    "sinonimos": [
+      "Comprobante de tasas",
+      "Pago tasas municipales",
+      "Generar comprobante rentas"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "tasa-inmobiliaria-y-servicios",
+      "tasa-de-comercio-e-industria",
+      "patente-automotor-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060224",
+  "organismo": {
+    "nombre": "Dirección de Rentas",
+    "sigla": null,
+    "web": "https://public.chivilcoy.gob.ar/rentas/comprobantes"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en generar el comprobante de tasas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Código de Inmueble",
+        "aclaracion": null
+      },
+      {
+        "texto": "Código de Comercio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Código de Rodado",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Seleccioná el tipo de comprobante: Inmueble, Comercio o Rodado."
+      },
+      {
+        "texto": "Ingresá el código correspondiente del recurso imponible."
+      },
+      {
+        "texto": "Seleccioná las cuotas que querés incluír en el comprobante."
+      },
+      {
+        "texto": "Generá el comprobante con los datos ingresados."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Municipalidad de Chivilcoy",
+      "direccion": "25 de mayo nº 35",
+      "localidad": "Chivilcoy",
+      "horario": null,
+      "fuente_url": "https://public.chivilcoy.gob.ar/rentas/comprobantes"
+    },
+    {
+      "nombre": "Banco Provincia",
+      "direccion": "Carlos Pellegrini nº 52",
+      "localidad": "Chivilcoy",
+      "horario": null,
+      "fuente_url": "https://public.chivilcoy.gob.ar/rentas/comprobantes"
+    },
+    {
+      "nombre": "Provincia Pagos (Bapro)",
+      "direccion": "Av. Ceballos nº 6",
+      "localidad": "Chivilcoy",
+      "horario": null,
+      "fuente_url": "https://public.chivilcoy.gob.ar/rentas/comprobantes"
+    },
+    {
+      "nombre": "Banco Credicoop",
+      "direccion": "Av. Sarmiento nº 102",
+      "localidad": "Chivilcoy",
+      "horario": null,
+      "fuente_url": "https://public.chivilcoy.gob.ar/rentas/comprobantes"
+    },
+    {
+      "nombre": "Banco Patagonia",
+      "direccion": "Carlos Pellegrini nº 216",
+      "localidad": "Chivilcoy",
+      "horario": null,
+      "fuente_url": "https://public.chivilcoy.gob.ar/rentas/comprobantes"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://public.chivilcoy.gob.ar/rentas/comprobantes",
+      "titulo": "Dirección de Rentas | Municipalidad de Chivilcoy",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T23:15:17.701Z"
+    },
+    {
+      "url": "https://public.chivilcoy.gob.ar/rentas/pagos",
+      "titulo": "Dirección de Rentas | Municipalidad de Chivilcoy",
+      "bloques": [
+        "quien",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T23:15:17.701Z"
+    },
+    {
+      "url": "https://chivilcoy.gov.ar/",
+      "titulo": "Municipalidad de Chivilcoy – Sitio web oficial",
+      "bloques": [
+        "quien",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T23:15:17.701Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los montos exactos de las tasas no se especifican en el texto.",
+    "No se indica el plazo de vencimiento exacto para cada cuota específica, solo se muestra el calendario general."
+  ]
+}

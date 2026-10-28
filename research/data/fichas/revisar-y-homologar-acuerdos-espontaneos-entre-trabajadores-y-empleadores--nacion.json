@@ -1,0 +1,138 @@
+{
+  "tramite": {
+    "slug": "revisar-y-homologar-acuerdos-espontaneos",
+    "nombre": "Revisar y homologar acuerdos espontáneos",
+    "nombre_busqueda": "revisar y homologar acuerdos espontaneos",
+    "resumen": "El SECLO analiza si el acuerdo entre trabajador y empleador cumple con los requisitos legales. Una vez homologado, el acuerdo tiene fuerza de cosa juzgada administrativa y permite al trabajador percibir el dinero en forma rápida.",
+    "sinonimos": [
+      "ratificación de acuerdos espontáneos",
+      "homologación de convenios espontáneos"
+    ],
+    "temas": [
+      "conflictos-laborales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Servicio de Conciliación Laboral Obligatoria",
+    "sigla": "SECLO",
+    "web": "https://www.argentina.gob.ar/servicio/revisar-y-homologar-acuerdos-espontaneos-entre-trabajadores-y-empleadores"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Trabajadores (o ex-trabajadores) y empleadores de empresas radicadas en la Ciudad Autónoma de Buenos Aires o con domicilio fiscal en esta ciudad.",
+      "En caso de fallecimiento, sus descendientes, cónyuges o ascendientes (derechohabientes)."
+    ],
+    "requisitos": [
+      {
+        "texto": "Acuerdo firmado y aclarado por las partes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI físico o digital o en su defecto Pasaporte Nacional vigente de todas las partes intervinientes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Credencial del Colegio Público de Abogados de Capital Federal vigente o en su defecto Certificado de matrícula vigente habilitado por el CPACF.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditación de personería (empleador).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de Pago Electrónico (VEP).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el objeto es Período de Prueba: Acompañar constancia del alta y baja de AFIP.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el objeto es Salario por Suspensión: Acompañar la declaración jurada del Trabajador fuera de Convenio con firma y aclaración del empleador.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el objeto es Renuncia: Acompañar telegrama de renuncia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el objeto es Fallecimiento del Trabajador: Acompañar el documento que acredite el vínculo y certificado de defunción.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el objeto es Fallecimiento del Empleador: Acompañar el documento que acredite el vínculo y el certificado de defunción.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En el caso de Sociedad de Hecho: Inscripción de AFIP.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Inicia el trámite a través del Portal de Abogados."
+      },
+      {
+        "texto": "Seleccioná Inicio de Trámite/solicitud de Turno – Espontáneas."
+      },
+      {
+        "texto": "Cargá los datos de las partes junto con la documentación requerida para obtener el número de trámite."
+      },
+      {
+        "texto": "Pagá el arancel."
+      },
+      {
+        "texto": "Seleccioná la fecha y hora de celebración de la audiencia."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": "https://www.argentina.gob.ar/turnos",
+    "plazo": null,
+    "consejos": [
+      "El trámite se inicia a través del Portal de Abogados.",
+      "El abogado, matriculado en el Colegio Público de Abogados de Capital Federal (CPACF), tiene que estar previamente registrado en el Portal.",
+      "Una vez analizado los datos y la documental del trámite recibirás en Novedades del Portal de Abogados una notificación del turno con la designación del funcionario interviniente para la celebración de la Audiencia Virtual; o, por el contrario, una observación en caso de documentación o datos faltan…",
+      "Todo acuerdo homologado será considerado cosa juzgada administrativa."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 5285000,
+      "vigente_desde": "2025-09-01",
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/revisar-y-homologar-acuerdos-espontaneos-entre-trabajadores-y-empleadores"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/revisar-y-homologar-acuerdos-espontaneos-entre-trabajadores-y-empleadores",
+      "titulo": "Revisar y homologar acuerdos espontáneos entre trabajadores y empleadores | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T04:00:55.265Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T04:00:55.265Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia del arancel de $52.850 para el trabajador y el empleador por cada trabajador.",
+    "El plazo de tiempo estimado para la resolución del SECLO."
+  ]
+}

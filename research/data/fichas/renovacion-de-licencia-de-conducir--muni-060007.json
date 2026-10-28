@@ -1,0 +1,117 @@
+{
+  "tramite": {
+    "slug": "renovacion-de-licencia-de-conducir",
+    "nombre": "Renovación de Licencia de Conducir",
+    "nombre_busqueda": "Renovar licencia de conducir",
+    "resumen": "Para renovar tu licencia necesitás tu DNI, licencia actual, certificado de grupo sanguíneo y Libre deuda de infracciones. Si sos mayor de 70 años, tenés que rendir examen teórico y práctico. El trámite se hace en la oficina y tenés la licencia en 24 horas.",
+    "sinonimos": [
+      "Renovar carnet de conducir",
+      "Renovar licencia nacional de conducir"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060007",
+  "organismo": {
+    "nombre": "Municipalidad de Adolfo Alsina",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que tenga licencia de conducir vigente en el Partido de Adolfo Alsina."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento de Identidad original",
+        "aclaracion": null
+      },
+      {
+        "texto": "Licencia actual original",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de grupo sanguíneo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Libre deuda de infracciones de tránsito",
+        "aclaracion": null
+      },
+      {
+        "texto": "Apto físico firmado por el médico",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Vení con documento original en mano."
+      },
+      {
+        "texto": "Sacá 1 copia del documento de ambos lados."
+      },
+      {
+        "texto": "Vení con tu licencia actual original en mano."
+      },
+      {
+        "texto": "Sacá 1 copia de ambos lados."
+      },
+      {
+        "texto": "Vení con certificado de grupo sanguíneo."
+      },
+      {
+        "texto": "Vení con Libre deuda de infracciones de tránsito."
+      },
+      {
+        "texto": "Vení con apto físico firmado por el médico."
+      },
+      {
+        "texto": "Aboná la tasa Nacional y Provincial."
+      },
+      {
+        "texto": "Rendí examen teórico y práctico de manejo si sos mayor de 70 años."
+      },
+      {
+        "texto": "Retirá tu licencia en 24 horas abonando la tasa municipal."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": "24hs",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de la Dirección de Emisión de Licencias de Conducir",
+      "direccion": "Rivadavia 1150",
+      "localidad": "Carhué",
+      "horario": null,
+      "fuente_url": "https://www.adolfoalsina.gov.ar/renovacion-de-licencia-de-conducir/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.adolfoalsina.gov.ar/renovacion-de-licencia-de-conducir/",
+      "titulo": "Renovación de Licencia de Conducir - Municipalidad de Adolfo Alsina",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T19:04:57.043Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se menciona que se debe abonar la tasa Nacional, Provincial y una tasa municipal, pero no se especifican los montos exactos en el texto."
+  ]
+}

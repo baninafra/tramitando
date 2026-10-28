@@ -1,0 +1,75 @@
+{
+  "tramite": {
+    "slug": "pago-de-tasa-por-convenio-telecom-sa",
+    "nombre": "Pago de tasa por Convenio Telecom SA",
+    "nombre_busqueda": "Pago tasa convenio telecom anisacate",
+    "resumen": "La Municipalidad de Anisacate cobra una tasa por el Convenio con Telecom SA. El monto se calcula según el consumo de agua y se paga en la Tesorería.",
+    "sinonimos": [
+      "Pago tasa agua telecom",
+      "Pago tasa convenio telecom anisacate"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141375",
+  "organismo": {
+    "nombre": "Municipalidad de Anisacate",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Los usuarios del servicio de agua de la Municipalidad de Anisacate."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento de identidad del titular del consumo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago de la tasa correspondiente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acudí a la Tesorería de la Municipalidad de Anisacate."
+      },
+      {
+        "texto": "Presentá tu documento de identidad y el comprobante de pago de la tasa."
+      },
+      {
+        "texto": "Recibí el comprobante de pago de la tasa."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá el monto exacto de la tasa en la Tesorería antes de ir.",
+      "Llevá el comprobante de pago de la tasa correspondiente."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://anisacatemunicipio.gob.ar/download/ordenanza-421-convenio-telecom-sa-2/",
+      "titulo": "Ordenanza 421 (Convenio Telecom SA) – Municipalidad de Anisacate",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T08:23:33.884Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa no está especificado en el texto.",
+    "La fecha de vigencia de la ordenanza no está clara en el texto."
+  ]
+}

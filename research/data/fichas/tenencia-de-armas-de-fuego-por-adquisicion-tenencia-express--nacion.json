@@ -1,0 +1,97 @@
+{
+  "tramite": {
+    "slug": "tenencia-de-armas-de-fuego-por-adquisicion-tenencia-express",
+    "nombre": "Tenencia de armas de fuego por adquisición tenencia express",
+    "nombre_busqueda": "Tenencia Express armas",
+    "resumen": "Trámite digital para adquirir tenencia de armas en armerías habilitadas, solo para usuarios con CLU vigente y sin papeles presenciales.",
+    "sinonimos": [
+      "Tenencia Express",
+      "Adquisición de armas online",
+      "Tenencia digital"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Seguridad Nacional",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas físicas con Credencial de Legítimo Usuario (CLU) vigente.",
+      "Miembros de las Fuerzas Armadas y de Seguridad.",
+      "Quienes hayan adquirido un arma con CUIM a través de un Usuario Comercial habilitado (armería)."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener CLU digital vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La venta del arma debe ser cargada en el sistema SIGIMAC por parte de la armería.",
+        "aclaracion": null
+      },
+      {
+        "texto": "No registrar inhabilitaciones activas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contar con situación de revista actualizada (en caso de pertenecer a fuerzas).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar a Mi RENAR con su usuario."
+      },
+      {
+        "texto": "Seleccionar Nueva Tenencia."
+      },
+      {
+        "texto": "El sistema verifica la elegibilidad del usuario de acuerdo a distintas validaciones."
+      },
+      {
+        "texto": "Si se cumplen todas las condiciones, se autoriza la venta."
+      },
+      {
+        "texto": "Dar conformidad y realizar el pago digital del trámite con QR."
+      },
+      {
+        "texto": "Visualizar la credencial digital en Mi Argentina."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El arma solo podrá ser retirada cuando la credencial esté cargada en el sistema y habilitada en la app Mi Argentina y la armería haya registrado el N° en el sistema.",
+      "Para personal de Fuerzas de Seguridad, Policiales y Penitenciarias, la Jefatura debe cargar previamente su situación de revista en Mi RENAR.",
+      "Si no tenés Tarjeta de Municiones para el calibre que querés comprar, el sistema la suma automáticamente al trámite."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tenencia-de-armas-de-fuego-por-adquisicion-tenencia-express",
+      "titulo": "Tenencia de armas de fuego por adquisición (Tenencia Express) | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T17:56:02.146Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto del trámite no se especifica en el texto.",
+    "El plazo de tramitación no se especifica en el texto."
+  ]
+}

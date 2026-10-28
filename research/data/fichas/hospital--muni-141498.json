@@ -1,0 +1,79 @@
+{
+  "tramite": {
+    "slug": "atencion-en-el-hospital-municipal",
+    "nombre": "Atención en el Hospital Municipal",
+    "nombre_busqueda": "Hospital Municipal Tancacha",
+    "resumen": "Consejo de la Municipalidad de Tancacha ofrece atención médica, odontológica, pediátrica y de especialidades en el Hospital Municipal. Se pueden agendar turnos por teléfono.",
+    "sinonimos": [
+      "Hospital Municipal Tancacha",
+      "Atención médica Tancacha"
+    ],
+    "temas": [
+      "salud-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141498",
+  "organismo": {
+    "nombre": "Municipalidad de Tancacha",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que necesite atención médica en el Hospital Municipal de Tancacha."
+    ],
+    "requisitos": [
+      {
+        "texto": "Llevá tu DNI o documento de identidad válido.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acudí al Hospital Municipal de Tancacha."
+      },
+      {
+        "texto": "Consultá los horarios de los servicios que necesitás en la página oficial."
+      },
+      {
+        "texto": "Llamá al teléfono 461000 para agendar turnos."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá los horarios de los servicios que necesitás en la página oficial.",
+      "Los turnos se agendan por teléfono."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.tancacha.gob.ar/hospital.html",
+      "titulo": "Hospital Municipal De Tancacha",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T09:38:04.730Z"
+    },
+    {
+      "url": "https://www.tancacha.gob.ar/index.html",
+      "titulo": "Municipalidad de Tancacha",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T09:38:04.730Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los requisitos específicos para cada servicio especial pueden variar."
+  ]
+}

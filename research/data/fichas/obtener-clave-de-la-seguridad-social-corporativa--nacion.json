@@ -1,0 +1,101 @@
+{
+  "tramite": {
+    "slug": "cuil-y-clave-de-seguridad-social",
+    "nombre": "Obtener clave de la seguridad social corporativa",
+    "nombre_busqueda": "obtener clave seguridad social corporativa",
+    "resumen": "Hacé habilitar la Clave de la Seguridad Social Corporativa con nivel 3 para empresas y organismos. Podés hacerlo con biométrica en la app mi ANSES o presentando documentación en una oficina.",
+    "sinonimos": [
+      "habilitar clave seguridad social corporativa nivel 3",
+      "clave seguridad social corporativa empresa"
+    ],
+    "temas": [
+      "cuil-y-clave-de-seguridad-social",
+      "trabajo-y-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANSES",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas",
+      "Entidades",
+      "Organismos públicos"
+    ],
+    "requisitos": [
+      {
+        "texto": "CUIL/CUIT",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave de la Seguridad Social con Nivel 3 (habilitada presencialmente en ANSES)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario USI-20 - Seguridad Social Corporativa",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para organismos públicos: Formulario USI-07",
+        "aclaracion": null
+      },
+      {
+        "texto": "Carta Poder y copia del DNI (si no concurre personalmente)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Imagen escaneada del DNI (para organismos públicos vía GDE)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Hacé habilitación de la Clave de la Seguridad Social con nivel 3 a través de la app mi ANSES (versión 6.20 o superior) mediante validación biométrica desde tu celular."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Imprimí, completá y hacé firmar por una autoridad de la empresa el Formulario USI-20 - Seguridad Social Corporativa."
+      },
+      {
+        "texto": "Presentá el formulario completo en la oficina de ANSES, junto con la documentación solicitada a tu empleador."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-clave-de-la-seguridad-social-corporativa",
+      "titulo": "Obtener Clave de la Seguridad Social Corporativa | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T22:43:58.068Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T22:43:58.068Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto de la tasa no está especificado en el texto.",
+    "El plazo de habilitación no está especificado en el texto.",
+    "La dirección exacta de las oficinas no está especificada en el texto."
+  ]
+}

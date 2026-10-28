@@ -1,0 +1,103 @@
+{
+  "tramite": {
+    "slug": "inscripcion-de-fideicomisos",
+    "nombre": "Inscribir una sustitución, renuncia, designación y/o adición sujeto fiduciante/fiduciario/beneficiario/fideicomisario",
+    "nombre_busqueda": "Inscribir fideicomiso",
+    "resumen": "Para inscribir cambios en un fideicomiso en la Inspección General de Justicia necesitás el formulario oficial, un dictamen de precalificación y los testimonios de escritura pública o instrumentos privados con firmas certificadas.",
+    "sinonimos": [
+      "Inscripción de fideicomisos",
+      "Sustitución sujeto fiduciario",
+      "Adición beneficiario fideicomiso"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": "IGJ",
+    "web": "https://www.argentina.gob.ar/justicia/igj"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan que presentar el formulario del trámite y toda la documentación indicada."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario sustitución, renuncia, designación y/o adición sujeto fiduciante/ fiduciario/ beneficiario/ fideicomisario.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dictamen de Precalificación profesional, conforme Art. 50 inc. 2 de la RG IGJ Nº07/2015, elaborado por escribano público o abogado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Primer testimonio de escritura pública o instrumento privado con firmas certificadas –según corresponda-.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el formulario del trámite y toda la documentación indicada anteriormente en la Mesa General de Entradas de la Inspección General de Justicia, Av. Paseo Colón 291, previa solicitud de turno."
+      },
+      {
+        "texto": "Retirá el trámite por Av. Paseo Colón 291, previa solicitud de turno."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 150000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-una-sustitucion-renuncia-designacion-yo-adicion-sujeto-fiduciante-fiduciario"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Mesa General de Entradas de la Inspección General de Justicia",
+      "direccion": "Av. Paseo Colón 291",
+      "localidad": "Av. Paseo Colón 291",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-una-sustitucion-renuncia-designacion-yo-adicion-sujeto-fiduciante-fiduciario"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribir-una-sustitucion-renuncia-designacion-yo-adicion-sujeto-fiduciante-fiduciario",
+      "titulo": "Inscribir una sustitución, renuncia, designación y/o adición sujeto fiduciante/ fiduciario/ beneficiario/ fideicomisario | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T17:11:00.843Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/justicia/igj/calculador-modulos",
+      "titulo": "Calculá el costo de los trámites de IGJ | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T17:11:00.843Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto menciona que los contenidos de la Guía de trámites están en proceso de actualización de acuerdo a la normativa vigente.",
+    "No se especifica el plazo de atención ni la duración del trámite.",
+    "No se indica si el trámite se puede realizar por internet.",
+    "No se especifica la fecha exacta de vigencia del nuevo valor del módulo, solo se menciona la fecha de entrada en vigencia (08/04/2024) y una fecha límite para adecuación (04/06/2024)."
+  ]
+}

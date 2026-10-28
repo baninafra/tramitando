@@ -1,0 +1,104 @@
+{
+  "tramite": {
+    "slug": "informar-sobre-reorganizacion-de-sociedades-arca",
+    "nombre": "Informar sobre reorganización de sociedades a ARCA",
+    "nombre_busqueda": "informar reorganizacion sociedades arca",
+    "resumen": "Debes comunicar la reorganización de tu sociedad al organismo tributario ARCA vía web si no hay transferencia total de empresas o cambian los métodos de amortización e imputación. Debes hacerlo en 180 días corridos desde la fecha de la reorganización.",
+    "sinonimos": [],
+    "temas": [
+      "cuil-y-clave-de-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración Federal de Ingresos Públicos",
+    "sigla": "AFIP",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Aquellos contribuyentes que se encuentren ante la reorganización de sociedades, fondos de comercio, empresas o explotaciones."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota en los términos de la Resolución General 1.128 (Formulario N° 206/M, aplicativo Formulario Multinota), solicitando las respectivas autorizaciones.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descripción de los sistemas de amortización de bienes de uso e inmateriales utilizados por la/s empresa/s antecesora/s y los sistemas que utilizarán la/s empresa/s continuadora/s.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Métodos de imputación de utilidades y gastos al año fiscal seguidos por la/s empresa/s antecesora/s y los que seguirán la/s empresa/s continuadora/s.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Sistemas de imputación de las previsiones cuya deducción autoriza la ley del impuesto, utilizados por la/s empresa/s antecesora/s y los sistemas que utilizarán la/s empresa/s continuadora/s.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Los motivos y fundamentos que dan origen a la presentación.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio web de ARCA con clave fiscal."
+      },
+      {
+        "texto": "Generá la información a transferir utilizando el aplicativo correspondiente según se trate de fusión, escisión o ventas y transferencias."
+      },
+      {
+        "texto": "Volvé a ingresar con tu clave fiscal al servicio Reorganización de sociedades y seleccioná la opción Confirmar presentación."
+      },
+      {
+        "texto": "El sistema te requerirá el Número de C.U.I.T., el Número de formulario presentado, el Número verificador y el Número de transacción generado en la transferencia electrónica de datos."
+      },
+      {
+        "texto": "Chequeá el resultado de los procesos iniciales de control formal en el servicio Reorganización de Sociedades."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá una nota en los términos de la Resolución General AFIP 1128/2001 en la dependencia ARCA-DGI en la que se encuentra inscripta la sociedad."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "180 días corridos contados a partir de la fecha de la reorganización",
+    "consejos": [
+      "De no registrarse inconsistencias en los procesos de control formal, dentro de los 60 días corridos contados desde la puesta a disposición del resultado de los procesos de control, deberás presentar la nota presencialmente.",
+      "Deberá efectuarse la solicitud de autorización ante ARCA cuando no se produzca la transferencia total de la o las empresas reorganizadas o cuando cambien los criterios de amortización e imputación distintos a los de la antecesora."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/informar-sobre-reorganizacion-de-sociedades-arca",
+      "titulo": "Informar sobre reorganización de sociedades a ARCA | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T16:50:56.335Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T16:50:56.335Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto del trámite es gratis.",
+    "La dirección de la oficina presencial no se especifica en el texto."
+  ]
+}

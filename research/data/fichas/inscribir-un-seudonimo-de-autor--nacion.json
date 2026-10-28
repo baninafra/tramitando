@@ -1,0 +1,85 @@
+{
+  "tramite": {
+    "slug": "inscripcion-de-nacimientos",
+    "nombre": "Inscribir un seudónimo de autor",
+    "nombre_busqueda": "Inscribir un seudónimo de autor",
+    "resumen": "Este trámite no obligatorio permite registrar un seudónimo o nombre de fantasía ante la Dirección Nacional del Derecho de Autor, siempre que se haya registrado previamente una obra publicada bajo ese nombre.",
+    "sinonimos": [],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional del Derecho de Autor",
+    "sigla": "DNDA",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan registrada en la DNDA una obra publicada como autor, con el seudónimo que se solicita inscribir."
+    ],
+    "requisitos": [
+      {
+        "texto": "Comprobante de pago del trámite por depósito o transferencia bancaria de 230000 al Fondo Cooperador Ley 23.412 dnda-capif; cuit 30-52172973-9; alias: madera.pupila.auto cbu Nº: 01106004-20060000016335; cuenta corriente N° 60000016/33, Banco Nación, Sucursal 0096.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de CUIL, CUIT O CDI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de registro de la obra publicada bajo el seudónimo solicitado.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD - Inscripción al Registro de Seudónimos e iniciá el trámite."
+      },
+      {
+        "texto": "Subí la documentación obligatoria y complementaria."
+      },
+      {
+        "texto": "Al finalizar se te otorgará un número de expediente electrónico (carátula variable), en caso de algún error o inconveniente se te notificará mediante el TAD una tarea de subsanación."
+      },
+      {
+        "texto": "La Dirección Nacional del Derecho de Autor te enviará al correo denunciado el certificado otorgado."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 230000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-un-seudonimo-de-autor"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribir-un-seudonimo-de-autor",
+      "titulo": "Inscribir un seudónimo de autor | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T17:03:51.290Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica si el trámite requiere turno ni el plazo de entrega del certificado."
+  ]
+}

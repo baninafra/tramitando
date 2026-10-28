@@ -1,0 +1,73 @@
+{
+  "tramite": {
+    "slug": "exenciones-y-tasa-social",
+    "nombre": "Exenciones impositivas jubilados pensionados y personas con discapacidad",
+    "nombre_busqueda": "Exenciones impositivas jubilados pensionados discapacidad",
+    "resumen": "Los jubilados, pensionados y personas con discapacidad pueden obtener exenciones en tasas e impuestos municipales. Se requiere presentar documentación específica según el caso.",
+    "sinonimos": [
+      "Exenciones para jubilados y pensionados",
+      "Exenciones para personas con discapacidad"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones",
+      "discapacidad-y-accesibilidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060525",
+  "organismo": {
+    "nombre": "Municipalidad de Marcos Paz",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Jubilados",
+      "Pensionados",
+      "Personas con discapacidad"
+    ],
+    "requisitos": [
+      {
+        "texto": "Copia del DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del certificado de jubilación o pensión",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del certificado de discapacidad",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación en la oficina de la municipalidad."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.marcospazdigital.gob.ar/exenciones",
+      "titulo": "Marcos Paz Digital",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T15:34:19.367Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina",
+    "Horario de atención",
+    "Vigencia de la exención"
+  ]
+}

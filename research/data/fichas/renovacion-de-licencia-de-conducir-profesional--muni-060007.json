@@ -1,0 +1,105 @@
+{
+  "tramite": {
+    "slug": "renovacion-de-licencia-de-conducir-profesional",
+    "nombre": "Renovación de Licencia de Conducir Profesional",
+    "nombre_busqueda": "Renovar licencia conducir profesional",
+    "resumen": "Para renovar tu licencia de conducir profesional necesitás traer tu DNI, licencia actual, certificado de grupo sanguíneo y antecedentes penales. El trámite se hace en persona en la oficina de la Dirección de Emisión de Licencias de Conducir.",
+    "sinonimos": [
+      "Renovación licencia conducir",
+      "Licencia profesional",
+      "Licencia conducir"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060007",
+  "organismo": {
+    "nombre": "Municipalidad de Adolfo Alsina",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan licencia de conducir profesional vigente."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento de Identidad original y 1 copia de ambos lados.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Licencia actual original y 1 copia de ambos lados.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de grupo sanguíneo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Antecedentes Penales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Libre deuda de infracciones de tránsito.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Apto físico firmado por el médico.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Vení con los documentos originales y las copias sacadas de ambos lados."
+      },
+      {
+        "texto": "Presentá los documentos en la oficina de la Dirección de Emisión de Licencias de Conducir."
+      },
+      {
+        "texto": "Sacá un turno para el trámite."
+      },
+      {
+        "texto": "Retirá la licencia renovada en 24 horas después de abonar la tasa municipal."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": "24hs",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de la Dirección de Emisión de Licencias de Conducir",
+      "direccion": "Rivadavia 1150",
+      "localidad": "Carhué",
+      "horario": null,
+      "fuente_url": "https://www.adolfoalsina.gov.ar/renovacion-de-licencia-de-conducir-profesional/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.adolfoalsina.gov.ar/renovacion-de-licencia-de-conducir-profesional/",
+      "titulo": "Renovación de Licencia de Conducir Profesional - Municipalidad de Adolfo Alsina",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T19:09:48.839Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Monto exacto de la tasa Nacional y Provincial.",
+    "Monto exacto de la tasa municipal.",
+    "URL para sacar turno."
+  ]
+}

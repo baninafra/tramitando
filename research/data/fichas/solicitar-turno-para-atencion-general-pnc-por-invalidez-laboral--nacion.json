@@ -1,0 +1,87 @@
+{
+  "tramite": {
+    "slug": "solicitar-turno-atencion-general-pnc-invalidez-laboral",
+    "nombre": "Solicitar turno para atención general PNC por invalidez laboral",
+    "nombre_busqueda": "Solicitar turno atención general PNC invalidez",
+    "resumen": "Pedí un turno para recibir asesoramiento sobre el estado de tu trámite de pensión no contributiva por invalidez laboral, realizar un cambio de banco, actualizar tu domicilio o hacer consultas generales.",
+    "sinonimos": [],
+    "temas": [
+      "pensiones-no-contributivas-por-invalidez",
+      "centros-de-salud-y-turnos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de pensión no contributiva por invalidez laboral que necesiten actualizar datos o realizar consultas sobre el estado de trámite de su pensión."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del titular de la pensión.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que acredite el vínculo y el DNI de cada uno.",
+        "aclaracion": "En el caso de concurrir con representante, curador o tutor."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al Sistema Nacional de Turnos o hacé clic directamente en el botón verde de esta página Pedir turno."
+      },
+      {
+        "texto": "Buscá por nombre del trámite \"Atención general \" y seleccionalo."
+      },
+      {
+        "texto": "Completá la información y cargá la documentación que te solicite según tu caso."
+      },
+      {
+        "texto": "Elegí el Centro de Atención Local, la fecha y el horario del turno."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate el día del turno con la documentación requerida."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://turnos.argentina.gob.ar/turnos/seleccionTurno",
+    "plazo": "15 minutos",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-turno-para-atencion-general-pnc-por-invalidez-laboral",
+      "titulo": "Solicitar turno para atención general - PNC por invalidez laboral | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T16:48:40.211Z"
+    },
+    {
+      "url": "https://turnos.argentina.gob.ar/turnos/seleccionTurno",
+      "titulo": "Sistema Nacional de Turnos",
+      "bloques": [
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T16:48:40.211Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de las oficinas de atención local.",
+    "Horarios de atención de las oficinas."
+  ]
+}

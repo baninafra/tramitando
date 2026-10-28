@@ -1,0 +1,125 @@
+{
+  "tramite": {
+    "slug": "reclamo-por-habilitacion-o-rehabilitacion-demorada-del-suministro-de-gas",
+    "nombre": "Reclamo por habilitación o rehabilitación demorada del suministro de gas",
+    "nombre_busqueda": "Reclamo ENARGAS gas demorado",
+    "resumen": "Podés hacer este reclamo ante el ENARGAS si la empresa prestadora no resolvió tu queja sobre una demora en habilitar o rehabilitar el gas. Es gratis y se puede hacer en línea o presencialmente.",
+    "sinonimos": [
+      "Reclamo gas ENARGAS",
+      "Queja demora gas",
+      "Rehabilitación gas demorada"
+    ],
+    "temas": [
+      "vivienda-y-servicios-del-hogar",
+      "subsidios-a-los-servicios-publicos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ente Nacional Regulador del Gas",
+    "sigla": "ENARGAS",
+    "web": "https://www.enargas.gov.ar"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Clientes y/o usuarios de gas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia del reclamo formulado ante la Prestadora.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descripción del reclamo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de presentación del gasista matriculado, de corresponder.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de solicitud de suministro de gas, de corresponder.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de pago de cargos autorizados, de corresponder.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de pago de la factura adeudada, de corresponder.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Efectuá tu queja ante la Prestadora del Servicio para que intervenga de forma inmediata."
+      },
+      {
+        "texto": "Exijí el número de reclamo correspondiente y el plazo estimado de resolución del problema a la Prestadora."
+      },
+      {
+        "texto": "Si la Distribuidora no responde o la respuesta es insatisfactoria, acargate al ENARGAS usando el Formulario de Reclamo en su página web."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acudí personalmente a la Sede Central de Suipacha 636 en Ciudad Autónoma de Buenos Aires o a la Sede más próxima a tu domicilio."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Conservá siempre el número de tu reclamo ante la empresa prestadora.",
+      "Durante los meses de junio a septiembre, el horario de atención telefónica es de lunes a viernes de 8 a 20 horas.",
+      "Al momento de realizar la inspección para rehabilitar el servicio deberá haber en la vivienda un mayor de edad."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central ENARGAS",
+      "direccion": "Suipacha 636",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/reclamo-por-habilitacion-o-rehabilitacion-demorada-del-suministro-de-gas"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reclamo-por-habilitacion-o-rehabilitacion-demorada-del-suministro-de-gas",
+      "titulo": "Reclamo por habilitación o rehabilitación demorada del suministro de gas | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:39:11.586Z"
+    },
+    {
+      "url": "https://www.enargas.gov.ar/secciones/oficina-virtual/oficina-virtual.php",
+      "titulo": "Oficina virtual ENARGAS",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T02:39:11.586Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T02:39:11.586Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica un plazo de resolución exacto ni un monto en centavos, por lo que se dejó vacío o como gratuito."
+  ]
+}

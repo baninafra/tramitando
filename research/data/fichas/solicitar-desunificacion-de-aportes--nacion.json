@@ -1,0 +1,98 @@
+{
+  "tramite": {
+    "slug": "solicitar-desunificacion-de-aportes",
+    "nombre": "Solicitar desunificación de aportes",
+    "nombre_busqueda": "Desunificar aportes cónyuges",
+    "resumen": "Trámite para solicitar la desunificación de los aportes de los cónyuges o concubinos y volver al Agente del Seguro de su actividad.",
+    "sinonimos": [
+      "Desunificar aportes",
+      "Desunificación de aportes"
+    ],
+    "temas": [
+      "familia-y-pareja"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Servicios de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Al beneficiario de Agentes del Seguro."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario Desunificación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopias del DNI de ambos cónyuges.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación laboral extendida por el empleador actual (modelo) o fotocopia de recibo de sueldo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Anulación de la certificación de concubinato / sentencia de divorcio / telegrama de renuncia o despido.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de vínculo (matrimonio o concubinato).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el Formulario de solicitud."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central",
+      "direccion": "Bartolomé Mitre 434 - Planta Baja - CABA - C1035AAN",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-desunificacion-de-aportes"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-desunificacion-de-aportes",
+      "titulo": "Solicitar desunificación de aportes | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:25:57.759Z"
+    },
+    {
+      "url": "https://turnos.argentina.gob.ar/turnos/seleccionTurno/3030",
+      "titulo": "Sistema Nacional de Turnos",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T08:25:57.759Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si el trámite requiere turno, no se especifica en el texto si se puede solicitar por internet o solo presencialmente.",
+    "No se especifica el plazo de atención del trámite."
+  ]
+}

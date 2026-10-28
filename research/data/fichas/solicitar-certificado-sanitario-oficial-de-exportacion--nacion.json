@@ -1,0 +1,85 @@
+{
+  "tramite": {
+    "slug": "solicitar-certificado-sanitario-oficial-de-exportacion",
+    "nombre": "Solicitar certificado sanitario oficial de exportación",
+    "nombre_busqueda": "solicitar certificado sanitario oficial de exportación",
+    "resumen": "Para exportar productos alimenticios o registrarlos en otro país, necesitás un certificado sanitario oficial de exportación. Podés hacerlo en línea o presencialmente presentando documentación específica según el tipo de producto.",
+    "sinonimos": [],
+    "temas": [
+      "salud-y-prevencion",
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El interesado que requiera un certificado para acompañar una exportación o registrar el producto en otro país."
+    ],
+    "requisitos": [
+      {
+        "texto": "Copia de factura en caso de corresponder.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que avale que la autoridad sanitaria de destino solicita certificación por parte de la Autoridad Sanitaria Nacional.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración jurada para registrar el producto.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciar el trámite por TAD."
+      },
+      {
+        "texto": "Seleccionar el tipo de certificado requerido: para acompañar exportación o para registrar producto."
+      },
+      {
+        "texto": "Completar el formulario y adjuntar la información correspondiente."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-sanitario-oficial-de-exportacion",
+      "titulo": "Solicitar Certificado Sanitario Oficial de Exportación | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:18:58.131Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T08:18:58.131Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si el trámite se realiza presencialmente, se requiere acudir a una oficina del Ministerio de Salud.",
+    "El monto exacto de la tasa no se especifica en el texto.",
+    "La fecha de vigencia exacta del trámite no se especifica en el texto."
+  ]
+}

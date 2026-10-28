@@ -1,0 +1,93 @@
+{
+  "tramite": {
+    "slug": "ayudas-economicas-municipales",
+    "nombre": "Fondo Permanente Villa Río",
+    "nombre_busqueda": "Fondo Permanente Villa Río",
+    "resumen": "La Ordenanza 456 establece el Fondo Permanente Villa Río para la atención de casos de salud en la localidad de Villa Río.",
+    "sinonimos": [],
+    "temas": [
+      "ayudas-economicas-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141375",
+  "organismo": {
+    "nombre": "Municipalidad de Anisacate",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Los habitantes de Villa Río que requieran atención en salud."
+    ],
+    "requisitos": [
+      {
+        "texto": "Presentar DNI o CUIL.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar documentación que acredite la necesidad de atención en salud.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acudí al Dispensario 1 o Dispensario 2 de Villa Río."
+      },
+      {
+        "texto": "Presentá tu documentación personal y la que acredite la necesidad de atención."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá los horarios de atención en la página de la Dirección de Salud.",
+      "Llevá la documentación original y sus copias."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dispensario 1",
+      "direccion": "Dispensario 1",
+      "localidad": "Villa Río",
+      "horario": null,
+      "fuente_url": "https://anisacatemunicipio.gob.ar/download/ordenanza-456-fondo-permanente-villa-rio/"
+    },
+    {
+      "nombre": "Dispensario 2",
+      "direccion": "Dispensario 2",
+      "localidad": "Villa Río",
+      "horario": null,
+      "fuente_url": "https://anisacatemunicipio.gob.ar/download/ordenanza-456-fondo-permanente-villa-rio/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://anisacatemunicipio.gob.ar/download/ordenanza-456-fondo-permanente-villa-rio/",
+      "titulo": "Ordenanza 456 Fondo Permanente Villa Río – Municipalidad de Anisacate",
+      "bloques": [
+        "resumen",
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-26T08:22:27.006Z"
+    },
+    {
+      "url": "https://anisacatemunicipio.gob.ar/direccion-de-salud/",
+      "titulo": "Dirección de Salud – Municipalidad de Anisacate",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T08:22:27.006Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los montos de los fondos no están especificados en el texto.",
+    "La fecha de vigencia exacta de la ordenanza no está clara en el texto."
+  ]
+}

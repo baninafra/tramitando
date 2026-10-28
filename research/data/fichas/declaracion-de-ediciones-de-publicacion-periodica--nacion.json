@@ -1,0 +1,95 @@
+{
+  "tramite": {
+    "slug": "declaracion-de-ediciones-de-publicacion-periodica",
+    "nombre": "Declaración de ediciones de publicación periódica",
+    "nombre_busqueda": "declaracion ediciones publicacion periodica",
+    "resumen": "Si tenés el registro de publicación periódica, debés declarar periódicamente los ejemplares editados en línea.",
+    "sinonimos": [],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional del Derecho de Autor",
+    "sigla": "DNDA",
+    "web": "https://www.argentina.gob.ar/servicio/declaracion-de-ediciones-de-publicacion-periodica"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Editores/as de publicaciones periódicas que estén registrados ante la DNDA."
+    ],
+    "requisitos": [
+      {
+        "texto": "Estar registrado ante la DNDA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI o Pasaporte (original y copia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos del trámite completos.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD y iniciá el trámite de Declaración de ediciones de Publicación Periódica."
+      },
+      {
+        "texto": "Subí la documentación obligatoria y complementaria."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá impreso el número de expediente electrónico junto al comprobante de pago y la obra."
+      },
+      {
+        "texto": "Entregá los ejemplares de las publicaciones periódicas junto con las carátulas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "20 minutos",
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 150000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/declaracion-de-ediciones-de-publicacion-periodica"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Sede Central",
+      "direccion": "Moreno 1230",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/declaracion-de-ediciones-de-publicacion-periodica"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/declaracion-de-ediciones-de-publicacion-periodica",
+      "titulo": "Declaración de ediciones de publicación periódica | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-26T05:36:59.704Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite."
+  ]
+}

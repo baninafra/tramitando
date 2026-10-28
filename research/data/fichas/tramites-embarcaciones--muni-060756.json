@@ -1,0 +1,105 @@
+{
+  "tramite": {
+    "slug": "transferencias-embarcaciones",
+    "nombre": "Transferencia de embarcaciones",
+    "nombre_busqueda": "Transferencia embarcaciones",
+    "resumen": "Trámite para transferir la titularidad de una embarcación deportiva o recreacional, realizado en oficinas del municipio o Prefectura Naval Argentina.",
+    "sinonimos": [
+      "Cambio de titularidad embarcación",
+      "Venta embarcaciones"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060756",
+  "organismo": {
+    "nombre": "Agencia de Recaudación de San Isidro",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Comprador",
+      "Vendedor"
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario R-650 V3 por duplicado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento que acredite fehacientemente la personería invocada por el solicitante",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de matrícula extendido por Prefectura Naval Argentina donde conste el cambio de titularidad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el lugar de amarre, guarda o fondeo pertenece a una entidad constituida a tal fin, presentar el certificado extendido por dicha entidad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Póliza de seguros, factura de compra o boleto de compra venta con firmas certificadas o Escritura Pública traslativa donde conste el valor de la embarcación",
+        "aclaracion": null
+      },
+      {
+        "texto": "Inexistencia de deuda de la embarcación a la fecha efectiva de la denuncia",
+        "aclaracion": null
+      },
+      {
+        "texto": "Carta Documento al comprador",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el Formulario R-650 V3 por duplicado."
+      },
+      {
+        "texto": "Presentá el documento que acredite fehacientemente la personería invocada por el solicitante."
+      },
+      {
+        "texto": "Presentá el certificado de matrícula extendido por Prefectura Naval Argentina donde conste el cambio de titularidad."
+      },
+      {
+        "texto": "Si el lugar de amarre, guarda o fondeo pertenece a una entidad constituida a tal fin, presentá el certificado extendido por dicha entidad."
+      },
+      {
+        "texto": "Presentá la póliza de seguros, factura de compra o boleto de compra venta con firmas certificadas o Escritura Pública traslativa donde conste el valor de la embarcación."
+      },
+      {
+        "texto": "Presentá la inexistencia de deuda de la embarcación a la fecha efectiva de la denuncia."
+      },
+      {
+        "texto": "Presentá la carta documento al comprador."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://arsi.gob.ar/tramites-embarcaciones/",
+      "titulo": "Embarcaciones – ARSI",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T12:11:11.269Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de las oficinas donde se realiza el trámite.",
+    "Monto de la tasa a pagar.",
+    "Plazo estimado para la resolución del trámite."
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "tramite": {
+    "slug": "certificado-de-organizacion-comunitaria",
+    "nombre": "Certificado de Organización Comunitaria",
+    "nombre_busqueda": "Certificado de Organización Comunitaria",
+    "resumen": "El documento acredita el domicilio y la existencia de entidades comunitarias en barrios populares del ReNaBaP para gestionar servicios públicos y obras estatales.",
+    "sinonimos": [],
+    "temas": [
+      "gobierno-y-participacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ReNaBaP",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Asociaciones civiles",
+      "Fundaciones",
+      "Cooperativas",
+      "Instituciones religiosas",
+      "Comedores",
+      "Clubes",
+      "Otras entidades comunitarias"
+    ],
+    "requisitos": [
+      {
+        "texto": "Formar parte de alguna organización comunitaria dentro de un barrio inscripto en el ReNaBaP",
+        "aclaracion": null
+      },
+      {
+        "texto": "Que la organización esté relevada por el ReNaBaP",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener el N° de CUIL del/de la responsable de la organización",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el Formulario de consultas ReNaBaP"
+      },
+      {
+        "texto": "Seleccioná el motivo de la consulta relacionado con el Certificado de Organización Comunitaria"
+      },
+      {
+        "texto": "Indicá si tenés el certificado o querés solicitarlo/modificarlo"
+      },
+      {
+        "texto": "Llená los datos personales y de contacto"
+      },
+      {
+        "texto": "Confirmá los datos ingresados"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si la organización todavía no fue relevada, comunicate con el ReNaBaP solicitando la encuesta en el domicilio de la entidad"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-el-certificado-de-organizacion-comunitaria",
+      "titulo": "Solicitar el Certificado de Organización Comunitaria | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T08:24:52.312Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/obras-publicas/sisu/renabap/formulario-de-consultas-renabap",
+      "titulo": "Formulario de consultas ReNaBaP | Argentina.gob.ar",
+      "bloques": [
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T08:24:52.312Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere llenar el Formulario de consultas ReNaBaP para gestionar la solicitud o modificación del certificado",
+    "El plazo de emisión o validez del documento no se especifica en las fuentes consultadas"
+  ]
+}

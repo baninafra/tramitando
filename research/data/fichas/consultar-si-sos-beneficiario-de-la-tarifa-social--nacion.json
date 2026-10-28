@@ -1,0 +1,81 @@
+{
+  "tramite": {
+    "slug": "consultar-si-sos-beneficiario-de-la-tarifa-social",
+    "nombre": "Consultar si sos beneficiario de la tarifa social",
+    "nombre_busqueda": "Consultar si sos beneficiario de la tarifa social",
+    "resumen": "Consultá si sos beneficiario de la tarifa social eléctrica en línea de forma gratuita. Si la consulta confirma que sos beneficiario, reclamá ante tu distribuidora.",
+    "sinonimos": [
+      "Verificar beneficiario tarifa social",
+      "Solicitar tarifa social eléctrica"
+    ],
+    "temas": [
+      "sube-y-transporte-accesible"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ente Nacional Regulador del Gas y la Electricidad",
+    "sigla": "ENReGE",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Usuarios de EDENOR y EDESUR que sean titulares del servicio y cumplan con al menos uno de los requisitos establecidos por lugar de residencia."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de cuenta si sos usuario de EDENOR.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de cliente si sos usuario de EDESUR.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá este formulario."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si la consulta arroja que no sos beneficiario, asegurate de que cumplís con los requisitos para acceder a la tarifa social.",
+      "En caso afirmativo, reclamá ante tu distribuidora y solicitá el número de reclamo.",
+      "Si la prestataria no te responde en el plazo establecido o no te brinda una respuesta satisfactoria, conservá el número de reclamo y completá este otro formulario.",
+      "Cuando llegues a la opción Seleccioná el tipo de reclamo a realizar, elegí la opción Facturación y luego el subítem Facturación - Tarifa Social."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consultar-si-sos-beneficiario-de-la-tarifa-social",
+      "titulo": "Consultar si sos beneficiario de la tarifa social | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T05:19:42.785Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/enre/tarifas-diferenciales/tarifa-social/requisitos",
+      "titulo": "Requisitos para usuarios residenciales de EDENOR y EDESUR | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-26T05:19:42.785Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia de los requisitos no está confirmada en el texto."
+  ]
+}

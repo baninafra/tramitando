@@ -1,0 +1,79 @@
+{
+  "tramite": {
+    "slug": "pago-de-tasas",
+    "nombre": "Pago de tasas",
+    "nombre_busqueda": "Pago de tasas municipales",
+    "resumen": "Consultá y pagá tus tasas municipales online sin vueltas desde la autogestión tributaria.",
+    "sinonimos": [
+      "Pago de tasas municipales",
+      "Pago de tasas Ramallo"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060665",
+  "organismo": {
+    "nombre": "Municipalidad de Ramallo",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que tenga una cuenta tributaria en el municipio."
+    ],
+    "requisitos": [
+      {
+        "texto": "Cuenta tributaria vigente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Consultá tu cuenta tributaria."
+      },
+      {
+        "texto": "Generá la boleta de pago."
+      },
+      {
+        "texto": "Realizá el pago online."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá el Marco Legal y Tributario 2026 para ver calendario fiscal, topes y bonificaciones."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.ramallo.gob.ar/tramites/pago-de-tasas",
+      "titulo": "Pago de tasas",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T08:59:51.187Z"
+    },
+    {
+      "url": "https://www.ramallo.gob.ar/",
+      "titulo": "Municipalidad de Ramallo",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T08:59:51.187Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los montos exactos de las tasas no se especifican en el texto.",
+    "No se indica si hay plazos específicos para realizar el pago.",
+    "No se detallan los requisitos específicos para casos especiales como menores o empresas."
+  ]
+}

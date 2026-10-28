@@ -1,0 +1,85 @@
+{
+  "tramite": {
+    "slug": "inscripcion-maquinas-cosechadoras-de-vid",
+    "nombre": "Inscripción máquinas cosechadoras de vid",
+    "nombre_busqueda": "Inscribir máquina cosechadora de vid",
+    "resumen": "La inscripción es obligatoria para egresar del establecimiento productivo y circular en áreas reglamentadas para el control de Lobesia botrana. El trámite es gratuito y se realiza en línea.",
+    "sinonimos": [
+      "Registro máquinas cosechadoras",
+      "Inscripción maquinaria agrícola vid"
+    ],
+    "temas": [
+      "produccion-rural"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Propietarios o tenedores de máquinas cosechadoras de vid o en quienes éstos deleguen el trámite."
+    ],
+    "requisitos": [
+      {
+        "texto": "Copia del título de propiedad de la maquinaria.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plan de actividades que incluya el recorrido (interprovincial, mencionando provincias por las cuales pueden realizar cosecha o por las cuales atraviesa la maquinaria para llegar a destino), o provincial (oasis, departamentos que recorre).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma TAD."
+      },
+      {
+        "texto": "Completá el formulario de solicitud de inscripción."
+      },
+      {
+        "texto": "Adjuntá la documentación."
+      },
+      {
+        "texto": "Vas a recibir la confirmación en tu correo electrónico."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "5 días",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Sanidad Vegetal Programa Nacional de Prevención y Erradicación de Lobesia botrana",
+      "direccion": "Av. Paseo Colón N° 367, Piso 6° contrafrente, C1063ACD, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribirreinscribir-maquinas-cosechadoras-de-vid"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribirreinscribir-maquinas-cosechadoras-de-vid",
+      "titulo": "Inscribir/Reinscribir máquinas cosechadoras de vid | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T17:27:03.540Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La página no menciona si se requiere turno para este trámite específico."
+  ]
+}

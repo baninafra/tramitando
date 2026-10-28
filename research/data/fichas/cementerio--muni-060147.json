@@ -1,0 +1,70 @@
+{
+  "tramite": {
+    "slug": "consulta-de-vencimientos-y-estado-cementerio",
+    "nombre": "Consulta de Vencimientos y Estado del Cementerio",
+    "nombre_busqueda": "Consulta cementerio Carlos Casares",
+    "resumen": "Podés consultar los vencimientos y el estado de los nichos o parcelas en el cementerio de Carlos Casares a través del formulario de consultas.",
+    "sinonimos": [
+      "Consulta de vencimientos cementerio",
+      "Estado de nichos Carlos Casares"
+    ],
+    "temas": [
+      "cementerio-y-servicios-funebres"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060147",
+  "organismo": {
+    "nombre": "Municipalidad de Carlos Casares",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en consultar el estado de un nicho o parcela."
+    ],
+    "requisitos": [
+      {
+        "texto": "Datos del nicho o parcela a consultar.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al formulario de consultas de vencimiento."
+      },
+      {
+        "texto": "Completá los datos del nicho o parcela."
+      },
+      {
+        "texto": "Hacé clic en el botón para enviar la consulta."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://casares.gob.ar/cementerio/",
+      "titulo": "Cementerio – Municipalidad de Carlos Casares",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T11:06:28.144Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos adicionales como documentos o copias.",
+    "No se indica si la consulta tiene costo.",
+    "No se especifica el plazo de respuesta.",
+    "No se indica si se requiere turno presencial."
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "tramite": {
+    "slug": "declaracion-tasa-seguridad-higiene-periodos-previos",
+    "nombre": "Declarar la tasa de seguridad e higiene de períodos previos",
+    "nombre_busqueda": "declaración de tasa de seguridad e higiene atrasada",
+    "resumen": "Completá una declaración jurada por los períodos adeudados de la tasa de seguridad e higiene. Podés declarar hasta un año por formulario y volver a enviarlo para los años restantes.",
+    "sinonimos": [
+      "declaración de tasa de seguridad e higiene atrasada"
+    ],
+    "temas": [
+      "tasa-de-comercio-e-industria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060547",
+  "organismo": {
+    "nombre": "Municipalidad de Monte",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que deben declarar períodos atrasados de la tasa de seguridad e higiene."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nombre.",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUIT.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de comercio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tipo de actividad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Teléfono.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Correo electrónico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Año adeudado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Meses adeudados del año seleccionado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de partida de los inmuebles donde desarrollás la actividad; separá los números con una barra si son varios.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Indicar si el establecimiento tiene carteles en el frente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Indicar si los carteles del frente son luminosos, si tenés carteles.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Indicar si usás la acera para colocar carteleras, tableros o pantallas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Indicar si tenés carteles del negocio en rutas, calles o caminos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Indicar si tenés motocicletas para reparto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de patente de las motocicletas, si tenés motos para reparto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Indicar si tenés otros vehículos para reparto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de patente de los otros vehículos, si tenés vehículos para reparto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Inscripción ante la AFIP: responsable inscripto o categoría de monotributo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Inscripción de ingresos brutos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cantidad de empleados.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Aceptar el carácter de declaración jurada.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario con los meses adeudados de un solo año, hasta un máximo de 12 meses."
+      },
+      {
+        "texto": "Ingresá los datos del primer año y enviá la declaración."
+      },
+      {
+        "texto": "Volvé a ingresar al formulario y completá los meses de los años restantes; enviá una declaración por cada año adicional."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://monte.gob.ar/tasahigiene/atrasadas/",
+      "titulo": "Tasa por Inspección de Seguridad e Higiene – Periodos Previos - Municipalidad de Monte",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T15:07:55.123Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa el costo del trámite."
+  ]
+}

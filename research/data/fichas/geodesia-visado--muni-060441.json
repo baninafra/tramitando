@@ -1,0 +1,85 @@
+{
+  "tramite": {
+    "slug": "visado-plano-mensura",
+    "nombre": "Visado de plano de mensura",
+    "nombre_busqueda": "visado plano de mensura",
+    "resumen": "Pedí la revisión técnica de un plano de mensura para habilitar una subdivisión o un proyecto de urbanización. El trámite es presencial y requiere turno previo.",
+    "sinonimos": [],
+    "temas": [
+      "loteos-y-subdivisiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060441",
+  "organismo": {
+    "nombre": "Municipalidad de La Plata",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés presentarlo como particular, profesional o gestor."
+    ],
+    "requisitos": [
+      {
+        "texto": "Planilla completa y firmada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano de mensura.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informe de dominio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado hidráulico.",
+        "aclaracion": "Si corresponde."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Sacá un turno previo con la opción «Consulta Administrativa»."
+      },
+      {
+        "texto": "Presentá la planilla completa y firmada, el plano de mensura, el informe de dominio y, si corresponde, el certificado hidráulico."
+      },
+      {
+        "texto": "Pagá el timbrado vigente al momento de la presentación."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://turnos.laplata.gob.ar/misdatos",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://tramites.laplata.gob.ar/planeamiento/geodesia-visado.html",
+      "titulo": "Planeamiento - Municipalidad de La Plata",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T14:26:53.696Z"
+    },
+    {
+      "url": "https://turnos.laplata.gob.ar/misdatos",
+      "titulo": "Turnos online - Municipalidad de La Plata",
+      "bloques": [
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T14:26:53.696Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto del timbrado no está informado; se indica que rige el vigente al presentar."
+  ]
+}

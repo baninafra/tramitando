@@ -1,0 +1,97 @@
+{
+  "tramite": {
+    "slug": "solicitar-tenencia-recarga-municion-fines-no-comerciales",
+    "nombre": "Solicitar tenencia de recarga de munición para fines no comerciales",
+    "nombre_busqueda": "solicitar tenencia recarga munición",
+    "resumen": "Este trámite permite a legítimos usuarios de armas solicitar la tenencia de equipo de recarga de munición para fines no comerciales. Se requiere presentar documentación específica en ANMaC y el proceso tiene un plazo de 10 días hábiles.",
+    "sinonimos": [
+      "solicitar tenencia equipo recarga munición",
+      "recarga munición fines no comerciales"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMaC",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Legítimos usuarios de armas de fuego individuales y/o colectivos con autorización de tenencia de las armas correspondientes a los calibres que desean recargar."
+    ],
+    "requisitos": [
+      {
+        "texto": "Ser legítimo usuario de armas de fuego individual y/o colectivo con autorización de la tenencia de las armas correspondientes a los calibres que deseas recargar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar formularios Leyes 23.283 y 23.412 correspondientes para la credencial de tenencia de equipo de recarga de munición para fines no comerciales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declarar el equipo especificando su marca, modelo y número de serie.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de no poseer número de serie, solicitarlo en ANMaC mediante los formularios Leyes 23.283 y 23.412 correspondientes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si no tiene número de serie, presentar una certificación emitida por un mecánico armero registrado en ANMaC donde especifique tipo de equipo, marca, modelo y número de serie grabado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declarar el domicilio de utilización del equipo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "10 días hábiles",
+    "consejos": [
+      "Si precisas el otorgamiento de número, el plazo es aproximadamente 30 días hábiles.",
+      "Los titulares de un mismo equipo de recarga no pueden ser más de tres legítimos usuarios individuales por equipo o dos cuando se trate de un legítimo usuario individual que también se encuentre inscripto como usuario colectivo.",
+      "Si sos tenedor de un equipo de recarga podés optar por no solicitar la Tarjeta de control de consumo de munición.",
+      "Notificalo en ANMaC cuando solicites la autorización de una nueva tenencia de arma.",
+      "Consultá el Anexo I de la disposición 142/07 para las recomendaciones generales de seguridad y uso del equipo de recarga de municiones."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-tenencia-de-recarga-de-municion-para-fines-no-comerciales",
+      "titulo": "Solicitar la tenencia de recarga de munición para fines no comerciales | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T09:46:00.553Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T09:46:00.553Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de los Centros de Atención de ANMaC",
+    "Si se requiere turno para este trámite específico"
+  ]
+}

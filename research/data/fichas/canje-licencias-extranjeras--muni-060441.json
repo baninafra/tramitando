@@ -1,0 +1,114 @@
+{
+  "tramite": {
+    "slug": "canje-licencias-extranjeras",
+    "nombre": "Canje de licencias de conducir extranjeras",
+    "nombre_busqueda": "Canje licencia conducir extranjera",
+    "resumen": "Trámite para obtener una licencia argentina canjeando una emitida en países con convenio (España, Italia, Colombia, Chile, Bolivia) o bajo requisitos generales para otros países, siempre que se cumplan los requisitos de residencia.",
+    "sinonimos": [
+      "Canje licencia conducir",
+      "Licencia extranjera Argentina",
+      "Licencia canje"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060441",
+  "organismo": {
+    "nombre": "Municipalidad de La Plata",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que llevan menos de 1 año de residencia en Argentina.",
+      "Excepción: Para licencias colombianas, se requiere haber permanecido hasta 180 días (continuos o discontinuos) dentro del mismo año calendario."
+    ],
+    "requisitos": [
+      {
+        "texto": "Licencia de conducir emitida en el país correspondiente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI argentino.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de legalidad apostillado en La Haya.",
+        "aclaracion": "Solo para España."
+      },
+      {
+        "texto": "Certificado de legalidad apostillado en el Consulado italiano + traducción oficial.",
+        "aclaracion": "Solo para Italia."
+      },
+      {
+        "texto": "Acceder al link que indica el acuerdo entre Argentina y Colombia para conocer requisitos y pasos.",
+        "aclaracion": "Solo para Colombia."
+      },
+      {
+        "texto": "Acceder al link que indica el acuerdo entre Argentina y Chile para conocer requisitos y pasos.",
+        "aclaracion": "Solo para Chile."
+      },
+      {
+        "texto": "Acceder al link que indica el acuerdo entre Argentina y Bolivia para conocer requisitos y pasos.",
+        "aclaracion": "Solo para Bolivia."
+      },
+      {
+        "texto": "Licencia de conducir vigente.",
+        "aclaracion": "Solo para otros países sin convenio directo."
+      },
+      {
+        "texto": "Certificado de legalidad emitido por el consulado correspondiente, apostillado y acompañado de traducción (no es necesario que sea oficial).",
+        "aclaracion": "Solo para otros países sin convenio directo."
+      },
+      {
+        "texto": "Aprobación de examen teórico y examen práctico correspondiente.",
+        "aclaracion": "Solo para otros países sin convenio directo."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Solicitar turno online."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": "https://turnos.laplata.gob.ar/misdatos",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://tramites.laplata.gob.ar/licencias/canje-licencias-extranjeras.html",
+      "titulo": "Licencias - Municipalidad de La Plata",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T14:39:46.140Z"
+    },
+    {
+      "url": "https://turnos.laplata.gob.ar/misdatos",
+      "titulo": "Turnos online - Municipalidad de La Plata",
+      "bloques": [
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T14:39:46.140Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Vigencia del trámite",
+    "Dirección de atención",
+    "Horarios de atención",
+    "Costos exactos",
+    "Plazo de tramitación"
+  ]
+}

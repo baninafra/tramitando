@@ -1,0 +1,102 @@
+{
+  "tramite": {
+    "slug": "informe-futura-prolongacion-calles",
+    "nombre": "Informe de futura prolongación de calles",
+    "nombre_busqueda": "informe futura prolongación de calles",
+    "resumen": "Pedí una evaluación normativa sobre la prolongación de calles. El trámite se hace en persona y requiere turno previo.",
+    "sinonimos": [],
+    "temas": [
+      "numeracion-y-uso-de-suelo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060441",
+  "organismo": {
+    "nombre": "Municipalidad de La Plata",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés presentarlo como particular, profesional o gestor."
+    ],
+    "requisitos": [
+      {
+        "texto": "Identificación de la parcela.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tipo de intervención.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Memoria técnica descriptiva.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos de contacto: correo electrónico y teléfono.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Sacá un turno previo con la opción «Consulta Técnica»."
+      },
+      {
+        "texto": "Presentá la identificación de la parcela, el tipo de intervención, la memoria técnica descriptiva y tus datos de contacto."
+      },
+      {
+        "texto": "Pagá el timbrado vigente al momento de la presentación."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://turnos.laplata.gob.ar/misdatos",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Centro Administrativo Municipal",
+      "direccion": "Diagonal 80 N° 942 esquina 48",
+      "localidad": "La Plata",
+      "horario": null,
+      "fuente_url": "https://tramites.laplata.gob.ar/planeamiento/geodesia-informe.html"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://tramites.laplata.gob.ar/planeamiento/geodesia-informe.html",
+      "titulo": "Planeamiento - Municipalidad de La Plata",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T14:26:40.989Z"
+    },
+    {
+      "url": "https://turnos.laplata.gob.ar/misdatos",
+      "titulo": "Turnos online - Municipalidad de La Plata",
+      "bloques": [
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T14:26:40.989Z"
+    },
+    {
+      "url": "https://cam.laplata.gob.ar/index.html",
+      "titulo": "Centro Administrativo Municipal",
+      "bloques": [
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T14:26:40.989Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto del timbrado no está indicado; se menciona que rige el vigente al presentar el trámite, según la Ordenanza Impositiva 12682.",
+    "No se indica un plazo de resolución."
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "tramite": {
+    "slug": "adhesion-al-domicilio-fiscal-electronico",
+    "nombre": "Adhesión al Domicilio Fiscal Electrónico",
+    "nombre_busqueda": "Adhesión al Domicilio Fiscal Electrónico",
+    "resumen": "Registrá tu domicilio electrónico para recibir notificaciones administrativas vinculantes. Se requiere aceptar los términos y condiciones de la ordenanza municipal.",
+    "sinonimos": [],
+    "temas": [
+      "cuil-y-clave-de-seguridad-social",
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060448",
+  "organismo": {
+    "nombre": "Municipalidad de Laprida",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de partida con CUIT, CUIL o DNI."
+    ],
+    "requisitos": [
+      {
+        "texto": "CUIT, CUIL o DNI del titular de la partida.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Celular sin 0 y sin 15.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Llegá al formulario de adhesión al Domicilio Fiscal Electrónico."
+      },
+      {
+        "texto": "Ingresá tu CUIT, CUIL o DNI."
+      },
+      {
+        "texto": "Ingresá tu celular sin 0 y sin 15."
+      },
+      {
+        "texto": "Leé los términos y condiciones de la ordenanza municipal."
+      },
+      {
+        "texto": "Aceptá los términos y condiciones."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.laprida.gov.ar/index.php/forms/dfe",
+      "titulo": "Municipalidad de Laprida",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T08:10:27.447Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos adicionales ni aclaraciones para casos especiales.",
+    "No se especifican plazos de tiempo para la adhesión.",
+    "No se especifican costos para la adhesión.",
+    "No se especifican direcciones de oficinas para atención presencial.",
+    "No se especifica si se requiere turno para la adhesión."
+  ]
+}

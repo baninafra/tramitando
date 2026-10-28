@@ -1,0 +1,151 @@
+{
+  "tramite": {
+    "slug": "solicitar-copias-de-documentos-fotograficos-audiovisuales-sonoros-y-escritos-en-alta",
+    "nombre": "Solicitar copias de documentos en alta resolución",
+    "nombre_busqueda": "Solicitar copias de documentos en alta resolución",
+    "resumen": "Podés pedir copias digitales en alta resolución de fotografías, audios, videos y escritos del Archivo General de la Nación. El trámite se hace en línea, pagás la tasa por E-Recauda y recibís el archivo digital.",
+    "sinonimos": [
+      "Solicitar copias de documentos en alta resolución",
+      "Pedir copias de documentos en alta resolución",
+      "Solicitar copias de documentos en alta resolución del Archivo General"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Archivo General de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que tenga DNI o Pasaporte."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento Nacional de Identidad o Pasaporte",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos personales (nombre, apellido, tipo de documento, número de documento, CUIL, correo electrónico, teléfono, dirección postal, código postal, ciudad, estado/provincia, país)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos de la productora (si solicitás audiovisuales o sonoros)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Información de los recortes solicitados (título del video, número de ID, time-code in, time-code out, breve descripción de la escena; o fondo documental, serie documental, número de caja, número de inventario, breve descripción de la imagen)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al formulario correspondiente según el tipo de documento (audiovisuales/sonoros o fotográficos)."
+      },
+      {
+        "texto": "Completá tus datos personales."
+      },
+      {
+        "texto": "Si vas a solicitar documentos audiovisuales y sonoros, completá los datos de la productora."
+      },
+      {
+        "texto": "Indicá cuántos recortes o piezas fotográficas solicitás y completá la información de cada uno."
+      },
+      {
+        "texto": "Aceptá los requisitos y obligaciones y pulsá enviar."
+      },
+      {
+        "texto": "El Archivo General de la Nación recibirá tu solicitud, la analizará y te enviará un presupuesto."
+      },
+      {
+        "texto": "Si aceptás el presupuesto, aboná a través de E-Recauda y enviá el comprobante de pago (ya pagado) a la dirección de correo que te indique el Archivo."
+      },
+      {
+        "texto": "El Archivo procederá a armar y enviarte el pedido solicitado a través de su sistema de transferencia digital."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Tené en cuenta que el Archivo General no re-digitaliza su acervo fotográfico a solicitud de usuarios.",
+      "Las fotografías disponibles son las que ya se encuentran digitalizadas.",
+      "Los videos se entregan en dos resoluciones: .mov en 1920 x 1080 pixeles (aspecto 16:9) o .avi en 720 x 576 pixeles (aspecto 4:3). Ambos son considerados de alta resolución.",
+      "Los audios se entregan en formato .wav.",
+      "Las fotografías se entregan en extensión .jpeg de 600 dpi.",
+      "Los escritos se entregan en extensión .jpeg de 300 dpi.",
+      "No todo el acervo video del Archivo General de la Nación se encuentra en Full HD.",
+      "Solo se puede solicitar un máximo de 15 recortes por solicitud.",
+      "Ningún recorte solicitado tiene que tener menor duración a 30 segundos.",
+      "El usuario no puede ingresar un nuevo pedido si tiene otro en proceso.",
+      "El plazo de entrega del material solicitado mediante su sistema de transferencia de archivos digitales es de 30 días hábiles.",
+      "El pago se realiza a través de la plataforma E-Recauda del Ministerio de Economía de la Nación.",
+      "Con clave fiscal se genera un volante electrónico de pago (vep) que se paga en forma electrónica a través de múltiples redes de pago (red Banelco, red LINK o Interbanking). El usuario debe poseer clave fiscal, mínimo, nivel 2.",
+      "Sin clave fiscal se genera una boleta de pago que se debe imprimir y pagar a través de alguna entidad de pago elegida según corresponda, en forma presencial (Bancos adheridos, Pago Fácil, Rapipago, etc.).",
+      "En la primera página del formulario de pago, elegí la Entidad Receptora (Tesorería General de la Nación, código 999) y la Entidad Ordenante (Vicejefatura de Gabinete de Interior, código 325).",
+      "Elige el Concepto de pago: “Compra de bienes y servicios” - “Servicios varios Administración Pública Nacional”.",
+      "Complete los campos cuit/cuil/cdi con su número de CUIT.",
+      "Indicá el monto a abonar en Pesos Argentinos.",
+      "Los campos “Documento de Instrucción” y “Norma de Respaldo” no se completan.",
+      "En el campo Observaciones colocá: “El pago corresponde a la solicitud de copiado de documentación en alta resolución del Archivo General de la Nación de la República Argentina”.",
+      "En “Datos de Contacto” completá con tu número de Teléfono y Correo Electrónico.",
+      "Generá la Boleta de Pago comprobando el captcha.",
+      "Luego de abonada la boleta o el VEP, enviá copia del Comprobante de Pago a la casilla: archivo@argentina.gob.ar.",
+      "El Archivo General confirmará el pago con Tesorería General de la Nación e iniciará el procesamiento de corte y copiado.",
+      "El Archivo General de la Nación no expide ningún tipo de factura de pago. La única disponible es la que otorga el propio sistema E-Recauda al usuario/a.",
+      "Si es la primera vez que ingresas con clave fiscal a e-Recauda, accedé a la página de ARCA (www.afip.gov.ar), presioná el botón Acceso con clave fiscal, ingresá la clave fiscal, la contraseña y presioná el botón ingresar.",
+      "Seleccioná el link “Administrador de Relaciones de Clave Fiscal”, presioná el botón “Nueva Relación”, seleccioná del listado la persona física / jurídica para la cual querés operar en e-Recauda y luego presioná el botón “Buscar”.",
+      "Seleccioná el botón “Ministerio de Hacienda y Finanzas Públicas”, luego “Servicios Interactivos” y finalmente hacé click en “e-Recauda”.",
+      "Si deseás ingresar con clave fiscal y ya realizaste los pasos descriptos en el punto anterior, seleccioná el recuadro “Acceso con Clave Fiscal” y presioná el botón Ingresar.",
+      "Al presionar el botón, se accede a la página de AFIP para autenticarse, donde en primera instancia deberás ingresar el dato correspondiente a CUIT, CUIL o CDI.",
+      "Una vez ingresado el CUIT, CUIL o CDI presioná el botón Siguiente, y se te solicitará su clave fiscal.",
+      "Una vez ingresada la clave presioná el botón Ingresar.",
+      "Al validarse los datos en forma satisfactoria accederá a la página principal del e-RECAUDA.",
+      "Con esta opción, podrés generar VEPs para su pago electrónico, o bien Boletas para su pago presencial en las Entidades habilitadas."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-copias-de-documentos-fotograficos-audiovisuales-sonoros-y-escritos-en-alta",
+      "titulo": "Solicitar copias de documentos fotográficos, audiovisuales, sonoros y escritos en alta resolución | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:03:09.167Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/interior/archivo-general-de-la-nacion/solicitar-copias-de-fotografias-en-alta-resolucion",
+      "titulo": "Solicitar copias de fotografías en alta resolución | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:03:09.167Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/interior/archivo-general-de-la-nacion/instructivo-de-pago-para-servicios-arancelados-del-archivo-general-de-la-nacion",
+      "titulo": "Instructivo de pago para servicios arancelados del Archivo General de la Nación | Argentina.gob.ar",
+      "bloques": [
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:03:09.167Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo de entrega del material solicitado mediante su sistema de transferencia de archivos digitales es de 30 días hábiles."
+  ]
+}

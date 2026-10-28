@@ -1,0 +1,94 @@
+{
+  "tramite": {
+    "slug": "oficios-judiciales-ssn",
+    "nombre": "Oficios judiciales ssn",
+    "nombre_busqueda": "Oficios judiciales ssn",
+    "resumen": "Presentá oficios judiciales a través de la plataforma TAD. Es un trámite gratuito que requiere usuario y clave en Mi Argentina o Clave Fiscal.",
+    "sinonimos": [],
+    "temas": [
+      "legalizaciones-y-apostillados"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Seguros de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Abogados",
+      "Juzgados",
+      "Fiscalías"
+    ],
+    "requisitos": [
+      {
+        "texto": "Usuario y clave en la plataforma MI ARGENTINA o Clave Fiscal",
+        "aclaracion": null
+      },
+      {
+        "texto": "Oficio en formato pdf con firma digital externa o con firma ológrafa",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos del juzgado oficiante: dirección, correo electrónico y teléfono del Juzgado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos del autorizado: CUIT/CUIL, apellido y nombre, correo electrónico y número de teléfono del profesional solicitante",
+        "aclaracion": null
+      },
+      {
+        "texto": "Información concreta que se solicita a la repartición y documental, si correspondiere, con transcripción del auto judicial que ordena el libramiento del oficio a la AGENCIA I+D+i",
+        "aclaracion": null
+      },
+      {
+        "texto": "Identificación del tipo de oficio que se presenta (Informes / Ampliatorio / Reiteratorio / Aclaratorio)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Transcripción de la prevención del Art. 398 CPCCN o norma procesal de similar alcance que establece el plazo para la contestación de pedidos de informes y las consecuencias de su incumplimiento",
+        "aclaracion": null
+      },
+      {
+        "texto": "Adicionalmente, en el supuesto del oficio diligenciado en los términos de la Ley 22.172, deberá contener los recaudos estipulados en dicha norma",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la página de TAD, trámite 'oficios judiciales ssn'"
+      },
+      {
+        "texto": "Completá el formulario de acuerdo al tipo de documentación a presentar: oficio con firma digital externa u oficio judicial confirma ológrafa (manuscrita)"
+      },
+      {
+        "texto": "Confirma el trámite"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/oficios-judiciales-ssn",
+      "titulo": "Oficios Judiciales SSN | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T23:13:52.492Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si se saca turno, ¿es online o presencial?"
+  ]
+}

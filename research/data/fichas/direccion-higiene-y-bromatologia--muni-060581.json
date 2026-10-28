@@ -1,0 +1,122 @@
+{
+  "tramite": {
+    "slug": "castracion-gratuita-de-mascotas",
+    "nombre": "Castrar a tu mascota",
+    "nombre_busqueda": "turno para castrar una mascota en Necochea",
+    "resumen": "La Municipalidad de Necochea ofrece castraciones gratuitas mediante un quirófano móvil que recorre la ciudad. Consultá dónde está y seguí los requisitos para llevar a tu mascota.",
+    "sinonimos": [
+      "castración gratuita",
+      "castración de mascotas"
+    ],
+    "temas": [
+      "castraciones-y-vacunas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060581",
+  "organismo": {
+    "nombre": "Dirección de Higiene y Bromatología de la Municipalidad de Necochea",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés llevar a tu perro o gato para castrarlo, sujeto a las edades y condiciones indicadas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Llevá a tu mascota con 12 horas de ayuno de alimentos sólidos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La mascota debe tener al menos 6 meses si es hembra.",
+        "aclaracion": "Si tu mascota es hembra."
+      },
+      {
+        "texto": "La mascota debe tener al menos 9 meses.",
+        "aclaracion": "Si tu mascota es macho."
+      },
+      {
+        "texto": "Esperá 75 días desde la última cría.",
+        "aclaracion": "Si tu mascota es una perra que tuvo cría."
+      },
+      {
+        "texto": "Esperá 35 días desde la última cría.",
+        "aclaracion": "Si tu mascota es una gata que tuvo cría."
+      },
+      {
+        "texto": "No lleves a la perra si está en celo.",
+        "aclaracion": "Si tu mascota es una perra."
+      },
+      {
+        "texto": "Llevá a la mascota con una persona adulta responsable, que debe quedarse durante la intervención, firmar el consentimiento y acreditar su identidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Llevá una manta para cubrir a tu mascota después de la intervención.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Transportá a tu gato en una mochila, bolsa de tela o red, o en un canil.",
+        "aclaracion": "Si llevás un gato."
+      },
+      {
+        "texto": "Llevá a tu mascota con bozal.",
+        "aclaracion": "Si presenta signos de agresividad."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Consultá la ubicación del quirófano móvil en el Facebook oficial de Protección Necochea o llamá al 423579."
+      },
+      {
+        "texto": "Acercate con tu mascota al quirófano móvil y cumplí los requisitos indicados."
+      },
+      {
+        "texto": "Acompañá a tu mascota durante la intervención y firmá el consentimiento."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": true,
+      "monto_centavos": null,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://necochea.gov.ar/secretaria-de-salud-publica/direccion-higiene-y-bromatologia/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Higiene y Bromatología",
+      "direccion": "Av. 43 y Calle 62",
+      "localidad": "Necochea",
+      "horario": null,
+      "fuente_url": "https://necochea.gov.ar/secretaria-de-salud-publica/direccion-higiene-y-bromatologia/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://necochea.gov.ar/secretaria-de-salud-publica/direccion-higiene-y-bromatologia/",
+      "titulo": "Dirección de Higiene y Bromatología – Municipalidad de Necochea",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T15:32:00.648Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se indica cómo solicitar un turno por WhatsApp ni si es obligatorio."
+  ]
+}

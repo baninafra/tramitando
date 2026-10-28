@@ -1,0 +1,125 @@
+{
+  "tramite": {
+    "slug": "certificar-supervivencia-rehabilitacion-haberes",
+    "nombre": "Certificar supervivencia para rehabilitar haberes",
+    "nombre_busqueda": "Certificar supervivencia para rehabilitar haberes",
+    "resumen": "Trámite gratuito para retirados y pensionistas militares que necesitan rehabilitar sus haberes suspendidos o dados de baja por no haberlos cobrado durante más de seis meses.",
+    "sinonimos": [
+      "Certificado de supervivencia IAF",
+      "Rehabilitar haberes retenidos"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones",
+      "pensiones-por-fallecimiento"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Retirados militares que necesiten rehabilitar haberes retenidos o dados de baja.",
+      "Pensionistas mujeres que necesiten rehabilitar haberes retenidos o dados de baja.",
+      "Pensionistas hombres que necesiten rehabilitar haberes retenidos o dados de baja."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del titular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de Supervivencia Simple (para retirados).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de Supervivencia y Estado Civil (para pensionistas mujeres).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de Supervivencia para pensionistas masculinos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia certificada de la documentación requerida si se envía por correo postal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Firma certificada por personal del IAF, autoridad policial, militar o notarial si se envía por correo postal.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá con tu CUIL y contraseña al portal eIAF Beneficiarios o a la App eIAF."
+      },
+      {
+        "texto": "Dejanos tu solicitud en el apartado Sistema Integrado de Consultas."
+      },
+      {
+        "texto": "Personal de Atención al Público te indicará los pasos a seguir para realizar el trámite."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate con la documentación requerida a la sede central del IAF en Cerrito 572 – CABA o a las Delegaciones del Interior."
+      },
+      {
+        "texto": "Presentá la documentación requerida."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "30 a 45 días",
+    "consejos": [
+      "El trámite se hará efectivo en la liquidación de haberes inmediata posterior a la presentación de la documentación.",
+      "Esto implica un plazo aproximado de entre 30 y 45 días según la fecha del mes en que se inicie el trámite."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede central del IAF",
+      "direccion": "Cerrito 572",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/certificar-supervivencia-para-la-rehabilitacion-de-haberes-de-retiro-y-pension-militar"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/certificar-supervivencia-para-la-rehabilitacion-de-haberes-de-retiro-y-pension-militar",
+      "titulo": "Certificar Supervivencia para la rehabilitación de haberes de retiro y pensión militar.",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-26T05:11:59.129Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/iaf",
+      "titulo": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-26T05:11:59.129Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horario de atención presencial: 08:00 a 13:00 horas.",
+    "Horario de atención telefónica: 08:00 a 15:00 horas.",
+    "Dirección postal exacta: Cerrito 572 (C1010AAL) – Ciudad Autónoma de Buenos Aires."
+  ]
+}

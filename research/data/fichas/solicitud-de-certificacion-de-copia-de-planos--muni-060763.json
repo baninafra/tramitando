@@ -1,0 +1,78 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-certificacion-de-copia-de-planos",
+    "nombre": "Solicitud de certificación de copia de planos o documentación",
+    "nombre_busqueda": "Certificación de copia de planos San Nicolás",
+    "resumen": "Este trámite permite a profesionales o particulares certificar copias de planos o documentación de un inmueble. Se realiza presentando la solicitud y el comprobante de titularidad en la Subsecretaría de Obras Privadas.",
+    "sinonimos": [
+      "Certificación de planos",
+      "Certificación de documentación inmobiliaria"
+    ],
+    "temas": [
+      "obras-y-construccion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060763",
+  "organismo": {
+    "nombre": "Municipalidad de San Nicolás de los Arroyos",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Profesionales",
+      "Particulares"
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de Solicitud de Certificación de Copia de Planos o Documentación",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de titularidad de inmueble del cual se solicita la información",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Completá la solicitud de Certificación de Copia de Planos o Documentación."
+      },
+      {
+        "texto": "Enviá un mail a obrasprivadas@sannicolas.gob.ar solicitando un turno."
+      },
+      {
+        "texto": "Presentate con la documentación en la Subsecretaría de Obras Privadas."
+      },
+      {
+        "texto": "Se te otorgará la certificación de la copia de plano o documentación solicitada."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.sannicolasciudad.gob.ar/tramites/obras-privadas/solicitud-de-certificacion-de-copia-de-planos",
+      "titulo": "Solicitud de certificación de copia de planos o documentación | Obras privadas | Trámites | San Nicolás Ciudad",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T15:10:18.368Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de la Subsecretaría de Obras Privadas",
+    "Localidad exacta de la Subsecretaría de Obras Privadas",
+    "Plazo de entrega de la certificación"
+  ]
+}

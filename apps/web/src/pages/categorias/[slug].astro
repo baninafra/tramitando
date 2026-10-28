@@ -1,0 +1,7 @@
+---
+// Las categorías planas se reemplazaron por la taxonomía de temas. Las URLs viejas hacen un 301
+// para no romper los links que ya andan dando vueltas.
+const slug = Astro.params.slug!;
+const query = Astro.url.search;
+return Astro.redirect(`/temas/${encodeURIComponent(slug)}${query}`, 301);
+---

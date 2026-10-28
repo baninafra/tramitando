@@ -1,0 +1,96 @@
+{
+  "tramite": {
+    "slug": "solicitar-certificacion-servicios-ex-trabajadores-seguros",
+    "nombre": "Solicitar la certificación de servicios para ex trabajadores de compañías de seguros en liquidación forzosa",
+    "nombre_busqueda": "certificacion servicios ex trabajadores seguros",
+    "resumen": "Si sos ex trabajador de una compañía de seguros en liquidación forzosa, podés pedir la certificación de servicios ante la Superintendencia de Seguros de la Nación. Es gratuito y da cuenta de la relación laboral, las remuneraciones percibidas y los aportes retenidos.",
+    "sinonimos": [
+      "certificacion servicios seguros liquidacion",
+      "certificacion servicios ex trabajadores seguros"
+    ],
+    "temas": [
+      "trabajo-y-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Seguros de la Nación",
+    "sigla": "SSN",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Ex trabajadores de compañías de seguros en liquidación forzosa."
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia del DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de Solicitud de la certificación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación complementaria que acredite la relación laboral (recibos de sueldo o certificaciones confeccionadas por el empleador) en caso de contar con ella.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación personalmente en Moreno 437 2° piso, CABA (de Lunes a Viernes de 9 a 18hs.)."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Gerencia de Liquidaciones de la SSN",
+      "direccion": "Moreno 437 2° piso, CABA (1067)",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-la-certificacion-servicios-para-ex-trabajadores-de-companias-de-seguros-en"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-certificacion-servicios-para-ex-trabajadores-de-companias-de-seguros-en",
+      "titulo": "Solicitar la certificación servicios para ex trabajadores de compañías de seguros en liquidación forzosa | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T09:44:22.424Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T09:44:22.424Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/",
+      "titulo": "Inicio | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T09:44:22.424Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si el trámite requiere turno, no se especifica en el texto.",
+    "Si el trámite requiere turno, no se especifica en el texto."
+  ]
+}

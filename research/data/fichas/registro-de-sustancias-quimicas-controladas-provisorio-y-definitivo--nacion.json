@@ -1,0 +1,160 @@
+{
+  "tramite": {
+    "slug": "registro-de-sustancias-quimicas-controladas",
+    "nombre": "Registrar sustancias químicas controladas",
+    "nombre_busqueda": "registro provisorio y definitivo de sustancias químicas controladas",
+    "resumen": "Solicitá el registro de sustancias químicas controladas para importarlas. El trámite incluye el registro provisorio, la orden de ensayo y análisis y el registro definitivo.",
+    "sinonimos": [
+      "registro de sustancias controladas",
+      "registro de químicos controlados"
+    ],
+    "temas": [
+      "comercio-e-industria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Agencia Nacional de Materiales Controlados",
+    "sigla": "ANMaC",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes necesitan importar sustancias controladas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de solicitud.",
+        "aclaracion": "Para el registro provisorio."
+      },
+      {
+        "texto": "Comprobante de pago del arancel de 10000000 centavos.",
+        "aclaracion": "Para el registro provisorio."
+      },
+      {
+        "texto": "Formulario FDT3, según la disposición 270/05.",
+        "aclaracion": "Para el registro provisorio."
+      },
+      {
+        "texto": "Identificación de la sustancia con su nomenclatura, número CAS, posición arancelaria, nombre químico y fórmula estructural.",
+        "aclaracion": "Para el registro provisorio."
+      },
+      {
+        "texto": "Documentación que acredite el destino de la sustancia, con detalle, material bibliográfico y antecedentes sobre el material y su uso en la actividad declarada.",
+        "aclaracion": "Para el registro provisorio."
+      },
+      {
+        "texto": "Especificación de la cantidad en unidades de peso y de los envases exteriores e interiores que se pretenden importar.",
+        "aclaracion": "Para el registro provisorio."
+      },
+      {
+        "texto": "Información sobre el embalaje y el etiquetado de las sustancias, con la documentación disponible.",
+        "aclaracion": "Para el registro provisorio."
+      },
+      {
+        "texto": "Información sobre las propiedades físicas: punto de ebullición, punto de inflamación, temperatura de autoignición y límites de explosividad en porcentaje de volumen en aire.",
+        "aclaracion": "Para el registro provisorio."
+      },
+      {
+        "texto": "Información sobre los peligros de incendio, explosión y exposición, incluidas las vías de exposición y sus consecuencias por inhalación, contacto con la piel, contacto con los ojos o ingestión.",
+        "aclaracion": "Para el registro provisorio."
+      },
+      {
+        "texto": "Información sobre las medidas de prevención y los primeros auxilios ante exposición, peligros, derrames o fugas, y sobre las condiciones adecuadas de almacenamiento.",
+        "aclaracion": "Para el registro provisorio."
+      },
+      {
+        "texto": "Identificación del proveedor de las sustancias o sus precursores, con razón social, domicilio y habilitaciones de la autoridad de aplicación del país donde está radicada la industria.",
+        "aclaracion": "Para el registro provisorio."
+      },
+      {
+        "texto": "Certificación del proveedor legalizada por la autoridad consular argentina en el país extranjero.",
+        "aclaracion": "Para el registro provisorio."
+      },
+      {
+        "texto": "Formularios de las leyes 23.283 y 23.412 completos.",
+        "aclaracion": "Para el registro provisorio."
+      },
+      {
+        "texto": "Ensayo del producto.",
+        "aclaracion": "Para el registro definitivo."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      },
+      {
+        "texto": "Esperá a que ANMaC verifique si la solicitud es pertinente."
+      },
+      {
+        "texto": "Presentá la orden de ensayo ante la entidad autorizada para que realice los análisis y ensayos."
+      },
+      {
+        "texto": "Pagá el costo de los ensayos periciales a la entidad autorizada."
+      },
+      {
+        "texto": "Esperá a que la entidad remita los resultados a ANMaC."
+      },
+      {
+        "texto": "Retirá la copia autenticada de los resultados que te otorgará ANMaC."
+      },
+      {
+        "texto": "Esperá a que ANMaC registre el producto y otorgue el certificado, si corresponde."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "Provisorio",
+      "gratis": false,
+      "monto_centavos": 10000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/registro-de-sustancias-quimicas-controladas-provisorio-y-definitivo"
+    },
+    {
+      "modalidad": "Orden de ensayo y registro de producto",
+      "gratis": false,
+      "monto_centavos": 10000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/registro-de-sustancias-quimicas-controladas-provisorio-y-definitivo"
+    },
+    {
+      "modalidad": "Definitivo",
+      "gratis": false,
+      "monto_centavos": 10000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/registro-de-sustancias-quimicas-controladas-provisorio-y-definitivo"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/registro-de-sustancias-quimicas-controladas-provisorio-y-definitivo",
+      "titulo": "Registro de sustancias químicas controladas (provisorio y definitivo) | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T15:29:21.984Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se indica el monto del costo de los ensayos periciales.",
+    "No se indica el plazo del trámite.",
+    "No se especifica si necesitás turno."
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "tramite": {
+    "slug": "legalizar-titulo-secundario-terciario",
+    "nombre": "Legalizar tu título secundario o terciario",
+    "nombre_busqueda": "legalizar certificado estudio secundario terciario",
+    "resumen": "Podés legalizar tu certificado de estudio secundario o terciario emitido a partir del 1ro. de enero de 2010 en el Ministerio de Educación de la provincia donde querés presentarlo. Si el título es universitario (antes del 2012), tenés que hacerlo en el Ministerio del Interior.",
+    "sinonimos": [
+      "legalizar certificado de estudios",
+      "legalizar título secundario",
+      "legalizar título terciario"
+    ],
+    "temas": [
+      "legalizaciones-y-apostillados",
+      "educacion-y-estudios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Educación de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A las personas que deseen presentar su certificado educativo correspondiente a estudios de educación secundaria y de educación superior (no universitaria) fuera de la jurisdicción educativa en donde se emitió."
+    ],
+    "requisitos": [
+      {
+        "texto": "Certificado educativo a legalizar firmado por la autoridad educativa de la provincia que lo emitió.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI perteneciente a la persona que realiza el trámite.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate con la documentación en el área de títulos educativos de la provincia (o ciudad Autónoma de Buenos Aires) en donde vayas o debas presentar el certificado de estudios."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si tu título secundario o terciario fue emitido antes del 1° de enero del 2010, o el universitario antes del 1° de enero de 2012, es necesario que lo legalices en el Ministerio del Interior.",
+      "Para certificados educativos emitidos a partir del 1ro. de enero de 2010, fijate en la fecha de emisión, no importa la fecha de egreso.",
+      "Los certificados educativos correctamente legalizados no tienen vencimiento. De acuerdo al tiempo transcurrido desde la última legalización, se podría solicitar una intervención que la actualice."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/legalizar-el-certificado-de-estudio-secundario-yo-terciario",
+      "titulo": "Legalizar el Certificado de Estudio Secundario y/o Terciario | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T05:20:55.275Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/legalizar-documentos-publicos",
+      "titulo": "Legalizar Documentos Públicos | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T05:20:55.275Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica si se requiere turno para este trámite presencial."
+  ]
+}

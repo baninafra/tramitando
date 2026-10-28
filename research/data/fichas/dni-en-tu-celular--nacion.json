@@ -1,0 +1,92 @@
+{
+  "tramite": {
+    "slug": "dni-en-tu-celular",
+    "nombre": "DNI en tu celular",
+    "nombre_busqueda": "DNI en tu celular",
+    "resumen": "El DNI en tu celular es opcional y tiene las mismas funciones que el DNI tarjeta, excepto para votar y viajar fuera del país. Mucha más comodidad a la hora de acreditar tu identidad.",
+    "sinonimos": [],
+    "temas": [
+      "dni"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Todas las personas argentinas o extranjeras con residencia vigente que hayan realizado la actualización de mayor 14 años.",
+      "Padres y/o madres de menores de 14 años, argentinos o extranjeras con residencia vigente, que hayan tramitado su DNI."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Teléfono celular con sistema operativo Android (a partir del 5.0.21) o iOS (a partir del 11.0).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Aplicación Mi Argentina descargada en el celular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cuenta con identidad validada Nivel 3 en la aplicación Mi Argentina.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Descargá la app Mi Argentina."
+      },
+      {
+        "texto": "Creá tu cuenta y completá la validación biométrica para poder acceder a tus credenciales digitales."
+      },
+      {
+        "texto": "Si querés acceder a tu DNI en tu celular, seleccioná tu apellido y nombre de la lista desplegable."
+      },
+      {
+        "texto": "Si querés acceder al DNI en tu celular de tus hijos menores, en la lista pueden aparecer sus datos, si no es así, podés usar el botón de Asociar un hijo/a como requisito previo a solicitar el DNI."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Recordá que es un elemento de identificación personal y no se puede instalar en dos dispositivos."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/dni-en-tu-celular",
+      "titulo": "DNI en tu celular | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T15:28:11.689Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T15:28:11.689Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica un plazo de tiempo para la tramitación.",
+    "El texto no menciona si se requiere sacar turno para acceder al trámite."
+  ]
+}

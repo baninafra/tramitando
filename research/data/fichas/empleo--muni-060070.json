@@ -1,0 +1,79 @@
+{
+  "tramite": {
+    "slug": "busqueda-de-empleo-y-seguro-de-desempleo",
+    "nombre": "Búsqueda y Registro en Oficina de Empleo",
+    "nombre_busqueda": "Oficina de Empleo Baradero",
+    "resumen": "La Oficina de Empleo de Baradero ofrece servicios gratuitos para personas de cualquier edad que buscan mejorar su situación laboral. Se realiza la carga de CV en base de datos para enviarlos a empresas.",
+    "sinonimos": [
+      "Oficina de Empleo Municipal",
+      "Intermediación laboral Baradero"
+    ],
+    "temas": [
+      "busqueda-de-empleo-y-seguro-de-desempleo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060070",
+  "organismo": {
+    "nombre": "Municipio de Baradero",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas de cualquier edad que buscan mejorar su situación laboral."
+    ],
+    "requisitos": [
+      {
+        "texto": "Presentar Curriculum Vitae.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Dirijite a la Oficina de Empleo ubicada en Araoz 995."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si presentá su CV y luego modificá algún dato, dirigite a la Oficina de Empleo en Rodríguez 477 o enviá un correo a [email protected] para actualizarlo manualmente, ya que no se concreta de manera automática."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Empleo",
+      "direccion": "Araoz 995",
+      "localidad": "Baradero",
+      "horario": null,
+      "fuente_url": "https://baradero.gob.ar/empleo/"
+    },
+    {
+      "nombre": "Oficina de Empleo",
+      "direccion": "Rodríguez 477",
+      "localidad": "Baradero",
+      "horario": null,
+      "fuente_url": "https://baradero.gob.ar/empleo/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://baradero.gob.ar/empleo/",
+      "titulo": "Empleo – Municipio de Baradero",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T21:22:56.659Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de la oficina para actualización de datos (Rodríguez 477) no está confirmada en el texto principal, aunque se menciona como alternativa.",
+    "Correo electrónico de contacto para actualización de datos no está confirmado en el texto principal, aunque se menciona [email protected]."
+  ]
+}

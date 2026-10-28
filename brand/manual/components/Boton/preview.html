@@ -1,0 +1,17 @@
+<!-- @dsCard group="Acciones" height=120 subtitle="Primario, secundario y enlace" -->
+<link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  body { margin: 0; background: var(--fondo); font-family: var(--font-sans); }
+  .fila { display: flex; flex-wrap: wrap; gap: var(--espacio-3); align-items: center; padding: var(--espacio-5); }
+  .btn { font: 600 14px/20px var(--font-sans); min-height: 44px; padding: var(--espacio-3) var(--espacio-4); border-radius: var(--radio-medio); border: 1.5px solid transparent; display: inline-flex; align-items: center; gap: var(--espacio-2); cursor: pointer; }
+  .btn:focus-visible { outline: 2px solid var(--foco); outline-offset: 2px; }
+  .primario { background: var(--accion); color: var(--on-accion); }
+  .secundario { background: transparent; color: var(--tinta); border-color: var(--borde-fuerte); }
+  .enlace { background: none; color: var(--celeste-tinta); text-decoration: underline; text-underline-offset: 3px; padding-inline: var(--espacio-1); }
+  svg { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+</style>
+<div class="fila">
+  <button class="btn primario">Ver requisitos</button>
+  <button class="btn secundario"><svg viewBox="0 0 24 24"><path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"/><path d="M4 22v-7"/></svg>Reportar un error</button>
+  <a class="btn enlace" href="#">Ver fuente oficial<svg viewBox="0 0 24 24"><path d="M15 3h6v6"/><path d="M10 14 21 3"/><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/></svg></a>
+</div>

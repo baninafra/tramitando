@@ -1,0 +1,78 @@
+{
+  "tramite": {
+    "slug": "consultar-historia-laboral",
+    "nombre": "Consultar tu historia laboral",
+    "nombre_busqueda": "consultar aportes e historia laboral",
+    "resumen": "Consultá los aportes de seguridad social registrados en ANSES, incluidas las declaraciones juradas de tu empleador y los aportes como trabajador autónomo o monotributista.",
+    "sinonimos": [
+      "consultar aportes"
+    ],
+    "temas": [
+      "aportes-e-historia-laboral"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración Nacional de la Seguridad Social",
+    "sigla": "ANSES",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en conocer el estado de sus aportes."
+    ],
+    "requisitos": [
+      {
+        "texto": "CUIL.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave de la Seguridad Social.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a mi ANSES con tu CUIL y tu Clave de la Seguridad Social."
+      },
+      {
+        "texto": "Elegí Trabajo y después Consultar Historia Laboral en el menú."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": true,
+      "monto_centavos": null,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/consultar-tu-historia-laboral"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consultar-tu-historia-laboral",
+      "titulo": "Consultar tu Historia Laboral | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T16:22:37.331Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa cuánto tarda la consulta.",
+    "No se indica si hace falta sacar turno."
+  ]
+}

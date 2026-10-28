@@ -1,0 +1,81 @@
+{
+  "tramite": {
+    "slug": "habilitacion-comercial",
+    "nombre": "Habilitación comercial",
+    "nombre_busqueda": "Habilitación comercial",
+    "resumen": "Trámite para obtener la habilitación comercial en la Municipalidad de Campana. Requiere DNI y pago de tasa.",
+    "sinonimos": [
+      "Licencia de comercio",
+      "Permiso de habilitación"
+    ],
+    "temas": [
+      "habilitacion-comercial"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060126",
+  "organismo": {
+    "nombre": "Municipalidad de Campana",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona natural o jurídica que desee habilitar un comercio."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original o fotocopia.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Llevá tu DNI original o fotocopia."
+      },
+      {
+        "texto": "Presentá el documento en la subsecretaría de Habilitaciones, Permisos e Inspección."
+      },
+      {
+        "texto": "Pagá la tasa correspondiente."
+      },
+      {
+        "texto": "Recibí el comprobante de pago y el turno."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://turnos.campana.gob.ar/hab/",
+    "plazo": null,
+    "consejos": [
+      "Llegá con tiempo para no perder el turno.",
+      "Traé el DNI original si tenés fotocopia."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://turnos.campana.gob.ar/hab/",
+      "titulo": "Turnero",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T11:35:43.173Z"
+    },
+    {
+      "url": "https://www.campana.gob.ar/",
+      "titulo": "Municipalidad de Campana",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T11:35:43.173Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa no aparece en el texto.",
+    "El plazo de tramitación no se indica en el texto."
+  ]
+}

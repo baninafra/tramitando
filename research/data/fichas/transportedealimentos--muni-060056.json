@@ -1,0 +1,93 @@
+{
+  "tramite": {
+    "slug": "habilitacion-de-transporte-de-alimentos",
+    "nombre": "Habilitación de transporte de alimentos",
+    "nombre_busqueda": "Habilitación transporte alimentos",
+    "resumen": "Solicitud digital para habilitar el transporte de alimentos. Se requiere ingresar datos y adjuntar documentación. El trámite es gratuito y no requiere pago de tasas.",
+    "sinonimos": [
+      "Habilitación bromatología transporte",
+      "Control equipos de frío transporte alimentos"
+    ],
+    "temas": [
+      "bromatologia-y-alimentos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas naturales o jurídicas que requieran habilitación o renovación anual de transporte de alimentos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Datos personales o datos de la razón social.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos del vehículo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Registrarse en el sitio de Mi Bahía."
+      },
+      {
+        "texto": "Ingresar al sitio Bromatología – Habilitación Transporte de Alimentos."
+      },
+      {
+        "texto": "Ingresar una nueva planilla con los datos personales o de la razón social, y los datos del vehículo."
+      },
+      {
+        "texto": "Adjuntar la documentación indicada."
+      },
+      {
+        "texto": "Finalizar el ingreso de datos para enviar la planilla al municipio para su análisis."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "72 hs hábiles",
+    "consejos": [
+      "No debe registrar deuda para realizar el trámite.",
+      "La solicitud de la baja de una unidad se realiza únicamente en Recaudación.",
+      "Si bien la habilitación municipal para transporte de cárnicos es válida, tenga en cuenta que dicha habilitación no lo exime de la obligación de transportar esa mercadería amparada por el correspondiente permiso sanitario."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina 11",
+      "direccion": "Luis María Drago 1900",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/bromatologia/transportedealimentos/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/tramites/bromatologia/transportedealimentos/",
+      "titulo": "Habilitación de Transporte de Alimentos | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T20:01:32.586Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere información sobre la documentación específica a adjuntar en la planilla.",
+    "Se requiere información sobre el monto exacto en centavos de peso si aplica algún costo oculto o tasa no explícita."
+  ]
+}

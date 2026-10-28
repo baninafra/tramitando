@@ -1,0 +1,58 @@
+{
+  "tramite": {
+    "slug": "exenciones-y-tasa-social",
+    "nombre": "Exención de tasas por edad",
+    "nombre_busqueda": "Exención de tasas jubilados",
+    "resumen": "Si tenés más de 75 años, no pagás nada por este trámite.",
+    "sinonimos": [
+      "Exención de tasas jubilados",
+      "Exención de tasas por edad"
+    ],
+    "temas": [
+      "adultos-mayores"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060260",
+  "organismo": {
+    "nombre": "Municipio Esteban Echeverría",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas mayores de 75 años."
+    ],
+    "requisitos": [
+      {
+        "texto": "Más de 75 años.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.estebanecheverria.gob.ar/mas-75-no-pagas-nada/",
+      "titulo": "Si tenés más de 75 no pagás nada – Esteban Echeverría",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-28T00:00:28.592Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina donde se realiza el trámite.",
+    "Horarios de atención.",
+    "Si se requiere turno."
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "tramite": {
+    "slug": "cambio-de-titularidad-del-inmueble",
+    "nombre": "Cambio de titularidad del inmueble",
+    "nombre_busqueda": "Cambio de titularidad del inmueble",
+    "resumen": "El propietario, escribano o tramitante puede realizar este trámite para cambiar la titularidad de un inmueble. Se requiere una fotocopia completa de la escritura y se realiza de forma presencial en la Oficina de Rentas.",
+    "sinonimos": [],
+    "temas": [
+      "catastro-e-inmuebles",
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060742",
+  "organismo": {
+    "nombre": "Municipalidad de San Cayetano",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El propietario",
+      "El escribano",
+      "El tramitante"
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia completa de la escritura",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación requerida en la Oficina de Rentas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Rentas",
+      "direccion": "Av. San Martín 451",
+      "localidad": "San Cayetano",
+      "horario": null,
+      "fuente_url": "https://sancayetano.gob.ar/cambio-de-titularidad-del-inmueble/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://sancayetano.gob.ar/cambio-de-titularidad-del-inmueble/",
+      "titulo": "Cambio de titularidad del inmueble - San Cayetano | Municipalidad",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "donde",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T10:44:17.226Z"
+    },
+    {
+      "url": "https://sancayetano.gob.ar/categoria/tramites/",
+      "titulo": "Trámites - San Cayetano | Municipalidad",
+      "bloques": [
+        "quien",
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-28T10:44:17.226Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos adicionales más allá de la escritura.",
+    "No se especifican plazos de espera ni tiempos de atención.",
+    "No se especifican costos asociados al trámite.",
+    "No se especifica si se requiere turno previo."
+  ]
+}

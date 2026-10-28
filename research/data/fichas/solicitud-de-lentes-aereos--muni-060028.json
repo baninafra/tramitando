@@ -1,0 +1,76 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-lentes-aereos",
+    "nombre": "Solicitud de lentes aéreos",
+    "nombre_busqueda": "Solicitud de lentes aéreos",
+    "resumen": "Trámite municipal para solicitar lentes oftálmicos con montura ligera (aéreos) para personas que requieren corrección visual y cumplen los requisitos del programa de salud municipal.",
+    "sinonimos": [],
+    "temas": [
+      "salud-municipal",
+      "medicamentos-y-farmacia-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060028",
+  "organismo": {
+    "nombre": "Municipio de Almirante Brown",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que tengan D.N.I. con domicilio en Almirante Brown.",
+      "Personas que tengan orden médica.",
+      "Personas que tengan negativa de ANSES."
+    ],
+    "requisitos": [
+      {
+        "texto": "D.N.I. con domicilio en Almirante Brown.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Orden médica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Negativa ANSES.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Centro de acceso a derechos para personas con discapacidad",
+      "direccion": "Pellegrini 1015",
+      "localidad": "Burzaco",
+      "horario": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/solicitud-de-lentes-aereos/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.brown.gob.ar/tramites/solicitud-de-lentes-aereos/",
+      "titulo": "Solicitud De Lentes Aéreos",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "resumen",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T01:36:16.848Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se desconoce si el trámite se puede realizar por internet.",
+    "Se desconoce si se requiere sacar turno.",
+    "Se desconoce el plazo de atención.",
+    "Se desconoce si hay costos asociados al trámite."
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "tramite": {
+    "slug": "licencia-de-conducir",
+    "nombre": "Licencia de conducir",
+    "nombre_busqueda": "Sacar licencia de conducir",
+    "resumen": "Tramite la habilitación para conducir vehículos en la provincia de Buenos Aires cumpliendo los requisitos legales y presentándolos en la Oficina de Tránsito.",
+    "sinonimos": [
+      "Licencia nacional de conducir",
+      "Permiso de conducir",
+      "Carnet de conducir"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060168",
+  "organismo": {
+    "nombre": "Oficina de Tránsito",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que cumpla con los requisitos de la Ley Nacional Nº 24.449 y Provincial Nº 13.927 y su Decreto Reglamentario Nº 532/09."
+    ],
+    "requisitos": [
+      {
+        "texto": "Presentar original y copia de DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar grupo y factor sanguíneo del titular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acompañar autorización del representante legal, si fuere menor de 18 años.",
+        "aclaracion": "Si sos menor de edad."
+      },
+      {
+        "texto": "Saber leer y escribir.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Encontrarse habilitado para la/s clases que se solicita.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener libre deuda de infracciones de tránsito.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Abonar los aranceles que correspondan.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Asistir al curso teórico-práctico de educación para la seguridad vial.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Aprobar los exámenes médico psicofísico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Aprobar los exámenes teórico de conocimientos sobre educación y ética ciudadana, conducción, señalamiento y legislación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Aprobar los exámenes teórico práctico sobre detección de fallas de los elementos de seguridad del vehículo y de las funciones del equipamiento e instrumental.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Aprobar el examen práctico de idoneidad conductiva.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Antecedentes Penales para todas las clases de la Licencia.",
+        "aclaracion": "Solo para conductores profesionales."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá original y copia de DNI."
+      },
+      {
+        "texto": "Presentá grupo y factor sanguíneo del titular."
+      },
+      {
+        "texto": "Acompañá autorización del representante legal, si sos menor de 18 años."
+      },
+      {
+        "texto": "Verificá que sepás leer y escribir."
+      },
+      {
+        "texto": "Confirmá que estés habilitado para la clase que solicitás."
+      },
+      {
+        "texto": "Verificá que tu deuda de infracciones de tránsito esté libre."
+      },
+      {
+        "texto": "Aboná los aranceles que correspondan."
+      },
+      {
+        "texto": "Asistí al curso teórico-práctico de educación para la seguridad vial."
+      },
+      {
+        "texto": "Aprobá los exámenes médico psicofísico."
+      },
+      {
+        "texto": "Aprobá los exámenes teórico de conocimientos sobre educación y ética ciudadana, conducción, señalamiento y legislación."
+      },
+      {
+        "texto": "Aprobá los exámenes teórico práctico sobre detección de fallas de los elementos de seguridad del vehículo y de las funciones del equipamiento e instrumental."
+      },
+      {
+        "texto": "Aprobá el examen práctico de idoneidad conductiva."
+      },
+      {
+        "texto": "Presentá Certificado de Antecedentes Penales, si sos conductor profesional."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Tránsito",
+      "direccion": "Av. 25 de Mayo 205",
+      "localidad": "Castelli",
+      "horario": null,
+      "fuente_url": "https://www.castelli.gob.ar/oficina-de-transito/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.castelli.gob.ar/oficina-de-transito/",
+      "titulo": "Oficina de Tránsito – Municipalidad de Castelli",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T04:39:46.333Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos en centavos de peso.",
+    "No se especifica el plazo de tramitación.",
+    "No se especifica si se requiere turno."
+  ]
+}

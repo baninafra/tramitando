@@ -1,0 +1,91 @@
+{
+  "tramite": {
+    "slug": "alta-y-modificacion-solicitantes-san-martin-automotor",
+    "nombre": "Alta y modificación solicitantes San Martín automotor",
+    "nombre_busqueda": "Alta y modificación solicitantes San Martín automotor",
+    "resumen": "Este trámite permite registrar o actualizar datos de los solicitantes que operan vehículos automotores en el municipio de San Martín.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060371",
+  "organismo": {
+    "nombre": "Municipalidad de San Martín",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Solicitantes que operen vehículos automotores en el municipio de San Martín."
+    ],
+    "requisitos": [
+      {
+        "texto": "Copia del DNI del solicitante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del DNI del conductor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de la cédula de identidad del conductor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del certificado de circulación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del certificado de responsabilidad civil.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de la póliza de seguro.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de la factura de compra del vehículo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá los documentos requeridos en la oficina."
+      },
+      {
+        "texto": "Recibí el comprobante de pago de la tasa correspondiente."
+      },
+      {
+        "texto": "Retirá el certificado de alta o modificación en el horario establecido."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://sanmartin.gob.ar/tramites/alta-y-modificacion-solicitantes-san-martin-automotor",
+      "titulo": "Alta y modificación solicitantes San Martín automotor",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T13:43:25.731Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere confirmar si el trámite es gratuito o si hay costos asociados.",
+    "Se requiere confirmar el plazo de atención del trámite.",
+    "Se requiere confirmar si se puede realizar el trámite en línea.",
+    "Se requiere confirmar si se requiere sacar turno y cómo hacerlo.",
+    "Se requiere confirmar los nombres exactos de las oficinas donde se puede realizar el trámite."
+  ]
+}

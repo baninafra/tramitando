@@ -1,0 +1,68 @@
+{
+  "tramite": {
+    "slug": "rectificacion-de-disposicion",
+    "nombre": "Rectificar una disposición",
+    "nombre_busqueda": "Rectificar una disposición",
+    "resumen": "Es el trámite por el cual se solicita la rectificatoria de una Comunicación Oficial. Es gratuito y se realiza en línea.",
+    "sinonimos": [],
+    "temas": [
+      "legalizaciones-y-apostillados"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Interesado"
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de solicitud",
+        "aclaracion": null
+      },
+      {
+        "texto": "Disposición a subsanar",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave fiscal nivel 2 o superior de la AFIP o Apoderamiento en trámites a distancia para realizar el registro",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al TAD, identifícate con tu CUIT y Clave Fiscal y busca el trámite seleccionado."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/rectificar-una-disposicion",
+      "titulo": "Rectificar una disposición | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:51:34.131Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica un plazo de tiempo para la resolución del trámite."
+  ]
+}

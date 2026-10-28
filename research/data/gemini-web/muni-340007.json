@@ -1,0 +1,53 @@
+I'll research the official municipal website for Laguna Yema, Formosa.
+The municipal site is only a landing page with no trámites. Let me check the provincial guide structure and municipal-specific pages.
+## Objective
+- Relevar el catálogo oficial de trámites para personas de **Municipalidad de Laguna Yema** (`muni-340007`, Formosa) y responder solo con el JSON indicado.
+
+## Important Details
+- Formato obligatorio, sin texto antes ni después: `{"jurisdiccion_id":"muni-340007","guia_url":"https://... o null","notas":"...","tramites":[{"nombre_oficial":"...","url":"https://...gob.ar/...","organismo":"... o null"}]}`.
+- Solo dominios oficiales `.gob.ar`/`.gov.ar`; abrir cada página citada; incluir trámites de personas, no de grandes empresas/sociedades; hasta 400; no escribir archivos ni ejecutar programas que modifiquen nada.
+- `https://www.lagunayema.gob.ar/` existe pero es una landing institucional: información de la ciudad, autoridades, Ordenanza N° 21/2024 y contacto; no tiene guía ni fichas de trámites.
+- Se probaron rutas municipales y dieron error: `/tramites`, `/servicios`, `/laciudad`, `/index.php/laciudad`, `/sitemap.xml`, `/robots.txt`.
+- No hay páginas municipales de secretarías/organismos con trámites para Laguna Yema.
+- La guía provincial es `https://www.formosa.gob.ar/tramites`; ya existe entrada `prov-34` en `research/data/portales.json` con esa `guia_url`.
+- La arquitectura define herencia de fichas `municipio → provincia → Nación`; duplicar trámites provinciales bajo `muni-340007` sería semánticamente incorrecto. Los catálogos municipales previos solo usan URLs del sitio municipal.
+- `https://www.formosatuciudad.gob.ar/tramites` parece corresponder a la ciudad capital de Formosa, no a Laguna Yema; no usarlo sin verificar.
+- La paginación de la guía provincial parece basada en sesión/POST; `/tramites/buscar/pagina/N` no mantuvo confiablemente el filtro de `ciudadanos`.
+- Decisión en curso: devolver `tramites: []` y `guia_url: null`, explicando en `notas` que no hay trámites municipales publicados y que los provinciales se heredan desde `prov-34`.
+
+## Work State
+### Completed
+- Abierto `https://www.lagunayema.gob.ar/` y verificado que es solo una página institucional sin navegación de trámites.
+- Buscado `site:lagunayema.gob.ar trámite OR trámites OR habilitación OR licencia`; solo aparece la home.
+- Probadas rutas municipales comunes; todas devuelven 404/405.
+- Revisados portales de Herradura y Las Lomitas: usan la misma plantilla landing; `https://www.herradura.gob.ar/tramites` también da 404.
+- Revisada la guía provincial `https://www.formosa.gob.ar/tramites` y sus listados por destinatarios/temas/organismos.
+- Verificado que no hay archivos `research/data/catalogo/muni-34*.json`.
+- Revisados `research/data/catalogo/muni-060007.json`, `research/src/pasos/catalogo.ts`, `research/src/pasos/municipio-local.ts` y `docs/arquitectura.md`.
+- Confirmado que `research/data/deepseek-tanda.tsv` incluye `muni-340007` en la línea 11 y `research/data/municipios-todos.tsv` en la línea 1946.
+- No se modificó ningún archivo.
+
+### Active
+- Definir la respuesta final: postura actual es JSON con `guia_url: null`, `tramites: []` y notas detalladas sobre el portal municipal sin guía y la herencia provincial.
+- Alternativa considerada y descartada por ahora: copiar trámites de personas desde `https://www.formosa.gob.ar/tramites` bajo `muni-340007`, lo que duplicaría el catálogo provincial.
+
+### Blocked
+- No se encontraron fichas oficiales de trámites municipales de Laguna Yema ni una guía municipal navegable.
+- Sin URLs municipales verificables, no se puede poblar `tramites` con datos propios del municipio.
+
+## Next Move
+1. Emitir el JSON final con `guia_url: null` y `tramites: []`, incluyendo en `notas`: portal municipal solo institucional, rutas 404, ausencia de organismos con trámites y guía provincial `https://www.formosa.gob.ar/tramites` heredada como `prov-34`.
+2. Si se optara por el fallback provincial, relevar solo trámites de personas desde la guía de Formosa y aceptar explícitamente la duplicación; no usar `formosatuciudad.gob.ar` para Laguna Yema.
+
+## Relevant Files
+- `C:\Users\fbani\AppData\Local\Claude-Data\claude_pzs8sxrjxfjjc\scratch-workspaces\d0e9c678-3321-4059-bbc9-2dcfada3d825\34b7d72a-c94d-4fe0-b52f-92c10a825803\scratch-2026-10-21-ab6346\` — raíz del workspace; las rutas siguientes son relativas.
+- `research\prompts\web-catalogo.md` — plantilla exacta del pedido y esquema JSON.
+- `research\data\portales.json` — entrada `prov-34` con `guia_url: https://www.formosa.gob.ar/tramites`; no hay entrada `muni-340007`.
+- `research\data\catalogo\muni-060007.json` — ejemplo previo de catálogo municipal basado solo en URLs del sitio municipal.
+- `research\src\pasos\catalogo.ts` — lógica de catálogo por portal/jurisdicción.
+- `research\src\pasos\municipio-local.ts` — respaldo de crawling municipal.
+- `docs\arquitectura.md` — herencia de fichas `municipio → provincia → Nación` y endpoints `/v1/fichas`.
+- `research\data\deepseek-tanda.tsv` — lote que contiene `muni-340007` en línea 11.
+- `research\data\municipios-todos.tsv` — listado completo; `muni-340007` en línea 1946.
+Continue if you have next steps, or stop and ask for clarification if you are unsure how to proceed.
+{"jurisdiccion_id":"muni-340007","guia_url":null,"notas":"El sitio oficial https://www.lagunayema.gob.ar/ es solo una página institucional (información de la ciudad, autoridades y Ordenanza N° 21/2024), sin guía ni fichas de trámites; /tramites, /servicios, /areas, /gobierno, /ordenanzas, /laciudad y /sitemap.xml no existen. No hay páginas de secretarías u organismos municipales con trámites. Los trámites provinciales que se atienden en la localidad están en la guía provincial https://www.formosa.gob.ar/tramites y corresponden a la jurisdicción prov-34; no se duplican como trámites municipales. No se encontraron trámites municipales para personas publicados en dominios oficiales.","tramites":[]}

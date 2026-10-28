@@ -1,0 +1,224 @@
+{
+  "tramite": {
+    "slug": "afiliaciones-incluir-salud",
+    "nombre": "Afiliación al Programa Federal Incluir Salud",
+    "nombre_busqueda": "Afiliación Incluir Salud",
+    "resumen": "Brinda cobertura médico-asistencial gratuita a titulares de pensiones no contributivas que no tengan cobertura médica previa. El trámite es presencial y requiere documentación específica según si sos titular o querés afiliar a un familiar a cargo.",
+    "sinonimos": [
+      "Afiliación Pensión No Contributiva",
+      "Inscripción Incluir Salud",
+      "Cobertura médico-asistencial PNC"
+    ],
+    "temas": [
+      "cuidados-domiciliarios-y-salud-mental",
+      "pensiones-no-contributivas-por-invalidez"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Secretaría Nacional de Discapacidad",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de pensiones no contributivas que no posean cobertura médica como beneficiario del Sistema Nacional de Seguro de Salud o de la Obra Social Provincial.",
+      "Titulares de pensiones asistenciales: madres con siete hijos o más, personas con discapacidad, con invalidez, mayores de 70 años en situación de pobreza.",
+      "Beneficiarios de pensiones por leyes especiales: ex-combatientes de Malvinas, familiares de desaparecidos, precursores de la Antártida Argentina, ganadores de Premios Nobel u Olímpicos, prelados, etc.",
+      "Beneficiarios de pensiones graciables: personas designadas por legisladores del Congreso Nacional.",
+      "Familiares a cargo que cumplan con la Resolución 1862/11 del Ministerio de Salud de la Nación y requieran atención especial de salud."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del titular del beneficio (frente y dorso).",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del apoderado (siempre que figure en el recibo de cobro de la PNC).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Último recibo de cobro de la PNC del titular solicitante donde conste el número de beneficio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de ABM de afiliaciones (Anexo I).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para un familiar a cargo: DNI del titular del beneficio (frente y dorso).",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del apoderado (siempre que figure en el recibo de cobro de la PNC).",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del familiar que se pretende afiliar (anverso y reverso).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que acredite el vínculo familiar (ejemplo: Partida de nacimiento; Partida de matrimonio; Partida de unión civil / convivencial).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Último recibo de cobro de la PNC del titular solicitante donde conste el número de beneficio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Resumen de historia clínica, con certificación de médico tratante (firma, sello y matrícula), donde conste la patología crónica de base en cuestión.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de afiliación de familiar a cargo (Anexo II) para hijos menores de edad, cónyuges o convivientes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de evaluación de discapacidad para hijos con discapacidad (cuando corresponda).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Modelo de carta de renuncia para titular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para generar la Modificación de datos - Titulares: DNI del titular del beneficio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del apoderado (siempre que figure en el recibo de cobro de la PNC).",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del representante legal en aquellos casos en que el titular de derecho sea menor de edad y no figure apoderado en el recibo de cobro de la pensión no contributiva.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Último recibo de cobro de la PNC del titular solicitante donde conste el número de beneficio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación de domicilio expedido por autoridad competente (policía o Registro Civil) si el domicilio no está actualizado en el DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de ABM de afiliaciones (Anexo I).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para generar las Modificación de datos de familiares a cargo: DNI del titular del beneficio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del apoderado (siempre que figure en el recibo de cobro de la PNC).",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del representante legal (frente y dorso) en aquellos casos en que el titular de derecho sea menor de edad y no figure apoderado en el recibo de cobro de la pensión no contributiva.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del familiar a cargo que se pretende modificar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación de domicilio expedido por autoridad competente si el domicilio no está actualizado en el DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de ABM de afiliaciones (Anexo I).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para generar la baja de beneficiarios del Programa Federal Incluir Salud: DNI del titular de la Pensión No Contributiva.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del apoderado si lo hubiere (consta en el recibo de cobro de la PNC).",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del representante legal, en caso de titulares de derecho menores de edad que no tengan designado un apoderado en el recibo de cobro de la PNC.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Último recibo de cobro de la PNC (donde conste el número de beneficio).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Carta de renuncia (Descargar modelo de carta de renuncia de la página Web de la Secretaría Nacional de Discapacidad apartado Programa Federal Incluir Salud).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de ABM de afiliaciones (Anexo I).",
+        "aclaracion": null
+      },
+      {
+        "texto": "En el caso de fallecimiento de familiar a cargo: Partida de defunción.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del familiar a cargo respecto de quien se solicita la baja al Programa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del representante legal en caso de solicitar la baja de un menor de edad o persona con discapacidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Modelo de carta de renuncia para familiar a cargo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Partida de defunción en el caso de fallecimiento de familiar a cargo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en una oficina del Programa Federal Incluir Salud."
+      },
+      {
+        "texto": "Llevá toda la documentación requerida según si sos titular o querés afiliar a un familiar a cargo."
+      },
+      {
+        "texto": "Completá los formularios de ABM de afiliaciones (Anexo I) y, si corresponde, los Anexos II o III."
+      },
+      {
+        "texto": "Entregá la documentación y los formularios al personal de la oficina."
+      },
+      {
+        "texto": "Recibí tu alta en el programa."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si la provincia que figura en tu DNI no coincide donde actualmente vivís, te van a solicitar un certificado de domicilio actualizado.",
+      "Para generar la baja, podés solicitarla por renuncia o informe de fallecimiento."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/afiliaciones",
+      "titulo": "Afiliaciones | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T04:25:03.459Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del programa."
+  ]
+}

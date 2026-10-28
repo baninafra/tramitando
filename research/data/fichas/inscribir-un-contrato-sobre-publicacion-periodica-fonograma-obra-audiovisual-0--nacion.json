@@ -1,0 +1,124 @@
+{
+  "tramite": {
+    "slug": "inscripcion-de-contratos-derechos-de-autor",
+    "nombre": "Inscripción de contratos sobre derechos de autor",
+    "nombre_busqueda": "Inscripción de contratos derechos de autor",
+    "resumen": "Este trámite permite inscribir ante la DNDA contratos sobre publicaciones periódicas, fonogramas, obras audiovisuales, cinematográficas, teatrales y coreográficas. Se requiere pagar tasas al Fondo Cooperador y al Fondo Nacional de las Artes, presentar el contrato firmado y el DNI.",
+    "sinonimos": [
+      "Inscripción de contratos DNDA",
+      "Contrato derechos de autor fonograma",
+      "Inscripción contrato obra audiovisual"
+    ],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional del Derecho de Autor",
+    "sigla": "DNDA",
+    "web": "https://www.argentina.gob.ar/servicio/inscribir-un-contrato-sobre-publicacion-periodica-fonograma-obra-audiovisual-0"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan un contrato que tenga como objeto publicaciones periódicas, fonogramas, obras audiovisuales o cinematográficas, teatrales y coreográficas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Comprobante de pago del trámite por depósito o transferencia bancaria a la cuenta del Fondo Cooperador (Ley 23412) DNDA-CAPIF.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago de la tasa por depósito o transferencia bancaria a la cuenta del Fondo Nacional de las Artes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contrato firmado por las partes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el contrato está redactado en otro idioma, traducción legalizada por el Colegio de Traductores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del presentante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poder o autorización (en caso de corresponder).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD, buscá 'Inscripción de contratos que involucran derechos de autor' e iniciá el trámite."
+      },
+      {
+        "texto": "Subí la documentación obligatoria y complementaria."
+      },
+      {
+        "texto": "Al finalizar se otorgará un número de Expediente Electrónico (carátula variable)."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Realizá tu trámite de manera presencial en Ciudad Autónoma de Buenos Aires, con turno, en Moreno 1230 de 9:30 a 14:30."
+      },
+      {
+        "texto": "O en La Plata, Provincia de Bs. As, sin turno en Calle 13 N° 129 de 8:00 a 14:00."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si no tenés subsanaciones, en una semana recibirás la constancia de inscripción digital."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 450000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-un-contrato-sobre-publicacion-periodica-fonograma-obra-audiovisual-0"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Oficina de la DNDA en CABA",
+      "direccion": "Moreno 1230",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-un-contrato-sobre-publicacion-periodica-fonograma-obra-audiovisual-0"
+    },
+    {
+      "nombre": "Oficina de la DNDA en La Plata",
+      "direccion": "Calle 13 N° 129",
+      "localidad": "La Plata",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-un-contrato-sobre-publicacion-periodica-fonograma-obra-audiovisual-0"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribir-un-contrato-sobre-publicacion-periodica-fonograma-obra-audiovisual-0",
+      "titulo": "Inscribir un contrato sobre publicación periódica, fonograma, obra audiovisual, cinematográfica, teatral o coreográfica | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T17:00:31.870Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa legal depende del monto del contrato y no se especifica un valor fijo único en el texto.",
+    "La URL para sacar turno en línea no se encuentra en las páginas descargadas."
+  ]
+}

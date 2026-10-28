@@ -1,0 +1,128 @@
+{
+  "tramite": {
+    "slug": "reclamos-danos-vehiculos",
+    "nombre": "Reclamar por daños en vehículos",
+    "nombre_busqueda": "reclamo por daños en vehículos",
+    "resumen": "Presentá una nota para reclamar por daños en un vehículo. Adjuntá los datos y documentos requeridos, además de fotos del daño.",
+    "sinonimos": [
+      "reclamo por daños al vehículo"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060441",
+  "organismo": {
+    "nombre": "Mesa General de Entradas - Municipalidad de La Plata",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "La página no especifica quiénes pueden presentar este reclamo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de solicitud con los datos completos del solicitante: nombre y apellido, número de documento, domicilio real y correo electrónico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descripción detallada de los hechos y, si hace falta, la norma legal que fundamenta el derecho invocado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Petición clara y precisa, con el objetivo del trámite.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que respalde el derecho del solicitante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de la licencia de conducir.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del título del automotor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Póliza vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Negativa del seguro.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dos presupuestos para la reparación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotos del daño ocasionado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Factura de pago del arreglo.",
+        "aclaracion": "Si ya pagaste el arreglo."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá una nota con los datos completos, los detalles del caso y las fotos del daño."
+      },
+      {
+        "texto": "Adjuntá los documentos y comprobantes requeridos."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "No incluyas videos: la página indica que no se toman."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Centro Administrativo Municipal",
+      "direccion": "Diagonal 80 N° 942 esquina 48",
+      "localidad": "La Plata",
+      "horario": null,
+      "fuente_url": "https://tramites.laplata.gob.ar/mesaentrada/reclamos-en-vehiculos.html"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://tramites.laplata.gob.ar/mesaentrada/reclamos-en-vehiculos.html",
+      "titulo": "Mesa General de Entradas - Municipalidad de La Plata",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T14:20:27.741Z"
+    },
+    {
+      "url": "https://cam.laplata.gob.ar/index.html",
+      "titulo": "Centro Administrativo Municipal",
+      "bloques": [
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T14:20:27.741Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La página no especifica quiénes pueden presentar el reclamo.",
+    "La página no informa si el trámite requiere turno.",
+    "La página no indica el plazo de resolución."
+  ]
+}

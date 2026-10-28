@@ -1,0 +1,101 @@
+{
+  "tramite": {
+    "slug": "acceso-medicamentos-oncologicos-banco-drogas",
+    "nombre": "Acceso a medicamentos oncológicos del Banco de Drogas",
+    "nombre_busqueda": "Banco de Drogas medicamentos oncológicos",
+    "resumen": "Recibí medicamentos oncológicos de forma gratuita si tenés cobertura pública exclusiva y no tenés obras sociales. El trámite es gratuito y se realiza presentando documentación ante la jurisdicción correspondiente.",
+    "sinonimos": [
+      "Medicamentos oncológicos gratuitos",
+      "Banco de Drogas Especiales"
+    ],
+    "temas": [
+      "salud-y-prevencion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Salud de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas con cobertura de salud pública exclusiva.",
+      "Pacientes que cursan patologías oncológicas con imposibilidad de provisión por parte de las jurisdicciones de residencia."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener sólo cobertura pública de salud.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditar mediante la certificación negativa de ANSES o certificado del organismo que corresponda según la jurisdicción de residencia, la no cobertura mediante el sistema de salud de obras sociales o prepagas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ser asistida en hospital público.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar la documentación requerida tanto para la admisión y continuidad de tratamiento ante la jurisdicción que corresponda.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La prescripción médica debe circunscribirse a las drogas que forman parte del Listado Complementario de Medicamentos Oncológicos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La cobertura abarcará los medicamentos que se encuentren incluidos en el Listado Complementario de Medicamentos Oncológicos vigente del Banco de Drogas y que se encuentren disponibles al momento de la solicitud.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación requerida tanto para la admisión y continuidad de tratamiento ante la jurisdicción que corresponda."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La certificación negativa de ANSES o certificado del organismo que corresponda deberá ser renovado trimestralmente.",
+      "La receta electrónica firmada por médico especialista tiene caducidad a los 30 días.",
+      "Para la renovación, el formulario de solicitud de medicamentos se completará cada tres ciclos de tratamiento.",
+      "Si se trata de enfermedad avanzada, se deberá adjuntar fotocopia de informes de estudios de valoración de la enfermedad al inicio del tratamiento solicitado y fotocopia de estudios con los que se valora la respuesta cada tres ciclos de tratamiento."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Medicamentos y Tecnología Sanitaria (Ministerio de Salud de la Nación)",
+      "direccion": "Av. 9 de Julio de 1925, Piso 8 ala Belgrano",
+      "localidad": "Av. 9 de Julio de 1925, Piso 8 ala Belgrano",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/banco-de-drogas"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/banco-de-drogas",
+      "titulo": "Banco de Drogas | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-26T15:25:25.287Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La prescripción médica debe circunscribirse a las drogas que forman parte del Listado Complementario de Medicamentos Oncológicos vigente.",
+    "La cobertura abarcará los medicamentos que se encuentren incluidos en el Listado Complementario de Medicamentos Oncológicos vigente del Banco de Drogas y que se encuentren disponibles al momento de la solicitud.",
+    "La prescripción médica debe circunscribirse a las drogas que forman parte del Listado Complementario de Medicamentos Oncológicos vigente.",
+    "Para todos ellos la cobertura abarcará los medicamentos que se encuentren aprobados por Resolución Ministerial y que constituyan el Listado Complementario de Medicamentos Oncológicos vigente del Banco de Drogas.",
+    "La prescripción médica debe circunscribirse a las drogas que forman parte del Listado Complementario de Medicamentos Oncológicos vigente."
+  ]
+}

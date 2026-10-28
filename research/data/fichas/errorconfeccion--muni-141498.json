@@ -1,0 +1,104 @@
+{
+  "tramite": {
+    "slug": "error-de-confeccion-dni",
+    "nombre": "Error de confección del DNI",
+    "nombre_busqueda": "Reposición DNI error confección",
+    "resumen": "Trámite para reposicionar el DNI por errores de impresión. Es gratuito si se hace dentro de los 3 meses de emisión, pero cobra $10.000 si el error se detecta después de ese plazo.",
+    "sinonimos": [
+      "Reposición de DNI por error",
+      "Corrección de DNI",
+      "DNI nuevo por error"
+    ],
+    "temas": [
+      "dni"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141498",
+  "organismo": {
+    "nombre": "Municipalidad de Tancacha",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Mayores de 14 años.",
+      "Menores de 14 años acompañados por padre, madre o tutor."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI sobre el que vas a pedir la reposición por haber detectado un error en su confección.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación para respaldar la corrección del error (por ejemplo, partida de nacimiento).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si sos el tutor legal de un menor, tenés que llevar el original del testimonio judicial de tutela.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Partida de nacimiento actualizada (para menores).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Llevá el DNI sobre el que vas a pedir la reposición por haber detectado un error en su confección."
+      },
+      {
+        "texto": "Presentá la documentación que respalde la corrección del error (por ejemplo, partida de nacimiento)."
+      },
+      {
+        "texto": "Si sos tutor legal de un menor, presentá el original del testimonio judicial de tutela."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si sos mayor de 75 años, podés seguir usando el DNI verde, Libreta Cívica o de Enrolamiento siempre y cuando se encuentre en buen estado.",
+      "La vigencia de un nuevo ejemplar de DNI es de 15 años, excepto para menores de edad, cuya validez dura hasta su actualización obligatoria (5-8 años y 14 años).",
+      "Recordá que con tu actualización podés tramitar también el DNI en tu celular."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 0,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.tancacha.gob.ar/errorConfeccion.html"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.tancacha.gob.ar/errorConfeccion.html"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.tancacha.gob.ar/errorConfeccion.html",
+      "titulo": "Error de confección (reposición)",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "consejos",
+        "costo",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-26T09:49:39.955Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina para realizar el trámite.",
+    "Horarios de atención de la oficina."
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "tramite": {
+    "slug": "declarar-certificados-verificacion-primitiva-o-declaracion-conformidad",
+    "nombre": "Declarar los certificados de verificación primitiva o la declaración de conformidad",
+    "nombre_busqueda": "declarar certificados verificacion primitiva o declaracion conformidad",
+    "resumen": "Importadores que traen instrumentos de medición con aprobación de modelo OIML deben declarar los certificados de origen en Trámites a Distancia.",
+    "sinonimos": [
+      "declarar certificados OIML",
+      "declarar conformidad origen"
+    ],
+    "temas": [
+      "legalizaciones-y-apostillados"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Subsecretaría de Defensa del Consumidor y Lealtad Comercial",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Importadores cuyos instrumentos se encuadren dentro de la Resolución 611/2019 - Anexo III Instrumentos de medición reglamentados"
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener CUIT y clave fiscal nivel 2 o superior en ARCA",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estar adherido al servicio de Trámites a Distancia (TAD) y tener condición de apoderado en el sistema",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copias de los certificados de Aprobación de Modelo emitidos por las autoridades emisoras del sistema de certificación OIML",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copias de los certificados de Verificación Primitiva o la Declaración de Conformidad emitidos de origen",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia emitida por el Organismo Argentino de Acreditación (OAA) o copia del Acuerdo de Reconocimiento Mutuo vigente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de pago del arancel según la Resolución S.I.yC. N° 22/2025 y sus modificatorias",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planilla de Verificación Primitiva o la Declaración de Conformidad de origen descargada de la sección Descargas",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá el trámite a través de Trámites a Distancia (TAD) ante la Subsecretaría de Defensa del Consumidor y Lealtad Comercial"
+      },
+      {
+        "texto": "Completá y adjuntá los documentos requeridos: certificados de aprobación de modelo, certificados de origen, constancia de acreditación o acuerdo vigente, constancia de pago del arancel y la planilla de verificación"
+      },
+      {
+        "texto": "Una vez ingresada la presentación, la Subsecretaría tendrá un plazo de 5 días hábiles para dar conformidad a este reporte"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La Subsecretaría tiene un plazo de 5 días hábiles para dar conformidad al reporte una vez ingresada la presentación"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/declarar-los-certificados-de-verificacion-primitiva-o-la-declaracion-de-conformidad",
+      "titulo": "Declarar los Certificados de Verificación Primitiva o la Declaración de Conformidad emitidos de origen | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-26T05:47:08.554Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T05:47:08.554Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no está especificado en el texto, solo se indica que es variable según la Resolución S.I.yC. N° 22/2025 y sus modificatorias",
+    "La fecha de vigencia de la Resolución S.I.yC. N° 22/2025 no está indicada en el texto"
+  ]
+}

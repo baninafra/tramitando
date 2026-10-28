@@ -1,0 +1,111 @@
+{
+  "tramite": {
+    "slug": "reclamo-por-demora-en-atender-solicitud-de-cierre-del-suministro-de-gas",
+    "nombre": "Reclamo por demora en atender solicitud de cierre del suministro de gas",
+    "nombre_busqueda": "Reclamo demora cierre gas ENARGAS",
+    "resumen": "Podés reclamar ante el ENARGAS si la prestadora de gas no atendió tu solicitud de cierre en 15 días o si la respuesta fue insatisfactoria. El trámite es gratuito y se puede hacer en línea o presencialmente.",
+    "sinonimos": [
+      "Reclamo falta de atención cierre gas",
+      "Queja demora cierre suministro gas"
+    ],
+    "temas": [
+      "servicios-urbanos-y-reclamos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ente Nacional Regulador del Gas",
+    "sigla": "ENARGAS",
+    "web": "https://www.enargas.gov.ar"
+  },
+  "contenido": {
+    "quien_puede": [
+      "El cliente y/o el usuario."
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia del reclamo formulado ante la Prestadora.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descripción del reclamo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitud de cierre de suministro efectuada ante la prestadora.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Efectuá el reclamo ante la Prestadora del Servicio."
+      },
+      {
+        "texto": "Exijé el número de reclamo correspondiente y el plazo estimativo para la resolución."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Contactate con el ENARGAS personalmente en Sede Central o en la Sede más próxima a tu domicilio."
+      },
+      {
+        "texto": "Llegá días hábiles de 10 a 16hs."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si la Distribuidora no responde luego de 15 días de realizado el reclamo o la contestación es insatisfactoria, contactate con el ENARGAS.",
+      "Conserve siempre el número de su reclamo ante la empresa prestadora."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central ENARGAS",
+      "direccion": "Suipacha 636, C1008AAN, Ciudad Autónoma de Buenos Aires",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/reclamo-por-demora-en-atender-solicitud-de-cierre-del-suministro-de-gas"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reclamo-por-demora-en-atender-solicitud-de-cierre-del-suministro-de-gas",
+      "titulo": "Reclamo por demora en atender solicitud de cierre del suministro de gas | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T03:08:56.377Z"
+    },
+    {
+      "url": "https://www.enargas.gov.ar/secciones/oficina-virtual/oficina-virtual.php",
+      "titulo": "Oficina virtual ENARGAS",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T03:08:56.377Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T03:08:56.377Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica si se requiere turno para el reclamo ante el ENARGAS.",
+    "El texto no indica el plazo exacto para la resolución del reclamo ante el ENARGAS, solo menciona el plazo de 15 días para la respuesta de la prestadora."
+  ]
+}

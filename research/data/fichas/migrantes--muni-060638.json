@@ -1,0 +1,124 @@
+{
+  "tramite": {
+    "slug": "migraciones",
+    "nombre": "Migraciones",
+    "nombre_busqueda": "Migrantes Pilar",
+    "resumen": "Trámites para la población migrante en Pilar, incluyendo DNI, antecedentes penales y certificados de domicilio.",
+    "sinonimos": [
+      "Migrantes Pilar",
+      "Dirección Migrantes Pilar"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060638",
+  "organismo": {
+    "nombre": "Municipio Pilar",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Población migrante que reside en Pilar"
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI anterior o constancia de extravío",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta de nacimiento",
+        "aclaracion": "Si sos menor de edad."
+      },
+      {
+        "texto": "DNI del padre, madre o tutor",
+        "aclaracion": "Si sos menor de edad."
+      },
+      {
+        "texto": "Certificado de domicilio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Antecedentes penales del país de origen",
+        "aclaracion": null
+      },
+      {
+        "texto": "Turno Consular",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Migrantes",
+      "direccion": "Rivadavia 476",
+      "localidad": "Rivadavia 476",
+      "horario": null,
+      "fuente_url": "https://pilar.gov.ar/comunidad/migrantes/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://pilar.gov.ar/comunidad/migrantes/",
+      "titulo": "Migrantes - Municipio Pilar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T09:27:32.922Z"
+    },
+    {
+      "url": "https://pilar.gov.ar/documentacion/",
+      "titulo": "Documentación - Municipio Pilar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T09:27:32.922Z"
+    },
+    {
+      "url": "https://pilar.gov.ar/mi-muni/",
+      "titulo": "Mi Muni - Municipio Pilar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T09:27:32.922Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horario de atención de la Dirección Migrantes",
+    "Ubicación exacta de la Dirección Migrantes",
+    "Requisitos específicos para DNI temporario",
+    "Requisitos específicos para DNI permanente por transcurso del tiempo",
+    "Requisitos específicos para DNI permanente por familiar argentino y radicado",
+    "Requisitos específicos para renovación precaria",
+    "Requisitos específicos para certificado de domicilio para turno migratorio",
+    "Requisitos específicos para certificado de redicación para Anses, Renaper, Nacionalidad Argentina",
+    "Requisitos específicos para movimiento de egreso y egreso",
+    "Requisitos específicos para antecedentes penales argentino para migrante",
+    "Requisitos específicos para antecedentes penales del país de origen",
+    "Requisitos específicos para inscripción a programas municipales, provinciales y nacionales",
+    "Requisitos específicos para talleres",
+    "Requisitos específicos para asesoramiento general al migrante",
+    "Ubicación de Puntos Muni presenciales",
+    "Ubicación de Puntos Muni móviles",
+    "Horario de Puntos Muni presenciales",
+    "Horario de Puntos Muni móviles",
+    "Requisitos para sacar turno en Zoonosis",
+    "Requisitos para tramitar servicios municipales",
+    "Requisitos para inscribirse a clubes y programas",
+    "Requisitos para consultas sobre SUBE",
+    "Requisitos para talleres culturales",
+    "Requisitos para tramitar boleto estudiantil",
+    "Requisitos para reclamos y consultas"
+  ]
+}

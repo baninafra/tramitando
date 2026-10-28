@@ -1,0 +1,59 @@
+{
+  "tramite": {
+    "slug": "libre-deuda-de-comercio",
+    "nombre": "Libre deuda de comercio",
+    "nombre_busqueda": "Libre deuda comercio",
+    "resumen": "Obtén la constancia de Libre Deuda de Comercio ingresando con tu CUIT desde la página web municipal.",
+    "sinonimos": [],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "tasa-de-comercio-e-industria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060763",
+  "organismo": {
+    "nombre": "Municipalidad de San Nicolás de los Arroyos",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de un comercio o industria"
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de CUIT",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá desde la página web con el número de CUIT."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.sannicolasciudad.gob.ar/tramites/libre-de-deuda/libre-deuda-de-comercio",
+      "titulo": "Libre deuda de comercio | Libre deuda | Trámites | San Nicolás Ciudad",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T15:11:32.806Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos adicionales, pasos detallados ni plazos en el texto."
+  ]
+}

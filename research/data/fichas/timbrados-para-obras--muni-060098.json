@@ -1,0 +1,63 @@
+{
+  "tramite": {
+    "slug": "permiso-de-obra-y-planos",
+    "nombre": "Permiso de obra y planos",
+    "nombre_busqueda": "Permiso de obra y planos",
+    "resumen": "Solicita el permiso de obra y visado de planos para obras particulares en Berisso.",
+    "sinonimos": [
+      "Visado de obras particulares",
+      "Permiso de construcción"
+    ],
+    "temas": [
+      "obras-y-construccion",
+      "permiso-de-obra-y-planos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060098",
+  "organismo": {
+    "nombre": "Municipalidad de Berisso",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Solicita a través del mail oficial obrasparticulares@berisso.gob.ar / Asunto: Consulta Visado Exp. 1234/22"
+    ],
+    "requisitos": [
+      {
+        "texto": "La respuesta al correo será con el turno correspondiente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Las consultas se realizarán los días lunes y viernes de 9 a 10 Hs.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Las consultas se realizan los días lunes y viernes de 9 a 10 Hs."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://berisso.gob.ar/pagina/timbrados-para-obras",
+      "titulo": "Municipalidad de Berisso - Timbrados para Obras",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T11:26:50.527Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos, pasos, plazos ni costos en el texto."
+  ]
+}

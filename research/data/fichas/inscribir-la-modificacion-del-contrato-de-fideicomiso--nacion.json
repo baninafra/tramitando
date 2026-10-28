@@ -1,0 +1,109 @@
+{
+  "tramite": {
+    "slug": "inscripcion-modificacion-contrato-fideicomiso",
+    "nombre": "Inscribir la modificación del contrato de fideicomiso",
+    "nombre_busqueda": "inscribir modificación contrato fideicomiso",
+    "resumen": "Para modificar un contrato de fideicomiso registrado en la Inspección General de Justicia, necesitás el formulario reforma de contratos, un dictamen de precalificación y los testimonios de la escritura original. El trámite se hace con turno en la Inspección General de Justicia.",
+    "sinonimos": [
+      "inscripción modificación contrato fideicomiso",
+      "modificación contrato fideicomiso igj"
+    ],
+    "temas": [
+      "legalizaciones-y-apostillados"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": "IGJ",
+    "web": "https://www.argentina.gob.ar/servicio/inscribir-la-modificacion-del-contrato-de-fideicomiso"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan registrado un contrato de fideicomiso en la Inspección General de Justicia y deseen modificarlo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario denominado reforma de contratos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dictamen de Precalificación profesional, conforme Art. 50 inc. 2 RG IGJ Nº 07/2015, elaborado por escribano público o abogado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Primer testimonio de escritura pública o instrumento privado con firmas certificadas –según corresponda-.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el formulario del trámite y toda la documentación indicada anteriormente en la Mesa General de Entradas de la Inspección General de Justicia, previa solicitud de turno."
+      },
+      {
+        "texto": "Una vez finalizado, retiralo por Av. Paseo Colón 291, previa solicitud de turno."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 480000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-la-modificacion-del-contrato-de-fideicomiso"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1920000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-la-modificacion-del-contrato-de-fideicomiso"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Mesa General de Entradas de la Inspección General de Justicia",
+      "direccion": "Av. Paseo Colón 291",
+      "localidad": "Av. Paseo Colón 291",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-la-modificacion-del-contrato-de-fideicomiso"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribir-la-modificacion-del-contrato-de-fideicomiso",
+      "titulo": "Inscribir la modificación del contrato de fideicomiso | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T16:51:58.247Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/justicia/igj/calculador-modulos",
+      "titulo": "Calculá el costo de los trámites de IGJ | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T16:51:58.247Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del nuevo valor del módulo ($ 1.500) es 08/04/2024, pero no se especifica una fecha de vigencia actual en el texto.",
+    "El plazo de tramitación no se menciona en los documentos consultados.",
+    "La fecha de vigencia del trámite no se especifica en el texto, solo se menciona que los contenidos están en proceso de actualización."
+  ]
+}

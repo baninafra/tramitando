@@ -1,0 +1,98 @@
+{
+  "tramite": {
+    "slug": "marcas-y-senales-y-guias",
+    "nombre": "Oficina de Guías / Marcas y Señales",
+    "nombre_busqueda": "Oficina de Guías Marcas y Señales San Cayetano",
+    "resumen": "Trámites para la emisión de guías, marcas y señales de vehículos en la Municipalidad de San Cayetano.",
+    "sinonimos": [],
+    "temas": [
+      "marcas-senales-y-guias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060742",
+  "organismo": {
+    "nombre": "Municipalidad de San Cayetano",
+    "sigla": null,
+    "web": "https://sancayetano.gob.ar"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en obtener guías, marcas o señales de vehículos."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del conductor o titular del vehículo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cédula de Identidad del vehículo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el DNI del conductor o titular."
+      },
+      {
+        "texto": "Presentá la Cédula de Identidad del vehículo."
+      },
+      {
+        "texto": "Realizá el pago de la tasa correspondiente."
+      },
+      {
+        "texto": "Recibí tu guía, marca o señal."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá los importes vigentes de 2026 en la página oficial.",
+      "Llevá documentación original y copia si se solicita."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Guías / Marcas y Señales",
+      "direccion": "Av. San Martín 451",
+      "localidad": "San Cayetano",
+      "horario": null,
+      "fuente_url": "https://sancayetano.gob.ar/categoria/tramites/oficina-de-guias-marcas-y-senales/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://sancayetano.gob.ar/categoria/tramites/oficina-de-guias-marcas-y-senales/",
+      "titulo": "Oficina de Guías / Marcas y Señales - San Cayetano | Municipalidad",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T10:14:52.085Z"
+    },
+    {
+      "url": "https://sancayetano.gob.ar/categoria/tramites/",
+      "titulo": "Trámites - San Cayetano | Municipalidad",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T10:14:52.085Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los montos exactos de las tasas no están detallados en el texto descargado.",
+    "No se especifica si se requiere turno previo para realizar el trámite."
+  ]
+}

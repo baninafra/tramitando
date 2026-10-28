@@ -1,0 +1,82 @@
+{
+  "tramite": {
+    "slug": "licencia-de-conducir",
+    "nombre": "Licencia de conducir",
+    "nombre_busqueda": "licencia de conducir en Lincoln",
+    "resumen": "Sacá o renová tu licencia de conducir en Lincoln. Los turnos se atienden por orden de llegada.",
+    "sinonimos": [
+      "sacar la licencia",
+      "renovar la licencia"
+    ],
+    "temas": [
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060469",
+  "organismo": {
+    "nombre": "Municipalidad de Lincoln",
+    "sigla": null,
+    "web": "https://lincoln.gob.ar/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que necesitan sacar o renovar su licencia de conducir en Lincoln."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI.",
+        "aclaracion": "Si vas a sacar tu licencia."
+      },
+      {
+        "texto": "Licencia de conducir actual.",
+        "aclaracion": "Si vas a renovar tu licencia."
+      },
+      {
+        "texto": "Realizá el curso probatorio.",
+        "aclaracion": "Si tenés menos de 2 años de licencia."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá tu DNI para sacar la licencia."
+      },
+      {
+        "texto": "Presentá tu DNI y tu licencia actual para renovarla."
+      },
+      {
+        "texto": "Rendí el examen teórico si tenés más de 71 años."
+      },
+      {
+        "texto": "Realizá el curso probatorio si tenés menos de 2 años de licencia."
+      }
+    ],
+    "requiere_turno": false,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La atención es de 07:00 a 13:00. Los turnos se asignan por orden de llegada."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://lincoln.gob.ar/tramites/licencia-de-conducir",
+      "titulo": "Licencias de conducir · Municipalidad de Lincoln",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T14:43:46.302Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa el costo del trámite.",
+    "No se indica una dirección de atención."
+  ]
+}

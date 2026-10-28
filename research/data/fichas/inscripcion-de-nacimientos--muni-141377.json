@@ -1,0 +1,80 @@
+{
+  "tramite": {
+    "slug": "inscripcion-de-nacimientos",
+    "nombre": "Inscripción de nacimiento",
+    "nombre_busqueda": "Inscripción de nacimiento",
+    "resumen": "Para registrar el nacimiento de un niño en el Registro Civil de Bouwer, necesitás el certificado médico y la documentación del padre y de la madre.",
+    "sinonimos": [
+      "Registro de nacimiento",
+      "Inscripción de parto"
+    ],
+    "temas": [
+      "inscripcion-de-nacimientos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141377",
+  "organismo": {
+    "nombre": "Registro Civil",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Padres o madres del recién nacido"
+    ],
+    "requisitos": [
+      {
+        "texto": "Certificado médico",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación del padre",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación de la madre",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el certificado médico, la documentación del padre y la documentación de la madre en el Registro Civil."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Registro Civil",
+      "direccion": "Edif. Municipal",
+      "localidad": "Bouwer",
+      "horario": null,
+      "fuente_url": "https://municipalidaddebouwer.gob.ar/registro-civil/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://municipalidaddebouwer.gob.ar/registro-civil/",
+      "titulo": "Registro Civil – Municipalidad de Bouwer",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T18:17:37.246Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horarios de atención: lunes, miércoles y viernes de 8:30 a 11:30 horas.",
+    "No se especifican costos.",
+    "No se especifican plazos.",
+    "No se especifica si requiere turno."
+  ]
+}

@@ -1,0 +1,16 @@
+---
+import Base from '../layouts/Base.astro';
+import Buscador from '../components/Buscador.astro';
+---
+<Base titulo="No encontramos esta página" descripcion="La página que buscás no existe o cambió de dirección." indexar={false}>
+  <div class="contenedor pagina">
+    <h1>No encontramos esta página</h1>
+    <p class="bajada">Puede que el trámite haya cambiado de dirección o que el link tenga un error. Buscalo acá:</p>
+    <Buscador tamano="grande" />
+    <p><a href="/">Ir a la portada</a></p>
+  </div>
+</Base>
+
+<style>
+  .pagina { display: grid; gap: var(--espacio-4); max-width: 760px; padding-block: var(--espacio-7); }
+</style>

@@ -1,0 +1,94 @@
+{
+  "tramite": {
+    "slug": "solicitar-constancia-de-cuil",
+    "nombre": "Solicitar la constancia de CUIL",
+    "nombre_busqueda": "constancia de CUIL",
+    "resumen": "Obtené tu constancia de CUIL en la web de ANSES y descargala o imprimila. También podés pedirla personalmente en una oficina de ANSES.",
+    "sinonimos": [
+      "constancia de CUIL",
+      "Código Único de Identificación Laboral"
+    ],
+    "temas": [
+      "cuil-y-clave-de-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANSES",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que necesite la constancia de CUIL."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Haber realizado previamente los trámites en Migraciones",
+        "aclaracion": "Si sos una persona extranjera y querés trabajar en el país para generar un CUIL provisorio."
+      },
+      {
+        "texto": "DNI para extranjeros o naturalizados",
+        "aclaracion": "Si tenés un CUIL provisorio y vas a generar el definitivo."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá tus datos personales en el formulario."
+      },
+      {
+        "texto": "Descargá tu constancia de CUIL."
+      },
+      {
+        "texto": "Obtené la constancia para descargarla o imprimirla."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Solicitá la constancia personalmente en una oficina de ANSES."
+      }
+    ],
+    "requiere_turno": false,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La constancia impresa desde la web de ANSES sirve para cualquier trámite y no requiere firma ni sello.",
+      "La constancia no tiene vencimiento.",
+      "Si sos una persona extranjera y ya tenés DNI para extranjeros o naturalizados, solicitá la unificación del CUIL provisorio para generar el definitivo."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": true,
+      "monto_centavos": null,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-constancia-de-cuil"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-constancia-de-cuil",
+      "titulo": "Solicitar constancia de CUIL | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T13:50:48.860Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se indica cómo solicitar la unificación del CUIL provisorio ni si requiere un trámite adicional."
+  ]
+}

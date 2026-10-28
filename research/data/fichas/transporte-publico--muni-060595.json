@@ -1,0 +1,102 @@
+{
+  "tramite": {
+    "slug": "consultar-recorridos-y-horarios-de-transporte-publico",
+    "nombre": "Consultar recorridos y horarios",
+    "nombre_busqueda": "recorridos y horarios de colectivos en Olavarría",
+    "resumen": "Consultá los recorridos y horarios de las líneas urbanas e interurbanas de Olavarría. La página también informa frecuencias y contactos de transporte.",
+    "sinonimos": [
+      "horarios de colectivos",
+      "recorridos de colectivos"
+    ],
+    "temas": [
+      "transporte-publico-y-viajes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060595",
+  "organismo": {
+    "nombre": "Municipalidad del Partido de Olavarría",
+    "sigla": null,
+    "web": "https://www.olavarria.gov.ar/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que quiera consultar recorridos y horarios del transporte público de Olavarría."
+    ],
+    "requisitos": [
+      {
+        "texto": "No necesitás presentar documentación para consultar la información publicada en la página.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Entrá a la página de Transporte Público para consultar los recorridos y horarios de las líneas."
+      },
+      {
+        "texto": "Elegí una línea urbana o interurbana y consultá su recorrido, horario o mapa."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Empresa de Transporte Urbano TUBUS",
+      "direccion": "Sarmiento 6151",
+      "localidad": "Olavarría",
+      "horario": null,
+      "fuente_url": "https://www.olavarria.gov.ar/servicios/transporte-publico/"
+    },
+    {
+      "nombre": "Empresa de Transporte Interurbano Las Sierras",
+      "direccion": "Moya 6030 (Parque Zalo)",
+      "localidad": "Olavarría",
+      "horario": null,
+      "fuente_url": "https://www.olavarria.gov.ar/servicios/transporte-publico/"
+    },
+    {
+      "nombre": "Oficina de Informes de la Terminal",
+      "direccion": "Av. Pringles y Sgto. Cabral",
+      "localidad": "Olavarría",
+      "horario": null,
+      "fuente_url": "https://www.olavarria.gov.ar/servicios/transporte-publico/"
+    },
+    {
+      "nombre": "Oficina de Transporte",
+      "direccion": "Av. Pringles y Sgto. Cabral - 1er piso",
+      "localidad": "Olavarría",
+      "horario": null,
+      "fuente_url": "https://www.olavarria.gov.ar/servicios/transporte-publico/"
+    },
+    {
+      "nombre": "Oficina de SUBE",
+      "direccion": "Av. Pringles y Sgto. Cabral - 1er piso",
+      "localidad": "Olavarría",
+      "horario": null,
+      "fuente_url": "https://www.olavarria.gov.ar/servicios/transporte-publico/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.olavarria.gov.ar/servicios/transporte-publico/",
+      "titulo": "Transporte Público (recorridos y horarios) | Municipalidad del Partido de Olavarría",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T15:41:59.759Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La página no indica si hace falta turno para realizar consultas en las oficinas.",
+    "La página no informa un plazo de respuesta para las consultas."
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "tramite": {
+    "slug": "ingreso-electronica-pasantes",
+    "nombre": "Ingreso electrónica pasantes",
+    "nombre_busqueda": "ingreso electronica pasantes",
+    "resumen": "Permiso para extranjeros que ingresan a Argentina para realizar prácticas en convenios internacionales o programas de pasantías avalados por el país de origen.",
+    "sinonimos": [
+      "ingreso electronico pasantes",
+      "ingreso electronica pasantes",
+      "ingreso electronica pasantias"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Seguridad Nacional",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El ingresante",
+      "El requirente: Entidad, organismo o persona jurídica inscripta en Registro Nacional Único de Requirentes (Re.N.U.R.E.)",
+      "El apoderado del Requirente: Con poder/designación con facultades suficientes (ante escribano público)"
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia de inscripción en el Re.N.U.R.E., original y copia",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción electrónica al curso pretendido suscripta por el responsable de la entidad educativa, que se encuentre registrado ante el Re.N.U.R.E. para tales fines",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pasaporte válido y vigente del ingresante (Imagen de la/s hoja/s con los datos personales y foto – Formato JPG)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Foto del ingresante (foto formal del rostro, con fondo blanco, debe ser tomada al momento de la carga del trámite, y no la imagen de otra foto – Formato JPG)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Convenio Internacional o carta de aceptación",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado que acredite fehacientemente que no registra condenas anteriores ni procesos penales en trámite, emitido por las autoridades competentes de los países donde haya residido por un plazo superior a UN (1) año, durante el transcurso de los últimos TRES (3) años",
+        "aclaracion": "Solo exigible a mayores de 16 años"
+      },
+      {
+        "texto": "Autorización de sus padres y tutores legales y acreditar la designación de un representante legal en el territorio nacional",
+        "aclaracion": "Si sos menor de edad"
+      },
+      {
+        "texto": "Toda documentación expedida en el extranjero deberá contar con la legalización del Consulado Argentino, sito en el país emisor del documento, o Apostillada, si el país hubiera ratificado el Convenio de La Haya, y su correspondiente traducción al idioma español",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá tu trámite a distancia ingresando en Tramitación de Ingreso Electrónico- TIE 24H"
+      },
+      {
+        "texto": "Adjuntá la documentación y datos requeridos según el tipo de ingreso que solicités"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tramitacion-de-ingreso-electronica-pasantes",
+      "titulo": "Tramitación de Ingreso Electrónica - Pasantes | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T18:21:47.443Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica si el trámite requiere turno ni proporciona la URL para sacarlo."
+  ]
+}

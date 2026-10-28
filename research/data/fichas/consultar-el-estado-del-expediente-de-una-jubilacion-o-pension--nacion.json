@@ -1,0 +1,72 @@
+{
+  "tramite": {
+    "slug": "consultar-estado-expediente-jubilacion-pension",
+    "nombre": "Consultar el estado del expediente de una jubilación o pensión",
+    "nombre_busqueda": "Consultar estado expediente jubilación pensión ANSES",
+    "resumen": "Podés hacer el seguimiento en línea de tu trámite de jubilación, pensión o gestiones relacionadas ingresando en mi ANSES con tu CUIL y Clave de la Seguridad Social.",
+    "sinonimos": [
+      "Seguimiento trámite jubilación",
+      "Consulta estado pensión ANSES"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANSES",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes hayan iniciado el trámite en ANSES para solicitar su jubilación, pensión o gestiones relacionadas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de expediente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave de la Seguridad Social",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá en mi ANSES, con tu CUIL y Clave de la Seguridad Social."
+      },
+      {
+        "texto": "En la sección Información personal seleccioná Consulta de expediente y realizá tu consulta."
+      },
+      {
+        "texto": "El sistema te informará en qué estado se encuentra tu expediente."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consultar-el-estado-del-expediente-de-una-jubilacion-o-pension",
+      "titulo": "Consultar el estado del expediente de una jubilación o pensión | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T05:31:12.568Z"
+    }
+  ],
+  "sin_confirmar": [
+    "¿Cuánto tiempo lleva?"
+  ]
+}

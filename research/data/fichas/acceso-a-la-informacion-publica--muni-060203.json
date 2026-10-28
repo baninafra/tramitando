@@ -1,0 +1,83 @@
+{
+  "tramite": {
+    "slug": "acceso-a-la-informacion-publica",
+    "nombre": "Solicitud de Acceso a la Información Pública",
+    "nombre_busqueda": "Acceso a la Información Pública",
+    "resumen": "Podés solicitar información municipal si no está publicada en la web. El trámite es gratuito, pero pueden cobrarse costos por el soporte o medio de reproducción.",
+    "sinonimos": [
+      "Solicitud de información pública",
+      "Acceso a la información municipal"
+    ],
+    "temas": [
+      "acceso-a-la-informacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060203",
+  "organismo": {
+    "nombre": "Municipalidad de Coronel Suárez",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en obtener información municipal."
+    ],
+    "requisitos": [
+      {
+        "texto": "Completa el formulario de solicitud.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Accedé al formulario de solicitud de información."
+      },
+      {
+        "texto": "Ingresá tus datos personales (Apellido y Nombre, DNI, correo electrónico, teléfono)."
+      },
+      {
+        "texto": "Especificá qué información querés y en qué área municipal (Cultura, Desarrollo Social, Obras Públicas, Salud, Secretaría de Gobierno, Secretaría de Hacienda)."
+      },
+      {
+        "texto": "Detallá el contenido que necesitás en el campo de comentarios."
+      },
+      {
+        "texto": "Envías el formulario completado."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Municipalidad de Coronel Suárez",
+      "direccion": "Av. Alsina 150",
+      "localidad": "Coronel Suárez",
+      "horario": null,
+      "fuente_url": "https://www.coronelsuarez.gob.ar/acceso-a-la-informacion-publica/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.coronelsuarez.gob.ar/acceso-a-la-informacion-publica/",
+      "titulo": "Acceso a la Información Pública – Municipalidad de Coronel Suárez",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T04:49:44.043Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Plazo de respuesta no especificado en el texto.",
+    "Dirección exacta de entrega de documentos físicos no especificada en el texto."
+  ]
+}

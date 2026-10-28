@@ -1,0 +1,69 @@
+{
+  "tramite": {
+    "slug": "inscripcion-a-talleres",
+    "nombre": "Inscripción a talleres",
+    "nombre_busqueda": "Inscripción a talleres",
+    "resumen": "Trámite para inscribirse a talleres ofrecidos por la Subsecretaría de Cultura de la Municipalidad de Balcarce. Es gratuito y se realiza en Casa del Bicentenario.",
+    "sinonimos": [],
+    "temas": [
+      "talleres-y-escuelas-municipales",
+      "educacion-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060063",
+  "organismo": {
+    "nombre": "Municipalidad de Balcarce",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona sea el interesado o un tercero que cumpla con los requisitos"
+    ],
+    "requisitos": [
+      {
+        "texto": "Edad (de acuerdo a lo establecido por el coordinador de cada taller)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Realizá la inscripción en Casa del Bicentenario."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Casa del Bicentenario",
+      "direccion": "Favaloro 785",
+      "localidad": "Balcarce",
+      "horario": null,
+      "fuente_url": "https://balcarce-app.gob.ar/portal_servicios/servicio/inscripcion-a-talleres"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://balcarce-app.gob.ar/portal_servicios/servicio/inscripcion-a-talleres",
+      "titulo": "Portal de Servicios | Modernizacion Balcarce",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "costo",
+        "donde",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T03:29:43.512Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere verificar si se necesita sacar turno o no.",
+    "Se requiere verificar si hay plazos específicos para la inscripción."
+  ]
+}

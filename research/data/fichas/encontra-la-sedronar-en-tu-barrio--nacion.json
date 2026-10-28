@@ -1,0 +1,58 @@
+{
+  "tramite": {
+    "slug": "sedronar-en-tu-barrio",
+    "nombre": "Encontrar la Sedronar en tu barrio",
+    "nombre_busqueda": "Sedronar cerca de mi",
+    "resumen": "Podés solicitar ayuda en los espacios de prevención y tratamiento de la Sedronar en tu barrio si vos o alguien de tu entorno está atravesando una situación de consumo problemático.",
+    "sinonimos": [],
+    "temas": [
+      "salud-y-prevencion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Sedronar",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A cualquier persona que esté atravesando por una situación de consumo problemático, a sus familiares o gente de su entorno."
+    ],
+    "requisitos": [
+      {
+        "texto": "No se requiere ningún tipo de trámite previo ni documentación específica.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Buscá la ubicación de cada espacio de atención y tratamiento en el mapa."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/encontra-la-sedronar-en-tu-barrio",
+      "titulo": "Encontrá la Sedronar en tu barrio | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T15:34:45.825Z"
+    }
+  ],
+  "sin_confirmar": []
+}

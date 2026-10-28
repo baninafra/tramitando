@@ -1,0 +1,87 @@
+{
+  "tramite": {
+    "slug": "licencia-de-conducir",
+    "nombre": "Licencia de conducir",
+    "nombre_busqueda": "sacar o renovar la licencia de conducir en Monte Hermoso",
+    "resumen": "Iniciá el trámite desde el portal de autogestión del municipio y subí la documentación en formato digital. Si es tu primera licencia, también tenés que completar el curso que corresponda y subir el certificado.",
+    "sinonimos": [
+      "sacar el registro de conducir",
+      "renovar la licencia de conducir"
+    ],
+    "temas": [
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060553",
+  "organismo": {
+    "nombre": "Municipalidad de Monte Hermoso",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes quieran solicitar una licencia de conducir en Monte Hermoso."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI, frente y dorso.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Última licencia emitida, frente y dorso.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado del curso Mi primera licencia.",
+        "aclaracion": "Si tenés entre 16 y 21 años y es tu primera licencia."
+      },
+      {
+        "texto": "Certificado del curso de seguridad vial.",
+        "aclaracion": "Si tenés más de 21 años y es tu primera licencia."
+      },
+      {
+        "texto": "Certificado de antecedentes penales.",
+        "aclaracion": "Si necesitás una licencia profesional."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal de autogestión del municipio."
+      },
+      {
+        "texto": "Registrate si todavía no tenés una cuenta."
+      },
+      {
+        "texto": "Completá el formulario en línea que corresponda."
+      },
+      {
+        "texto": "Subí en formato digital la documentación necesaria."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://montehermoso.gov.ar/sitio/tramites-municipales/licencia-de-conducir/",
+      "titulo": "Licencia de conducir - Monte Hermoso sitio oficial",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T15:14:22.683Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa el costo del trámite.",
+    "No se indica si hace falta sacar turno."
+  ]
+}

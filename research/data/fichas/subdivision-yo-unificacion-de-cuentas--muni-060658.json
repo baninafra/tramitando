@@ -1,0 +1,67 @@
+{
+  "tramite": {
+    "slug": "subdivision-yo-unificacion-de-cuentas",
+    "nombre": "Subdivisión y/o unificación de cuentas",
+    "nombre_busqueda": "Subdivisión y/o unificación de cuentas",
+    "resumen": "Trámite para modificar la subdivisión o unificación de cuentas catastrales en el municipio.",
+    "sinonimos": [],
+    "temas": [
+      "catastro-e-inmuebles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060658",
+  "organismo": {
+    "nombre": "Secretaría de Hacienda",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de inmuebles."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI original del otro titular si hay unificación.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá tu DNI original."
+      },
+      {
+        "texto": "Presentá el DNI original del otro titular si hay unificación."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mi.quilmes.gov.ar/tramites/113/subdivision-yo-unificacion-de-cuentas",
+      "titulo": "Subdivisión y/o unificación de cuentas",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T08:07:32.323Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina.",
+    "Plazo de resolución.",
+    "Costo del trámite.",
+    "Si requiere turno y cómo sacarlo."
+  ]
+}

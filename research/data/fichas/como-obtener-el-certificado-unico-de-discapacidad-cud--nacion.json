@@ -1,0 +1,109 @@
+{
+  "tramite": {
+    "slug": "certificado-unico-de-discapacidad",
+    "nombre": "Certificado Único de Discapacidad",
+    "nombre_busqueda": "Certificado Único de Discapacidad",
+    "resumen": "El CUD certifica la discapacidad y permite acceder a derechos como salud al 100%, transporte gratuito y exenciones de impuestos. Es un trámite gratuito, voluntario y presencial que requiere evaluación por una Junta Interdisciplinaria.",
+    "sinonimos": [
+      "Certificado Único de Discapacidad",
+      "CUD"
+    ],
+    "temas": [
+      "discapacidad-y-accesibilidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Secretaría Nacional de Discapacidad",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que deseen acceder a una evaluación por una junta interdisciplinaria a efectos de determinar la existencia de alguna discapacidad."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documentación reunida con el equipo de salud que te trata (certificados médicos, informes, planillas, estudios complementarios).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento original para retirar el certificado o la denegatoria (si tenés más de 18 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Identidad validada en la aplicación Mi Argentina (para el formato digital).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Turno asignado en la Junta Evaluadora.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Respondé las preguntas de la consulta personalizada para saber qué documentación llevar y a dónde ir para que te den un turno."
+      },
+      {
+        "texto": "Ingresá a la aplicación Mi Argentina si tenés el CUD extraviado pero vigente para visualizarlo o imprimirlo en formato digital."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate al lugar que te asignaron en la consulta y pedí un turno para la Junta Evaluadora."
+      },
+      {
+        "texto": "Recordá anotar y asistir el día asignado a la evaluación de la Junta."
+      },
+      {
+        "texto": "Retirá el Certificado Único de Discapacidad o la denegatoria en la fecha que te indiquen."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si no hay turnos disponibles y tu CUD se vence este mes, acercate sin turno a la oficina para que lo evaluemos.",
+      "El CUD digital será generado automáticamente para personas mayores de 13 años con perfil digital en Mi Argentina."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/como-obtener-el-certificado-unico-de-discapacidad-cud",
+      "titulo": "Cómo obtener el Certificado Único de Discapacidad (CUD) | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:46:12.899Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/cud/consulta-de-requisitos-para-tramitar-el-cud",
+      "titulo": "Consulta de requisitos para tramitar el Certificado Único de Discapacidad (CUD) | Argentina.gob.ar",
+      "bloques": [
+        "requisitos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:46:12.899Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T04:46:12.899Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia del trámite.",
+    "El plazo estimado de espera para obtener el turno en la Junta Evaluadora."
+  ]
+}

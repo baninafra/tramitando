@@ -1,0 +1,111 @@
+{
+  "tramite": {
+    "slug": "licencia-de-conducir",
+    "nombre": "Licencia de conducir",
+    "nombre_busqueda": "Licencia de conducir Malagueño",
+    "resumen": "Para obtener o renovar la licencia de conducir en Malagueño, necesitás cumplir con requisitos médicos, librar deudas automotoras y presentar documentación específica según tu categoría. El trámite se realiza por orden de llegada.",
+    "sinonimos": [
+      "Permiso de conducir",
+      "Tarjeta de conducir"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141393",
+  "organismo": {
+    "nombre": "Municipalidad de Malagueño",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en obtener o renovar la licencia de conducir."
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia de Grupo Sanguíneo Libre",
+        "aclaracion": null
+      },
+      {
+        "texto": "Libre de deuda automotor",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitud de Antecedentes REPAT",
+        "aclaracion": null
+      },
+      {
+        "texto": "D.N.I. original y Fotocopia",
+        "aclaracion": "Renovación categorías especiales C-D-F-G y D1-D2"
+      },
+      {
+        "texto": "Revisación médica (Hospital)",
+        "aclaracion": "Renovación categorías especiales C-D-F-G y D1-D2"
+      },
+      {
+        "texto": "Libre de Multas",
+        "aclaracion": "Renovación categorías especiales C-D-F-G y D1-D2"
+      },
+      {
+        "texto": "Examen Teórico (en caso de tener multas de Malagueño)",
+        "aclaracion": "Renovación categorías especiales C-D-F-G y D1-D2"
+      },
+      {
+        "texto": "Para mayores de 70 años, Electrocardiograma y Laboratorio",
+        "aclaracion": "Renovación categorías especiales C-D-F-G y D1-D2"
+      },
+      {
+        "texto": "Estudios médicos tales como: Electrocardiograma, Audiometría, Apto Psicológico",
+        "aclaracion": "Renovación categorías especiales C-D-F-G y D1-D2"
+      },
+      {
+        "texto": "Certificado de Antecedentes",
+        "aclaracion": "Transporte de Pasajeros"
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación requerida según tu categoría."
+      },
+      {
+        "texto": "Realizá la revisión médica correspondiente."
+      },
+      {
+        "texto": "Acudí al examen teórico si tenés multas de Malagueño."
+      },
+      {
+        "texto": "Realizá los estudios médicos adicionales si corresponda."
+      },
+      {
+        "texto": "Esperá tu turno por orden de llegada."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.malagueno.gob.ar/licencia-de-conducir/",
+      "titulo": "Licencia de Conducir – Municipalidad de Malagueño – Córdoba, Argentina",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T18:30:57.852Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos de costos.",
+    "No se especifican plazos de espera ni duración del trámite.",
+    "No se especifican direcciones de oficinas ni localidades."
+  ]
+}

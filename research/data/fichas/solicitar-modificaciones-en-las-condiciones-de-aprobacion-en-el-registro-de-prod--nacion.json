@@ -1,0 +1,93 @@
+{
+  "tramite": {
+    "slug": "modificaciones-registro-productos-veterinarios",
+    "nombre": "Solicitar modificaciones en las condiciones de aprobación en el registro de productos veterinarios",
+    "nombre_busqueda": "modificaciones registro productos veterinarios",
+    "resumen": "Para cambiar la fórmula o el destino de un producto veterinario ya inscripto, debés tramitar la modificación ante el Registro de Productos Veterinarios del Senasa presentando el formulario en línea y abonando el arancel correspondiente.",
+    "sinonimos": [
+      "modificación registro productos veterinarios",
+      "cambio fórmula producto veterinario"
+    ],
+    "temas": [
+      "bromatologia-y-alimentos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titular, director técnico o apoderado de establecimiento elaborador de productos veterinarios."
+    ],
+    "requisitos": [
+      {
+        "texto": "Presentar el formulario por SIG-Trámites.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Adjuntar las artes de impresión de todas las presentaciones con las que se comercializará el producto, en caso que compromete a la modificación.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Accedé a SIG-Trámites."
+      },
+      {
+        "texto": "Completá el formulario de modificaciones en el registro de productos veterinarios."
+      },
+      {
+        "texto": "Con el número de trámite generado podés consultar online todo acerca de tu tramitación."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si iniciaste el trámite por SIG-Trámites podés conocer el estado del mismo mediante tu ID o número de trámite.",
+      "Puede solicitar una entrevista con un técnico. La misma se acordará con una antelación de 24 a 48 horas según disponibilidad para los días martes y jueves, de 9 a 11 y de 14 a 16 y tendrán una duración máxima de 30 minutos."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Sanidad Animal Dirección de Productos Veterinarios",
+      "direccion": "Carlos Calvo N° 66, PB - CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-modificaciones-en-las-condiciones-de-aprobacion-en-el-registro-de-productos"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-modificaciones-en-las-condiciones-de-aprobacion-en-el-registro-de-productos",
+      "titulo": "Solicitar modificaciones en las condiciones de aprobación en el registro de productos veterinarios | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T09:59:23.585Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T09:59:23.585Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no está especificado en el texto, solo se indica que se debe abonar el arancel correspondiente."
+  ]
+}

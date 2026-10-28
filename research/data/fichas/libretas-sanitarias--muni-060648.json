@@ -1,0 +1,103 @@
+{
+  "tramite": {
+    "slug": "libreta-sanitaria",
+    "nombre": "Libreta sanitaria",
+    "nombre_busqueda": "libreta sanitaria municipal",
+    "resumen": "Iniciá el trámite en el Área de Bromatología de la Municipalidad de Presidente Perón. Después, presentá el comprobante en el Hospital Cecilia Grierson para realizar los estudios.",
+    "sinonimos": [
+      "libretas sanitarias"
+    ],
+    "temas": [
+      "carnet-sanitario"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060648",
+  "organismo": {
+    "nombre": "Municipalidad de Presidente Perón",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés hacer el trámite personalmente.",
+      "Si representás a una empresa, podés gestionarlo por sus empleados y presentar la documentación requerida de todos ellos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento que acredite tu identidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI original y fotocopia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dos fotos de 4 x 4.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La documentación requerida de todos los empleados.",
+        "aclaracion": "Si una empresa realiza el trámite mediante un representante."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Andá al Área de Bromatología con un documento que acredite tu identidad."
+      },
+      {
+        "texto": "Presentá el DNI original, una fotocopia y dos fotos de 4 x 4."
+      },
+      {
+        "texto": "Pagá el sellado correspondiente en la Tesorería Municipal."
+      },
+      {
+        "texto": "Retirá el comprobante que te entregan al iniciar el trámite."
+      },
+      {
+        "texto": "Llevá el comprobante al Hospital Cecilia Grierson de Guernica para realizar los estudios correspondientes."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Área de Bromatología",
+      "direccion": "Crisólogo Larralde 241, Guernica, planta baja",
+      "localidad": "Guernica",
+      "horario": null,
+      "fuente_url": "https://presidenteperon.gob.ar/libretas-sanitarias/"
+    },
+    {
+      "nombre": "Tesorería Municipal",
+      "direccion": "Crisólogo Larralde 241, Guernica, planta baja",
+      "localidad": "Guernica",
+      "horario": null,
+      "fuente_url": "https://presidenteperon.gob.ar/libretas-sanitarias/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://presidenteperon.gob.ar/libretas-sanitarias/",
+      "titulo": "Libretas Sanitarias – Presidente Perón",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T16:31:43.875Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto del sellado no está indicado.",
+    "No se informa si necesitás turno.",
+    "No se informa cuánto tarda el trámite."
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "tramite": {
+    "slug": "informe-de-avance-e-inspeccion-de-obra",
+    "nombre": "Informe de avance e inspección de obra",
+    "nombre_busqueda": "Informe de avance obra",
+    "resumen": "Este trámite permite al profesional responsable de una obra particular presentar informes de avance a la Dirección de Obras. Es obligatorio cumplirlos para iniciar el trámite de Final de Obra.",
+    "sinonimos": [],
+    "temas": [
+      "obras-y-construccion",
+      "permiso-de-obra-y-planos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060760",
+  "organismo": {
+    "nombre": "Municipalidad San Miguel",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titular de un dominio (o quien sustente un boleto de compra-venta)",
+      "Profesional responsable de la obra"
+    ],
+    "requisitos": [
+      {
+        "texto": "Dominio o boleto de compra-venta",
+        "aclaracion": null
+      },
+      {
+        "texto": "Permiso de obra digital otorgado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Información y documentación solicitada en tiempo y forma",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar al link que figura en la descripción para registrarse en la web y obtener usuario y clave."
+      },
+      {
+        "texto": "Seleccionar la opción Informe de Avance e Inspección de Obra."
+      },
+      {
+        "texto": "Completar los datos solicitados en la web y cargar los documentos requeridos."
+      },
+      {
+        "texto": "Marcar en el botón guardar y luego en el botón confirmar."
+      },
+      {
+        "texto": "Designar al profesional responsable de la obra como gestor del trámite desde la solapa Otros (opcional)."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La duración de cada trámite será variable en función a la complejidad de cada caso.",
+      "Será condición para iniciar el trámite de Final de Obra haber cumplimentado en tiempo y forma con los informes de avance solicitados al momento de la obtención del permiso de obra digital."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.msm.gov.ar/guia-tramites/obras-particulares/informe-de-avance-e-inspeccion-de-obra/",
+      "titulo": "Informe de Avance e Inspección de Obra - Municipalidad San Miguel",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T14:15:05.631Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horarios de atención",
+    "Dirección de oficinas",
+    "Vigencia desde fecha exacta"
+  ]
+}

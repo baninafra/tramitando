@@ -1,0 +1,101 @@
+{
+  "tramite": {
+    "slug": "dni-primer-ejemplar-provisorio-por-razones-medicas",
+    "nombre": "DNI primer ejemplar provisorio por razones médicas",
+    "nombre_busqueda": "DNI primer ejemplar provisorio por razones medicas",
+    "resumen": "Este trámite es para menores de 14 años que nunca tramitaron DNI y tienen imposibilidad de concurrir por razones médicas. Es gratuito, no requiere biometría y tiene vigencia de 6 meses prorrogable.",
+    "sinonimos": [],
+    "temas": [
+      "dni",
+      "discapacidad-y-accesibilidad",
+      "salud-y-prevencion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Justicia y Derechos Humanos",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas menores de 14 años que nunca hayan tramitado un DNI y que tengan imposibilidad de concurrir al trámite por razones médicas."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI de padre o madre o representante legal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditación del representante legal: Oficio judicial o testimonio de tutela del menor (con sello y firma del juez o Secretario).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el menor está en un hogar: Autorización de representación firmada y sellada por la autoridad competente o oficio judicial de guarda provisoria con fines de adopción.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia certificada de la partida de nacimiento con o sin oblea (con sello y firma del oficial público) o certificado de nacimiento original con o sin oblea o número manuscrito (con firma del oficial público).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado médico del hospital o la clínica donde el menor está internado, detallando nombre y apellido completo, número de matrícula individual del menor y diagnóstico que justifique su imposibilidad de traslado. El certificado debe tener firma, sello, matrícula del médico y sello del hospital o…",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Elegí el Registro Civil cercano o sacá turno para un Centro de Documentación Renaper en la app Mi Argentina."
+      },
+      {
+        "texto": "Guardá la constancia de solicitud de trámite y hacé el seguimiento online con tu ID desde aquí."
+      },
+      {
+        "texto": "Retiralo en la oficina con la constancia de solicitud de trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": "15 minutos",
+    "consejos": [
+      "La vigencia del certificado médico es de 30 días desde la fecha de confección.",
+      "No sirve el certificado de un médico particular.",
+      "El trámite lleva 15 minutos.",
+      "El DNI provisorio tiene vigencia de 6 meses con posibilidad de prórroga por el mismo plazo."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/dni-primer-ejemplar-provisorio-por-razones-medicas",
+      "titulo": "DNI Primer ejemplar provisorio por razones médicas | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T15:31:38.699Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-26T15:31:38.699Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de las oficinas de Registro Civil o Centros de Documentación Renaper.",
+    "Enlace específico para sacar turno en la app Mi Argentina."
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "tramite": {
+    "slug": "nuevo-dni",
+    "nombre": "Nuevo DNI",
+    "nombre_busqueda": "Nuevo DNI",
+    "resumen": "Para obtener un DNI nuevo en Villa Parque Santa Ana necesitás presentar documentos según tu caso (menor, mayor o extranjero) y pagar una tasa.",
+    "sinonimos": [],
+    "temas": [
+      "dni"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141410",
+  "organismo": {
+    "nombre": "Municipio de Villa Parque Santa Ana",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Menores de edad",
+      "Mayores de edad",
+      "Extranjeros"
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI anterior o constancia de extravío",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta de nacimiento digitalizada",
+        "aclaracion": "Si sos menor de edad."
+      },
+      {
+        "texto": "DNI del padre, madre o tutor",
+        "aclaracion": "Si sos menor de edad."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "Normal",
+      "gratis": false,
+      "monto_centavos": 1000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://villaparquesantaana.gob.ar/guia-de-tramites/nuevo-dni/"
+    },
+    {
+      "modalidad": "Express",
+      "gratis": false,
+      "monto_centavos": 2600000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://villaparquesantaana.gob.ar/guia-de-tramites/nuevo-dni/"
+    },
+    {
+      "modalidad": "Extranjeros",
+      "gratis": false,
+      "monto_centavos": 2000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://villaparquesantaana.gob.ar/guia-de-tramites/nuevo-dni/"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://villaparquesantaana.gob.ar/guia-de-tramites/nuevo-dni/",
+      "titulo": "Nuevo DNI – Municipio de Villa Parque Santa Ana",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T18:33:18.920Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si se requiere sacar turno",
+    "Dirección de la oficina",
+    "Plazo de tramitación"
+  ]
+}

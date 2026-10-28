@@ -1,0 +1,101 @@
+{
+  "tramite": {
+    "slug": "solicitar-un-certificado-de-prioridad-de-una-patente-o-modelo-de-utilidad",
+    "nombre": "Solicitar un certificado de prioridad de una patente o modelo de utilidad",
+    "nombre_busqueda": "certificado prioridad patente modelo utilidad",
+    "resumen": "Solicitá un comprobante de depósito de tu patente o modelo de utilidad en el portal de trámites con tu clave fiscal. El trámite lleva 15 días hábiles y requiere presentar el número de acta y el escrito correspondiente.",
+    "sinonimos": [
+      "certificado de prioridad internacional",
+      "comprobante de depósito patente",
+      "certificado prioridad modelo utilidad"
+    ],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto Nacional de la Propiedad Industrial",
+    "sigla": "INPI",
+    "web": "https://www.argentina.gob.ar/servicio/solicitar-un-certificado-de-prioridad-de-una-patente-o-modelo-de-utilidad"
+  },
+  "contenido": {
+    "quien_puede": [
+      "A cualquier persona humana o jurídica, sus apoderados o agentes de la propiedad industrial matriculados."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de acta de tu patente de invención o modelo de utilidad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Escrito para copias certificadas",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal de trámites con tu clave fiscal."
+      },
+      {
+        "texto": "Mirá el instructivo para adherir el servicio del INPI en tu cuenta de ARCA."
+      },
+      {
+        "texto": "Accedé a patentes / trámites / escrito."
+      },
+      {
+        "texto": "Completá el número de acta de tu patente o modelo de utilidad en el desplegable datos de la patente y hacé clic en MOSTRAR."
+      },
+      {
+        "texto": "Dentro de ARANCEL elegí el código 720000 - extensión de certificado de prioridad internacional."
+      },
+      {
+        "texto": "En el desplegable archivo / seleccione el índice escogé la opción COPIAS CERTIFICADAS."
+      },
+      {
+        "texto": "Podés adjuntar el escrito o redactarlo dentro de la caja de texto que figura a continuación."
+      },
+      {
+        "texto": "Accedé al modelo de escrito."
+      },
+      {
+        "texto": "Hacé clic en FINALIZAR."
+      },
+      {
+        "texto": "Firmá electrónicamente el formulario."
+      },
+      {
+        "texto": "Generá y pagá el arancel correspondiente."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "15 días hábiles",
+    "consejos": [
+      "Si no cumplís estos pasos, el pedido de certificado no ingresará, por lo que no se podrá procesar tu pedido."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-un-certificado-de-prioridad-de-una-patente-o-modelo-de-utilidad",
+      "titulo": "Solicitar un certificado de prioridad de una patente o modelo de utilidad | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T17:12:40.097Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no está especificado en el texto, consultá los aranceles vigentes.",
+    "No se especifica si el trámite requiere turno."
+  ]
+}

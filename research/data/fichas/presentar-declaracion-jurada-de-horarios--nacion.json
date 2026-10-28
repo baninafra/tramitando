@@ -1,0 +1,63 @@
+{
+  "tramite": {
+    "slug": "presentar-declaracion-jurada-de-horarios",
+    "nombre": "Presentar declaración jurada de horarios",
+    "nombre_busqueda": "Presentar declaración jurada de horarios",
+    "resumen": "Las empresas de transporte público urbano de pasajeros deben tramitar la aprobación de horarios para iniciar o modificar sus servicios. El trámite se realiza en línea a través de TAD y es gratuito.",
+    "sinonimos": [],
+    "temas": [
+      "transporte-publico-y-viajes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas de servicio de transporte público urbano de pasajeros de jurisdicción nacional."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de presentación de la empresa con modificación de horarios y el tiempo de marcha.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave fiscal de nivel 3.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Presentá la documentación a través de TAD."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/presentar-declaracion-jurada-de-horarios",
+      "titulo": "Presentar declaración jurada de horarios | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T00:52:51.735Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto menciona el pago del arancel correspondiente, pero no especifica el monto exacto ni si el trámite es realmente gratuito a pesar de la etiqueta visible en la página."
+  ]
+}

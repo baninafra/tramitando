@@ -1,0 +1,141 @@
+{
+  "tramite": {
+    "slug": "gestion-de-obras-privadas",
+    "nombre": "Gestión de Obras Privadas",
+    "nombre_busqueda": "Obra privada La Costa",
+    "resumen": "Registro, inicio de carpeta, visado catastral, carga de planos y cierre virtual para trámites de obras privadas en La Costa.",
+    "sinonimos": [
+      "Trámite obras privadas",
+      "Registro obras La Costa",
+      "Matrícula obras privadas"
+    ],
+    "temas": [
+      "obras-y-construccion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060420",
+  "organismo": {
+    "nombre": "Municipalidad de La Costa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Ingenieros",
+      "Arquitectos",
+      "Maestros Mayores de Obra"
+    ],
+    "requisitos": [
+      {
+        "texto": "Matrícula Municipal",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de registro",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUIT",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contraseña",
+        "aclaracion": null
+      },
+      {
+        "texto": "Información completa en el formulario de inicio de carpeta",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de Nomenclatura Catastral",
+        "aclaracion": null
+      },
+      {
+        "texto": "Recibo expedido del visado catastral",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planos solicitados por la gestión digital",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación física corregida",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Contactate previo a realizar el registro a obrasprivadas@lacosta.gob.ar si no posees la Matrícula Municipal."
+      },
+      {
+        "texto": "Registrate completando ÚNICA VEZ el formulario de registro."
+      },
+      {
+        "texto": "Validá tus datos clickeando en el link recibido por correo electrónico."
+      },
+      {
+        "texto": "Ingresá a la nueva plataforma de trámites con tu CUIT y contraseña."
+      },
+      {
+        "texto": "Seleccioná el ícono de Obras Privadas y completá el formulario de inicio de carpeta."
+      },
+      {
+        "texto": "Ingresá nuevamente al sistema para encontrar la respuesta del informe."
+      },
+      {
+        "texto": "Completá el formulario de Nomenclatura Catastral haciendo click en nuevo trámite."
+      },
+      {
+        "texto": "Imprimí y aboná el recibo expedido del visado catastral."
+      },
+      {
+        "texto": "Ingresá nuevamente al sistema para encontrar la respuesta del informe."
+      },
+      {
+        "texto": "Completá la carga adjuntando los planos solicitados por la gestión digital."
+      },
+      {
+        "texto": "Aguardá la respuesta del informe que se reflejará al pie de la página de ingreso de datos."
+      },
+      {
+        "texto": "Realizá nuevamente la carga completa de la documentación si fue solicitada una corrección."
+      },
+      {
+        "texto": "Aguardá la respuesta del informe que se reflejará al pie de página del ingreso de datos."
+      },
+      {
+        "texto": "Sacá tu TURNO PROGRAMADO para entregar la documentación en formato físico."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Es indispensable que la documentación física que se presentará sea tal cual la ingresada en el sistema oportunamente."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://lacosta.gob.ar/hacelo-desde-casa/obrasprivadas/",
+      "titulo": "La Costa » Obras Privadas - La Costa",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T14:42:56.416Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere Matrícula Municipal para quienes no la poseen.",
+    "Se requiere correo electrónico para validar datos tras el registro.",
+    "Se requiere ingreso a la plataforma de trámites con CUIT y contraseña.",
+    "Se requiere respuesta del informe al pie de la página de ingreso de datos en cada etapa.",
+    "Se requiere respuesta del informe al pie de página del ingreso de datos tras corrección de documentación.",
+    "Se requiere turno programado para entrega de documentación física."
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "tramite": {
+    "slug": "solicitar-exclusion-de-regimenes-de-retencion-en-arca",
+    "nombre": "Solicitar exclusión de regímenes de retención en ARCA",
+    "nombre_busqueda": "Solicitar exclusión de regímenes de retención en ARCA",
+    "resumen": "Como empleador podés tramitar ante ARCA la exclusión de los regímenes de retención, a fin de optimizar el ingreso de las obligaciones con destino a la seguridad social.",
+    "sinonimos": [],
+    "temas": [
+      "trabajo-y-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración de Retenciones y Contribuciones a la Seguridad Social",
+    "sigla": "ARCA",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A los empleadores con alta registrada en ARCA y actividades económicas y domicilio fiscal actualizados, cuyas 12 últimas declaraciones juradas determinativas y nominativas de aportes y contribuciones de la seguridad social e IVA, como así también la última declaración jurada de Ganancias y Ganancia…",
+      "El monto de dicho saldo a favor debe ser equivalente (como mínimo) al 20% del importe total de las contribuciones patronales consignadas en la declaración jurada."
+    ],
+    "requisitos": [
+      {
+        "texto": "Clave fiscal",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio web de ARCA con clave fiscal al servicio Solicitud de Certificado de No Retención del Régimen Nacional de la Seguridad Social."
+      },
+      {
+        "texto": "En caso de que no figure como opción en el menú desplegable, habilitalo."
+      },
+      {
+        "texto": "Hacé clic en el botón Ingreso de solicitud."
+      },
+      {
+        "texto": "Recibí el comprobante con carácter de acuse de recibo de ARCA."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Luego de que haya finalizado la vigencia del beneficio ya otorgado, renová la petición con una anticipación de 30 días corridos a la fecha de finalización del beneficio, para que sea renovado a partir del día siguiente al del vencimiento original, en caso de corresponder."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-exclusion-de-regimenes-de-retencion-en-arca",
+      "titulo": "Solicitar exclusión de regímenes de retención en ARCA | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:44:17.471Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T08:44:17.471Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/",
+      "titulo": "Inicio | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T08:44:17.471Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia exacta del beneficio no se especifica en el texto, solo se indica que tiene una vigencia máxima de 6 meses calendarios, contados a partir del mes inmediato siguiente a aquel en que se resuelve favorablemente la petición del beneficio."
+  ]
+}

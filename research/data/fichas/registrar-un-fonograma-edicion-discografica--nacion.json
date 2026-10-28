@@ -1,0 +1,123 @@
+{
+  "tramite": {
+    "slug": "registro-de-fonogramas",
+    "nombre": "Registrar un fonograma",
+    "nombre_busqueda": "Registrar fonograma edición discográfica",
+    "resumen": "Trámite obligatorio para registrar grabaciones (digitales o físicas) ante la DNDA. Se requiere pago de tasa y entrega de la obra según el formato elegido.",
+    "sinonimos": [
+      "Registro de fonograma",
+      "Inscripción de fonograma"
+    ],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional del Derecho de Autor",
+    "sigla": "DNDA",
+    "web": "https://www.argentina.gob.ar/servicio/registrar-un-fonograma-edicion-discografica"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Productores fonográficos",
+      "Intérpretes",
+      "Titulares"
+    ],
+    "requisitos": [
+      {
+        "texto": "Comprobante de pago del trámite por depósito o transferencia bancaria de 450000 al Fondo Cooperador Ley 23.412 DNDA-CAPIF",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fonograma físico: 3 copias del disco tal como se publican junto a las carátulas impresas del expediente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fonograma digital: audios y arte de tapa si se sube digitalmente; o audios y arte de tapa en soporte digital (cd, dvd, pendrive) junto a carátulas impresas si no se sube digitalmente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos de la obra: nombre y apellido del productor fonográfico, lugar de edición, fecha de edición",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos de intérpretes: nombre completo o nombre artístico",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos de titulares y productor: nombre completo o razón social, N° de cuil/cuit/cdi, pasaporte (si extranjero), nacionalidad, estado civil, correo electrónico, teléfono, domicilio y porcentaje de titularidad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Apoderamiento a través de TAD si no sos el productor fonográfico y/o titular",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD e iniciá el trámite de Inscripción de obra publicada – Fonograma"
+      },
+      {
+        "texto": "Completá los datos requeridos"
+      },
+      {
+        "texto": "Subí la documentación obligatoria y complementaria"
+      },
+      {
+        "texto": "Anotá el número de expediente electrónico que te otorga el sistema"
+      },
+      {
+        "texto": "Si elegiste Modo de Depósito Digital NO, descargá e imprimí los archivos del expediente y presentá o enviá la obra y las impresiones a la DNDA Sede Central"
+      },
+      {
+        "texto": "Si elegiste Modo de Depósito Digital SI, cargá la obra digitalmente según el procedimiento detallado en la comunicación recibida"
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá o enviá la obra y los archivos correspondientes a la DNDA Sede Central"
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La clave de la inscripción es la clara mención del productor fonográfico en la obra (en el link de publicación para digitales o en la obra para físicos)",
+      "El trámite no estará concluido hasta que se haya enviado a la DNDA la obra con los archivos correspondientes",
+      "Todos los ejemplares deberán contener nombre y apellido del productor fonográfico, lugar y fecha de edición"
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 450000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/registrar-un-fonograma-edicion-discografica"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/registrar-un-fonograma-edicion-discografica",
+      "titulo": "Registrar un fonograma (edición discográfica) | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T03:26:12.295Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Fecha de vigencia del trámite"
+  ]
+}

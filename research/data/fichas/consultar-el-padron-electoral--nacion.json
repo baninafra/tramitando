@@ -1,0 +1,83 @@
+{
+  "tramite": {
+    "slug": "consultar-el-padron-electoral",
+    "nombre": "Consultar el padrón electoral",
+    "nombre_busqueda": "Consultar padrón electoral",
+    "resumen": "Podés consultar si estás inscripto en el padrón electoral y dónde vas a votar por Internet, teléfono o Mi Argentina.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional Electoral",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Tener a mano tu número de DNI."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de DNI, sin puntos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Género: masculino, femenino o sin especificar, según figura en tu DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Distrito: Elegí la provincia donde votás, de acuerdo con el domicilio que consta en tu DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Verificador: Copiá exactamente el número que te aparece en la pantalla.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Identidad validada (para consulta por Mi Argentina).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Realizá la consulta en línea o ingresá al sitio de la Justicia Nacional Electoral."
+      },
+      {
+        "texto": "Completá cada casillero del formulario con tus datos."
+      },
+      {
+        "texto": "Aguardá unos instantes y, si estás inscripto, el sistema te informará el nombre y dirección del establecimiento donde vas a votar, el número de mesa y el número de orden que te corresponde."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consultar-el-padron-electoral",
+      "titulo": "Consultar el padrón electoral | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T05:39:28.811Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia del padrón no se especifica en el texto."
+  ]
+}

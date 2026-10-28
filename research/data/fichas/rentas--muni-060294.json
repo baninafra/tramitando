@@ -1,0 +1,89 @@
+{
+  "tramite": {
+    "slug": "consulta-deuda-tasas-inmuebles-vehiculos",
+    "nombre": "Consultar deuda y emitir comprobantes de tasas",
+    "nombre_busqueda": "Consulta de deuda de inmuebles y vehículos",
+    "resumen": "Consultá la deuda de tu inmueble o vehículo, imprimí los comprobantes de pago y regularizá la situación tributaria.",
+    "sinonimos": [
+      "Consulta tributaria de inmuebles y vehículos",
+      "Boletas de tasas municipales"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "tasa-inmobiliaria-y-servicios",
+      "patente-automotor-municipal",
+      "boletas-y-vencimientos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060294",
+  "organismo": {
+    "nombre": "Municipalidad de General Arenales",
+    "sigla": null,
+    "web": "https://www.generalarenales.gob.ar/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés consultar la deuda de un inmueble o vehículo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Contar con un inmueble o vehículo cuya deuda quieras consultar.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la Consulta Tributaria."
+      },
+      {
+        "texto": "Consultá el estado de deuda de tu inmueble o vehículo."
+      },
+      {
+        "texto": "Imprimí los comprobantes de pago."
+      },
+      {
+        "texto": "Regularizá la situación tributaria de tus bienes."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si necesitás asesoramiento sobre tu estado de deuda, comunicate con la Oficina de Recaudación del Palacio Municipal."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Recaudación del Palacio Municipal",
+      "direccion": "Av. B Mitre 50",
+      "localidad": "General Arenales",
+      "horario": null,
+      "fuente_url": "https://www.generalarenales.gob.ar/rentas/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.generalarenales.gob.ar/rentas/",
+      "titulo": "Rentas – Municipalidad de General Arenales",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T12:42:45.183Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se detallan requisitos para acceder al sistema.",
+    "No se informa si la consulta o la regularización tienen costo.",
+    "No se indica el enlace directo de ingreso a la Consulta Tributaria.",
+    "No se informa si se requiere turno."
+  ]
+}

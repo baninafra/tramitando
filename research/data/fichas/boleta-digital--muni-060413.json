@@ -1,0 +1,97 @@
+{
+  "tramite": {
+    "slug": "boleta-digital-de-tasas-municipales",
+    "nombre": "Boleta Digital de Tasas Municipales",
+    "nombre_busqueda": "Boleta Digital de Tasas Municipales",
+    "resumen": "Permite pagar tasas municipales y servicios públicos de forma online sin filas.",
+    "sinonimos": [],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "planes-de-pago-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060413",
+  "organismo": {
+    "nombre": "ARJUN",
+    "sigla": null,
+    "web": "https://arjun.gob.ar"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier contribuyente que tenga una deuda municipal a pagar."
+    ],
+    "requisitos": [
+      {
+        "texto": "Usuario y contraseña de ARJUN",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cédula de identidad o documento equivalente",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a arjun.gob.ar"
+      },
+      {
+        "texto": "Registráte con tu usuario y contraseña si no tenés cuenta"
+      },
+      {
+        "texto": "Elegí la sección Trámites"
+      },
+      {
+        "texto": "Buscá Boleta Digital de Tasas Municipales o Tasas y Servicios"
+      },
+      {
+        "texto": "Seleccioná el trámite correspondiente a tu caso"
+      },
+      {
+        "texto": "Completá los datos requeridos"
+      },
+      {
+        "texto": "Realizá el pago online con tu método preferido"
+      },
+      {
+        "texto": "Recibí el comprobante de pago"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá el calendario tributario para conocer los vencimientos",
+      "Si tenés dudas sobre tu deuda, comunicate con nosotros al 236-4407900"
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de ARJUN",
+      "direccion": "Rivadavia 80",
+      "localidad": "Junín",
+      "horario": null,
+      "fuente_url": "https://arjun.gob.ar/inicio"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://arjun.gob.ar/inicio",
+      "titulo": "ARJUN - Inicio",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T14:12:30.961Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los montos exactos de las tasas no se especifican en el texto descargado",
+    "El plazo de vencimiento de las deudas no se especifica en el texto descargado"
+  ]
+}

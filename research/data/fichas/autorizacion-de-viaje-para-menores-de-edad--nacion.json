@@ -1,0 +1,136 @@
+{
+  "tramite": {
+    "slug": "autorizacion-de-viaje-para-menores-de-edad",
+    "nombre": "Autorización de viaje para menores de edad",
+    "nombre_busqueda": "Autorización de viaje para menores",
+    "resumen": "Para que un menor de 18 años salga o ingrese al país, los padres o tutores deben tramitar una autorización presencial en la DNM. Se requiere un turno previo por cada hijo y se deben presentar documentos originales que acrediten identidad y vínculo familiar.",
+    "sinonimos": [
+      "Permiso de viaje para menores",
+      "Autorización de salida de menores"
+    ],
+    "temas": [
+      "viajar-con-menores-o-mascotas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Migraciones",
+    "sigla": "DNM",
+    "web": "https://www.argentina.gob.ar/servicio/autorizacion-de-viaje-para-menores-de-edad"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Padres, madres, tutores o curadores."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI o Pasaporte (válido y vigente) del menor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Visa para ingresar al país de destino (en caso de corresponder).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Partida o Certificado de Nacimiento o Libreta Civil de Familia (original) para demostrar la filiación, o bien, Testimonio Judicial de adopción u otro instrumento público que dé plena fe del vínculo que invocan o de la Tutela o Curatela o DNI de formato digital donde figuren los datos filiatorios de…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Permiso o autorización del progenitor faltante o de ambos (según corresponda).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado o partida de defunción si uno de los progenitores hubiese fallecido.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización de los padres y el permiso de alguno de sus abuelos por cada padre adolescente, en caso que falte algún consentimiento requerirá Autorización Judicial.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Resolución Judicial respectiva si el menor viaja acompañado de su tutor o curador.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pasaporte (válido y vigente) o documento de viaje según decisión del Mercosur 46/15 para ingresar al país.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Legalización del Consulado Argentino o Apostilla si la documentación fue expedida en el extranjero.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Traducción al castellano y legalización de firma si el documento fue expedido en el extranjero y el país no ratificó el Convenio de La Haya.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Legalización del Ministerio de Relaciones Exteriores, Comercio Internacional y Culto si la documentación fue expedida por representaciones consulares en el territorio nacional y el país no es del MERCOSUR.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización Judicial Supletoria si uno o ambos padres no pueden dar consentimiento, el menor está bajo guarda con fines de adopción, a disposición de un Juez o en Establecimientos Nacionales o Provinciales.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Ingresá al sitio de turnos para solicitar un turno previo por cada hijo menor."
+      },
+      {
+        "texto": "Presentate en la Sede Central o en alguna Delegación con el turno asignado."
+      },
+      {
+        "texto": "Llevá todos los documentos en original o copia autenticada para acreditar identidad o vínculo invocado."
+      },
+      {
+        "texto": "Presentá la documentación en buen estado de conservación ante los funcionarios otorgantes."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://www.argentina.gob.ar/turnos",
+    "plazo": null,
+    "consejos": [
+      "Las constancias de DNI en trámite no son válidas como documentos de viaje.",
+      "El trámite es personal y presencial en los puestos de control migratorio.",
+      "Si la autorización es otorgada por Escritura Pública, se aclara que dicho instrumento solo contiene la firma del Notario y su sello aclaratorio, atento a que las firmas de los otorgantes del acto obran en la escritura matriz o protocolo notarial que queda en poder del Escribano.",
+      "Si se presenta al control migratorio un menor con el instrumento de autorización original por Escritura pública o instrumento privado con las firmas certificadas otorgada ante un Escribano, aunque no se encuentre registrada en el sistema, y siempre que se encuentre confeccionada conforme a la norma…"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/autorizacion-de-viaje-para-menores-de-edad",
+      "titulo": "Autorización de viaje para menores de edad | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T15:02:14.021Z"
+    },
+    {
+      "url": "https://www.migraciones.gob.ar/turnosAutMenores/verificar_jurisdiccion_autorizacion.php",
+      "titulo": "Turnos para Autorización de viaje para menores de edad | DNM",
+      "bloques": [
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T15:02:14.021Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T15:02:14.021Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto del trámite es gratis.",
+    "El plazo de tramitación no está especificado en el texto."
+  ]
+}

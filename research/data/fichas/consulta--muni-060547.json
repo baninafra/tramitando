@@ -1,0 +1,69 @@
+{
+  "tramite": {
+    "slug": "consulta-de-deuda-y-tasas-municipales",
+    "nombre": "Consulta de deuda y tasas municipales",
+    "nombre_busqueda": "consultar tasas municipales",
+    "resumen": "Consultá tasas y otras cuestiones tributarias relacionadas con inmuebles, comercio, cementerio y vehículos en el Portal Tributario.",
+    "sinonimos": [
+      "consulta de tasas municipales"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060547",
+  "organismo": {
+    "nombre": "Municipalidad de Monte",
+    "sigla": null,
+    "web": "https://monte.gob.ar/tasas/consulta/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés consultar cuestiones tributarias de inmuebles, comercio, cementerio y vehículos."
+    ],
+    "requisitos": [
+      {
+        "texto": "El texto no informa requisitos para hacer la consulta.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la Consulta de Tasas desde el Portal Tributario."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Palacio Municipal",
+      "direccion": "Calle Laura Giagnacovo N° 636",
+      "localidad": "Monte, Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://monte.gob.ar/tasas/consulta/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://monte.gob.ar/tasas/consulta/",
+      "titulo": "Consulta de Tasas - Municipalidad de Monte",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T15:06:00.787Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se detallan requisitos, costo, plazo ni si necesitás turno."
+  ]
+}

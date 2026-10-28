@@ -1,0 +1,100 @@
+{
+  "tramite": {
+    "slug": "examen-prioritario-de-patentes-pep",
+    "nombre": "Examen Prioritario de Patentes",
+    "nombre_busqueda": "Examen Prioritario de Patentes PEP",
+    "resumen": "Este trámite acelera el estudio de fondo de solicitudes de patentes de invención que cumplan requisitos específicos, analizando el caso dentro de los 60 días corridos desde la presentación.",
+    "sinonimos": [],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto Nacional de la Propiedad Industrial",
+    "sigla": "INPI",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes hayan presentado una solicitud de patente de invención que cumplan con los requisitos mencionados."
+    ],
+    "requisitos": [
+      {
+        "texto": "Completar el formulario de solicitud.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar el resultado de una búsqueda arancelada de antecedentes (a nivel nacional e internacional) que realiza nuestra área de Información Tecnológica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Redactar una declaración jurada en donde se informe que no se ha presentado el invento en otra oficina de patentes con anterioridad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En el caso de ser una PyME, el certificado que así lo acredite.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal de trámites con tu clave fiscal."
+      },
+      {
+        "texto": "Mirá el instructivo para adherir el servicio del INPI en tu cuenta de ARCA."
+      },
+      {
+        "texto": "Accedé a patentes / trámites / escrito."
+      },
+      {
+        "texto": "Completá el número de acta de tu patente en el desplegable datos de la patente."
+      },
+      {
+        "texto": "Dentro de ARANCEL elegí el código 333001 - $0 - patentes - presentación para examen acelerado de primer depósito en argentina (pep)."
+      },
+      {
+        "texto": "En el desplegable ARCHIVO, dentro del índice, seleccioná el nombre de cada archivo y luego adjuntalo."
+      },
+      {
+        "texto": "Continuá hasta cargar todos los archivos necesarios (formulario de solicitud PEP, búsqueda de antecedentes nacional e internacional, declaración jurada y certificado de PyME, si corresponde)."
+      },
+      {
+        "texto": "Hacé clic en FINALIZAR."
+      },
+      {
+        "texto": "Firmá electrónicamente el formulario."
+      },
+      {
+        "texto": "Generá y pagá el arancel correspondiente."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "60 días corridos desde la presentación del formulario reglamentado",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/examen-prioritario-de-patentes-pep",
+      "titulo": "Examen Prioritario de Patentes (PEP) | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T15:26:50.378Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia exacta del programa no está especificada en el texto, solo se menciona que se extenderá por un plazo de tres años, prorrogable por períodos iguales y consecutivos."
+  ]
+}

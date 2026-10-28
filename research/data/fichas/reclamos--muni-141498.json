@@ -1,0 +1,77 @@
+{
+  "tramite": {
+    "slug": "reclamos-vecinales",
+    "nombre": "Reclamos",
+    "nombre_busqueda": "Reclamos",
+    "resumen": "Cualquier interesado puede presentar una queja escrita sobre una situación que lo queja. El inspector verifica la situación y la Jueza de Faltas resuelve.",
+    "sinonimos": [],
+    "temas": [
+      "reclamos-vecinales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141498",
+  "organismo": {
+    "nombre": "Municipalidad de Tancacha",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Se puede presentar cualquier interesado."
+    ],
+    "requisitos": [
+      {
+        "texto": "Comentar la situación que lo queja.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el reclamo de manera escrita."
+      },
+      {
+        "texto": "Guardá una copia para vos."
+      },
+      {
+        "texto": "Esperá que un inspector verifique la situación."
+      },
+      {
+        "texto": "Recibí la resolución de la Jueza de Faltas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 0,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.tancacha.gob.ar/reclamos.html"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.tancacha.gob.ar/reclamos.html",
+      "titulo": "Municipalidad de Tancacha",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T09:35:55.349Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina para presentar el reclamo.",
+    "Plazo para la resolución del reclamo."
+  ]
+}

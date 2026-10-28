@@ -1,0 +1,82 @@
+{
+  "tramite": {
+    "slug": "presentar-padron-de-afiliados",
+    "nombre": "Presentar padrón de afiliados",
+    "nombre_busqueda": "Presentar padrón de afiliados",
+    "resumen": "Las Entidades de Medicina Prepaga deben presentar mensualmente el padrón de afiliados ante la Superintendencia de Servicios de Salud mediante transferencia de archivos por FTP.",
+    "sinonimos": [],
+    "temas": [
+      "obra-social-y-prepaga"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Servicios de Salud",
+    "sigla": "SSSALUD",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Entidades de Medicina Prepaga inscriptas en forma Definitiva o Provisoria en el Registro Nacional de Empresas de Medicina Prepaga (RNEMP)."
+    ],
+    "requisitos": [
+      {
+        "texto": "Usuario y clave para realizar transferencia de novedades y demás archivos (FTP).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Archivo .txt que contenga el padrón completo cumpliendo con el diseño y las obligaciones impuestas por la SSSALUD.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Comprobá que se encuentre abierta la presentación según el cronograma adjunto."
+      },
+      {
+        "texto": "Generá el archivo .txt con el padrón completo según lo estipulado en el Manual de carga de padrones."
+      },
+      {
+        "texto": "Para conectarse al FTP, utilizá la misma clave que actualmente poses para realizar transferencias de novedades y demás archivos."
+      },
+      {
+        "texto": "Los datos correspondientes al padrón de usuarios deberán ser enviados, accediendo al sitio “padrón” dentro de la carpeta habilitada del periodo activo, según lo que indique el cronograma."
+      },
+      {
+        "texto": "Transferí el archivo a esa carpeta."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Sólo se aceptarán padrones completos, no archivos de novedades de Altas, Bajas o Modificaciones.",
+      "Sólo se tomarán como cumplimiento aquellos presentados por FTP eliminando los que envío por otro medio.",
+      "Si, al momento de presentación la entidad cuenta con 0 (CERO) afiliados en su cartera, deberás completar la nota adjunta y enviarla mediante la plataforma Tramites a Distancia (TAD) según indica la misma.",
+      "Con la transferencia se generará automáticamente un comprobante que detallará el total de los registros enviados, aceptados y rechazados.",
+      "Los registros que se encuentren dentro del archivo “######_P.ok” pasarán a la validación integral."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/presentar-padron-de-afiliados",
+      "titulo": "Presentar padrón de afiliados | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T01:16:28.447Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Cronograma de presentación mensual.",
+    "Dirección de FTP o sitio web para acceder a la carpeta habilitada.",
+    "Manual de carga de padrones para generar el archivo .txt."
+  ]
+}

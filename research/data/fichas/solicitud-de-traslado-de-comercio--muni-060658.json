@@ -1,0 +1,89 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-traslado-de-comercio",
+    "nombre": "Solicitud de traslado de comercio",
+    "nombre_busqueda": "Traslado de comercio",
+    "resumen": "Trámite para solicitar el traslado de una habilitación comercial en el municipio de Quilmes.",
+    "sinonimos": [
+      "Cambio de domicilio comercial",
+      "Traslado de establecimiento comercial"
+    ],
+    "temas": [
+      "comercio-e-industria",
+      "habilitacion-comercial",
+      "cambios-y-baja-de-habilitacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060658",
+  "organismo": {
+    "nombre": "Agencia de Fiscalización y Control Comunal",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresarios y comerciantes radicados en el municipio que deseen trasladar su establecimiento."
+    ],
+    "requisitos": [
+      {
+        "texto": "Habilitación comercial vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación de identidad del titular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de domicilio del nuevo lugar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planos del nuevo establecimiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pago de la tasa correspondiente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la habilitación comercial vigente y la documentación de identidad."
+      },
+      {
+        "texto": "Entregá la constancia de domicilio del nuevo lugar y los planos del establecimiento."
+      },
+      {
+        "texto": "Realizá el pago de la tasa correspondiente."
+      },
+      {
+        "texto": "Recibí el nuevo certificado de habilitación con el nuevo domicilio."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mi.quilmes.gov.ar/tramites/175/solicitud-de-traslado-de-comercio",
+      "titulo": "Mi Quilmes Digital",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T06:02:34.145Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se desconoce el monto exacto de la tasa de traslado.",
+    "Se desconoce si se requiere turno para realizar el trámite.",
+    "Se desconoce el plazo de resolución del trámite."
+  ]
+}

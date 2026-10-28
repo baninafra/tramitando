@@ -1,0 +1,112 @@
+{
+  "tramite": {
+    "slug": "licencia-de-conducir",
+    "nombre": "Licencia de conducir",
+    "nombre_busqueda": "Sacar licencia de conducir",
+    "resumen": "Para obtener la licencia de conducir en la Municipalidad de Almafuerte, se debe presentar DNI, CUIL y la licencia vencida o próxima a vencer. Se paga una tasa según el tipo de vehículo y se realiza una evaluación escrita y práctica.",
+    "sinonimos": [
+      "Carnet de conducir",
+      "Obtener carnet de conducir",
+      "Licencia de conducir municipal"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141421",
+  "organismo": {
+    "nombre": "CIM | Municipalidad de Almafuerte",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que cumpla con los requisitos de edad y documentación para obtener la licencia correspondiente."
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia de DNI y CUIL.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Licencia vencida o próxima a vencer.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Presentá la documentación requerida (DNI, CUIL y licencia vencida o próxima a vencer)."
+      },
+      {
+        "texto": "Pagá la tasa correspondiente según el tipo de vehículo."
+      },
+      {
+        "texto": "Realizá la evaluación escrita y práctica de manejo."
+      },
+      {
+        "texto": "Retirá tu licencia de conducir una vez aprobada la evaluación."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1700000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://almafuertecba.gob.ar/CIM"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 3400000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://almafuertecba.gob.ar/CIM"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 4400000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://almafuertecba.gob.ar/CIM"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1400000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://almafuertecba.gob.ar/CIM"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://almafuertecba.gob.ar/CIM",
+      "titulo": "CIM | Municipalidad de Almafuerte",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T09:25:08.412Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horario de atención al público general (06:00 a 13:00 hs).",
+    "Horario de guardia local (15 a 07 hs de martes a domingos).",
+    "Horario específico de evaluación de manejo."
+  ]
+}

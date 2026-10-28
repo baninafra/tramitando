@@ -1,0 +1,88 @@
+{
+  "tramite": {
+    "slug": "calcular-intereses-resarcitorios-y-punitorios-arca",
+    "nombre": "Calcular intereses resarcitorios y punitorios ARCA",
+    "nombre_busqueda": "calcular intereses resarcitorios y punitorios arca",
+    "resumen": "Este trámite te permite realizar el cálculo de intereses resarcitorios y punitorios para obligaciones impositivas y de seguridad social desde marzo de 1993 hasta la actualidad.",
+    "sinonimos": [],
+    "temas": [
+      "cuil-y-clave-de-seguridad-social",
+      "cuit-y-clave-fiscal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración Federal de Ingresos Nacionales",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes van a cumplir con sus obligaciones impositivas y de seguridad social."
+    ],
+    "requisitos": [
+      {
+        "texto": "Fecha de vencimiento de la obligación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fecha de pago del capital (de corresponder).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Importe de capital.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fecha de pago de los intereses (de corresponder).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fecha de inicio de la demanda (para el cálculo de intereses punitorios).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Importe de la demanda (para el cálculo de intereses punitorios).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la página cálculo de intereses de ARCA."
+      },
+      {
+        "texto": "Seleccioná el tipo de interés a calcular (resarcitorios, punitorios o un combinado de ambos)."
+      },
+      {
+        "texto": "Utilizá el resultado de los cálculos para confeccionar el formulario del pago."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "10 minutos",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/calcular-intereses-resarcitorios-y-punitorios-arca",
+      "titulo": "Calcular intereses resarcitorios y punitorios - ARCA | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T14:59:27.262Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica si se requiere turno para realizar este trámite."
+  ]
+}

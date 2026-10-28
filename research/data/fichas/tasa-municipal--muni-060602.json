@@ -1,0 +1,87 @@
+{
+  "tramite": {
+    "slug": "tasa-municipal",
+    "nombre": "Tasa Municipal",
+    "nombre_busqueda": "Tasa Municipal",
+    "resumen": "Pagá la tasa correspondiente según el concepto que necesitás en la Ordenanza Tributaria Municipal.",
+    "sinonimos": [],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060602",
+  "organismo": {
+    "nombre": "Municipalidad de Patagones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Contribuyentes que necesiten realizar trámites o servicios que preste la Municipalidad de Patagones."
+    ],
+    "requisitos": [
+      {
+        "texto": "Concepto de la tasa según la Ordenanza Tributaria Municipal.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá la Ordenanza Tributaria Municipal para ver los valores vigentes.",
+      "Los importes se establecen en el Capítulo VIII – Artículo 27º de la ordenanza."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 800000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://patagones.gob.ar/direccioncompras/tasa-municipal/"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 500000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://patagones.gob.ar/direccioncompras/tasa-municipal/"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1500000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://patagones.gob.ar/direccioncompras/tasa-municipal/"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://patagones.gob.ar/direccioncompras/tasa-municipal/",
+      "titulo": "Tasa Municipal - Municipalidad de Patagones",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "costo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T16:00:22.241Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de la oficina para el pago.",
+    "Horarios de atención específicos para el pago de tasas.",
+    "Métodos de pago aceptados (transferencia, efectivo, tarjeta).",
+    "Plazo para el pago de las tasas.",
+    "Si se puede realizar el pago por internet."
+  ]
+}

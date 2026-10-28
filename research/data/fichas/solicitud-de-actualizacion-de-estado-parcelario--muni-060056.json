@@ -1,0 +1,98 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-actualizacion-de-estado-parcelario",
+    "nombre": "Solicitud de actualización de estado parcelario",
+    "nombre_busqueda": "actualizar estado parcelario catastro bahia blanca",
+    "resumen": "Actualizá el estado parcelario si hay un plano de mensura aprobado en ARBA que no conste en el Municipio. Llevá el plano, la planilla y aboná los sellados en la caja del Municipio.",
+    "sinonimos": [
+      "actualización parcelaria",
+      "mensura catastral"
+    ],
+    "temas": [
+      "catastro-e-inmuebles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que tenga un plano de mensura aprobado en ARBA y que su actualización no conste en el Municipio."
+    ],
+    "requisitos": [
+      {
+        "texto": "Plano de mensura aprobado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Libre deuda de las partidas de origen.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planilla Solicitud Actualización Parcelaria.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Aboná los sellados correspondientes de Actualización Parcelaria y Libre de Deuda de cada partida de origen en las cajas del Municipio ingresando por Alsina 43."
+      },
+      {
+        "texto": "Ingresá la documentación solicitada en Mesa de Entradas del Municipio en Alsina 65."
+      },
+      {
+        "texto": "El Departamento Catastro efectúa la actualización parcelaria solicitada."
+      },
+      {
+        "texto": "Recibí la notificación al requirente."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Departamento de Catastro",
+      "direccion": "Chiclana 453",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/catastro/solicitud-de-actualizacion-de-estado-parcelario/"
+    },
+    {
+      "nombre": "Mesa de Entradas del Municipio",
+      "direccion": "Alsina 65",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/catastro/solicitud-de-actualizacion-de-estado-parcelario/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/tramites/catastro/solicitud-de-actualizacion-de-estado-parcelario/",
+      "titulo": "Solicitud de Actualización de Estado Parcelario | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T20:39:52.173Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horario de atención del Departamento de Catastro.",
+    "Dirección exacta de la caja para sellados (se menciona Alsina 43 pero no se especifica si es la misma oficina del catastro o distinta).",
+    "Plazo de atención del trámite."
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "tramite": {
+    "slug": "credencial-personas-trasplantadas",
+    "nombre": "Obtener la credencial para personas trasplantadas y en lista de espera",
+    "nombre_busqueda": "credencial ley 26928 trasplantados",
+    "resumen": "La credencial permite realizar gestiones asociadas a los derechos de la Ley 26.928. Es gratuita, tiene vigencia de 3 años y se solicita en el Organismo Provincial de Ablación e Implante o en el INCUCAI.",
+    "sinonimos": [
+      "credencial ley 26928",
+      "credencial trasplantados",
+      "credencial lista de espera"
+    ],
+    "temas": [
+      "discapacidad-y-accesibilidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "INCUCI",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que han recibido un trasplante de órganos, tejidos o células.",
+      "Personas inscriptas en lista de espera para la realización de gestiones asociadas a la Ley N° 26.928.",
+      "Familiar directo o representante legal del beneficiario."
+    ],
+    "requisitos": [
+      {
+        "texto": "Estar inscripto en el Sistema Nacional de Procuración y Trasplante de la República Argentina (SINTRA).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener residencia permanente en Argentina.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar tu DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Coordinar por qué canal querés recibir la credencial.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Realizá tu solicitud en el Organismo Provincial de Ablación e Implante correspondiente a tu domicilio."
+      },
+      {
+        "texto": "O realizá la solicitud en el INCUCAI (Ramsay 2250 - CABA) de lunes a viernes de 9 a 15h."
+      },
+      {
+        "texto": "Presentá la documentación."
+      },
+      {
+        "texto": "Van a corroborar con tu número de documento que estés registrado en el Sistema Nacional de Información de Procuración y Trasplante de la República Argentina (SINTRA) y que la información sea correcta."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La credencial tiene una vigencia de tres años, contados a partir de la fecha de emisión.",
+      "Una vez vencida puede renovarse por idénticos períodos completando los mismos pasos que para solicitarla."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "INCUCI",
+      "direccion": "Ramsay 2250",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/obtener-la-credencial-para-personas-trasplantadas-y-en-lista-de-espera-ley-26928"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-la-credencial-para-personas-trasplantadas-y-en-lista-de-espera-ley-26928",
+      "titulo": "Obtener la Credencial para personas trasplantadas y en lista de espera - Ley 26.928 | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T22:40:48.691Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T22:40:48.691Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/",
+      "titulo": "Inicio | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T22:40:48.691Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Lista completa de oficinas provinciales.",
+    "Vigencia exacta de la credencial (3 años)."
+  ]
+}

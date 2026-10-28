@@ -1,0 +1,75 @@
+{
+  "tramite": {
+    "slug": "reclamos-y-consultas-de-usuarios-o-vecinos-de-la-red-vial-nacional-concesionada",
+    "nombre": "Reclamos y consultas de usuarios o vecinos de la red vial nacional concesionada",
+    "nombre_busqueda": "Reclamos red vial nacional concesionada",
+    "resumen": "Realizá reclamos, denuncias, sugerencias o consultá sobre rutas y autopistas concesionadas bajo jurisdicción del Estado nacional. Primero intentá resolverlo con la empresa concesionaria; si no hay respuesta o no estás de acuerdo, podés contactarse con el Centro de Atención de Vialidad Nacional.",
+    "sinonimos": [
+      "Reclamos Vialidad Nacional",
+      "Denuncias rutas concesionadas",
+      "Consultas red vial nacional"
+    ],
+    "temas": [
+      "servicios-urbanos-y-reclamos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Vialidad Nacional",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Usuarios o vecinos de la red vial nacional concesionada."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de identificación del reclamo que hiciste originalmente ante la concesionaria (si reclamás porque no te dieron respuesta satisfactoria).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dirección electrónica o postal que plasmaste en la queja original.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Realizá el reclamo ante la empresa concesionaria en cuestión consultando la Red Vial Nacional y sus canales de contacto."
+      },
+      {
+        "texto": "Si no hay respuesta o estás en desacuerdo, contactate con el Centro de Atención al Usuario de Vialidad Nacional ingresando al formulario web."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La normativa establece plazos de respuesta de 5 días hábiles para el Acceso Riccheri a la Ciudad de Buenos Aires y los Corredores Viales Nacionales (excepto el Corredor Vial N° 18).",
+      "Para los Accesos Norte y Oeste a la Ciudad de Buenos Aires, el plazo de respuesta es de 30 días hábiles.",
+      "La empresa concesionaria responderá mediante la dirección electrónica o postal que usted plasmó en la queja."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reclamos-y-consultas-de-usuarios-o-vecinos-de-la-red-vial-nacional-concesionada",
+      "titulo": "Reclamos y consultas de usuarios o vecinos de la Red Vial Nacional Concesionada | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:44:55.898Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere verificar si el trámite se puede realizar completamente en línea o si hay pasos presenciales para la atención del reclamo.",
+    "Se requiere confirmar si es necesario sacar turno para contactarse con el Centro de Atención al Usuario de Vialidad Nacional."
+  ]
+}

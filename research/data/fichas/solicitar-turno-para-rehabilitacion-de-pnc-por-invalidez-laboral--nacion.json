@@ -1,0 +1,105 @@
+{
+  "tramite": {
+    "slug": "solicitar-turno-rehabilitacion-pnc-invalidez-laboral",
+    "nombre": "Solicitar turno para rehabilitación de PNC por invalidez laboral",
+    "nombre_busqueda": "Solicitar turno rehabilitación pensión no contributiva invalidez",
+    "resumen": "Solicitá un turno para iniciar la rehabilitación de tu pensión no contributiva por invalidez laboral. El trámite es personal, gratuito y lleva 15 minutos.",
+    "sinonimos": [
+      "Rehabilitación de pensión no contributiva",
+      "Turno pensión invalidez laboral"
+    ],
+    "temas": [
+      "pensiones-no-contributivas-por-invalidez"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas con pensión no contributiva por invalidez laboral suspendida que deseen rehabilitarla."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del titular de la pensión.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación respaldatoria que acredite tu condición para acceder a la pensión no contributiva por invalidez laboral.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Resumen de historia clínica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estudios médicos actualizados con sus respectivos informes.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al Sistema Nacional de Turnos o hacé clic directamente en el botón verde de esta página."
+      },
+      {
+        "texto": "Pedí turno."
+      },
+      {
+        "texto": "Buscá por nombre del trámite 'Solicitud de Rehabilitación de PNCIL' y seleccionalo."
+      },
+      {
+        "texto": "Hacé clic en el botón 'Sacar turno'."
+      },
+      {
+        "texto": "Completá la información y cargá la documentación que te solicite según tu caso."
+      },
+      {
+        "texto": "Elegí el Centro de Atención Local, la fecha y el horario del turno."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate el día del turno con la documentación requerida."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://turnos.argentina.gob.ar/turnos/seleccionTurno",
+    "plazo": "15 minutos",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-turno-para-rehabilitacion-de-pnc-por-invalidez-laboral",
+      "titulo": "Solicitar turno para Rehabilitación de PNC por invalidez laboral | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T16:50:45.923Z"
+    },
+    {
+      "url": "https://turnos.argentina.gob.ar/turnos/seleccionTurno",
+      "titulo": "Sistema Nacional de Turnos",
+      "bloques": [
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T16:50:45.923Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de oficinas",
+    "Localidad de oficinas",
+    "Nombre de oficinas",
+    "Vigencia desde fecha exacta"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "tramite": {
+    "slug": "busqueda-de-empleo-y-seguro-de-desempleo",
+    "nombre": "Búsqueda laboral e intermediación de empleo",
+    "nombre_busqueda": "Buscar trabajo",
+    "resumen": "Permite buscar ofertas de empleo y acceder a servicios de orientación laboral a través del Portal Trabajo.",
+    "sinonimos": [
+      "Buscar empleo",
+      "Ofertas de trabajo",
+      "Orientación laboral"
+    ],
+    "temas": [
+      "busqueda-de-empleo-y-seguro-de-desempleo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060476",
+  "organismo": {
+    "nombre": "Loberia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que busque empleo o necesite orientación laboral."
+    ],
+    "requisitos": [
+      {
+        "texto": "Acceso a internet.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al Portal Trabajo desde el enlace oficial."
+      },
+      {
+        "texto": "Buscá la sección de búsqueda de empleo."
+      },
+      {
+        "texto": "Filtrá las ofertas por ubicación, tipo de trabajo o salario."
+      },
+      {
+        "texto": "Guardá los datos de las empresas que te interesen."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://empleo.loberia.gob.ar/",
+      "titulo": "Portal Trabajo",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T14:48:56.490Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos adicionales para menores o casos especiales."
+  ]
+}

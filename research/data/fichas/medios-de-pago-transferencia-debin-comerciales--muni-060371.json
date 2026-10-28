@@ -1,0 +1,74 @@
+{
+  "tramite": {
+    "slug": "medios-de-pago-transferencia-debin-comerciales",
+    "nombre": "Medios de pago - Transferencia Debit - Comerciales",
+    "nombre_busqueda": "Medios de pago - Transferencia Debit - Comerciales",
+    "resumen": "Este trámite permite realizar transferencias bancarias a comercios mediante la aplicación Debit. Se requiere un DNI vigente y el número de cuenta del comerciante.",
+    "sinonimos": [],
+    "temas": [
+      "cuil-y-clave-de-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060371",
+  "organismo": {
+    "nombre": "Municipalidad de San Martín",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona física o jurídica que desee realizar transferencias a comercios."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI vigente original y copia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de cuenta del comerciante.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio web de la Municipalidad de San Martín."
+      },
+      {
+        "texto": "Buscá el trámite 'Medios de pago - Transferencia Debit - Comerciales'."
+      },
+      {
+        "texto": "Completá los datos requeridos y cargá los documentos."
+      },
+      {
+        "texto": "Realizá el pago de la tasa correspondiente."
+      },
+      {
+        "texto": "Recibí el comprobante de pago y el número de turno."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://sanmartin.gob.ar/tramites/medios-de-pago-transferencia-debin-comerciales",
+      "titulo": "Medios de pago - Transferencia Debit - Comerciales",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T01:37:53.365Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se indica que se requiere un comprobante de pago, pero no se especifica el monto exacto ni si es gratis.",
+    "No se especifica el plazo de atención ni los consejos adicionales."
+  ]
+}

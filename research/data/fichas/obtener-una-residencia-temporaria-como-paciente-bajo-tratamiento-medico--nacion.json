@@ -1,0 +1,130 @@
+{
+  "tramite": {
+    "slug": "residencia-temporaria-paciente-bajo-tratamiento-medico",
+    "nombre": "Obtener residencia temporaria como paciente bajo tratamiento médico",
+    "nombre_busqueda": "Residencia temporaria paciente tratamiento médico",
+    "resumen": "Residencia temporaria para personas extranjeras que sean pacientes bajo tratamiento médico y demuestren la necesidad de radicarse en el país para ser atendidos en establecimientos sanitarios públicos o privados.",
+    "sinonimos": [
+      "Residencia médica",
+      "Residencia por tratamiento médico"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria",
+      "residencias-temporarias-y-permanentes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Migraciones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas extranjeras que sean pacientes bajo tratamiento médico y demuestren la necesidad de radicarse en el país a fin de ser atendidos en establecimientos sanitarios públicos o privados de la República Argentina."
+    ],
+    "requisitos": [
+      {
+        "texto": "Pasaporte válido y vigente (todas las nacionalidades) o documento de viaje del MERCOSUR legalizado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Nacionalidad emitido por autoridad Consular (solo si se presenta en lugar de pasaporte).",
+        "aclaracion": "Debe poseer fotografía de su titular y encontrarse legalizado por el Ministerio de Relaciones Exteriores, Comercio Internacional y Culto de la Nación."
+      },
+      {
+        "texto": "Certificado de Antecedentes Penales Argentinos emitido por el Registro Nacional de Reincidencia (Solo exigible a mayores de 16 años).",
+        "aclaracion": "Incorporado al sistema Radex, no es necesaria su tramitación por fuera."
+      },
+      {
+        "texto": "Certificado que acredite fehacientemente que no registra condenas anteriores ni procesos penales en trámite, emitido por las autoridades competentes de los países donde haya residido por un plazo superior a UN (1) año, durante el transcurso de los últimos TRES (3) años.",
+        "aclaracion": "Solo exigible a mayores de 16 años de edad."
+      },
+      {
+        "texto": "Historia clínica en donde conste la patología y el tratamiento médico a seguir en un establecimiento sanitario dentro de la República Argentina.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el tratamiento fuera llevado a cabo en un hospital público, deberá encontrarse suscripta por el director de la institución.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el tratamiento fuera llevado a cabo en una institución privada o ante un médico particular, deberá certificarse la firma del profesional ante el ministerio de salud argentino.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el acompañante fuera extranjero, la residencia se hará extensiva a los familiares directos, representante legal o curador, acompañando la documentación personal de estos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Partida de nacimiento legalizada (para menores de 18 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización de alguno de sus padres, quien deberá presentarse al momento de realizar el trámite con DNI vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Toda documentación expedida en el extranjero deberá contar con la legalización del Consulado Argentino, sito en el país emisor del documento, o Apostillada, si el país hubiera ratificado el Convenio de La Haya.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La documentación expedida por las representaciones consulares en el territorio nacional deberá contar con la legalización del Ministerio de Relaciones Exteriores Comercio Internacional y Culto, excepto MERCOSUR.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si estuviera en idioma extranjero debe ser traducida al castellano por un traductor público nacional y legalizada por el Colegio de Traductores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Toda la documentación debe ser original.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La Dirección Nacional de Migraciones podrá solicitar, si lo considerase necesario, documentación adicional a la detallada.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá tu trámite ingresando en el sistema RaDEX."
+      },
+      {
+        "texto": "Registrate como usuario, completá el formulario de solicitud y aboná las tasas correspondientes."
+      },
+      {
+        "texto": "Adjuntá la documentación y datos requeridos según el tipo de residencia a la que quieras aplicar."
+      },
+      {
+        "texto": "Si cumplís con los requisitos para formalizar tu solicitud, recibirás un email con la fecha de tu cita presencial."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-una-residencia-temporaria-como-paciente-bajo-tratamiento-medico",
+      "titulo": "Obtener una residencia temporaria como paciente bajo tratamiento médico | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T07:03:38.416Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de las tasas migratorias no se especifica en el texto, solo se menciona que se deben abonar en la plataforma web.",
+    "La fecha exacta de vigencia de la resolución o decreto que regula este trámite no se especifica en el texto."
+  ]
+}

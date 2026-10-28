@@ -1,0 +1,88 @@
+{
+  "tramite": {
+    "slug": "inscripcion-y-exencion-de-ingresos-brutos-ley-alas",
+    "nombre": "Inscripción y exención de ingresos brutos por Ley ALAS",
+    "nombre_busqueda": "Inscripción y exención de ingresos brutos por Ley ALAS",
+    "resumen": "Trámite para obtener la exención del impuesto a los Ingresos Brutos mediante la inscripción en el Registro Único Provincial UEALAS. Se realiza en la Oficina de Producción.",
+    "sinonimos": [],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "exenciones-y-tasa-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060189",
+  "organismo": {
+    "nombre": "Municipalidad de Coronel Dorrego",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan lugar en el marco de la Economía Popular en la provincia de Buenos Aires unidades económicas de Actividades Laborales de Autoempleo y Subsistencia (ALAS)."
+    ],
+    "requisitos": [
+      {
+        "texto": "Copia de DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de constancia de opción de AFIP.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planilla de inscripción de ANSES con código de actividad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si estuviera inscripto en Ingresos Brutos, certificado de inscripción de ARBA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de domicilio o Servicio.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación requerida en la Oficina de Producción."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Producción",
+      "direccion": "Av. Fuertes 630",
+      "localidad": "Coronel Dorrego",
+      "horario": null,
+      "fuente_url": "https://dorrego.gob.ar/mun/direcciones/produccion/menu/tramites/ley-alas.php"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://dorrego.gob.ar/mun/direcciones/produccion/menu/tramites/ley-alas.php",
+      "titulo": "Producción - Ley Alas",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T22:35:38.971Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere inscripción previa en el Registro Único Provincial UEALAS.",
+    "Constancia de domicilio o Servicio no necesariamente tiene que estar a su nombre.",
+    "Para renovación se requiere constancia de opción de AFIP y certificado de inscripción de ARBA.",
+    "Para baja se requiere certificado de baja en ARBA y nota de solicitud de baja por mail.",
+    "No se especifica el monto de la tasa o si el trámite es gratuito."
+  ]
+}

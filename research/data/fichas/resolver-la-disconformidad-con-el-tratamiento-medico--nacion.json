@@ -1,0 +1,87 @@
+{
+  "tramite": {
+    "slug": "resolver-la-disconformidad-con-el-tratamiento-medico",
+    "nombre": "Resolver la disconformidad con el tratamiento médico",
+    "nombre_busqueda": "Resolver la disconformidad con el tratamiento médico",
+    "resumen": "Si sos trabajador y no estás de acuerdo con el tratamiento médico que te están brindando por parte de tu ART o empleador, podés solicitar que las comisiones médicas evalúen si es correcto o debe ser modificado.",
+    "sinonimos": [],
+    "temas": [
+      "salud-y-prevencion",
+      "cuidados-domiciliarios-y-salud-mental"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Riesgos del Trabajo",
+    "sigla": "SRT",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A las personas que hayan sufrido un accidente laboral y/o enfermedad y no estén de acuerdo con el tratamiento que están recibiendo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Copia de DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Denuncia de la contingencia (Accidente o Enfermedad Profesional. Formulario Anexo IV de la Resolución SRT Nº 5/26).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que funda la competencia de la comisión médica elegida.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si es por domicilio del DNI: copia del DNI del trabajador.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si es por domicilio de efectiva prestación de servicios/donde presta tareas (domicilio donde trabaja): Certificado Res. SRT N° 698/17 o Res. SRT N° 11/18, según corresponda.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el domicilio donde habitualmente reporta (domicilio del empleador): Certificado Res. SRT N° 698/17 o Res. SRT N° 11/18, según corresponda.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Toda la documentación médica (Historia clínica, estudios realizados por la ART o médico de obra social o particular) que tengas relacionados con la contingencia.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Reuní la documentación."
+      },
+      {
+        "texto": "Iniciá tu expediente de manera presencial en la comisión médica que corresponda al domicilio que figura en tu DNI o la que corresponda al domicilio de tu empleador en el que se presta el servicio efectivamente."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/resolver-la-disconformidad-con-el-tratamiento-medico",
+      "titulo": "Resolver la disconformidad con el tratamiento médico | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T04:08:05.868Z"
+    }
+  ],
+  "sin_confirmar": [
+    "¿Cuánto tiempo lleva?"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "tramite": {
+    "slug": "presentar-inscripcion-del-organo-de-administracion-ante-el-registro-publico-de-comercio",
+    "nombre": "Presentar inscripción del órgano de administración ante el registro público de comercio",
+    "nombre_busqueda": "Inscripción órgano administración registro comercio",
+    "resumen": "Este trámite informa el inicio o finalización de la inscripción del órgano de administración de aseguradoras y reaseguradoras locales ante la Superintendencia de Seguros de la Nación.",
+    "sinonimos": [],
+    "temas": [
+      "emprendedores-y-monotributo",
+      "monotributo-social-y-general"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Seguros de la Nación",
+    "sigla": "SSN",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Aseguradoras y reaseguradoras locales"
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener usuario de acceso a TAD",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta de Directorio con distribución de cargos",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia ante el Registro Público de Comercio",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al TAD 'Inscripción del Órgano de Administración ante el Registro Público de Comercio (inicio o finalización de trámite)'"
+      },
+      {
+        "texto": "Completá los datos requeridos"
+      },
+      {
+        "texto": "Finalizada la carga, confirmá los datos ingresados"
+      },
+      {
+        "texto": "El sistema generará un número de expediente ante la SSN"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El organismo analizará la información presentada y ante una observación se comunicará sobre ello"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/presentar-inscripcion-del-organo-de-administracion-ante-el-registro-publico-de-comercio",
+      "titulo": "Presentar inscripción del Órgano de Administración ante el Registro Público de Comercio (inicio o finalización del trámite). | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T00:56:23.555Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T00:56:23.555Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica si el trámite requiere turno ni dónde presentarlo presencialmente si no es en línea",
+    "El texto no menciona plazos de espera ni tiempos de análisis específicos"
+  ]
+}

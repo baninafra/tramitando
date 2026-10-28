@@ -1,0 +1,94 @@
+{
+  "tramite": {
+    "slug": "planes-de-pago-municipales",
+    "nombre": "Solicitar o refinanciar planes de pago",
+    "nombre_busqueda": "solicitar plan de pago transporte",
+    "resumen": "Empresas de transporte con deudas ante la CNRT pueden solicitar planes de pago, refinanciarlos o realizar un pago único. El trámite es gratuito y se realiza presencialmente en la sede central o delegaciones regionales.",
+    "sinonimos": [
+      "planes de pago CNRT",
+      "refinanciar deuda transporte",
+      "pago único CNRT"
+    ],
+    "temas": [
+      "planes-de-pago-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Comisión Nacional de Regulación del Transporte",
+    "sigla": "CNRT",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas de transporte que registran deudas con el organismo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de Solicitud de Plan de Pago",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del firmante (Titular o Apoderado)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cédula de notificación o vista de cargos",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poder que acredite la situación",
+        "aclaracion": "Solo si la empresa no está registrada ante la CNRT."
+      },
+      {
+        "texto": "Formulario de Refinanciación de Plan de Pago",
+        "aclaracion": null
+      },
+      {
+        "texto": "Mencionar en el correo electrónico la solicitud de la boleta para abonar en un pago único",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación en la sede central de la CNRT ubicada en Maipú 88, CABA de lunes a viernes 9 a 15 h."
+      },
+      {
+        "texto": "O presentá la documentación en las delegaciones regionales que se encuentran en el interior del país."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede central de la CNRT",
+      "direccion": "Maipú 88",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-o-refinanciar-planes-de-pago"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-o-refinanciar-planes-de-pago",
+      "titulo": "Solicitar o refinanciar planes de pago | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T10:05:01.535Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si se requiere turno, no se especifica en el texto."
+  ]
+}

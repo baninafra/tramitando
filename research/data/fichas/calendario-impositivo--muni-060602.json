@@ -1,0 +1,56 @@
+{
+  "tramite": {
+    "slug": "calendario-impositivo",
+    "nombre": "Consultar el calendario impositivo",
+    "nombre_busqueda": "Calendario Impositivo de Patagones",
+    "resumen": "Consultá los vencimientos de 2026 para tasas e impuestos municipales de Patagones. El calendario incluye fechas de primer y segundo vencimiento según el tributo.",
+    "sinonimos": [
+      "vencimientos municipales",
+      "calendario de tasas municipales"
+    ],
+    "temas": [
+      "boletas-y-vencimientos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060602",
+  "organismo": {
+    "nombre": "Municipalidad de Patagones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés consultar los vencimientos de tasas e impuestos municipales incluidos en el calendario."
+    ],
+    "requisitos": [
+      {
+        "texto": "La página no indica requisitos para consultar el calendario.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://patagones.gob.ar/calendario-impositivo/",
+      "titulo": "Calendario Impositivo – Municipalidad de Patagones",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T15:44:22.618Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La página no indica requisitos para consultar el calendario."
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "tramite": {
+    "slug": "reclamos-y-denuncias-ante-defensa-del-consumidor",
+    "nombre": "Reclamos y denuncias ante Defensa del Consumidor",
+    "nombre_busqueda": "Reclamos ante OMIC",
+    "resumen": "Para presentar reclamos o denuncias ante la Oficina Municipal de Información al Consumidor (OMIC) de Adolfo Alsina, deben acercarse presencialmente al Palacio Municipal con el formulario completo, sus datos personales, la prueba del hecho en original y dos copias, y su DNI con dos fotocopias.",
+    "sinonimos": [
+      "Denuncias ante OMIC",
+      "Reclamos al Consumidor Adolfo Alsina"
+    ],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060007",
+  "organismo": {
+    "nombre": "Oficina Municipal de Información al Consumidor",
+    "sigla": "OMIC",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas domiciliadas en el distrito de Adolfo Alsina"
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de denuncia completado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos personales de quien efectúa la denuncia (número telefónico, mail, localidad, dirección actual)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Relato de los hechos y cuál es el reclamo que desea efectuar",
+        "aclaracion": null
+      },
+      {
+        "texto": "Prueba de que intenté valerse en original y dos copias (ticket, contrato, factura, etc.)",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI y dos fotocopias de frente y dorso",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercarse a la calle Rivadavia y Pellegrini de Carhué (Palacio Municipal), planta alta, o a las Delegaciones del Interior del Partido de Adolfo Alsina."
+      },
+      {
+        "texto": "Completá el formulario de denuncia consignando la mayor cantidad de datos del denunciado (Nombre del Comercio, Dirección, Teléfono, Localidad)."
+      },
+      {
+        "texto": "Inscribí los datos personales de quien efectúa la denuncia (número telefónico, mail, localidad, dirección actual)."
+      },
+      {
+        "texto": "Contá el relato de los hechos y el reclamo que deseá efectuar."
+      },
+      {
+        "texto": "Acopá toda la prueba de que intenté valerse en original y dos copias (ticket, contrato, factura, etc.)."
+      },
+      {
+        "texto": "Traé su DNI y dos fotocopias de frente y dorso."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Palacio Municipal",
+      "direccion": "Calle Rivadavia y Pellegrini de Carhué 6430",
+      "localidad": "Adolfo Alsina",
+      "horario": null,
+      "fuente_url": "https://www.adolfoalsina.gov.ar/omic/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.adolfoalsina.gov.ar/omic/",
+      "titulo": "OMIC - Municipalidad de Adolfo Alsina",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T19:12:03.316Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se especifica que los reclamos son de carácter presencial y personal."
+  ]
+}

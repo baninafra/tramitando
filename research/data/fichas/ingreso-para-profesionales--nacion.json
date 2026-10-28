@@ -1,0 +1,116 @@
+{
+  "tramite": {
+    "slug": "ingreso-profesionales-penitenciario",
+    "nombre": "Ingreso para profesionales",
+    "nombre_busqueda": "Ingreso para profesionales penitenciario",
+    "resumen": "Preinscribite online si sos profesional y querés formar parte del Escalafón Profesional de la Policía Federal. El proceso incluye evaluaciones psicotécnicas y exámenes médicos.",
+    "sinonimos": [
+      "Ingreso personal superior penitenciario",
+      "Ingreso personal subalterno penitenciario"
+    ],
+    "temas": [
+      "trabajo-y-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Policía Federal",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier profesional argentino o extranjero con residencia legal y permanente en la República Argentina.",
+      "Personas mayores de 21 años.",
+      "Excepción: Los profesionales de la salud pueden ser extranjeros sin residencia si cumplen los requisitos generales."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI actualizado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título terciario, universitario o superior legalizado por el Ministerio de Educación de la provincia correspondiente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de antecedentes penales emitido por el Registro Nacional de Reincidencia del Ministerio de Justicia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditación de identidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "No tener antecedentes policiales o penales registrados.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Encontrarse dentro de los límites de edad que se determinen.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cumplir con la evaluación psicotécnica, aptitud física y clínica que se reglamenten.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Comunicate con la División Reclutamiento a través de WhatsApp o Email."
+      },
+      {
+        "texto": "Realizá dos evaluaciones psicotécnicas online."
+      },
+      {
+        "texto": "Adjuntá documentación en formato digital (PDF) si fuiste preseleccionado."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Ser citad por correo electrónico para realizar tests psicotécnicos en oficinas a fin de validar la información online."
+      },
+      {
+        "texto": "Presentá documentación médica solicitada y adjuntala en formato digital (PDF) al portal web de preinscripción."
+      },
+      {
+        "texto": "Presentá la documentación original solicitada para completar la carpeta de inscripción (DNI, certificado de estudios, etc.)."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El incumplimiento del requisito de adjuntar documentación digital en formato PDF te impedirá continuar con la próxima instancia.",
+      "Cualquier gasto o erogación que implique la cumplimentación de alguna de las etapas del proceso de inscripción es a cargo del postulante."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/ingreso-para-profesionales",
+      "titulo": "Ingreso para profesionales | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T16:38:57.048Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T16:38:57.048Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite.",
+    "El plazo de tiempo estimado para completar todo el proceso de ingreso."
+  ]
+}

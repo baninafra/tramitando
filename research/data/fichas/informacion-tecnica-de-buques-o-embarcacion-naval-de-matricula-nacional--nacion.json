@@ -1,0 +1,87 @@
+{
+  "tramite": {
+    "slug": "informacion-tecnica-de-buques-o-embarcacion-naval-de-matricula-nacional",
+    "nombre": "Información técnica de buques o embarcación naval de matrícula nacional",
+    "nombre_busqueda": "Información técnica buques matrícula nacional",
+    "resumen": "Solicitá datos técnicos sobre buques para evaluar su capacidad operativa y planificar reparaciones o modificaciones. El trámite se realiza en dependencias de la Prefectura Naval Argentina de todo el país.",
+    "sinonimos": [
+      "Datos técnicos buques",
+      "Especificación técnica buque"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Prefectura Naval Argentina",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier ciudadano."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de solicitud de información.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la nota de solicitud ante la Mesa de Estrada General del Edificio Guardacostas."
+      },
+      {
+        "texto": "Recibí el número de expediente asignado."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "72",
+    "consejos": [
+      "El tiempo de ejecución depende del volumen de información requerida.",
+      "Si necesitás urgencia, podés solicitar tiempos de 48 o 24 horas aproximadamente."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Mesa de Estrada General",
+      "direccion": "Edificio Guardacostas, Avenida Eduardo Madero 235",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/informacion-tecnica-de-buques-o-embarcacion-naval-de-matricula-nacional"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/informacion-tecnica-de-buques-o-embarcacion-naval-de-matricula-nacional",
+      "titulo": "Información técnica de buques o embarcación naval de matrícula nacional | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T16:35:24.443Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/prefecturanaval/aranceles",
+      "titulo": "Aranceles | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T16:35:24.443Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los montos exactos de los aranceles no están detallados en el texto, solo se indica consultar el Cuadro Tarifario de Aranceles.",
+    "La vigencia de los decretos que establecen los aranceles no se especifica en el texto actual."
+  ]
+}

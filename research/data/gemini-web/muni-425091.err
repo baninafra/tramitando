@@ -1,0 +1,19 @@
+[0m
+> build · deepseek-v4.1-flash-free
+[0m
+[0m✗ [0mExa Web Search "Loventué gob.ar municipalidad trámites" failed
+[91m[1mError: [0mStatusCode: non 2xx status code (429 POST https://mcp.exa.ai/mcp)
+[0m◈ [0mExa Web Search "Municipalidad de Loventué La Pampa sitio oficial"
+[0m% [0mWebFetch https://www.lapampa.gob.ar/loventuel.html
+[0m◈ [0mExa Web Search ""Loventuel" municipalidad "gob.ar" trámite licencia"
+[0m◈ [0mExa Web Search "La Pampa portal de trámites municipales guía oficial"
+[0m◈ [0mExa Web Search "site:gob.ar Loventuel comisión de fomento"
+[0m✗ [0mWebFetch https://loventuel.gob.ar failed
+[91m[1mError: [0mTransport error (GET https://loventuel.gob.ar)
+[0m✗ [0mWebFetch https://www.loventuel.gob.ar failed
+[91m[1mError: [0mTransport error (GET https://www.loventuel.gob.ar)
+[0m◈ [0mExa Web Search ""Loventuel" "gob.ar" OR "gov.ar" municipal"
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/
+[0m◈ [0mExa Web Search ""Comisión de Fomento de Loventuel" trámites atención al vecino"
+[0m% [0mWebFetch https://asuntosmunicipales.lapampa.gob.ar/
+[0m◈ [0mExa Web Search "Loventuel La Pampa "tasa" OR "habilitación" OR "licencia de conducir" comuna"

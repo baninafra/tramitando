@@ -1,0 +1,90 @@
+{
+  "tramite": {
+    "slug": "reinscripcion-en-las-distintas-categorias",
+    "nombre": "Reinscripción en las distintas categorías",
+    "nombre_busqueda": "Reinscripción ANMaC",
+    "resumen": "Este trámite permite solicitar la reinscripción en las categorías de tiro ante ANMaC. Se requiere presentar documentación específica, incluyendo una nota dirigida y copias de credenciales, además de un certificado psicofísico.",
+    "sinonimos": [
+      "Renovación de categoría de tiro",
+      "Reinscripción ANMaC"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMaC",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Solicitantes civiles con al menos tres años de antigüedad como legítimo usuario o que acrediten haber sido tirador juvenil federado con al menos tres años.",
+      "Representantes de alguna Entidad registrada ante el Organismo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota dirigida al Director Ejecutivo de la ANMaC, solicitando la categoría a la que pretende acceder, con detalle de lo desarrollado dentro de la actividad de tiro.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de la Credencial de Legítimo Usuario de Uso Civil Condicional.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado psicofísico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Leyes 23.283 y 23.412 correspondientes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación correspondiente a su situación de revista (en el caso del personal perteneciente a una Fuerza).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central del organismo",
+      "direccion": "Bartolomé Mitre 1465/9",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/reinscripcion-en-las-distintas-categorias"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reinscripcion-en-las-distintas-categorias",
+      "titulo": "Reinscripción en las distintas categorías | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "donde",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T04:03:06.526Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se establece la validéz de la evaluación aprobada en un año, contado apartir de la fecha en que se hubiere efectuado la misma, para las presentaciones que deban efectuarse dentro de dicho término.",
+    "Que los solicitantes tendrán una cantidad máxima de tres evaluaciones por año calendario para cumplimentar los objetivos temáticos establecidos por el Manual de Entidades de Tiro en su Capítulo IX, Sección III (Disp. 380/08)."
+  ]
+}

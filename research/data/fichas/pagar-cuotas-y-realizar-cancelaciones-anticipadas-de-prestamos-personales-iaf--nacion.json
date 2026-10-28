@@ -1,0 +1,81 @@
+{
+  "tramite": {
+    "slug": "pagar-cuotas-y-realizar-cancelaciones-anticipadas-de-prestamos-personales-iaf",
+    "nombre": "Pagar cuotas y realizar cancelaciones anticipadas de préstamos personales IAF",
+    "nombre_busqueda": "Pagar cuotas préstamos personales IAF",
+    "resumen": "Realizá el pago de cuotas impagas y saldos de cancelación de préstamos personales del IAF de forma presencial o a distancia.",
+    "sinonimos": [],
+    "temas": [
+      "jubilaciones-y-pensiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A todos aquellos que se encuentren amortizando un préstamo personal del IAF."
+    ],
+    "requisitos": [
+      {
+        "texto": "Realizar el pago a través de alguna de las modalidades habilitadas.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Pagar en efectivo o cheque certificado y en fecha, en pesos, en la Sede Central del IAF."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si se realiza el pago a distancia el titular deberá enviar el comprobante al mail: [email protected]",
+      "Recuerdá que en caso de no recibirse el Aviso, el pago no tendrá efectos sobre el Préstamo.",
+      "El Aviso deberá realizarse antes del día 20 de cada mes."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/pagar-cuotas-y-realizar-cancelaciones-anticipadas-de-prestamos-personales-iaf",
+      "titulo": "Pagar cuotas y realizar cancelaciones anticipadas de préstamos personales - IAF | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T07:20:01.489Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/iaf",
+      "titulo": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T07:20:01.489Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T07:20:01.489Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la Sede Central del IAF",
+    "Modalidades habilitadas a distancia",
+    "Vigencia del trámite"
+  ]
+}

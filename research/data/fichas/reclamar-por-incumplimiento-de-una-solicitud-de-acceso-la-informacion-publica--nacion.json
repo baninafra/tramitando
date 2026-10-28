@@ -1,0 +1,119 @@
+{
+  "tramite": {
+    "slug": "reclamar-por-incumplimiento-de-una-solicitud-de-acceso-la-informacion-publica",
+    "nombre": "Reclamar por incumplimiento de una solicitud de acceso a la información pública",
+    "nombre_busqueda": "Reclamar por incumplimiento de una solicitud de acceso a la información pública",
+    "resumen": "Si no recibiste respuesta o la información que te dieron es errónea, podés presentar un reclamo gratuito ante la Agencia de Acceso a la Información Pública.",
+    "sinonimos": [],
+    "temas": [
+      "acceso-a-la-informacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Agencia de Acceso a la Información Pública",
+    "sigla": "AAIP",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Las personas físicas o jurídicas que realizaron una solicitud de acceso a la información y no recibieron respuesta o consideran que la información que les proporcionaron es errónea o parcial."
+    ],
+    "requisitos": [
+      {
+        "texto": "Copía de la solicitud de acceso que presentaste al organismo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de existir, la respuesta del organismo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma Trámites a Distancia con tu DNI o clave fiscal de la AFIP."
+      },
+      {
+        "texto": "Buscá el trámite 'Reclamo de Acceso a la Información Pública' y confirmá tus datos personales."
+      },
+      {
+        "texto": "Adjuntá la solicitud de acceso a la información que le presentaste al organismo y la respuesta que te dieron, si la hubiere."
+      },
+      {
+        "texto": "En caso de que lo consideres necesario, podés hacer una descripción extendida del reclamo."
+      },
+      {
+        "texto": "El sistema generará un expediente con tu reclamo y te permitirá previsualizarlo y descargarlo en formato PDF."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá en la Agencia de Acceso a la Información Pública una nota con: tu nombre y apellido completo, tu domicilio, el organismo al que solicitaste la información, la fecha de la solicitud, datos de contacto para recibir las comunicaciones."
+      },
+      {
+        "texto": "Adjuntá copia de la solicitud de información que presentaste y, en caso de existir, la respuesta que te dieron."
+      },
+      {
+        "texto": "Podés enviarla por correo postal o entregarla personalmente en: Agencia de Acceso a la Información Pública Av. Pte. Gral. Julio A. Roca 710, piso 2 (C1067ABP) Ciudad Autónoma de Buenos Aires."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Para realizar un reclamo por falta de respuesta es necesario que hayan pasado 15 días hábiles desde que realizaste el pedido sin que te hayan solicitado 15 días más para responderte.",
+      "Tenés que hacerlo dentro de los 40 días hábiles de la fecha prevista para recibir la respuesta.",
+      "Para realizar un reclamo por información parcial o errónea tenés que hacerlo dentro de los 40 días hábiles desde que recibiste la respuesta del organismo."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Agencia de Acceso a la Información Pública",
+      "direccion": "Av. Pte. Gral. Julio A. Roca 710, piso 2 (C1067ABP)",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/reclamar-por-incumplimiento-de-una-solicitud-de-acceso-la-informacion-publica"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reclamar-por-incumplimiento-de-una-solicitud-de-acceso-la-informacion-publica",
+      "titulo": "Reclamar por incumplimiento de una solicitud de acceso a la información pública | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:49:28.508Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/solicitar-informacion-publica",
+      "titulo": "Solicitar información pública | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T02:49:28.508Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T02:49:28.508Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia del trámite.",
+    "El plazo exacto de respuesta en días hábiles."
+  ]
+}

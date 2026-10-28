@@ -1,0 +1,128 @@
+{
+  "tramite": {
+    "slug": "consulta-presencial-en-el-archivo-general-de-la-nacion",
+    "nombre": "Consulta presencial en el Archivo General de la Nación",
+    "nombre_busqueda": "Consulta Archivo General de la Nación presencial",
+    "resumen": "Podés consultar documentos audiovisuales, fotográficos y escritos en las sedes del Archivo General de la Nación en la Ciudad de Buenos Aires. El servicio es gratuito, pero requiere que te agendés un turno en línea previamente.",
+    "sinonimos": [
+      "Consulta en el Archivo General",
+      "Ver documentación en el Archivo"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Archivo General de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Ciudadanos mayores de 18 años."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento Nacional de Identidad o Pasaporte (en el caso de usuario extranjero).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Usuario en la Plataforma de servicios para efectuar la consulta en línea y solicitar el turno.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Correo electrónico registrado en agnbicentenario.mininterior.gob.ar para recibir la confirmación del turno.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Guantes de latex, nitrilo o algodón si vas a consultar documentación original.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Realizá una consulta en línea indicando qué documentación querés consultar."
+      },
+      {
+        "texto": "Solicitá un turno seleccionando la sede, el día, la franja horaria y la documentación a consultar."
+      },
+      {
+        "texto": "Esperá la confirmación del turno por correo electrónico."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en la sede seleccionada en la fecha y horario informado."
+      },
+      {
+        "texto": "Presentate puntual con tu Documento Nacional de Identidad para acreditar identidad."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La solicitud de turno no implica confirmación; el Archivo evaluará el cupo disponible y el material solicitado.",
+      "Si el turno fue cancelado, el Archivo se comunicará contigo para informarte los motivos.",
+      "Mientras permanezcas en las instalaciones deberás cumplir con el Reglamento de consulta del patrimonio documental del Archivo General de la Nación Argentina."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Parque Patricios",
+      "direccion": "Rondeau 2277",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/consulta-presencial-en-el-archivo-general-de-la-nacion"
+    },
+    {
+      "nombre": "San Telmo",
+      "direccion": "Av. Paseo Colón 1093 4to piso",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/consulta-presencial-en-el-archivo-general-de-la-nacion"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consulta-presencial-en-el-archivo-general-de-la-nacion",
+      "titulo": "Consulta presencial en el Archivo General de la Nación | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T15:12:00.236Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/interior/archivo-general-de-la-nacion/solicitar-la-certificacion-de-un-documento-historico",
+      "titulo": "Solicitar la certificación de un documento histórico | Argentina.gob.ar",
+      "bloques": [
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T15:12:00.236Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T15:12:00.236Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horario de atención: Lunes a viernes de 10 a 16 h.",
+    "Horario de la turnera: 10 a 18 h.",
+    "Vigencia de los turnos",
+    "Dirección exacta de las oficinas"
+  ]
+}

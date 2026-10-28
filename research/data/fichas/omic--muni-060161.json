@@ -1,0 +1,101 @@
+{
+  "tramite": {
+    "slug": "reclamos-y-denuncias-defensa-del-consumidor",
+    "nombre": "Reclamar ante Defensa del Consumidor",
+    "nombre_busqueda": "reclamo o denuncia de defensa del consumidor",
+    "resumen": "Podés presentar un reclamo ante la Oficina Municipal de Información al Consumidor y, después de la denuncia, participar en una audiencia conciliatoria.",
+    "sinonimos": [
+      "Reclamo en la OMIC",
+      "Denuncia de defensa del consumidor"
+    ],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060161",
+  "organismo": {
+    "nombre": "Oficina Municipal de Información al Consumidor",
+    "sigla": "OMIC",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas usuarias y consumidoras que quieran hacer un reclamo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Copia de la factura.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del ticket.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del resumen de tarjeta que respalde la compra y acredite que sos usuario o consumidor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos de la empresa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Sacá un turno por teléfono. Se otorgan turnos limitados los lunes, miércoles y viernes."
+      },
+      {
+        "texto": "Llevá a la OMIC copias de la documentación que respalde tu reclamo."
+      },
+      {
+        "texto": "Presentá tu denuncia y hacé el reclamo en la oficina."
+      },
+      {
+        "texto": "Participá en la audiencia conciliatoria posterior a la denuncia para intentar llegar a un acuerdo con la empresa."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Podés enviar el reclamo y la documentación pertinente por el formulario de la página. La OMIC indica que responderá a la mayor brevedad posible.",
+      "El procedimiento busca reparar el daño sufrido. Si no llegás a un acuerdo con la empresa, queda abierta la vía judicial."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina Municipal de Información al Consumidor",
+      "direccion": "Moreno 541, Palacio Municipal",
+      "localidad": "Carmen de Areco",
+      "horario": null,
+      "fuente_url": "https://carmendeareco.gob.ar/omic/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://carmendeareco.gob.ar/omic/",
+      "titulo": "OMIC | Carmen de Areco - Municipio",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T12:17:52.251Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa si el reclamo puede completarse íntegramente por internet.",
+    "No se informa cuánto tarda la atención del reclamo.",
+    "No se informa si el trámite tiene costo."
+  ]
+}

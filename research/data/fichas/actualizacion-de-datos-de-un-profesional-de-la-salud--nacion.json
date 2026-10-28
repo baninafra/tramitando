@@ -1,0 +1,100 @@
+{
+  "tramite": {
+    "slug": "actualizacion-de-datos-de-un-profesional-de-la-salud",
+    "nombre": "Actualización de datos de un profesional de la salud",
+    "nombre_busqueda": "Actualizar datos profesional salud",
+    "resumen": "Actualizá tu ficha profesional en el Área de Registro Único de Profesionales si cambiaste datos personales como DNI, nombre, apellido, género o domicilio. El trámite es gratuito y se realiza exclusivamente de manera virtual.",
+    "sinonimos": [
+      "Modificación de datos profesionales",
+      "Cambio de datos en credencial profesional"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Profesionales de la Salud registrados en el Área de Registro Único de Profesionales del Ministerio de Salud.",
+      "Quienes tengan credencial emitida a partir de abril de 2008 y cumplan con la Resolución Ministerial N° 404/2008."
+    ],
+    "requisitos": [
+      {
+        "texto": "Matrícula Profesional visualizada en la Aplicación Mi Argentina.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI físico (frente y dorso).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que necesites actualizar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave fiscal nivel 2 o superior de ARCA para realizar el registro.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la página de Trámite a Distancia (TAD) y buscá el trámite Solicitud de Actualización de Datos Profesionales ante el Ministerio de Salud."
+      },
+      {
+        "texto": "Completá los datos solicitados en el TAD según el apartado Actualización de datos del Profesional de la Salud."
+      },
+      {
+        "texto": "Subí la Matrícula Nacional que se visualiza en la Aplicación Mi Argentina."
+      },
+      {
+        "texto": "Subí el DNI físico (frente y dorso)."
+      },
+      {
+        "texto": "Subí la documentación que necesitás actualizar."
+      },
+      {
+        "texto": "Revisá que no haya errores en los datos ingresados antes de enviar."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Controlá la documental antes de enviarla para evitar rechazos o subsanaciones.",
+      "Si tu título es extranjero y optaste por la nacionalidad argentina, debés modificar esos datos en la Secretaría de Educación de la Nación.",
+      "Si tu título es argentino y modificás datos personales, informalo a la Universidad o Establecimiento Terciario donde te formaste.",
+      "Revisá asiduamente el ítem NOTIFICACIONES de la página del TAD desde una computadora de escritorio o Notebook, no desde dispositivos móviles.",
+      "Esperá la notificación de finalización del trámite antes de iniciar otro."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/actualizacion-de-datos-de-un-profesional-de-la-salud",
+      "titulo": "Actualización de datos de un Profesional de la Salud | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T09:33:25.577Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite.",
+    "El plazo estimado de resolución del expediente."
+  ]
+}

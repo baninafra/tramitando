@@ -1,0 +1,102 @@
+{
+  "tramite": {
+    "slug": "registro-de-mascotas-y-adopcion",
+    "nombre": "AdoptAME - Adopción Responsable de Mascotas",
+    "nombre_busqueda": "Adoptar perro o gato Bahía Blanca",
+    "resumen": "Programa municipal para dar a conocer animales en situación de calle y encontrarlos familias. Se requiere llenar un formulario online para ser contactado y evaluar la adopción.",
+    "sinonimos": [
+      "Adoptar mascota callejera",
+      "Adopción perros y gatos Bahía Blanca",
+      "Programa AdoptAME"
+    ],
+    "temas": [
+      "viajar-con-menores-o-mascotas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Departamento de Salud y Bienestar Animal",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas interesadas en adoptar animales en situación de calle."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombre y apellido",
+        "aclaracion": null
+      },
+      {
+        "texto": "E-Mail",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Teléfono",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombre del animal",
+        "aclaracion": null
+      },
+      {
+        "texto": "Indicar si es perro o gato",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Accedé al formulario disponible en la página oficial."
+      },
+      {
+        "texto": "Indicá el animal de tu interés en el formulario."
+      },
+      {
+        "texto": "Completá los datos personales solicitados (DNI, domicilio, teléfono, etc.)."
+      },
+      {
+        "texto": "Confirmá que sos mayor de edad y aceptás la responsabilidad de la adopción."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Los animales son dados en adopción castrados y vacunados contra la rabia.",
+      "Se brindará un seguimiento en su adaptación a la familia.",
+      "Las empresas instaladas en la ciudad pueden sumarse al programa y colaborar con las familias."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/adoptame/",
+      "titulo": "AdoptAME | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T20:09:14.331Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos adicionales para menores de edad ni casos especiales en el texto.",
+    "No se indica si el trámite requiere turno presencial o online.",
+    "No se especifica el plazo de respuesta del formulario ni el tiempo de adaptación del animal."
+  ]
+}

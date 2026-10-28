@@ -1,0 +1,86 @@
+{
+  "tramite": {
+    "slug": "solicitar-alta-local-virtual",
+    "nombre": "Solicitar alta local virtual",
+    "nombre_busqueda": "Alta Local Virtual",
+    "resumen": "Las agencias de viajes habilitadas con dominio tur.ar pueden realizar este trámite online para operar permanentemente a través de un local virtual. Es gratuito y tiene vigencia permanente.",
+    "sinonimos": [
+      "Alta Local Virtual",
+      "Operar con Local Virtual"
+    ],
+    "temas": [
+      "comercio-e-industria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Agencias de viajes habilitadas y con dominio tur.ar otorgado.",
+      "El titular de la agencia (persona humana si es unipersonal o representante legal si es persona jurídica)."
+    ],
+    "requisitos": [
+      {
+        "texto": "Legajo de habilitación para operar como Agencia de Viajes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dominio tur.ar obtenido previamente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Accedé a la plataforma de Trámites a Distancia (TAD) buscando 'Alta Local Virtual' o consultá el manual respectivo."
+      },
+      {
+        "texto": "Completá el número de legajo y otros datos de la agencia que te sean solicitados (designación comercial, dominio, tipo de canal)."
+      },
+      {
+        "texto": "Completá la Declaración Jurada C."
+      },
+      {
+        "texto": "Generá el número de expediente para consultar y realizar un seguimiento de tu trámite en la plataforma."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Tené presente que caducarán automáticamente el 31 de diciembre de 2022 aquellos locales virtuales que operen mediante la Resolución N° 366/2022.",
+      "El local virtual deberá funcionar en el subdominio '.tur.ar'.",
+      "Deberá exhibir en un lugar visible la Disposición habilitante (Resolución N° 141/82 de la entonces Dirección Nacional de Turismo).",
+      "Exhibí en un lugar visible la razón social y número de Legajo del Registro de Agentes de Viajes.",
+      "Deberá contar con vías de comunicación para canalizar los reclamos de las/os usuarios y usuarias.",
+      "Deberá contener link directo al trámite 'Denuncia contra una agencia' de la plataforma Trámites a Distancia.",
+      "No podrá ser compartido con ninguna otra actividad o venta de servicios que no sean los autorizados.",
+      "La autoridad de aplicación fiscalizará el cumplimiento de estos requisitos y, en caso de incumplimiento, aplicará las sanciones previstas para los locales físicos."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-alta-local-virtual",
+      "titulo": "Solicitar Alta Local Virtual | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T04:32:59.788Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Vigencia permanente",
+    "Fecha exacta de vigencia permanente"
+  ]
+}

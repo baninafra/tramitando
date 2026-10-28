@@ -1,0 +1,113 @@
+{
+  "tramite": {
+    "slug": "exenciones-y-tasa-social",
+    "nombre": "Obtener la exención de pago de peaje para personas con discapacidad",
+    "nombre_busqueda": "Exención de pago de peaje discapacidad TelePASE",
+    "resumen": "Beneficio gratuito de 3 años para personas con discapacidad que deseen circular en la red vial nacional mediante TelePASE, siempre que cuenten con identidad validada en Mi Argentina y un CUD vigente.",
+    "sinonimos": [
+      "Pase Libre TelePASE discapacidad",
+      "Exención peaje TelePASE",
+      "TelePASE gratuito discapacidad"
+    ],
+    "temas": [
+      "discapacidad-y-accesibilidad",
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Economía",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que posean identidad validada en Mi Argentina.",
+      "Personas con Certificado Único de Discapacidad (CUD) vigente.",
+      "Personas con Símbolo Internacional de Acceso emitido en Mi Argentina.",
+      "Personas que se acojan voluntariamente al beneficio.",
+      "Padres, madres, tutores o curadores habilitados en caso de menores o personas declaradas incapaz de ejercicio."
+    ],
+    "requisitos": [
+      {
+        "texto": "Identidad validada en Mi Argentina.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado Único de Discapacidad (CUD) vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Símbolo Internacional de Acceso emitido en Mi Argentina y vinculado al dominio del vehículo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la aplicación Mi Argentina con tu usuario y contraseña."
+      },
+      {
+        "texto": "Seleccioná la opción Mis Trámites."
+      },
+      {
+        "texto": "Elegí la opción Solicitá tu pase libre."
+      },
+      {
+        "texto": "Verificá el dominio del vehículo y tocá el botón Confirmar datos."
+      },
+      {
+        "texto": "Si no contás con TelePASE, completá tus datos de contacto y marca, modelo y color del vehículo."
+      },
+      {
+        "texto": "Verificá que el dominio del vehículo sea el correcto y tocá el botón Solicitá tu pase libre."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a un Centro de Atención al Usuario de la Red para colocar tu TelePASE y finalizar la gestión."
+      },
+      {
+        "texto": "Realizá la baja y desvinculación de tu dispositivo en Mercado Pago si lo habías abonado a través de dicha billetera virtual."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "90 días",
+    "consejos": [
+      "La vigencia del beneficio es de 3 años o al vencimiento del CUD, lo que ocurra primero.",
+      "Si no realizás la gestión desde la aplicación Mi Argentina, deberás abonar de acuerdo al cuadro tarifario vigente.",
+      "Si tu TelePASE se abona a través de Mercado Pago, realizá la baja y desvinculación de tu dispositivo también en referida billetera virtual."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-la-exencion-de-pago-de-peaje-para-personas-con-discapacidad",
+      "titulo": "Obtener la exención de pago de peaje para personas con discapacidad | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T22:44:17.904Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T22:44:17.904Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de los Centros de Atención al Usuario de la Red.",
+    "Lista completa de rutas y concesionarios cubiertos por el beneficio."
+  ]
+}

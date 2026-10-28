@@ -1,0 +1,97 @@
+{
+  "tramite": {
+    "slug": "empadronamiento-de-obras",
+    "nombre": "Empadronamiento de obras",
+    "nombre_busqueda": "empadronar una obra",
+    "resumen": "Incorporá al archivo de Obras Particulares la documentación de una obra hecha total o parcialmente sin permiso. El trámite es presencial y requiere turno previo.",
+    "sinonimos": [],
+    "temas": [
+      "obras-y-construccion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060441",
+  "organismo": {
+    "nombre": "Dirección de Obras Particulares",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes necesiten incorporar al archivo la documentación técnica y legal de una obra ejecutada total o parcialmente sin permiso."
+    ],
+    "requisitos": [
+      {
+        "texto": "Carpeta de obra con los datos del inmueble, de los propietarios y de los profesionales, certificada y liberada por Catastro.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ingreso de Monotasa impresa y completa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Una copia del plano visado por el colegio profesional y el contrato correspondiente o su QR.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dos copias de los planos identificadas con la actuación profesional.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Una copia del plano de propiedad horizontal, una copia del plano que dio origen al régimen y la autorización de los copropietarios.",
+        "aclaracion": "Si el inmueble está sometido al régimen de propiedad horizontal."
+      },
+      {
+        "texto": "Certificado de servicios de agua y cloacas.",
+        "aclaracion": "Si la construcción está fuera del casco y tiene más de una unidad."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Sacá un turno con la opción «Consulta Administrativa - Ingreso y Egreso Documentación»."
+      },
+      {
+        "texto": "Presentá la documentación requerida para iniciar el empadronamiento."
+      },
+      {
+        "texto": "Coordiná la inspección para verificar el estado de la obra presentada."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://turnos.laplata.gob.ar/misdatos",
+    "plazo": null,
+    "consejos": [
+      "El análisis del proyecto puede requerir la intervención de otras dependencias por normativa nacional, provincial o municipal."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://tramites.laplata.gob.ar/obrasparticulares/empadronamiento.html",
+      "titulo": "Obras Particulares - Municipalidad de La Plata",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:15:55.480Z"
+    },
+    {
+      "url": "https://turnos.laplata.gob.ar/misdatos",
+      "titulo": "Turnos online - Municipalidad de La Plata",
+      "bloques": [
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T14:15:55.480Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa el costo del trámite.",
+    "No se informa el plazo de resolución."
+  ]
+}

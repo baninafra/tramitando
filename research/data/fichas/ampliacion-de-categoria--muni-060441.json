@@ -1,0 +1,133 @@
+{
+  "tramite": {
+    "slug": "ampliacion-de-categoria-de-licencia",
+    "nombre": "Ampliación de categoría de licencia",
+    "nombre_busqueda": "Ampliación de categoría de licencia",
+    "resumen": "Trámite para obtener una nueva categoría en tu licencia, ya sea particular (A, B, o G) o profesional (C, D y E). Incluye examen teórico y práctico.",
+    "sinonimos": [
+      "Ampliación de licencia",
+      "Nueva categoría de licencia"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060441",
+  "organismo": {
+    "nombre": "Municipalidad de La Plata",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes deseen obtener una nueva categoría en su licencia."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI vigente con domicilio en La Plata (original y copia legible, frente y contrafrente).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de DNI en trámite acompañado de un DNI anterior o DNI digital en Mi Argentina.",
+        "aclaracion": "Si no posee el último DNI vigente."
+      },
+      {
+        "texto": "Licencia de conducir y fotocopia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Exposición de extravío o denuncia de robo.",
+        "aclaracion": "Si no posee la licencia de conducir."
+      },
+      {
+        "texto": "Certificado de antecedentes penales con vigencia de 30 días.",
+        "aclaracion": "Si desea acceder a las categorías profesionales C, D y E."
+      },
+      {
+        "texto": "Certificado de Legalidad expedido por las autoridades otorgantes.",
+        "aclaracion": "Si la licencia es de otra jurisdicción."
+      },
+      {
+        "texto": "Constancia de domicilio vial electrónico.",
+        "aclaracion": "Por única vez."
+      },
+      {
+        "texto": "Resolución de infracciones en los juzgados correspondientes.",
+        "aclaracion": "Si contiene infracciones."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Solicitá tu turno online."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Concurrí al Centro Emisor de Licencias (CEL) con los comprobantes de pago de los certificados."
+      },
+      {
+        "texto": "Rendí los exámenes teóricos y prácticos de acuerdo con la categoría que desee obtener."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://turnos.laplata.gob.ar/misdatos",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://tramites.laplata.gob.ar/licencias/ampliacion-de-categoria.html",
+      "titulo": "Licencias - Municipalidad de La Plata",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:29:40.743Z"
+    },
+    {
+      "url": "https://turnos.laplata.gob.ar/misdatos",
+      "titulo": "Turnos online - Municipalidad de La Plata",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:29:40.743Z"
+    },
+    {
+      "url": "https://licenciasba.dppsv.gba.gob.ar/licencias/boletas_cenat_cepat/public/solicitante/new",
+      "titulo": "Licencias BA",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:29:40.743Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Vigencia del certificado de antecedentes penales.",
+    "Plazo para realizar el trámite.",
+    "Dirección exacta del Centro Emisor de Licencias (CEL).",
+    "Monto exacto de los derechos de oficina y timbrados."
+  ]
+}

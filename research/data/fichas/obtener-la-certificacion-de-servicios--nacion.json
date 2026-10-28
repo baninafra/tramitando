@@ -1,0 +1,73 @@
+{
+  "tramite": {
+    "slug": "certificacion-de-servicios",
+    "nombre": "Certificación de servicios",
+    "nombre_busqueda": "Certificación de servicios",
+    "resumen": "Es un comprobante donde figura el tiempo y la remuneración recibida en cada empleo donde trabajaste. Es gratuito y se solicita al empleador dentro de los 30 días de finalizada la relación laboral.",
+    "sinonimos": [],
+    "temas": [
+      "aportes-e-historia-laboral"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A los trabajadores en relación de dependencia en el marco del Sistema Integrado Previsional Argentino (SIPA)."
+    ],
+    "requisitos": [
+      {
+        "texto": "Que trabajaste o trabajaste en relación de dependencia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Que el lugar ya no existe o no podés comunicarte para solicitar la certificación.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El empleador debe entregártela dentro de los 30 días de finalizada la relación laboral.",
+      "Podés solicitarla cada vez que lo necesites o al finalizar tu relación laboral, ya sea por renuncia, despido o desaparición de la empresa.",
+      "También podés solicitarla cuando quieras tramitar tu jubilación."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-la-certificacion-de-servicios",
+      "titulo": "Obtener la certificación de servicios | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-27T06:35:07.928Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T06:35:07.928Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Cómo solicitar la certificación si el empleador se niega a entregarla.",
+    "Si el trámite se puede hacer en línea o solo presencialmente."
+  ]
+}

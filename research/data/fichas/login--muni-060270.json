@@ -1,0 +1,56 @@
+{
+  "tramite": {
+    "slug": "solicitar-turno-para-licencia-de-conducir",
+    "nombre": "Solicitar turno para la licencia de conducir",
+    "nombre_busqueda": "turno para licencia de conducir en Ezeiza",
+    "resumen": "La Municipalidad de Ezeiza ofrece una plataforma de turnos web. Para recuperar la contraseña, ingresá tu DNI y recibí un enlace en el correo electrónico registrado.",
+    "sinonimos": [
+      "turno para sacar o renovar la licencia de conducir"
+    ],
+    "temas": [
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060270",
+  "organismo": {
+    "nombre": "Municipalidad de Ezeiza",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas registradas en la plataforma de turnos web de la Municipalidad de Ezeiza."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de DNI para recuperar la contraseña.",
+        "aclaracion": "Si necesitás restablecer la contraseña."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://sav.ezeiza.gob.ar/Turnos/Web/Login.aspx",
+      "titulo": "Turnos Web - Municipalidad de Ezeiza",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T12:30:03.141Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La página no informa cómo solicitar el turno para la licencia de conducir ni los requisitos del trámite.",
+    "No se indica si hace falta turno, dónde se realiza el trámite, su costo ni su plazo."
+  ]
+}

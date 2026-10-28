@@ -1,0 +1,130 @@
+{
+  "tramite": {
+    "slug": "habilitacion-transportes-productos-animal",
+    "nombre": "Habilitar transporte productos origen animal",
+    "nombre_busqueda": "Habilitar transporte productos origen animal",
+    "resumen": "Necesitás la tarjeta de habilitación de transporte para los productos, subproductos y derivados de origen animal. Se realiza una inspección en el lugar y se debe abonar el arancel correspondiente según la categoría del vehículo.",
+    "sinonimos": [
+      "Habilitación transporte Senasa",
+      "Tarjeta habilitación transporte productos"
+    ],
+    "temas": [
+      "transporte-publico-y-viajes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas físicas o jurídicas que quieran transportar productos, subproductos y derivados de origen animal."
+    ],
+    "requisitos": [
+      {
+        "texto": "Cédula verde o título de propiedad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Características físicas del vehículo (carrocería o caja, fija o móvil, contenedor, camión playo, semi-remolque, cisterna, bodega, vagón u otro), número de dominio si correspondiera, nombre, documento de identidad y domicilio del titular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "5 (cinco) fotos del vehículo (frente, atrás, laterales y adentro) en formato digital.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de CUIT vigente del titular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comodato de uso ante escribano si la habilitación es a nombre de otra persona distinta al titular del vehículo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Comunicate con la Oficina o Establecimiento oficial autorizado, que corresponda a tu región para acordar lugar, día, y horario en que se iniciará el trámite de habilitación del vehículo."
+      },
+      {
+        "texto": "Presentá la documentación."
+      },
+      {
+        "texto": "Se realiza por parte del Senasa una inspección en el lugar."
+      },
+      {
+        "texto": "Solicitá la inspección del transporte ante un Inspector Veterinario de un establecimiento habilitado para tránsito federal."
+      },
+      {
+        "texto": "Aboná el arancel de habilitación y permanencia en los registros que fije el Senasa y corresponda según la categoría del vehículo."
+      },
+      {
+        "texto": "Obtenés la tarjeta de habilitación de transporte."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La leyenda a utilizarse en el exterior del vehículo será: transporte de productos alimenticios – senasa Nº................. (donde se consignará el número de inscripción otorgado por el SENASA – Numeral 28. 8 del Decreto N° 4238/1968). En el caso de tratarse de vehículos para transportar subproduct…",
+      "Los medios de transporte habilitados tienen que exhibir en la parte posterior y en ambos laterales de la caja, contenedor o cisterna, en forma bien legible, en letras y números arábigos de una altura no inferior a ocho (8) centímetros, la leyenda correspondiente.",
+      "La vigencia del trámite depende de la categoría del vehículo: A) 3 años, B) 2 años, C) 1 año, D) 1 año."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Centro Regional Metropolitano",
+      "direccion": "Azopardo 1020 - CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/habilitarrehabilitar-transportes-de-productos-de-origen-animal-y-alimenticios"
+    },
+    {
+      "nombre": "Sede Central",
+      "direccion": "Paseo Colón 367 - CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/habilitarrehabilitar-transportes-de-productos-de-origen-animal-y-alimenticios"
+    },
+    {
+      "nombre": "Laboratorio Central",
+      "direccion": "Talcahuano 1660 – Martínez, Provincia de Buenos Aires",
+      "localidad": "Martínez",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/habilitarrehabilitar-transportes-de-productos-de-origen-animal-y-alimenticios"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/habilitarrehabilitar-transportes-de-productos-de-origen-animal-y-alimenticios",
+      "titulo": "Habilitar/Rehabilitar transportes de productos de origen animal y alimenticios | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T16:30:52.673Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T16:30:52.673Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica si se requiere turno para realizar el trámite.",
+    "El texto no especifica la fecha de vigencia de la normativa actual."
+  ]
+}

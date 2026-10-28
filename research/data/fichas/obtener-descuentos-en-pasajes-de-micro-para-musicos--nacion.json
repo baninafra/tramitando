@@ -1,0 +1,106 @@
+{
+  "tramite": {
+    "slug": "descuentos-pasajes-micro-musicos",
+    "nombre": "Obtener descuentos en pasajes de micro para músicos",
+    "nombre_busqueda": "Descuento pasaje micro músico",
+    "resumen": "Músicos registrados en INAMU pueden acceder a descuentos de hasta el 30% en pasajes nacionales de tres empresas de micros mediante un trámite gratuito gestionado por INAMU.",
+    "sinonimos": [
+      "Descuento pasaje micro INAMU",
+      "Pasaje micro músico descuento",
+      "Descuento transporte público músicos"
+    ],
+    "temas": [
+      "cultura-deportes-y-turismo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto Nacional de la Música",
+    "sigla": "INAMU",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Músicos nacionales registrados en el INAMU",
+      "Agrupaciones musicales nacionales registradas en el INAMU"
+    ],
+    "requisitos": [
+      {
+        "texto": "Estar anotado en el Registro Único de Músicos Nacionales y Agrupaciones Musicales Nacionales",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar el formulario que te envió el INADI por e-mail impreso",
+        "aclaracion": null
+      },
+      {
+        "texto": "El formulario debe ser sin realizarle ningún agregado ni modificación",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Chequeá en los sitios web de las empresas que están dentro del convenio si tienen disponibilidad de pasajes para el día y hora que necesitás"
+      },
+      {
+        "texto": "Ingresá tus datos en el formulario del INAMU"
+      },
+      {
+        "texto": "Aguardá la respuesta en tu correo electrónico dentro de las 72 horas para obtener el código de reserva con el descuento aplicado"
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Con el código de reserva comprá tu pasaje con el 40% de descuento en los puntos de venta autorizados"
+      },
+      {
+        "texto": "Una vez aceptada la operación, retirás los pasajes en el mismo momento"
+      },
+      {
+        "texto": "Si comprás telefónicamente, retirás los pasajes hasta 30 minutos antes de la partida en el mismo lugar de donde sale el micro"
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Las solicitudes deben realizarse con al menos 15 días de anticipación y un máximo de 25 días de la fecha de viaje",
+      "Tené en cuenta que este código tiene fecha de vencimiento",
+      "Revisá tu bandeja de entrada y chequees en la de spam",
+      "El descuento se aplica sobre las tarifas publicadas en los sitios web de las empresas de micros",
+      "Para acreditar la realización de la actividad, envías alguna constancia (foto del recital, nota en algún medio gráfico, web, etc.) a la dirección de correo electrónico indicada hasta 15 días después de la fecha de regreso del viaje"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-descuentos-en-pasajes-de-micro-para-musicos",
+      "titulo": "Obtener descuentos en pasajes de micro para músicos | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T06:33:40.837Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T06:33:40.837Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de correo electrónico para enviar constancia de acreditación",
+    "Lista completa de empresas que forman parte del convenio",
+    "Dirección de correo electrónico para enviar constancia de acreditación"
+  ]
+}

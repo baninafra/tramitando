@@ -1,0 +1,140 @@
+{
+  "tramite": {
+    "slug": "solicitar-certificado-de-antecedentes-penales-con-clave-fiscal",
+    "nombre": "Solicitar certificado de antecedentes penales con clave fiscal",
+    "nombre_busqueda": "Certificado de antecedentes penales clave fiscal",
+    "resumen": "Si tenés DNI argentino y más de 18 años, podés tramitarlo en línea con tu clave fiscal. El certificado certifica que no tenés antecedentes penales pendientes.",
+    "sinonimos": [
+      "Certificado de Antecedentes Penales (CAP)",
+      "CAP con clave fiscal"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro Nacional de Reincidencia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas mayores de 18 años con DNI argentino."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento Nacional de Identidad emitido por el Registro Nacional de las Personas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cuenta de correo electrónico a tu nombre.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave Fiscal de ARCA —ex AFIP— nivel de seguridad 2 o superior.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio de ARCA con tu clave fiscal."
+      },
+      {
+        "texto": "Si no adheriste el servicio Registro Nacional de Reincidencia, dirigite a la columna izquierda, opción Administración de Relaciones de Clave Fiscal y adherí el servicio."
+      },
+      {
+        "texto": "Hacé clic en TAD Reincidencia."
+      },
+      {
+        "texto": "Completá el formulario en línea con tus datos personales y la modalidad (5 días, 24 horas, 6 horas o exprés)."
+      },
+      {
+        "texto": "Consultá el costo de cada modalidad al final de la página."
+      },
+      {
+        "texto": "Elegí la forma de pago que preferís: home banking, tarjeta Banelco / Pago Mis Cuentas, tarjeta de Red Link / Pagar, BNA+ de Banco Nación, Cuenta DNI de Banco Provincia, Mercado Pago o E-Pagos."
+      },
+      {
+        "texto": "Vas a recibir otro mensaje con tus datos confirmados y un Volante Electrónico de Pagos (VEP)."
+      },
+      {
+        "texto": "Aboná el servicio según la opción que elegiste."
+      },
+      {
+        "texto": "Vas a recibir un correo electrónico con la confirmación de la acreditación de tu pago."
+      },
+      {
+        "texto": "A partir de este momento comienza a correr el plazo de entrega de la modalidad que elegiste."
+      },
+      {
+        "texto": "Cumplido el plazo desde la acreditación de tu pago, vas a recibir un último correo electrónico con un vínculo para que descargues tu certificado de antecedentes penales."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La vigencia es de 5 días hábiles desde que recibiste el certificado. No obstante, consultá en el organismo donde vas a presentarlo.",
+      "No se aceptan pagos realizados en terminales de autoservicio a ningún número de cuenta.",
+      "Algunas sedes donde se tramita el certificado cuentan con cajas habilitadas para el cobro. La página correspondiente a la sede que elegiste para hacer el trámite te informa al respecto."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 850000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-antecedentes-penales-con-clave-fiscal"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 480000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-antecedentes-penales-con-clave-fiscal"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 240000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-antecedentes-penales-con-clave-fiscal"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 100000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-antecedentes-penales-con-clave-fiscal"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-antecedentes-penales-con-clave-fiscal",
+      "titulo": "Solicitar certificado de antecedentes penales con clave fiscal | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:00:09.065Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia exacta del trámite.",
+    "El plazo exacto de entrega en días hábiles."
+  ]
+}

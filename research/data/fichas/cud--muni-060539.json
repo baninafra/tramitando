@@ -1,0 +1,98 @@
+{
+  "tramite": {
+    "slug": "certificado-unico-de-discapacidad",
+    "nombre": "Certificado Único de Discapacidad",
+    "nombre_busqueda": "Certificado Único de Discapacidad CUD",
+    "resumen": "Es un documento público de validez nacional que certifica la discapacidad de la persona. Se tramita en la Secretaría de Desarrollo e Integración Social de Merlo y es gratuito.",
+    "sinonimos": [
+      "CUD",
+      "Certificado Único de Discapacidad Merlo"
+    ],
+    "temas": [
+      "certificado-unico-de-discapacidad",
+      "discapacidad-y-accesibilidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060539",
+  "organismo": {
+    "nombre": "Secretaría de Desarrollo e Integración Social",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "La persona con discapacidad o un familiar directo"
+    ],
+    "requisitos": [
+      {
+        "texto": "Acreditar domicilio en Merlo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar estudios correspondientes a la patología específica",
+        "aclaracion": null
+      },
+      {
+        "texto": "Completar formulario de la patología con el médico tratante",
+        "aclaracion": null
+      },
+      {
+        "texto": "Concurrir al turno para junta médica",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el paciente cuenta con obra social o prepaga, presentar certificado correspondiente",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentar estudios correspondientes a la patología específica"
+      },
+      {
+        "texto": "Completar formulario de la patología con el médico tratante"
+      },
+      {
+        "texto": "Concurrir al turno para junta médica"
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Secretaría de Desarrollo e Integración Social",
+      "direccion": "Colón 686",
+      "localidad": "Merlo",
+      "horario": null,
+      "fuente_url": "https://www.merlo.gob.ar/cud/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.merlo.gob.ar/cud/",
+      "titulo": "Certificado Único de Discapacidad | Merlo Buenos Aires",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T15:13:17.934Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica los requisitos para menores de edad ni para extranjeros.",
+    "El texto no especifica el plazo de tramitación ni de expedición.",
+    "El texto no especifica si se requiere turno online o presencial para la junta médica."
+  ]
+}

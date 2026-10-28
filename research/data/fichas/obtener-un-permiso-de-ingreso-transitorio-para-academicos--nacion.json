@@ -1,0 +1,118 @@
+{
+  "tramite": {
+    "slug": "permiso-de-ingreso-transitorio-para-academicos",
+    "nombre": "Permiso de ingreso transitorio para académicos",
+    "nombre_busqueda": "Permiso de ingreso transitorio para académicos",
+    "resumen": "Permiso para extranjeros que realicen actividades académicas bajo responsabilidad de instituciones educativas, con plazo máximo de doce meses.",
+    "sinonimos": [
+      "Permiso ingreso académico",
+      "Permiso ingreso transitorio académico"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Migraciones",
+    "sigla": "DNM",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Extranjeros requeridos para realizar actividades académicas al amparo de acuerdos suscriptos entre instituciones de educación superior.",
+      "El requirente debidamente inscripto en el Registro Nacional Único de Requirentes (ReN.U.R.E.).",
+      "El apoderado del requirente con poder o designación con facultades suficientes ante escribano público o funcionario de la DNM."
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia de inscripción en el ReN.U.R.E. (original y copia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de CUIT (original y copia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción y último pago impositivo y de IVA, Ingresos Brutos y Ganancias (original y copia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poder otorgado por el requirente con facultades suficientes para actuar ante la DNM (original y copia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI vigente del apoderado (original y copia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de solicitud detallando los motivos de la petición, conteniendo los datos del ingresante (nombres, apellidos, fecha de nacimiento, número de pasaporte, país de nacimiento, nacionalidad, estado civil, profesión, nivel de estudios cursados, país y ciudad de residencia, plazo de permanencia prete…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia completa y actualizada del pasaporte válido y vigente del ingresante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contrato suscrito y firmado por la parte contratante ante escribano público.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Currículum Vitae del extranjero.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Legalizaciones y traducción pública nacional de toda documentación emitida en el exterior.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la Nota de Solicitud y la totalidad de la documentación requerida ante el Departamento de Tramitación de Ingresos de la Sede Central de la Dirección Nacional de Migraciones o ante la delegación DNM correspondiente."
+      },
+      {
+        "texto": "Seguí el estado de tu trámite durante el período de supervisión."
+      },
+      {
+        "texto": "Presentate en donde iniciaste la solicitud para notificarte del otorgamiento y poder informar al extranjero para que se presente ante el Consulado Argentino correspondiente con el fin de obtener su visa."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://www.argentina.gob.ar/turnos",
+    "plazo": null,
+    "consejos": [
+      "La vigencia del permiso es de doce meses.",
+      "La residencia transitoria tiene un plazo máximo de doce meses."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-un-permiso-de-ingreso-transitorio-para-academicos",
+      "titulo": "Obtener un Permiso de Ingreso Transitorio para Académicos | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-27T06:53:19.024Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T06:53:19.024Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa migratoria no está especificado en el texto, solo se indica que se debe consultar el cuadro de tasas vigentes.",
+    "El plazo exacto de tramitación no está especificado en el texto."
+  ]
+}

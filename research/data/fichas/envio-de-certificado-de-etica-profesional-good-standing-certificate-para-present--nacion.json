@@ -1,0 +1,103 @@
+{
+  "tramite": {
+    "slug": "envio-de-certificado-de-etica-profesional-good-standing-certificate",
+    "nombre": "Envío de certificado de ética profesional",
+    "nombre_busqueda": "Certificado de ética profesional ECFMG",
+    "resumen": "El Ministerio de Salud envía por correo electrónico al ECFMG que el profesional de la salud está registrado y no tiene sanciones. Es gratuito y se realiza en línea.",
+    "sinonimos": [
+      "Good Standing Certificate",
+      "Certificado de ética para ECFMG"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Profesionales de la Salud matriculados en el Ministerio de Salud de la Nación."
+    ],
+    "requisitos": [
+      {
+        "texto": "Poseer Matrícula Nacional.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Haber solicitado previamente el Certificado de Ética Profesional.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ingresar al TAD con clave fiscal nivel 2 o superior de AFIP.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si se realiza por un tercero: apoderar mediante ARCA.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al TAD con clave fiscal."
+      },
+      {
+        "texto": "Elegí el trámite requerido y seguí los pasos indicados."
+      },
+      {
+        "texto": "Confirmá el trámite."
+      },
+      {
+        "texto": "En el menú de arriba a la izquierda, hacé clic en Mis trámites."
+      },
+      {
+        "texto": "Esperá la notificación por TAD donde figura el Certificado de Ética Profesional ya realizado para descargarlo."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Revisá asiduamente el ítem NOTIFICACIONES de la página del TAD desde una computadora de escritorio o Notebook, no por Dispositivos Móviles.",
+      "Si iniciaste el trámite, esperá por su finalización y notificación. No debes iniciar otro salvo indicación de lo contrario.",
+      "Este Certificado tiene validez por 30 días desde su emisión."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/envio-de-certificado-de-etica-profesional-good-standing-certificate-para-presentar-en-el",
+      "titulo": "Envío de Certificado de Ética Profesional (Good Standing Certificate) para presentar en el extranjero a través del ECFMG | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T15:37:23.093Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-etica-profesional",
+      "titulo": "Solicitar certificado de ética profesional | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T15:37:23.093Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La dirección de correo electrónico oficial de la ECFMG licensure@ecfmg.org no aparece en el texto de las páginas descargadas."
+  ]
+}

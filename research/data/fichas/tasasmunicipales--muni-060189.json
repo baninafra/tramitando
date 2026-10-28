@@ -1,0 +1,79 @@
+{
+  "tramite": {
+    "slug": "descarga-y-pago-online-de-tasas-municipales",
+    "nombre": "Descarga y Pago Online de Tasas Municipales",
+    "nombre_busqueda": "Pago tasas municipales online",
+    "resumen": "Permití descargar recibos de tasas próximas a vencer y abonarlas por medios electrónicos. Una vez vencida la fecha, no se puede pagar ni descargar.",
+    "sinonimos": [
+      "Pago tasas online",
+      "Descarga recibo tasas",
+      "Pago tasas municipales"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060189",
+  "organismo": {
+    "nombre": "Municipalidad de Coronel Dorrego",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Contribuyentes con tasas próximas a vencer."
+    ],
+    "requisitos": [
+      {
+        "texto": "Identificación de la tasa seleccionada.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá la identificación de la tasa seleccionada para descargar los recibos asociados."
+      },
+      {
+        "texto": "Aboná el monto correspondiente a través de los medios electrónicos disponibles."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://dorrego.gob.ar/mun/direcciones/administracion/menu/hacienda/tasas/tasasmunicipales.php",
+      "titulo": "Hacienda - Descargá tu Recibo",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T22:20:24.375Z"
+    },
+    {
+      "url": "https://dorrego.gob.ar/mun/direcciones/administracion/menu/hacienda/oficinas.php",
+      "titulo": "Hacienda - Oficinas",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T22:20:24.375Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los medios electrónicos disponibles para el pago no se especifican en el texto.",
+    "El plazo exacto de vencimiento de las tasas no se indica en el texto.",
+    "Los requisitos específicos para descargar el recibo (como el número de partida) no se detallan más allá de la necesidad de identificar la tasa.",
+    "La información sobre descuentos por pago contado o planes de pago en cuotas se menciona en el contexto de la oficina, pero no se detalla en la página de descargas."
+  ]
+}

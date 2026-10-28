@@ -1,0 +1,123 @@
+{
+  "tramite": {
+    "slug": "afiliar-al-pami-nietos-o-nietas-mayores-de-edad-con-discapacidad",
+    "nombre": "Afiliar al PAMI a nietos o nietas mayores de edad con discapacidad",
+    "nombre_busqueda": "Afiliar nieto al PAMI",
+    "resumen": "Si sos titular de PAMI y tenés a cargo exclusivo a una nieta o nieto mayor de edad con discapacidad física o mental, podés tramitar su afiliación. Es un trámite gratuito y se realiza de forma presencial.",
+    "sinonimos": [
+      "Afiliación PAMI nietos",
+      "Afiliar nieto a obra social",
+      "Afiliar nieta a PAMI"
+    ],
+    "temas": [
+      "cobro-y-prestaciones-pami",
+      "discapacidad-y-accesibilidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "PAMI",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "La persona titular de PAMI que tenga exclusivamente a su cargo una nieta o nieto mayor de edad con discapacidad física o mental."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI con domicilio actualizado de la persona afiliada titular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Último recibo de haberes de la persona afiliada como titular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del padre o madre.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del nieto/a, con fecha vigente y domicilio actualizado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación probatoria del vínculo (partida o acta de nacimiento).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado Unico de Discapacidad (CUD).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de CUIL/CUIT.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación negativa de ANSES.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario Familiar no Conviviente (solo si fuese necesario).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Reuní la documentación."
+      },
+      {
+        "texto": "Solicitá un Turno en PAMI para que te atiendan en forma presencial en tu Centro de Atención personalizada."
+      },
+      {
+        "texto": "Concurrí a la dependencia de PAMI con la documentación, en la fecha y hora del turno asignado."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Estas afiliaciones no llevan vencimiento, a excepción de que el Departamento Asesor Científico Pericial lo establezca en su dictamen.",
+      "Si la persona discapacitada está tramitando una pensión no contributiva y no haya sido otorgada todavía al momento de la afiliación, la afiliación se asignará con vencimiento a un año."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/afiliar-al-pami-nietos-o-nietas-mayores-de-edad-con-discapacidad",
+      "titulo": "Afiliar al PAMI a nietos o nietas mayores de edad con discapacidad | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:26:11.010Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-constancia-de-cuil",
+      "titulo": "Solicitar constancia de CUIL | Argentina.gob.ar",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-26T04:26:11.010Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-26T04:26:11.010Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de las oficinas de PAMI",
+    "Enlace para sacar turno en línea"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "tramite": {
+    "slug": "solicitar-reempadronamiento",
+    "nombre": "Solicitar reempadronamiento",
+    "nombre_busqueda": "reempadronamiento arma",
+    "resumen": "Regularizá tu arma de fuego si tenés un arma sin procedencia. Es un trámite para legítimos usuarios de armas de uso civil o condicional.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMaC",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Legítimos usuarios de armas de fuego de uso civil o uso civil condicional",
+      "Usuarios colectivos"
+    ],
+    "requisitos": [
+      {
+        "texto": "Ser Legítimo Usuario de armas de fuego de uso civil, uso civil condicional o Usuario Colectivo con credencial vigente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descargá el formulario de libre reproducción para reempadronamiento de armas de fuego y completalo con los datos requeridos con carácter de declaración jurada",
+        "aclaracion": null
+      },
+      {
+        "texto": "Llevá fotografías a color en las que se vean claramente la marca y el número de serie del arma, con un grado de nitidez suficiente que permita observar a simple vista los datos requeridos (preferentemente sin flash)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Llevá la Solicitud de tenencia del material a reempadronar (a través de SIGIMAC)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Llevá el Formulario de libre reproducción para reempadronamiento",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá la solicitud electrónica para la credencial de Tenencia del arma en cuestión"
+      },
+      {
+        "texto": "Consultá el manual de solicitudes electrónicas o el instructivo rápido de solicitudes electrónicas de tenencia correspondiente al arma en cuestión"
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras"
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-reempadronamiento",
+      "titulo": "Solicitar reempadronamiento | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T10:35:04.513Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica el monto del trámite ni si es gratis",
+    "El texto no indica si se requiere turno ni la dirección de las oficinas"
+  ]
+}

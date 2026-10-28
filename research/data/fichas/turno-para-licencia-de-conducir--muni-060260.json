@@ -1,0 +1,172 @@
+{
+  "tramite": {
+    "slug": "turnos-para-licencia-de-conductor",
+    "nombre": "Turnos para Licencia de Conductor",
+    "nombre_busqueda": "Turno licencia conducir Esteban Echeverria",
+    "resumen": "Para obtener o renovar la licencia de conducir en el Municipio de Esteban Echeverría, necesitás cumplir con requisitos específicos según tu caso (primera vez, renovación, ampliación) y presentarte en la oficina de Licencias de Conducir.",
+    "sinonimos": [
+      "Turno licencia conducir",
+      "Licencia conducir Esteban Echeverria",
+      "Turno licencia conducir Monte Grande"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060260",
+  "organismo": {
+    "nombre": "Municipio de Esteban Echeverría",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Aquellos que no posean licencia o tengan la misma vencida hace más de 90 días.",
+      "Quienes deseen obtener la licencia original por primera vez.",
+      "Quienes deseen renovar su licencia.",
+      "Quienes deseen ampliar su categoría de registro actual.",
+      "Quienes deseen duplicar su licencia en caso de robo, extravío o deterioro."
+    ],
+    "requisitos": [
+      {
+        "texto": "Curso de educación vial y estrella amarilla",
+        "aclaracion": null
+      },
+      {
+        "texto": "Examen teórico",
+        "aclaracion": null
+      },
+      {
+        "texto": "Examen de manejo con el vehículo según categoría",
+        "aclaracion": null
+      },
+      {
+        "texto": "Examen psicofísico (visual)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Original y fotocopia de licencia vigente o denuncia de robo o extravío",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de antecedentes penales del Registro Nacional de Reincidencia y Estadísticas Criminal y Carcelaria",
+        "aclaracion": "Solo para licencias con menos de 90 días de vencimiento en categorías profesionales (C, D y E)."
+      },
+      {
+        "texto": "Original y fotocopia de licencia anterior o denuncia de robo o extravío",
+        "aclaracion": "Solo si no sos principiante."
+      },
+      {
+        "texto": "Certificado de legalidad",
+        "aclaracion": "Si tenés licencia de otra provincia o de CABA."
+      },
+      {
+        "texto": "Curso de seguridad vial, género y estrella amarilla",
+        "aclaracion": "De ser necesario."
+      },
+      {
+        "texto": "Un año de antigüedad en categoría B",
+        "aclaracion": "Para ampliación a categorías profesionales."
+      },
+      {
+        "texto": "Tener 21 años al momento de solicitar la ampliación",
+        "aclaracion": "Para ampliación a categorías profesionales."
+      },
+      {
+        "texto": "Certificado de manejo emitido por la Dirección de Vialidad de la Provincia de Buenos Aires",
+        "aclaracion": "Para ampliación a la categoría E2."
+      },
+      {
+        "texto": "Original y fotocopia de denuncia de robo o extravío",
+        "aclaracion": "Para duplicado en caso de robo, extravío o deterioro."
+      },
+      {
+        "texto": "Licencia original deteriorada",
+        "aclaracion": "Solo para duplicado en caso de deterioro."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en la oficina de Licencias de Conducir del Municipio."
+      },
+      {
+        "texto": "Realizá el examen teórico si corresponde."
+      },
+      {
+        "texto": "Realizá el examen de manejo con el vehículo según categoría."
+      },
+      {
+        "texto": "Realizá el examen psicofísico (visual) si corresponde."
+      },
+      {
+        "texto": "Presentá los documentos originales y copias."
+      },
+      {
+        "texto": "Esperá el resultado de los exámenes y la emisión de la licencia."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://www.estebanecheverria.gob.ar/turno-para-licencia-de-conducir/",
+    "plazo": null,
+    "consejos": [
+      "Si sos menor de edad, necesitás cursar el curso teórico obligatorio para jóvenes de entre 16 y 21 años.",
+      "Si tramitás tu licencia original por primera vez y rendís el examen práctico con un vehículo automático, tu carnet quedará limitado únicamente a ese tipo de transmisión.",
+      "Si tenés algún antecedente penal, debés acercarte 15 días antes del turno.",
+      "Las renovaciones son siempre por mismas categorías.",
+      "La categoría cuatriciclo no renueva automáticamente.",
+      "Si tenés licencia de otra provincia o de CABA, necesitás certificado de legalidad.",
+      "Si sos principiante, necesitás presentar original y fotocopia de licencia anterior o denuncia de robo o extravío, y certificado de legalidad si tenés licencia de otra provincia o de CABA."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Licencias de Conducir del Municipio",
+      "direccion": "Sofía T. Santamarina 455",
+      "localidad": "Monte Grande",
+      "horario": null,
+      "fuente_url": "https://www.estebanecheverria.gob.ar/turno-para-licencia-de-conducir/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.estebanecheverria.gob.ar/turno-para-licencia-de-conducir/",
+      "titulo": "TURNOS PARA LICENCIA DE CONDUCTOR – Esteban Echeverría",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T00:11:55.983Z"
+    },
+    {
+      "url": "https://www.estebanecheverria.gob.ar/licencia-02-requisitos-por-tramite/",
+      "titulo": "Requisitos por Trámite – Esteban Echeverría",
+      "bloques": [
+        "requisitos",
+        "quien",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T00:11:55.983Z"
+    },
+    {
+      "url": "https://www.estebanecheverria.gob.ar/pases-de-transportes-para-discapacitados/",
+      "titulo": "Pases de transportes para discapacitados – Esteban Echeverría",
+      "bloques": [
+        "requisitos",
+        "quien",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T00:11:55.983Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos generales de identidad (DNI) en el texto de las páginas de licencias, aunque se menciona para pases de transportes.",
+    "No se especifican montos de tasas en el texto de las páginas de licencias.",
+    "No se especifica el plazo de espera para la emisión de la licencia."
+  ]
+}

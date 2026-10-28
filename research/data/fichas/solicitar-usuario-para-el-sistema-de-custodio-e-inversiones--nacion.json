@@ -1,0 +1,113 @@
+{
+  "tramite": {
+    "slug": "solicitar-usuario-sistema-custodio-e-inversiones",
+    "nombre": "Solicitar usuario sistema Custodio e Inversiones",
+    "nombre_busqueda": "Solicitar usuario sistema Custodio e Inversiones",
+    "resumen": "Los bancos custodios, sociedades gerentes/depositarias y ACDI deben solicitar permisos de usuario a la Superintendencia de Seguros de la Nación (SSN) ingresando en Gestión de Usuarios y cargando la información solicitada.",
+    "sinonimos": [],
+    "temas": [
+      "firma-digital"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Seguros de la Nación",
+    "sigla": "SSN",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Bancos custodios",
+      "Sociedades gerentes/depositarias",
+      "ACDI (Agentes de colocación y distribución integral)"
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener usuario de acceso a Trámites a Distancia (TAD)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cargar la solicitud con los datos del usuario en Gestión de Usuarios",
+        "aclaracion": null
+      },
+      {
+        "texto": "Obtener el pdf que emite el sistema de Gestión de Usuarios",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ingresar a TAD con clave fiscal",
+        "aclaracion": null
+      },
+      {
+        "texto": "Operar como apoderado de la persona jurídica",
+        "aclaracion": null
+      },
+      {
+        "texto": "Establecer el firmante ingresando el CUIL/CUIT del presidente de la persona jurídica",
+        "aclaracion": null
+      },
+      {
+        "texto": "Indicar el código SSN de la persona jurídica, su razón social y CUIT",
+        "aclaracion": null
+      },
+      {
+        "texto": "Indicar el nombre, apellido, CUIT, correo electrónico y teléfono laborales del usuario",
+        "aclaracion": null
+      },
+      {
+        "texto": "Confirmar el trámite y firmar el documento",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD, trámite Solicitud de usuario Custodio e Inversiones, con clave fiscal"
+      },
+      {
+        "texto": "Operá como apoderado de la persona jurídica representando al administrador de relaciones de clave fiscal"
+      },
+      {
+        "texto": "Establecé el firmante ingresando el CUIL/CUIT del presidente de la persona jurídica"
+      },
+      {
+        "texto": "Indicá el código SSN de la persona jurídica, su razón social y CUIT"
+      },
+      {
+        "texto": "Indicá el nombre, apellido, CUIT, correo electrónico y teléfono laborales del usuario"
+      },
+      {
+        "texto": "Confirmá el trámite y firmá el documento"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-usuario-para-el-sistema-de-custodio-e-inversiones",
+      "titulo": "Solicitar usuario para el sistema de Custodio e Inversiones | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T16:42:52.688Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina",
+    "Localidad de la oficina",
+    "Nombre de la oficina",
+    "Vigencia exacta del trámite (fecha AAAA-MM-DD)"
+  ]
+}

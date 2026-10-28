@@ -1,0 +1,73 @@
+{
+  "tramite": {
+    "slug": "visado-de-planos-de-mensura",
+    "nombre": "Visado de Planos de Mensura",
+    "nombre_busqueda": "Visado de Planos de Mensura",
+    "resumen": "El agrimensor debe presentar el contrato, dos copias del plano y el estado de deuda liberado para obtener el visado municipal.",
+    "sinonimos": [],
+    "temas": [
+      "catastro-e-inmuebles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060760",
+  "organismo": {
+    "nombre": "Municipalidad San Miguel",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Agrimensores"
+    ],
+    "requisitos": [
+      {
+        "texto": "Contrato profesional",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dos copias del plano de mensura",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estado de deuda liberado por partida de origen",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al Portal de Trámites."
+      },
+      {
+        "texto": "Iniciá sesión con clave AFIP/ANSES."
+      },
+      {
+        "texto": "Seguí los pasos del trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "7 días",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.msm.gov.ar/guia-tramites/catastro/visacion-de-planos-de-mensura/",
+      "titulo": "Visado de Planos de Mensura - Municipalidad San Miguel",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T13:02:38.473Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de los derechos de mensura y el sello de iniciación de expediente no se especifican en el texto."
+  ]
+}

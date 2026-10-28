@@ -1,0 +1,126 @@
+{
+  "tramite": {
+    "slug": "solicitar-alta-o-cambio-de-gestor-de-establecimientos-de-productos-veterinarios",
+    "nombre": "Solicitar alta o cambio de gestor de establecimientos de productos veterinarios",
+    "nombre_busqueda": "cambiar gestor Senasa",
+    "resumen": "Las empresas inscriptas en el Senasa pueden solicitar el cambio de gestor de sus establecimientos de productos veterinarios en línea a través del sistema TAD. Se requiere declarar un domicilio electrónico y presentar documentación que acredite el cambio, incluyendo el nombre, CUIT y comprobante de pago del nuevo gestor.",
+    "sinonimos": [
+      "cambiar gestor Senasa",
+      "alta o cambio gestor productos veterinarios"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas inscriptas en el Senasa"
+    ],
+    "requisitos": [
+      {
+        "texto": "Documentación que acredite el cambio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombre del nuevo gestor",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUIT o CUIL del nuevo gestor",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cupón con el comprobante de pago",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Inicia la tramitación por TAD"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Carlos Calvo N° 66, PB",
+      "direccion": "Carlos Calvo N° 66, PB - CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-alta-o-cambio-de-gestor-de-establecimientos-de-productos-veterinarios"
+    },
+    {
+      "nombre": "Sede Central",
+      "direccion": "Paseo Colón 367 - CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-alta-o-cambio-de-gestor-de-establecimientos-de-productos-veterinarios"
+    },
+    {
+      "nombre": "Centro Regional Metropolitano",
+      "direccion": "Azopardo 1020 - CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-alta-o-cambio-de-gestor-de-establecimientos-de-productos-veterinarios"
+    },
+    {
+      "nombre": "Laboratorio Central",
+      "direccion": "Talcahuano 1660 – Martínez, Provincia de Buenos Aires",
+      "localidad": "Martínez",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-alta-o-cambio-de-gestor-de-establecimientos-de-productos-veterinarios"
+    },
+    {
+      "nombre": "Centro Regional Buenos Aires",
+      "direccion": "Mar de Plata, Provincia de Buenos Aires",
+      "localidad": "Mar de Plata",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-alta-o-cambio-de-gestor-de-establecimientos-de-productos-veterinarios"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-alta-o-cambio-de-gestor-de-establecimientos-de-productos-veterinarios",
+      "titulo": "Solicitar alta o cambio de gestor de establecimientos de productos veterinarios | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-28T04:27:47.242Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-28T04:27:47.242Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/formularios/consulta-de-expedientes",
+      "titulo": "Expedientes | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T04:27:47.242Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel SA 041 no se especifica en el texto, solo se indica que debe abonarse."
+  ]
+}

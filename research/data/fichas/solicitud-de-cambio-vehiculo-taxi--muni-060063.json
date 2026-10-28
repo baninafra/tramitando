@@ -1,0 +1,99 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-cambio-vehiculo-taxi",
+    "nombre": "Solicitud de cambio vehiculo taxi",
+    "nombre_busqueda": "cambio vehiculo taxi",
+    "resumen": "Trámite para gestionar el cambio de vehículo de taxi. Requiere documentación específica sobre el vehículo, dominio y seguros, y tiene un costo asociado.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias",
+      "tasa-inmobiliaria-y-servicios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060063",
+  "organismo": {
+    "nombre": "Municipalidad de Balcarce",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que cumplan con los requisitos y documentación requerida"
+    ],
+    "requisitos": [
+      {
+        "texto": "Poseer un vehículo tipo sedan de 4 o 5 puertas con un máximo de 10 años de antigüedad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditar el dominio del 100% del vehículo que desea habilitar. El mismo deberá estar radicado en la seccional Balcarce del Registro Nacional de la Propiedad Automotor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tarjeta verde y titulo de la propiedad del vehículo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Póliza de Seguro contratada con responsabilidad civil, daños a tercero obligatorios sumados a la responsabilidad civil del chofer, terceros transportados y no transportados, y a cosas de terceros.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Oblea de GNC en caso de contar con equipo a gas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "VTV realizada como transporte público.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación requerida en la Dirección de Inspección General."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Inspección General",
+      "direccion": "Av. San Martin 3646",
+      "localidad": "Balcarce",
+      "horario": null,
+      "fuente_url": "https://balcarce-app.gob.ar/portal_servicios/servicio/solicitud-de-cambio-vehiculo-taxi"
+    },
+    {
+      "nombre": "Dirección de Recursos",
+      "direccion": "1er. Piso Palacio Municipal",
+      "localidad": "Balcarce",
+      "horario": null,
+      "fuente_url": "https://balcarce-app.gob.ar/portal_servicios/servicio/solicitud-de-cambio-vehiculo-taxi"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://balcarce-app.gob.ar/portal_servicios/servicio/solicitud-de-cambio-vehiculo-taxi",
+      "titulo": "Portal de Servicios | Modernizacion Balcarce",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T21:21:19.172Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del pago no se especifica en el texto.",
+    "No se indica si el trámite requiere turno."
+  ]
+}

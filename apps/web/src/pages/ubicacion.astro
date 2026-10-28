@@ -1,0 +1,37 @@
+---
+// Elegir provincia y municipio. Es el destino del control de la cabecera cuando no hay JS; con JS ese
+// control abre un diálogo y esta página casi no se ve.
+import Base from '../layouts/Base.astro';
+import CamposUbicacion from '../components/CamposUbicacion.astro';
+---
+<Base titulo="¿Dónde vivís?" descripcion="Elegí tu provincia y tu municipio para ver la versión de cada trámite que te toca." indexar={false}>
+  <div class="contenedor pagina">
+    <form class="formulario" action="/buscar" method="get" data-form-pagina-ubicacion>
+      <h1 class="titulo-seccion">¿Dónde vivís?</h1>
+      <p class="bajada">Muchos trámites cambian según la provincia o el municipio: el costo, la oficina y a veces los requisitos. Elegí tu lugar y te mostramos la versión que te toca.</p>
+      <CamposUbicacion id="pagina" />
+      <p class="nota">Se guarda solo en este navegador. No te pedimos cuenta ni datos.</p>
+      <div><button class="btn btn-primario" type="submit">Ver los trámites de mi lugar</button></div>
+    </form>
+  </div>
+</Base>
+
+<script>
+  import { desdeSelects, filtrarMunicipios, guardarUbicacion, leerUbicacion, ponerEnSelects } from '../scripts/ubicacion';
+  import { conectarGps } from '../scripts/gps';
+  const form = document.querySelector<HTMLFormElement>('[data-form-pagina-ubicacion]');
+  if (form) {
+    const prov = form.querySelector<HTMLSelectElement>('[data-prov]')!;
+    const muni = form.querySelector<HTMLSelectElement>('[data-muni]')!;
+    ponerEnSelects(leerUbicacion(), prov, muni);
+    prov.addEventListener('change', () => filtrarMunicipios(prov, muni));
+    conectarGps(form);
+    form.addEventListener('submit', () => { const u = desdeSelects(prov, muni); if (u) guardarUbicacion(u); });
+  }
+</script>
+
+<style>
+  .pagina { padding-top: var(--espacio-6); }
+  .formulario { display: grid; gap: var(--espacio-5); max-width: 760px; padding: clamp(24px, 4vw, 56px); border-radius: var(--r-panel); background: var(--celeste-suave); }
+  .nota { font: var(--t-nota); color: var(--tinta-2); }
+</style>

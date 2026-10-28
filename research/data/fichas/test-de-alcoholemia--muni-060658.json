@@ -1,0 +1,71 @@
+{
+  "tramite": {
+    "slug": "test-de-alcoholemia",
+    "nombre": "Test de alcoholemia",
+    "nombre_busqueda": "Test de alcoholemia",
+    "resumen": "Prueba para medir la cantidad de alcohol en sangre. Se realiza en consultorios igualitarios.",
+    "sinonimos": [],
+    "temas": [
+      "salud-y-prevencion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060658",
+  "organismo": {
+    "nombre": "Secretaría de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que deben ser ingresadas al Programa Municipal de Tuberculosis."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documentación para personas extranjeras.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en los consultorios igualitarios."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mi.quilmes.gov.ar/tramites/251/test-de-alcoholemia",
+      "titulo": "Test de alcoholemia",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T14:20:39.863Z"
+    },
+    {
+      "url": "https://mi.quilmes.gov.ar/",
+      "titulo": "Mi Quilmes Digital",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-28T14:20:39.863Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de los consultorios igualitarios.",
+    "Horarios de atención.",
+    "Si se requiere turno previo.",
+    "Costo del test."
+  ]
+}

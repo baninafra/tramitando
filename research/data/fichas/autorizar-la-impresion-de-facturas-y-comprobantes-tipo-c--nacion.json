@@ -1,0 +1,105 @@
+{
+  "tramite": {
+    "slug": "autorizar-la-impresion-de-facturas-y-comprobantes-tipo-c",
+    "nombre": "Autorizar la impresión de facturas y comprobantes tipo C",
+    "nombre_busqueda": "Autorizar la impresión de facturas y comprobantes tipo C",
+    "resumen": "Si sos monotributista, necesitás obtener en la web de la ARCA el Código de Autorización de Impresión (CAI) antes de ir a la imprenta para que te confeccionen facturas o notas de crédito. Es un trámite gratuito que se hace en línea.",
+    "sinonimos": [
+      "Código de Autorización de Impresión",
+      "CAI monotributo",
+      "Autorización de impresión de comprobantes"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración Federal de Ingresos Nacionales",
+    "sigla": "AFIP",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A los monotributistas de todas las categorías."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener clave fiscal con nivel de seguridad 3.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener habilitados los puntos de venta.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Haber adherido el servicio Autorización de impresión de comprobantes a tu clave fiscal.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la web de la ARCA con tu número de cuit/cuil/cdi y tu clave fiscal."
+      },
+      {
+        "texto": "Entrá al servicio Autorización de Impresión de Comprobantes y seleccioná la opción Solicitud de C.A.I.."
+      },
+      {
+        "texto": "Elegí la opción Solicitud manual."
+      },
+      {
+        "texto": "Aclara si tu solicitud se aplicará a comprobantes para resguardo ante contingencias que puedan ocurrir en otros sistemas de emisión."
+      },
+      {
+        "texto": "Si no son comprobantes para resguardo, indicá el punto de venta en el que se vas a utilizar los comprobantes, el tipo de comprobante que mandarás a imprimir y la cantidad que vas a encargar en la imprenta."
+      },
+      {
+        "texto": "Si los comprobantes son de resguardo, elegí la opción correspondiente e ingresá el punto de venta."
+      },
+      {
+        "texto": "Si tenés de más de uno, presioná el botón Agregar e incorporá los otros puntos de venta de resguardo."
+      },
+      {
+        "texto": "Hacé clic en el botón Guardar para grabar la información que cargaste."
+      },
+      {
+        "texto": "En caso de que no seas vos quien haga los trámites ante la imprenta, volcá los datos de quienes estarán autorizados a hacerlo y confirmá esta información."
+      },
+      {
+        "texto": "El sistema te ofrecerá en pantalla la Constancia de CAI para que la presentes en la imprenta para confeccionar los comprobantes."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la Constancia de CAI en la imprenta para que te confeccionen los comprobantes."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Tené en cuenta que tenés 10 días corridos para hacer el encargo en la imprenta. Vencido ese plazo, la solicitud caducará y el CAI quedará registrado como no utilizado.",
+      "Después de ir a la imprenta, tenés que ingresar nuevamente al sitio de ARCA con tu clave fiscal para recibir la Constancia de Información de Recibo de C.A.I. y habilitar a solicitar nuevas autorizaciones."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/autorizar-la-impresion-de-facturas-y-comprobantes-tipo-c",
+      "titulo": "Autorizar la impresión de facturas y comprobantes tipo C | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:31:10.497Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica el plazo exacto para la recepción de la constancia de información de recibo de C.A.I. en ARCA, solo menciona que es un paso importante para habilitar nuevas autorizaciones."
+  ]
+}

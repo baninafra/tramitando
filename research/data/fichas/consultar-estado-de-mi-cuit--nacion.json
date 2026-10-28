@@ -1,0 +1,79 @@
+{
+  "tramite": {
+    "slug": "consultar-estado-de-mi-cuit",
+    "nombre": "Consultar estado de mi CUIT",
+    "nombre_busqueda": "Consultar estado de mi CUIT",
+    "resumen": "Podés consultar el estado administrativo de tu Clave Única de Identificación Tibutaria (CUIT) en línea de forma gratuita. El estado puede ser Activo, Limitado o Inactivo según la evaluación de ARCA.",
+    "sinonimos": [
+      "Ver estado CUIT",
+      "Consulta estado fiscal",
+      "Estado administrativo CUIT"
+    ],
+    "temas": [
+      "cuit-y-clave-fiscal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración Federal de Ingresos Públicos",
+    "sigla": "AFIP",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A los contribuyentes y responsables inscriptos en ARCA."
+    ],
+    "requisitos": [
+      {
+        "texto": "Contar con dispositivo de acceso a Internet.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contar con CUIT.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a Consulta Estados Administrativos de la CUIT."
+      },
+      {
+        "texto": "Completá con tu número de CUIT (once dígitos sin guiones)."
+      },
+      {
+        "texto": "Completá el código de seguridad que te ofrece la imagen en pantalla."
+      },
+      {
+        "texto": "Hacé clic en el botón Consultar."
+      },
+      {
+        "texto": "ARCA te informará en pantalla cuál es el estado de tu CUIT."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consultar-estado-de-mi-cuit",
+      "titulo": "Consultar estado de mi CUIT | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T04:30:31.010Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica si el trámite requiere turno ni cuál es el plazo de respuesta o renovación del estado."
+  ]
+}

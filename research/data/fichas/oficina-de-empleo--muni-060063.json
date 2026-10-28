@@ -1,0 +1,65 @@
+{
+  "tramite": {
+    "slug": "busqueda-de-empleo-y-seguro-de-desempleo",
+    "nombre": "Oficina de Empleo",
+    "nombre_busqueda": "Oficina de Empleo",
+    "resumen": "Servicio para empresas en búsqueda de personal y particulares que buscan empleo, con acceso a ofertas laborales.",
+    "sinonimos": [],
+    "temas": [
+      "busqueda-de-empleo-y-seguro-de-desempleo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060063",
+  "organismo": {
+    "nombre": "Oficina de Empleo",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas en búsqueda de personal",
+      "Particulares en búsqueda de empleo"
+    ],
+    "requisitos": [
+      {
+        "texto": "NINGUNO",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Subsecretaria de Producción y Empleo",
+      "direccion": "Av. Kelly esq. 29",
+      "localidad": "Balcarce",
+      "horario": null,
+      "fuente_url": "https://balcarce-app.gob.ar/portal_servicios/servicio/oficina-de-empleo"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://balcarce-app.gob.ar/portal_servicios/servicio/oficina-de-empleo",
+      "titulo": "Portal de Servicios | Modernizacion Balcarce",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T03:40:16.357Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de la oficina",
+    "Horarios de atención",
+    "Si requiere turno"
+  ]
+}

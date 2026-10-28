@@ -1,0 +1,82 @@
+{
+  "tramite": {
+    "slug": "autorizacion-judicial-de-viaje",
+    "nombre": "Autorización Judicial de Viaje",
+    "nombre_busqueda": "Autorización Judicial de Viaje",
+    "resumen": "Trámite municipal que facilita la gestión y certificación, en coordinación con autoridades judiciales, para que menores o personas bajo tutela puedan viajar fuera del país o jurisdicción.",
+    "sinonimos": [],
+    "temas": [
+      "viajar-con-menores-o-mascotas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060028",
+  "organismo": {
+    "nombre": "Casa de Justicia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Menores o personas bajo tutela que quieran viajar fuera del país o jurisdicción."
+    ],
+    "requisitos": [
+      {
+        "texto": "Original y Fotocopia de D.N.I. (Frente y dorso).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Nacimiento de los hijos menores de 18 años.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio de la contraparte.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si es posible teléfono de contacto de la contraparte.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos de tres testigos (Mayor de 18 años y no ser familiar del solicitante), para acreditar la carencia de recursos.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Los testigos no tienen que concurrir al iniciar el trámite."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Casa de Justicia",
+      "direccion": "Italia 1415",
+      "localidad": "Burzaco",
+      "horario": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/autorizacion-judicial-de-viaje/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.brown.gob.ar/tramites/autorizacion-judicial-de-viaje/",
+      "titulo": "Autorización Judicial de Viaje",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T02:14:19.264Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el monto del trámite.",
+    "No se especifica el plazo de resolución.",
+    "No se especifica si requiere turno."
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "tramite": {
+    "slug": "inscripcion-proveedores-personas-fisicas",
+    "nombre": "Inscripción de proveedores municipales",
+    "nombre_busqueda": "inscribirse como proveedor municipal",
+    "resumen": "Podés inscribirte como proveedor de la Municipalidad de General La Madrid si sos persona física. Presentá la documentación por correo electrónico o en la Oficina de Compras.",
+    "sinonimos": [
+      "alta de proveedor municipal"
+    ],
+    "temas": [
+      "proveedores-y-compras"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060322",
+  "organismo": {
+    "nombre": "Municipalidad de General La Madrid",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas físicas que quieran inscribirse como proveedoras del Municipio de La Madrid."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario Nº 1.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción en AFIP.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción en Ingresos Brutos o Convenio Multilateral.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de exenciones impositivas o de no retención.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de la habilitación municipal.",
+        "aclaracion": "Si corresponde."
+      },
+      {
+        "texto": "Poder otorgado ante escribano.",
+        "aclaracion": "Si designaste representante legal."
+      },
+      {
+        "texto": "Formulario Nº 2 con la cuenta certificada por la entidad bancaria.",
+        "aclaracion": "Para acreditar los pagos."
+      },
+      {
+        "texto": "Constancia de CBU y datos de la cuenta bancaria.",
+        "aclaracion": "Para acreditar los pagos."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Completá el formulario Nº 1."
+      },
+      {
+        "texto": "Reuní la documentación requerida."
+      },
+      {
+        "texto": "Completá el formulario Nº 2, certificá la cuenta ante la entidad bancaria y adjuntá la constancia de CBU y los datos de la cuenta."
+      },
+      {
+        "texto": "Presentá la documentación por correo electrónico a compras@lamadrid.gob.ar o compras1@lamadrid.gob.ar, o dirigite a la Oficina de Compras."
+      },
+      {
+        "texto": "Esperá a que el equipo de Compras revise la documentación y se comunique para continuar con la inscripción."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Compras",
+      "direccion": "San Martín 565",
+      "localidad": "San Martín 565",
+      "horario": null,
+      "fuente_url": "https://www.lamadrid.gob.ar/inscripcion-proveedores/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.lamadrid.gob.ar/inscripcion-proveedores/",
+      "titulo": "Inscripción a proveedores – Municipalidad de General La Madrid",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T12:47:46.314Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa el costo del trámite.",
+    "No se indica si se necesita turno.",
+    "No se informa el plazo de inscripción."
+  ]
+}

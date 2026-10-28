@@ -1,0 +1,104 @@
+{
+  "tramite": {
+    "slug": "consultar-o-reclamar-sobre-descuentos-de-mutuales-y-otras-entidades",
+    "nombre": "Consultar o reclamar descuentos mutuales",
+    "nombre_busqueda": "Consultar descuentos mutuales ANSES",
+    "resumen": "Podés consultar si hay descuentos en tu recibo de jubilación o pensión por mutuales, cooperativas u otras entidades. El trámite es gratuito y se hace desde Mi ANSES.",
+    "sinonimos": [
+      "Verificar descuentos mutuales",
+      "Controlar descuentos pensionados"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración Nacional de la Seguridad Social",
+    "sigla": "ANSES",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas jubiladas y pensionadas a quienes se les realizan descuentos en sus haberes por un préstamo o cuota social de una mutual, cooperativa, asociación empresarial, sindicato u obra social particular."
+    ],
+    "requisitos": [
+      {
+        "texto": "Recibo de haberes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave de la Seguridad Social.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a Mi ANSES."
+      },
+      {
+        "texto": "El sistema te mostrará los datos de la consulta."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Concurrí a una oficina de ANSES con turno previo."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Hacé tu reclamo en la misma página web.",
+      "También podés consultar a través de distintos medios: teléfono 130, correo electrónico o carta a la oficina de ANSES en CABA."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de ANSES",
+      "direccion": "Av. Paseo Colón 329, 5° Piso, CP 1017, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/consultar-o-reclamar-sobre-descuentos-de-mutuales-y-otras-entidades"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consultar-o-reclamar-sobre-descuentos-de-mutuales-y-otras-entidades",
+      "titulo": "Consultar o reclamar sobre descuentos de mutuales y otras entidades | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-26T05:57:39.422Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-prestamos-en-mutuales-con-convenio-con-anses",
+      "titulo": "Solicitar préstamos en mutuales con convenio con ANSES | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T05:57:39.422Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T05:57:39.422Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo de respuesta del reclamo.",
+    "La disponibilidad de turnos para el trámite presencial."
+  ]
+}

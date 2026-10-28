@@ -1,0 +1,112 @@
+{
+  "tramite": {
+    "slug": "solicitar-contraverificacion-analisis-instituto-nacional-alimentos",
+    "nombre": "Solicitar la contraverificación de análisis al Instituto Nacional de Alimentos",
+    "nombre_busqueda": "contraverificación análisis Instituto Nacional de Alimentos",
+    "resumen": "Si una empresa recibe una notificación de desvío en un producto, puede solicitar una pericia de control en 3 días mediante la plataforma TAD.",
+    "sinonimos": [
+      "solicitud de pericia de control",
+      "contraverificación de laboratorio"
+    ],
+    "temas": [
+      "bromatologia-y-alimentos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto Nacional de Alimentos",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas elaboradoras de alimentos"
+    ],
+    "requisitos": [
+      {
+        "texto": "Adherir el servicio ante la AFIP accediendo con clave fiscal",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ingresar en la plataforma TAD",
+        "aclaracion": null
+      },
+      {
+        "texto": "Completar todos los datos del Solicitante",
+        "aclaracion": null
+      },
+      {
+        "texto": "Adjuntar la documentación solicitada en caso de corresponder",
+        "aclaracion": null
+      },
+      {
+        "texto": "Completar toda la información requerida",
+        "aclaracion": null
+      },
+      {
+        "texto": "Aceptar los términos y condiciones",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar en la plataforma TAD"
+      },
+      {
+        "texto": "Completar todos los datos del Solicitante"
+      },
+      {
+        "texto": "Adjuntar la documentación solicitada en caso de corresponder y completar toda la información requerida"
+      },
+      {
+        "texto": "Aceptar los términos y condiciones"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La solicitud debe hacerse dentro del plazo de los 3 días de notificado según el Decreto Reglamentario 2126/71 de la Ley 18284, Art 14, Inc d)"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-contraverificacion-de-analisis-al-instituto-nacional-de-alimentos",
+      "titulo": "Solicitar la contraverificación de análisis al Instituto Nacional de Alimentos | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T09:46:33.542Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T09:46:33.542Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/",
+      "titulo": "Inicio | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T09:46:33.542Z"
+    }
+  ],
+  "sin_confirmar": [
+    "la fecha de vigencia de la resolución o decreto que regula el plazo de 3 días",
+    "el monto de la tasa o costo de la pericia de control",
+    "la dirección exacta de las oficinas del Instituto Nacional de Alimentos para trámites presenciales"
+  ]
+}

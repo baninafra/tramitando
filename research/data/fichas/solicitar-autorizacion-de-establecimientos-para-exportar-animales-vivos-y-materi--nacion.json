@@ -1,0 +1,141 @@
+{
+  "tramite": {
+    "slug": "solicitar-autorizacion-de-establecimientos-para-exportar-animales-vivos-y-material",
+    "nombre": "Solicitar autorización de establecimientos para exportar animales vivos y material",
+    "nombre_busqueda": "autorizacion exportacion animales vivos material reproductivo senasa",
+    "resumen": "El trámite permite solicitar la autorización de establecimientos agropecuarios para exportar animales vivos y material reproductivo a terceros países que lo requieran. Se debe verificar un acuerdo sanitario vigente y cumplir con las exigencias del país de destino.",
+    "sinonimos": [
+      "autorizacion exportacion animales vivos senasa",
+      "habilitacion establecimientos exportacion material reproductivo"
+    ],
+    "temas": [
+      "animales-y-zoonosis"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Todas las personas interesadas en solicitar la habilitación de establecimientos para exportar animales vivos y/o material reproductivo a aquellos países que lo requieran."
+    ],
+    "requisitos": [
+      {
+        "texto": "Verificá la existencia de un acuerdo sanitario vigente para exportar a ese destino esa mercancía.",
+        "aclaracion": null
+      },
+      {
+        "texto": "El establecimiento inscripto en el RENSPA (Registro Nacional Sanitario de Productores Agropecuarios).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para el caso de Centros de semen y embriones el establecimiento debe contar con la habilitación nacional.",
+        "aclaracion": null
+      },
+      {
+        "texto": "El usuario no debe registrar deuda con el Organismo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Exigencias del país de destino para habilitar su establecimiento para exportar esa mercancía.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Completá el Cuestionario o Formulario exigido por el servicio veterinario del tercer país según mercancía a exportar, en caso que se exija.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma de trámites a distancia TAD."
+      },
+      {
+        "texto": "Logueate con su Clave Fiscal AFIP."
+      },
+      {
+        "texto": "Ingresá al trámite denominado 'Solicitud de Autorización de Establecimientos para Exportar animales o material reproductivo a terceros países'."
+      },
+      {
+        "texto": "Completá el formulario."
+      },
+      {
+        "texto": "Adjuntá la documentación correspondiente según punto anterior."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Sanidad Animal",
+      "direccion": "Av. Paseo Colón Nº 367, piso 4º frente, C1063ACE, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-autorizacion-de-establecimientos-para-exportar-animales-vivos-y-material"
+    },
+    {
+      "nombre": "Centro Regional Metropolitano",
+      "direccion": "Azopardo 1020 - CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-autorizacion-de-establecimientos-para-exportar-animales-vivos-y-material"
+    },
+    {
+      "nombre": "Laboratorio Central",
+      "direccion": "Talcahuano 1660 – Martínez, Provincia de Buenos Aires",
+      "localidad": "Martínez",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-autorizacion-de-establecimientos-para-exportar-animales-vivos-y-material"
+    },
+    {
+      "nombre": "Centro Regional Buenos Aires",
+      "direccion": "Mar de Plata, Provincia de Buenos Aires",
+      "localidad": "Mar de Plata",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-autorizacion-de-establecimientos-para-exportar-animales-vivos-y-material"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-autorizacion-de-establecimientos-para-exportar-animales-vivos-y-material",
+      "titulo": "Solicitar autorización de establecimientos para exportar animales vivos y material reproductivo a terceros países | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T04:17:46.275Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T04:17:46.275Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T04:17:46.275Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si se requiere sacar turno, consultar la página de turnos del Senasa."
+  ]
+}

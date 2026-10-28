@@ -1,0 +1,120 @@
+{
+  "tramite": {
+    "slug": "castraciones-y-vacunas",
+    "nombre": "Castraciones y vacunas",
+    "nombre_busqueda": "Castración perros gatos zoonosis",
+    "resumen": "La Municipalidad de Anisacate ofrece castraciones para hembras y machos de perros y gatos, así como vacunas antirrábicas. Se debe solicitar turno y llevar los animales.",
+    "sinonimos": [
+      "Castración canina",
+      "Castración felina",
+      "Vacuna antirrábica",
+      "Control zoonótico"
+    ],
+    "temas": [
+      "animales-y-zoonosis",
+      "castraciones-y-vacunas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141375",
+  "organismo": {
+    "nombre": "Municipalidad de Anisacate",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Dueños de perros y gatos que deseen castrar a sus animales o aplicar vacunas antirrábicas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Solicitar turno para castración.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Llevar el animal a castrar.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Solicitá turno para castración."
+      },
+      {
+        "texto": "Llevá el animal a castrar."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Las castraciones caninas hembras se realizan desde el 1/2024 al 9/2025.",
+      "Las castraciones caninas machos se realizan desde el 1/2024 al 9/2025.",
+      "Las castraciones felinas hembras se realizan desde el 1/2024 al 9/2025.",
+      "Las castraciones felinas machos se realizan desde el 1/2024 al 9/2025.",
+      "Las vacunas antirrábicas se colocan desde el 1/2024 al 9/2025.",
+      "El total de castraciones realizadas entre el 07/2024 y el 01/2026 es 3547582570.",
+      "Consultá los horarios de vacunación en los dispensarios y clínicas médicas de la Dirección de Salud."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dispensario 1",
+      "direccion": "Dispensario 1",
+      "localidad": "Dispensario 1",
+      "horario": null,
+      "fuente_url": "https://anisacatemunicipio.gob.ar/zoonosis/"
+    },
+    {
+      "nombre": "Dispensario 2",
+      "direccion": "Dispensario 2",
+      "localidad": "Dispensario 2",
+      "horario": null,
+      "fuente_url": "https://anisacatemunicipio.gob.ar/zoonosis/"
+    },
+    {
+      "nombre": "Los Talas",
+      "direccion": "Los Talas",
+      "localidad": "Los Talas",
+      "horario": null,
+      "fuente_url": "https://anisacatemunicipio.gob.ar/zoonosis/"
+    },
+    {
+      "nombre": "Villa Río",
+      "direccion": "Villa Río",
+      "localidad": "Villa Río",
+      "horario": null,
+      "fuente_url": "https://anisacatemunicipio.gob.ar/zoonosis/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://anisacatemunicipio.gob.ar/zoonosis/",
+      "titulo": "Zoonosis – Municipalidad de Anisacate",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T08:21:31.453Z"
+    },
+    {
+      "url": "https://anisacatemunicipio.gob.ar/direccion-de-salud/",
+      "titulo": "Dirección de Salud – Municipalidad de Anisacate",
+      "bloques": [
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T08:21:31.453Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el monto de los costos de las castraciones ni las vacunas.",
+    "No se especifica la fecha exacta de vigencia de los horarios de vacunación.",
+    "No se especifica la URL para solicitar el turno."
+  ]
+}

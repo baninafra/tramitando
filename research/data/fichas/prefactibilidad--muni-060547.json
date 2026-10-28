@@ -1,0 +1,106 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-factibilidad-comercial",
+    "nombre": "Solicitar la factibilidad comercial",
+    "nombre_busqueda": "prefactibilidad para habilitar un comercio",
+    "resumen": "Completá la solicitud para que evalúen si el uso del suelo y las ordenanzas permiten incorporar tu comercio en la dirección indicada. Te comunicarán si es factible en un plazo aproximado de 5 días hábiles.",
+    "sinonimos": [
+      "solicitud de prefactibilidad comercial",
+      "factibilidad para habilitar un comercio"
+    ],
+    "temas": [
+      "habilitacion-comercial"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060547",
+  "organismo": {
+    "nombre": "Municipalidad de Monte",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés solicitar la evaluación de factibilidad del rubro comercial o actividad que querés habilitar en una dirección."
+    ],
+    "requisitos": [
+      {
+        "texto": "Copia de tu DNI o CUIT.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Impuesto inmobiliario o municipal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos del responsable: nombre o razón social, número de DNI o CUIT, rubro general, productos o servicios anexos, nomenclatura catastral y teléfono.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dirección y superficie en metros cuadrados del comercio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Correo electrónico y confirmación del correo electrónico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Aceptá que la respuesta puede ser negativa y que no podés abrir el comercio hasta obtener la habilitación comercial.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario con los datos del responsable, del comercio y la dirección."
+      },
+      {
+        "texto": "Indicá si querés el servicio de asesoramiento."
+      },
+      {
+        "texto": "Adjuntá la copia de tu DNI o CUIT y el impuesto inmobiliario o municipal."
+      },
+      {
+        "texto": "Aceptá la notificación sobre el alcance de la solicitud y las condiciones para avanzar antes de obtener una respuesta y la habilitación."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "Te comunicarán si el comercio es factible en un plazo aproximado de 5 días hábiles.",
+    "consejos": [
+      "Esperá la respuesta de factibilidad antes de avanzar con el contrato de alquiler u otras cuestiones.",
+      "No abras el comercio hasta obtener la habilitación comercial.",
+      "Si solicitás asesoramiento, se evaluará la factibilidad del proyecto y se inspeccionarán las instalaciones propuestas para recomendar el uso del espacio y los elementos necesarios."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Palacio Municipal",
+      "direccion": "Calle Laura Giagnacovo N° 636",
+      "localidad": "Monte, Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://monte.gob.ar/comercio/prefactibilidad/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://monte.gob.ar/comercio/prefactibilidad/",
+      "titulo": "Pre Factibilidad – Paso 1 - Municipalidad de Monte",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos",
+        "resumen",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T15:08:44.111Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se indica si la solicitud tiene costo.",
+    "No se informa si hace falta sacar turno."
+  ]
+}

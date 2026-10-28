@@ -1,0 +1,92 @@
+{
+  "tramite": {
+    "slug": "consulta-expediente-obras-registradas",
+    "nombre": "Consulta de expediente de obras registradas",
+    "nombre_busqueda": "Consulta expediente obra registrada",
+    "resumen": "Permite acceder a expedientes de obras particulares registradas en el Departamento Registro y Permisos de Obras presentando documentación que acredite la titularidad.",
+    "sinonimos": [
+      "Consulta obra registrada",
+      "Verificar obra particular"
+    ],
+    "temas": [
+      "obras-y-construccion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Si lo solicita el titular.",
+      "Cuando el solicitante coincide con el titular."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de Solicitud",
+        "aclaracion": null
+      },
+      {
+        "texto": "D.N.I. (Fotocopia)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento que acredite la titularidad (original y fotocopia)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Escritura, boleto compra venta o firma declaración en oficinas de Catastro. Sellado administrativo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota del propietario autorizando a hacer el pedido",
+        "aclaracion": "Si el solicitante no coincide con el titular."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Vení a Chiclana 453, de lunes a viernes entre las 7.45 y las 13 horas."
+      },
+      {
+        "texto": "Dirigite al fondo, pasando por debajo de la escalera."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Departamento Registro y Permisos de Obras",
+      "direccion": "Chiclana 453",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/obrasparticulares/consultaexpediente/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/tramites/obrasparticulares/consultaexpediente/",
+      "titulo": "Solicitud / Consulta de Expediente de Obras Registrados | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien",
+        "pasos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T08:53:58.413Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el monto de la tasa.",
+    "No se especifica el plazo de respuesta.",
+    "No se especifica si se requiere turno."
+  ]
+}

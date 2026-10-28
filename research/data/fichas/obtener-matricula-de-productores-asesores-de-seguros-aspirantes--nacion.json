@@ -1,0 +1,121 @@
+{
+  "tramite": {
+    "slug": "obtener-matricula-de-productores-asesores-de-seguros-aspirantes",
+    "nombre": "Obtener matrícula de Productores Asesores de Seguros Aspirantes",
+    "nombre_busqueda": "Obtener matrícula Productores Asesores de Seguros Aspirantes",
+    "resumen": "Podés obtener la matrícula de Productor Asesor de Seguros e ingresar en el Registro de la Superintendencia de Seguros de la Nación en línea. Si sos aspirante, necesitás acreditar haber aprobado el examen de competencia.",
+    "sinonimos": [
+      "Matrícula Productor Asesor de Seguros Aspirante",
+      "Inscripción Productor Asesor de Seguros"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo",
+      "monotributo-social-y-general"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Seguros de la Nación",
+    "sigla": "SSN",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes quieran operar como Productor Asesor de Seguros",
+      "Aspirantes Técnicos en Seguros"
+    ],
+    "requisitos": [
+      {
+        "texto": "Usuario de acceso a Trámites a Distancia (TAD)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Foto carnet de 4x4 cm en formato pdf, doc, docx, xlsx, jpg, jpeg, png, bmp, gif, tiff, tif, html o en dwf",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI (ambas caras)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título Secundario",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de pago del derecho de inscripción",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si sos Aspirante (Técnico en Seguros): Diploma de la tecnicatura y validación de Titulo Tecnicatura –opción Lic/Téc. en Seguros",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si sos Aspirante: Certificado extendido por el Ente Cooperador Ley 22.400 que acredita haber aprobado el examen de competencia",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD, trámite Productor Asesor de Seguros / Aspirantes, con clave fiscal."
+      },
+      {
+        "texto": "Seleccioná la opción Aspirante o Aspirante (Técnico en seguros) según te corresponda."
+      },
+      {
+        "texto": "Completá los datos y adjuntá los documentos solicitados."
+      },
+      {
+        "texto": "Finalizada la carga confirma los datos ingresados."
+      },
+      {
+        "texto": "El sistema generará un número de expediente ante la SSN."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 3300000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/obtener-matricula-de-productores-asesores-de-seguros-aspirantes"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-matricula-de-productores-asesores-de-seguros-aspirantes",
+      "titulo": "Obtener matrícula de Productores Asesores de Seguros / Aspirantes | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T06:41:37.898Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T06:41:37.898Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Fecha de vigencia exacta de la matrícula",
+    "Plazo de resolución del expediente",
+    "Dirección de oficinas para atención presencial"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "tramite": {
+    "slug": "solicitar-modificacion-datos-familiares",
+    "nombre": "Solicitar la modificación de datos familiares",
+    "nombre_busqueda": "modificar datos familiares IAF",
+    "resumen": "Actualizá la base de datos del Instituto de Ayuda Financiera para retirados y pensionistas militares que hayan sufrido cambios en su grupo familiar.",
+    "sinonimos": [
+      "modificar datos IAF",
+      "actualizar familia IAF"
+    ],
+    "temas": [
+      "familia-y-pareja"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Retirados y pensionistas militares que perciban su beneficio a través del IAF."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documentación que acredite la modificación a realizar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta de matrimonio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta de nacimiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Sentencia de divorcio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta de defunción.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate con la documentación requerida a la sede central del IAF, Cerrito 572 – CABA o las Delegaciones del Interior."
+      },
+      {
+        "texto": "Presentá la documentación en el horario de 08:00 a 13:00 horas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Comunicate al call center 0810-222-2423 en el horario de 08:00 a 15:00 horas para recibir indicaciones sobre cómo completar el trámite.",
+      "Podés enviar la copia de la documentación requerida junto al Formulario de Declaración Jurada de Asignaciones Familiares e Ingresos por correo postal al Instituto de Ayuda Financiera - Div. Salario Familiar - Cerrito 572 (C1010AAL) - Ciudad Autónoma de Buenos Aires.",
+      "Si estás registrado en el portal eIAF Beneficiarios o en la App eIAF, ingresá con tu CUIL y contraseña y dejá tu solicitud en el apartado Sistema Integrado de Consultas."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-modificacion-de-datos-familiares",
+      "titulo": "Solicitar la modificación de datos familiares. | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T09:37:58.560Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia del trámite.",
+    "El plazo máximo para realizar la modificación."
+  ]
+}

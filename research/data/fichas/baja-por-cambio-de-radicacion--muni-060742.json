@@ -1,0 +1,71 @@
+{
+  "tramite": {
+    "slug": "baja-por-cambio-de-radicacion",
+    "nombre": "Baja por cambio de radicación",
+    "nombre_busqueda": "Baja por cambio de radicación automotor",
+    "resumen": "Trámite para modificar la radicación de un automotor municipalizado. Requiere copia del título del automotor con la nueva dirección.",
+    "sinonimos": [
+      "Baja radicación automotor",
+      "Cambio de radicación vehículo"
+    ],
+    "temas": [
+      "patente-automotor-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060742",
+  "organismo": {
+    "nombre": "Municipalidad de San Cayetano",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona"
+    ],
+    "requisitos": [
+      {
+        "texto": "Copia del Título del automotor con la futura radicación",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la copia del Título del automotor con la futura radicación en la Oficina de Rentas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Rentas",
+      "direccion": "Av. San Martín 451",
+      "localidad": "San Cayetano",
+      "horario": null,
+      "fuente_url": "https://sancayetano.gob.ar/baja-por-cambio-de-radicacion/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://sancayetano.gob.ar/baja-por-cambio-de-radicacion/",
+      "titulo": "Baja por cambio de radicación - San Cayetano | Municipalidad",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T10:20:03.508Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto menciona que el trámite es pago, pero no especifica el monto exacto en centavos.",
+    "No se indica si el trámite requiere turno ni cuál es el plazo de atención."
+  ]
+}

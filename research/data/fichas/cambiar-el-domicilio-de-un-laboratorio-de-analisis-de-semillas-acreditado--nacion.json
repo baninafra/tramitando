@@ -1,0 +1,103 @@
+{
+  "tramite": {
+    "slug": "cambiar-domicilio-laboratorio-analisis-semillas",
+    "nombre": "Cambiar el domicilio de un laboratorio de análisis de semillas",
+    "nombre_busqueda": "cambiar domicilio laboratorio analisis semillas acreditado",
+    "resumen": "El laboratorio acreditado debe informar el cambio de domicilio o localización a la Dirección de Evaluación de Calidad dentro de los 30 días. Se requiere inscripción en el Registro Nacional de Comercio y Fiscalización de Semillas y el pago de una tasa.",
+    "sinonimos": [],
+    "temas": [
+      "cambios-y-baja-de-habilitacion",
+      "bromatologia-y-alimentos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto Nacional de Semillas",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Todo laboratorio de análisis de semillas acreditado que desee realizar un cambio de domicilio o localización."
+    ],
+    "requisitos": [
+      {
+        "texto": "Estar inscripto en el Registro Nacional de Comercio y Fiscalización de Semillas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago del trámite.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de declaración del responsable legal informando el cambio de domicilio o localización (la misma debe incluir el número de inscripción en el RNCyFS).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano o croquis a escala del laboratorio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano de localización del laboratorio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Control diario de la/s Cámara/s de Germinación (Registrando al menos 5 días).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Descargá, completá y cargá a través de la mesa de entradas digital los Formularios 174/177 y la documentación correspondiente, siguiendo los pasos descriptos en el Instructivo TAD Cambio de Domicilio."
+      },
+      {
+        "texto": "Una vez realizada la carga, enviá por correo electrónico a [email protected] el número de trámite que le brindará el sistema junto con el comprobante de pago del trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "30 días",
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 3705700,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/cambiar-el-domicilio-de-un-laboratorio-de-analisis-de-semillas-acreditado"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/cambiar-el-domicilio-de-un-laboratorio-de-analisis-de-semillas-acreditado",
+      "titulo": "Cambiar el domicilio de un laboratorio de análisis de semillas acreditado | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:36:45.783Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de Evaluación de Calidad",
+    "Formas de pago",
+    "Instructivo TAD Cambio de Domicilio",
+    "email de contacto",
+    "Mesa de entradas digital",
+    "Vigencia 365 días",
+    "Renovación anualidad categoría I subcategoria 1",
+    "Res. MERCOSUR 24/17",
+    "Res. INASE Nº 55/18",
+    "Res. Oficial de la Secretaría de Bioeconomía N°1/2024"
+  ]
+}

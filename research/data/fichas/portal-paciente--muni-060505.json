@@ -1,0 +1,74 @@
+{
+  "tramite": {
+    "slug": "portal-del-paciente-consulta-de-estudios-medicos",
+    "nombre": "Consultar estudios médicos",
+    "nombre_busqueda": "Portal del Paciente",
+    "resumen": "Consultá en línea los resultados de tus estudios, análisis y prácticas médicas. Después de realizarte el estudio, la administración del hospital te entrega los datos de acceso si todavía no tenés una cuenta.",
+    "sinonimos": [
+      "Portal paciente",
+      "Consultar resultados médicos"
+    ],
+    "temas": [
+      "salud-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060505",
+  "organismo": {
+    "nombre": "Hospital Santa María Magdalena",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Los pacientes del hospital pueden consultar sus estudios médicos en línea."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener los datos de acceso al portal: usuario y contraseña.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal paciente con tu usuario y contraseña."
+      },
+      {
+        "texto": "Consultá los resultados de tus estudios, análisis y prácticas médicas."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Realizate el estudio en el hospital."
+      },
+      {
+        "texto": "Retirá tus datos de acceso en la administración del hospital si todavía no tenés una cuenta."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "No podés crear una cuenta por tu cuenta. El personal autorizado del hospital gestiona el registro y la entrega de accesos para resguardar la confidencialidad de tu información médica."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://magdalena.gob.ar/detalle-guia-de-tramites-y-servicios/portal-paciente/",
+      "titulo": "Portal paciente : Magdalena",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:57:24.084Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa el plazo para que los resultados estén disponibles."
+  ]
+}

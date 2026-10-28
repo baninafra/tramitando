@@ -1,0 +1,118 @@
+{
+  "tramite": {
+    "slug": "reclamo-por-factura-del-servicio-de-gas-no-recibida",
+    "nombre": "Reclamo por factura del servicio de gas no recibida",
+    "nombre_busqueda": "Reclamo factura gas no recibida",
+    "resumen": "Si la Prestadora no responde o su respuesta es insatisfactoria, podés reclamar ante el ENARGAS. Mientras se tramita el reclamo, no estarás obligado a abonar la factura.",
+    "sinonimos": [
+      "Reclamo ENARGAS gas",
+      "Factura gas no recibida"
+    ],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ente Nacional Regulador del Gas",
+    "sigla": "ENARGAS",
+    "web": "https://www.argentina.gob.ar/servicio/reclamo-por-factura-del-servicio-de-gas-no-recibida"
+  },
+  "contenido": {
+    "quien_puede": [
+      "El cliente y/o el usuario."
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia del reclamo formulado ante la Prestadora.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descripción del reclamo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Efectuá el reclamo ante la Prestadora del Servicio."
+      },
+      {
+        "texto": "Consultá las direcciones y números telefónicos de la Prestadora en su factura de gas."
+      },
+      {
+        "texto": "Exijé el número de reclamo correspondiente y el plazo estimativo para la resolución."
+      },
+      {
+        "texto": "Contactate con el ENARGAS telefónicamente o por fax si la Distribuidora no responde luego de 15 días o su respuesta es insatisfactoria."
+      },
+      {
+        "texto": "Ingresá al Formulario de Reclamo de la página web del ENARGAS."
+      },
+      {
+        "texto": "Completá los datos personales del reclamante (DNI, e-mail, domicilio postal, localidad, código postal, provincia, teléfono)."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Personalmente en Sede Central, Suipacha 636, C1008AAN, Ciudad Autónoma de Buenos Aires o en la Sede más próxima a su domicilio, días hábiles de 10 a 16 hs."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Importante: Mientras se tramita el reclamo el reclamante no estará obligado a abonar la/s factura/s reclamada/s.",
+      "Importante: siempre conservé el número de su reclamo.",
+      "Importante: exijé el número de reclamo correspondiente y el plazo estimativo para la resolución, datos que la Prestadora está obligada a proporcionarle."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central",
+      "direccion": "Suipacha 636, C1008AAN, Ciudad Autónoma de Buenos Aires",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/reclamo-por-factura-del-servicio-de-gas-no-recibida"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reclamo-por-factura-del-servicio-de-gas-no-recibida",
+      "titulo": "Reclamo por factura del servicio de gas no recibida | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T03:13:58.116Z"
+    },
+    {
+      "url": "https://www.enargas.gob.ar/secciones/contacto/reclamos-formulario.php",
+      "titulo": "ENReGE",
+      "bloques": [
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T03:13:58.116Z"
+    },
+    {
+      "url": "https://www.enargas.gov.ar/secciones/oficina-virtual/oficina-virtual.php",
+      "titulo": "Oficina virtual ENARGAS",
+      "bloques": [
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T03:13:58.116Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica el plazo exacto para la resolución del reclamo ante el ENARGAS, solo menciona que la Prestadora debe informar un plazo estimativo.",
+    "El texto no detalla si el trámite requiere turno para la Sede Central o las sedes más próximas."
+  ]
+}

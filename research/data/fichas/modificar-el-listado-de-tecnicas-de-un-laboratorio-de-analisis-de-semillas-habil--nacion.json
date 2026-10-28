@@ -1,0 +1,100 @@
+{
+  "tramite": {
+    "slug": "modificar-listado-tecnicas-laboratorio-analisis-semillas",
+    "nombre": "Modificar el listado de técnicas de un laboratorio de análisis de semillas habilitado",
+    "nombre_busqueda": "Modificar listado técnicas laboratorio semillas",
+    "resumen": "El director técnico de un laboratorio de análisis de semillas habilitado puede solicitar la inclusión o baja de técnicas mediante la mesa de entradas digital del INASE.",
+    "sinonimos": [],
+    "temas": [
+      "habilitacion-comercial",
+      "cambios-y-baja-de-habilitacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto Nacional de Semillas",
+    "sigla": "INASE",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Al director técnico de un laboratorio de análisis de semillas habilitado que requiera modificar el listado de técnicas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Estar inscripto en el Registro Nacional de Comercio y Fiscalización de Semillas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago del trámite.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario FO172 Listado de equipamiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario FO173 Listado de Técnicas a habilitar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación correspondiente a la técnica a incluir según el checklist de inclusión.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de declaración del Director Técnico donde indique la técnica a dar de baja incluyendo el número de inscripción en el RNCyFS.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Descargá, completá y cargá a través de la mesa de entradas digital el formulario de modificación del listado de técnicas y la documentación según se indica en el check list de inclusión de técnicas."
+      },
+      {
+        "texto": "Una vez realizada la carga, envías por correo electrónico a la Dirección de Evaluación de Calidad del INASE el número de trámite que le brindara el sistema junto con el comprobante de pago del trámite."
+      },
+      {
+        "texto": "Exponés al público el nuevo certificado de habilitación recibido."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "30 días",
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 5462100,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/modificar-el-listado-de-tecnicas-de-un-laboratorio-de-analisis-de-semillas-habilitado"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/modificar-el-listado-de-tecnicas-de-un-laboratorio-de-analisis-de-semillas-habilitado",
+      "titulo": "Modificar el listado de técnicas de un laboratorio de análisis de semillas habilitado | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T06:01:38.617Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de Evaluación de Calidad del INASE",
+    "email de contacto",
+    "instructivo CARGA DE DOCUMENTOS EN TAD",
+    "Resoluciones relacionadas: 58/00 218/04 236/18",
+    "Res. Oficial de la Secretaría de Bioeconomía N°1/2024"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "tramite": {
+    "slug": "poda-y-arbolado",
+    "nombre": "Solicitud de poda de arbolado urbano",
+    "nombre_busqueda": "Solicitud poda arbolado",
+    "resumen": "Para solicitar la poda o intervención de árboles públicos en Carmen de Areco, se debe presentar una solicitud formal a la Coordinación de Medio Ambiente e Higiene Urbana adjuntando la documentación requerida.",
+    "sinonimos": [
+      "Solicitud poda arboles",
+      "Intervencion arbolado publico",
+      "Reposicion arbol"
+    ],
+    "temas": [
+      "ambiente-municipal",
+      "servicios-urbanos-y-reclamos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060161",
+  "organismo": {
+    "nombre": "Municipalidad de Carmen de Areco",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier ciudadano que requiera la poda o intervención de un árbol público."
+    ],
+    "requisitos": [
+      {
+        "texto": "Solicitud formal de poda o intervención.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Identificación del árbol a intervenir (ubicación exacta).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Justificación de la necesidad de la poda o intervención.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la solicitud formal de poda o intervención en la Coordinación de Medio Ambiente e Higiene Urbana."
+      },
+      {
+        "texto": "Adjuntá la identificación del árbol a intervenir y la justificación de la necesidad."
+      },
+      {
+        "texto": "Recibí el comprobante de recepción de tu solicitud."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Medio Ambiente e Higiene Urbana",
+      "direccion": "Municipalidad Moreno 541",
+      "localidad": "Carmen de Areco",
+      "horario": null,
+      "fuente_url": "https://carmendeareco.gob.ar/arbolado-urbano/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://carmendeareco.gob.ar/arbolado-urbano/",
+      "titulo": "Arbolado urbano | Carmen de Areco - Municipio",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T04:17:33.972Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere especificar si la solicitud es para poda, reposición o mejoramiento del arbolado.",
+    "No se indica el plazo de respuesta o ejecución de la solicitud."
+  ]
+}

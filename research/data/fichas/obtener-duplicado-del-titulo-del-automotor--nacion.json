@@ -1,0 +1,115 @@
+{
+  "tramite": {
+    "slug": "obtener-duplicado-del-titulo-del-automotor",
+    "nombre": "Obtener duplicado del título del automotor",
+    "nombre_busqueda": "Duplicado título automotor",
+    "resumen": "Si extraviaste, te robaron o se deterioró el título de tu auto, moto o maquinaria, tenés que tramitar el duplicado. El trámite lleva 24 horas y es semipresencial.",
+    "sinonimos": [
+      "Duplicado título vehículo",
+      "Reemplazo título automotor"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro de la Propiedad Automotor",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Al dueño de un auto, moto o maquinaria."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento identificatorio: DNI (LC o LE sólo si tenés más de 75 años) si sos argentino.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pasaporte si sos extranjero sin residencia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI si sos extranjero con residencia permanente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dni, ci, ci del país de origen o pasaporte si sos de países limítrofes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La constancia de Documento en trámite no acredita identidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentos que prueben la representación si sos el representante legal o apoderado.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá la solicitud electrónica (buscá el trámite llamado duplicado de título)."
+      },
+      {
+        "texto": "Aboná los aranceles en línea."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación en el Registro donde está radicado el vehículo."
+      },
+      {
+        "texto": "Podés pagár allí los aranceles si no los pagaste en línea."
+      },
+      {
+        "texto": "Te entregarán unos formularios para que completes: Solicitud Tipo TP (la misma que completaste en línea, solo que en el registro la imprimirán y la deberás firmar)."
+      },
+      {
+        "texto": "Formulario 59: Deberás completar este formulario sólo en caso de que el trámite lo realice un tercero."
+      },
+      {
+        "texto": "Retirá el duplicado del título al día siguiente en el Registro o descargalo en el sitio web."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "24 horas",
+    "consejos": [
+      "Tené presente que en los casos de pérdida o hurto del título también debés hacer la verificación física del vehículo, no así en caso de deterioro.",
+      "En caso de deterioro total o parcial: título del automotor en el momento de completar el trámite en forma presencial en el Registro.",
+      "El título del automotor no tiene vencimiento."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-duplicado-del-titulo-del-automotor",
+      "titulo": "Obtener duplicado del título del automotor | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T06:36:03.979Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T06:36:03.979Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los aranceles varían en función de si el vehículo es una moto o un auto. Los aranceles involucrados son: Título duplicado. Certificado de firma. Formulario TP. Formulario 13. Solicitud deuda / multa /infracción. Consultá los aranceles en la DNRPA.",
+    "Vigencia: El título del automotor no tiene vencimiento."
+  ]
+}

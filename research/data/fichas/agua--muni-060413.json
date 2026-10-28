@@ -1,0 +1,68 @@
+{
+  "tramite": {
+    "slug": "conexion-de-agua-corriente",
+    "nombre": "Conexión de agua corriente",
+    "nombre_busqueda": "Conexión de agua corriente",
+    "resumen": "Presentá los requisitos indicados para solicitar una conexión de agua corriente.",
+    "sinonimos": [],
+    "temas": [
+      "conexion-de-agua-y-cloacas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060413",
+  "organismo": {
+    "nombre": "Gobierno de Junín",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "La página no indica quiénes pueden solicitar la conexión."
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia de la escritura o del boleto de compra/venta.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del plano general.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Recibo de pago al consorcio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planilla firmada por un matriculado.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.junin.gob.ar/content/agua",
+      "titulo": "Agua | Gobierno de Junín",
+      "bloques": [
+        "requisitos",
+        "resumen",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T13:55:44.319Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Quiénes pueden solicitar la conexión.",
+    "Pasos para realizar el trámite.",
+    "Costo de la conexión.",
+    "Si se requiere turno, dónde se realiza y el plazo del trámite."
+  ]
+}

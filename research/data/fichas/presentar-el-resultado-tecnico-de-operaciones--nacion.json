@@ -1,0 +1,102 @@
+{
+  "tramite": {
+    "slug": "presentar-resultado-tecnico-operaciones",
+    "nombre": "Presentar el resultado técnico de operaciones",
+    "nombre_busqueda": "informe de resultados técnicos de aseguradoras",
+    "resumen": "Las entidades aseguradoras presentan ante la Superintendencia de Seguros de la Nación un informe circunstanciado cuando tienen resultados negativos al cierre de un ejercicio económico. El trámite se hace en línea por TAD y la presentación es anual.",
+    "sinonimos": [
+      "Resultado Técnico de las Operaciones",
+      "Informe Circunstanciado del Resultado Técnico"
+    ],
+    "temas": [
+      "comercio-e-industria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Seguros de la Nación",
+    "sigla": "SSN",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Entidades aseguradoras."
+    ],
+    "requisitos": [
+      {
+        "texto": "Cada firmante debe tener usuario de acceso a Trámites a Distancia (TAD).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informe circunstanciado sobre los motivos que provocaron los resultados negativos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación actuarial.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD con tu clave fiscal como apoderado de la entidad aseguradora en AFIP."
+      },
+      {
+        "texto": "Indicá que vas a actuar como apoderado de la entidad."
+      },
+      {
+        "texto": "Buscá el trámite “Resultado Técnico de las Operaciones (Res. 38.935)”."
+      },
+      {
+        "texto": "Completá el formulario y adjuntá la documentación solicitada."
+      },
+      {
+        "texto": "Iniciá el proceso de firmas conjuntas."
+      },
+      {
+        "texto": "Pediles a los firmantes seleccionados que firmen la documentación en TAD."
+      },
+      {
+        "texto": "Obtené en TAD los números correspondientes del sistema de Gestión Documental Electrónico (GDE)."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": false,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El trámite tiene vigencia permanente y la presentación se realiza anualmente.",
+      "Si tenés consultas, llamá gratis al 0800-666-8400."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": true,
+      "monto_centavos": null,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/presentar-el-resultado-tecnico-de-operaciones"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/presentar-el-resultado-tecnico-de-operaciones",
+      "titulo": "Presentar el resultado técnico de operaciones | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T13:03:22.298Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica una fecha exacta de inicio de vigencia."
+  ]
+}

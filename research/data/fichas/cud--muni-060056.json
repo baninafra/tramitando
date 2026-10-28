@@ -1,0 +1,86 @@
+{
+  "tramite": {
+    "slug": "certificado-unico-de-discapacidad",
+    "nombre": "Certificado Único de Discapacidad",
+    "nombre_busqueda": "Certificado Único de Discapacidad CUD",
+    "resumen": "Documento público que acredita una alteración funcional permanente o transitoria que implica desventajas para la integración social o laboral. Se otorga por una Junta Interdisciplinaria Evaluadora.",
+    "sinonimos": [
+      "CUD",
+      "Certificado de Discapacidad",
+      "Certificado Único de Discapacidad"
+    ],
+    "temas": [
+      "discapacidad-y-accesibilidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Toda persona que tenga una alteración funcional permanente, transitoria o prolongada, física, sensorial o mental, que en relación a su edad y medio social implique desventajas considerables para su adecuada integración familiar, social o laboral."
+    ],
+    "requisitos": [
+      {
+        "texto": "Solicitud presentada por la persona interesada o por su representante legal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que acredite la alteración funcional.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta de nacimiento o documento de identidad vigente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la solicitud y la documentación requerida en la Junta Interdisciplinaria Evaluadora."
+      },
+      {
+        "texto": "Esperá la evaluación por parte de la junta interdisciplinaria."
+      },
+      {
+        "texto": "Retirá el Certificado Único de Discapacidad una vez aprobado el expediente."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Junta Interdisciplinaria Evaluadora",
+      "direccion": "Alsina 335",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/cud/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/tramites/cud/",
+      "titulo": "Certificado Único de Discapacidad (CUD) | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T08:53:12.005Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere información específica sobre los documentos exactos que deben presentarse para acreditar la alteración funcional.",
+    "Se requiere información específica sobre el plazo de espera para la evaluación y la entrega del certificado."
+  ]
+}

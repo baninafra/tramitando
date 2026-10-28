@@ -1,0 +1,91 @@
+{
+  "tramite": {
+    "slug": "presentar-planes-integrales-de-salud",
+    "nombre": "Presentar planes integrales de salud",
+    "nombre_busqueda": "Presentar planes integrales de salud",
+    "resumen": "Este trámite es para que las Entidades de Medicina Prepaga declaren sus Planes de Salud con el listado de prestaciones, los prestadores y el cuadro tarifario.",
+    "sinonimos": [],
+    "temas": [
+      "obra-social-y-prepaga",
+      "carnet-sanitario"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Servicios de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Entidades de Medicina Prepaga enmarcadas en la Ley 26.682"
+    ],
+    "requisitos": [
+      {
+        "texto": "Declaración Jurada (en PDF) generada a través de la página web de la SSSalud",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plan de Salud (en PDF)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cuadro Tarifario del Plan de Salud (en PDF)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Archivo Excel con Anexo III: descargado desde el listado Descargas y completado con los datos de la entidad, guardado en el formato original agregando adelante del nombre el N° de RNEMP según la nomenclatura xxxxxx - anexo iii - Res.2165-21 y reemplazando las XXXXXX con el Nº RNEMP correspondiente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Anexo IV – Discapacidad (en PDF)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la aplicación de la Superintendencia de Servicios de Salud con tu usuario y clave de acceso"
+      },
+      {
+        "texto": "Generá la Declaración Jurada (DDJJ) siguiendo las indicaciones del manual del usuario que encontrás en el link de Ayuda dentro de la aplicación"
+      },
+      {
+        "texto": "Ingresá al trámite mediante la plataforma de Trámites A Distancia con usuario apoderado de la Entidad y cargá la documentación solicitada"
+      },
+      {
+        "texto": "Hacé clic en Confirmar Trámite"
+      },
+      {
+        "texto": "Seguí el expediente electrónico mediante la pestaña Mis Tramites del portal de Trámites a Distancia (TAD)"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si no poseés usuario en la aplicación, gestionalo a través del Registro de Usuarios",
+      "Si no tenés acceso con tu usuario web, solicitá el permiso a [email protected]",
+      "Se podrán realizar consultas técnicas e informáticas sobre la aplicación en la mesa de ayuda de la Superintendencia, comunicándose al 011-4344-2800 Internos 2783/2962 en el horario de 10:00 a 16:00 h"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/presentar-planes-integrales-de-salud",
+      "titulo": "Presentar Planes Integrales de Salud | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T01:18:59.751Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica el plazo de tiempo para la presentación del trámite."
+  ]
+}

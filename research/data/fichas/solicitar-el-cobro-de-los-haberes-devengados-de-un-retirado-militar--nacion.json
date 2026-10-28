@@ -1,0 +1,120 @@
+{
+  "tramite": {
+    "slug": "solicitar-cobro-haberes-devengados-retirado-militar",
+    "nombre": "Solicitar el cobro de los haberes devengados de un retirado militar",
+    "nombre_busqueda": "cobro haberes devengados retirado militar fallecido",
+    "resumen": "Tramite el pago de los haberes y aguinaldo pendientes de un retirado militar fallecido a favor de sus deudos. Es gratuito y requiere documentación específica según quién sea el beneficiario.",
+    "sinonimos": [
+      "cobro haberes devengados fallecido",
+      "pago haberes pendientes militar",
+      "liquidación haberes fallecido"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares",
+    "sigla": "IAF",
+    "web": "https://www.argentina.gob.ar/iaf"
+  },
+  "contenido": {
+    "quien_puede": [
+      "A los derechohabientes del retirado fallecido.",
+      "No corresponde el pago a convivientes."
+    ],
+    "requisitos": [
+      {
+        "texto": "Partida de defunción.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del/de los solicitante/s.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia bancaria donde figure N° cuenta, CBU y sucursal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si sos la esposa del titular: Acta de matrimonio actualizada con fecha posterior al fallecimiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si sos heredero directo del titular: Partida de nacimiento del/ de los solicitante/s.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si son herederos laterales del titular o varios hijos y no autorizan a uno de ustedes a percibir el haber devengado: Oficio Judicial firmado por el Juez que intervino en la Sucesión, mediante el cual nos informen los datos de la cuenta judicial donde debemos hacer del depósito (Entidad bancaria, su…",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate con la documentación requerida a la sede central del IAF, Cerrito 572 – CABA o las Delegaciones del Interior."
+      },
+      {
+        "texto": "Presentá la documentación requerida."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "3 meses",
+    "consejos": [
+      "El plazo de prescripción para el reclamo de los haberes devengados es de DOS (2) años a partir de la fecha de fallecimiento del titular.",
+      "La documentación requerida puede variar según quién realice el trámite.",
+      "Te sugerimos consultar telefónicamente o de forma presencial para analizar cada caso en particular."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede central del IAF",
+      "direccion": "Cerrito 572",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-el-cobro-de-los-haberes-devengados-de-un-retirado-militar"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-el-cobro-de-los-haberes-devengados-de-un-retirado-militar",
+      "titulo": "Solicitar el cobro de los Haberes Devengados de un retirado militar. | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen",
+        "consejos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T08:49:45.884Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/iaf",
+      "titulo": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T08:49:45.884Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T08:49:45.884Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del plazo de prescripción (2 años) no está confirmada en el texto.",
+    "El horario de atención presencial (08:00 a 13:00 horas) no está confirmado en el texto.",
+    "El horario del call center (08:00 a 15:00 horas) no está confirmado en el texto."
+  ]
+}

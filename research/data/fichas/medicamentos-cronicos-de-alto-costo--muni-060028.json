@@ -1,0 +1,84 @@
+{
+  "tramite": {
+    "slug": "medicamentos-cronicos-de-alto-costo",
+    "nombre": "Medicamentos crónicos de alto costo",
+    "nombre_busqueda": "Medicamentos crónicos de alto costo",
+    "resumen": "Trámite municipal para obtener medicamentos esenciales de alto costo para tratamientos prolongados. Requiere receta médica, estudios diagnósticos y documentación socioeconómica. Solo para personas sin cobertura médica.",
+    "sinonimos": [],
+    "temas": [
+      "salud-municipal",
+      "medicamentos-y-farmacia-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060028",
+  "organismo": {
+    "nombre": "Municipio de Almirante Brown",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas sin cobertura médica que acrediten la necesidad mediante prescripción profesional y evaluación socioeconómica."
+    ],
+    "requisitos": [
+      {
+        "texto": "Receta médica realizada en el Recetario único, firmada y sellada por un médico/a registrado/a en el resumen de historia clínica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estudios que fundamenten el diagnóstico y tratamiento (biopsia, laboratorio, imágenes).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI donde conste el domicilio en la provincia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación negativa de ANSES que demuestre que la persona no cuenta con Obra Social o Prepaga.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en la oficina correspondiente."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Para tratamientos subsiguientes solo se debe presentar el Recetario único firmado por un médico registrado."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "CAPS 29",
+      "direccion": "Manuel de Lavardén 131",
+      "localidad": "Don Orione",
+      "horario": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/medicamentos-cronicos-de-alto-costo/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.brown.gob.ar/tramites/medicamentos-cronicos-de-alto-costo/",
+      "titulo": "Medicamentos Crónicos de Alto Costo",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien",
+        "donde",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T01:42:14.965Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere evaluación socioeconómica para la gestión del trámite.",
+    "No se especifica el plazo de atención ni el monto de los medicamentos.",
+    "No se indica si se requiere turno para la atención presencial."
+  ]
+}

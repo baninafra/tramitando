@@ -1,0 +1,76 @@
+{
+  "tramite": {
+    "slug": "pedidos-de-informes-la-igj",
+    "nombre": "Pedidos de informes a la IGJ",
+    "nombre_busqueda": "pedidos de informes a la IGJ",
+    "resumen": "Solicitá informes de datos registrales, cumplimiento de obligaciones o autorizaciones a través de la plataforma Trámites a Distancia (TAD). El trámite es gratuito y requiere tener habilitado el servicio TAD con clave fiscal nivel 2 o superior.",
+    "sinonimos": [
+      "solicitar informes a la Inspección General de Justicia",
+      "pedidos de datos registrales IGJ"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": "IGJ",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan habilitado el servicio Trámites a Distancia (TAD) a través de ARCA con clave fiscal nivel 2 o superior."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener habilitado el servicio Trámites a Distancia (TAD) a través de ARCA (clave fiscal nivel 2 o superior).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Indicar cuál o cuáles de los siguientes datos requerís: Datos de inscripción / último domicilio inscripto / últimas autoridades inscriptas / histórico de autoridades / estatuto y modificaciones / último capital inscripto.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD."
+      },
+      {
+        "texto": "Completá los datos que solicita el sistema."
+      },
+      {
+        "texto": "Realizá el pago."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La información solicitada, notificaciones y observaciones que puedan surgir serán enviadas a la casilla del usuario TAD que solicitó el trámite.",
+      "Si tenés alguna consulta y/o reclamo podés escribir a [email protected]"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/realizar-un-pedido-de-informes-la-igj",
+      "titulo": "Realizar un Pedido de informes a la IGJ | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:35:38.645Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del pago no se especifica en el texto, solo se indica que se debe realizar el pago.",
+    "El plazo de duración del trámite no se especifica en el texto."
+  ]
+}

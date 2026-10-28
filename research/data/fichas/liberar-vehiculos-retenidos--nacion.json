@@ -1,0 +1,143 @@
+{
+  "tramite": {
+    "slug": "liberacion-de-vehiculos-retenidos",
+    "nombre": "Liberar vehículos retenidos",
+    "nombre_busqueda": "Liberar vehículo retenido",
+    "resumen": "Para liberar un vehículo retenido por CNRT o fuerzas de seguridad, necesitás el seguro obligatorio al día, la documentación del titular o tenedor legítimo y abonar los aranceles de guarda, custodia y acarreo según el tipo de transporte.",
+    "sinonimos": [
+      "Liberación de vehículos retenidos",
+      "Soltar vehículo retenido"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Comisión Nacional de Regulación del Transporte",
+    "sigla": "CNRT",
+    "web": "https://www.argentina.gob.ar/servicio/liberar-vehiculos-retenidos"
+  },
+  "contenido": {
+    "quien_puede": [
+      "El titular del vehículo.",
+      "El tenedor legítimo.",
+      "El apoderado o representante legal del titular o del tenedor legítimo.",
+      "El conductor que figura en el acta de comprobación que dio origen a la retención del vehículo (excepto transporte de pasajeros no registrados en ninguna de las modalidades autorizadas o de transporte de cargas internacionales)."
+    ],
+    "requisitos": [
+      {
+        "texto": "Seguro obligatorio al día.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Licencia Profesional vigente si se trata de un vehículo de carga sobre el que no se ha efectuado trasbordo de mercadería.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título Automotor o Cédula Verde.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta de comprobación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago del arancel de guarda y custodia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago del arancel de acarreo, en caso de corresponder.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contrato de leasing, en caso de corresponder.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación vinculada al presunto infractor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si sos titular dominial, presentá el DNI.",
+        "aclaracion": "Si sos titular dominial."
+      },
+      {
+        "texto": "Si sos tenedor legítimo, presentá el DNI, Formulario 08 con firmas certificadas por autoridad competente o declaración judicial.",
+        "aclaracion": "Si sos tenedor legítimo."
+      },
+      {
+        "texto": "Si sos titular dominial, presentá el contrato social o el estatuto del que surja representación suficiente y el DNI del representante.",
+        "aclaracion": "Si sos titular dominial."
+      },
+      {
+        "texto": "Si sos tenedor legítimo, presentá el contrato social o el estatuto del que surja representación suficiente, el DNI del representante con mandato vigente o apoderado, Formulario 08 con firmas certificadas por autoridad competente o declaración judicial.",
+        "aclaracion": "Si sos tenedor legítimo."
+      },
+      {
+        "texto": "Si sos apoderado, presentá además la documentación aludida según el caso: poder o autorización con firma certificada o constancia del registro de mandatos.",
+        "aclaracion": "Si sos apoderado."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD con tu DNI, clave de ANSES, Mi Argentina, CUIT o clave fiscal."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en la Sede central de la CNRT ubicada en Maipú 88, CABA de lunes a viernes de 9 a 15 h, o en las Delegaciones regionales que se encuentran en el interior del país."
+      },
+      {
+        "texto": "Aboná el arancel de liberación del vehículo de manera presencial a través del banco de la nación argentina o de PROVINCIA NET."
+      },
+      {
+        "texto": "Si no podés abonar presencialmente, efectúate el pago por CBU a través de transferencia bancaria a la cuenta corriente de la CNRT y adjuntá el comprobante de pago y la boleta de pago presencial."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede central de la CNRT",
+      "direccion": "Maipú 88",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/liberar-vehiculos-retenidos"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/liberar-vehiculos-retenidos",
+      "titulo": "Liberar vehículos retenidos | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T12:13:20.329Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T12:13:20.329Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo de liberación del vehículo.",
+    "La modalidad de pago de los aranceles (presencial o transferencia) no está especificada en el texto."
+  ]
+}

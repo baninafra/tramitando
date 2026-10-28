@@ -1,0 +1,82 @@
+{
+  "tramite": {
+    "slug": "declaracion-de-impacto-ambiental",
+    "nombre": "Declaración de impacto ambiental",
+    "nombre_busqueda": "Declaración de impacto ambiental",
+    "resumen": "Es necesario para obras, construcciones o intervenciones que generen alteraciones significativas en el entorno. El trámite es presencial y requiere turno previo.",
+    "sinonimos": [],
+    "temas": [
+      "obras-y-construccion",
+      "permiso-de-obra-y-planos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060441",
+  "organismo": {
+    "nombre": "Dirección General de Ordenamiento Ambiental",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes realicen obras, construcciones o intervenciones sobre el territorio que así lo requiera por normativa municipal o provincial."
+    ],
+    "requisitos": [
+      {
+        "texto": "Turno previo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Sacá turno online con la opción 'Consulta técnica'."
+      },
+      {
+        "texto": "Acercate al Centro Administrativo Municipal con el turno."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://tramites.laplata.gob.ar/planeamiento/ordenamiento-ambiental-declaracion.html",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Centro Administrativo Municipal",
+      "direccion": "Diagonal 80 N° 942 esquina 48",
+      "localidad": "La Plata",
+      "horario": null,
+      "fuente_url": "https://tramites.laplata.gob.ar/planeamiento/ordenamiento-ambiental-declaracion.html"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://tramites.laplata.gob.ar/planeamiento/ordenamiento-ambiental-declaracion.html",
+      "titulo": "Planeamiento - Municipalidad de La Plata",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T07:48:39.263Z"
+    },
+    {
+      "url": "https://cam.laplata.gob.ar/index.html",
+      "titulo": "Centro Administrativo Municipal",
+      "bloques": [
+        "pasos",
+        "quien",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T07:48:39.263Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los requisitos específicos de la obra o intervención no se detallan en el texto.",
+    "El plazo de resolución del trámite no se indica en el texto.",
+    "El costo del trámite no se indica en el texto."
+  ]
+}

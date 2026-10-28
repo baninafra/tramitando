@@ -1,0 +1,99 @@
+{
+  "tramite": {
+    "slug": "renovacion-dni-robo-deterioro",
+    "nombre": "Renovación DNI por robo, deterioro, extravío o caducidad",
+    "nombre_busqueda": "Renovar DNI Tancacha robo deterioro",
+    "resumen": "Este trámite permite obtener un nuevo ejemplar de DNI si su documento anterior fue robado, deteriorado, extraviado o caducado. Los mayores de 14 años pueden hacerlo solos, mientras que los menores deben ir acompañados por un padre, madre o tutor.",
+    "sinonimos": [
+      "Renovación de DNI",
+      "Nuevo DNI por robo",
+      "DNI deteriorado Tancacha"
+    ],
+    "temas": [
+      "dni"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141498",
+  "organismo": {
+    "nombre": "Municipalidad de Tancacha",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Mayores de 14 años.",
+      "Menores de 14 años acompañados por padre, madre o tutor."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI anterior (si se tiene, aunque no es obligatorio).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Partida de nacimiento actualizada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Testimonio judicial de tutela (si sos el tutor legal y sos menor de 14 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Original del DNI del acompañante (padre, madre o tutor).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Llegate al Registro Civil para verificar si tu DNI tiene costo."
+      },
+      {
+        "texto": "Aboná la tasa de $10.000."
+      },
+      {
+        "texto": "Presentá los documentos requeridos."
+      },
+      {
+        "texto": "Recibí tu nuevo ejemplar de DNI."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Antes de abonar la tasa, visitá el Registro Civil para confirmar si tu DNI tiene costo."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.tancacha.gob.ar/nuevoDni.html"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.tancacha.gob.ar/nuevoDni.html",
+      "titulo": "Municipalidad de Tancacha - Nuevo ejemplar por robo, deterioro, extravío o caducidad",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T09:45:27.979Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de la oficina donde se realiza el trámite.",
+    "Horarios de atención del Registro Civil.",
+    "Plazo de entrega del nuevo DNI."
+  ]
+}

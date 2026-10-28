@@ -1,0 +1,106 @@
+{
+  "tramite": {
+    "slug": "pedir-autorizacion-de-empleo-de-medios-mecanicos-u-otros-para-llevar-libros-de-comercio",
+    "nombre": "Pedir autorización de empleo de medios mecánicos u otros para llevar libros de comercio",
+    "nombre_busqueda": "Autorización medios mecánicos libros de comercio",
+    "resumen": "Solicita la autorización para usar medios mecánicos u otros para llevar libros de comercio ante la Inspección General de Justicia. Se requiere formulario, testimonio de escritura, resoluciones del órgano de administración y dictamen de contador público.",
+    "sinonimos": [
+      "Autorización medios mecánicos contables",
+      "Autorización empleo medios mecánicos libros de comercio"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Sociedades comerciales",
+      "Sociedades extranjeras"
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de Autorización de empleo de Medios Mecánicos firmado por representante legal, apoderado o profesional dictaminante",
+        "aclaracion": null
+      },
+      {
+        "texto": "Primer testimonio de escritura pública o instrumento privado original con recaudos del artículo 37, incisos 1 y 2 de la RG (IGJ) N° 7/15",
+        "aclaracion": null
+      },
+      {
+        "texto": "Resolución del órgano de administración de la sociedad con transcripción de la solicitud",
+        "aclaracion": null
+      },
+      {
+        "texto": "Piezas firmadas por representante legal y contador público independiente con firma legalizada por la entidad de superintendencia",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dictamen de precalificación de contador público",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copias certificadas por dictaminante o escribano público de libros Inventario y Balances (en caso de cambio de denominación o sede)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el formulario y toda la documentación indicada en la Mesa General de Entradas de la Inspección General de Justicia"
+      },
+      {
+        "texto": "Retirá el trámite por Av. Paseo Colón 291"
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Las actualizaciones o implementación de aplicativos al sistema aprobado no dan lugar a nueva autorización salvo que modifiquen el flujograma o las políticas de seguridad de la información",
+      "Si el sistema centraliza operaciones en el libro diario para asentar transacción por transacción, se deberá expresar tal situación en la resolución",
+      "Si se solicitan registros o listados IVA COMPRAS O IVA VENTAS a fines fiscales, se deberá expresar tal situación en la resolución",
+      "Si la sociedad requiere incluir en un solo registro la totalidad de sus sucursales, puntos de venta o ramos, deberá consignar los datos identificatorios a continuación del encabezado principal del soporte o listado",
+      "En el caso de solicitudes para Fondos Comunes de Inversión, se ingresará un trámite por cada fondo acompañando las resoluciones de la Comisión Nacional de Valores",
+      "Las sociedades bajo fiscalización de esta Inspección General de Justicia con autorizaciones previas deberán adecuar su autorización conforme a las normas de la IGJ",
+      "El estado de actualización de los registros debe presentarse con un atraso que no supere los treinta (30) días"
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Mesa General de Entradas de la Inspección General de Justicia",
+      "direccion": "Av. Paseo Colón 291",
+      "localidad": "Av. Paseo Colón 291",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/pedir-autorizacion-de-empleo-de-medios-mecanicos-u-otros-para-llevar-libros-de-comercio"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/pedir-autorizacion-de-empleo-de-medios-mecanicos-u-otros-para-llevar-libros-de-comercio",
+      "titulo": "Pedir autorización de empleo de medios mecánicos u otros para llevar libros de comercio (artículo 61, Ley Nº 19.550) | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T23:29:45.399Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del costo no se especifica en el texto, solo se menciona '144 módulos' para sociedades extranjeras y '144 m' para sociedades accionarias sin completar el valor",
+    "La fecha de vigencia de la resolución o normativa no se especifica en el texto, solo se menciona la Ley 19.550 y la RG (IGJ) N° 7/15"
+  ]
+}

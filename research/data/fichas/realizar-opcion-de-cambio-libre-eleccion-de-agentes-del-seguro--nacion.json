@@ -1,0 +1,102 @@
+{
+  "tramite": {
+    "slug": "cambio-de-obra-social",
+    "nombre": "Cambio de obra social",
+    "nombre_busqueda": "cambiar obra social",
+    "resumen": "Permite a los beneficiarios titulares del Sistema Nacional del Seguro de Salud ejercer la libre elección entre distintas entidades de medicina prepaga o obras sociales. Es un trámite gratuito que se realiza en línea.",
+    "sinonimos": [
+      "cambiar agente del seguro",
+      "cambiar entidad de medicina prepaga",
+      "cambiar obra social online"
+    ],
+    "temas": [
+      "obra-social-y-prepaga"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Trabajadores en relación de dependencia bajo convenio.",
+      "Trabajadores en relación de dependencia fuera de convenio titulares de Obras Sociales de Dirección.",
+      "Personal del Régimen Especial de Servicio Doméstico.",
+      "Monotributistas, en todas sus categorías."
+    ],
+    "requisitos": [
+      {
+        "texto": "Poseer Clave fiscal Nivel 3.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ingresar en ARCA para obtener la clave.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener los datos personales: Nombre y apellido, dni, cuil/cuit, Domicilio, correo electrónico.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciar el trámite con tu usuario de AFIP y Clave fiscal nivel 3."
+      },
+      {
+        "texto": "Seguir los primeros pasos del Instructivo de Opción de Cambio."
+      },
+      {
+        "texto": "Entrar en Opción de cambio y seleccionar Nueva Opción."
+      },
+      {
+        "texto": "Completar el Formulario con tus datos personales."
+      },
+      {
+        "texto": "Hacer clic en el botón de Elección de Obra Social / Prepaga y seleccionar la entidad elegida."
+      },
+      {
+        "texto": "Confirmar el trámite haciendo clic en el botón Aceptar."
+      },
+      {
+        "texto": "Ratificar los datos ingresados y presionar el botón Confirmar."
+      },
+      {
+        "texto": "Ingresar en el enlace de confirmación que aparece en el mail de confirmación para finalizar la solicitud."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La opción de cambio se puede ejercer solo una vez al año (cada 365 días).",
+      "Las opciones se activan el primer día del mes siguiente de haber realizado y confirmado el trámite.",
+      "Una vez confirmada la opción, debés contactarte con el Agente del Seguro elegido para afiliarte y acceder a las prestaciones.",
+      "Tenés 48 hs para confirmar tu trámite para que tu opción de cambio sea considerada, en caso de no hacerlo la misma será desestimada."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/realizar-opcion-de-cambio-libre-eleccion-de-agentes-del-seguro",
+      "titulo": "Realizar Opción de cambio - Libre elección de Agentes del Seguro | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:11:09.148Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La vigencia exacta del trámite no se especifica en el texto, solo se menciona que se activa el primer día del mes siguiente.",
+    "No se especifica el plazo exacto de vigencia de la opción una vez confirmada."
+  ]
+}

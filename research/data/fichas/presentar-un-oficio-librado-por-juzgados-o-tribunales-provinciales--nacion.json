@@ -1,0 +1,104 @@
+{
+  "tramite": {
+    "slug": "presentar-un-oficio-librado-por-juzgados-o-tribunales-provinciales",
+    "nombre": "Presentar un oficio librado por juzgados o tribunales provinciales",
+    "nombre_busqueda": "Presentar un oficio librado por juzgados o tribunales provinciales",
+    "resumen": "Para presentar oficios de juzgados o tribunales fuera de la provincia de Buenos Aires, completá el formulario correspondiente y envialo junto con el oficio a [email protected].",
+    "sinonimos": [
+      "Oficios judiciales",
+      "Oficios reiteratorios",
+      "Oficios exentos de pago"
+    ],
+    "temas": [
+      "legalizaciones-y-apostillados"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes necesiten diligenciar oficios provenientes de juzgados o tribunales provinciales distintos de los que integran el Poder Judicial de la Provincia de Buenos Aires."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario Oficios Judiciales",
+        "aclaracion": null
+      },
+      {
+        "texto": "Oficio correspondiente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario Oficios judiciales sin costo (manifestado en el oficio)",
+        "aclaracion": "Solo si el oficio es exento de pago."
+      },
+      {
+        "texto": "Formulario Oficios reiteratorios",
+        "aclaracion": "Solo si el oficio es reiteratorio."
+      },
+      {
+        "texto": "Número de trámite asignado en el oficio original y fecha de su presentación",
+        "aclaracion": "Para oficios reiteratorios."
+      },
+      {
+        "texto": "Firma del formulario",
+        "aclaracion": "Por el interesado, representante legal, persona debidamente autorizada o profesional dictaminante."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Completá el formulario correspondiente."
+      },
+      {
+        "texto": "Descargalo o imprímelo."
+      },
+      {
+        "texto": "Aboná el formulario previamente si el oficio tiene costo."
+      },
+      {
+        "texto": "Enviá el oficio junto con el/los formulario/s correspondiente/s a [email protected]."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/presentar-un-oficio-librado-por-juzgados-o-tribunales-provinciales",
+      "titulo": "Presentar un oficio librado por juzgados o tribunales provinciales | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T01:41:18.761Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/formularios-igj",
+      "titulo": "Formularios IGJ | Argentina.gob.ar",
+      "bloques": [
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T01:41:18.761Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Fecha de vigencia del trámite."
+  ]
+}

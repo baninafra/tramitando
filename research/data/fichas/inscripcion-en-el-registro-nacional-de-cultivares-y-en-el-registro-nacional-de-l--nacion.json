@@ -1,0 +1,128 @@
+{
+  "tramite": {
+    "slug": "inscripcion-registro-nacional-cultivares-propiedad",
+    "nombre": "Inscripción en el Registro Nacional de Cultivares y en el Registro Nacional de la Propiedad",
+    "nombre_busqueda": "Inscripción cultivares RNPC",
+    "resumen": "Este trámite permite registrar y proteger la propiedad de nuevos cultivares en Argentina. Se requiere presentar documentación técnica y abonar un arancel específico.",
+    "sinonimos": [
+      "Registro Nacional de Cultivares",
+      "Registro Nacional de la Propiedad de Cultivares",
+      "Inscripción de variedades vegetales"
+    ],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto Nacional de Semillas",
+    "sigla": "INASE",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Toda persona física o jurídica que desee inscribir una variedad en el RNC y en el RNPC."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de Declaración Jurada de Solicitud de Inscripción",
+        "aclaracion": null
+      },
+      {
+        "texto": "Anexo I: Datos del Solicitante",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descriptor de Cultivares - Anexo II",
+        "aclaracion": null
+      },
+      {
+        "texto": "Anexo III: Fundamentación de Novedad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Anexo IV.a: Procedimiento para el mantenimiento de la pureza varietal (quién, cómo y dónde se realiza el procedimiento)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Anexo IV.b: Origen genético - Método de Obtención - Historia del mejoramiento de la variedad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Anexo IV.c: Condición de OGM de la variedad y evento incorporado a la misma",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento que acredite la personería del representante legal que lo faculta a actuar como tal",
+        "aclaracion": null
+      },
+      {
+        "texto": "En el caso de variedades de origen extranjero: poder del creador/titular de la variedad debidamente legalizado y traducido",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresa a TAD y utiliza para identificarte alguna de las formas que ofrece el sistema."
+      },
+      {
+        "texto": "Completá los campos solicitados e incorpora la documentación requerida."
+      },
+      {
+        "texto": "Cuando termines se generará un número de expediente que le permitirá realizar el seguimiento del mismo."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 23562000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscripcion-en-el-registro-nacional-de-cultivares-y-en-el-registro-nacional-de-la-propiedad"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 47124000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscripcion-en-el-registro-nacional-de-cultivares-y-en-el-registro-nacional-de-la-propiedad"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 18921000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscripcion-en-el-registro-nacional-de-cultivares-y-en-el-registro-nacional-de-la-propiedad"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscripcion-en-el-registro-nacional-de-cultivares-y-en-el-registro-nacional-de-la-propiedad",
+      "titulo": "Inscripción en el Registro Nacional de Cultivares y en el Registro Nacional de la Propiedad de Cultivares | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T06:24:16.539Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia exacta del trámite no está especificada en el texto, solo se menciona la Resolución SB N° 1/2024.",
+    "No se especifica si el trámite requiere turno en la página oficial."
+  ]
+}

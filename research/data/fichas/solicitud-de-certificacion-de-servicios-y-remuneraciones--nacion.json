@@ -1,0 +1,103 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-certificacion-de-servicios-y-remuneraciones",
+    "nombre": "Solicitud de certificación de servicios y remuneraciones",
+    "nombre_busqueda": "Certificación de servicios y remuneraciones ANSES",
+    "resumen": "Es un trámite obligatorio para empleados ferroviarios que necesitan iniciar trámites en ANSES. Se hace en línea y es gratis.",
+    "sinonimos": [
+      "Certificación de servicios ferroviarios",
+      "Certificación de remuneraciones ferroviarias"
+    ],
+    "temas": [
+      "trabajo-y-seguridad-social",
+      "aportes-e-historia-laboral"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empleados ferroviarios en actividad",
+      "Exempleados ferroviarios"
+    ],
+    "requisitos": [
+      {
+        "texto": "Dispositivo de acceso a Internet",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos personales",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUIL",
+        "aclaracion": null
+      },
+      {
+        "texto": "Código postal de domicilio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Correo electrónico válido",
+        "aclaracion": null
+      },
+      {
+        "texto": "Otra información que permita identificar el legajo",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a Solicitud de Certificado de Servicios y Remuneraciones"
+      },
+      {
+        "texto": "Completá los datos personales, de contacto y laborales"
+      },
+      {
+        "texto": "El sistema te enviará un correo electrónico confirmando la recepción de los datos"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "45 días",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitud-de-certificacion-de-servicios-y-remuneraciones",
+      "titulo": "Solicitud de Certificación de Servicios y Remuneraciones | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T23:46:44.716Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T23:46:44.716Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de validez nacional de títulos y estudios",
+    "Registro de propiedad automotor",
+    "Registro nacional de reincidencia",
+    "Registro de la propiedad inmueble",
+    "Si se requiere turno presencial para el trámite"
+  ]
+}

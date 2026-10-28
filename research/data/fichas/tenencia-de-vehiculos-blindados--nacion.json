@@ -1,0 +1,92 @@
+{
+  "tramite": {
+    "slug": "tenencia-de-vehiculos-blindados",
+    "nombre": "Tenencia de vehículos blindados",
+    "nombre_busqueda": "Tenencia de vehículos blindados",
+    "resumen": "Para solicitar la tenencia de vehículos blindados, necesitás el título de propiedad, acreditar la condición de Legítimo Usuario de Materiales de Usos Especiales o de Legítimo Usuario de Armas de Fuego de uso civil condicional, y presentar el certificado original de fabricación emitido por un usuario comercial habilitado.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMaC",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Representantes de un Usuario Colectivo (Empresa) cuyo acto de servicio sea la custodia de dinero y otros valores."
+    ],
+    "requisitos": [
+      {
+        "texto": "Título de propiedad del vehículo a nombre del solicitante",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditar la condición de Legítimo Usuario de Materiales de Usos Especiales o de Legítimo Usuario de Armas de Fuego de uso civil condicional vigente de la persona encargada del uso del material.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado original de fabricación / verificación / repotenciación del vehículo emitido por un usuario comercial inscripto y habilitado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Leyes 23.283 y 23.412 correspondientes.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      },
+      {
+        "texto": "Retirá la documentación emitida por el ANMaC en la delegación en la que iniciaste el trámite o pedí que te la manden por correo."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 10000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/tenencia-de-vehiculos-blindados"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Sede Central del organismo",
+      "direccion": "Bartolomé Mitre 1465/9",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/tenencia-de-vehiculos-blindados"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tenencia-de-vehiculos-blindados",
+      "titulo": "Tenencia de vehículos blindados | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T17:43:13.804Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica si se requiere turno.",
+    "No se especifica el plazo de tramitación."
+  ]
+}

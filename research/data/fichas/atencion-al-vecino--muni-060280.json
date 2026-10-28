@@ -1,0 +1,70 @@
+{
+  "tramite": {
+    "slug": "atencion-al-vecino",
+    "nombre": "Atención al vecino",
+    "nombre_busqueda": "Hacer un reclamo o consulta municipal",
+    "resumen": "Usá este canal para hacer reclamos sobre problemas en la vía pública, consultar información municipal o presentar sugerencias. Al registrar un reclamo, suelen asignarte un número para seguir su resolución.",
+    "sinonimos": [
+      "Reclamos, consultas y seguimiento de servicios públicos",
+      "Atención al vecino"
+    ],
+    "temas": [
+      "reclamos-vecinales",
+      "servicios-urbanos-y-reclamos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060280",
+  "organismo": {
+    "nombre": "Municipio de General Alvarado",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés usar el servicio para hacer reclamos, consultas o sugerencias."
+    ],
+    "requisitos": [
+      {
+        "texto": "Completá el formulario de reclamo para que un operador se comunique con vos.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Comunicá tu reclamo o consulta por WhatsApp o por teléfono al 02291-403333."
+      },
+      {
+        "texto": "Acercate a la Mesa de Entrada Municipal o a la delegación que te corresponda."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Al registrar un reclamo, suelen asignarte un número para seguir su resolución."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mga.gov.ar/atencion-al-vecino/",
+      "titulo": "Atencion al vecino - Municipio Gral Alvarado",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T12:40:07.318Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa si completar el formulario alcanza para terminar el trámite por internet.",
+    "No se informa si necesitás turno.",
+    "No se informa el plazo de respuesta."
+  ]
+}

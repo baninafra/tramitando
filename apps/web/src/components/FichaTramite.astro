@@ -1,0 +1,61 @@
+---
+// Un trámite en una lista: dónde, nombre y costo arriba, el resumen, cuánto tarda y el sello.
+// Todo el panel es un enlace a la ficha.
+import Icono from './Icono.astro';
+import Sello from './Sello.astro';
+import type { NombreIcono } from './iconos';
+import type { TarjetaTramite } from '../lib/data';
+
+interface Props {
+  tarjeta: TarjetaTramite;
+  /** Nivel del título, para respetar la jerarquía de la página. */
+  nivel?: 'h2' | 'h3';
+}
+const { tarjeta: t, nivel: Titulo = 'h3' } = Astro.props;
+---
+<a class="item" href={t.url}>
+  <span class="arriba">
+    <span class="donde"><Icono nombre={t.categoria.icono as NombreIcono} />{t.jurisdiccion}</span>
+    <Icono nombre="arrow-up-right" class="ir" />
+  </span>
+  <span class="fila">
+    <Titulo class="nombre">{t.tramite.nombre}</Titulo>
+    <span class="costo"><span class="visualmente-oculto">Costo: </span>{t.costo}</span>
+  </span>
+  <span class="resumen">{t.tramite.resumen}</span>
+  <span class="abajo">
+    <span class="plazo"><Icono nombre="hourglass" />{t.plazo}</span>
+    <Sello estado={t.estado} fecha={t.fechaVerificacion} />
+  </span>
+</a>
+
+<style>
+  .item {
+    /* El resumen ocupa el espacio que sobra: plazo y sello quedan siempre abajo, a la misma altura en toda la fila. */
+    height: 100%; display: grid; gap: var(--espacio-3); grid-template-rows: auto auto 1fr auto;
+    padding: var(--espacio-5) var(--espacio-6) var(--espacio-6); border-radius: var(--r-panel);
+    background: var(--superficie); color: var(--tinta); text-decoration: none;
+    transition: background-color var(--t-hover) ease, transform var(--t-press) var(--ease-out);
+  }
+  .item:active { transform: scale(0.99); }
+  .item:focus-visible { outline-offset: 3px; }
+  .arriba { display: flex; justify-content: space-between; align-items: center; gap: var(--espacio-3); }
+  .donde { display: inline-flex; align-items: center; gap: var(--espacio-2); font: var(--t-etiqueta); color: var(--tinta-2); }
+  .donde :global(.icono) { width: 18px; height: 18px; color: var(--celeste-tinta); }
+  .item :global(.ir) { color: var(--tinta-2); transition: transform var(--t-ui) var(--ease-out), color var(--t-hover) ease; }
+  .fila { display: flex; justify-content: space-between; align-items: baseline; gap: var(--espacio-4); }
+  .nombre { font: 700 21px/1.25 var(--font-sans); letter-spacing: -0.01em; margin: 0; }
+  .costo { font: 700 21px/1.25 var(--font-sans); font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .resumen { color: var(--tinta-2); max-width: 52ch; align-self: start; }
+  .abajo { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: var(--espacio-3); margin-top: var(--espacio-2); align-self: end; }
+  .plazo { display: inline-flex; align-items: center; gap: var(--espacio-2); font: var(--t-etiqueta); }
+  .plazo :global(.icono) { width: 18px; height: 18px; color: var(--celeste-tinta); }
+  @media (hover: hover) {
+    .item:hover { background: var(--celeste-suave); }
+    .item:hover :global(.ir) { transform: translate(2px, -2px); color: var(--tinta); }
+  }
+  @media (max-width: 479px) {
+    .item { padding: var(--espacio-5); }
+    .fila { flex-direction: column; gap: var(--espacio-1); }
+  }
+</style>

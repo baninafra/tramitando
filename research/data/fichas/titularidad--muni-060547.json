@@ -1,0 +1,73 @@
+{
+  "tramite": {
+    "slug": "cambio-titularidad-habilitacion-comercial",
+    "nombre": "Cambio de titularidad de habilitación comercial",
+    "nombre_busqueda": "cambiar el titular de una habilitación comercial",
+    "resumen": "Solicitá el cambio de titularidad de un comercio por venta o cesión. Completá el formulario y adjuntá una copia de tu DNI.",
+    "sinonimos": [
+      "cambio de titularidad de comercio"
+    ],
+    "temas": [
+      "cambios-y-baja-de-habilitacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060547",
+  "organismo": {
+    "nombre": "Municipalidad de Monte",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quien solicita el cambio de titularidad por venta o cesión del comercio."
+    ],
+    "requisitos": [
+      {
+        "texto": "Copia del DNI.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario con tus datos, el DNI, la ubicación y el rubro del comercio, y los datos de la persona a quien se transfiere."
+      },
+      {
+        "texto": "Adjuntá una copia de tu DNI."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Palacio Municipal",
+      "direccion": "Calle Laura Giagnacovo N° 636",
+      "localidad": "Monte, Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://monte.gob.ar/comercio/titularidad/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://monte.gob.ar/comercio/titularidad/",
+      "titulo": "Cambio de Titularidad - Municipalidad de Monte",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T15:09:13.371Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa el costo del trámite.",
+    "No se indica si necesitás turno ni cuánto tarda el trámite."
+  ]
+}

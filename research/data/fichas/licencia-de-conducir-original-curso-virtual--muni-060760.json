@@ -1,0 +1,131 @@
+{
+  "tramite": {
+    "slug": "licencia-de-conducir-original",
+    "nombre": "Licencia de Conducir Original",
+    "nombre_busqueda": "Licencia de conducir original",
+    "resumen": "Para obtener la licencia original, debés realizar el curso virtual, aprobar el examen teórico y práctico, y presentarte en la oficina de Licencias de Conducir para el control psicofísico y la carga biométrica.",
+    "sinonimos": [
+      "Licencia de conducir original San Miguel",
+      "Licencia de conducir original curso virtual"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060760",
+  "organismo": {
+    "nombre": "Municipalidad de San Miguel",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas mayores de 18 años con DNI con domicilio en San Miguel.",
+      "Personas mayores de 16 años y menores de 18 con domicilio en San Miguel y permiso de padres o tutores realizado ante juez de paz o escribano público."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI o comprobante de DNI en trámite con domicilio en el partido de San Miguel más una fotocopia",
+        "aclaracion": null
+      },
+      {
+        "texto": "Saber leer",
+        "aclaracion": null
+      },
+      {
+        "texto": "Aprobar psicofísico, exámenes teórico y práctico",
+        "aclaracion": null
+      },
+      {
+        "texto": "Abonar tasas nacionales, provinciales y municipales",
+        "aclaracion": null
+      },
+      {
+        "texto": "Permiso de ambos padres realizado ante Juez de Paz o Escribano Público especificando las clases de vehículo para los cuales será habilitado",
+        "aclaracion": "Si sos menor de edad."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Realizá el Curso Virtual."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a la oficina de Licencias de Conducir (Perón 415, Muñiz) en la fecha y 10 minutos antes de la hora asignada."
+      },
+      {
+        "texto": "Registrate con tu número de DNI en el totem ubicado en la recepción y retirá el ticket con el código que te otorga."
+      },
+      {
+        "texto": "El día del turno realizá un control psicofísico, carga de datos biométricos, se verificarán infracciones de tránsito e indicarán como resolverlas si están pendientes de regularización."
+      },
+      {
+        "texto": "Con el vehículo y tu acompañante acercate al circuito para el examen práctico."
+      },
+      {
+        "texto": "Aprobando todos los pasos, 25 minutos luego de haber finalizado retirá tu licencia junto a un cartel informativo 'principiante', que por seis meses debe ser exhibido en el vehículo, durante este período no está permitido circular por avenidas, autopistas, rutas."
+      },
+      {
+        "texto": "En caso de no poder asistir se debe autorizar a otra persona antes de finalizar el trámite."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": "16 años por 1 año (únicamente moto 50cc). 17 años por 1 año. 18 a 65 años por 5 años. 66 a 70 años por 3 años. 71 años en adelante por 1 año.",
+    "consejos": [
+      "Preparación del examen teórico: Conocé las guías informativas y autoevaluá ingresando a nuestro portal.",
+      "Recuerdá que para la ley una persona es mayor a determinada edad una vez alcanzada la misma. Es decir, una persona de 18 años + 1 día obtendrá licencia por 5 años, así como una de 65 años + 1 día recibirá una licencia vigente por 3 años."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "Público General",
+      "gratis": false,
+      "monto_centavos": 4640000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.msm.gov.ar/guia-tramites/licencias-conducir/licencia-de-conducir-original-curso-virtual/"
+    },
+    {
+      "modalidad": "Jubilados Mayores de 70",
+      "gratis": false,
+      "monto_centavos": 1600000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.msm.gov.ar/guia-tramites/licencias-conducir/licencia-de-conducir-original-curso-virtual/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Licencias de Conducir",
+      "direccion": "Perón 415",
+      "localidad": "San Miguel",
+      "horario": null,
+      "fuente_url": "https://www.msm.gov.ar/guia-tramites/licencias-conducir/licencia-de-conducir-original-curso-virtual/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.msm.gov.ar/guia-tramites/licencias-conducir/licencia-de-conducir-original-curso-virtual/",
+      "titulo": "Licencia de Conducir Original - Municipalidad San Miguel",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T14:03:42.996Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horarios de atención de la oficina.",
+    "Dirección exacta de la oficina (solo dirección parcial en texto).",
+    "Enlace para sacar turno."
+  ]
+}

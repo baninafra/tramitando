@@ -1,0 +1,98 @@
+{
+  "tramite": {
+    "slug": "turnos-medicos-hospital-pinamar",
+    "nombre": "Pedir turnos médicos en el Hospital",
+    "nombre_busqueda": "turnos médicos Hospital Comunitario de Pinamar",
+    "resumen": "Pedí turnos de forma presencial en la mesa de entrada del Hospital Comunitario de Pinamar. Para solicitarlos, tenés que tener domicilio en Pinamar y presentar tu DNI.",
+    "sinonimos": [
+      "turnos del Hospital de Pinamar"
+    ],
+    "temas": [
+      "centros-de-salud-y-turnos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060644",
+  "organismo": {
+    "nombre": "Municipalidad de Pinamar",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Si tenés domicilio en Pinamar, podés solicitar un turno."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener domicilio en Pinamar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar tu DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar una orden médica.",
+        "aclaracion": "Para ecografías, mamografías, especialidades médicas y estudios complementarios."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a la mesa de entrada del Hospital para solicitar el turno."
+      },
+      {
+        "texto": "Solicitá turnos para radiografías de lunes a viernes, de 8 a 12 h, por demanda espontánea; también se entregan 10 turnos por orden de llegada a las 16 h."
+      },
+      {
+        "texto": "Solicitá turnos para ecografías y mamografías en mesa de entrada, de lunes a viernes de 7 a 20 h o los sábados de 7 a 14 h."
+      },
+      {
+        "texto": "Solicitá turnos para tomografías de lunes a viernes, de 8 a 12 h. Si hay disponibilidad, te asignan el turno en el momento."
+      },
+      {
+        "texto": "Solicitá turnos para especialidades médicas en mesa de entrada, de lunes a viernes de 7 a 20 h o los sábados de 7 a 14 h."
+      },
+      {
+        "texto": "Solicitá turnos para estudios complementarios en mesa de entrada, de lunes a viernes de 7 a 20 h o los sábados de 7 a 14 h."
+      },
+      {
+        "texto": "Acercate al laboratorio de lunes a viernes desde las 6 h. La atención es por orden de llegada y no se otorgan turnos."
+      },
+      {
+        "texto": "Acercate para la atención de quirófano los lunes, miércoles y viernes desde las 14 h. La atención es por orden de llegada y no se otorgan turnos."
+      },
+      {
+        "texto": "Solicitá historias clínicas para atención en otros distritos en mesa de entrada, de lunes a viernes de 8 a 13 h."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Los días y horarios de atención varían según la práctica o especialidad.",
+      "El Hospital ofrece clínica médica, traumatología, cirugía, gastroenterología, cardiología, neumonología, neurología de adultos e infantil, infectología e infectología infantil, obstetricia, ginecología y ginecología de alto riesgo, urología, otorrinolaringología, oncología, patología mamaria y gine…",
+      "El Hospital realiza ergometría, Holter, presurometría, electrocardiograma, ecodoppler cardíaco, ecodoppler color arterial y venoso, electroencefalograma infantil, monitoreo fetal, PAP y colposcopía.",
+      "Los turnos para los CAPS de Ostende, Valeria del Mar y Pinamar se solicitan por el sistema digital Mi Salud Bonaerense."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://pinamar.gob.ar/turnoshospital/",
+      "titulo": "Turnos médicos en el Hospital Comunitario de Pinamar – Municipalidad de Pinamar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T16:29:13.394Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa si hace falta sacar turno para ir a la mesa de entrada."
+  ]
+}

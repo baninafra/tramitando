@@ -1,0 +1,105 @@
+{
+  "tramite": {
+    "slug": "visado-de-planos-de-mensuras",
+    "nombre": "Visado de planos de mensuras",
+    "nombre_busqueda": "visado planos mensuras",
+    "resumen": "Este trámite sirve para visar planos de mensura de inmuebles linderos a rutas nacionales, un requisito indispensable para oficinas de Catastro en algunas provincias. Es gratuito y se realiza online.",
+    "sinonimos": [
+      "visado planos linderos rutas nacionales",
+      "visado mensura vialidad nacional"
+    ],
+    "temas": [
+      "obras-y-construccion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Vialidad Nacional",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes soliciten la intervención de la repartición a través del visado de un plano lindero a una ruta nacional.",
+      "El Profesional Interviniente o el apoderado habilitado."
+    ],
+    "requisitos": [
+      {
+        "texto": "Informe de dominio o asiento registral vigente al momento de la presentación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Archivo del plano de mensura a visar en formato extensión DXF (versión 2000 o superior).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Relacionar un vértice con respecto al mojón métrico más próximo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Sentido de circulación vehicular indicando las ciudades más cercanas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ancho de zona de camino.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de visado de Vialidad Provincial (no excluyente).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Gestioná el trámite a través de la plataforma de Trámites a Distancia (TAD) del sitio Mi Argentina."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "30 días",
+    "consejos": [
+      "Se pueden ocasionar demoras en aquellos planos de mensura en los que se realicen fraccionamientos o loteos que ameriten el acceso hacia una ruta nacional, los cuales serán revisados por las oficinas pertinentes.",
+      "Las mensuras que se encuentren dentro de una zona concesionada serán consultadas previamente antes de otorgar el visado correspondiente."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/realizar-el-visado-de-planos-de-mensuras",
+      "titulo": "Realizar el visado de planos de mensuras | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T02:16:19.989Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T02:16:19.989Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/cdn-cgi/content?id=OMB9CsXEQQ8so0U0ygG8XbE.nptryrkp8unC4PvXAdc-1792995049.0614886-1.2.1.1-Pr_cJSjbtDgsH9MlXAAh1Z.QT8i1_MzhqfMiizZJMd1ZtIJqxg4JSkLOnFchpftx",
+      "titulo": "Unveiling the Mystique of High Temperature Superconductivity",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T02:16:19.989Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite.",
+    "La dirección exacta de las oficinas de Catastro provinciales que requieren este visado.",
+    "Si el trámite requiere turno específico para la presentación en oficina."
+  ]
+}

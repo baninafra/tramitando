@@ -1,0 +1,121 @@
+{
+  "tramite": {
+    "slug": "obtener-visa-de-turista",
+    "nombre": "Obtener visa de turista",
+    "nombre_busqueda": "Visa de turista Argentina",
+    "resumen": "Para ingresar a la Argentina como turista de un país sin exención de visado, necesitás pasaporte válido, fotos, formulario, constancia de solvencia y reserva de pasaje. Debes pagar el arancel consular y concurrir a una entrevista.",
+    "sinonimos": [
+      "Visa de turista",
+      "Visado de turista"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria",
+      "visas-y-autorizaciones-de-viaje"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Turistas extranjeros provenientes de países con los que el nuestro no tiene convenio de exención de visado para ingresar."
+    ],
+    "requisitos": [
+      {
+        "texto": "Pasaporte válido con vigencia mínima de 6 meses a la fecha de ingreso al país.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Al menos una hoja (dos carillas) en blanco disponible en el pasaporte.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dos (2) fotografías actuales 4x4cm, de frente, a color, fondo blanco.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de solicitud de visa completo (preferentemente en forma electrónica) y firmado por el solicitante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de solvencia económica (por ejemplo, últimos recibos de haberes, último resumen de tarjeta de crédito o último resumen de cuenta bancaria).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Reserva de pasaje de ida y vuelta.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Reserva hotelera e itinerario turístico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de no contar con reserva hotelera, y si mediara invitación de persona física, una carta de invitación.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Contactá a la representación consular de tu jurisdicción y solicitá una entrevista con el funcionario consular."
+      },
+      {
+        "texto": "Concurrí a la entrevista con el funcionario consular, llevando la documentación correspondiente."
+      },
+      {
+        "texto": "Retirá la visa de turista para poder ingresar a la Argentina."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Se considera turista a aquel extranjero que ingrese al país con propósito de descanso o esparcimiento, con un plazo de permanencia autorizado de hasta tres (3) meses, prorrogable por otro período similar.",
+      "El sólo cumplimiento de los requisitos mencionados no garantiza el otorgamiento de la visa, siendo esta prerrogativa exclusiva del Estado Argentino.",
+      "Para iniciar el trámite de visa, contactate con la Representación Consular correspondiente a fin de concertar una cita y coordinar la presentación de la documentación.",
+      "La información aquí disponible no es aplicable a ciudadanos de la República Popular China, a quienes se aplican requisitos diferenciales en virtud de un acuerdo internacional vigente en la materia.",
+      "Se puede prorrogar por única vez por igual período si te presentás en cualquiera de las Delegaciones de la Dirección Nacional de Migraciones de la República Argentina antes de que venza el plazo concedido originalmente."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 15000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/obtener-visa-de-turista-para-ingresar-la-argentina"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-visa-de-turista-para-ingresar-la-argentina",
+      "titulo": "Obtener visa de turista para ingresar a la Argentina | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T23:02:23.317Z"
+    },
+    {
+      "url": "https://www.cancilleria.gob.ar/representaciones",
+      "titulo": "Embajadas y Consulados | Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T23:02:23.317Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo máximo de permanencia que te pueden otorgar las oficinas consulares es de 90 días.",
+    "Consultá el costo del trámite en la representación consular de tu jurisdicción."
+  ]
+}

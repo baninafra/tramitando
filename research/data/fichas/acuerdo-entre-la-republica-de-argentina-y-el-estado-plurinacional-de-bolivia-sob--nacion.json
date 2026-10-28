@@ -1,0 +1,140 @@
+{
+  "tramite": {
+    "slug": "canje-de-licencia-de-conducir-bolivia",
+    "nombre": "Canje de licencia de conducir de Bolivia",
+    "nombre_busqueda": "Canje licencia conducir Bolivia Argentina",
+    "resumen": "El acuerdo permite el reconocimiento y canje de licencias de conducir entre Argentina y Bolivia. Los titulares de licencias bolivianas con residencia en Argentina pueden solicitar el canje online y presentarse en un CEL para el examen y la entrega de la licencia nacional.",
+    "sinonimos": [
+      "Canje licencia Bolivia",
+      "Licencia nacional por canje Bolivia",
+      "Licencia conducir Bolivia Argentina"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Agencia Nacional de Seguridad Vial",
+    "sigla": "ANSV",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de licencia de conducir bolivianas vigentes con residencia en la Argentina.",
+      "Titulares de licencia de conducir boliviana que la obtuvieron antes de la residencia en Argentina.",
+      "Titulares de licencia nacional de conducir argentina residentes en Bolivia."
+    ],
+    "requisitos": [
+      {
+        "texto": "Licencia de Conducir boliviana vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI argentino.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener la edad correspondiente para la clase de licencia que se solicita.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Consultar las clases y su vigencia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si tramitás la clase D, certificado de antecedentes penales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Licencia para Conducir boliviana vigente (frente y dorso).",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI argentino (frente y dorso).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Antecedentes Policiales (CUDAP) para bolivianos en Bolivia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado Médico para bolivianos en Bolivia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de depósito bancario o transferencia por el costo del servicio para bolivianos en Bolivia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Licencia Nacional de Conducir argentina para bolivianos en Bolivia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Evaluación psicológica si se solicita la convalidación a la Categoría Profesional C.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Solicitá el certificado que autorice su canje al correo electrónico [email protected]."
+      },
+      {
+        "texto": "Imprimí el certificado de Certificado para otorgamiento de Licencia Nacional de Conducir por Canje y la boleta de pago."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Concurrí al Centro Emisor de Licencias de Conducir (CEL) del municipio que corresponda a tu domicilio."
+      },
+      {
+        "texto": "Presentá la documentación (original y copia) y realizá el examen psicofísico."
+      },
+      {
+        "texto": "Tené en cuenta que se te retendrá la licencia otorgada por las autoridades de Bolivia."
+      },
+      {
+        "texto": "Retirá tu Licencia Nacional de Conducir, en la fecha que te indiquen, según tu jurisdicción."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": "2 meses",
+    "consejos": [
+      "La gestión de turnos en el CEL (jurisdicción otorgante) se encuentra sujeta a su disponibilidad.",
+      "Tiene un plazo de validez de noventa (90) días, para ser presentado en el CEL."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/acuerdo-entre-la-republica-de-argentina-y-el-estado-plurinacional-de-bolivia-sobre",
+      "titulo": "Acuerdo entre la República de Argentina y el Estado Plurinacional de Bolivia sobre Reconocimiento Recíproco y Canje de Licencias de Conducir | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:12:22.039Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T04:12:22.039Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta del CEL para el trámite.",
+    "Valor exacto de la boleta de pago en CENAT.",
+    "Valor exacto de la licencia nacional según jurisdicción."
+  ]
+}

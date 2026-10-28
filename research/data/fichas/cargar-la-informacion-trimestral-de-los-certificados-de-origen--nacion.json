@@ -1,0 +1,97 @@
+{
+  "tramite": {
+    "slug": "cargar-la-informacion-trimestral-de-los-certificados-de-origen",
+    "nombre": "Cargar la información trimestral de los certificados de origen",
+    "nombre_busqueda": "cargar informacion trimestral certificados origen",
+    "resumen": "Podés gestionar la información trimestral de los certificados de origen de manera sencilla y gratuita a través del sistema TAD o SUR-AOM.",
+    "sinonimos": [],
+    "temas": [
+      "certificados-personales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan CUIT y clave fiscal nivel 2 en AFIP",
+      "Quienes cuenten con Tramites a Distancia (TAD) asociado a AFIP",
+      "Quienes estén inscriptos en el Registro Único de la Matriz Productiva (RUMP)",
+      "Quienes figuren en la lista de entidades autorizadas"
+    ],
+    "requisitos": [
+      {
+        "texto": "CUIT",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave fiscal nivel 2 en AFIP",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tramites a Distancia (TAD) asociado a AFIP",
+        "aclaracion": null
+      },
+      {
+        "texto": "Inscripción en el Registro Único de la Matriz Productiva (RUMP)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Figuración en la lista de entidades autorizadas",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al TAD"
+      },
+      {
+        "texto": "En la sección Nuevo Trámite seleccioná el trámite Presentación Trimestral de Emisión de Certificados de Origen"
+      },
+      {
+        "texto": "Completá los tres pasos del proceso: ingresá tus datos, presentá la documentación requerida y confirmá el trámite"
+      },
+      {
+        "texto": "O ingresá en el sistema SUR-AOM y completá los pasos"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Mesa de Entradas",
+      "direccion": "Av. Julio A. Roca Nº 651, Piso 6º, Of. 29 (C.A.B.A.)",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/cargar-la-informacion-trimestral-de-los-certificados-de-origen"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/cargar-la-informacion-trimestral-de-los-certificados-de-origen",
+      "titulo": "Cargar la información trimestral de los Certificados de Origen | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-26T04:44:40.149Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite",
+    "El plazo estimado para completar el trámite"
+  ]
+}

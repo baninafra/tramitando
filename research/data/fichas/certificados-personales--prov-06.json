@@ -1,0 +1,73 @@
+{
+  "tramite": {
+    "slug": "certificados-personales",
+    "nombre": "Solicitud de certificado de antecedentes personales",
+    "nombre_busqueda": "Certificado de antecedentes personales",
+    "resumen": "Solicitá el certificado de antecedentes personales online con tu clave de acceso. El trámite es gratuito y no requiere turno.",
+    "sinonimos": [
+      "Certificado de antecedentes",
+      "Certificado de antecedentes penales",
+      "Certificado de antecedentes judiciales"
+    ],
+    "temas": [
+      "certificados-personales",
+      "antecedentes-penales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "prov-06",
+  "organismo": {
+    "nombre": "Banco Nación Argentina",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que tenga clave de acceso al portal de trámites."
+    ],
+    "requisitos": [
+      {
+        "texto": "Clave de acceso al portal de trámites.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal de trámites con tu clave de acceso."
+      },
+      {
+        "texto": "Buscá el trámite 'Solicitud de certificado de antecedentes personales'."
+      },
+      {
+        "texto": "Completá los datos solicitados en el formulario."
+      },
+      {
+        "texto": "Hacé clic en el botón para enviar la solicitud."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://portal.gba.gob.ar/tramite/9498",
+      "titulo": "Portal de Trámites",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T18:02:19.871Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el plazo de generación del certificado."
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "tramite": {
+    "slug": "legalizaciones-y-apostillados",
+    "nombre": "Canje de licencias de conducir con Chile",
+    "nombre_busqueda": "Canje licencia conducir Chile Argentina",
+    "resumen": "Los chilenos residentes en Argentina pueden canjear su licencia chilena por una nacional mediante un trámite online previo y una visita presencial al CEL.",
+    "sinonimos": [
+      "Canje licencia conducir Chile",
+      "Licencia nacional por canje Chile",
+      "Licencia chilena Argentina"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Agencia Nacional de Seguridad Vial",
+    "sigla": "ANSV",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Chilenos dentro del primer año de residencia en la Argentina",
+      "Titulares de una licencia de Conducir chilena vigente y otorgada antes de la obtención de la residencia"
+    ],
+    "requisitos": [
+      {
+        "texto": "Licencia de Conducir chilena (original y copia)",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI argentino (original y copia)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cédula de identidad chilena (original y copia)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener la edad correspondiente para la clase de licencia solicitada",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de antecedentes penales (si se solicita clase D)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado que autorice su canje (generado online)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación en un único archivo PDF a color, legible y sin otros elementos en el fondo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Examen psicofísico",
+        "aclaracion": null
+      },
+      {
+        "texto": "Examen práctico de idoneidad conductiva (para clases B2, E2, G1, G2 y G3)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Solicitar el certificado que autorice el canje a [email protected]"
+      },
+      {
+        "texto": "Generar la boleta de pago del Certificado Nacional de Antecedentes de Tránsito (CENAT) desde la página de Seguridad Vial de la Pcia. de Buenos Aires si se vive en esa provincia"
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Concurrir al Centro Emisor de Licencias de Conducir (CEL) del municipio correspondiente al domicilio en el DNI argentino"
+      },
+      {
+        "texto": "Presentar la documentación original y copia"
+      },
+      {
+        "texto": "Realizar el examen psicofísico"
+      },
+      {
+        "texto": "Retirar la Licencia Nacional de Conducir en la fecha indicada según la jurisdicción"
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": "3 meses",
+    "consejos": [
+      "La licencia de conducir caducará en territorio extranjero después de un año continuo de permanencia",
+      "El reconocimiento no aplica a las licencias profesionales utilizadas con fines comerciales",
+      "La gestión de turnos en el CEL está sujeta a disponibilidad"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/acuerdo-entre-la-republica-argentina-y-la-republica-de-chile-sobre-reconocimiento-reciproco",
+      "titulo": "Acuerdo entre la República Argentina y la República de Chile sobre reconocimiento recíproco y canje de Licencias de Conducir | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:23:28.292Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T04:23:28.292Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La dirección exacta del CEL no se especifica en el texto, solo se indica que debe ser el municipio correspondiente al domicilio en el DNI argentino",
+    "El enlace para sacar turno no se especifica en el texto, solo se menciona que la gestión está sujeta a disponibilidad"
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "tramite": {
+    "slug": "tramitar-documento-de-viaje-para-apatridas-y-refugiados",
+    "nombre": "Tramitar documento de viaje para apátridas y refugiados",
+    "nombre_busqueda": "Documento de viaje apatridas refugiados",
+    "resumen": "Este documento de viaje está destinado a los extranjeros reconocidos como apátridas y/o refugiados. El trámite lleva 15 minutos y tiene un costo de 100000 centavos.",
+    "sinonimos": [
+      "Documento de viaje para apátridas",
+      "Documento de viaje para refugiados"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria",
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Migraciones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Extranjeros a quienes aplica la convención sobre el estatuto de los apátridas.",
+      "Extranjeros a quienes aplica la convención sobre el estatuto de los refugiados."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI vigente emitido por la Dirección Nacional del Renaper.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de apatridia o de refugiado emitido por la Secretaría Ejecutiva de la Comisión Nacional para los Refugiados (CONARE).",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI de padre o madre.",
+        "aclaracion": "En caso de menores de 18 años no emancipados."
+      },
+      {
+        "texto": "Partida de nacimiento traducida y apostillada.",
+        "aclaracion": "En caso de menores de 18 años no emancipados."
+      },
+      {
+        "texto": "Testimonio judicial de la designación de la/s persona/s que ejerza/n la tutela, la curatela, o en su defecto la autorización judicial correspondiente.",
+        "aclaracion": "En caso de personas con capacidad restringida o incapaces."
+      },
+      {
+        "texto": "DNI de la/s persona/s que ejerza/n la tutela, la curatela o de la persona autorizada judicialmente.",
+        "aclaracion": "En caso de personas con capacidad restringida o incapaces."
+      },
+      {
+        "texto": "Consentimiento expreso de quien ejerza la responsabilidad parental, la tutela o la curatela con la indicación de que su ejercicio no se encuentra limitado para prestarlo.",
+        "aclaracion": "En caso de personas con capacidad restringida o incapaces."
+      },
+      {
+        "texto": "Sentencia judicial emitida por juzgado competente.",
+        "aclaracion": "En caso de menores emancipados."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Sacá turno."
+      },
+      {
+        "texto": "Acercate al Dpto. de Documentación de Extranjeros de la Dirección Nacional de Migraciones, ubicado en Av. Antártida Argentina 1355 Ed. 3."
+      },
+      {
+        "texto": "Entregá la documentación requerida."
+      },
+      {
+        "texto": "Aboná el trámite."
+      },
+      {
+        "texto": "Allí te tomarán los datos personales, foto y huellas digitales."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": "15 minutos",
+    "consejos": [
+      "La emisión está supeditada a la verificación de la documentación y a la aprobación de los controles externos al organismo."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 100000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/tramitar-documento-de-viaje-para-apatridas-y-refugiados"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Dpto. de Documentación de Extranjeros de la Dirección Nacional de Migraciones",
+      "direccion": "Av. Antártida Argentina 1355 Ed. 3",
+      "localidad": "Av. Antártida Argentina 1355 Ed. 3",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/tramitar-documento-de-viaje-para-apatridas-y-refugiados"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tramitar-documento-de-viaje-para-apatridas-y-refugiados",
+      "titulo": "Tramitar Documento de viaje para apátridas y refugiados | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T17:46:06.544Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina en CABA/GBA (Hipólito Yrigoyen N° 952 1er piso momentáneamente Av. Antártida Argentina 1355 Ed. 4).",
+    "Dirección de la oficina en el interior del país (delegación u oficina migratoria de la Dirección Nacional de Migraciones correspondiente).",
+    "Enlace para sacar turno."
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "tramite": {
+    "slug": "solicitar-el-alta-de-una-aplicacion-cliente-por-tramites-distancia",
+    "nombre": "Solicitar el alta de una aplicación cliente por trámites a distancia",
+    "nombre_busqueda": "Alta aplicación cliente Autenticar TAD",
+    "resumen": "Solicitá el alta de tu aplicación cliente para autenticar usuarios a través de la plataforma Autenticar, indicando los datos del sistema, el proveedor de autenticación y la concurrencia esperada.",
+    "sinonimos": [
+      "Alta aplicación cliente PAEC",
+      "Inscripción aplicación cliente Autenticar",
+      "Registro aplicación cliente TAD"
+    ],
+    "temas": [
+      "firma-digital"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Jefatura de Gabinete de Ministros",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Si necesitás acreditar la identidad de las personas usuarias de tu sitio web, sistema o aplicación.",
+      "Si formás parte del sector privado.",
+      "Si la solicitud se realiza por parte de una empresa u organismo público."
+    ],
+    "requisitos": [
+      {
+        "texto": "Información completa sobre el Aplicación o Sistema que querés incorporar a Autenticar: Nombre, descripción y tecnología que utiliza.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Proveedor de Autenticación / Proceso de Autenticación que querés utilizar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "URL de redirección para un vez realizada la autenticación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombre y apellido del Responsable de la Solicitud: nombre y apellido del responsable del Sistema o Aplicación que desea incorporarse a la plataforma AUTENTICAR.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Organismo: organismo administrador del Sistema o Aplicación que desea incorporarse a la plataforma AUTENTICAR.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombre del Sistema: nombre identificatorio del Sistema o Aplicación que desea incorporarse a la plataforma AUTENTICAR.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descripción del Sistema: breve descripción del Sistema o Aplicación que desea incorporarse a la plataforma AUTENTICAR.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tecnología en la que está desarrollado: tecnología en la cual el Sistema o Aplicación que desea incorporarse a la plataforma AUTENTICAR está desarrollado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Concurrencia: se declara la cantidad de usuarios estimados que se espera que ingresen por mes a su sistema pasando por AUTENTICAR.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Aceptá términos y condiciones de uso del servicio.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá el trámite Alta de acceso al servicio AUTENTICAR."
+      },
+      {
+        "texto": "Completá los siguientes datos: Nombre y apellido del Responsable de la Solicitud, Organismo, Nombre del Sistema, Descripción del Sistema, Tecnología en la que está desarrollado, Proveedor de Autenticación / Proceso de Autenticación, URL redirección y Concurrencia."
+      },
+      {
+        "texto": "Aceptá términos y condiciones de uso del servicio."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Las solicitudes se responden con el alta en ambiente de testing, y deberás responderla con evidencias de que la integración se realizó con éxito para avanzar al ambiente productivo.",
+      "Para ello, en conjunto con los datos que te enviaremos encontrarás un documento de ejemplo de evidencia que esperamos.",
+      "El pedido para adjuntar la evidencia llegará en modo tarea de subsanación (en caso de carecer en este punto de la URL productiva, también se le enviará a subsanar dicho campo)."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-el-alta-de-una-aplicacion-cliente-por-tramites-distancia",
+      "titulo": "Solicitar el Alta de una Aplicación Cliente por Trámites a Distancia | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T08:15:29.834Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-el-alta-de-una-aplicacion-cliente-por-gde",
+      "titulo": "Solicitar el Alta de una Aplicación Cliente por GDE | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:15:29.834Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El funcionario responsable del área dueña de la aplicación/trámite en cuestión, con cargo no inferior a Director, deberá iniciar el trámite mediante Expediente Electrónico (EE) del sistema GDE para dar de alta las credenciales de acceso en la plataforma."
+  ]
+}

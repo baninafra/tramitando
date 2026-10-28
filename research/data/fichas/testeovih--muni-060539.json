@@ -1,0 +1,86 @@
+{
+  "tramite": {
+    "slug": "testeo-rapido-vih-its",
+    "nombre": "Testeo rápido de VIH e ITS",
+    "nombre_busqueda": "testeo de VIH y sífilis",
+    "resumen": "Podés hacerte un test rápido y confidencial de VIH y sífilis en el Centro de Prevención, Promoción y Testeo Rápido de VIH e ITS. El resultado se obtiene en 5 minutos.",
+    "sinonimos": [
+      "test de VIH",
+      "test de sífilis"
+    ],
+    "temas": [
+      "salud-y-prevencion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060539",
+  "organismo": {
+    "nombre": "Secretaría de Desarrollo e Integración Social",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas interesadas en hacerse el test."
+    ],
+    "requisitos": [
+      {
+        "texto": "Firmá el consentimiento en la planilla.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate al Centro de Prevención, Promoción y Testeo Rápido de VIH e ITS para hacerte el test."
+      },
+      {
+        "texto": "Completá la planilla y firmá el consentimiento."
+      },
+      {
+        "texto": "Recibí el resultado, que se obtiene en 5 minutos."
+      },
+      {
+        "texto": "Si el resultado da positivo, recibí la articulación con el Hospital Eva Perón para el diagnóstico y tratamiento, y el acompañamiento de profesionales."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "El resultado se obtiene en 5 minutos.",
+    "consejos": [
+      "El procedimiento es indoloro y confidencial."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Centro de Prevención, Promoción y Testeo Rápido de VIH e ITS",
+      "direccion": "Perú 842",
+      "localidad": "Merlo Centro",
+      "horario": null,
+      "fuente_url": "https://www.merlo.gob.ar/testeovih/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.merlo.gob.ar/testeovih/",
+      "titulo": "TESTEO RÁPIDO DE VIH | Merlo Buenos Aires",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T15:03:52.907Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica quiénes pueden acceder al test.",
+    "No se informa si hace falta sacar turno.",
+    "No se indica si el test tiene costo."
+  ]
+}

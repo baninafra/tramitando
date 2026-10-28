@@ -1,0 +1,67 @@
+{
+  "tramite": {
+    "slug": "presentar-un-oficio-o-solicitud-de-informe-requerido-por-organismos-oficiales",
+    "nombre": "Presentar un oficio o solicitud de informe requerido por organismos oficiales",
+    "nombre_busqueda": "Presentar un oficio o solicitud de informe requerido por organismos oficiales",
+    "resumen": "Diligenciamiento electrónico de oficios, informes o expedientes requeridos por el Ministerio Público Fiscal de la Nación, el Ministerio Público de la Defensa de la Nación, organismos públicos nacionales, provinciales, municipales y dependientes del gobierno de CABA.",
+    "sinonimos": [],
+    "temas": [
+      "gobierno-y-participacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Organismos públicos nacionales, provinciales, municipales y dependientes del gobierno de CABA."
+    ],
+    "requisitos": [
+      {
+        "texto": "Oficio dirigido a la Inspección General de Justicia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "El oficio debe ser enviado únicamente desde una casilla de correo oficial.",
+        "aclaracion": null
+      },
+      {
+        "texto": "El oficio debe estar suscripto por el titular del organismo remitente, o, en su caso, funcionario con rango no menor al de director o su equivalente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Enviá el oficio desde una casilla de e-mail oficial a [email protected]."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/presentar-un-oficio-o-solicitud-de-informe-requerido-por-organismos-oficiales",
+      "titulo": "Presentar un oficio o solicitud de informe requerido por organismos oficiales | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T01:44:07.174Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La información sobre el plazo de respuesta o duración del trámite no aparece en el texto."
+  ]
+}

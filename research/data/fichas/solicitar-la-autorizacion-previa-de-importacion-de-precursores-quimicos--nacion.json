@@ -1,0 +1,102 @@
+{
+  "tramite": {
+    "slug": "solicitar-autorizacion-previa-importacion-precursores-quimicos",
+    "nombre": "Solicitar autorización previa de importación de precursores químicos",
+    "nombre_busqueda": "Autorización previa importación precursores químicos",
+    "resumen": "El Director Técnico o Co-director Técnico registrado debe presentar la solicitud en la plataforma Trámites a Distancia con los documentos requeridos por ANMAT.",
+    "sinonimos": [
+      "Autorización previa importación precursores químicos",
+      "Solicitud autorización previa importación precursores químicos"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El Director Técnico o Co-director Técnico registrado"
+    ],
+    "requisitos": [
+      {
+        "texto": "Certificado de Inscripción del Establecimiento para Sustancias Controladas vigente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Registro de Especialidad Medicinal (REM)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Factura Proforma",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de cumplimiento de Disp. ANMAT N° 554/01 (E.S.B./E.E.B./B.S.E.)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación expedida por la autoridad sanitaria que certifica registro del fabricante en el país de origen (si aplica)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota indicando 'no aplica' si no hay documentos no obligatorios",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar a la plataforma Trámites a Distancia"
+      },
+      {
+        "texto": "Buscar el trámite detallado como 'Autorización Previa de Importación de Precursores Químicos'"
+      },
+      {
+        "texto": "Completar los datos de la empresa"
+      },
+      {
+        "texto": "Completar el Formulario de Autorización Previa de Solicitud Importación Precursores Químicos"
+      },
+      {
+        "texto": "Adjuntar los documentos marcados como obligatorios"
+      },
+      {
+        "texto": "Adjuntar los documentos no obligatorios si corresponden, o indicar 'no aplica'"
+      },
+      {
+        "texto": "El Director Técnico o Co-director Técnico registrado firmará electrónicamente la documentación"
+      },
+      {
+        "texto": "Proceder al envío de la solicitud"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-autorizacion-previa-de-importacion-de-precursores-quimicos",
+      "titulo": "Solicitar la autorización previa de importación de precursores químicos | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T09:31:05.500Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo de resolución no se especifica en el texto."
+  ]
+}

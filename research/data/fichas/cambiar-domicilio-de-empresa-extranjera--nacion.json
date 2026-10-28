@@ -1,0 +1,66 @@
+{
+  "tramite": {
+    "slug": "cambiar-domicilio-de-empresa-extranjera",
+    "nombre": "Cambiar domicilio de empresa extranjera",
+    "nombre_busqueda": "Cambiar domicilio empresa extranjera",
+    "resumen": "Trámite en línea gratuito para transportistas de carga extranjeros con permiso complementario vigente que modifiquen su domicilio real.",
+    "sinonimos": [],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Transportistas de carga extranjeros con permiso complementario vigente que realizan transporte de cargas en forma bilateral con la República Argentina o en tránsito por Argentina, con destino a Brasil, Uruguay, Paraguay, Bolivia, Chile y/o Perú."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de solicitud de cambio de domicilio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fax de notificación de país de origen",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Presentá la documentación a través de TAD."
+      },
+      {
+        "texto": "Asegurate de que la clave fiscal sea de nivel 3."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/cambiar-domicilio-de-empresa-extranjera",
+      "titulo": "Cambiar domicilio de empresa extranjera | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T15:05:51.769Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica el plazo de duración del trámite ni si se requiere asistencia presencial."
+  ]
+}

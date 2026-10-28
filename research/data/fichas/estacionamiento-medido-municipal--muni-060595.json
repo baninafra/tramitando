@@ -1,0 +1,216 @@
+{
+  "tramite": {
+    "slug": "estacionamiento-medido-municipal",
+    "nombre": "Usar el estacionamiento medido",
+    "nombre_busqueda": "estacionamiento medido de Olavarría",
+    "resumen": "Pagá el estacionamiento medido en Olavarría con la app, escaneando un código QR o en un punto de venta adherido. Las personas frentistas y quienes tienen certificado de discapacidad pueden solicitar la exención.",
+    "sinonimos": [
+      "SEM Olavarría",
+      "estacionamiento medido de Olavarría"
+    ],
+    "temas": [
+      "estacionamiento-medido"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060595",
+  "organismo": {
+    "nombre": "Municipalidad del Partido de Olavarría",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés usar el sistema de estacionamiento medido en las zonas habilitadas de Olavarría.",
+      "Si sos frentista o tenés certificado de discapacidad, podés solicitar la exención."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de celular.",
+        "aclaracion": "Si usás la aplicación SEM Mobile."
+      },
+      {
+        "texto": "Patente del vehículo.",
+        "aclaracion": "Si usás la aplicación o el estacionamiento puntual."
+      },
+      {
+        "texto": "DNI que acredite domicilio en zona 1 o 2, y una fotocopia.",
+        "aclaracion": "Si solicitás la exención como frentista."
+      },
+      {
+        "texto": "Copia de la escritura sellada o certificada por personal habilitado.",
+        "aclaracion": "Si solicitás la exención como frentista."
+      },
+      {
+        "texto": "Contrato de alquiler y una copia.",
+        "aclaracion": "Si solicitás la exención como frentista y sos inquilino."
+      },
+      {
+        "texto": "Título del vehículo para acreditar el dominio, y una copia.",
+        "aclaracion": "Si solicitás la exención como frentista."
+      },
+      {
+        "texto": "Certificado de discapacidad y una copia.",
+        "aclaracion": "Si solicitás la exención por discapacidad."
+      },
+      {
+        "texto": "Título o tarjeta de cada vehículo para acreditar el dominio, y una copia.",
+        "aclaracion": "Si solicitás la exención por discapacidad."
+      },
+      {
+        "texto": "DNI de la persona titular del vehículo y de la persona con discapacidad.",
+        "aclaracion": "Si solicitás la exención por discapacidad."
+      },
+      {
+        "texto": "Documento que acredite el vínculo entre quien contribuye y la persona con discapacidad, como certificado de nacimiento o de matrimonio, según corresponda.",
+        "aclaracion": "Si solicitás la exención por discapacidad."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Descargá e instalá gratis la aplicación SEM Mobile."
+      },
+      {
+        "texto": "Registrate con tu número de celular e ingresá la clave que recibís por SMS."
+      },
+      {
+        "texto": "Ingresá la patente del vehículo para completar el registro."
+      },
+      {
+        "texto": "Cargá crédito con tarjeta de débito o crédito en la aplicación, o en efectivo en un punto de venta adherido."
+      },
+      {
+        "texto": "Abrí la aplicación y tocá “Iniciar Estacionamiento” para comenzar."
+      },
+      {
+        "texto": "Abrí la aplicación y tocá “Finalizar Estacionamiento” al terminar; se descontará el monto correspondiente del crédito precargado."
+      },
+      {
+        "texto": "Para estacionar de manera puntual con el celular, escaneá con la cámara el código QR de la zona, ingresá la patente y pagá con tarjeta de débito o crédito."
+      },
+      {
+        "texto": "Revisá el comprobante que recibís por correo electrónico; no hace falta dejarlo en el vehículo."
+      },
+      {
+        "texto": "Para pagar una infracción, buscala desde el menú de la aplicación e ingresá el dominio del vehículo; podés pagar con crédito o débito."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Estacioná el vehículo."
+      },
+      {
+        "texto": "Acercate a un punto de venta adherido y pedí “Estacionamiento Medido”."
+      },
+      {
+        "texto": "Indicá la patente y el tiempo que vas a permanecer; la compra mínima es de una hora."
+      },
+      {
+        "texto": "Revisá el comprobante digital que recibís por correo electrónico; no hace falta dejarlo en el vehículo."
+      },
+      {
+        "texto": "Para pagar una infracción, acercate a un punto de venta adherido y aboná en efectivo."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "Si pagás voluntariamente una infracción dentro de las 48 horas de labrada, abonás 550000 centavos. Si pagás entre el tercer y el noveno día corrido, abonás 690000 centavos. Después de esos plazos, se…",
+    "consejos": [
+      "La exención para frentistas se renueva cada año calendario. Presentá la documentación entre el 1 de enero y el 31 de marzo.",
+      "El registro de personas con certificado de discapacidad se hace una sola vez y está abierto todo el año.",
+      "El abono mensual tiene una vigencia de 30 días corridos y solo sirve para la zona para la que lo compraste.",
+      "Si cambiás de zona mientras estacionás, finalizá el estacionamiento y volvé a iniciarlo en la nueva zona.",
+      "Revisá el número de zona en los carteles de las esquinas.",
+      "Podés configurar una alarma para que te recuerde finalizar el estacionamiento.",
+      "El crédito cargado solo se puede usar para iniciar o finalizar estacionamientos."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "Zona 1",
+      "gratis": false,
+      "monto_centavos": 60000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.olavarria.gov.ar/servicios/estacionamiento-medido-municipal/"
+    },
+    {
+      "modalidad": "Zona 2",
+      "gratis": false,
+      "monto_centavos": 30000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.olavarria.gov.ar/servicios/estacionamiento-medido-municipal/"
+    },
+    {
+      "modalidad": "Zona 1",
+      "gratis": false,
+      "monto_centavos": 4300000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.olavarria.gov.ar/servicios/estacionamiento-medido-municipal/"
+    },
+    {
+      "modalidad": "Zona 2",
+      "gratis": false,
+      "monto_centavos": 1600000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.olavarria.gov.ar/servicios/estacionamiento-medido-municipal/"
+    },
+    {
+      "modalidad": "Vivienda multifamiliar o PH",
+      "gratis": false,
+      "monto_centavos": 2150000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.olavarria.gov.ar/servicios/estacionamiento-medido-municipal/"
+    },
+    {
+      "modalidad": "Dentro de las 48 horas de labrada la infracción",
+      "gratis": false,
+      "monto_centavos": 550000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.olavarria.gov.ar/servicios/estacionamiento-medido-municipal/"
+    },
+    {
+      "modalidad": "Del tercer al noveno día corrido desde que se labró la infracción",
+      "gratis": false,
+      "monto_centavos": 690000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.olavarria.gov.ar/servicios/estacionamiento-medido-municipal/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Oficina de atención al usuario",
+      "direccion": "Rivadavia 2780",
+      "localidad": "Olavarría",
+      "horario": null,
+      "fuente_url": "https://www.olavarria.gov.ar/servicios/estacionamiento-medido-municipal/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.olavarria.gov.ar/servicios/estacionamiento-medido-municipal/",
+      "titulo": "Estacionamiento Medido Municipal | Municipalidad del Partido de Olavarría",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T15:40:06.025Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no indica el plazo para otorgar la exención.",
+    "El texto no especifica el nombre de los puntos de venta adheridos."
+  ]
+}

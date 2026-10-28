@@ -1,0 +1,200 @@
+{
+  "tramite": {
+    "slug": "designar-administrador-de-relaciones-o-apoderado-ante-arca",
+    "nombre": "Designar administrador de relaciones o apoderado ante ARCA",
+    "nombre_busqueda": "Designar administrador de relaciones o apoderado ante ARCA",
+    "resumen": "Este trámite permite que contribuyentes designen a otros usuarios para que utilicen los servicios de ARCA con clave fiscal en su nombre. Es gratuito y se realiza presentando documentación específica en una dependencia de ARCA.",
+    "sinonimos": [
+      "Designar administrador de relaciones",
+      "Designar apoderado ante ARCA",
+      "Designar representante legal ante ARCA"
+    ],
+    "temas": [
+      "cuil-y-clave-de-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Agencia de Recaudación y Control Aduanero",
+    "sigla": "ARCA",
+    "web": "https://www.argentina.gob.ar/servicio/designar-administrador-de-relaciones-o-apoderado-ante-arca"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas físicas imposibilitadas de concurrir a dependencias de ARCA o de actuar como Administrador de Relaciones.",
+      "Personas jurídicas obligadas a actuar ante ARCA a través de un representante legal.",
+      "Personas físicas que por motivos de discapacidad permanente o incapacidad física temporal se encuentren imposibilitadas de concurrir a una dependencia de ARCA para tramitar su clave fiscal.",
+      "Personas físicas residentes en el exterior imposibilitadas de concurrir a una dependencia del organismo para tramitar su clave fiscal.",
+      "Personas jurídicas cuyo representante legal se encuentre imposibilitado de actuar como Administrador de Relaciones.",
+      "Personas de existencia visible con incapacidad absoluta.",
+      "Personas privadas de la libertad.",
+      "Personas físicas en estado de quiebra representadas por el síndico."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento de Identidad (solo será válido el DNI digital).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia autenticada de las normas que regulan el funcionamiento -contrato social, estatuto, etc.- de la persona jurídica.",
+        "aclaracion": "Solo para representantes legales de personas jurídicas."
+      },
+      {
+        "texto": "Documentación que lo acredite como representante legal de la entidad (acta de asamblea, sentencia judicial, etc.).",
+        "aclaracion": "Solo para representantes legales de personas jurídicas."
+      },
+      {
+        "texto": "En caso de sociedades regulares, la designación del cargo debe estar inscripta ante el Registro Público de Comercio Competente.",
+        "aclaracion": "Solo para representantes legales de personas jurídicas."
+      },
+      {
+        "texto": "Multinota - F 206/M",
+        "aclaracion": "Solo para representantes legales de personas jurídicas."
+      },
+      {
+        "texto": "Documento de identidad del Síndico (solo será válido el DNI digital).",
+        "aclaracion": "Solo para síndicos del concurso y síndicos de la quiebra."
+      },
+      {
+        "texto": "Resolución judicial de designación.",
+        "aclaracion": "Solo para síndicos del concurso y síndicos de la quiebra."
+      },
+      {
+        "texto": "Documento de identidad (solo será válido el DNI digital).",
+        "aclaracion": "Solo para fiduciarios."
+      },
+      {
+        "texto": "Copia del contrato de fideicomiso.",
+        "aclaracion": "Solo para fiduciarios."
+      },
+      {
+        "texto": "Contrato de fideicomiso en los términos de la Ley 24.441 o documentación que lo acredite como tal.",
+        "aclaracion": "Solo para fiduciarios."
+      },
+      {
+        "texto": "Copia del reglamento de copropiedad y administración y su inscripción en el registro correspondiente y/o documentación que lo acredite como representante (Acta de Asamblea, etc.).",
+        "aclaracion": "Solo para representantes legales de Consorcios de la Ley 13.512."
+      },
+      {
+        "texto": "Copia del certificado que acredite la representación diplomática, extendido por el Ministerio de Relaciones Exteriores, Comercio Internacional y Culto.",
+        "aclaracion": "Solo para representaciones diplomáticas."
+      },
+      {
+        "texto": "Formulario Multinota F. 206, invocando alguna de las causales de excepción válidas y adjuntando la documentación correspondiente.",
+        "aclaracion": "Solo para Administrador de Relaciones Apoderado."
+      },
+      {
+        "texto": "Poder otorgado por causal de discapacidad: copia del Certificado Único de Discapacidad.",
+        "aclaracion": "Solo para Administrador de Relaciones Apoderado."
+      },
+      {
+        "texto": "Poder otorgado por causal de incapacidad física temporal: Certificado médico que justifique fehacientemente dicha situación.",
+        "aclaracion": "Solo para Administrador de Relaciones Apoderado."
+      },
+      {
+        "texto": "Poder otorgado por causal de residencia en el exterior: copia del certificado de residencia en el exterior legalizado por la Cancillería Argentina, dependiente del Ministerio de Relaciones Exteriores y Culto y, en caso de corresponder, con su traducción efectuada por traductor público y refrendada…",
+        "aclaracion": "Solo para Administrador de Relaciones Apoderado."
+      },
+      {
+        "texto": "Cuando se trate de documentación proveniente de países signatarios de la Convención de La Haya que suprime la exigencia de legalización de documentos públicos extranjeros.",
+        "aclaracion": "Solo para Administrador de Relaciones Apoderado."
+      },
+      {
+        "texto": "Formulario Nº 3283/F o, para el caso de apoderados de representantes legales de personas jurídicas, el Formulario Nº 3283/J.",
+        "aclaracion": "Solo para Administrador de Relaciones Apoderado."
+      },
+      {
+        "texto": "Copia auténtica del testimonio de curatela, para representantes legales de personas incapaces.",
+        "aclaracion": "Solo para Administrador de Relaciones Apoderado."
+      },
+      {
+        "texto": "Copia autenticada del testimonio judicial de guarda o tutela, para representantes legales de menores de 18 años no emancipados, en el caso que no se trate de los padres.",
+        "aclaracion": "Solo para Administrador de Relaciones Apoderado."
+      },
+      {
+        "texto": "Certificación expedida por la autoridad carcelaria que acredite la privación de la libertad.",
+        "aclaracion": "Solo para Administrador de Relaciones Apoderado."
+      },
+      {
+        "texto": "Certificación expedida por el juzgado penal interviniente que acredite la situación procesal procesado/condenado con sentencia firme de la persona privada de la libertad.",
+        "aclaracion": "Solo para Administrador de Relaciones Apoderado."
+      },
+      {
+        "texto": "Si se trata de personas con sentencia condenatoria firme, copia certificada del testimonio de curatela, en virtud de la incapacidad establecida por el Código Penal en este caso.",
+        "aclaracion": "Solo para Administrador de Relaciones Apoderado."
+      },
+      {
+        "texto": "Documentación detallada en los puntos 1 o 2 y, de corresponder 3, pertenecientes a la persona física que invoque la calidad de administrador judicial.",
+        "aclaracion": "Solo para Administrador de Relaciones Apoderado."
+      },
+      {
+        "texto": "Copia certificada de la designación judicial del administrador.",
+        "aclaracion": "Solo para Administrador de Relaciones Apoderado."
+      },
+      {
+        "texto": "Documentación detallada en el procedimiento para obtener la clave fiscal.",
+        "aclaracion": "Solo para cónyuge, presuntos herederos legítimos de persona fallecida o los representantes legales de éstos, albacea o legatario."
+      },
+      {
+        "texto": "Copia autenticada del acta de defunción.",
+        "aclaracion": "Solo para cónyuge, presuntos herederos legítimos de persona fallecida o los representantes legales de éstos, albacea o legatario."
+      },
+      {
+        "texto": "Libreta de casamiento o partida de nacimiento, según corresponda, a los efectos de la acreditación del parentesco.",
+        "aclaracion": "Solo para cónyuge, presuntos herederos legítimos de persona fallecida o los representantes legales de éstos, albacea o legatario."
+      },
+      {
+        "texto": "Fotocopia autenticada del testimonio de sentencia de adopción, en el caso de hijos adoptivos.",
+        "aclaracion": "Solo para cónyuge, presuntos herederos legítimos de persona fallecida o los representantes legales de éstos, albacea o legatario."
+      },
+      {
+        "texto": "Documentación que acredite la representación legal.",
+        "aclaracion": "Solo para cónyuge, presuntos herederos legítimos de persona fallecida o los representantes legales de éstos, albacea o legatario."
+      },
+      {
+        "texto": "Las copias de la documentación deberán estar certificadas por escribano público, entidad bancaria, juez de paz o autoridad policial.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en una dependencia de ARCA con el formulario Multinota 206 y la documentación pertinente."
+      },
+      {
+        "texto": "Podrás autorizar a un tercero para presentar la documentación en la dependencia, el cual deberá encontrarse autorizado por medio del formulario 3283."
+      },
+      {
+        "texto": "Presentá en la dependencia el formulario Multinota F. 206, invocando alguna de las causales de excepción válidas y adjuntando la documentación correspondiente."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/designar-administrador-de-relaciones-o-apoderado-ante-arca",
+      "titulo": "Designar Administrador de Relaciones o apoderado ante ARCA | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T22:43:53.393Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de oficinas",
+    "Localidad de oficinas",
+    "Nombre de oficinas",
+    "Requisito de clave fiscal con nivel de seguridad 3",
+    "Vigencia desde fecha exacta"
+  ]
+}

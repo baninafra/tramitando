@@ -1,0 +1,79 @@
+{
+  "tramite": {
+    "slug": "inscripcion-anotacion-documentos-registro-propiedad-inmueble",
+    "nombre": "Realizar inscripciones o anotaciones de documentos en el registro de la propiedad inmueble",
+    "nombre_busqueda": "Inscripción de documentos en el registro de la propiedad inmueble",
+    "resumen": "Presentá documentos notariales, judiciales o administrativos que afecten derechos reales sobre inmuebles en la oficina de Venezuela 1135.",
+    "sinonimos": [
+      "Inscripción de documentos registrales",
+      "Anotación de documentos en el registro de la propiedad inmueble"
+    ],
+    "temas": [
+      "catastro-e-inmuebles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro de la Propiedad Inmueble",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Abogados",
+      "Escribanos",
+      "Gestores"
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento notarial, judicial o administrativo con la minuta correspondiente",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en Venezuela 1135, Ciudad Autónoma de Buenos Aires, y dirigite al sector Presentación de Documentos."
+      },
+      {
+        "texto": "Recibí un cupón con el número de trámite y fecha de presentación del mismo, y un segundo cupón correspondiente al lote de pago para abonar en el sector cajas."
+      },
+      {
+        "texto": "Pasado el plazo correspondiente, retirá la documentación presentando el cupón."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/realizar-inscripciones-o-anotaciones-de-documentos-en-el-registro-de-la-propiedad-inmueble",
+      "titulo": "Realizar inscripciones o anotaciones de documentos en el Registro de la Propiedad Inmueble | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T02:19:04.240Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T02:19:04.240Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo correspondiente para retirar la documentación no se especifica en el texto.",
+    "Los montos exactos de los costos no se detallan en el texto, solo se indica consultar la tabla de valores o usar la calculadora de trámites registrales."
+  ]
+}

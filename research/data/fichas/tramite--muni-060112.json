@@ -1,0 +1,76 @@
+{
+  "tramite": {
+    "slug": "consulta-de-partidas-y-deuda",
+    "nombre": "Consulta de Partidas, Estado de Deuda y Tasas Municipales",
+    "nombre_busqueda": "Verificar partidas y deuda municipal",
+    "resumen": "Permite al ciudadano verificar partidas a su nombre, estado de deuda de tasas liquidadas y, si es proveedor, ordenes de compra y facturas devengadas desde cualquier lugar.",
+    "sinonimos": [
+      "Consulta de deuda municipal",
+      "Verificar partidas Bragado",
+      "Estado de cuentas municipal"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "catastro-e-inmuebles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060112",
+  "organismo": {
+    "nombre": "Municipio de Bragado",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier ciudadano que tenga registrado su CUIT en el sistema."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener registrado su CUIT en el sistema Autogestion.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sistema Autogestion con tu CUIT y CLAVE."
+      },
+      {
+        "texto": "Verificá las distintas partidas a tu nombre y su estado."
+      },
+      {
+        "texto": "Consultá el estado de deuda sobre las tasas liquidadas a tu nombre."
+      },
+      {
+        "texto": "Si sos proveedor, verificá Ordenes de Compra, Facturas devengadas y Ordenes de Pago emitidas según la fecha correspondiente."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Podés realizar esta consulta desde tu casa, trabajo o cualquier lugar con PC o celular.",
+      "Para consultas o reclamos comunicate a recaudacion@bragado.gov.ar o proveedores@bragado.gov.ar."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://autogestion.bragado.gov.ar/",
+      "titulo": "Sistema Autogestion - Municipio de Bragado",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T11:29:31.148Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos de tasas o plazos de vencimiento en el texto."
+  ]
+}

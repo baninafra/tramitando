@@ -1,0 +1,73 @@
+{
+  "tramite": {
+    "slug": "consultar-conductores-vehiculos-y-empresas-habilitadas",
+    "nombre": "Consultar conductores, vehículos y empresas habilitadas",
+    "nombre_busqueda": "Consultar conductores, vehículos y empresas habilitadas",
+    "resumen": "Podés consultar en línea si un conductor, vehículo o empresa de transporte tiene habilitaciones vigentes. Es un trámite gratuito que no requiere turno.",
+    "sinonimos": [
+      "Verificar habilitaciones de transporte",
+      "Consultar conductores habilitados",
+      "Consultar vehículos habilitados",
+      "Consultar empresas habilitadas"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Transporte",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que quiera cerciorarse sobre las habilitaciones otorgadas a conductores, vehículos y empresas de transporte."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de DNI para consultar conductores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de patente para consultar vehículos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombre para consultar empresas.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario en línea según el objeto de tu consulta."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consultar-conductores-vehiculos-y-empresas-habilitadas",
+      "titulo": "Consultar conductores, vehículos y empresas habilitadas | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T15:16:15.050Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica si el trámite requiere turno o no."
+  ]
+}

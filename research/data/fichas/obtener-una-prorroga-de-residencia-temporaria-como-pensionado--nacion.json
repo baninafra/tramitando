@@ -1,0 +1,113 @@
+{
+  "tramite": {
+    "slug": "prorroga-residencia-temporaria-pensionado",
+    "nombre": "Obtener una prórroga de residencia temporaria como pensionado",
+    "nombre_busqueda": "prorroga residencia pensionado",
+    "resumen": "Se otorga una prórroga de un año a personas extranjeras que obtuvieron residencia temporaria como pensionado y desean extender su permanencia en el país.",
+    "sinonimos": [],
+    "temas": [
+      "residencias-temporarias-y-permanentes",
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Migraciones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas extranjeras que hayan obtenido una residencia temporaria en la categoría de pensionado y deseen extender su permanencia."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento Nacional de Identidad o Pasaporte válido y vigente (todas las nacionalidades).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Nacionalidad emitido por autoridad Consular, con fotografía y legalizado por el Ministerio de Relaciones Exteriores, Comercio Internacional y Culto de la Nación.",
+        "aclaracion": "Solo para quienes no presenten DNI o Pasaporte."
+      },
+      {
+        "texto": "Certificado de Antecedentes Penales Argentinos emitido por el Registro Nacional de Reincidencia.",
+        "aclaracion": "Solo exigible a mayores de 16 años. No es necesaria su tramitación por fuera."
+      },
+      {
+        "texto": "Constancia expedida por un gobierno, un organismo internacional o una empresa particular que certifique que el beneficio obtenido continúa vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "El monto de la pensión o jubilación debe ser igual o superior a la suma de CINCO (5) Salarios Mínimo Vital y Móvil.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Toda documentación expedida en el extranjero deberá contar con la legalización del Consulado Argentino, sito en el país emisor del documento, o Apostillada, si el país hubiera ratificado el Convenio de La Haya.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Toda documentación expedida por las representaciones consulares en el territorio nacional deberá contar con la legalización del Ministerio de Relaciones Exteriores, Comercio Internacional y Culto, excepto MERCOSUR.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Toda documentación expedida en idioma extranjero deberá contar con la traducción al castellano efectuada por Traductor Público Nacional y legalizada por el Colegio de Traductores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La documentación a presentar deberá ser original.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá tu trámite a distancia ingresando en el sistema RaDEX."
+      },
+      {
+        "texto": "Registrate como usuario, completá el formulario de solicitud y aboná las tasas correspondientes."
+      },
+      {
+        "texto": "Adjuntá la documentación y datos requeridos según el tipo de residencia a la que quieras aplicar."
+      },
+      {
+        "texto": "Si cumplís con los requisitos para formalizar tu solicitud, recibirás un email con la fecha de tu cita presencial."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-una-prorroga-de-residencia-temporaria-como-pensionado",
+      "titulo": "Obtener una prórroga de residencia temporaria como pensionado | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-27T06:48:25.327Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-27T06:48:25.327Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de las tasas migratorias no se especifica en el texto, solo se indica que se deben abonar en la plataforma RaDEX.",
+    "La dirección exacta de las oficinas de Migraciones no se especifica en el texto, solo se indica que se debe encontrarse dentro del territorio de la República Argentina."
+  ]
+}

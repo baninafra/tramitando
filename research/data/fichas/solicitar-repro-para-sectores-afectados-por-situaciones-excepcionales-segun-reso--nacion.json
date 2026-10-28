@@ -1,0 +1,89 @@
+{
+  "tramite": {
+    "slug": "solicitar-repro-seguridad-productiva",
+    "nombre": "Solicitar REPRO por seguridad productiva",
+    "nombre_busqueda": "Solicitar REPRO situaciones excepcionales",
+    "resumen": "El programa de Recuperación Productiva (REPRO) ofrece asistencia gratuita a empresas afectadas por siniestros, catástrofes o fuerza mayor ajena a su actividad, eximiéndolas de requisitos económicos y de plan de acción.",
+    "sinonimos": [
+      "Solicitud REPRO situaciones excepcionales",
+      "Asistencia REPRO fuerza mayor",
+      "Programa de Recuperación Productiva excepcionales"
+    ],
+    "temas": [
+      "trabajo-y-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Sujetos empleadores con afectación económica y/o productiva por siniestro, catástrofe, fuerza mayor u otra situación excepcional ajena a la actividad del empleador."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documentación respaldatoria que acredite la situación invocada (siniestro, catástrofe o fuerza mayor).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación por parte de autoridades provinciales o municipales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota firmada a través de la cual se reconoce la veracidad del suceso que se detalla en la solicitud.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración de afectación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración jurada por escrito, firmada por el responsable de la empresa, que expresa el grado de afectación en valor porcentual o numérico sobre ventas, producción, bienes inmuebles y de capital.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Seguros con los que se cuenta.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pólizas vigentes.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La documentación será evaluada por la Coordinación del Programa de Recuperación Productiva (REPRO), pudiendo habilitar la participación, solicitar información ampliatoria o desechar la solicitud.",
+      "Las resoluciones serán comunicadas por mail.",
+      "En caso de habilitarse o rechazarse la participación, se hará mediante acto administrativo.",
+      "Los sujetos habilitados deberán inscribirse mediante la adhesión al servicio web del Programa de Recuperación y Sostenimiento Productivo (REPRO) en la página de AFIP en los plazos determinados por Resolución."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-repro-para-sectores-afectados-por-situaciones-excepcionales-segun-resolucion",
+      "titulo": "Solicitar REPRO para sectores afectados por situaciones excepcionales según Resolución 695/2022 | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-28T10:29:34.015Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de correo electrónico para envío de la nota.",
+    "Plazos determinados por Resolución para la inscripción en AFIP."
+  ]
+}

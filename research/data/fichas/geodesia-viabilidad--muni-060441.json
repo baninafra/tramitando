@@ -1,0 +1,92 @@
+{
+  "tramite": {
+    "slug": "viabilidad-proyecto-mensura-division-urbanizacion",
+    "nombre": "Viabilidad de proyecto de mensura y división o urbanización",
+    "nombre_busqueda": "Viabilidad de proyecto de mensura y división o urbanización",
+    "resumen": "Solicitá la evaluación de las cargas públicas para un proyecto de mensura y división o urbanización. El trámite es presencial y requiere turno previo.",
+    "sinonimos": [
+      "Viabilidad de proyecto de mensura"
+    ],
+    "temas": [
+      "loteos-y-subdivisiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060441",
+  "organismo": {
+    "nombre": "Municipalidad de La Plata",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés presentarlo como particular, profesional o gestor."
+    ],
+    "requisitos": [
+      {
+        "texto": "Identificación de la parcela.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tipo de intervención.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Memoria técnica descriptiva.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Croquis de la propuesta.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos de contacto: correo electrónico y teléfono.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Sacá un turno previo con la opción «Consulta Técnica»."
+      },
+      {
+        "texto": "Presentá los requisitos en forma presencial."
+      },
+      {
+        "texto": "Pagá el timbrado vigente al momento de la presentación."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://turnos.laplata.gob.ar/misdatos",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://tramites.laplata.gob.ar/planeamiento/geodesia-viabilidad.html",
+      "titulo": "Planeamiento - Municipalidad de La Plata",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T14:26:26.275Z"
+    },
+    {
+      "url": "https://turnos.laplata.gob.ar/misdatos",
+      "titulo": "Turnos online - Municipalidad de La Plata",
+      "bloques": [
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T14:26:26.275Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto del timbrado no está informado; depende de la ordenanza impositiva vigente al presentar el trámite.",
+    "No se informa un plazo de resolución."
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "tramite": {
+    "slug": "autorizacion-fitosanitaria-importacion-afidi",
+    "nombre": "Autorización Fitosanitaria de Importación (AFIDI)",
+    "nombre_busqueda": "Autorización Fitosanitaria de Importación AFIDI",
+    "resumen": "Para importar plantas, madera o artículos vegetales al país, necesitás solicitar la AFIDI ante el Senasa. El trámite depende si sos importador comercial o particular, y tiene costos por arancel según el tipo de producto.",
+    "sinonimos": [
+      "AFIDI",
+      "Autorización Fitosanitaria de Importación",
+      "Permiso vegetal importación"
+    ],
+    "temas": [
+      "bromatologia-y-alimentos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Importadores comerciales inscriptos en el Registro de Exportadores y/o Importadores en la Dirección General de Aduanas.",
+      "Organismos públicos o particulares no registrados en la Aduana que importen material de investigación o muestras sin valor comercial."
+    ],
+    "requisitos": [
+      {
+        "texto": "Estar inscripto en el Registro de Exportadores y/o Importadores en la Dirección General de Aduanas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Adherir en la página de la ARCA mediante clave fiscal a los sistemas del Senasa: SIGPV-IMPO y SIGAD.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declarar tu domicilio electrónico mediante el sistema SIGTrámites.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Adherí en la página de la ARCA mediante clave fiscal a SIGPV-IMPO para obtener las AFIDIs."
+      },
+      {
+        "texto": "Efectuá el pago de los aranceles por uso de AFIDI mediante Interbanking o los medios habilitados."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "72 hs hábiles",
+    "consejos": [
+      "La vigencia del AFIDI varía según el destino de uso: 270 días para propagación, 120 días para eventos transgénicos y 60 días para consumo.",
+      "Si tenés un trámite iniciado, podés consultar el estado de tu expediente de forma rápida."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Protección Vegetal",
+      "direccion": "Av. Paseo Colón N° 367, Piso 6° contrafrente, C1063ACD, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/gestionar-la-autorizacion-fitosanitaria-de-importacion-afidi-y-la-evaluacion-de"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/gestionar-la-autorizacion-fitosanitaria-de-importacion-afidi-y-la-evaluacion-de",
+      "titulo": "Gestionar la Autorización Fitosanitaria de importación (AFIDI) y la evaluación de importaciones para envíos comerciales y no comerciales, de productos de origen vegetal | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-26T15:38:27.968Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T15:38:27.968Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no está especificado en el texto, solo se indica que debe consultarse la normativa.",
+    "La fecha de vigencia de la Resolución MAGyP Nº 847/2020 mencionada no está en el texto."
+  ]
+}

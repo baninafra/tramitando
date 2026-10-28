@@ -1,0 +1,74 @@
+{
+  "tramite": {
+    "slug": "busqueda-de-empleo-y-seguro-de-desempleo",
+    "nombre": "Búsqueda de empleo",
+    "nombre_busqueda": "Búsqueda de empleo",
+    "resumen": "Podés recibir información sobre herramientas para mejorar las oportunidades de empleo, orientación laboral y asistencia en el armado de tu currículum. El servicio es gratuito y te acompañan en la búsqueda activa de empleo.",
+    "sinonimos": [],
+    "temas": [
+      "trabajo-y-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Secretaría de Empleo",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que busque mejorar sus oportunidades de empleo."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original y copia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de CUIL original y copia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Currículum Vitae.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la página web https://www.argentina.gob.ar/trabajo/empleojoven."
+      },
+      {
+        "texto": "Confirmá el correo que el sistema enviará a tu correo electrónico indicado en el formulario."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate personalmente a la Oficina o Unidad de Empleo más cercana a tu domicilio."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/busqueda-de-empleo",
+      "titulo": "Búsqueda de empleo | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T14:58:33.296Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si el trámite requiere sacar turno, consultá la página de turnos del organismo."
+  ]
+}

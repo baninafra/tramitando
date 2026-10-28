@@ -1,0 +1,111 @@
+{
+  "tramite": {
+    "slug": "cuil-y-clave-de-seguridad-social",
+    "nombre": "Obtener la Clave de la Seguridad Social",
+    "nombre_busqueda": "Obtener la Clave de la Seguridad Social",
+    "resumen": "Podés crear o recuperar tu Clave de la Seguridad Social de forma gratuita usando la app mi ANSES, la web o presencialmente en una oficina. Es necesario tener tu CUIL y tu DNI.",
+    "sinonimos": [
+      "Crear Clave ANSES",
+      "Recuperar Clave Seguridad Social",
+      "Obtener Clave ANSES"
+    ],
+    "temas": [
+      "cuil-y-clave-de-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANSES",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Toda persona que necesite realizar trámites o hacer consultas en ANSES en forma digital."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de CUIL",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Celular o computadora con acceso a internet",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la app mi ANSES desde tu celular."
+      },
+      {
+        "texto": "Ingresá tu CUIL y buscá la opción Crear Clave."
+      },
+      {
+        "texto": "Validá tu identidad escaneando el código de tu último DNI con la cámara y habilitando la cámara frontal para la validación biométrica."
+      },
+      {
+        "texto": "Creá tu clave ingresando una clave segura con letras y números entre 8 y 15 caracteres, incluyendo al menos una mayúscula."
+      },
+      {
+        "texto": "Ingresá a mi ANSES o Atención Virtual desde tu computadora con tu clave creada."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si después de 3 intentos no respondés las preguntas de seguridad en la computadora, tenés que acercarte sin turno a una oficina de ANSES con tu DNI para generar tu clave.",
+      "La clave tiene que tener letras y números, entre 8 y 15 caracteres, y al menos una mayúscula."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-la-clave-de-la-seguridad-social",
+      "titulo": "Obtener la Clave de la Seguridad Social | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T22:32:43.215Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-constancia-de-cuil",
+      "titulo": "Solicitar constancia de CUIL | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T22:32:43.215Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T22:32:43.215Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si necesitás acceso a aplicaciones corporativas ingresá a Obtener Clave Corporativa.",
+    "Si no podés concurrir personalmente a una oficina de ANSES porque te encontrás imposibilitado o porque estás residiendo en el exterior, descargá, firmá y hacé certificar esta Carta Poder y la copia de tu DNI, para que tu apoderado las presente en tu nombre.",
+    "Quiénes pueden certificar la documentación: - organismos nacionales, provinciales y municipales de previsión social - autoridades judiciales, policiales o consulares competentes - escribanos públicos - directores o administradores, u otros funcionarios autorizados de hospitales, sanatorios, asilos o establecimientos similares habilitados (públicos o privados) en el que se encuentre internada la persona titular.",
+    "Personas que se encuentren en el exterior (sin apoderado) Si residís en el exterior y no tenés apoderado descargá, firmá y hacé certificar el Formulario Responsabilidad en el Uso del Identificador de Usuario (USI07) y la copia de tu DNI, a través del consulado argentino del país donde te encuentres, o a través del Sistema Simplificado de Apostillas, y luego remitilos por correo postal a: Dirección Central de Gestión y Soporte Operativo (DCGSO) Av. Paseo Colón 239, 6to. Piso Frente, CP: C1063ACO , Ciudad Autónoma de Buenos Aires, Argentina.",
+    "Tené en cuenta que si el consulado que te corresponde dispone de las herramientas informáticas necesarias, podrás enviar la documentación certificada de manera electrónica.",
+    "Las personas extranjeras que quieran trabajar en el país deben generar un CUIL provisorio, habiendo previamente realizado los trámites en migraciones.",
+    "Una vez que obtengan el DNI para extranjeros o naturalizados deberán generar el CUIL definitivo solicitando la unificación con el provisorio."
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "tramite": {
+    "slug": "certificado-numero-edificio-catastro",
+    "nombre": "Certificado de Número de Edificio (Catastro)",
+    "nombre_busqueda": "Certificado de número de edificio Berisso",
+    "resumen": "Obtén el certificado de número de edificio en la Municipalidad de Berisso. El trámite requiere llevar documentación específica y se realiza en la oficina.",
+    "sinonimos": [
+      "Certificado de catastro",
+      "Número de edificio",
+      "Enumeración de edificio"
+    ],
+    "temas": [
+      "catastro-e-inmuebles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060098",
+  "organismo": {
+    "nombre": "Municipalidad de Berisso",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en obtener el certificado de número de edificio."
+    ],
+    "requisitos": [
+      {
+        "texto": "Presentá el DNI original y una copia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Llevá el título de propiedad o escritura.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si sos titular, mostrá el título de propiedad o escritura.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si sos inquilino, mostrá el contrato de arrendamiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si sos inquilino, mostrá el título de propiedad o escritura.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acudí a la oficina de la Municipalidad de Berisso con toda la documentación requerida."
+      },
+      {
+        "texto": "Presentá el DNI original y una copia, junto con el título de propiedad o escritura, o el contrato de arrendamiento si sos inquilino."
+      },
+      {
+        "texto": "El personal de la oficina verificará los documentos y emitirá el certificado de número de edificio."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://timbrados.berisso.gob.ar/timbrados/4",
+      "titulo": "Timbrados",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T11:28:06.960Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto del trámite no se especifica en la página.",
+    "La dirección exacta de la oficina no se detalla en el texto.",
+    "La vigencia del trámite no tiene fecha exacta en el texto.",
+    "No se indica si se requiere turno."
+  ]
+}

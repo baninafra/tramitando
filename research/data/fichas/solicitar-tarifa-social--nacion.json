@@ -1,0 +1,72 @@
+{
+  "tramite": {
+    "slug": "solicitar-tarifa-social",
+    "nombre": "Solicitar tarifa social",
+    "nombre_busqueda": "Solicitar tarifa social agua",
+    "resumen": "Los usuarios de AySA que no pueden afrontar el pago total de sus facturas de agua y cloacas pueden solicitar este beneficio.",
+    "sinonimos": [],
+    "temas": [
+      "subsidios-a-los-servicios-publicos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Usuarios de los servicios de agua y cloacas prestados por AySA que no se encuentran en condiciones de afrontar en su totalidad el pago de las facturas, sus deudas o los cargos de conexión a dichos servicios."
+    ],
+    "requisitos": [
+      {
+        "texto": "Ser usuario de los servicios de agua y cloacas prestados por AySA",
+        "aclaracion": null
+      },
+      {
+        "texto": "Brindar toda la información sobre tu hogar (integrantes, ingresos y gastos)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Hacé clic en el botón Iniciar Trámite"
+      },
+      {
+        "texto": "Cargá tu cuenta de servicios de AySA"
+      },
+      {
+        "texto": "Completá todo el formulario de la solicitud"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "10 minutos",
+    "consejos": [
+      "Descargá el comprobante de tu solicitud pendiente cuando termines de hacer el formulario."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-tarifa-social",
+      "titulo": "Solicitar Tarifa Social | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T10:22:34.530Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los valores de referencia periódica de noviembre de 2026 están disponibles en la página oficial."
+  ]
+}

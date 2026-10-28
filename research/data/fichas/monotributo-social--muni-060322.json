@@ -1,0 +1,108 @@
+{
+  "tramite": {
+    "slug": "monotributo-social",
+    "nombre": "Monotributo social",
+    "nombre_busqueda": "monotributo social",
+    "resumen": "Registrá tu emprendimiento, emití facturas, elegí una obra social y realizá aportes para acceder a una jubilación en el futuro.",
+    "sinonimos": [],
+    "temas": [
+      "monotributo-social-y-general"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060322",
+  "organismo": {
+    "nombre": "Secretaría de Desarrollo Local y Empleo de la Municipalidad de General La Madrid",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Si realizás una única actividad económica independiente.",
+      "Si trabajás en relación de dependencia y cobrás un salario bruto inferior al haber previsional mínimo.",
+      "Si formás parte de una cooperativa de trabajo con al menos 6 asociados."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener un ingreso bruto anual inferior a 20873925.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ser propietario de hasta 2 bienes inmuebles, con al menos uno afectado al emprendimiento productivo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ser propietario de hasta 3 bienes muebles registrables.",
+        "aclaracion": null
+      },
+      {
+        "texto": "No ejercer tu profesión universitaria como actividad económica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "No ser empleador ni titular de acciones o cuotas partes de sociedades comerciales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener ingresos solo de la actividad económica declarada, sin contar las prestaciones compatibles de organismos nacionales, provinciales o municipales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI y fotocopia.",
+        "aclaracion": "Si realizás una única actividad económica independiente."
+      },
+      {
+        "texto": "Constancia de recepción de la solicitud de inscripción de la cooperativa de trabajo, emitida por el Registro Nacional de Efectores de Desarrollo Local y Economía Social.",
+        "aclaracion": "Si integrás una cooperativa de trabajo."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Elegí la obra social a la que querés afiliarte antes del día del turno."
+      },
+      {
+        "texto": "Llevá el DNI y la documentación que corresponda a tu caso el día del turno."
+      },
+      {
+        "texto": "Declarales a tus familiares directos si querés incorporarlos a tu obra social."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://servicioswww.anses.gob.ar/TurnosInternet/Solicitud/IngresoSolicitud?idprest=68",
+    "plazo": null,
+    "consejos": [
+      "Podés incorporar a tus familiares directos a la obra social al momento de la inscripción."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.lamadrid.gob.ar/monotributo-social/",
+      "titulo": "Monotributo Social – Municipalidad de General La Madrid",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T12:47:25.599Z"
+    },
+    {
+      "url": "https://servicioswww.anses.gob.ar/TurnosInternet/Solicitud/IngresoSolicitud?idprest=68",
+      "titulo": "(sin título)",
+      "bloques": [
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T12:47:25.599Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa el plazo del trámite.",
+    "No se informa el costo.",
+    "No se indica si la inscripción se completa presencialmente ni la dirección de atención.",
+    "La página menciona una solicitud de inscripción de cooperativas por TAD, pero no detalla cómo completar la inscripción al Monotributo Social."
+  ]
+}

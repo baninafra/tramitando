@@ -1,0 +1,87 @@
+{
+  "tramite": {
+    "slug": "libretas-sanitarias",
+    "nombre": "Libretas sanitarias",
+    "nombre_busqueda": "Libretas sanitarias",
+    "resumen": "Solicita tu libreta sanitaria en el municipio de Marcos Paz. Es un trámite gratuito que requiere llevar tu DNI y, si sos menor, los documentos de tus padres o tutores.",
+    "sinonimos": [],
+    "temas": [
+      "carnet-sanitario"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060525",
+  "organismo": {
+    "nombre": "Municipio de Marcos Paz",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier vecino o vecina del municipio."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta de nacimiento",
+        "aclaracion": "Si sos menor de edad."
+      },
+      {
+        "texto": "DNI del padre o madre",
+        "aclaracion": "Si sos menor de edad."
+      },
+      {
+        "texto": "DNI del tutor",
+        "aclaracion": "Si sos menor de edad."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Llevá tu DNI."
+      },
+      {
+        "texto": "Si sos menor, llevá también la acta de nacimiento y los DNIs de los padres o tutores."
+      },
+      {
+        "texto": "Presentá los documentos en la oficina del municipio."
+      },
+      {
+        "texto": "Sacá tu libreta sanitaria."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.marcospaz.gov.ar/tr%C3%A1mites-y-servicios/tramitesyservicios1/libretas-sanitarias.html",
+      "titulo": "Libretas sanitarias - Municipio de Marcos Paz",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T15:29:12.777Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos para mayores de edad.",
+    "No se especifican requisitos para menores de edad más allá de los listados.",
+    "No se especifican pasos adicionales para mayores de edad.",
+    "No se especifican pasos adicionales para menores de edad más allá de los listados.",
+    "No se especifica si se requiere turno.",
+    "No se especifica el plazo de entrega.",
+    "No se especifica el costo del trámite.",
+    "No se especifica la dirección de la oficina.",
+    "No se especifica la localidad de la oficina."
+  ]
+}

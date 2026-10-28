@@ -1,0 +1,124 @@
+{
+  "tramite": {
+    "slug": "pagar-aportes-y-contribuciones-de-casas-particulares",
+    "nombre": "Pagar aportes y contribuciones de casas particulares",
+    "nombre_busqueda": "Pagar aportes casas particulares",
+    "resumen": "Quienes empleen personal de casas particulares deben abonar los aportes y contribuciones al régimen de seguridad social y al Sistema de Riesgos del Trabajo. Se puede pagar en línea hasta el día 10 de cada mes.",
+    "sinonimos": [
+      "Pagar aportes seguridad social casas particulares",
+      "Pagar contribuciones SRT casas particulares"
+    ],
+    "temas": [
+      "personal-de-casas-particulares",
+      "trabajo-y-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes empleen personal de casas particulares."
+    ],
+    "requisitos": [
+      {
+        "texto": "Contar con clave fiscal nivel 2 o superior.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al Portal de Casas Particulares."
+      },
+      {
+        "texto": "Seleccioná el botón 'INGRESAR'."
+      },
+      {
+        "texto": "El sistema te mostrará los conceptos pendientes de pago."
+      },
+      {
+        "texto": "Podés pagar el mes/período actual o cancelar deudas anteriores."
+      },
+      {
+        "texto": "Pagá el mes actual."
+      },
+      {
+        "texto": "Al ingresar al botón Pagar mes actual, generá el comprobante de pago de los aportes y contribuciones del período en curso."
+      },
+      {
+        "texto": "Seleccioná la persona a la que le vas a pagar y el medio de pago (manual o electrónico)."
+      },
+      {
+        "texto": "Si elegís pago manual, descargá el Formulario 102 para completar y presentar en el banco o sistema de cobranza extrabancaria."
+      },
+      {
+        "texto": "Si elegís pago electrónico, seleccioná la entidad de pago (Red Link, Pago Mis cuentas, Banelco, Tarjeta de crédito, etc.)."
+      },
+      {
+        "texto": "Generá el volante electrónico de pago (VEP) con el detalle y el total a pagar."
+      },
+      {
+        "texto": "Hacé el pago a través de internet."
+      },
+      {
+        "texto": "Generá el recibo de sueldo."
+      },
+      {
+        "texto": "Descargá, modificá o anulá el recibo de sueldo según necesites."
+      },
+      {
+        "texto": "Imprimí dos copias del recibo de sueldo: una para vos y otra para la trabajadora o el trabajador."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "hasta el día 10 de cada mes",
+    "consejos": [
+      "Los importes a pagar se determinan de acuerdo con la cantidad de horas trabajadas.",
+      "Para acceder a la cobertura de obra social, necesitás aportar al sistema un monto igual a '16 o más' horas trabajadas.",
+      "Si la jornada es menor a 16 horas, podés realizar aportes voluntarios o sumar los de otros empleos."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/pagar-aportes-y-contribuciones-de-casas-particulares",
+      "titulo": "Pagar aportes y contribuciones de casas particulares | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T07:15:44.291Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T07:15:44.291Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/",
+      "titulo": "Inicio | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T07:15:44.291Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia exacta del plazo no está especificada en el texto.",
+    "El monto exacto de los aportes no está listado en el texto."
+  ]
+}

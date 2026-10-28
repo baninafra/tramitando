@@ -1,0 +1,98 @@
+{
+  "tramite": {
+    "slug": "consulta-descarga-y-pago-de-patente-de-rodados-menores",
+    "nombre": "Consultar y pagar la patente de rodados menores",
+    "nombre_busqueda": "patente de motos en Guaminí",
+    "resumen": "Consultá la deuda de patente de rodados menores y descargá una boleta para pagarla de forma presencial o en línea. Podés pagar todas las cuotas adeudadas o solo algunas.",
+    "sinonimos": [
+      "patente de motovehículos",
+      "patente de rodados"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "patente-automotor-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060399",
+  "organismo": {
+    "nombre": "Municipalidad de Guaminí",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que necesitan consultar o pagar una deuda de patente de rodados menores."
+    ],
+    "requisitos": [
+      {
+        "texto": "Ingresá una patente de entre 6 y 8 caracteres, sin barras ni guiones.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Seleccioná todas las cuotas adeudadas o solo algunas."
+      },
+      {
+        "texto": "Elegí la opción «Pago On Line»."
+      },
+      {
+        "texto": "Hacé clic en «Generar Boleta On Line»."
+      },
+      {
+        "texto": "Completá el formulario con el apellido, nombre, DNI, género y correo electrónico de quien va a pagar."
+      },
+      {
+        "texto": "Hacé clic en «Generar»."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Seleccioná todas las cuotas adeudadas o solo algunas."
+      },
+      {
+        "texto": "Elegí la opción «Pago Presencial»."
+      },
+      {
+        "texto": "Hacé clic en «Generar Boleta Presencial»."
+      },
+      {
+        "texto": "Confirmá la generación de la boleta."
+      },
+      {
+        "texto": "Descargá e imprimí la boleta para pagarla en una delegación municipal o en una boca de cobro de Provincia Net."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://serviciosweb.guamini.gob.ar/tasaspagosydeudas/rodados",
+      "titulo": "Municipalidad de Guaminí",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T13:44:02.038Z"
+    },
+    {
+      "url": "https://serviciosweb.guamini.gob.ar/",
+      "titulo": "Municipalidad de Guaminí",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T13:44:02.038Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa si el trámite tiene costo ni el monto de la deuda.",
+    "No se indica quiénes pueden realizar la consulta o el pago."
+  ]
+}

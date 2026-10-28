@@ -1,0 +1,130 @@
+{
+  "tramite": {
+    "slug": "tasas-varias-y-libre-deuda-municipal",
+    "nombre": "Tasas varias y libre deuda municipal",
+    "nombre_busqueda": "Tasas varias y libre deuda municipal",
+    "resumen": "Reclamo sobre deudas o pagos atrasados de tasas municipales y servicios. Podés consultar tus boletas online o presentarte en la oficina de Tasas.",
+    "sinonimos": [
+      "Reclamo de tasas atrasadas",
+      "Pago de tasas municipales",
+      "Libre deuda municipal"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "planes-de-pago-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060756",
+  "organismo": {
+    "nombre": "Agencia de Recaudación de San Isidro",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Vecinos del Partido de San Isidro",
+      "Ocupantes de inmuebles en las zonas donde se presten los servicios"
+    ],
+    "requisitos": [
+      {
+        "texto": "Recibo de la tasa o número de cuenta de la que se trata",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de la boleta de pago/recibo de la Tasa que corresponda con vencimiento vigente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de la transferencia bancaria",
+        "aclaracion": null
+      },
+      {
+        "texto": "Código de Pagos Link que figura en la boleta Municipal",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tarjeta de débito para escanear el código de barra de cualquier boleta municipal",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la página de consulta de deuda por tributo seleccionando la tasa e ingresando tu número de cuenta"
+      },
+      {
+        "texto": "Ingresá a la página de gestión de tasas"
+      },
+      {
+        "texto": "Ingresá a la página de pago de tasas y abl"
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en la oficina de Tasas en Av. Centenario 77, 1° subsuelo de lunes a viernes de 8 a 15 hs"
+      },
+      {
+        "texto": "Llevá tu recibo de la tasa o el número de cuenta de la que se trata"
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Para el Régimen Simplificado San Isidro (ReSSI), podés adherir tu boleta al débito automático de forma simple y 100% online",
+      "Para transferencias bancarias, los recibos deberán ser retirados a los 5 días hábiles después de haber enviado la información por mail, en la oficina de Tasas Inmobiliarias, Av. Centenario 77 1º Subsuelo y en un plazo no mayor de 90 días corridos",
+      "Para chequear el estado de la cuenta, podés ingresar a la página de consulta de deuda por tributo"
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Tasas",
+      "direccion": "Av. Centenario 77, 1° subsuelo",
+      "localidad": "San Isidro",
+      "horario": null,
+      "fuente_url": "https://arsi.gob.ar/tramites-varias/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://arsi.gob.ar/tramites-varias/",
+      "titulo": "Tasas Varias – ARSI",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T12:18:15.636Z"
+    },
+    {
+      "url": "https://arsi.gob.ar/boletas-de-pago/",
+      "titulo": "Boletas de Pago – ARSI",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-28T12:18:15.636Z"
+    },
+    {
+      "url": "https://arsi.gob.ar/medios-de-pago-electronicos/",
+      "titulo": "Medios de Pago Electrónicos – ARSI",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T12:18:15.636Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos de tasas ni plazos de vencimiento en el texto",
+    "No se especifica si el trámite requiere turno",
+    "No se especifica la vigencia exacta de las tasas"
+  ]
+}

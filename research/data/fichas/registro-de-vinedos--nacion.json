@@ -1,0 +1,97 @@
+{
+  "tramite": {
+    "slug": "registro-de-vinedos",
+    "nombre": "Registro de viñedos",
+    "nombre_busqueda": "registro de viñedos",
+    "resumen": "Este trámite es necesario realizarlo inmediatamente después de implantado el viñedo y es gratuito. La inscripción es definitiva y permite realizar operaciones comerciales con la producción.",
+    "sinonimos": [],
+    "temas": [
+      "produccion-rural"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto Nacional de Vitivinicultura",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "La persona física o jurídica que desee realizar el proceso de producción de las variedades de uvas implantadas, ya sea para vinificación, consumo en fresco y/o secadero.",
+      "El titular o su representante con debida acreditación."
+    ],
+    "requisitos": [
+      {
+        "texto": "Escritura en el Registro de la Propiedad o documentación que acredite titularidad o derecho de explotación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de Clave Única de Identificación Tributaria (CUIT).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración Jurada de Viñedo: documento que deberá consignar la ubicación del viñedo, la superficie total productiva y la superficie implantada correspondiente a cada varietal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción en el Registro Nacional Sanitario de Productores Agropecuarios (RENSPA), conforme lo dispuesto por la Resolución N° 423/2014 del SENASA.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar a la plataforma TAD."
+      },
+      {
+        "texto": "Completar los datos del solicitante."
+      },
+      {
+        "texto": "Completar el formulario 1787 de Declaración Jurada de Viñedos."
+      },
+      {
+        "texto": "Adjuntar la documentación complementaria."
+      },
+      {
+        "texto": "Hacer click en confirmar el trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "hasta el 31 de diciembre de cada año",
+    "consejos": [
+      "Sin esta inscripción del viñedo, el propietario del mismo no podrá realizar las operaciones comerciales que desee hacer con la producción o su industrialización (vinificación, consumo en fresco, elaboración de pasas de uvas, entre otras).",
+      "También es obligatorio que el propietario del viñedo comunique al INV toda modificación que afecte a los datos del mismo viñedo ya sea, en superficie, variedades, etc."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/registro-de-vinedos",
+      "titulo": "Registro de viñedos | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T03:39:44.418Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T03:39:44.418Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La inscripción es definitiva. Solo puede caducar en caso de solicitud del interesado por erradicación del mismo o de oficio por comprobación de decrepitud de este."
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "tramite": {
+    "slug": "reconocimiento-aportes-tareas-cuidado",
+    "nombre": "Reconocimiento de aportes por tareas de cuidado",
+    "nombre_busqueda": "Reconocimiento aportes tareas cuidado",
+    "resumen": "Mujeres con hijos en edad de jubilarse (60 años o más) que no tienen los años de aportes necesarios pueden solicitar el reconocimiento de esos aportes ante ANSES. Es gratuito y requiere turno presencial.",
+    "sinonimos": [
+      "Reconocimiento aportes crianza hijos",
+      "Aportes tareas de cuidado ANSES"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones",
+      "trabajo-y-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración Nacional de Seguros Sociales",
+    "sigla": "ANSES",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Mujeres con hijos en edad de jubilarse (60 años o más) que no cuenten con los años de aportes necesarios.",
+      "Mujeres que no cuenten con una jubilación ya otorgada o en trámite."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Partidas de nacimiento de tus hijos",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Discapacidad (CUD)",
+        "aclaracion": "Si tenés hijos con discapacidad"
+      },
+      {
+        "texto": "Sentencia de adopción",
+        "aclaracion": "Si tus hijos son adoptados"
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Revisá que tus hijos se encuentren registrados en mi ANSES con tu CUIL y Clave de la Seguridad Social, ingresando a \"Información Personal\" > \"Datos personales y familiares\"."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Solicitá un turno en una oficina de ANSES."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tramitar-el-reconocimiento-de-aportes-por-tareas-de-cuidado",
+      "titulo": "Tramitar el Reconocimiento de aportes por tareas de cuidado | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T18:12:20.249Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T18:12:20.249Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de las oficinas de ANSES",
+    "Plazo de espera para la atención del trámite",
+    "Enlace oficial para sacar turno en línea"
+  ]
+}

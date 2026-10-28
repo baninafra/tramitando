@@ -1,0 +1,28 @@
+{
+  "name": "@tramitando/api",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev --port 8787",
+    "deploy": "wrangler deploy",
+    "db:migrar": "wrangler d1 migrations apply tramitando --local",
+    "seed:temas": "tsx scripts/seed-temas.ts",
+    "seed:ejemplo": "tsx scripts/seed-ejemplo.ts",
+    "check": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@hono/zod-validator": "^0.9.1",
+    "@tramitando/shared": "*",
+    "hono": "^4.13.0",
+    "jose": "^6.2.13",
+    "zod": "^4.6.0"
+  },
+  "devDependencies": {
+    "@cloudflare/vitest-plugin": "^1.4.7",
+    "@cloudflare/workers-types": "^5.20261001.0",
+    "typescript": "^5.9.3",
+    "vitest": "^4.1.0",
+    "wrangler": "^4.151.3"
+  }
+}

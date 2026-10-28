@@ -1,0 +1,106 @@
+{
+  "tramite": {
+    "slug": "licencia-comercializacion-bebidas-alcoholicas-reba",
+    "nombre": "Licencia para vender bebidas alcohólicas",
+    "nombre_busqueda": "Licencia ReBA para vender alcohol",
+    "resumen": "Si tenés un comercio y querés vender bebidas alcohólicas, necesitás inscribirte en el ReBA. La inscripción y la renovación se tramitan en el área municipal de Habilitaciones, de manera presencial o por mail.",
+    "sinonimos": [
+      "Licencia ReBA",
+      "Inscripción al ReBA"
+    ],
+    "temas": [
+      "habilitacion-comercial"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060441",
+  "organismo": {
+    "nombre": "Municipalidad de La Plata",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Si tenés un comercio y querés vender bebidas alcohólicas, podés solicitar la inscripción o renovar la licencia.",
+      "Si vas a vender bebidas alcohólicas en un evento, podés tramitar un RAN Eventual."
+    ],
+    "requisitos": [
+      {
+        "texto": "Copia del DNI del titular, frente y dorso.",
+        "aclaracion": "Para la inscripción."
+      },
+      {
+        "texto": "Copia de la habilitación comercial vigente.",
+        "aclaracion": "Para la inscripción."
+      },
+      {
+        "texto": "Constancia de inscripción en Ingresos Brutos, o constancia de inscripción en ARCA como monotributista adherido al Régimen Simplificado sobre Ingresos Brutos.",
+        "aclaracion": "Para la inscripción."
+      },
+      {
+        "texto": "Contrato constitutivo o estatuto.",
+        "aclaracion": "Para la inscripción, si sos una persona jurídica."
+      },
+      {
+        "texto": "Acta más reciente con la designación de autoridades.",
+        "aclaracion": "Para la inscripción, si sos una persona jurídica y hace falta."
+      },
+      {
+        "texto": "Declaración jurada anual de Ingresos Brutos (formulario R-006W), o constancia de inscripción en ARCA como monotributista adherido al Régimen Simplificado sobre Ingresos Brutos.",
+        "aclaracion": "Para la renovación."
+      },
+      {
+        "texto": "Licencia ReBA anterior.",
+        "aclaracion": "Para la renovación."
+      },
+      {
+        "texto": "Autorización del evento.",
+        "aclaracion": "Para tramitar un RAN Eventual; presentala 72 horas antes del evento."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la solicitud de inscripción o renovación en el área municipal de Habilitaciones."
+      },
+      {
+        "texto": "Llevá los requisitos que correspondan a tu solicitud."
+      },
+      {
+        "texto": "Pagá el canon correspondiente si tramitás un RAN Eventual."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "Para el RAN Eventual, presentá la autorización del evento 72 horas antes. La licencia tiene vigencia anual.",
+    "consejos": [
+      "Podés renovar la licencia hasta 60 días antes de su vencimiento.",
+      "Las licencias temporarias D-C2 y D-C3 son para eventos de 1 a 4 días, según lo solicitado. La categoría D-C2 corresponde a eventos no bailables y la D-C3 a eventos bailables."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://tramites.laplata.gob.ar/comercio/reba.html",
+      "titulo": "Comercio - Municipalidad de La Plata",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:13:40.741Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa el costo del trámite de inscripción o renovación.",
+    "No se informa el plazo de resolución.",
+    "No se indica si hace falta turno para realizar el trámite.",
+    "No se informa el proceso completo ni los requisitos para el RAN Eventual, aparte de la autorización del evento y el pago del canon.",
+    "No se informa cómo hacer la inscripción o renovación por mail, aparte de la dirección rebalp@laplata.gob.ar.",
+    "No se informa la fecha exacta desde la que rige la licencia."
+  ]
+}

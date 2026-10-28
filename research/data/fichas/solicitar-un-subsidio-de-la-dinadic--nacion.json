@@ -1,0 +1,130 @@
+{
+  "tramite": {
+    "slug": "solicitar-subsidio-dinadic",
+    "nombre": "Solicitar un subsidio de la DINADIC",
+    "nombre_busqueda": "subsidio de la DINADIC para medicamentos y tecnología sanitaria",
+    "resumen": "La DINADIC entrega medicamentos o elementos de tecnología sanitaria a personas con problemas graves de salud y sin cobertura, cuando no pueden cubrir la necesidad por otras vías públicas. El trámite es gratuito.",
+    "sinonimos": [
+      "ayuda de la DINADIC para medicamentos"
+    ],
+    "temas": [
+      "prestaciones-medicas-e-incluir-salud"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Asistencia Directa y Compensatoria",
+    "sigla": "DINADIC",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas con un problema agudo o grave de salud que ponga en riesgo cierto su vida, como una enfermedad terminal o patología crónica grave.",
+      "Personas que no tengan obra social, medicina prepaga, Incluir Salud, PAMI ni otra cobertura o programa de salud.",
+      "Personas que no puedan cubrir su necesidad mediante los ministerios provinciales, las secretarías de salud municipales o, circunstancialmente, programas del Ministerio de Salud de la Nación."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de solicitud firmada por quien solicita el subsidio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de solicitud firmada por el padre, la madre o el representante legal.",
+        "aclaracion": "Si quien solicita es niño o niña."
+      },
+      {
+        "texto": "DNI de quien solicita el subsidio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación negativa de ANSES del mes en curso.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación negativa de ANSES a nombre de la madre, el padre o el representante legal.",
+        "aclaracion": "Si quien solicita es niño o niña."
+      },
+      {
+        "texto": "Carta de la persona mandataria autorizada por quien realiza el trámite.",
+        "aclaracion": "Solo si el trámite lo hace otra persona mayor de edad autorizada por quien solicita."
+      },
+      {
+        "texto": "DNI de la persona mandataria.",
+        "aclaracion": "Si corresponde."
+      },
+      {
+        "texto": "Solicitud de medicamentos o formulario de elementos de tecnología biomédica, completo por el médico tratante y firmado y sellado por el médico y el director de la institución pública que lo emite.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Receta electrónica o digital.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Resumen de historia clínica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estudios médicos que respalden la solicitud.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informe social de una institución pública, realizado por el municipio, un centro de salud o el servicio social del hospital.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Negativa provincial.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Negativa municipal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Negativa del Banco Provincial.",
+        "aclaracion": "Si solicitás medicación oncológica."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Comunicate al 0800-222-1002 o escribí por correo electrónico para iniciar la consulta."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": true,
+      "monto_centavos": null,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-un-subsidio-de-la-dinadic"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-un-subsidio-de-la-dinadic",
+      "titulo": "Solicitar un subsidio de la DINADIC | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T16:25:10.141Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El correo electrónico de contacto no aparece como dirección legible en el texto.",
+    "La página indica que habrá más información próximamente, pero no detalla cómo completar ni presentar la solicitud.",
+    "No se indica un plazo de respuesta."
+  ]
+}

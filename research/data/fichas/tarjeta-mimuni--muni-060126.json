@@ -1,0 +1,87 @@
+{
+  "tramite": {
+    "slug": "tarjeta-mi-muni",
+    "nombre": "Tarjeta Mi Muni",
+    "nombre_busqueda": "Tarjeta Mi Muni",
+    "resumen": "Es una herramienta financiera para negocios que permite vender a los empleados de la Municipalidad de Campana. El monto de la cuota se debita automáticamente del recibo de sueldo del empleado y se transfiere a tu cuenta.",
+    "sinonimos": [],
+    "temas": [
+      "ayudas-economicas-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060126",
+  "organismo": {
+    "nombre": "Municipalidad de Campana",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Emprendedores y comercios que quieran ofrecer la tarjeta a sus clientes."
+    ],
+    "requisitos": [
+      {
+        "texto": "Darse de alta como proveedor completando formularios.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Entregar documentación en la oficina de Compras (Varela 750).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Firmar el acuerdo en San Martín 262, 1° piso.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Completá los formularios de alta como proveedor."
+      },
+      {
+        "texto": "Llevá la documentación a la oficina de Compras (Varela 750)."
+      },
+      {
+        "texto": "Acercate a San Martín 262, 1° piso para firmar el acuerdo."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Compras",
+      "direccion": "Varela 750",
+      "localidad": "Varela 750",
+      "horario": null,
+      "fuente_url": "https://www.campana.gob.ar/tarjeta-mimuni/"
+    },
+    {
+      "nombre": "Desarrollo Económico",
+      "direccion": "San Martín 262, 1° piso",
+      "localidad": "San Martín 262, 1° piso",
+      "horario": null,
+      "fuente_url": "https://www.campana.gob.ar/tarjeta-mimuni/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.campana.gob.ar/tarjeta-mimuni/",
+      "titulo": "Tarjeta mimuni – Municipalidad de Campana",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T10:10:10.714Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos, pasos, plazos, costos ni direcciones de oficinas adicionales en el texto."
+  ]
+}

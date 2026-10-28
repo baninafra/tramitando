@@ -1,0 +1,155 @@
+{
+  "tramite": {
+    "slug": "solicitud-cese-de-comercio",
+    "nombre": "Solicitud cese de comercio",
+    "nombre_busqueda": "Solicitud cese de comercio",
+    "resumen": "Trámite para titular de comercios que finalizan su actividad, requiriendo presentación de documentación y pago de tasa.",
+    "sinonimos": [
+      "Baja de habilitación",
+      "Cese de actividad comercial"
+    ],
+    "temas": [
+      "comercio-e-industria",
+      "habilitacion-comercial",
+      "cambios-y-baja-de-habilitacion",
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060063",
+  "organismo": {
+    "nombre": "Municipalidad de Balcarce",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de comercios que finalizaron su actividad"
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota dirigida al Intendente Municipal solicitando la baja de la habilitación",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de DNI del titular",
+        "aclaracion": "En personas jurídicas: del representante legal"
+      },
+      {
+        "texto": "Certificado de Habilitación Original",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta donde se resuelve la baja y Acta de Asamblea de la sociedad de la última designación de autoridades",
+        "aclaracion": "Solo para personería jurídica"
+      },
+      {
+        "texto": "Especificar dirección y rubro a dar de baja en caso de tratarse de sucesión",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar Declaraciones Juradas hasta el último mes de actividad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Rescisión del Contrato de Locación",
+        "aclaracion": "Si se solicita baja a fecha anterior a la presentación"
+      },
+      {
+        "texto": "Constancia de baja de un servicio local, medidor de luz, gas etc.",
+        "aclaracion": "Si se solicita baja a fecha anterior a la presentación"
+      },
+      {
+        "texto": "Baja impositiva de ARBA y de AFIP",
+        "aclaracion": "Si se solicita baja a fecha anterior a la presentación"
+      },
+      {
+        "texto": "Prueba testimonial a los fines de acreditar el cierre del comercio",
+        "aclaracion": "Si se solicita baja a fecha anterior a la presentación"
+      },
+      {
+        "texto": "Nota firmada por todos los herederos con acreditación de su calidad de tal",
+        "aclaracion": "En caso de sucesiones"
+      },
+      {
+        "texto": "Declaratoria de herederos",
+        "aclaracion": "En caso de sucesiones"
+      },
+      {
+        "texto": "Baja AFIP y ARBA",
+        "aclaracion": "En caso de sucesiones"
+      },
+      {
+        "texto": "Acreditar por información sumaria la insolvencia económica y la identificación de los herederos del causante",
+        "aclaracion": "En caso de sucesiones y no encontrarse abierto el proceso sucesorio"
+      },
+      {
+        "texto": "Constancia de publicación de edictos en los diarios de mayor circulación",
+        "aclaracion": "En caso de sucesiones y no encontrarse abierto el proceso sucesorio"
+      },
+      {
+        "texto": "Acreditarse el cumplimiento de marco normativo particular para el cese de actividades",
+        "aclaracion": "Si existe marco normativo particular"
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentarse en Dirección de Fiscalización y Descentralización Tributaria con la documentación."
+      },
+      {
+        "texto": "Obtener comprobante de pago en Dirección de Fiscalización y Descentralización Tributaria."
+      },
+      {
+        "texto": "Abonar el pago en el sector Cajas de la planta baja del Palacio Municipal."
+      },
+      {
+        "texto": "Esperar a que los inspectores de la Dirección de Inspección General certifiquen mediante acta que el comercio ha cesado su actividad."
+      },
+      {
+        "texto": "Firmar el decreto previo a la notificación telefónica al solicitante."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Fiscalización y Descentralización Tributaria",
+      "direccion": "1º piso del Anexo del Palacio Municipal",
+      "localidad": "Balcarce",
+      "horario": null,
+      "fuente_url": "https://balcarce-app.gob.ar/portal_servicios/servicio/solicitud-cese-de-comercio"
+    },
+    {
+      "nombre": "Cajas",
+      "direccion": "planta baja del Palacio Municipal",
+      "localidad": "Balcarce",
+      "horario": null,
+      "fuente_url": "https://balcarce-app.gob.ar/portal_servicios/servicio/solicitud-cese-de-comercio"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://balcarce-app.gob.ar/portal_servicios/servicio/solicitud-cese-de-comercio",
+      "titulo": "Portal de Servicios | Modernizacion Balcarce",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T21:34:23.035Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto indica que el trámite es pago, pero no especifica el monto exacto en centavos.",
+    "No se especifica el plazo de tiempo para la finalización del trámite."
+  ]
+}

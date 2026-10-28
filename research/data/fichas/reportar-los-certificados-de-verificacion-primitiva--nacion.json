@@ -1,0 +1,74 @@
+{
+  "tramite": {
+    "slug": "reportar-certificados-verificacion-primitiva",
+    "nombre": "Reportar certificados de verificación primitiva",
+    "nombre_busqueda": "reportar certificados verificacion primitiva",
+    "resumen": "Los organismos de certificación acreditados por el OAA deben reportar los certificados emitidos de verificación primitiva de instrumentos de medición a través del sistema TAD.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Subsecretaría de Defensa del Consumidor y Lealtad Comercial",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Organismos de Certificación acreditados por el Organismo Argentino de Acreditación (OAA) para los Reglamentos Técnicos y Metrológicos aplicables en el ámbito de la Ley N° 19.511."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener CUIT y clave fiscal nivel 2 o superior en ARCA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estar adherido al servicio de Trámites a Distancia (TAD).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener condición de apoderado en el sistema.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá el trámite a través de Trámites a Distancia (TAD) ante la Subsecretaría de Defensa del Consumidor y Lealtad Comercial."
+      },
+      {
+        "texto": "Adjuntá los Certificados de Verificación Primitiva."
+      },
+      {
+        "texto": "Completá la planilla de instrumentos de la sección Descargas con la información detallada."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La Secretaría cuenta con un plazo de 5 días para dar conformidad a este reporte una vez presentada la solicitud."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reportar-los-certificados-de-verificacion-primitiva",
+      "titulo": "Reportar los Certificados de Verificación Primitiva | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-27T03:54:07.261Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La dirección exacta de la Subsecretaría de Defensa del Consumidor y Lealtad Comercial no aparece en el texto."
+  ]
+}

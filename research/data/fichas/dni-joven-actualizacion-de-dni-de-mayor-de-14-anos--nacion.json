@@ -1,0 +1,91 @@
+{
+  "tramite": {
+    "slug": "dni-joven-actualizacion-de-dni-de-mayor-de-14-anos",
+    "nombre": "DNI joven – Actualización de DNI de mayor de 14 años",
+    "nombre_busqueda": "Actualizar DNI de 14 años",
+    "resumen": "Si sos mayor de 14 años, debés actualizar tu DNI para acreditar tu identidad y poder votar. El trámite se hace en Centros de Documentación de Renaper o Registros Civiles provinciales.",
+    "sinonimos": [
+      "DNI joven 14 años",
+      "Actualizar DNI a los 14 años"
+    ],
+    "temas": [
+      "dni"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Renaper",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Sos mayor de 14 años."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado médico, cuando corresponda acreditar imposibilidad de aportar una o varias huellas digitales.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Sacá turno."
+      },
+      {
+        "texto": "Presentate en el Centro de Documentación elegido."
+      },
+      {
+        "texto": "Guardá el comprobante hasta que te lleven el DNI a tu casa."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": "15 minutos",
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 300000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/dni-joven-actualizacion-de-dni-de-mayor-de-14-anos"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/dni-joven-actualizacion-de-dni-de-mayor-de-14-anos",
+      "titulo": "DNI Joven – Actualización de DNI de mayor de 14 años | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-26T15:30:40.679Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T15:30:40.679Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de los Centros de Documentación de Renaper y Registros Civiles provinciales que adhieren al programa.",
+    "Enlace oficial para sacar turno en línea."
+  ]
+}

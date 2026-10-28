@@ -1,0 +1,75 @@
+{
+  "tramite": {
+    "slug": "reinscripcion-certificados-ifa",
+    "nombre": "Reinscripción de certificados IFA",
+    "nombre_busqueda": "Reinscripción certificados IFA REM",
+    "resumen": "Para que los medicamentos mantengan su vigencia, el titular debe solicitar la reinscripción de los certificados inscriptos en el Registro de Especialidades Medicinales (REM) IFA dentro de los treinta días anteriores a su vencimiento.",
+    "sinonimos": [
+      "Renovación de certificado IFA",
+      "Reinscripción REM IFA"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMAT",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El titular del certificado."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de solicitud de la reinscripción dirigida a la máxima autoridad de la institución, indicando el o los número/s de certificado/s a reinscribir, su vigencia, nombre comercial, ingrediente farmacéutico activo, forma farmacéutica, concentración y estado de comercialización.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del/los certificado/s.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Prospecto y/o información para el paciente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciar un expediente por el sistema de gestión documental electrónico a través de la mesa de Entradas de la ANMAT."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El artículo 7° de la Ley de Medicamentos N° 16.463 establece que los medicamentos autorizados tienen una vigencia de cinco años a contar desde la fecha del certificado autorizante.",
+      "El titular deberá requerir la reinscripción dentro de los treinta (30) días anteriores a su vencimiento."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/procedimiento-para-reinscripcion-de-certificados-inscriptos-en-el-registro-de",
+      "titulo": "Procedimiento para reinscripción de certificados inscriptos en el Registro de Especialidades Medicinales (REM) IFA de origen sintético / semisintético y/o vegetal | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:00:14.877Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia de los certificados y el plazo específico para la reinscripción no se especifican en el texto, solo se indica que debe hacerse dentro de los treinta días anteriores al vencimiento.",
+    "No se menciona si el trámite requiere turno ni la dirección de las oficinas para presentaciones presenciales."
+  ]
+}

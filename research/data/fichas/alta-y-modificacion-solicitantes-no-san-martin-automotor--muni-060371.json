@@ -1,0 +1,97 @@
+{
+  "tramite": {
+    "slug": "alta-y-modificacion-solicitantes-no-san-martin-automotor",
+    "nombre": "Alta y modificación solicitantes no San Martín automotor",
+    "nombre_busqueda": "Alta y modificación solicitantes no San Martín automotor",
+    "resumen": "Este trámite permite registrar o modificar datos de solicitantes que no son residentes en San Martín y que manejan vehículos automotores.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias",
+      "patente-automotor-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060371",
+  "organismo": {
+    "nombre": "Municipalidad de San Martín",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Solicitantes no residentes en San Martín que tengan vehículos automotores."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original del solicitante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del DNI original del solicitante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del DNI original del conductor del vehículo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de la patente del vehículo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del certificado de circulación del vehículo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de la póliza de seguro del vehículo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de la tarjeta de circulación del vehículo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que acredite la residencia del solicitante fuera de San Martín.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el DNI original y las copias de los documentos requeridos."
+      },
+      {
+        "texto": "Completá el formulario de alta o modificación correspondiente."
+      },
+      {
+        "texto": "Recibí el comprobante de pago si corresponde."
+      },
+      {
+        "texto": "Retirá la documentación actualizada en el plazo establecido."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://sanmartin.gob.ar/tramites/alta-y-modificacion-solicitantes-no-san-martin-automotor",
+      "titulo": "Alta y Modificación - Solicitantes No San Martín - Automotor",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T07:16:57.944Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere confirmar si el trámite es gratuito o tiene costo.",
+    "Se requiere confirmar el plazo de atención.",
+    "Se requiere confirmar si se requiere turno."
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "tramite": {
+    "slug": "inscripcion-de-proveedores",
+    "nombre": "Inscripción de proveedores",
+    "nombre_busqueda": "Inscripción de proveedores San Cayetano",
+    "resumen": "Para inscribirse en el registro de proveedores de la Municipalidad de San Cayetano, hay que descargar y completar varios formularios y anexar documentación específica según el tipo de sociedad.",
+    "sinonimos": [],
+    "temas": [
+      "comercio-e-industria",
+      "habilitacion-comercial"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060742",
+  "organismo": {
+    "nombre": "Municipalidad de San Cayetano",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Las Sociedades de Comercio debidamente constituida."
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopias de Certificado de Habilitación de Comercio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de Patente de Comercio al día.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción en ARCA e ingresos brutos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancias de exenciones impositivas (de corresponder).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopias del Contrato de Sociedad debidamente inscripto en la Dirección Provincial de Personas Jurídicas, certificado por Escribano Público.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del último balance comercial, certificado por Contador Público Nacional.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Descargá el formulario de inscripción 'solicitud de alta / modificacion en el registro de proveedores' y completalo manualmente."
+      },
+      {
+        "texto": "Completá el Formulario 35 'Autorización de Acreditación en Cuenta Bancaria'."
+      },
+      {
+        "texto": "Completá el 'Registro de Beneficiarios' y acompañalo con la documentación que allí se detalla."
+      },
+      {
+        "texto": "Imprimí las planillas completadas y el resto de la documentación solicitada."
+      },
+      {
+        "texto": "Entregá todo vía postal a la Oficina de Compras Municipalidad de San Cayetano o en forma personal en dicha oficina."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Compras Municipalidad de San Cayetano",
+      "direccion": "Av. San Martín Nº 439",
+      "localidad": "San Cayetano",
+      "horario": null,
+      "fuente_url": "https://sancayetano.gob.ar/inscripcion-de-proveedores/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://sancayetano.gob.ar/inscripcion-de-proveedores/",
+      "titulo": "INSCRIPCIÓN DE PROVEEDORES - San Cayetano | Municipalidad",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T10:07:13.866Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica si el trámite requiere turno."
+  ]
+}

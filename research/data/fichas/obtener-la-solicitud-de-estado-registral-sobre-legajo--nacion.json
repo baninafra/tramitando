@@ -1,0 +1,74 @@
+{
+  "tramite": {
+    "slug": "obtener-la-solicitud-de-estado-registral-sobre-legajo",
+    "nombre": "Obtener la solicitud de estado registral sobre legajo",
+    "nombre_busqueda": "Solicitud de estado registral legajo",
+    "resumen": "Para consultar el estado de las armas registradas a tu nombre, necesitás solicitar el estado registral de tu legajo en ANMaC.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMaC",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan información sobre las armas registradas a su nombre."
+    ],
+    "requisitos": [
+      {
+        "texto": "Llevá la Ley 23.283 correspondiente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Llevá la Ley 23.412 correspondiente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Llevá tus datos completos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Llevá el número actual de legajo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Llevá el número de legajo anterior, si lo tenés.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-la-solicitud-de-estado-registral-sobre-legajo",
+      "titulo": "Obtener la solicitud de estado registral sobre legajo | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T06:36:09.733Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto de la consulta de aranceles no está especificado en el texto."
+  ]
+}

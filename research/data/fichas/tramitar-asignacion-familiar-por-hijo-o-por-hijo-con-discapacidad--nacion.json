@@ -1,0 +1,121 @@
+{
+  "tramite": {
+    "slug": "tramitar-asignacion-familiar-por-hijo-o-por-hijo-con-discapacidad",
+    "nombre": "Tramitar Asignación Familiar por Hijo o por Hijo con Discapacidad",
+    "nombre_busqueda": "Asignación familiar ANSES",
+    "resumen": "Pago mensual gratuito que realiza la ANSES por cada hijo menor de 18 años, o sin límite de edad en el caso de hijo con discapacidad. La asignación garantiza los derechos a la salud y educación de cada niño de la Argentina.",
+    "sinonimos": [
+      "Asignación familiar por hijo",
+      "Asignación familiar por hijo con discapacidad"
+    ],
+    "temas": [
+      "familia-y-pareja"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANSES",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Trabajadoras en relación de dependencia que cobren a través de una Aseguradora de Riesgos del Trabajo",
+      "Trabajadoras monotributistas",
+      "Trabajadoras de temporada",
+      "Trabajadoras rurales que cobren la Prestación por Desempleo",
+      "Trabajadoras que cobren la Pensión Honorífica de Veteranos de Guerra",
+      "Trabajadoras que cobren una Pensión No Contributiva por Invalidez o asignación por trasplante",
+      "Titulares de jubilaciones y pensiones"
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener los datos personales y del grupo familiar actualizados en ANSES",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informar un medio de cobro",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ser menor de 18 años, soltero y residir en el país",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ser soltero, viudo, divorciado, separado legalmente y residir en el país",
+        "aclaracion": "Si sos hijo con discapacidad"
+      },
+      {
+        "texto": "Tener la autorización para el cobro vigente emitida por ANSES",
+        "aclaracion": "Si sos hijo con discapacidad"
+      },
+      {
+        "texto": "Que los ingresos individuales y del grupo familiar no superen los topes vigentes",
+        "aclaracion": null
+      },
+      {
+        "texto": "Que no rigen topes máximos",
+        "aclaracion": "Si sos hijo con discapacidad"
+      },
+      {
+        "texto": "Corresponden las asignaciones en caso de hijo adoptado, en guarda, bajo cuidado personal, tutela, curatela o bajo apoyo designado por autoridad judicial",
+        "aclaracion": null
+      },
+      {
+        "texto": "Que el hijo a cargo tenga trabajo registrado o perciba cualquier prestación de ANSES",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Acreditá tus datos personales verificando que tus datos personales y los de tu grupo familiar estén actualizados en mi ANSES."
+      },
+      {
+        "texto": "Informá tu medio de cobro revisando que los datos de tu medio de cobro estén correctamente registrados en mi ANSES."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Si te falta presentar algo, acercate sin turno a una oficina con la documentación necesaria (original y copia)."
+      },
+      {
+        "texto": "Si tenés un hijo con discapacidad, realizá un trámite previo."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tramitar-asignacion-familiar-por-hijo-o-por-hijo-con-discapacidad",
+      "titulo": "Tramitar Asignación Familiar por Hijo o por Hijo con discapacidad | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T17:41:00.913Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T17:41:00.913Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de oficinas",
+    "Localidad de oficinas",
+    "Nombre de oficinas",
+    "Vigencia desde fecha exacta"
+  ]
+}

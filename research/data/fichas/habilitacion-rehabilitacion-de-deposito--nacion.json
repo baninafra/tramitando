@@ -1,0 +1,98 @@
+{
+  "tramite": {
+    "slug": "habilitacion-rehabilitacion-de-deposito",
+    "nombre": "Habilitación rehabilitación de depósito",
+    "nombre_busqueda": "Habilitación rehabilitación de depósito",
+    "resumen": "Este trámite permite solicitar la habilitación o rehabilitación de instalaciones destinadas al almacenamiento de sustancias químicas controladas, sujetas a inscripción como importador. Se otorga por un período de cinco años.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMaC",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan instalaciones destinadas al almacenamiento de sustancias químicas controladas y deseen inscribirse como importador."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de solicitud indicando las instalaciones, dirección postal completa, número de teléfono, fax y todo otro dato que asegure la comunicación directa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos correspondientes a la administración central de la empresa, en caso que se emplazare en un lugar distinto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ficha de Datos Técnicos F1.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acompañar fotografías del lugar de emplazamiento del depósito, debidamente intervenidas por el representante legal de la firma.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Anexar plano suscripto por profesional competente e intervenido por el representante legal de la empresa, con detalle de las instalaciones y sus materiales constructivos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informar, con carácter de declaración jurada las medidas de seguridad con que cuentan las instalaciones para la prevención de incendio, explosiones, derrames, fugas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditar la contratación de servicio médico o contar con centro médico en el lugar de emplazamiento de las instalaciones de almacenamiento.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La ANMaC dará intervención al Instituto de Investigaciones Científicas y Técnicas de las Fuerzas Armadas (CITEFA) a fin que verifique las medidas de seguridad de las instalaciones de almacenamiento denunciadas.",
+      "Cumplido, la ANMaC registrará la instalación de almacenamiento."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 300000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/habilitacion-rehabilitacion-de-deposito"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/habilitacion-rehabilitacion-de-deposito",
+      "titulo": "Habilitación-rehabilitación de depósito. | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T16:01:57.312Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se otorgan por un período de cinco años.",
+    "Disp. 270/05",
+    "CITEFA"
+  ]
+}

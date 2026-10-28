@@ -1,0 +1,122 @@
+{
+  "tramite": {
+    "slug": "reclamos-enrege-electricidad",
+    "nombre": "Reclamar por demora en solicitud de cambio de potencia, tensión, alimentación",
+    "nombre_busqueda": "Reclamar demora cambio potencia electricidad",
+    "resumen": "Reclamá ante la distribuidora (EDENOR o EDESUR) que cumpla con el plazo estipulado para cambios de potencia, tensión o alimentación. El trámite es gratuito y requiere turno presencial en la sede del ENReGE.",
+    "sinonimos": [
+      "Reclamo demora cambio potencia",
+      "Reclamo demora tensión alimentación"
+    ],
+    "temas": [
+      "servicios-urbanos-y-reclamos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ente Nacional Regulador del Gas y la Electricidad",
+    "sigla": "ENReGE",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Usuarios de EDENOR y EDESUR."
+    ],
+    "requisitos": [
+      {
+        "texto": "Comprobante del pedido solicitado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el servicio no está a tu nombre, debés presentar una copia del título de propiedad o del contrato de alquiler, o de un servicio a tu nombre, o del DNI donde conste el domicilio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tu número de identificación según la distribuidora: número de cliente para EDESUR; número de cuenta para EDENOR.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de reclamo ante la distribuidora.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tu domicilio (entre qué calles, localidad, barrio, partido, código postal).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio donde querés que el ENReGE remita las comunicaciones relativas a tu reclamo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Un número de teléfono donde contactarte.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Completá el formulario de reclamo a distancia si preferís hacerlo por Internet."
+      },
+      {
+        "texto": "Llegá a la sede del ENReGE en Suipacha 615, Ciudad Autónoma de Buenos Aires, de lunes a viernes de 09:00 a 17:00 horas."
+      },
+      {
+        "texto": "Presentá los documentos y datos requeridos para el reclamo."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "No olvides reclamar ante la empresa antes de hacerlo ante el ENReGE."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede del ENReGE",
+      "direccion": "Suipacha 615",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/reclamar-por-demora-en-solicitud-de-cambio-de-potencia-tension-alimentacion"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reclamar-por-demora-en-solicitud-de-cambio-de-potencia-tension-alimentacion",
+      "titulo": "Reclamar por demora en solicitud de cambio de potencia, tensión, alimentación | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:24:54.392Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/enre/gestion-de-reclamos/formularios-online/formulario-atencion-usuarios",
+      "titulo": "Para reclamar por otras deficiencias en el servicio de EDENOR / EDESUR | Argentina.gob.ar",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T02:24:54.392Z"
+    },
+    {
+      "url": "https://mi.argentina.gob.ar/turnos/seleccion-turno/247",
+      "titulo": "Ingresar | Mi Argentina",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T02:24:54.392Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite.",
+    "El plazo estimado de respuesta del reclamo.",
+    "El método exacto para sacar el turno (línea telefónica o web específica)."
+  ]
+}

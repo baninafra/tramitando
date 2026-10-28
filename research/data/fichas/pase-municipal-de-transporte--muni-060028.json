@@ -1,0 +1,67 @@
+{
+  "tramite": {
+    "slug": "pase-municipal-de-transporte",
+    "nombre": "Pase Municipal de Transporte",
+    "nombre_busqueda": "Pase Municipal de Transporte",
+    "resumen": "Trámite para obtener un permiso o pase que habilita a personas para acceder a servicios de transporte público local, muchas veces con beneficios especiales como descuentos o gratuidad.",
+    "sinonimos": [],
+    "temas": [
+      "transporte-publico-y-viajes",
+      "pasajes-gratuitos-por-discapacidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060028",
+  "organismo": {
+    "nombre": "Municipio de Almirante Brown",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que deseen acceder a servicios de transporte público local."
+    ],
+    "requisitos": [
+      {
+        "texto": "Foto DNI (Frente y Reverso)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de discapacidad CUD (Vigente)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "centro de acceso a derechos para personas con discapacidad",
+      "direccion": "Carlos Pellegrini 1015",
+      "localidad": "Carlos Pellegrini 1015",
+      "horario": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/pase-municipal-de-transporte/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.brown.gob.ar/tramites/pase-municipal-de-transporte/",
+      "titulo": "Pase Municipal de Transporte",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T01:42:45.957Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se indica que el trámite es presencial, pero no se especifica si requiere turno ni el plazo de tramitación.",
+    "No se menciona el monto de la tasa ni si el trámite es gratuito en el texto."
+  ]
+}

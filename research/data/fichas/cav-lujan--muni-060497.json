@@ -1,0 +1,82 @@
+{
+  "tramite": {
+    "slug": "reclamos-vecinales",
+    "nombre": "Ingreso y seguimiento de reclamos barriales",
+    "nombre_busqueda": "Reclamos barriales Luján",
+    "resumen": "El Centro de Atención al Vecino permite iniciar reclamos, denuncias y solicitudes a través de un formulario online con datos personales y ubicación.",
+    "sinonimos": [
+      "Reclamos municipales",
+      "Denuncias barriales",
+      "Solicitudes a la municipalidad"
+    ],
+    "temas": [
+      "reclamos-vecinales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060497",
+  "organismo": {
+    "nombre": "Centro de Atención al Vecino",
+    "sigla": "CAV",
+    "web": "https://www.lujan.gob.ar/cav_lujan.php"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier vecino de la localidad de Luján."
+    ],
+    "requisitos": [
+      {
+        "texto": "Datos personales (tipo de documento, apellido, nombre, teléfono, correo electrónico).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ubicación del reclamo (localidad, barrio, calle, número, altura, km, metros, piso, departamento).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario de reclamos con tus datos personales."
+      },
+      {
+        "texto": "Indicá la ubicación exacta del reclamo en el mapa o escribiéndolo."
+      },
+      {
+        "texto": "Seleccioná el tipo de solicitud (consulta, denuncia, reclamo o solicitud)."
+      },
+      {
+        "texto": "Escribí la descripción detallada del reclamo."
+      },
+      {
+        "texto": "Finalizá el formulario y enviá el reclamo."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Guardá el comprobante de envío del formulario online.",
+      "Si necesitás más información, consultá directamente con el Centro de Atención al Vecino."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.lujan.gob.ar/cav_lujan.php",
+      "titulo": "Formulario de Reclamos - Centro de Atención al Vecino",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T15:02:01.324Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el plazo de respuesta o seguimiento de los reclamos.",
+    "No se indica si existen costos asociados al trámite."
+  ]
+}

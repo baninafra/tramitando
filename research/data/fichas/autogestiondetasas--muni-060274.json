@@ -1,0 +1,112 @@
+{
+  "tramite": {
+    "slug": "pago-de-tasas-municipales",
+    "nombre": "Pago de tasas municipales",
+    "nombre_busqueda": "Pago de tasas municipales",
+    "resumen": "Podés pagar las tasas municipales en la Tesorería, oficinas bancarias o mediante medios electrónicos. También podés presentar tu Declaración Jurada Anual online.",
+    "sinonimos": [
+      "Pago de tasas",
+      "Pago de tasas municipales"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060274",
+  "organismo": {
+    "nombre": "Municipalidad de Florencio Varela",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier contribuyente que tenga que pagar tasas municipales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Declaración Jurada Anual completa y firmada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción en AFIP vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción en el Impuesto sobre los Ingresos Brutos vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Recibo de la Tasa de Servicios Generales correspondiente al año de la Declaración que se presenta.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Presentá tu Declaración Jurada anual de manera online."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Tesorería",
+      "direccion": "25 de Mayo 2725",
+      "localidad": "Florencio Varela",
+      "horario": null,
+      "fuente_url": "https://www.varela.gob.ar/autogestiondetasas/"
+    },
+    {
+      "nombre": "Secretaría de Seguridad Vial y Movilidad Urbana",
+      "direccion": "Lavalle 550",
+      "localidad": "Florencio Varela",
+      "horario": null,
+      "fuente_url": "https://www.varela.gob.ar/autogestiondetasas/"
+    },
+    {
+      "nombre": "Delegación Ingeniero Allan",
+      "direccion": "Antártida Argentina y Machaín",
+      "localidad": "Florencio Varela",
+      "horario": null,
+      "fuente_url": "https://www.varela.gob.ar/autogestiondetasas/"
+    },
+    {
+      "nombre": "Delegación Cruce Varela",
+      "direccion": "Alfonsina Storni 1500 esquina Sánchez de Loria",
+      "localidad": "Florencio Varela",
+      "horario": null,
+      "fuente_url": "https://www.varela.gob.ar/autogestiondetasas/"
+    },
+    {
+      "nombre": "Jefatura General de Compras y Suministros",
+      "direccion": "Calle 25 de Mayo Nº 2725",
+      "localidad": "San Juan Bautista",
+      "horario": null,
+      "fuente_url": "https://www.varela.gob.ar/autogestiondetasas/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.varela.gob.ar/autogestiondetasas/",
+      "titulo": "Autogestión de tasas",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T07:12:09.244Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los montos de las tasas no están especificados en el texto.",
+    "La fecha de vigencia exacta de las tasas no está especificada en el texto.",
+    "La fecha de vigencia exacta del plazo para la Declaración Jurada Anual no está especificada en el texto."
+  ]
+}

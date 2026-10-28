@@ -1,0 +1,76 @@
+{
+  "tramite": {
+    "slug": "consulta-de-deudas-y-cancelacion-de-tasas-municipales",
+    "nombre": "Consulta de deudas y cancelación de tasas municipales",
+    "nombre_busqueda": "pagar deudas municipales general paz",
+    "resumen": "Consultá tu deuda municipal y cancelala mediante transferencia bancaria. Después, enviá los comprobantes y el listado de deuda por email o WhatsApp para que registren el pago.",
+    "sinonimos": [
+      "Pagar tasas municipales",
+      "Cancelar deuda municipal"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060343",
+  "organismo": {
+    "nombre": "Municipalidad de General Paz",
+    "sigla": null,
+    "web": "https://municipalidaddegeneralpaz.gob.ar"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan deudas pendientes con la Municipalidad de General Paz."
+    ],
+    "requisitos": [
+      {
+        "texto": "Listado de deuda generado por la municipalidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobantes de transferencia bancaria.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Consultá y generá el listado de deuda."
+      },
+      {
+        "texto": "Realizá la transferencia bancaria por el monto exacto que figura en el listado."
+      },
+      {
+        "texto": "Enviá un email a mentradas.gp@gmail.com o un WhatsApp al 2241568150 adjuntando los comprobantes de transferencia y los listados de deuda."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "No acumules más de una cuenta por transferencia: si tenés varias deudas, hacé una transferencia por cada listado.",
+      "El monto transferido debe ser exacto; cualquier excedente se reconoce como saldo a favor en la cuenta referenciada."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://municipalidaddegeneralpaz.gob.ar/index.php/consulta-de-deudas-y-pagos/",
+      "titulo": "Consulta de Deudas y Pagos",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T12:51:08.702Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el plazo para la confirmación del pago.",
+    "No se indica si hay costos adicionales por la consulta o el trámite."
+  ]
+}

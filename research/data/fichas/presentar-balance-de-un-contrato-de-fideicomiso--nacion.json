@@ -1,0 +1,95 @@
+{
+  "tramite": {
+    "slug": "presentar-balance-de-un-contrato-de-fideicomiso",
+    "nombre": "Presentar balance de un contrato de fideicomiso",
+    "nombre_busqueda": "Presentar balance de un contrato de fideicomiso",
+    "resumen": "Para presentar el balance de un contrato de fideicomiso, necesitás completar un formulario, abonar la tasa y llevar toda la documentación requerida a la Inspección General de Justicia.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan la obligación de emitir estados contables anuales por contrato de fideicomiso."
+    ],
+    "requisitos": [
+      {
+        "texto": "Estados de situación patrimonial conforme al Libro IV de la RG IGJ 7/2015 y normas técnicas profesionales vigentes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de presentación de balances.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación indicada para el trámite.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Completá el formulario y solicitá turno para Mesa de Entradas."
+      },
+      {
+        "texto": "Presentá el formulario y toda la documentación indicada para el trámite en la Mesa General de Entradas de la Inspección General de Justicia, Av. Paseo Colón 291."
+      },
+      {
+        "texto": "Retirá el trámite por Av. Paseo Colón 291, previa solicitud de turno."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 16000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/presentar-balance-de-un-contrato-de-fideicomiso"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Mesa General de Entradas de la Inspección General de Justicia",
+      "direccion": "Av. Paseo Colón 291",
+      "localidad": "Av. Paseo Colón 291",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/presentar-balance-de-un-contrato-de-fideicomiso"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/presentar-balance-de-un-contrato-de-fideicomiso",
+      "titulo": "Presentar balance de un contrato de fideicomiso | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T00:29:08.471Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia exacta del trámite.",
+    "El monto exacto de la tasa en centavos de peso.",
+    "La lista completa de documentación requerida más allá del formulario y los estados patrimoniales."
+  ]
+}

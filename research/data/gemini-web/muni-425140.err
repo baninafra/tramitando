@@ -1,0 +1,29 @@
+[0m
+> build · deepseek-v4.1-flash-free
+[0m
+[0m◈ [0mExa Web Search "Municipalidad de Sarah La Pampa sitio oficial trámites"
+[0m◈ [0mExa Web Search ""Sarah" La Pampa municipalidad .gob.ar"
+[0m✗ [0mWebFetch http://sarah.gob.ar failed
+[91m[1mError: [0mTransport error (GET http://sarah.gob.ar)
+[0m% [0mWebFetch https://www.lapampa.gob.ar/sarah.html
+[0m% [0mWebFetch https://asuntosmunicipales.lapampa.gob.ar/
+[0m◈ [0mExa Web Search ""Comisión de Fomento" Sarah La Pampa trámites servicios municipales"
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/
+[0m✗ [0mWebFetch https://sarah.lapampa.gob.ar/ failed
+[91m[1mError: [0mTransport error (GET https://sarah.lapampa.gob.ar/)
+[0m◈ [0mExa Web Search ""sarah.gob.ar""
+[0m◈ [0mExa Web Search "site:gob.ar "Sarah" "Chapaleufú" trámite"
+[0m✗ [0mWebFetch https://www.sarah.gob.ar/ failed
+[91m[1mError: [0mTransport error (GET https://www.sarah.gob.ar/)
+[0m✗ [0mWebFetch https://sarah.gob.ar/ failed
+[91m[1mError: [0mTransport error (GET https://sarah.gob.ar/)
+[0m✗ [0mWebFetch http://www.sarah.gob.ar/ failed
+[91m[1mError: [0mTransport error (GET http://www.sarah.gob.ar/)
+[0m◈ [0mExa Web Search "Municipalidad de Sarah sitio web turismo trámites "sarah.gob.ar""
+[0m✗ [0mWebFetch http://archive.org/wayback/available?url=sarah.gob.ar failed
+[91m[1mError: [0mStatusCode: non 2xx status code (429 GET http://archive.org/wayback/available?url=sarah.gob.ar)
+[0m✗ [0mWebFetch https://web.archive.org/cdx/search/cdx?url=sarah.gob.ar*&output=text&limit=100&collapse=urlkey&fl=original,timestamp,statuscode failed
+[91m[1mError: [0mStatusCode: non 2xx status code (503 GET https://web.archive.org/cdx/search/cdx?url=sarah.gob.ar*&output=text&limit=100&collapse=urlkey&fl=original,timestamp,statuscode)
+[0m% [0mWebFetch https://www.lapampa.gob.ar/la-pampa/municipalidades-y-comisiones-de-fomento.html
+[0m◈ [0mExa Web Search "Sarah La Pampa "tasas" OR "habilitación" OR "registro civil" comisión de fomento"
+[0m% [0mWebFetch https://web.archive.org/web/2024/https://sarah.gob.ar/

@@ -1,0 +1,78 @@
+{
+  "tramite": {
+    "slug": "turnos-atencion-omic",
+    "nombre": "Turnos para Atención en OMIC",
+    "nombre_busqueda": "Turnos OMIC Bahía Blanca",
+    "resumen": "Sistema de turnos para la Oficina Municipal de Información al Consumidor (OMIC) ubicada en Bahía Blanca.",
+    "sinonimos": [
+      "Turnos OMIC",
+      "Atención al consumidor Bahía Blanca"
+    ],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Oficina Municipal de Información al Consumidor",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en obtener información o resolver dudas sobre derechos del consumidor."
+    ],
+    "requisitos": [
+      {
+        "texto": "Identificación personal.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acudí a la oficina de la OMIC con tu identificación."
+      },
+      {
+        "texto": "Solicitá tu turno en la fila de espera."
+      },
+      {
+        "texto": "Esperá tu turno para ser atendido por el funcionario."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "OMIC",
+      "direccion": "Alsina 65",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/turnos/omic/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/turnos/omic/",
+      "titulo": "Oficina Municipal de Información al Consumidor / Turnos | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T03:11:57.782Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos detallados más allá de la identificación.",
+    "No se indica el plazo de espera para obtener turno.",
+    "No se especifica si el trámite requiere cita previa o si se saca turno en línea."
+  ]
+}

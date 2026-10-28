@@ -1,0 +1,100 @@
+{
+  "tramite": {
+    "slug": "tramitar-la-tenencia-de-armas-para-efectos-especiales",
+    "nombre": "Tramitar la tenencia de armas para efectos especiales",
+    "nombre_busqueda": "Tramitar tenencia armas efectos especiales",
+    "resumen": "Este trámite permite a empresas que realizan efectos especiales solicitar la credencial de tenencia de armas modificadas para disparar munición de fogueo ante ANMaC.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMaC",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas cuya actividad sea la realización de efectos especiales y requieran armas modificadas para disparar munición de fogueo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formularios",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ley 23.283 y 23.412",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá la solicitud electrónica ingresando a través de la página miAnmac y presionando SOLICITUD."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      },
+      {
+        "texto": "Presentá la documentación completa respetando el día, horario y lugar que seleccionaste al pedir el turno."
+      },
+      {
+        "texto": "Retirá la documentación emitida por el ANMaC en la delegación en la que iniciaste el trámite o pedí que te la manden por correo."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": "10 días común días hábiles",
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "común",
+      "gratis": false,
+      "monto_centavos": 1000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/tramitar-la-tenencia-de-armas-para-efectos-especiales"
+    },
+    {
+      "modalidad": "urgente",
+      "gratis": false,
+      "monto_centavos": 1000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/tramitar-la-tenencia-de-armas-para-efectos-especiales"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Sede Central del organismo",
+      "direccion": "Bartolomé Mitre 1465/9",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/tramitar-la-tenencia-de-armas-para-efectos-especiales"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tramitar-la-tenencia-de-armas-para-efectos-especiales",
+      "titulo": "Tramitar la tenencia de armas para efectos especiales | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T00:41:49.148Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de las delegaciones de todo el país.",
+    "Link para sacar turno en línea."
+  ]
+}

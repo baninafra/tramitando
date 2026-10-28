@@ -1,0 +1,119 @@
+{
+  "tramite": {
+    "slug": "hacer-presentacion-externa-para-rectificar-declaracion-de-exportacion",
+    "nombre": "Hacer presentación externa para rectificar Declaración de Exportación",
+    "nombre_busqueda": "rectificar declaracion de exportacion",
+    "resumen": "Este trámite permite modificar campos específicos de una Declaración de Exportación, como bandera, medio de transporte o país de destino, ingresando al Sistema Informático Malvina (SIM). No requiere adjuntar documentación, aunque se puede subir archivos PDF si se desea.",
+    "sinonimos": [
+      "Rectificación de declaración de exportación",
+      "Modificar datos de exportación en SITA"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A los importadores, exportadores y despachantes de aduana."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de la declaración de exportación a rectificar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Archivos PDF (opcional, para adjuntar documentos varios).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al Sistema Informático Malvina (SIM)."
+      },
+      {
+        "texto": "Elegí la opción 'Rectificación de la declaración de exportación' en el menú Trámite."
+      },
+      {
+        "texto": "Ingresá obligatoriamente el número de la declaración de exportación en la sección Datos de referencia."
+      },
+      {
+        "texto": "Modificá los campos que necesites cambiar (bandera, medio de transporte, fecha de vencimiento, Aduana de salida, vía de transporte o país de destino)."
+      },
+      {
+        "texto": "Hacé clic en el botón Finalizar carga para que el sistema valide los datos."
+      },
+      {
+        "texto": "Revisá el detalle de los datos a modificar y clicá Confirmar si están correctos o Rechazar si no lo son."
+      },
+      {
+        "texto": "En la sección Dependencia, elegí la oficina de destino en el menú desplegable Área."
+      },
+      {
+        "texto": "Ingresá el motivo de la modificación en la sección Cuerpo del texto."
+      },
+      {
+        "texto": "Clicá en Siguiente."
+      },
+      {
+        "texto": "Si elegiste adjuntar documentos, seleccioná Documentos varios y subí los archivos PDF."
+      },
+      {
+        "texto": "Clicá en Continuar para finalizar el trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La modificación se realizará únicamente cuando el trámite sea aprobado por el servicio aduanero.",
+      "El sistema enviará un e-mail al jefe de la oficina de destino y su reemplazante para gestionar el trámite.",
+      "El servicio aduanero podrá notificar la resolución mediante SICNEA.",
+      "Los estados de resolución pueden ser aprobado, rechazado o anulado."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/hacer-presentacion-externa-para-rectificar-declaracion-de-exportacion",
+      "titulo": "Hacer presentación externa para rectificar Declaración de Exportación | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T16:22:15.837Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T16:22:15.837Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/cdn-cgi/content?id=vxxCO5JdMAL2apj5Lr4KyT_w0PGhLz5DTtqbkpldOaQ-1792994543.4643207-1.2.1.1-fmpG1AmESR2pueQF6PHxnewtc.lfAED2nLHbCEWC2PnQ_XRhmRH7.oizN3ORo1v0",
+      "titulo": "Frame Theory: A Window into Human Perception",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T16:22:15.837Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Plazo de resolución del trámite.",
+    "Dirección exacta de las oficinas de destino."
+  ]
+}

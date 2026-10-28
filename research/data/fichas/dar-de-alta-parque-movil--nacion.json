@@ -1,0 +1,104 @@
+{
+  "tramite": {
+    "slug": "dar-de-alta-parque-movil",
+    "nombre": "Dar de alta parque móvil",
+    "nombre_busqueda": "Dar de alta parque movil",
+    "resumen": "Trámite para registrar vehículos de empresas de transporte de pasajeros que ya tienen permiso de CNRT. Es gratuito y se realiza en línea.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Comisión Nacional de Regulación del Transporte",
+    "sigla": "CNRT",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A toda persona física o jurídica permisionada que realice transporte de pasajeros de Servicio Público, Urbano Internacional, Turismo Integrado, Turismo Triple Frontera, Jurisdicción Internacional, Empresa extranjera."
+    ],
+    "requisitos": [
+      {
+        "texto": "Ser permisionario de una empresa de transporte de pasajeros de Servicio Público, Urbano Internacional, Turismo Integrado, Turismo Triple Frontera, Jurisdicción Internacional, Empresa extranjera.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título de propiedad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario 07.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pago de arancel.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Limitador de velocidad (informe o nota del concesionario oficial).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de fabricación o importación del chasis.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación de fabricación de carrocería, con número de expediente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de chasis.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de equipamiento (en caso de furgón equipado) con disposición.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Historia (con inscripción previa del vehículo en CNRT).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Sin historia (sin inscripción previa del vehículo en CNRT).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Presentá la documentación a través de TAD."
+      },
+      {
+        "texto": "La clave fiscal debe ser de nivel 3."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si necesitás saber si tu empresa posee algún bloqueo que te impida realizar algún movimiento, debés dirigirte por mail a la dirección [email protected].",
+      "Según el tipo de consulta, intervienen las siguientes las áreas: Balance: Área Económica Financiera, Tasa o multa: Recaudaciones, Planes judiciales: Contenciosos o Prejudiciales."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/dar-de-alta-parque-movil",
+      "titulo": "Dar de alta parque móvil | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T14:57:51.929Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica el plazo de duración del trámite ni la vigencia desde una fecha exacta."
+  ]
+}

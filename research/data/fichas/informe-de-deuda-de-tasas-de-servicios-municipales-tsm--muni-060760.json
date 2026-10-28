@@ -1,0 +1,78 @@
+{
+  "tramite": {
+    "slug": "informe-deuda-de-tasas-de-servicios-municipales",
+    "nombre": "Informe de deuda de Tasas de Servicios Municipales",
+    "nombre_busqueda": "Informe deuda TSM",
+    "resumen": "Consultá el estado de la deuda de Tasas de Servicios Municipales por concepto de partida municipal. El trámite es gratis y se realiza en la oficina de Tasas.",
+    "sinonimos": [
+      "Informe deuda TSM",
+      "Consulta deuda Tasas Servicios Municipales"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060760",
+  "organismo": {
+    "nombre": "Municipalidad San Miguel",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en consultar el estado de una partida municipal."
+    ],
+    "requisitos": [
+      {
+        "texto": "N° de Partida Municipal que desea averiguar.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Dirigite a la direccion de Tasas de Servicios Municipales con el N° de la partida que desea consultar."
+      },
+      {
+        "texto": "Se verificara el estado de la Partida Municipal para la generacion de la simulacion de posibles planes de pago y la documentacion requerida para el tramite o se le imprimiran las boletas de pago segun lo que desee."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El trámite no tiene plazo establecido en la página."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Tasas de Servicios Municipales",
+      "direccion": "Belgrano 1342 - planta baja",
+      "localidad": "Belgrano 1342 - planta baja",
+      "horario": null,
+      "fuente_url": "https://www.msm.gov.ar/guia-tramites/economia-finanzas/informe-de-deuda-de-tasas-de-servicios-municipales-tsm/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.msm.gov.ar/guia-tramites/economia-finanzas/informe-de-deuda-de-tasas-de-servicios-municipales-tsm/",
+      "titulo": "Informe de deuda de Tasas de Servicios Municipales (TSM) - Municipalidad San Miguel",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T13:11:31.720Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horarios de atención: Lunes a viernes de 08 a 14hs.",
+    "Vigencia del trámite.",
+    "Si el trámite requiere turno."
+  ]
+}

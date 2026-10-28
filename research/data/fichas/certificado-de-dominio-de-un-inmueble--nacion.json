@@ -1,0 +1,96 @@
+{
+  "tramite": {
+    "slug": "certificado-de-dominio-de-un-inmueble",
+    "nombre": "Certificado de dominio de un inmueble",
+    "nombre_busqueda": "Certificado de dominio inmueble",
+    "resumen": "El Registro informa la situación jurídica de un inmueble radicado en la Ciudad Autónoma de Buenos Aires y establece reserva de prioridad para otorgar actos jurídicos sobre dicho bien.",
+    "sinonimos": [],
+    "temas": [
+      "catastro-e-inmuebles",
+      "tasa-inmobiliaria-y-servicios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro de la Propiedad Inmueble",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Escribano público"
+    ],
+    "requisitos": [
+      {
+        "texto": "Conocer la Matrícula del inmueble, o su inscripción dominial (Zona, Tomo y Folio, Finca, etc.)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el inmueble está afectado a Propiedad Horizontal, conocer el Nº de Unidad Funcional y de Unidad Complementaria si la hubiere",
+        "aclaracion": null
+      },
+      {
+        "texto": "Conocer la ubicación del inmueble (calle y número)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Una cuenta de email válida",
+        "aclaracion": null
+      },
+      {
+        "texto": "Una cuenta bancaria para abonar VEPs",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la página web del Registro de la Propiedad Inmueble de Capital Federal e ingresá a Trámites web para usuario registrados"
+      },
+      {
+        "texto": "Llená el formulario de solicitud"
+      },
+      {
+        "texto": "Recibí un email con los datos para descargar el Certificado desde la página web del Registro de la Propiedad Inmueble de Capital Federal"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Común: dentro de los 4 días hábiles, sin contar el día de su presentación",
+      "Urgente: dentro de los 2 días hábiles, sin contar el día de su presentación",
+      "Urgente Exprés: al día hábil siguiente de su presentación"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/certificado-de-dominio-de-un-inmueble",
+      "titulo": "Certificado de dominio de un inmueble | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-26T05:20:55.302Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-26T05:20:55.302Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del costo no se especifica en el texto, consultá la tabla de valores o calculá el costo en la calculadora de trámites registrales de acuerdo con los aranceles vigentes y en base a la información introducida",
+    "La fecha de vigencia del trámite no se especifica en el texto, solo se menciona que el certificado es digital y deberá ser firmado por el escribano peticionante con firma digital avalada por autoridad certificante a nivel Nacional (DTR 18/2016)",
+    "No se especifica si el trámite requiere turno en la página oficial del Registro de la Propiedad Inmueble, aunque la página de turnos del gobierno nacional lo menciona como una opción general"
+  ]
+}

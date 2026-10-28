@@ -1,0 +1,123 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-actas",
+    "nombre": "Solicitud de actas",
+    "nombre_busqueda": "Solicitar actas nacimiento matrimonio defuncion",
+    "resumen": "Se tramitan partidas de nacimiento, matrimonio, defunción y uniones convivenciales a través de la plataforma Ciudadano Digital. Se requiere tener 14 años cumplidos y iniciar sesión en el sistema.",
+    "sinonimos": [
+      "Solicitud de partidas",
+      "Obtener acta civil digital"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141393",
+  "organismo": {
+    "nombre": "Municipalidad de Malagueño",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Tener 14 años cumplidos"
+    ],
+    "requisitos": [
+      {
+        "texto": "Iniciá sesión en la plataforma Ciudadano Digital",
+        "aclaracion": null
+      },
+      {
+        "texto": "Buscá Mi Registro Civil",
+        "aclaracion": null
+      },
+      {
+        "texto": "Hacé click en Solicitar partidas de Nacimiento, Matrimonio, Defunción y Uniones Convivenciales",
+        "aclaracion": null
+      },
+      {
+        "texto": "Completá el formulario",
+        "aclaracion": null
+      },
+      {
+        "texto": "Seleccioná el modo de envío",
+        "aclaracion": null
+      },
+      {
+        "texto": "Hacé click en enviar solicitud",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá sesión en la plataforma Ciudadano Digital"
+      },
+      {
+        "texto": "Buscá Mi Registro Civil"
+      },
+      {
+        "texto": "Hacé click en Solicitar partidas de Nacimiento, Matrimonio, Defunción y Uniones Convivenciales"
+      },
+      {
+        "texto": "Completá el formulario"
+      },
+      {
+        "texto": "Seleccioná el modo de envío"
+      },
+      {
+        "texto": "Hacé click en enviar solicitud"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Cuando el acta sea encontrada, se enviará el cupón de pago vía mail",
+      "Recibirás el acta digital vía mail",
+      "También recibirás el acta en la sección Mis Documentos de CiDi"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.malagueno.gob.ar/catastro/",
+      "titulo": "Catastro – Municipalidad de Malagueño – Córdoba, Argentina",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T09:22:37.662Z"
+    },
+    {
+      "url": "https://www.malagueno.gob.ar/",
+      "titulo": "Municipalidad de Malagueño – Córdoba, Argentina",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T09:22:37.662Z"
+    },
+    {
+      "url": "https://www.malagueno.gob.ar/gobierno/",
+      "titulo": "Gobierno – Municipalidad de Malagueño – Córdoba, Argentina",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T09:22:37.662Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La plataforma Ciudadano Digital no tiene un enlace directo en el texto, solo se menciona su nombre para iniciar sesión"
+  ]
+}

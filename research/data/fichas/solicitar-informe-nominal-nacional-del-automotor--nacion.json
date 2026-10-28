@@ -1,0 +1,114 @@
+{
+  "tramite": {
+    "slug": "solicitar-informe-nominal-nacional-del-automotor",
+    "nombre": "Solicitar informe nominal nacional del automotor",
+    "nombre_busqueda": "informe nominal automotor",
+    "resumen": "Te permite saber cuántos vehículos tiene a su nombre una persona en un Registro Seccional específico. El informe solo se refiere a los automotores radicados en el lugar donde hacés la petición.",
+    "sinonimos": [
+      "informe de estado de dominio nominal",
+      "informe nominal"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Justicia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Vos o cualquiera que lo solicite."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario 02.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento identificatorio: DNI (si sos argentino), pasaporte (si sos extranjero sin residencia), DNI o CI (si sos extranjero con residencia permanente o de países limítrofes).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si completás en línea la Solicitud Tipo TP, te la van a imprimir en el mismo Registro.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá la Solicitud electrónica."
+      },
+      {
+        "texto": "Complementá el trámite de manera presencial en el Registro."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación en el Registro."
+      },
+      {
+        "texto": "Si no abonaste en línea, pagá allí los aranceles."
+      },
+      {
+        "texto": "Retirá el Informe de estado de dominio nominal al día siguiente."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "24 horas",
+    "consejos": [
+      "El tiempo se calcula a partir de la entrega de la documentación en el Registro.",
+      "El informe que obtengas sólo se referirá a los automotores radicados en el Registro Seccional ante el cual hacés la petición."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-informe-nominal-nacional-del-automotor",
+      "titulo": "Solicitar informe nominal nacional del automotor | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T09:18:39.671Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-un-informe-de-dominio-del-automotor",
+      "titulo": "Solicitar un informe de dominio del automotor | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T09:18:39.671Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-un-informe-de-dominio-del-automotor-con-caracter-urgente",
+      "titulo": "Solicitar un informe de dominio del automotor con carácter urgente | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T09:18:39.671Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los montos exactos de los aranceles no están especificados en el texto, consultalos en la guía oficial.",
+    "La dirección exacta de los Registros Seccionales no se especifica en el texto."
+  ]
+}

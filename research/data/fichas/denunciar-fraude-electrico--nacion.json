@@ -1,0 +1,86 @@
+{
+  "tramite": {
+    "slug": "denunciar-fraude-electrico",
+    "nombre": "Denunciar fraude eléctrico",
+    "nombre_busqueda": "Denunciar fraude eléctrico",
+    "resumen": "Reportá conexiones clandestinas, alteraciones de medidores u otros fraudes eléctricos de forma gratuita. El trámite es anónimo y requiere turno presencial.",
+    "sinonimos": [
+      "Reportar fraude eléctrico",
+      "Denunciar fraude eléctrico"
+    ],
+    "temas": [
+      "seguridad-y-denuncias",
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ente Nacional Regulador del Gas y la Electricidad",
+    "sigla": "ENReGE",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Usuarios de EDENOR y EDESUR"
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de reclamo realizado ante la distribuidora",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Completá el formulario de reclamo."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "No olvides reclamar ante la empresa antes de hacerlo ante el ENReGE."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede del ENReGE",
+      "direccion": "Suipacha 615",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/denunciar-fraude-electrico"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/denunciar-fraude-electrico",
+      "titulo": "Denunciar fraude eléctrico | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T15:14:39.658Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/enre/gestion-de-reclamos/formularios-online/formulario-atencion-usuarios",
+      "titulo": "Para reclamar por otras deficiencias en el servicio de EDENOR / EDESUR | Argentina.gob.ar",
+      "bloques": [
+        "requisitos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T15:14:39.658Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Cómo sacar el turno",
+    "Horarios de atención en la sede"
+  ]
+}

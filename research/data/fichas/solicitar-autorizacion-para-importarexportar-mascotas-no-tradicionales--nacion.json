@@ -1,0 +1,104 @@
+{
+  "tramite": {
+    "slug": "autorizacion-importacion-exportacion-mascotas-no-tradicionales",
+    "nombre": "Autorización para importar/exportar mascotas no tradicionales",
+    "nombre_busqueda": "Importar mascotas no tradicionales Argentina",
+    "resumen": "Para viajar con mascotas no tradicionales (como reptiles, aves o pequeños mamíferos) necesitás un Certificado Veterinario Internacional (CVI) emitido por el Senasa. El trámite se hace en línea en la plataforma TAD y requiere declarar un domicilio electrónico.",
+    "sinonimos": [
+      "CVI mascotas no tradicionales",
+      "Importar animales vivos Senasa",
+      "Exportar mascotas no tradicionales"
+    ],
+    "temas": [
+      "viajar-con-menores-o-mascotas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Interesados que desean ingresar a la Argentina o viajar al exterior acompañados de sus mascotas no tradicionales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Declarar domicilio electrónico en el sistema SIGTrámites.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Consultar si existe un acuerdo para el país de destino o origen.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar permisos de importación o exportación otorgados por otros organismos si los requiere la especie.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cumplir con tareas sanitarias específicas según la especie y el destino (inspección, cuarentena, examen de salud, desparasitaciones, tomas de muestras).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar a la plataforma Trámites a Distancia (TAD) y seleccionar la opción correspondiente (Exportación, Importación o Tránsito)."
+      },
+      {
+        "texto": "Completar el formulario de solicitud de autorización con los datos del viaje, detalle de los animales y punto de ingreso/salida."
+      },
+      {
+        "texto": "Adjuntar la documentación que corresponda y abonar el arancel correspondiente."
+      },
+      {
+        "texto": "Recibir la confirmación del trámite por correo electrónico y en TAD."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Dar aviso de llegada al punto de ingreso a la Argentina al menos 24 horas antes del arribo.",
+      "Coordinar la entrega del CVI con la oficina certificadora antes de la confirmación del trámite.",
+      "Verificar si el país de destino requiere autorización especial o permiso de importación antes de iniciar el trámite."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-autorizacion-para-importarexportar-mascotas-no-tradicionales",
+      "titulo": "Solicitar autorización para importar/exportar mascotas no tradicionales | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T04:49:58.325Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T04:49:58.325Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/centros-regionales",
+      "titulo": "Centros Regionales | Argentina.gob.ar",
+      "bloques": [
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T04:49:58.325Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no se especifica en el texto, solo se menciona que debe abonarse según corresponda.",
+    "La fecha de vigencia de la normativa no se especifica en el texto, solo se citan resoluciones antiguas."
+  ]
+}

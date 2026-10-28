@@ -1,0 +1,109 @@
+{
+  "tramite": {
+    "slug": "matrimonio-con-oficina-movil",
+    "nombre": "Matrimonio con la Oficina Móvil",
+    "nombre_busqueda": "Casar en domicilio",
+    "resumen": "Realizá la ceremonia civil de matrimonio en tu domicilio o lugar elegido iniciando el trámite digital en el portal Mi Registro Civil y presentando la documentación requerida.",
+    "sinonimos": [
+      "Casamiento en domicilio",
+      "Matrimonio civil móvil",
+      "Ceremonia civil en casa"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141498",
+  "organismo": {
+    "nombre": "Dirección General del Registro del Estado Civil y la Capacidad de las personas",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas mayores de 18 años que no tengan impedimentos legales.",
+      "Personas entre 16 y 18 años con autorización de representantes legales.",
+      "Personas menores de 16 años con dispensa judicial.",
+      "Personas que no comprendan el idioma español con traductor público nacional."
+    ],
+    "requisitos": [
+      {
+        "texto": "Cuenta de Ciudadano Digital nivel 2.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI de los contrayentes en buen estado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cuatro testigos mayores de edad con DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Convención matrimonial por Escribano Público (si se opta por separación de bienes).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación del traductor público nacional (si aplica).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización de representantes legales (si los contrayentes tienen entre 16 y 18 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dispensa judicial (si los contrayentes tienen menos de 16 años o si falta autorización).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Firma de puño y letra de los documentos generados en PDF.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá el trámite de matrimonio en el portal Mi Registro Civil con tu cuenta de Ciudadano Digital nivel 2."
+      },
+      {
+        "texto": "Completá la información solicitada: nombres y apellidos, DNIs, fecha, hora y lugar de la ceremonia, y teléfono de contacto."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación generada en PDF firmada de puño y letra en la Oficina Móvil el día de la ceremonia."
+      },
+      {
+        "texto": "Llevá los DNIs de los contrayentes y los de los cuatro testigos para acreditar su identidad."
+      },
+      {
+        "texto": "Si tenés traductor público nacional, presentá su documentación."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Se recomienda iniciar el trámite digital aproximadamente seis meses antes de la fecha de la ceremonia.",
+      "Asegurate de cumplir con los impedimentos del art. 403 del Código Civil y Comercial de la Nación."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.tancacha.gob.ar/oficinaMovil.html",
+      "titulo": "Matrimonio con la Oficina Móvil",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T09:53:06.164Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Costo de trámite a calcular."
+  ]
+}

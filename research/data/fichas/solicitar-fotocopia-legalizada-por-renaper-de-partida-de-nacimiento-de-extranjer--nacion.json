@@ -1,0 +1,95 @@
+{
+  "tramite": {
+    "slug": "solicitar-fotocopia-legalizada-por-renaper-de-partida-de-nacimiento-de-extranjeros",
+    "nombre": "Solicitar fotocopia legalizada por RENAPER de partida de nacimiento de extranjeros",
+    "nombre_busqueda": "solicitar fotocopia legalizada partida nacimiento extranjero renaper",
+    "resumen": "Para obtener una fotocopia legalizada de la partida de nacimiento de un extranjero archivada en RENAPER, hay que concurrir presencialmente al Centro de Atención al Público Jujuy del RENAPER con el DNI original.",
+    "sinonimos": [],
+    "temas": [
+      "legalizaciones-y-apostillados",
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro Nacional de las Personas",
+    "sigla": "RENAPER",
+    "web": "https://www.argentina.gob.ar/renaper"
+  },
+  "contenido": {
+    "quien_puede": [
+      "El extranjero que haya dejado su partida de nacimiento original archivada en el RENAPER y necesite una copia para iniciar algún trámite."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original de extranjero.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Concurrí sin turno previo al Centro de Atención al Público Jujuy del RENAPER, Avda. Jujuy 468, de Lunes a Viernes de 8:00 a 12:00 hs."
+      },
+      {
+        "texto": "Presentá la solicitud en el Registro Civil correspondiente a su domicilio en el Interior del país."
+      },
+      {
+        "texto": "Retirá la fotocopia legalizada de la Partida en la fecha informada en el lugar que inició el trámite."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La expedición de la documentación queda supeditada a que la partida se encuentre en los archivos del Registro Nacional de las Personas."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 20000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-fotocopia-legalizada-por-renaper-de-partida-de-nacimiento-de-extranjeros"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Centro de Atención al Público Jujuy del RENAPER",
+      "direccion": "Avda. Jujuy 468",
+      "localidad": "Jujuy",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-fotocopia-legalizada-por-renaper-de-partida-de-nacimiento-de-extranjeros"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-fotocopia-legalizada-por-renaper-de-partida-de-nacimiento-de-extranjeros",
+      "titulo": "Solicitar fotocopia legalizada por RENAPER de partida de nacimiento de extranjeros | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T09:04:52.008Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T09:04:52.008Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo de expedición no está especificado en el texto.",
+    "La fecha de vigencia de la resolución no está especificada en el texto."
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-ampliaciones-de-plazo-o-variantes-de-obra",
+    "nombre": "Solicitud de ampliaciones de plazo o variantes de obra",
+    "nombre_busqueda": "solicitud ampliaciones plazo obra",
+    "resumen": "Permite a contratistas y comitentes solicitar modificaciones que alteren la estructura inicial de la obra o afecten al plan de trabajo original.",
+    "sinonimos": [],
+    "temas": [
+      "obras-y-construccion",
+      "permiso-de-obra-y-planos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Secretaría de Obras Públicas",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Contratistas y comitentes (municipios, entes públicos y organismos provinciales) que ejecutan obra pública a partir de un convenio o contrato celebrado con la Secretaría de Obras Públicas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de solicitud de la contratista o el comitente, según corresponda, solicitando la variante de obra (PDF)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que respalde/justifique la solicitud de variante de obra (PDF firmado por las autoridades competentes)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planilla de Economías y demasías, con los análisis de precios correspondientes (XLS)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planilla de Economías y demasías, con los análisis de precios correspondientes (PDF firmado por las autoridades competentes)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nuevo Plan de trabajo y curva de Inversión (PDF firmado por las autoridades competentes)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nuevo Plan de Trabajo y curva de Inversión (XLS)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de solicitud de ampliación de plazo (contratista/comitente)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que respalde y justifique la solicitud de ampliación de plazo (PDF firmado por las autoridades competentes)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nuevo Plan de trabajo y curva de Inversión (XLS)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar a la Plataforma TAD."
+      },
+      {
+        "texto": "Seleccionar la opción Iniciar trámite 'Solicitud de Variantes de obra y Ampliaciones de plazo'"
+      },
+      {
+        "texto": "Confirme sus datos: Verifique que los datos que se encuentran pre-cargados sean correctos. En caso contrario, dirigirse a la sección 'Mis Datos' para modificarlos."
+      },
+      {
+        "texto": "Seleccionar un Box: Solicitud de Ampliaciones de plazo o Variantes de obra"
+      },
+      {
+        "texto": "Completar 'Datos del trámite' (seleccionar repartición a la que realiza la solicitud)."
+      },
+      {
+        "texto": "Completar Formulario con los datos solicitados."
+      },
+      {
+        "texto": "Adjuntar la documentación requerida."
+      },
+      {
+        "texto": "Confirmar trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitud-de-ampliaciones-de-plazo-o-variantes-de-obra",
+      "titulo": "Solicitud de Ampliaciones de plazo o Variantes de obra | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T17:02:46.346Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica el plazo de resolución ni los costos asociados al trámite."
+  ]
+}

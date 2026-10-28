@@ -1,0 +1,90 @@
+{
+  "tramite": {
+    "slug": "primera-licencia-de-conducir",
+    "nombre": "Sacar la licencia de conducir por primera vez",
+    "nombre_busqueda": "primera licencia de conducir",
+    "resumen": "Podés tramitar tu licencia de conducir por primera vez. Si sos menor de edad, necesitás una autorización firmada por ambos padres ante escribano público.",
+    "sinonimos": [
+      "licencia de conducir original",
+      "primera licencia"
+    ],
+    "temas": [
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060413",
+  "organismo": {
+    "nombre": "Gobierno de Junín",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tramitan su licencia de conducir por primera vez."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado impreso del curso presencial de la Agencia Municipal de Seguridad Vial",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización firmada por ambos padres ante escribano público",
+        "aclaracion": "Si sos menor de edad."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Sacá turno por WhatsApp al 236 4660586 para hacer el curso presencial en la Agencia Municipal de Seguridad Vial."
+      },
+      {
+        "texto": "Presentá el DNI, una fotocopia del DNI y el certificado impreso del curso."
+      },
+      {
+        "texto": "Presentá la autorización firmada por ambos padres ante escribano público si sos menor de edad. También podés hacer ese trámite en la planta baja de Tribunales."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Licencia de Conducir",
+      "direccion": "Belgrano 43",
+      "localidad": "Junín",
+      "horario": null,
+      "fuente_url": "https://www.junin.gob.ar/programa/primera-licencia"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.junin.gob.ar/programa/primera-licencia",
+      "titulo": "Primera licencia | Gobierno de Junín",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T13:57:42.227Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa el costo del trámite.",
+    "No se indica cuánto tarda el trámite.",
+    "No se especifica si la oficina de Belgrano 43 es donde se completa el trámite.",
+    "No se informa si el turno por WhatsApp es obligatorio para iniciar el trámite."
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "tramite": {
+    "slug": "obtener-la-pension-honorifica-de-veteranos-de-guerra",
+    "nombre": "Obtener la pensión honorífica de veteranos de guerra",
+    "nombre_busqueda": "Pensión honorífica veteranos de guerra",
+    "resumen": "Si sos ex soldado combatiente conscripto o civil en funciones en el conflicto del Atlántico Sur, podés tramitar esta pensión. Es gratuita y se realiza con o sin turno dependiendo de la zona.",
+    "sinonimos": [
+      "Pensión honorífica de veteranos del Atlántico Sur",
+      "Pensión honorífica de guerra"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANSES",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Ex soldados combatientes conscriptos que participaron en efectivas acciones bélicas de combate en el conflicto del Atlántico Sur.",
+      "Civiles que se encontraban cumpliendo funciones en los lugares en los que se desarrollaron estas acciones.",
+      "Oficiales y Suboficiales de las Fuerzas Armadas y de Seguridad en retiro o baja voluntaria/obligatoria destinados en el TOM o entrado en combate en el TOAS.",
+      "Madre o padre de los veteranos de guerra fallecidos en combate (con sola acreditación del vínculo)."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de condición de veterano de guerra extendida por la fuerza a la que perteneció y certificada por el Ministerio de Defensa (validez de 30 días, prorrogable hasta 60 días si se solicitó en delegaciones del interior).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de antecedentes penales (validez de 5 días desde que es expedido).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si residís en Zona Austral y tu domicilio no coincide con el documento: constancia de domicilio actualizado, certificado policial o boletas de servicios.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario - Declaración Jurada sobre la eventual Percepción de Prestaciones en provincias no adheridas al SIPA o en las Fuerzas Armadas o de Seguridad (PS.6.284).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Reuní toda la documentación personal y familiar correspondiente."
+      },
+      {
+        "texto": "Ingresá en Atención Virtual con tu CUIL y Clave de la Seguridad Social."
+      },
+      {
+        "texto": "Elegí la opción Solicitar asistencia para inicio de Pensión Honorífica de Veteranos de Guerra."
+      },
+      {
+        "texto": "Seguí los pasos indicados para comenzar el trámite."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Ingresá en Atención Virtual con tu CUIL y Clave de la Seguridad Social."
+      },
+      {
+        "texto": "Elegí la opción Solicitar asistencia para inicio de Pensión Honorífica de Veteranos de Guerra."
+      },
+      {
+        "texto": "Solicitá un turno en oficina de ANSES."
+      },
+      {
+        "texto": "Presentate con la documentación requerida."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "En la Ciudad Autónoma de Buenos Aires y Gran Buenos Aires el trámite es sin turno y se realiza en Paraná 451, PB, CABA.",
+      "En el resto del país este trámite se realiza con turno previo."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de ANSES en Paraná 451",
+      "direccion": "Paraná 451, PB, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/obtener-la-pension-honorifica-de-veteranos-de-guerra"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-la-pension-honorifica-de-veteranos-de-guerra",
+      "titulo": "Obtener la Pensión Honorífica de Veteranos de Guerra | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T06:50:58.427Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La vigencia exacta de la resolución que habilita el trámite no está especificada en el texto.",
+    "El plazo de tramitación no está especificado en el texto."
+  ]
+}

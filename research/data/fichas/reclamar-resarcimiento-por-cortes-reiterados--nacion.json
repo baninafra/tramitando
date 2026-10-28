@@ -1,0 +1,107 @@
+{
+  "tramite": {
+    "slug": "reclamar-resarcimiento-por-cortes-reiterados",
+    "nombre": "Reclamar resarcimiento por cortes reiterados",
+    "nombre_busqueda": "Reclamo resarcimiento cortes reiterados electricidad",
+    "resumen": "Para obtener el resarcimiento por cortes reiterados de suministro eléctrico, cuando estos se producen cuatro o más veces en un mismo mes calendario, completá el formulario online o acudí presencialmente al ENReGE.",
+    "sinonimos": [
+      "Reclamo por cortes reiterados electricidad",
+      "Resarcimiento cortes repetidos EDENOR",
+      "Resarcimiento cortes repetidos EDESUR"
+    ],
+    "temas": [
+      "servicios-urbanos-y-reclamos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ente Nacional Regulador del Gas y la Electricidad",
+    "sigla": "ENReGE",
+    "web": "https://www.argentina.gob.ar/enre"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Usuarios de EDENOR y EDESUR",
+      "Usuarios de EDENOR radicados en las islas del Delta del Paraná (pueden recurrir directamente sin contactar a la distribuidora si el corte se origina en fenómenos climáticos o averías en la red de media y/o alta tensión)"
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de identificación según la distribuidora: número de cliente para EDESUR; número de cuenta para EDENOR",
+        "aclaracion": null
+      },
+      {
+        "texto": "Últimos tres números del medidor, que figura en la parte superior de tu factura",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número(s) de reclamo realizado ante la distribuidora",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fecha/s y hora/s de inicio del/los corte/s",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fecha/s y hora/s de finalización del/los corte/s",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario de reclamo por cortes reiterados disponible en la web del ENReGE."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Dirijite a la sede del ENReGE en Suipacha 615, Ciudad Autónoma de Buenos Aires, de lunes a viernes de 09:00 a 17:00."
+      },
+      {
+        "texto": "Pedí turno previo antes de dirigirte a la sede."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si te encontrás sin suministro eléctrico en este momento, realizá el trámite correspondiente para recuperar el servicio antes de reclamar el resarcimiento."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede del ENReGE",
+      "direccion": "Suipacha 615",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/reclamar-resarcimiento-por-cortes-reiterados"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reclamar-resarcimiento-por-cortes-reiterados",
+      "titulo": "Reclamar resarcimiento por cortes reiterados | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T02:56:44.065Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/enre/gestion-de-reclamos/formularios-online/formulario-atencion-usuarios",
+      "titulo": "Para reclamar por otras deficiencias en el servicio de EDENOR / EDESUR | Argentina.gob.ar",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T02:56:44.065Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite no está especificada en el texto, solo se menciona que rige la Resolución ENRE Nº 149/2025.",
+    "El plazo de respuesta o resolución del reclamo no se menciona en el texto."
+  ]
+}

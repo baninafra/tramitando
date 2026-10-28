@@ -1,0 +1,82 @@
+{
+  "tramite": {
+    "slug": "centros-vecinales",
+    "nombre": "Centros Vecinales",
+    "nombre_busqueda": "Centros Vecinales Anisacate",
+    "resumen": "Información sobre los Centros Vecinales de la Municipalidad de Anisacate, incluyendo ubicación y horarios de atención.",
+    "sinonimos": [],
+    "temas": [
+      "salud-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141375",
+  "organismo": {
+    "nombre": "Municipalidad de Anisacate",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier vecino de la zona."
+    ],
+    "requisitos": [
+      {
+        "texto": "Identificación personal.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acudí al Centro Vecinal correspondiente."
+      },
+      {
+        "texto": "Consultá el horario de atención en la página oficial."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Verificá los horarios de cada dispensario antes de ir.",
+      "Llevá tu identificación para cualquier consulta."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Centro Vecinal Barrio KANMAR",
+      "direccion": "Barrio KANMAR",
+      "localidad": "Los Morteritos",
+      "horario": null,
+      "fuente_url": "https://anisacatemunicipio.gob.ar/centros-vecinales/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://anisacatemunicipio.gob.ar/centros-vecinales/",
+      "titulo": "Centros Vecinales – Municipalidad de Anisacate",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "donde",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T08:17:09.506Z"
+    },
+    {
+      "url": "https://anisacatemunicipio.gob.ar/direccion-de-salud/",
+      "titulo": "Dirección de Salud – Municipalidad de Anisacate",
+      "bloques": [
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T08:17:09.506Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horarios exactos de atención en los centros vecinales.",
+    "Ubicaciones completas de todos los centros vecinales."
+  ]
+}

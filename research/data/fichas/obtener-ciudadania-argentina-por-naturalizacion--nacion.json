@@ -1,0 +1,108 @@
+{
+  "tramite": {
+    "slug": "obtener-ciudadania-argentina-por-naturalizacion",
+    "nombre": "Obtener ciudadanía argentina por naturalización",
+    "nombre_busqueda": "Obtener ciudadanía argentina por naturalización",
+    "resumen": "Trámite para personas mayores de 18 años nacidas en el extranjero que residan legalmente en Argentina durante dos años y acrediten medios de vida y antecedentes penales limpios.",
+    "sinonimos": [],
+    "temas": [
+      "migraciones-y-extranjeria",
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Migraciones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas mayores de 18 años que hayan nacido en el extranjero.",
+      "Personas que hayan obtenido residencia temporaria o permanente.",
+      "Personas que deseen obtener la ciudadanía argentina."
+    ],
+    "requisitos": [
+      {
+        "texto": "Ser mayor de dieciocho (18) años de edad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Residir en la República Argentina en forma continua y legal durante los dos (2) años anteriores a la solicitud, sin haber realizado ninguna salida al exterior.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar Documento Nacional de Identidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditar ocupación o medios de vida lícitos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditar carencia de antecedentes penales Argentinos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Manifestar ante la Dirección Nacional de Migraciones su voluntad de ser ciudadano argentino.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá tu trámite a distancia ingresando en el sistema RaDEX."
+      },
+      {
+        "texto": "Registrate como usuario y completá el formulario de solicitud."
+      },
+      {
+        "texto": "Adjuntá la documentación y datos requeridos."
+      },
+      {
+        "texto": "Si cumplís con los requisitos para formalizar tu solicitud, recibirás un email con los pasos a seguir."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La Dirección Nacional de Migraciones podrá solicitar documentación adicional a la mencionada.",
+      "Toda documentación expedida en el extranjero deberá contar con la legalización del Consulado Argentino, sito en el país emisor del documento, Apostillada si el país hubiera ratificado el Convenio de La Haya, o legalizada por el consulado del país emisor del documento en Argentina, sólo para MERCOSU…",
+      "Toda documentación expedida en idioma extranjero deberá contar con la traducción al castellano efectuada por un traductor público nacional, según el Art. 6° de la Ley 20.305, y legalizada por el Colegio de Traductores.",
+      "La documentación a presentar deberá ser original.",
+      "Las tramitaciones ante la Dirección Nacional de Migraciones son personales y sencillas; no se necesita la asistencia de un gestor.",
+      "Es necesario que te encuentres dentro del territorio de la República Argentina."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-ciudadania-argentina-por-naturalizacion",
+      "titulo": "Obtener Ciudadanía Argentina por Naturalización | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T22:41:28.979Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T22:41:28.979Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa no se especifica en el texto.",
+    "El plazo exacto de tramitación no se especifica en el texto.",
+    "La fecha de vigencia de la resolución no se especifica en el texto."
+  ]
+}

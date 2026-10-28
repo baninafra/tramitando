@@ -1,0 +1,133 @@
+{
+  "tramite": {
+    "slug": "tramitar-pasaporte-expres",
+    "nombre": "Tramitar el pasaporte con modalidad de entrega exprés",
+    "nombre_busqueda": "Pasaporte exprés",
+    "resumen": "Con esta modalidad exprés, recibís tu pasaporte por correo dentro de las 96 horas hábiles posteriores a su realización. El trámite lleva 15 minutos en la oficina.",
+    "sinonimos": [
+      "Pasaporte exprés",
+      "Pasaporte por correo"
+    ],
+    "temas": [
+      "pasaporte"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Renaper",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A las personas que viajen al exterior."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI vigente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pasaporte anterior",
+        "aclaracion": "Es recomendable pero no obligatorio"
+      },
+      {
+        "texto": "Testimonio judicial de la designación de la/s persona/s que ejerza/n la tutela, la curatela",
+        "aclaracion": "Solo para personas incapaces"
+      },
+      {
+        "texto": "DNI de la/s persona/s que ejerza/n la tutela, la curatela, o de la persona autorizada judicialmente",
+        "aclaracion": "Solo para personas incapaces"
+      },
+      {
+        "texto": "Consentimiento expreso de quien ejerza la responsabilidad parental, la tutela o la curatela con la indicación de que su ejercicio no se encuentra limitado para prestarlo",
+        "aclaracion": "Solo para personas incapaces"
+      },
+      {
+        "texto": "Autorización judicial correspondiente",
+        "aclaracion": "Solo para personas incapaces"
+      },
+      {
+        "texto": "Acompañamiento del padre, madre o representante legal",
+        "aclaracion": "Solo para menores de 18 años"
+      },
+      {
+        "texto": "DNI vigente del padre, madre o representante legal",
+        "aclaracion": "Solo para menores de 18 años"
+      },
+      {
+        "texto": "Permiso para tramitar Pasaporte sin presencia de tus padres con certificación de la autoridad pertinente (escribano o juez)",
+        "aclaracion": "Solo para menores de 18 años"
+      },
+      {
+        "texto": "Testimonio judicial, suscripto por el funcionario competente según las leyes aplicables",
+        "aclaracion": "Solo para menores emancipados"
+      },
+      {
+        "texto": "Oficio judicial o testimonio de tutela del menor",
+        "aclaracion": "Solo para menores emancipados"
+      },
+      {
+        "texto": "Autorización de representación firmada y sellada por la autoridad competente que corresponda",
+        "aclaracion": "Solo para menores en un hogar"
+      },
+      {
+        "texto": "Oficio judicial o testimonio de guarda provisoria con fines de adopción",
+        "aclaracion": "Solo para menores en un hogar"
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Sacá turno para un Centro de Documentación Renaper habilitado en la app Mi Argentina."
+      },
+      {
+        "texto": "Pagá la tarifa del trámite desde aquí."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en la oficina elegida con la constancia de turno y el comprobante de pago."
+      },
+      {
+        "texto": "Guardá la constancia de solicitud de trámite y hacé el seguimiento online con tu ID desde aquí."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://www.argentina.gob.ar/turnos",
+    "plazo": "15 minutos",
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "Normal",
+      "gratis": false,
+      "monto_centavos": 20000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/tramitar-el-pasaporte-con-modalidad-de-entrega-expres"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tramitar-el-pasaporte-con-modalidad-de-entrega-expres",
+      "titulo": "Tramitar el Pasaporte con modalidad de entrega exprés | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T17:59:44.824Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de las oficinas habilitadas",
+    "Enlace exacto para el pago de la tarifa",
+    "Enlace exacto para la constancia de solicitud de trámite"
+  ]
+}

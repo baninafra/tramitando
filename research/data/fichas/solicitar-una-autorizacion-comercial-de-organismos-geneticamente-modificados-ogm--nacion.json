@@ -1,0 +1,96 @@
+{
+  "tramite": {
+    "slug": "solicitar-autorizacion-comercial-ogm",
+    "nombre": "Solicitar una autorización comercial de OGM",
+    "nombre_busqueda": "autorización comercial de organismos genéticamente modificados",
+    "resumen": "Solicitá un permiso de libre comercialización y uso para eventos genéticamente modificados. La autorización busca garantizar que sean seguros para el agroecosistema e inocuos para el consumo humano y animal.",
+    "sinonimos": [
+      "permiso de comercialización de OGM"
+    ],
+    "temas": [
+      "produccion-rural"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Biotecnología",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas humanas o jurídicas que cumplan los requisitos del marco regulatorio vigente."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de solicitud de autorización comercial.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia legalizada del poder de los apoderados autorizados para actuar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI de los apoderados autorizados para actuar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dictámenes y aprobaciones de la CONABIA, el SENASA y la Subsecretaría de Mercados Agroalimentarios e Inserción Internacional.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Solicitá los análisis y las aprobaciones correspondientes ante la CONABIA, el SENASA y la Subsecretaría de Mercados Agroalimentarios e Inserción Internacional."
+      },
+      {
+        "texto": "Presentá la documentación requerida, con los dictámenes correspondientes, ante la Dirección Nacional de Biotecnología para iniciar el expediente administrativo de autorización comercial de los eventos solicitados."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "Aproximadamente 6 meses desde que presentás el pedido de autorización comercial, una vez que estén los dictámenes de la CONABIA, el SENASA y la Subsecretaría de Mercados Agroalimentarios e Inserción…",
+    "consejos": [
+      "La autorización comercial no tiene plazo de caducidad."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": true,
+      "monto_centavos": null,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-una-autorizacion-comercial-de-organismos-geneticamente-modificados-ogm"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Biotecnología",
+      "direccion": "Avenida Paseo Colón 982",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-una-autorizacion-comercial-de-organismos-geneticamente-modificados-ogm"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-una-autorizacion-comercial-de-organismos-geneticamente-modificados-ogm",
+      "titulo": "Solicitar una autorización comercial de Organismos Genéticamente Modificados (OGM) | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T16:26:21.968Z"
+    }
+  ],
+  "sin_confirmar": []
+}

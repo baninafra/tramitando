@@ -1,0 +1,95 @@
+{
+  "tramite": {
+    "slug": "modificaciones-registro-firmas-elaboradoras-yo-formuladores-productos",
+    "nombre": "Solicitar modificaciones en el registro de firmas elaboradoras y/o formuladores de productos",
+    "nombre_busqueda": "modificaciones registro firmas elaboradoras formuladores productos",
+    "resumen": "Para modificar una firma inscripta donde se elaboran, depositan o distribuyen productos fitosanitarios y fertilizantes, necesitás realizar el trámite ante el Senasa mediante la plataforma SIGTrámites.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Interesados en solicitar modificaciones de firmas elaboradoras/formuladores de agroquímicos y biológicos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de solicitud.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración Jurada con las modificaciones correspondientes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Habilitación municipal (para ampliar las actividades).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción en Aduana (para ampliar las actividades).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta notarial (para alta de representante legal).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta de Asamblea (para alta de representante legal).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de matrícula y pago de la misma (para alta de asesor técnico).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota firmada por el representante legal (para baja de asesor técnico).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la Plataforma SIGTrámites y seguí instrucciones según Manual."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-modificaciones-en-el-registro-de-firmas-elaboradoras-yo-formuladores-de-productos",
+      "titulo": "Solicitar modificaciones en el registro de firmas elaboradoras y/o formuladores de productos fitosanitarios, biológicos, fertilizantes, enmiendas y bioinsumos | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T10:15:02.178Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T10:15:02.178Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no se especifica en el texto, solo se indica que se debe abonar el arancel correspondiente y consultar las normativas relacionadas con los costos."
+  ]
+}

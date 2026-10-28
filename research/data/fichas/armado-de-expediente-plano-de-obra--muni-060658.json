@@ -1,0 +1,88 @@
+{
+  "tramite": {
+    "slug": "armado-de-expediente-plano-de-obra",
+    "nombre": "Armado de expediente plano de obra",
+    "nombre_busqueda": "Armado de expediente plano de obra",
+    "resumen": "Trámite para presentar el plano de obra ante la Secretaría de Desarrollo Urbano y Obra Pública. Se requiere documentación técnica y personal, y se debe pagar la tasa correspondiente.",
+    "sinonimos": [
+      "Presentación de plano de obra",
+      "Expediente plano de obra"
+    ],
+    "temas": [
+      "obras-y-construccion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060658",
+  "organismo": {
+    "nombre": "Secretaría de Desarrollo Urbano y Obra Pública",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Solicitantes que realicen obras o construcciones."
+    ],
+    "requisitos": [
+      {
+        "texto": "Plano de obra.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI del responsable de la obra.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI del profesional responsable.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI del arquitecto o ingeniero.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI del técnico.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el plano de obra."
+      },
+      {
+        "texto": "Llevá las copias de los DNIs de los responsables y profesionales."
+      },
+      {
+        "texto": "Pagá la tasa correspondiente."
+      },
+      {
+        "texto": "Recibí el comprobante de pago y el número de trámite."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mi.quilmes.gov.ar/tramites/61/armado-de-expediente-plano-de-obra",
+      "titulo": "Armado de expediente plano de obra",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-28T04:00:55.140Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el plazo de resolución.",
+    "No se especifica la dirección de la oficina para la presentación.",
+    "No se especifica si se requiere turno."
+  ]
+}

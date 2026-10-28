@@ -1,0 +1,91 @@
+{
+  "tramite": {
+    "slug": "prefactibilidad-geodesia",
+    "nombre": "Prefactibilidad de proyectos de mensura y urbanización",
+    "nombre_busqueda": "prefactibilidad de mensura, división o urbanización",
+    "resumen": "Podés solicitar la prefactibilidad de proyectos de mensura, división o urbanización. El trámite es presencial y requiere turno previo.",
+    "sinonimos": [
+      "Prefactibilidad de geodesia"
+    ],
+    "temas": [
+      "loteos-y-subdivisiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060441",
+  "organismo": {
+    "nombre": "Municipalidad de La Plata",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés solicitar la prefactibilidad de proyectos de mensura, división o urbanización."
+    ],
+    "requisitos": [
+      {
+        "texto": "Identificá la parcela con la nomenclatura catastral y la partida.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informá un correo electrónico y un teléfono de contacto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pagá el timbrado vigente al momento de presentar el trámite.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Sacá un turno previo con la opción «Consulta Administrativa»."
+      },
+      {
+        "texto": "Presentá la identificación de la parcela y tus datos de contacto."
+      },
+      {
+        "texto": "Pagá el timbrado vigente al momento de la presentación."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://turnos.laplata.gob.ar/misdatos",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Centro Administrativo Municipal",
+      "direccion": "Diagonal 80 N° 942 esquina 48",
+      "localidad": "La Plata",
+      "horario": null,
+      "fuente_url": "https://tramites.laplata.gob.ar/planeamiento/geodesia-prefactibilidad.html"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://tramites.laplata.gob.ar/planeamiento/geodesia-prefactibilidad.html",
+      "titulo": "Planeamiento - Municipalidad de La Plata",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T14:25:58.115Z"
+    },
+    {
+      "url": "https://tramites.laplata.gob.ar/planeamiento/geodesia-prefactibilidad.html",
+      "titulo": "Planeamiento - Municipalidad de La Plata",
+      "bloques": [
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T14:25:58.115Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no precisa el monto del timbrado."
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "tramite": {
+    "slug": "consultar-titulos-en-uso-de-publicaciones-periodicas",
+    "nombre": "Consultar títulos en uso de publicaciones periódicas",
+    "nombre_busqueda": "Consultar títulos en uso de publicaciones periódicas",
+    "resumen": "Este trámite permite saber si el título de tu publicación está en uso dentro de la zona de distribución. La consulta es obligatoria para la primera inscripción y para los registros anuales vencidos.",
+    "sinonimos": [],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional del Derecho de Autor",
+    "sigla": "DNDA",
+    "web": "https://www.argentina.gob.ar/servicio/consultar-titulos-en-uso-de-publicaciones-periodicas"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Editores que deseen sacar al mercado una nueva publicación."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI, Pasaporte. Original y copia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos del trámite completos.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD - Consulta de título de publicación periódica e iniciá el trámite."
+      },
+      {
+        "texto": "Subí la documentación obligatoria y complementaria."
+      },
+      {
+        "texto": "Al finalizar se te otorgará un número de expediente electrónico (carátula variable)."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el comprobante de pago impreso junto con la obra en Sede Central o por correo postal."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 230000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/consultar-titulos-en-uso-de-publicaciones-periodicas"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consultar-titulos-en-uso-de-publicaciones-periodicas",
+      "titulo": "Consultar títulos en uso de publicaciones periódicas | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T05:31:50.809Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de las Sedes Centrales para la presentación de la obra.",
+    "Horarios de atención de las Sedes Centrales."
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "tramite": {
+    "slug": "habilitacion-comercial",
+    "nombre": "Habilitación de servicio de farmacia y/o esterilización hospitalaria",
+    "nombre_busqueda": "habilitación farmacia hospitalaria",
+    "resumen": "Es el trámite por el cual se solicita la autorización para el funcionamiento del servicio de farmacia y/o esterilización dentro de un establecimiento asistencial con internación. Es gratuito y se realiza en línea.",
+    "sinonimos": [
+      "habilitación farmacia sanatorio",
+      "habilitación esterilización hospitalaria"
+    ],
+    "temas": [
+      "habilitacion-comercial"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titular del establecimiento"
+    ],
+    "requisitos": [
+      {
+        "texto": "Completar formulario de solicitud online en TAD",
+        "aclaracion": null
+      },
+      {
+        "texto": "Disposición de Habilitación del Establecimiento",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plancheta de Habilitación del Gobierno de la Ciudad Autónoma de Buenos Aires autenticada ante Escribano Público",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano con los Servicios de Farmacia y/o Esterilización Hospitalaria más un plano de planta respetando las siguientes características: a) Escala 1:100, b) Detalle de los ambientes, c) Medidas de los ambientes (Lineales y de superficie)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descripción según Resolución 641/2000 (Programa Nacional de Garantía de Calidad de la Atención Médica) de las actividades farmacéuticas, del equipamiento y de las instalaciones a habilitar",
+        "aclaracion": null
+      },
+      {
+        "texto": "Listado con Nombres, apellidos, número de matrícula y de colegiado y número CUIT/CUIL, de los profesionales y técnicos que se desempeñen en los servicios de Farmacia y/o Esterilización Hospitalaria",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título de propiedad, contrato de locación o comodato (según el titular sea propietario, locatario o comodatario del inmueble), con firmas certificadas por escribano público de las partes intervinientes",
+        "aclaracion": null
+      },
+      {
+        "texto": "En el caso del contrato de comodato, adjuntar título de propiedad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tanto el contrato de alquiler como el contrato de comodato, tienen que especificar en sus respectivas cláusulas el destino y el plazo del mismo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el Establecimiento se encuentra en una propiedad sometida al régimen de propiedad horizontal, se debe adjuntar reglamento de copropiedad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contrato con empresa de recolección de residuos biopatogénicos y/o factura de último pago",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de no generarlos, informarlo mediante nota con firma y sello del profesional médico",
+        "aclaracion": null
+      },
+      {
+        "texto": "Las Sociedades propietarias de Establecimientos de Salud, deberán cumplimentar el articulo N° 39 de la Ley 17132",
+        "aclaracion": null
+      },
+      {
+        "texto": "Incluir un profesional de salud propietario de acciones",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estatuto Social, debidamente inscripto en IGJ, autenticada por Escribano Público, en el que se indique el objeto",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta de Directorio que designa al Director Técnico/Médico autenticada por Escribano Público",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota en puño y letra donde se indique: El trámite es no arancelado de acuerdo a la Resolución Ministerial N° 1938/2025",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al TAD, identifícate con tu CUIT y Clave Fiscal y busca el trámite seleccionado"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Para hacer el Trámite a Distancia (TAD) se recomienda ingresar a la página desde una CPU a través del Mozilla Firefox o el Google Chrome, no mediante celulares u otros dispositivos móviles porque se han detectado inconvenientes"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/habilitacion-de-servicio-de-farmacia-yo-esterilizacion-hospitalaria",
+      "titulo": "Habilitación de servicio de farmacia y/o esterilización hospitalaria | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T15:55:00.320Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia de la Resolución Ministerial N° 1938/2025 que hace gratuito el trámite"
+  ]
+}

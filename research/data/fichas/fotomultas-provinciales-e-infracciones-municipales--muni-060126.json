@@ -1,0 +1,146 @@
+{
+  "tramite": {
+    "slug": "fotomultas-provinciales-e-infracciones-municipales",
+    "nombre": "Fotomultas provinciales e infracciones municipales",
+    "nombre_busqueda": "pagar fotomultas campana",
+    "resumen": "Consultá y aboná fotomultas provinciales por dominio de vehículo en la web del Gobierno de la provincia. Para infracciones municipales, necesitás acercarte a los Juzgados de Faltas o sacar turno en la Mesa de Entradas.",
+    "sinonimos": [
+      "multas de tránsito campana",
+      "descargos municipales campana"
+    ],
+    "temas": [
+      "infracciones-y-multas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060126",
+  "organismo": {
+    "nombre": "Municipalidad de Campana",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Vecinos con domicilio en Campana",
+      "Personas físicas y jurídicas"
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de dominio del vehículo",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI (para registro en la web de infracciones)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Registro en la web de Infracciones (para personas jurídicas)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Correo electrónico asociado a la cuenta (para personas jurídicas)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de CUIT (para personas jurídicas)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombre de la empresa (para personas jurídicas)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Turno en los Juzgados de Faltas",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la Web del Gobierno de la provincia de Buenos Aires"
+      },
+      {
+        "texto": "Consultá e imprimí tus infracciones de tránsito"
+      },
+      {
+        "texto": "Aboná las infracciones con todos los medios de pago"
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a los Juzgados de Faltas para realizar descargos"
+      },
+      {
+        "texto": "Sacá turno para ser atendido personalmente en Varela 750 para realizar pagos de infracciones municipales"
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Los Juzgados de Faltas atienden de lunes a viernes de 8 a 13",
+      "La Mesa de Entradas atiende de lunes a viernes de 8.30 a 15",
+      "Para registrarte como Persona Jurídica necesitás solicitar tu registro al mail juzgados@gob.gba.gov.ar"
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Juzgado de Faltas Nº1",
+      "direccion": "Moreno 475",
+      "localidad": "Campana",
+      "horario": null,
+      "fuente_url": "https://www.campana.gob.ar/fotomultas-provinciales-e-infracciones-municipales/"
+    },
+    {
+      "nombre": "Juzgado De Faltas Nº 2",
+      "direccion": "Jacob 664",
+      "localidad": "Campana",
+      "horario": null,
+      "fuente_url": "https://www.campana.gob.ar/fotomultas-provinciales-e-infracciones-municipales/"
+    },
+    {
+      "nombre": "Mesa de Entradas",
+      "direccion": "Varela 750",
+      "localidad": "Campana",
+      "horario": null,
+      "fuente_url": "https://www.campana.gob.ar/fotomultas-provinciales-e-infracciones-municipales/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.campana.gob.ar/fotomultas-provinciales-e-infracciones-municipales/",
+      "titulo": "Fotomultas provinciales e infracciones municipales – Municipalidad de Campana",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T10:59:23.750Z"
+    },
+    {
+      "url": "https://www.campana.gob.ar/turnos/",
+      "titulo": "Turnos, reclamos y solicitudes – Municipalidad de Campana",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T10:59:23.750Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos de las fotomultas",
+    "No se especifican plazos de vencimiento",
+    "No se especifican costos de los descargos municipales"
+  ]
+}

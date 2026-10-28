@@ -1,0 +1,89 @@
+{
+  "tramite": {
+    "slug": "registro-de-obsequios-y-viajes",
+    "nombre": "Registrar obsequios y viajes",
+    "nombre_busqueda": "Registrar obsequios y viajes como funcionario publico",
+    "resumen": "Si sos funcionario público y recibiste obsequios o viajes financiados por terceros, tenés que registrarlos en línea. El trámite es gratuito y consta de cuatro pasos para cada caso.",
+    "sinonimos": [
+      "Registro de obsequios",
+      "Registro de viajes financiados por terceros"
+    ],
+    "temas": [
+      "gobierno-y-participacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Oficina Anticorrupción",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Funcionarios publicos"
+    ],
+    "requisitos": [
+      {
+        "texto": "Dispositivo con acceso a internet",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Generá un expediente con trata GENE00322 (Inscripción Registro de Obsequios a Funcionarios Públicos)"
+      },
+      {
+        "texto": "Completá el documento FOFRO (Formulario de Registración de Obsequios a Funcionarios Públicos)"
+      },
+      {
+        "texto": "Remití el expediente (con el formulario asociado) a la Oficina Anticorrupción haciendo clic en Realizar pase"
+      },
+      {
+        "texto": "El registro aparecerá en Registro de obsequios y viajes para la consulta ciudadana"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La declaración del destino de los obsequios se puede realizar al completar el formulario FOFRO o con posterioridad completando el documento FODDO"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/registrar-obsequios-y-viajes-como-funcionario-publico",
+      "titulo": "Registrar obsequios y viajes como funcionario público | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T03:12:57.367Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/anticorrupcion",
+      "titulo": "Oficina Anticorrupción | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T03:12:57.367Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T03:12:57.367Z"
+    }
+  ],
+  "sin_confirmar": [
+    "la fecha de vigencia del trámite"
+  ]
+}

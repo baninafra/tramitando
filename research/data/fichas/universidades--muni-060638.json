@@ -1,0 +1,70 @@
+{
+  "tramite": {
+    "slug": "universidades",
+    "nombre": "Universidades",
+    "nombre_busqueda": "Universidades",
+    "resumen": "Gestiona la inscripción y gestión de estudiantes en las universidades del municipio.",
+    "sinonimos": [],
+    "temas": [
+      "educacion-y-estudios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060638",
+  "organismo": {
+    "nombre": "Municipalidad del Pilar",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Estudiantes matriculados en las universidades del municipio."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documentación de la universidad.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación de la universidad."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://pilar.gov.ar/universidades/",
+      "titulo": "Universidades - Municipio Pilar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T15:54:39.901Z"
+    },
+    {
+      "url": "https://pilar.gov.ar/mi-muni/",
+      "titulo": "Mi Muni - Municipio Pilar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T15:54:39.901Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere confirmar si se necesita turno para realizar el trámite.",
+    "Se requiere confirmar el plazo de atención.",
+    "Se requiere confirmar si hay costos asociados al trámite.",
+    "Se requiere confirmar si se puede realizar el trámite por internet."
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "tramite": {
+    "slug": "actualizar-datos-del-siglea-para-laboratorios",
+    "nombre": "Actualizar los datos del SIGLeA para laboratorios",
+    "nombre_busqueda": "Actualizar datos SIGLeA laboratorios",
+    "resumen": "Actualizá la información en el Sistema Integrado de Gestión de la Lechería Argentina (SIGLeA) si sos habilitado por el Laboratorio Nacional de Referencia (INTI Lácteos).",
+    "sinonimos": [],
+    "temas": [
+      "salud-y-prevencion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Laboratorios habilitados por el Laboratorio Nacional de Referencia (INTI Lácteos)."
+    ],
+    "requisitos": [
+      {
+        "texto": "Estar habilitado por el Laboratorio Nacional de Referencia (INTI Lácteos).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contar con Clave Fiscal de AFIP Nivel 3.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al Sistema Integrado de Gestión de la Lechería Argentina https://siglea.magyp.gob.ar/."
+      },
+      {
+        "texto": "Si no tenés habilitado, ingresá a AFIP con Clave Fiscal y adherí el servicio con el administrador de relaciones."
+      },
+      {
+        "texto": "Dentro del Ministerio de Agricultura, Ganadería y Pesca seleccioná AUTOGESTIÓN y confirmá la adhesión."
+      },
+      {
+        "texto": "Para ingresar al sistema seleccioná el CUIT con el que deseas trabajar."
+      },
+      {
+        "texto": "Cargá el estado de las muestras y los resultados de los análisis solicitados por las industrias."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La declaración es obligatoria y se debe informar los resultados de los análisis solicitados dentro del período correspondiente."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/actualizar-los-datos-del-siglea-para-laboratorios",
+      "titulo": "Actualizar los datos del SIGLeA para Laboratorios | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T04:21:03.108Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto del trámite no está especificado en el texto."
+  ]
+}

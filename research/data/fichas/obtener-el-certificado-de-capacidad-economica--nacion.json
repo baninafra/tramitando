@@ -1,0 +1,164 @@
+{
+  "tramite": {
+    "slug": "obtener-el-certificado-de-capacidad-economica",
+    "nombre": "Obtener el certificado de capacidad económica",
+    "nombre_busqueda": "Certificado de capacidad económica ARCA",
+    "resumen": "Este trámite permite a personas con discapacidad, sus allegados o familiares obtener un certificado ante ARCA para acceder a la compra de vehículos 0 km sin franquicias. Se requiere demostrar capacidad económica mediante ingresos o tenencia de bienes.",
+    "sinonimos": [
+      "Certificado de capacidad económica ARCA",
+      "Reconocimiento de capacidad económica ARCA",
+      "Certificado de capacidad económica para compra de vehículo"
+    ],
+    "temas": [
+      "discapacidad-y-accesibilidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración Nacional de la Seguridad Social",
+    "sigla": "ARCA",
+    "web": "https://www.argentina.gob.ar/servicio/obtener-el-certificado-de-capacidad-economica"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas con discapacidad.",
+      "Allegados o familiares de personas con discapacidad.",
+      "Padres o tutores de menores de edad con discapacidad.",
+      "Personas civilmente incapaces."
+    ],
+    "requisitos": [
+      {
+        "texto": "Sistema de Protección Integral de Personas con Discapacidad - Reconocimiento de Capacidad Económica de los Solicitantes del Beneficio (Resolución General 3247/11).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Depósito en cuentas bancarias del país equivalente al valor del vehículo a comprar, incluyendo gastos menos impuestos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "O tenencia de títulos, acciones o bienes de fácil realización por un monto similar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ingresos mensuales no inferiores al 5% del valor del auto durante los 12 meses previos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Identificación del beneficiario, su apoderado y integrantes del grupo familiar, incluyendo partida de nacimiento y, si corresponde, partida de defunción.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Prueba de vínculos entre los integrantes del grupo familiar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditación del domicilio real del beneficiario o su apoderado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación respaldatoria de los bienes propiedad del beneficiario y/o integrantes del grupo familiar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Origen de los fondos a utilizar en la compra del vehículo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación extendida y firmada por contador público, legalizada por el Consejo Profesional (para ingresos independientes).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Recibos de sueldo del último año calendario (para trabajadores en relación de dependencia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación de ingresos extendida por el empleador (para empleados no comprendidos en el SIPA).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobantes de ingresos correspondientes a los últimos 12 períodos inmediatos anteriores (para jubilados y pensionados).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Factura pro-forma para vehículos y/o importaciones para cajas de transmisión automática y comandos necesarios para la fabricación de automotores adaptados.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Factura pro-forma para gastos adicionales por aranceles, comisiones, seguros, estadías, fletes y honorarios asumidos por el beneficiario en el trámite de despacho a plaza.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Entrá al sitio web de ARCA con tu clave fiscal."
+      },
+      {
+        "texto": "Accedé al servicio Sistema de Protección Integral de Personas con Discapacidad - Reconocimiento de Capacidad Económica de los Solicitantes del Beneficio."
+      },
+      {
+        "texto": "Ingresá los datos que te vaya pidiendo la pantalla."
+      },
+      {
+        "texto": "Realizados los controles automáticos del proceso, el sistema te informará si tu solicitud ha sido aceptada, emitiendo un recibo."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el recibo emitido por el sistema, junto con toda la documentación detallada en los requisitos, en un plazo de 12 días corridos ante las oficinas de ARCA, según corresponda."
+      },
+      {
+        "texto": "Si el beneficiario solicitante tiene CUIT: usá la del domicilio fiscal vigente a la fecha de la solicitud."
+      },
+      {
+        "texto": "Si el beneficiario solicitante no tiene CUIT: usá la de su domicilio real."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Luego de 2 semanas de la presentación, la solicitud será resuelta.",
+      "El certificado tiene una validez de 360 días corridos a partir de la fecha de comunicación fehaciente al beneficiario.",
+      "A su término caducará y sólo podrás solicitar un nuevo certificado después de pasado 1 año del vencimiento.",
+      "Si el precio del automotor a adquirir por el beneficiario se encuentra fijado en moneda extranjera, el valor a considerar se determinará en moneda de curso legal, considerando el tipo de cambio vendedor del Banco de la Nación Argentina para la moneda extranjera respectiva, vigente al cierre del día…"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-el-certificado-de-capacidad-economica",
+      "titulo": "Obtener el certificado de capacidad económica | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T06:07:18.096Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/franquicia-para-compra-de-vehiculos-particulares",
+      "titulo": "Franquicia para compra de vehículos particulares | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T06:07:18.096Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T06:07:18.096Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite no está especificada en el texto.",
+    "El monto exacto del trámite no está especificado en el texto."
+  ]
+}

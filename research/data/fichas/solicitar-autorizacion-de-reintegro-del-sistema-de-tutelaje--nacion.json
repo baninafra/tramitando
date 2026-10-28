@@ -1,0 +1,118 @@
+{
+  "tramite": {
+    "slug": "solicitar-autorizacion-de-reintegro-del-sistema-de-tutelaje",
+    "nombre": "Solicitar autorización de reintegro del sistema de tutelaje",
+    "nombre_busqueda": "solicitar reintegro sistema tutelaje obras sociales",
+    "resumen": "Las obras sociales nacionales pueden solicitar el reintegro financiero de prestaciones de tecnologías sanitarias emergentes autorizadas por la Auditoría Médica, siempre que se cumplan los requisitos documentales y el plazo de seis meses.",
+    "sinonimos": [
+      "solicitar reintegro tutelaje",
+      "reintegro sistema tutelaje obras sociales"
+    ],
+    "temas": [
+      "salud-y-prevencion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Obras Sociales Nacionales Registradas en la Superintendencia de Servicios de Salud"
+    ],
+    "requisitos": [
+      {
+        "texto": "Diagnóstico médico",
+        "aclaracion": null
+      },
+      {
+        "texto": "Justificación del tratamiento por la Auditoría Médica",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estado funcional del paciente, pre y post tratamiento",
+        "aclaracion": null
+      },
+      {
+        "texto": "Variables relacionadas con la efectividad del tratamiento",
+        "aclaracion": null
+      },
+      {
+        "texto": "Variables relacionadas con la seguridad del tratamiento",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de autorización del ANMAT para importar el producto, con firma y sello del responsable del área contable y del responsable del área de liquidación de prestaciones y/o del Auditor Médico",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de factura comercial del prestador del exterior expresada en moneda del país emisor, con firma y sello del responsable del área contable y del responsable del área de liquidación de prestaciones y/o del Auditor Médico",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de transferencia al banco local con el cual se realiza la operación, con firma y sello del responsable del área contable del Agente del Seguro de Salud",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de constancia de cierre de cambio o liquidación de divisas emitida por entidad bancaria interviniente, donde se informe la cotización, comisiones y gastos; avalada con firma y sello del responsable del área contable",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del detalle de la transferencia emitida por la entidad bancaria donde se informe el resultado de la transacción, con firma y sello del responsable del área contable",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del permiso de importación oficializado o documentación equivalente emitida por la Aduana, con firma y sello del responsable del área contable y del responsable del área de liquidación de prestaciones y/o del Auditor Médico",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del extracto bancario donde conste el débito de la transferencia realizada, con la firma y sello del responsable del área contable",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Solicitar turno en la plataforma del Sistema Único de Reintegro (SUR)"
+      },
+      {
+        "texto": "Enviar la documentación requerida por mail al correo [email protected] para su evaluación por parte de la Gerencia de Gestión Estratégica"
+      },
+      {
+        "texto": "Corroborar el resultado del análisis de la solicitud de evaluación y autorización a través de la plataforma del Sistema Único de Reintegro (SUR)"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Debe haber transcurrido un plazo de seis (6) meses desde el momento en el cual la tecnología ha sido aplicada hasta la presentación de la solicitud de reintegro, excepto que tenga lugar una interrupción, debidamente justificada, del uso de la tecnología"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-autorizacion-de-reintegro-del-sistema-de-tutelaje",
+      "titulo": "Solicitar autorización de reintegro del Sistema de Tutelaje | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T04:23:15.399Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El correo electrónico exacto para enviar la documentación no está especificado en el texto, solo aparece como [email protected]",
+    "La URL de la plataforma del Sistema Único de Reintegro (SUR) para solicitar turnos no está especificada en el texto",
+    "La fecha exacta de vigencia del trámite no está especificada en el texto, solo se menciona la Resolución Nº 621/2006 - SSSALUD y la Resolución Nº 1561/2012 - SSSALUD"
+  ]
+}

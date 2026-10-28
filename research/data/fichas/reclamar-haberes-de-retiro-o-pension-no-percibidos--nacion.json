@@ -1,0 +1,116 @@
+{
+  "tramite": {
+    "slug": "reclamar-haberes-de-retiro-o-pension-no-percibidos",
+    "nombre": "Reclamar haberes de retiro o pensión no percibidos",
+    "nombre_busqueda": "Reclamar haberes de retiro o pensión no percibidos",
+    "resumen": "Solicitá el reenvío al banco de haberes mensuales no cobrados. Si tenés más de seis haberes impagos, necesitás presentar supervivencia en el IAF.",
+    "sinonimos": [
+      "Reclamo de haberes no cobrados",
+      "Repago de haberes de retiro",
+      "Rehabilitación de haberes retenidos"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones",
+      "trabajo-y-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Beneficiarios del IAF que no hayan percibido uno o más de sus haberes mensuales."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del titular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si tenés apoderado en el IAF, también necesitás su DNI.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá con tu CUIL y contraseña al portal eIAF Beneficiarios o a la App eIAF."
+      },
+      {
+        "texto": "Dejanos tu solicitud en el apartado Sistema Integrado de Consultas."
+      },
+      {
+        "texto": "Personal de Atención al Público te indicará los pasos a seguir para realizar el trámite."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate con la documentación requerida a la sede central del IAF en Cerrito 572 – CABA o a las Delegaciones del Interior."
+      },
+      {
+        "texto": "Presentá la documentación requerida."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "entre 30 y 45 días",
+    "consejos": [
+      "El trámite se hará efectivo en la liquidación de haberes inmediata posterior a la presentación de la solicitud.",
+      "Esto implica un plazo aproximado de entre 30 y 45 días según la fecha del mes en que se inicie el trámite.",
+      "Si tenés más de 6 haberes consecutivos impagos, deberás presentar supervivencia en el IAF."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reclamar-haberes-de-retiro-o-pension-no-percibidos",
+      "titulo": "Reclamar haberes de retiro o pensión no percibidos. | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T02:13:03.787Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/iaf",
+      "titulo": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T02:13:03.787Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/certificar-supervivencia-para-la-rehabilitacion-de-haberes-de-retiro-y-pension-militar",
+      "titulo": "Certificar Supervivencia para la rehabilitación de haberes de retiro y pensión militar. | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T02:13:03.787Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite no está especificada en el texto.",
+    "El horario de atención al público no está especificado en el texto."
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "tramite": {
+    "slug": "obtener-boletas-para-el-pago-de-sum-y-sus-contribuciones-asociadas",
+    "nombre": "Obtener boletas para el pago de SUM y sus contribuciones asociadas",
+    "nombre_busqueda": "Obtener boletas SUM Quilmes",
+    "resumen": "Permite consultar el estado de la deuda y descargar las boletas vigentes para el pago de la Tasa SUM y sus contribuciones asociadas en el municipio de Quilmes.",
+    "sinonimos": [
+      "Descargar boletas SUM",
+      "Consulta deuda SUM",
+      "Pago Tasa SUM Quilmes"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "planes-de-pago-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060658",
+  "organismo": {
+    "nombre": "Secretaría de Hacienda",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier contribuyente que tenga deuda con el municipio."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del contribuyente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cédula de identidad del contribuyente",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal de trámites de Mi Quilmes Digital."
+      },
+      {
+        "texto": "Buscá el trámite 'Obtener boletas para el pago de SUM y sus contribuciones asociadas'."
+      },
+      {
+        "texto": "Completá los datos de identificación solicitados."
+      },
+      {
+        "texto": "Descargá las boletas generadas."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Verificá la fecha de vencimiento de cada boleta antes de pagar.",
+      "Guardá las copias de las boletas descargadas como comprobante de pago."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mi.quilmes.gov.ar/tramites/230/obtener-boletas-para-el-pago-de-sum-y-sus-contribuciones-asociadas",
+      "titulo": "Obtener boletas para el pago de SUM y sus contribuciones asociadas",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T07:58:18.963Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos de las tasas ni plazos de pago en el texto.",
+    "No se indica si el trámite requiere turno presencial."
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "tramite": {
+    "slug": "adhesion-a-boleta-digital",
+    "nombre": "Adhesión a Boleta Digital",
+    "nombre_busqueda": "Adherir a Boleta Digital Baradero",
+    "resumen": "Adherite al servicio de Boleta Digital para recibir tus tasas y impuestos municipales vía correo electrónico y abonarlos online.",
+    "sinonimos": [],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060070",
+  "organismo": {
+    "nombre": "Municipio de Baradero",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan tasas o impuestos municipales a pagar."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nombre y apellido",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUIT o CUIL",
+        "aclaracion": null
+      },
+      {
+        "texto": "Correo electrónico",
+        "aclaracion": null
+      },
+      {
+        "texto": "Teléfono",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dirección",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ciudad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tasa",
+        "aclaracion": null
+      },
+      {
+        "texto": "N° de cuenta",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario de adhesión con tus datos personales y fiscales."
+      },
+      {
+        "texto": "Ingresá la tasa correspondiente y el número de cuenta para el pago."
+      },
+      {
+        "texto": "Adherite al servicio de Boleta Digital."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://baradero.gob.ar/boleta-digital/",
+      "titulo": "Boleta Digital – Municipio de Baradero",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T22:09:22.484Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de las tasas y el plazo para abonarlas."
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "tramite": {
+    "slug": "seguir-en-linea-el-estado-del-expediente",
+    "nombre": "Seguir en línea el estado del expediente",
+    "nombre_busqueda": "Seguimiento de jubilación o pensión",
+    "resumen": "Podés consultar en línea el estado de tu expediente de jubilación, pensión o gestiones relacionadas ingresando a tu cuenta en ANSES.",
+    "sinonimos": [
+      "Consulta de expediente ANSES",
+      "Seguimiento de trámite jubilación"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones",
+      "inicio-de-jubilacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANSES",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes hayan iniciado el trámite en ANSES para solicitar su jubilación, pensión o gestiones relacionadas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de expediente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave de la Seguridad Social",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá en mi ANSES, con tu CUIL y Clave de la Seguridad Social."
+      },
+      {
+        "texto": "En la sección Información personal seleccioná Consulta de expediente y realizá tu consulta."
+      },
+      {
+        "texto": "El sistema te informará en qué estado se encuentra tu expediente."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consultar-el-estado-del-expediente-de-una-jubilacion",
+      "titulo": "Consultar el estado del expediente de una jubilación o pensión | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T05:29:20.789Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto menciona que se pueden consultar pensiones no contributivas por invalidez, por fallecimiento y moratorias, pero no especifica si todos estos tipos de trámites están disponibles en este servicio de seguimiento en línea."
+  ]
+}

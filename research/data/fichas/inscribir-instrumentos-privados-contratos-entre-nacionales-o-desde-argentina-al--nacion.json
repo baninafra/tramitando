@@ -1,0 +1,119 @@
+{
+  "tramite": {
+    "slug": "inscripcion-de-instrumentos-privados",
+    "nombre": "Inscribir instrumentos privados",
+    "nombre_busqueda": "Inscribir instrumentos privados contratos",
+    "resumen": "Registro voluntario de contratos de transferencia de tecnología o licencias entre nacionales o hacia el exterior para otorgar fecha cierta y publicidad, sin efectos fiscales.",
+    "sinonimos": [
+      "Registro de licencias de tecnología",
+      "Inscripción de contratos de know how"
+    ],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto Nacional de la Propiedad Industrial",
+    "sigla": "INPI",
+    "web": "https://www.argentina.gob.ar/inpi"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona humana o jurídica con domicilio en el país que, como licenciante o franquiciante, firme con otra persona nacional o a otra domiciliada en el exterior (licenciatario o receptor) un contrato de asistencia técnica, capacitación, licencia de derechos de propiedad industrial o know how."
+    ],
+    "requisitos": [
+      {
+        "texto": "Solicitud de registro (Res. INPI Nº 117/2014) en formato PDF firmada al pie.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Detalle de las licencias de marcas, patentes de invención, modelos de utilidad, modelos y/o diseños industriales comprendidas dentro del contrato.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Una (1) nota de presentación indicando el tipo de trámite y la documentación acompañada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Una (1) copia simple del contrato en su idioma original.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Traducción legalizada por traductora pública nacional si el contrato está en idioma extranjero.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Instrumentos que acrediten la personería de la/el firmante donde surjan las facultades para su representación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dirección de correo electrónico y número de CUIT de la persona autorizada para recibir notificaciones.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal de trámites con tu clave fiscal."
+      },
+      {
+        "texto": "Adherí el servicio del INPI en tu cuenta de ARCA."
+      },
+      {
+        "texto": "Accedé al menú tr. de tecnología / trámites / nuevas."
+      },
+      {
+        "texto": "Desplegá SELECCIONE ARANCEL y elegí el tipo de contrato de transferencia de tecnología que querés registrar (código 650.000 o 640.000)."
+      },
+      {
+        "texto": "Completá todos los datos del formulario."
+      },
+      {
+        "texto": "Adjuntá la documentación pertinente en formato PDF."
+      },
+      {
+        "texto": "Firmá electrónicamente el formulario."
+      },
+      {
+        "texto": "Generá y pagá el arancel correspondiente."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "90 días",
+    "consejos": [
+      "Leé el instructivo con el paso a paso detallado antes de iniciar el trámite para evitar errores en la carga de datos."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 650000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-instrumentos-privados-contratos-entre-nacionales-o-desde-argentina-al-exterior"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribir-instrumentos-privados-contratos-entre-nacionales-o-desde-argentina-al-exterior",
+      "titulo": "Inscribir instrumentos privados (contratos entre nacionales o desde Argentina al exterior) | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-26T17:08:04.604Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La vigencia exacta del trámite no se especifica en el texto, solo se menciona la normativa aplicable."
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "tramite": {
+    "slug": "empadronamiento-comercios-industrias-servicios",
+    "nombre": "Empadronamiento de Comercios, Industrias y Servicios",
+    "nombre_busqueda": "Empadronamiento de comercios",
+    "resumen": "Formulario para registrar comercios, industrias y servicios dentro del partido de Marcos Paz.",
+    "sinonimos": [],
+    "temas": [
+      "comercio-e-industria",
+      "habilitacion-comercial"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060525",
+  "organismo": {
+    "nombre": "Partido de Marcos Paz",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que desee empadronar un comercio, industria o servicio en el partido de Marcos Paz."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de empadronamiento local",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al formulario de empadronamiento local."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://apps.marcospazdigital.gob.ar/empadronamiento-mp/index.php",
+      "titulo": "Marcos Paz Digital",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T15:44:29.681Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos adicionales, plazos, costos ni aclaraciones sobre casos especiales en el texto disponible."
+  ]
+}

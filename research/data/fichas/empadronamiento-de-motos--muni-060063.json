@@ -1,0 +1,91 @@
+{
+  "tramite": {
+    "slug": "empadronamiento-de-motos",
+    "nombre": "Empadronamiento de motos",
+    "nombre_busqueda": "Empadronamiento de motos",
+    "resumen": "Para registrar la moto en el municipio, necesitás el título de propiedad, DNI del titular, boleta del domicilio, certificado de fábrica y tarjeta verde. El trámite es gratuito y se realiza en planta baja del Palacio Municipal.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias",
+      "patente-automotor-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060063",
+  "organismo": {
+    "nombre": "Municipalidad de Balcarce",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titular del vehículo"
+    ],
+    "requisitos": [
+      {
+        "texto": "Título de propiedad",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del titular actualizado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Boleta del servicio del domicilio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Fábrica",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tarjeta Verde",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá los requisitos en planta baja del Palacio Municipal."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Palacio Municipal",
+      "direccion": "Av. del Valle Nº 602",
+      "localidad": "Balcarce",
+      "horario": null,
+      "fuente_url": "https://balcarce-app.gob.ar/portal_servicios/servicio/empadronamiento-de-motos"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://balcarce-app.gob.ar/portal_servicios/servicio/empadronamiento-de-motos",
+      "titulo": "Portal de Servicios | Modernizacion Balcarce",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "costo",
+        "donde",
+        "resumen",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T03:06:47.342Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horario de atención: 7.00 a 12.30 hs.",
+    "Información adicional: click aquí.",
+    "Pasos online: no se especifican.",
+    "Pasos presenciales: no se detallan los pasos intermedios.",
+    "Requisitos: no se especifican copias o formatos especiales.",
+    "Plazo: no se indica cuánto tarda el trámite.",
+    "Consejos: no se dan recomendaciones adicionales."
+  ]
+}

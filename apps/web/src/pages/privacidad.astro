@@ -1,0 +1,28 @@
+---
+import PaginaFija from '../layouts/PaginaFija.astro';
+export const prerender = false;
+---
+<PaginaFija
+  titulo="Privacidad"
+  descripcion="Tramitando no tiene cuentas ni te pide datos personales. Qué guardamos, dónde y por cuánto tiempo."
+  bajada="No tenemos cuentas y no te pedimos datos para usar el sitio."
+>
+  <h2>Lo que queda en tu navegador</h2>
+  <p>Tu provincia y municipio, si los elegís, y lo que tildás en las listas de "Qué necesitás". Eso se guarda solo en tu navegador: nosotros no lo vemos. Lo borrás cuando quieras limpiando los datos del sitio.</p>
+
+  <h2>Los reportes de errores</h2>
+  <p>Si nos mandás una corrección, guardamos lo que escribiste, el link o la captura que adjuntaste y, si lo dejás, tu email. El email es opcional y lo usamos solo para avisarte cuando corrijamos la ficha. Lo borramos al cerrar el reporte.</p>
+  <p>Para frenar el spam usamos Cloudflare Turnstile y un límite de reportes por dirección IP.</p>
+
+  <h2>Estadísticas de visitas</h2>
+  <p>Contamos visitas sin cookies ni rastreo personal, para saber qué fichas conviene actualizar primero.</p>
+
+  <h2>Tus derechos</h2>
+  <p>Podés pedirnos ver, corregir o borrar los datos de un reporte tuyo, como prevé la Ley 25.326 de Protección de los Datos Personales.</p>
+
+  <p class="nota">Texto provisorio, a revisar antes de publicar el sitio (incluida la consulta sobre la inscripción ante la AAIP).</p>
+</PaginaFija>
+
+<style>
+  .nota { font: var(--t-nota); color: var(--tinta-suave); }
+</style>

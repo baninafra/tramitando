@@ -1,0 +1,63 @@
+{
+  "tramite": {
+    "slug": "cambiar-domicilio-de-empresa-nacional",
+    "nombre": "Cambiar domicilio de empresa nacional",
+    "nombre_busqueda": "cambiar domicilio empresa nacional",
+    "resumen": "Trámite gratuito para empresas de transporte de carga con permiso originario que deseen cambiar su domicilio real o legal a través de TAD.",
+    "sinonimos": [],
+    "temas": [
+      "transporte-publico-y-viajes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas argentinas de transporte de carga con permiso originario"
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de solicitud",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave fiscal de nivel 3",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Presentá la documentación a través de TAD"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/cambiar-domicilio-de-empresa-nacional",
+      "titulo": "Cambiar domicilio de empresa nacional | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T15:06:32.005Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica el plazo de tiempo para la realización del trámite ni si se requiere asistencia presencial o no."
+  ]
+}

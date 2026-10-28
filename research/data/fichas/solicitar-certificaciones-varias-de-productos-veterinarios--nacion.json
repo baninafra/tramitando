@@ -1,0 +1,146 @@
+{
+  "tramite": {
+    "slug": "solicitar-certificaciones-varias-de-productos-veterinarios",
+    "nombre": "Solicitar certificaciones varias de productos veterinarios",
+    "nombre_busqueda": "certificaciones productos veterinarios senasa",
+    "resumen": "Las empresas registradas en Senasa pueden solicitar certificaciones para comercializar sus productos en el país y el exterior. Se requiere declarar domicilio electrónico, adjuntar el certificado libre venta en PDF y abonar el arancel correspondiente.",
+    "sinonimos": [
+      "Certificación libre venta productos veterinarios",
+      "Acreditación cumplimiento buenas prácticas manufactura Senasa"
+    ],
+    "temas": [
+      "animales-y-zoonosis",
+      "castraciones-y-vacunas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas registradas en la Dirección de Productos Veterinarios que requieran certificaciones para poder comercializar sus productos en el país y en el exterior."
+    ],
+    "requisitos": [
+      {
+        "texto": "Certificado libre venta en formato .pdf según los modelos oficiales (CAMEVET, simple para un producto, simple para varios productos).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago de arance.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación adicional si es necesario.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio electrónico declarado mediante el sistema SIGTrámites.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma TAD."
+      },
+      {
+        "texto": "Completá la Solicitud de certificación."
+      },
+      {
+        "texto": "Adjuntá el Certificado libre venta."
+      },
+      {
+        "texto": "Adjuntá el Comprobante de pago de arance."
+      },
+      {
+        "texto": "Se autogestiona a través del sistema SIGAD."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá las Normativas relacionadas con los costos del trámite.",
+      "Si tenés un trámite iniciado lo podés consultar de forma rápida y simple."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Sanidad Animal - Dirección de Productos Veterinarios",
+      "direccion": "Carlos Calvo N° 66, PB, C1107ADR, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificaciones-varias-de-productos-veterinarios"
+    },
+    {
+      "nombre": "Centro Regional Metropolitano",
+      "direccion": "Azopardo 1020 - CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificaciones-varias-de-productos-veterinarios"
+    },
+    {
+      "nombre": "Sede Central",
+      "direccion": "Paseo Colón 367 - CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificaciones-varias-de-productos-veterinarios"
+    },
+    {
+      "nombre": "Laboratorio Central",
+      "direccion": "Talcahuano 1660 – Martínez, Provincia de Buenos Aires",
+      "localidad": "Martínez",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificaciones-varias-de-productos-veterinarios"
+    },
+    {
+      "nombre": "Centro Regional Buenos Aires",
+      "direccion": "Mar de Plata, Provincia de Buenos Aires",
+      "localidad": "Mar de Plata",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificaciones-varias-de-productos-veterinarios"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-certificaciones-varias-de-productos-veterinarios",
+      "titulo": "Solicitar certificaciones varias de productos veterinarios | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T07:47:42.789Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T07:47:42.789Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T07:47:42.789Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no está especificado en el texto.",
+    "La fecha de vigencia de la normativa no está especificada en el texto."
+  ]
+}

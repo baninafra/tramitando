@@ -1,0 +1,111 @@
+{
+  "tramite": {
+    "slug": "objetar-la-liquidacion-de-consumos-no-registrados",
+    "nombre": "Objetar la liquidación de consumos no registrados",
+    "nombre_busqueda": "Objetar liquidación consumos no registrados",
+    "resumen": "Reclamá ante el ENReGE el cobro de consumos no registrados por presunta adulteración o mal funcionamiento del medidor. Es gratuito y requiere turno presencial.",
+    "sinonimos": [
+      "Reclamar consumos no registrados",
+      "Objetar cobro consumos no registrados"
+    ],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ente Nacional Regulador del Gas y la Electricidad",
+    "sigla": "ENReGE",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Usuarios de EDENOR y EDESUR."
+    ],
+    "requisitos": [
+      {
+        "texto": "Comprobante del número de reclamo ante la distribuidora y de la respuesta brindada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota explicativa con los detalles del problema, firmada por el solicitante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La factura objetada y facturas anteriores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el servicio no está a tu nombre: copia del título de propiedad o del contrato de alquiler, o de un servicio a tu nombre, o del DNI donde conste el domicilio.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Dirijite a la sede del ENReGE en Suipacha 615, Ciudad Autónoma de Buenos Aires."
+      },
+      {
+        "texto": "Pedí turno previo antes de dirigirte a la oficina."
+      },
+      {
+        "texto": "Presentá los datos y documentos requeridos."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "No olvides reclamar ante la empresa antes de hacerlo ante el ENReGE."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede del ENReGE",
+      "direccion": "Suipacha 615",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/objetar-la-liquidacion-de-consumos-no-registrados"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/objetar-la-liquidacion-de-consumos-no-registrados",
+      "titulo": "Objetar la liquidación de consumos no registrados | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T06:17:08.710Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/enre/gestion-de-reclamos/formularios-online/formulario-atencion-usuarios",
+      "titulo": "Para reclamar por otras deficiencias en el servicio de EDENOR / EDESUR | Argentina.gob.ar",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T06:17:08.710Z"
+    },
+    {
+      "url": "https://turnos.argentina.gob.ar/turnos/seleccionTurno/225",
+      "titulo": "Sistema Nacional de Turnos",
+      "bloques": [
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T06:17:08.710Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite.",
+    "El plazo estimado de resolución del reclamo.",
+    "El método exacto para sacar el turno (línea telefónica o web)."
+  ]
+}

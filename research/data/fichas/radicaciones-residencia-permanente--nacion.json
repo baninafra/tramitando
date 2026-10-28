@@ -1,0 +1,179 @@
+{
+  "tramite": {
+    "slug": "radicaciones-residencia-permanente",
+    "nombre": "Radicar residencia permanente",
+    "nombre_busqueda": "Residencia permanente",
+    "resumen": "Obtén la residencia permanente para hijos de argentinos o por arraigo en el país. El trámite es semipresencial: iniciá online en RaDEX y acudí con cita a la Dirección Nacional de Migraciones.",
+    "sinonimos": [
+      "Residencia permanente",
+      "Residencia permanente hijos de argentinos",
+      "Residencia permanente por arraigo"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria",
+      "residencias-temporarias-y-permanentes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Migraciones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Hijos de argentinos nativos, naturalizados o por opción que hayan nacido en el extranjero.",
+      "Aquellos que, por arraigo, se encuentren habilitados para cambiar su categoría de residencia.",
+      "Quienes se encuentren habilitados para tal efecto por normativa vigente.",
+      "Personas reconocidas como refugiado.",
+      "Nacionales brasileños.",
+      "Funcionarios diplomáticos, consulares o de organismos internacionales que hayan desempeñado funciones en el territorio nacional."
+    ],
+    "requisitos": [
+      {
+        "texto": "Pasaporte válido y vigente (todas las nacionalidades) o documento de viaje del MERCOSUR y Estados Asociados.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de nacionalidad emitido por autoridad consular (solo si no tenés pasaporte), con fotografía y legalizado por el Ministerio de Relaciones Exteriores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de antecedentes penales argentinos, emitido por el Registro Nacional de Reincidencia (solo para mayores de 16 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado que acredite fehacientemente que no registra condenas anteriores ni procesos penales en trámite, emitido por las autoridades competentes de los países donde haya residido por un plazo superior a un año, durante los últimos tres años (solo para mayores de 16 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditación de Domicilio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ingreso regular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si sos hijo de argentino: Acta o partida de nacimiento que acredite el vínculo invocado y el DNI del dador de criterio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si vas a realizar el cambio de categoría por arraigo: Acreditación de arraigo (2 años para nacionales MERCOSUR, 3 años para nacionales no MERCOSUR) y medios económicos suficientes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si sos nacional brasileño: Acreditación de nacionalidad con documento de identidad vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si sos funcionario diplomático, consular o de organismos internacionales: Acreditación del desempeño y permanencia en funciones (2 años para MERCOSUR, 3 años para otros).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si sos menor de 18 años: Partida de nacimiento legalizada y autorización de alguno de los padres (presentarse con DNI vigente) o tutor designado con residencia legal y instrumento público de designación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación expedida en el extranjero debe estar legalizada por el Consulado Argentino o apostillada (según la Convención de La Haya).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación expedida en idioma extranjero debe contar con traducción al castellano efectuada por traductor público nacional y legalizada por el Colegio de Traductores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La documentación a presentar debe ser original.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación adicional que la Dirección Nacional de Migraciones solicite si así lo considera necesario.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Últimos 3 recibos de sueldo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción en ARCA y últimos 3 pagos del Monotributo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación contable de ingresos, legalizada por el Consejo Profesional de Ciencias Económicas, correspondiente a los últimos 3 meses.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cualquier otra documentación que permita acreditar medios económicos suficientes y el origen lícito de los mismos.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá tu trámite a distancia ingresando en el sistema RaDEX."
+      },
+      {
+        "texto": "Registrate como usuario."
+      },
+      {
+        "texto": "Completá el formulario de solicitud."
+      },
+      {
+        "texto": "Aboná las tasas correspondientes."
+      },
+      {
+        "texto": "Adjuntá la documentación y datos requeridos según el tipo de residencia a la que quieras aplicar."
+      },
+      {
+        "texto": "Si cumplís con los requisitos para formalizar tu solicitud, recibirás un email con la fecha de tu cita presencial."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acudí al día de la cita presencial a la Dirección Nacional de Migraciones."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/radicaciones-residencia-permanente",
+      "titulo": "Radicaciones Residencia Permanente | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:22:08.132Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/migraciones/documentacion-necesaria-para-acreditar-medios-de-subsistencia-requisitos-radicaciones",
+      "titulo": "Documentación necesaria para acreditar medios de subsistencia - Requisitos Radicaciones | Argentina.gob.ar",
+      "bloques": [
+        "requisitos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:22:08.132Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T02:22:08.132Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de las tasas no se especifica en el texto.",
+    "El plazo de vigencia de la residencia permanente no se especifica en el texto.",
+    "La dirección exacta de las oficinas no se especifica en el texto."
+  ]
+}

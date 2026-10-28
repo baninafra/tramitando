@@ -1,0 +1,62 @@
+{
+  "tramite": {
+    "slug": "gestion-menstrual",
+    "nombre": "Gestión Menstrual",
+    "nombre_busqueda": "Gestión Menstrual",
+    "resumen": "Trámite para acceder a bolsas de colostomía y productos de higiene menstrual a través de la Secretaría de Salud.",
+    "sinonimos": [],
+    "temas": [
+      "salud-y-prevencion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060658",
+  "organismo": {
+    "nombre": "Secretaría de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que necesiten acceder a bolsas de colostomía o productos de higiene menstrual."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documentación personal.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá tu documentación personal en la Secretaría de Salud."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mi.quilmes.gov.ar/tramites/288/gestion-menstrual",
+      "titulo": "Gestión Menstrual",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T03:59:33.843Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere documentación personal específica no detallada en el texto.",
+    "No se especifican requisitos detallados más allá de la documentación personal.",
+    "No se especifican pasos detallados más allá de la presentación de documentación.",
+    "No se especifica si requiere turno.",
+    "No se especifica el plazo de atención.",
+    "No se especifica el costo del trámite."
+  ]
+}

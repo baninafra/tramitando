@@ -1,0 +1,100 @@
+{
+  "tramite": {
+    "slug": "renovar-permiso-complementario-empresas-extranjeras",
+    "nombre": "Renovar permiso complementario para empresas extranjeras",
+    "nombre_busqueda": "Renovar permiso complementario empresas extranjeras",
+    "resumen": "Trámite en línea para transportistas de carga extranjeros con permiso complementario próximo a vencer o vencido, que realizan transporte bilateral o en tránsito por Argentina.",
+    "sinonimos": [],
+    "temas": [
+      "migraciones-y-extranjeria",
+      "transporte-publico-y-viajes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Transportistas de carga extranjeros con permiso complementario próximo a vencer o vencido que realizan transporte de cargas en forma bilateral con la República Argentina o en tránsito por Argentina, con destino a Brasil, Uruguay, Paraguay, Bolivia, Chile y/o Perú."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de solicitud",
+        "aclaracion": null
+      },
+      {
+        "texto": "Arancel por destino solicitado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario CI2",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poder de representación en caso de corresponder",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fax o nota de renovación vigente del permiso complementario otorgada por el país de origen",
+        "aclaracion": null
+      },
+      {
+        "texto": "Parque móvil actualizado",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Presentá la documentación a través de TAD."
+      },
+      {
+        "texto": "La clave fiscal debe ser de nivel 3."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/renovar-permiso-complementario-para-empresas-extranjeras",
+      "titulo": "Renovar permiso complementario para empresas extranjeras | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T03:28:25.560Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T03:28:25.560Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/",
+      "titulo": "Inicio | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T03:28:25.560Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo de renovación no está especificado en el texto.",
+    "La dirección de las oficinas no está especificada en el texto."
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "tramite": {
+    "slug": "informacion-servicios-frente-inmueble",
+    "nombre": "Información de servicios frente al inmueble",
+    "nombre_busqueda": "verificar los servicios frente a una propiedad",
+    "resumen": "Verificá qué servicios existen frente a tu propiedad para actualizar la tasa municipal correspondiente. Esto permite ajustar la tasa según los servicios efectivamente prestados.",
+    "sinonimos": [],
+    "temas": [
+      "tasa-inmobiliaria-y-servicios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060505",
+  "organismo": {
+    "nombre": "Catastro Territorial",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que necesitan verificar los servicios existentes frente a una propiedad."
+    ],
+    "requisitos": [
+      {
+        "texto": "Datos del inmueble.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI de quien solicita.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://magdalena.gob.ar/detalle-guia-de-tramites-y-servicios/informacion-de-servicios-frente-al-inmueble/",
+      "titulo": "Información de Servicios frente al Inmueble : Magdalena",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T14:58:34.686Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa cómo iniciar el trámite ni sus pasos.",
+    "No se informa si tiene costo.",
+    "No se informan plazos ni oficina de atención."
+  ]
+}

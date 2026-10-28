@@ -1,0 +1,104 @@
+{
+  "tramite": {
+    "slug": "solicitar-autorizacion-importar-animales-vivos",
+    "nombre": "Solicitar autorización para importar animales vivos",
+    "nombre_busqueda": "Importar animales vivos Argentina",
+    "resumen": "Para importar animales vivos a la Argentina (excluyendo perros y gatos domésticos) necesitás tramitar una autorización previa en Senasa mediante la plataforma TAD, presentando documentación específica y cumpliendo con requisitos sanitarios y de cuarentena.",
+    "sinonimos": [
+      "Autorización importación animales vivos",
+      "Ingreso animales vivos Senasa"
+    ],
+    "temas": [
+      "viajar-con-menores-o-mascotas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Interesados en importar animales vivos, sean operadores comerciales o individuos particulares."
+    ],
+    "requisitos": [
+      {
+        "texto": "Registrar domicilio electrónico en el sistema SIGTrámites.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Conocer el número de animales, especie, uso (reproducción, engorde, etc.), país de destino/origen.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar la Solicitud de autorización para importación de animales vivos a través de la plataforma Trámites a Distancia (TAD).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Habilitar predio cuarentenario de importación si la especie requiere cuarentena post-ingreso en la República Argentina.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estar inscripto en el Registro de Exportadores y/o Importadores en la Dirección General de Aduanas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tramitar la autorización previa de la Dirección de Fauna Silvestre del Ministerio de Ambiente y Desarrollo Sustentable si corresponde.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tramitar la autorización de la Dirección de Acuicultura de la Secretaría de Bioeconomía si se importan ejemplares acuícolas.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar a la plataforma TAD: Importación."
+      },
+      {
+        "texto": "Completar el formulario de solicitud de autorización con los datos del viaje, detalle de los animales, punto de ingreso, fecha estimada y número RENSPA o domicilio particular."
+      },
+      {
+        "texto": "Adjuntar la documentación que corresponda, incluyendo permisos otorgados por organismos previos si los hubiera."
+      },
+      {
+        "texto": "Aportar la documentación y abonar el arancel correspondiente."
+      },
+      {
+        "texto": "Realizar el seguimiento del trámite por TAD."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La importación definitiva o temporal se realizará con autorización previa amparada por el Certificado Veterinario Internacional vigente.",
+      "Se recuerda que previo al arribo, el usuario deberá dar aviso de llegada al punto de ingreso a la Argentina al menos con 24 horas de anticipación.",
+      "Los animales ingresados pasarán por controles del Senasa en el puesto de frontera y luego a un predio cuarentenario habilitado.",
+      "Se deberán cumplir tareas sanitarias y liberación de los animales cuarentenados para su liberación final."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-autorizacion-para-importar-animales-vivos-0",
+      "titulo": "Solicitar autorización para importar animales vivos * | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T04:42:37.157Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no está especificado en el texto, consultar los Medios de pago habilitados en Senasa.",
+    "El plazo exacto de tramitación no está especificado en el texto."
+  ]
+}

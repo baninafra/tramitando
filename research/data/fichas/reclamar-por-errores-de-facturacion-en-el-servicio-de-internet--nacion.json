@@ -1,0 +1,98 @@
+{
+  "tramite": {
+    "slug": "reclamo-errores-facturacion-internet",
+    "nombre": "Reclamar por errores de facturación en el servicio de Internet",
+    "nombre_busqueda": "Reclamar errores factura internet",
+    "resumen": "Si la empresa de internet no atendió tu reclamo por cargos no correspondientes o servicios no pedidos, podés solicitar la intervención del ENACOM con la documentación requerida.",
+    "sinonimos": [
+      "Reclamo ENACOM internet",
+      "Queja factura proveedor internet"
+    ],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ente Nacional de Comunicaciones",
+    "sigla": "ENACOM",
+    "web": "https://www.enacom.gob.ar"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares del servicio.",
+      "Apoderados con poder ante escribano público o carta poder con firma certificada por entidad bancaria o policial."
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia del documento de identidad (DNI o Pasaporte).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia completa de una factura reciente del servicio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fecha y número del reclamo otorgado por la empresa prestataria del servicio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Utra documentación que consideres de interés.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de cualquier documentación que hayas enviado a la empresa o hayas recibido por parte de ella.",
+        "aclaracion": null
+      },
+      {
+        "texto": "F37c - Formulario general para iniciar reclamos sobre servicios de Internet y/o nota firmada por quien se presente, identificando el inconveniente y la fecha de inicio.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación en la Oficina de Atención al Público correspondiente a tu domicilio."
+      },
+      {
+        "texto": "Envialá por correo postal al Apartado Especial 114."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá el estado del trámite en la oficina en que lo iniciaste, en forma personal, teléfonica o por correo electrónico.",
+      "Aguardá la notificación de la resolución del ENACOM."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reclamar-por-errores-de-facturacion-en-el-servicio-de-internet",
+      "titulo": "Reclamar por errores de facturación en el servicio de Internet | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:36:43.871Z"
+    },
+    {
+      "url": "https://www.enacom.gob.ar/centrosatencion/c_1",
+      "titulo": "Centros de Atención",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T02:36:43.871Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de las oficinas de atención al público.",
+    "Plazo de respuesta del ENACOM."
+  ]
+}

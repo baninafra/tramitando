@@ -1,0 +1,118 @@
+{
+  "tramite": {
+    "slug": "productos-de-origen-animal-autorizacion-de-destino-de-exportacion",
+    "nombre": "Autorización de destino de exportación de productos de origen animal",
+    "nombre_busqueda": "Autorización de destino de exportación Senasa",
+    "resumen": "Los establecimientos habilitados por Senasa deben solicitar autorización para exportar productos de origen animal a un destino específico. El trámite se realiza en línea a través del SIGCER de AFIP y depende de que el mercado esté abierto.",
+    "sinonimos": [
+      "Autorización de exportación productos animal Senasa",
+      "Destino de exportación productos origen animal"
+    ],
+    "temas": [
+      "produccion-rural"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Todo establecimiento elaborador de alimentos de origen animal (productos, subproductos y derivados) habilitado por Senasa."
+    ],
+    "requisitos": [
+      {
+        "texto": "Registro y habilitación para tránsito federal emitido por Senasa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Los productos a exportar deben estar dentro de los rubros que el establecimiento tiene habilitado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Productos registrados por la Coordinación de Aprobación de Productos de Origen Animal (CAPA).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cumplimiento con el Plan de Control de Residuos e Higiene en Alimentos (Plan CREHA).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cumplir con los requisitos establecidos por el país de destino.",
+        "aclaracion": null
+      },
+      {
+        "texto": "No poseer deudas con Senasa.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal de AFIP."
+      },
+      {
+        "texto": "Accedé al Sistema Integrado de Gestión de Certificación Sanitaria (SIGCER)."
+      },
+      {
+        "texto": "Presentá la solicitud de autorización de exportación."
+      },
+      {
+        "texto": "Pagá el arancel correspondiente."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "20 días hábiles",
+    "consejos": [
+      "La duración está supeditada al sistema de habilitación que exija la contraparte sanitaria.",
+      "Considerá que los países con requisitos especiales pueden requerir evaluación documental y/o visita nacional y/o internacional."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Inocuidad y Calidad Agroalimentaria",
+      "direccion": "Av. Paseo Colón N° 367, Piso 5° Contrafrente, C1063ACD, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/productos-de-origen-animal-autorizacion-de-destino-de-exportacion"
+    },
+    {
+      "nombre": "Coordinación General de Animales Terrestres",
+      "direccion": "Av. Paseo Colón N° 367, Piso 5° Contrafrente, C1063ACD, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/productos-de-origen-animal-autorizacion-de-destino-de-exportacion"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/productos-de-origen-animal-autorizacion-de-destino-de-exportacion",
+      "titulo": "Productos de origen animal. Autorización de destino de exportación | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T02:04:10.839Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T02:04:10.839Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no se especifica en el texto, solo se indica que debe abonarse según corresponda."
+  ]
+}

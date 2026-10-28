@@ -1,0 +1,96 @@
+{
+  "tramite": {
+    "slug": "carnet-de-conducir",
+    "nombre": "Carnet de Conducir",
+    "nombre_busqueda": "Carnet de conducir San Cayetano",
+    "resumen": "Para obtener el carnet de conducir en San Cayetano, hay que aprobar un examen teórico y práctico. Si reprobá, no podés volver a rendir el mismo examen antes de 30 días.",
+    "sinonimos": [
+      "Licencia de conducir",
+      "Permiso de conducir"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060742",
+  "organismo": {
+    "nombre": "Municipalidad de San Cayetano",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en obtener el carnet de conducir."
+    ],
+    "requisitos": [
+      {
+        "texto": "Manual de estudio teórico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Examen teórico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Examen práctico.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Descargá el manual teórico."
+      },
+      {
+        "texto": "Rendí el examen teórico."
+      },
+      {
+        "texto": "Rendí el examen práctico."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Guías / Marcas y Señales",
+      "direccion": "Av. San Martín 451",
+      "localidad": "San Cayetano",
+      "horario": null,
+      "fuente_url": "https://sancayetano.gob.ar/manual-de-estudio-carnet-de-conducir/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://sancayetano.gob.ar/manual-de-estudio-carnet-de-conducir/",
+      "titulo": "Carnet de Conducir - San Cayetano | Municipalidad",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T10:19:01.699Z"
+    },
+    {
+      "url": "https://sancayetano.gob.ar/categoria/tramites/",
+      "titulo": "Trámites - San Cayetano | Municipalidad",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T10:19:01.699Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere aclarar si se necesita sacar turno para realizar los exámenes.",
+    "Se requiere aclarar si hay costo para el trámite.",
+    "Se requiere aclarar si se puede realizar todo el trámite por internet.",
+    "Se requiere aclarar si se necesita documentación adicional más allá del manual y los exámenes."
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "tramite": {
+    "slug": "habilitacion-comercial",
+    "nombre": "Habilitación Comercial",
+    "nombre_busqueda": "Habilitación comercial",
+    "resumen": "Trámite para habilitar un comercio en la municipalidad de Mar Chiquita. Requiere presentación de documentos y pago de tasas.",
+    "sinonimos": [],
+    "temas": [
+      "comercio-e-industria",
+      "habilitacion-comercial"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060518",
+  "organismo": {
+    "nombre": "Municipalidad de Mar Chiquita",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes deseen habilitar un comercio en la municipalidad."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documentos requeridos",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio de la Oficina Virtual Municipalidad de Mar Chiquita."
+      },
+      {
+        "texto": "Seleccioná el trámite de Trámites Comerciales."
+      },
+      {
+        "texto": "Completá el formulario de solicitud."
+      },
+      {
+        "texto": "Cargá los documentos requeridos."
+      },
+      {
+        "texto": "Generá el cupón de pago."
+      },
+      {
+        "texto": "Realizá el pago en el sitio de pago bancario seguro."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://oficinavirtual.marchiquita.gob.ar/tramites-comerciales/",
+      "titulo": "Trámites Comerciales – OFICINA VIRTUAL MUNICIPALIDAD DE MAR CHIQUITA",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T08:17:25.338Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los requisitos específicos de documentos no se detallan en el texto proporcionado.",
+    "El monto exacto de las tasas no se especifica en el texto.",
+    "El plazo de tramitación no se indica en el texto.",
+    "La información sobre si se requiere turno no está en el texto."
+  ]
+}

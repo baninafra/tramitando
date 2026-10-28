@@ -1,0 +1,96 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-retiro-de-restos-oseos",
+    "nombre": "Solicitud de retiro de restos óseos",
+    "nombre_busqueda": "Solicitud de retiro de restos óseos",
+    "resumen": "Estudiantes universitarios pueden solicitar restos óseos para estudio en el Palacio Municipal de Cañuelas. Se requiere formulario, constancia de la facultad, DNI y libreta universitaria. El costo varía según el domicilio del estudiante.",
+    "sinonimos": [
+      "Solicitud de restos óseos para estudio",
+      "Retiro de restos óseos Cañuelas"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060134",
+  "organismo": {
+    "nombre": "Municipalidad de Cañuelas",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Estudiantes universitarios que necesiten solicitar restos óseos para estudio, por pedido de la facultad a la que concurren."
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia original expedida por la facultad, en la que se solicite el material óseo para estudio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del documento nacional de identidad (DNI).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de la libreta universitaria.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Descargá e imprimí el formulario de solicitud o solicitalo en la Mesa de Entradas."
+      },
+      {
+        "texto": "Completá los datos solicitados en el formulario."
+      },
+      {
+        "texto": "Presentá la documentación requerida en el Palacio Municipal."
+      },
+      {
+        "texto": "Aboná el sellado de la solicitud."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "Estudiantes domiciliados en el partido de Cañuelas",
+      "gratis": false,
+      "monto_centavos": 300000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.canuelas.gov.ar/guia-de-tramites/solicitud-de-retiro-de-restos-oseos"
+    },
+    {
+      "modalidad": "Estudiantes domiciliados fuera del partido",
+      "gratis": false,
+      "monto_centavos": 600000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.canuelas.gov.ar/guia-de-tramites/solicitud-de-retiro-de-restos-oseos"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.canuelas.gov.ar/guia-de-tramites/solicitud-de-retiro-de-restos-oseos",
+      "titulo": "Solicitud de retiro de restos óseos - Cañuelas - Gobierno Municipal",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T15:59:42.100Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se indica que el trámite se realiza en el Palacio Municipal, pero no se especifica la dirección exacta, número de calle ni localidad en el texto."
+  ]
+}

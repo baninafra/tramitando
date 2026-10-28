@@ -1,0 +1,70 @@
+{
+  "tramite": {
+    "slug": "dni-nuevo-ejemplar-denuncia-extravio",
+    "nombre": "Sacar un nuevo DNI",
+    "nombre_busqueda": "DNI nuevo por pérdida, robo o cambio de datos",
+    "resumen": "Podés sacar un nuevo DNI por cambio de domicilio, deterioro, robo o pérdida. También corresponde si cambia tu identidad.",
+    "sinonimos": [
+      "renovar el DNI",
+      "reponer el DNI"
+    ],
+    "temas": [
+      "dni"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060385",
+  "organismo": {
+    "nombre": "Municipalidad de General Viamonte",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés tramitar un nuevo DNI si cambiaste de domicilio, se deterioró, te lo robaron o lo perdiste.",
+      "También podés hacerlo si hubo un cambio en tu identidad, como un cambio de género o de apellido."
+    ],
+    "requisitos": [
+      {
+        "texto": "Partida de nacimiento original.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI vigente, si lo tenés.",
+        "aclaracion": "Si sos mayor de 14 años."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Al sacar el DNI por primera vez, lo tramitan los padres o tutores cuando nace el bebé.",
+      "El DNI tiene una actualización cuando el niño llega a la edad escolar, entre los 5 y los 8 años, y otra a los 14."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.generalviamonte.gob.ar/content/dni-nuevo-ejemplar-denuncia-extravio",
+      "titulo": "| Municipalidad de General Viamonte",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T13:40:45.574Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El costo del trámite.",
+    "Los pasos para realizar el trámite.",
+    "Si necesitás sacar turno.",
+    "El plazo de entrega.",
+    "La oficina donde se realiza el trámite.",
+    "La fecha exacta de vigencia de la información."
+  ]
+}

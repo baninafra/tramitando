@@ -1,0 +1,67 @@
+{
+  "tramite": {
+    "slug": "baja-por-robo",
+    "nombre": "Baja por robo",
+    "nombre_busqueda": "Baja por robo",
+    "resumen": "Para borrar el impuesto de un vehículo robado, necesitás una denuncia policial y los formularios correspondientes.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias",
+      "cedula-del-vehiculo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060063",
+  "organismo": {
+    "nombre": "Municipalidad de Balcarce",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Contribuyentes del tributo"
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario 02",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario 04",
+        "aclaracion": null
+      },
+      {
+        "texto": "Denuncia policial",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://balcarce-app.gob.ar/portal_servicios/servicio/baja-por-robo",
+      "titulo": "Portal de Servicios | Modernizacion Balcarce",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T21:00:48.168Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de la oficina",
+    "Horarios de atención",
+    "Métodos de pago aceptados",
+    "Si se requiere turno",
+    "Vigencia del trámite"
+  ]
+}

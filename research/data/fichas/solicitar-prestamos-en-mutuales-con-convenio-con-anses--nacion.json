@@ -1,0 +1,94 @@
+{
+  "tramite": {
+    "slug": "prestamos-mutuales-convenio-anses",
+    "nombre": "Solicitar prestamos en mutuales con convenio con anses",
+    "nombre_busqueda": "prestamos mutuales anses",
+    "resumen": "Si sos jubilado o pensionado, podés pedir préstamos o adquirir bienes a través de mutuales o terceras entidades con convenio con ANSES y que la cuota se descuente de tus haberes mensuales.",
+    "sinonimos": [],
+    "temas": [
+      "jubilaciones-y-pensiones",
+      "adultos-mayores"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración Nacional de Servicios Sociales para Jubilados y Pensionados",
+    "sigla": "anses",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Ser beneficiario de una jubilación o pensión."
+    ],
+    "requisitos": [
+      {
+        "texto": "Convenio firmado y vigente con ANSES entre la entidad y el sistema de descuentos.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a la entidad que hayas elegido."
+      },
+      {
+        "texto": "Solicitá que el préstamo sea depositado en tu cuenta bancaria."
+      },
+      {
+        "texto": "Concurrí a la cooperativa, mutual o entidad siempre acompañado."
+      },
+      {
+        "texto": "Realizá el trámite personalmente ante la entidad."
+      },
+      {
+        "texto": "Leé con atención y preguntá todo aquello que no entiendas del formulario o papel que vas a firmar."
+      },
+      {
+        "texto": "No dejes espacios en blanco sin completar en la documentación que firmes."
+      },
+      {
+        "texto": "No firmes hojas en blanco por ningún motivo."
+      },
+      {
+        "texto": "Verificá que toda la documentación firmada posea las mismas condiciones que las informadas en el Comprobante de Autorización de Descuentos: monto del préstamo, cantidad de cuotas, cuota total mensual y costo financiero total (CFT)."
+      },
+      {
+        "texto": "Verificá que el importe depositado en tu cuenta bancaria coincida con el informado en el campo Monto Préstamo del Comprobante de Autorización de Descuentos."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Una vez que canceles el monto del préstamo, podés solicitar la desafiliación a la mutual o entidad."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-prestamos-en-mutuales-con-convenio-con-anses",
+      "titulo": "Solicitar préstamos en mutuales con convenio con ANSES | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T10:28:40.080Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T10:28:40.080Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica si se requiere turno para realizar el trámite."
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "tramite": {
+    "slug": "pagos-y-consultas-de-tasas-municipales",
+    "nombre": "Pago y consulta de Tasas Municipales",
+    "nombre_busqueda": "Pago de tasas municipales Bolivar",
+    "resumen": "Consultá y pagá tus tasas municipales (vial, agua, gas) desde la Agencia de Recaudación y Fiscalización.",
+    "sinonimos": [
+      "Pago de tasas Bolivar",
+      "Pago de impuestos municipales"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "planes-de-pago-municipales",
+      "servicios-urbanos-y-reclamos",
+      "tasa-inmobiliaria-y-servicios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060105",
+  "organismo": {
+    "nombre": "Agencia de Recaudación y Fiscalización",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que tenga que pagar tasas municipales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de padrón o dominio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cuenta DNI o datos para transferencia bancaria.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acudí a la Agencia de Recaudación y Fiscalización."
+      },
+      {
+        "texto": "Presentá tu número de padrón o dominio."
+      },
+      {
+        "texto": "Consultá el monto de las tasas a pagar."
+      },
+      {
+        "texto": "Realizá el pago en efectivo o transferencia."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si abonás por transferencia bancaria, informá el pago enviando el comprobante al 2314415093 o al correo rentas@bolivar.gob.ar.",
+      "Si abonaste por cuenta DNI, no vuelvás a pagar por otro medio."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 161591,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.bolivar.gob.ar/rentas/"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 415566,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.bolivar.gob.ar/rentas/"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 208872,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.bolivar.gob.ar/rentas/"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 238900,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.bolivar.gob.ar/rentas/"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 229400,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.bolivar.gob.ar/rentas/"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 27100,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.bolivar.gob.ar/rentas/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Agencia de Recaudación y Fiscalización",
+      "direccion": "Av. Belgrano 11, Hall del Palacio Municipal",
+      "localidad": "Av. Belgrano 11, Hall del Palacio Municipal",
+      "horario": null,
+      "fuente_url": "https://www.bolivar.gob.ar/rentas/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bolivar.gob.ar/rentas/",
+      "titulo": "Agencia de Recaudación y Fiscalización, Bolívar Municipio",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T11:23:18.712Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Plazo de pago exacto.",
+    "Dirección exacta de la oficina (solo se indica Hall del Palacio Municipal)."
+  ]
+}

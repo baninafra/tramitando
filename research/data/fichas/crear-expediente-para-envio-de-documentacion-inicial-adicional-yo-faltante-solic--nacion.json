@@ -1,0 +1,88 @@
+{
+  "tramite": {
+    "slug": "crear-expediente-envio-documentacion-frigorificos-repper",
+    "nombre": "Crear expediente para envío de documentación inicial, adicional y/o faltante solicitada a los Frigoríficos inscriptos e…",
+    "nombre_busqueda": "Crear expediente REPPeR",
+    "resumen": "Permite a los establecimientos procesadores de especies de Río enviar documentación solicitada por la Dirección de Planificación Pesquera de forma en línea y gratuita.",
+    "sinonimos": [
+      "Enviar documentación REPPeR",
+      "Documentación inicial REPPeR"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Establecimientos Procesadores de Especies de Río – Resolución SAGYP 391/13"
+    ],
+    "requisitos": [
+      {
+        "texto": "Estar Inscripto en el Registro Creado por Res. SAGyP 391/13",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener Clave Fiscal o Usuario Mi Argentina para validar identidad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Completar datos personales",
+        "aclaracion": null
+      },
+      {
+        "texto": "Adjuntar documentación",
+        "aclaracion": null
+      },
+      {
+        "texto": "Confirmar trámite",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Inicia el trámite desde AFIP o Mi Argentina"
+      },
+      {
+        "texto": "Ingresa con tu clave Fiscal o Usuario Mi Argentina"
+      },
+      {
+        "texto": "Adjunta la documentación solicitada"
+      },
+      {
+        "texto": "Confirma el trámite"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "5 minutos",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/crear-expediente-para-envio-de-documentacion-inicial-adicional-yo-faltante-solicitada-los",
+      "titulo": "Crear Expediente para envío de documentación inicial, adicional y/o faltante solicitada a los Frigoríficos inscriptos en el Registro de Empresas Procesadoras de Especies de Río (REPPeR). | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T15:23:00.258Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La vigencia del trámite es indefinida según el texto, pero no se especifica una fecha exacta de vigencia."
+  ]
+}

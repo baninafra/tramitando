@@ -1,0 +1,82 @@
+{
+  "tramite": {
+    "slug": "turnos-para-asesoria-legal-y-apremios",
+    "nombre": "Turnos para Asesoría Legal y Apremios",
+    "nombre_busqueda": "Turnos asesoría legal y apremios campana",
+    "resumen": "Sistema de reserva de turnos para consultas de asesoría legal y gestión de apremios en la Dirección de Apremios y Mora Definitiva de Campana.",
+    "sinonimos": [
+      "Turnos apremios legal campana",
+      "Reserva turno asesoría legal"
+    ],
+    "temas": [
+      "legalizaciones-y-apostillados"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060126",
+  "organismo": {
+    "nombre": "Dirección de Apremios y Gestión de Mora Definitiva",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en realizar una consulta de asesoría legal o gestión de apremios."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sistema de reserva de turnos."
+      },
+      {
+        "texto": "Seleccioná la opción de trámite."
+      },
+      {
+        "texto": "Ingresá tus datos personales."
+      },
+      {
+        "texto": "Confirmá los datos ingresados."
+      },
+      {
+        "texto": "Seleccioná la fecha de tu turno."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": "https://turnos.campana.gob.ar/Leg",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://turnos.campana.gob.ar/Leg/",
+      "titulo": "Turnero",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T11:17:03.758Z"
+    },
+    {
+      "url": "https://www.campana.gob.ar/",
+      "titulo": "Municipalidad de Campana",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T11:17:03.758Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos adicionales como copias o condiciones especiales.",
+    "No se indica el plazo de espera para obtener el turno.",
+    "No se especifican costos asociados al trámite."
+  ]
+}

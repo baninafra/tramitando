@@ -1,0 +1,85 @@
+{
+  "tramite": {
+    "slug": "habilitacion-de-vehiculo",
+    "nombre": "Habilitación de vehículos",
+    "nombre_busqueda": "Habilitación de vehículos",
+    "resumen": "Para habilitar un vehículo en San Martín, necesitás el DNI, el certificado de la Dirección de Tránsito y el pago de la tasa.",
+    "sinonimos": [
+      "Habilitación de autos",
+      "Habilitación de vehículos en San Martín"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "patente-automotor-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060371",
+  "organismo": {
+    "nombre": "Municipalidad de San Martín",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que tenga un vehículo a habilitar."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original y fotocopia",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de la Dirección de Tránsito",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pago de la tasa correspondiente",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Llevá tu DNI original y fotocopia."
+      },
+      {
+        "texto": "Llevá el certificado de la Dirección de Tránsito."
+      },
+      {
+        "texto": "Pagá la tasa correspondiente."
+      },
+      {
+        "texto": "Recibí el habilitación."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://sanmartin.gob.ar/tramites/transito-y-transporte-taxi-habilitaciones-de-vehiculos-yo-renovaciones",
+      "titulo": "Habilitaciones de vehículos y/o renovaciones",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T13:39:34.413Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa no se especifica en el texto.",
+    "La fecha de vigencia de la resolución no se especifica en el texto.",
+    "Si el trámite requiere turno, no se indica en el texto."
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "tramite": {
+    "slug": "pedir-otorgamiento-numero-arma",
+    "nombre": "Pedir el otorgamiento del número de arma",
+    "nombre_busqueda": "pedir otorgamiento numero de arma",
+    "resumen": "Solicitá el número de serie de fábrica para armas que no lo poseen, presentando el formulario y la documentación en RENAR.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro Nacional de Armas",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes posean un arma sin número de serie de fábrica."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario Leyes 23.283 y 23.412 correspondiente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de RENAR que prefieras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "10 días",
+    "consejos": [
+      "El trámite lleva 5 días si es urgente."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central del organismo",
+      "direccion": "Bartolomé Mitre 1465/9",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/pedir-el-otorgamiento-del-numero-de-arma"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/pedir-el-otorgamiento-del-numero-de-arma",
+      "titulo": "Pedir el otorgamiento del número de arma | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-26T23:37:59.067Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T23:37:59.067Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa no se especifica en el texto, consulta el arancel vigente.",
+    "La fecha de vigencia de la resolución que autoriza el trámite no se especifica en el texto."
+  ]
+}

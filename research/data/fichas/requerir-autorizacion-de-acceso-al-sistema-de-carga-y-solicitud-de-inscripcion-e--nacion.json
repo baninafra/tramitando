@@ -1,0 +1,131 @@
+{
+  "tramite": {
+    "slug": "autorizacion-acceso-sistema-carga-diarios",
+    "nombre": "Requerir autorización de acceso al sistema de carga y solicitud de inscripción en el Registro Nacional Integrado de Dia…",
+    "nombre_busqueda": "Autorización acceso sistema carga diarios revistas",
+    "resumen": "Este trámite permite a gremios y asociaciones del sector de diarios, revistas y afines registrar a sus asociados en el Registro Nacional Integrado. Es gratuito y se realiza presencialmente en el Ministerio de Trabajo, Empleo y Seguridad Social.",
+    "sinonimos": [
+      "Registro Nacional Integrado de Diarios, Revistas y Afines",
+      "Inscripción en el Registro Nacional de Publicaciones"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Trabajo, Empleo y Seguridad Social",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Sindicato de Vendedores de Diarios, Revistas y Afines de la Ciudad Autónoma de Buenos Aires y Provincia de Buenos Aires",
+      "Sociedad de Distribuidores de Diarios, Revistas y Afines",
+      "Asociación Argentina Distribuidores representantes de editoriales (AADRE)",
+      "Asociación Argentina de Publicaciones (AAADP)",
+      "Asociación de Distribuidores de Publicación al Interior (ADPI)"
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota formal justificando e informando la finalidad de la solicitud de acceso, realizada en hoja con membrete de la entidad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Original del ejemplar del Compromiso de Confidencialidad que se genera al momento de suscribirse, inicialado en todas las fojas y firmado en la última foja por el representante del organismo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia del CUIT del Organismo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de DNI y CUIL del Responsable Autorizante",
+        "aclaracion": null
+      },
+      {
+        "texto": "Información del representante de la entidad: Fotocopia de DNI y Constancia de CUIL",
+        "aclaracion": null
+      },
+      {
+        "texto": "Teléfono, teléfono alternativo y correo electrónico",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dos direcciones de correos electrónicos, que se emplearán para notificaciones",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de Acta de designación y/o Estatuto y/o Poder con facultades suficientes para firmar el compromiso, sólo del Representante de la Entidad",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "La entidad gremial o asociación debe designar a un responsable autorizante que pertenezca a la comisión directiva activa"
+      },
+      {
+        "texto": "Completar la solicitud de acceso"
+      },
+      {
+        "texto": "Imprimir el Documento de Compromiso de Confidencialidad que el sistema genera"
+      },
+      {
+        "texto": "El sindicato debe presentar este documento junto con toda la documentación especificada en requisitos en la mesa de entradas del Ministerio de Trabajo, Empleo y Seguridad Social, en Av. Callao 114, piso 6, CABA, los días lunes, miércoles y jueves de 10 a 16 horas"
+      },
+      {
+        "texto": "Una vez que se haya habilitado el usuario por el Ministerio de Trabajo, Empleo y Seguridad Social, el responsable autorizante podrá ingresar al sistema mediante el CUIT o CUIL y contraseña"
+      },
+      {
+        "texto": "Una vez cargados los datos de los asociados por el responsable autorizante, tiene que presentarse la documentación en Av. Callao 114, piso 6, CABA, los días lunes, miércoles y jueves de 10 a 16 horas"
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Cualquier cambio o modificación de los requisitos, deberá ser comunicado a la Autoridad de Aplicación con una antelación de diez (10) días hábiles a su realización"
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Ministerio de Trabajo, Empleo y Seguridad Social",
+      "direccion": "Av. Callao 114, piso 6, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/requerir-autorizacion-de-acceso-al-sistema-de-carga-y-solicitud-de-inscripcion-en-el"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/requerir-autorizacion-de-acceso-al-sistema-de-carga-y-solicitud-de-inscripcion-en-el",
+      "titulo": "Requerir autorización de acceso al sistema de carga y solicitud de inscripción en el Registro Nacional Integrado de Diarios, Revistas y Afines | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-27T03:55:38.739Z"
+    },
+    {
+      "url": "https://seguridadexterna.trabajo.gob.ar/Public/SolicitudAccesoOrganismo.aspx?SistemaId=3",
+      "titulo": "Solicitud de Acceso al Sistema: Puestos, Diarios y Revistas",
+      "bloques": [
+        "requisitos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T03:55:38.739Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite",
+    "Si se requiere turno para la presentación de la documentación"
+  ]
+}

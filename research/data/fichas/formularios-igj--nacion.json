@@ -1,0 +1,90 @@
+{
+  "tramite": {
+    "slug": "formularios-igj",
+    "nombre": "Formularios IGJ",
+    "nombre_busqueda": "Formularios IGJ",
+    "resumen": "Generá, completá y pagá los formularios de actuación para presentar pedidos de informes, certificados y reservas de denominación ante la Inspección General de Justicia.",
+    "sinonimos": [],
+    "temas": [
+      "legalizaciones-y-apostillados"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El interesado, representante legal o persona debidamente autorizada."
+    ],
+    "requisitos": [
+      {
+        "texto": "Ingresá a la página de Formularios IGJ.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Generá el formulario a través del servicio de Trámites a distancia (TAD).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Completá el formulario con los datos del presentante, la entidad y el trámite.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Imprimí el formulario y generá el archivo PDF.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Firmando el formulario por el interesado, representante legal, persona autorizada o profesional dictaminante.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la página de Formularios IGJ."
+      },
+      {
+        "texto": "Accedé a TAD a través del botón 'Iniciar trámite en TAD'."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Los formularios vencen a los 10 días de haber sido emitidos y no abonados.",
+      "La acreditación del pago es inmediata para poder presentar el trámite inmediatamente después de haber sido abonados."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede central",
+      "direccion": "Av. Paseo Colón 291",
+      "localidad": "Av. Paseo Colón 291",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/formularios-igj"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/formularios-igj",
+      "titulo": "Formularios IGJ | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-26T15:52:32.265Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del costo del trámite varía según la cantidad de módulos IGJ asignados y se debe consultar en la RG IGJ 15/2024, Anexo I."
+  ]
+}

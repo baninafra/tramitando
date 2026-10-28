@@ -1,0 +1,90 @@
+{
+  "tramite": {
+    "slug": "prestamo-de-libros-para-usuarios-con-credencial-biblioteca-nacional-de-maestros",
+    "nombre": "Prestamo de libros para usuarios con credencial Biblioteca Nacional de Maestros",
+    "nombre_busqueda": "prestamo libros credencial maestros",
+    "resumen": "Docentes y personal del Ministerio de Educación con credencial BNM pueden solicitar hasta 3 libros por una semana en la Sala de Lectura.",
+    "sinonimos": [],
+    "temas": [
+      "educacion-y-estudios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Biblioteca Nacional de Maestros",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Docentes",
+      "Bibliotecarios",
+      "Investigadores",
+      "Estudiantes",
+      "Personal del Ministerio de Educación"
+    ],
+    "requisitos": [
+      {
+        "texto": "Credencial habilitada y vigente",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Consultá en línea el catálogo la disponibilidad del material"
+      },
+      {
+        "texto": "Acercate a la Sala de Lectura, Pizzurno 953 PB, de lunes a viernes de 8:30 a 21 hs y sábados 9 a 14 hs"
+      },
+      {
+        "texto": "Retirá el material de la estantería abierta"
+      },
+      {
+        "texto": "Podes solicitar orientación al personal de sala de lectura"
+      },
+      {
+        "texto": "Acercate al mostrador de atención al público con los libros y la credencial"
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Solicitá préstamos de libros educación",
+      "Retirar en préstamo hasta un máximo de 3 libros de la estantería abierta, en los casos que haya más de un ejemplar de la edición, por una semana"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/prestamo-de-libros-para-usuarios-con-credencial-biblioteca-nacional-de-maestros",
+      "titulo": "Préstamo de libros para usuarios con credencial (Biblioteca Nacional de Maestros) | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:03:13.697Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T02:03:13.697Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de la Sala de Lectura (se menciona Pizzurno 953 PB pero no se confirma si es la única)",
+    "Horarios de atención al público en el mostrador",
+    "Número de teléfono de contacto (se menciona 011 4129-1286 pero no se confirma)",
+    "Correo electrónico de contacto (se menciona un placeholder .)",
+    "Disponibilidad de internet para consultar el catálogo en línea",
+    "Vigencia de la credencial BNM"
+  ]
+}

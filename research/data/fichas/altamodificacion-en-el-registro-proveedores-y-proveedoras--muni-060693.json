@@ -1,0 +1,105 @@
+{
+  "tramite": {
+    "slug": "alta-modificacion-registro-proveedores",
+    "nombre": "Alta o modificación en el registro de proveedores y proveedoras",
+    "nombre_busqueda": "Alta o modificación en el registro de proveedores y proveedoras",
+    "resumen": "Para realizar la alta o modificación en el registro de proveedores y proveedoras, necesitás enviar la documentación por correo postal o presentarla personalmente en la oficina municipal.",
+    "sinonimos": [],
+    "temas": [
+      "proveedores-y-compras"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060693",
+  "organismo": {
+    "nombre": "Municipalidad de Roque Pérez",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Proveedores y proveedoras que deseen alta o modificación en el registro."
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia de DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción en AFIP.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción en IIBB.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de habilitación municipal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contrato social legalizado (en caso de constituir una sociedad).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Convenio multilateral (para quienes se encuentren radicados/as en Capital Federal).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá los documentos originales en la calle Bartolomé Mitre 1310."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "Alta",
+      "gratis": false,
+      "monto_centavos": 5080000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.roqueperez.gob.ar/content/altamodificacion-en-el-registro-proveedores-y-proveedoras"
+    },
+    {
+      "modalidad": "Renovación",
+      "gratis": false,
+      "monto_centavos": 2820000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.roqueperez.gob.ar/content/altamodificacion-en-el-registro-proveedores-y-proveedoras"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Municipalidad de Roque Pérez",
+      "direccion": "Calle Bartolomé Mitre 1310",
+      "localidad": "Roque Pérez",
+      "horario": null,
+      "fuente_url": "https://www.roqueperez.gob.ar/content/altamodificacion-en-el-registro-proveedores-y-proveedoras"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.roqueperez.gob.ar/content/altamodificacion-en-el-registro-proveedores-y-proveedoras",
+      "titulo": "Alta/modificación en el registro de proveedores y proveedoras",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T09:33:36.721Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el plazo de resolución del trámite.",
+    "No se especifica si se requiere turno para la presentación presencial."
+  ]
+}

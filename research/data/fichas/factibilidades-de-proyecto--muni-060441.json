@@ -1,0 +1,103 @@
+{
+  "tramite": {
+    "slug": "factibilidades-de-proyecto-o-consulta-previa",
+    "nombre": "Consultar la factibilidad de un proyecto",
+    "nombre_busqueda": "factibilidades de proyecto o consulta previa",
+    "resumen": "Podés consultar pautas generales sobre cómo se aplica la normativa vigente a un proyecto de obra. Este trámite es presencial, requiere turno y no es obligatorio para pedir la aprobación del proyecto o un permiso de obra.",
+    "sinonimos": [
+      "Consulta previa de obra",
+      "Factibilidad de proyecto"
+    ],
+    "temas": [
+      "obras-y-construccion",
+      "permiso-de-obra-y-planos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060441",
+  "organismo": {
+    "nombre": "Dirección de Obras Particulares",
+    "sigla": null,
+    "web": "https://tramites.laplata.gob.ar/obrasparticulares/factibilidades-de-proyecto.html"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés presentar una consulta sobre un proyecto de obra a construir, ampliar o refaccionar, con superficies existentes o sin ellas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota del profesional dirigida al Director General de Obras Particulares, solicitando la factibilidad del proyecto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ingreso de Monotasa impresa y completa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dos copias del plano municipal para corrección.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Timbrado de la tasa administrativa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Memoria técnica descriptiva que explique el pedido.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Una copia del plano de propiedad horizontal, si corresponde.",
+        "aclaracion": "Si la propiedad está fuera del casco urbano."
+      },
+      {
+        "texto": "Certificado de servicios de agua y cloaca.",
+        "aclaracion": "Si la propiedad tiene más de una unidad."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Sacá un turno con la opción «Consulta Técnica / Revisación»."
+      },
+      {
+        "texto": "Presentá los requisitos para solicitar la factibilidad del proyecto."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://turnos.laplata.gob.ar/misdatos",
+    "plazo": null,
+    "consejos": [
+      "La consulta previa no es obligatoria para tramitar la aprobación del proyecto o un permiso de obra.",
+      "La respuesta de Obras Particulares no te autoriza a iniciar obras ni otros trabajos. Tampoco obliga al propietario a contratar al profesional que inició la consulta.",
+      "El análisis puede requerir la intervención de otras dependencias, según el criterio de la Dirección de Obras Particulares y la legislación o normativa que corresponda."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://tramites.laplata.gob.ar/obrasparticulares/factibilidades-de-proyecto.html",
+      "titulo": "Obras Particulares - Municipalidad de La Plata",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:14:31.417Z"
+    },
+    {
+      "url": "https://turnos.laplata.gob.ar/misdatos",
+      "titulo": "Turnos online - Municipalidad de La Plata",
+      "bloques": [
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T14:14:31.417Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa el monto de la tasa administrativa."
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "tramite": {
+    "slug": "consultar-estado-tramite-registro-automotor",
+    "nombre": "Consultar el estado de un trámite en el registro automotor",
+    "nombre_busqueda": "Consultar estado trámite registro automotor",
+    "resumen": "Permite saber en qué estado está un trámite iniciado en cualquier Registro Seccional del país en 5 minutos de forma gratuita.",
+    "sinonimos": [
+      "Consulta estado trámite RRA",
+      "Verificar trámite automotor"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro de la Propiedad Automotor",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada que tenga como referencia el número de trámite y el Registro Seccional."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de Registro Seccional (consta de 5 dígitos).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número del trámite.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá la consulta en línea desde la opción 'Retiro de trámites' o desde el botón verde de esta página."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "5 minutos",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consultar-el-estado-de-un-tramite-en-el-registro-automotor",
+      "titulo": "Consultar el estado de un trámite en el Registro Automotor | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T05:25:16.298Z"
+    }
+  ],
+  "sin_confirmar": []
+}

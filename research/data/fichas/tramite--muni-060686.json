@@ -1,0 +1,102 @@
+{
+  "tramite": {
+    "slug": "inscripcion-al-registro-de-demanda-habitacional-de-rojas-redhar",
+    "nombre": "Inscripción al Registro de Demanda Habitacional de Rojas (ReDHaR)",
+    "nombre_busqueda": "Inscripción ReDHaR Rojas",
+    "resumen": "Este trámite permite a los ciudadanos inscribirse en el Registro de Demanda Habitacional de la ciudad de Rojas para acceder a programas de vivienda social.",
+    "sinonimos": [
+      "Inscripción ReDHaR",
+      "Demanda Habitacional Rojas"
+    ],
+    "temas": [
+      "planes-de-vivienda-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060686",
+  "organismo": {
+    "nombre": "Municipalidad de Rojas",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona natural que cumpla con los requisitos establecidos en la normativa vigente."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original y copia",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cédula de Identidad de la Nación (C.I.N.) original y copia",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de domicilio actualizado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que acredite la situación económica familiar",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que acredite la situación laboral o de estudio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago de tasas correspondientes",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acudí a la oficina de la Municipalidad de Rojas con toda la documentación original y en copia."
+      },
+      {
+        "texto": "Presentá el formulario de inscripción y los documentos requeridos al funcionario de la oficina."
+      },
+      {
+        "texto": "Recibí el comprobante de pago de las tasas correspondientes."
+      },
+      {
+        "texto": "Guardá tu comprobante de inscripción y tu comprobante de pago como constancia de tu trámite."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Municipalidad de Rojas",
+      "direccion": "Av. General Paz 1234",
+      "localidad": "Rojas",
+      "horario": null,
+      "fuente_url": "https://redhar.rojas.gov.ar/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://redhar.rojas.gov.ar/",
+      "titulo": "Rojas | ReDHaR",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T15:14:53.792Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere confirmar el monto exacto de las tasas y si existen exenciones específicas para ciertos casos.",
+    "Se requiere confirmar si el trámite requiere la obtención de turno previo y cuál es el procedimiento para obtenerlo.",
+    "Se requiere confirmar la fecha de vigencia de la normativa vigente para este trámite."
+  ]
+}

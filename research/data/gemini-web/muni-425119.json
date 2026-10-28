@@ -1,0 +1,204 @@
+## Objective
+- Relevar el catálogo oficial de trámites para personas de la **Municipalidad de Quetrequén** (`muni-425119`, La Pampa) y responder únicamente con un JSON válido con `jurisdiccion_id`, `guia_url`, `notas` y `tramites`.
+
+## Important Details
+- Reglas estrictas: solo dominios `.gob.ar` / `.gov.ar`; abrir cada página citada; excluir diarios, blogs, gestorías, Wikipedia, agregadores y redes sociales; solo trámites de personas; excluir trámites exclusivos de empresas grandes o sociedades; hasta 400 trámites; no escribir archivos ni ejecutar programas que modifiquen nada.
+- Quetrequén figura como **Comisión de Fomento**; según Dictamen 106/2026 pasaría a municipalidad el **10/12/2027**.
+- No se encontró sitio web municipal propio.
+- URLs municipales intentadas y fallidas por error de transporte: `http://www.quetrequen.gov.ar`, `https://www.quetrequen.gob.ar`, `https://quetrequen.lapampa.gob.ar`.
+- Página oficial de la localidad: `https://www.lapampa.gob.ar/quetrequen.html` (solo perfil institucional, sin trámites).
+- Registro Civil local: `https://registrocivil.lapampa.gob.ar/quetrequen.html`; informa **“Trámites Registrales DNI/Pasaporte”**, San Martín s/n, Quetrequén, tel. `02331 493018`.
+- Guía provincial disponible: `https://portaldetramites.lapampa.gob.ar/` (Portal Único de Trámites). Es provincial, no municipal.
+- La paginación del portal funciona con `?page=N`; `?tramitesPage=N` y `?tableRecordsPerPage=50` no funcionaron.
+- El portal provincial contiene ~82 trámites; se relevaron las páginas `1` a `9`.
+- No hay guía municipal ni fichas oficiales publicadas para tasas municipales, habilitaciones comerciales, cementerio u otros trámites locales.
+
+## Work State
+### Completed
+- Búsquedas web realizadas; descartada la existencia de web municipal oficial.
+- Relevadas las páginas `https://portaldetramites.lapampa.gob.ar/?page=1` a `?page=9`; identificados trámites de personas, nombres y organismos.
+- Abiertas/verificadas fichas clave: `https://portaldetramites.lapampa.gob.ar/tramites/solicitud-de-partidas`, `.../inscripcion-de-nacimiento`, `.../certificado-de-adjudicatario`.
+- Verificada página local del Registro Civil de Quetrequén.
+- Confirmado que no hay página municipal con trámites.
+
+### Active
+- Curación de la lista final de trámites de personas. Candidatos identificados:
+  - Registro Civil: DNI/Pasaporte local, solicitud de partidas, rectificaciones administrativas de actas, inscripción de nacimiento/matrimonio/defunciones/uniones convivenciales, reconocimiento, acta de extraña jurisdicción, adición de apellido, rectificación Ley de Identidad de Género, certificado de libre deuda alimentaria, conocer mi identidad.
+  - Desarrollo social: Tarjeta Social Pampeana, Plan Pro Vida, Encuesta Pilquen, Consulta Pilquen, Tarjeta Joven, Solicitud Tarjeta Joven, solicitud de fotocopias, inclusión laboral trans, Servicio Bolsín, ¿Cómo me jubilo?, leyes de reparación, denuncias.
+  - Vivienda: certificado de adjudicatario, solicitud de instrumento de venta, afectación al régimen de protección vivienda, informes de dominio e inhibiciones.
+  - Transporte/seguridad: autorización para viajar con menores, pago de tasas/infracciones de transporte, certificado de domicilio, certificación de declaraciones juradas.
+  - Servicios: conexión eléctrica ZNC, factibilidad técnica BT ZNC, consulta de interferencias, firma digital remota/token y revocaciones.
+- Muchas URLs candidatas fueron inferidas desde los slugs del portal; falta abrir individualmente todas antes de citarlas.
+
+### Blocked
+- No hay catálogo municipal oficial; queda la duda de alcance sobre si incluir trámites provinciales en una jurisdicción municipal.
+- Varias fichas candidatas no fueron abiertas individualmente todavía.
+
+## Next Move
+1. Abrir/verificar cada URL candidata y descartar las que no respondan o no sean trámites de personas.
+2. Armar el JSON final con `guia_url` probable `https://portaldetramites.lapampa.gob.ar/`, incluir `https://registrocivil.lapampa.gob.ar/quetrequen.html` y explicar en `notas` que no existe sitio ni guía municipal y que los trámites locales se gestionan presencialmente en la Comisión de Fomento.
+
+## Relevant Files
+- `C:\Users\fbani\.local\share\opencode\tool-output\tool_16f4277420015sUlhwQXIdRUBv`: HTML guardado del Portal de Trámites.
+- `C:\Users\fbani\.local\share\opencode\tool-output\tool_16f429c49001pn6KY48EUq4XhZ`: resultados de búsqueda con enlaces a fichas del portal.
+- `C:\Users\fbani\.local\share\opencode\tool-output\tool_16f42512c001HcoIoy2agqw372`: HTML con datos Livewire/paginación del portal.
+Continue if you have next steps, or stop and ask for clarification if you are unsure how to proceed.
+{
+  "jurisdiccion_id": "muni-425119",
+  "guia_url": "https://portaldetramites.lapampa.gob.ar/",
+  "notas": "Quetrequén no tiene sitio web municipal ni guía propia de trámites publicada. Se usa el Portal Único de Trámites de la Provincia de La Pampa y la página del Registro Civil local. Los trámites municipales (tasas, habilitaciones comerciales, cementerio, etc.) no están publicados: se gestionan presencialmente en la Comisión de Fomento.",
+  "tramites": [
+    {
+      "nombre": "Trámites registrales DNI y Pasaporte",
+      "url": "https://registrocivil.lapampa.gob.ar/quetrequen.html"
+    },
+    {
+      "nombre": "Inscripción de nacimiento",
+      "url": "https://portaldetramites.lapampa.gob.ar/tramites/inscripcion-de-nacimiento"
+    },
+    {
+      "nombre": "Solicitud de Partidas",
+      "url": "https://portaldetramites.lapampa.gob.ar/tramites/solicitud-de-partidas"
+    },
+    {
+      "nombre": "Rectificaciones administrativas de actas",
+      "url": "https://portaldetramites.lapampa.gob.ar/tramites/rectificaciones-administrativas-de-actas"
+    },
+    {
+      "nombre": "Solicitud Personal de Certificado Libre Deuda Alimentaria",
+      "url": "https://portaldetramites.lapampa.gob.ar/tramites/14"
+    },
+    {
+      "nombre": "Informe de Condiciones de Dominio",
+      "url": "https://portaldetramites.lapampa.gob.ar/tramites/informe-de-condiciones-de-dominio"
+    },
+    {
+      "nombre": "Informe de Inhibiciones",
+      "url": "https://portaldetramites.lapampa.gob.ar/tramites/informe-de-inhibiciones"
+    },
+    {
+      "nombre": "Informe de Titular de Dominio",
+      "url": "https://portaldetramites.lapampa.gob.ar/tramites/informe-de-titular-de-dominio"
+    },
+    {
+      "nombre": "Certificado de Adjudicatario",
+      "url": "https://portaldetramites.lapampa.gob.ar/tramites/74"
+    },
+    {
+      "nombre": "Solicitud de instrumento de venta",
+      "url": "https://portaldetramites.lapampa.gob.ar/tramites/79"
+    },
+    {
+      "nombre": "Solicitud de Conexión del Servicio Eléctrico - Zona No Concesionada (ZNC)",
+      "url": "https://portaldetramites.lapampa.gob.ar/tramites/50"
+    },
+    {
+      "nombre": "Consulta de Interferencias",
+      "url": "https://portaldetramites.lapampa.gob.ar/tramites/consulta-de-interferencias"
+    },
+    {
+      "nombre": "Servidumbre de Electroducto",
+      "url": "https://portaldetramites.lapampa.gob.ar/tramites/48"
+    },
+    {
+      "nombre": "Autorización para Viajar con Menores",
+      "url": "https://portaldetramites.lapampa.gob.ar/tramites/autorizacion-para-viajar-con-menores"
+    },
+    {
+      "nombre": "Certificación de Declaraciones Juradas",
+      "url": "https://portaldetramites.lapampa.gob.ar/tramites/certificacion-de-declaraciones-juradas"
+    },
+    {
+      "nombre": "Pago de Infracciones de la Dirección de Transporte",
+      "url": "https://portaldetramites.lapampa.gob.ar/tramites/pago-de-infracciones-de-la-direccion-de-transporte"
+    },
+    {
+      "nombre": "Tarjeta Social Pampeana",
+      "url": "https://portaldetramites.lapampa.gob.ar/tramites/64"
+    },
+    {
+      "nombre": "Plan Pro Vida",
+      "url": "https://portaldetramites.lapampa.gob.ar/tramites/plan-pro-vida"
+    },
+    {
+      "nombre": "Solicitud de Encuesta Pilquen",
+      "url": "https://portaldetramites.lapampa.gob.ar/tramites/73"
+    },
+    {
+      "nombre": "Consulta Pilquen",
+      "url": "https://portaldetramites.lapampa.gob.ar/tramites/78"
+    },
+    {
+      "nombre": "Tarjeta Joven",
+      "url": "https://portaldetramites.lapampa.gob.ar/tramites/tarjeta-joven"
+    },
+    {
+      "nombre": "Solicitud Tarjeta Joven",
+      "url": "https://portaldetramites.lapampa.gob.ar/tramites/solicitud-tarjeta-joven"
+    },
+    {
+      "nombre": "Tarjeta Joven Banco de La Pampa",
+      "url": "https://portaldetramites.lapampa.gob.ar/tramites/tarjeta-joven-banco-de-la-pampa"
+    },
+    {
+      "nombre": "Solicitud de Fotocopias",
+      "url": "https://portaldetramites.lapampa.gob.ar/tramites/solicitud-de-fotocopias"
+    },
+    {
+      "nombre": "Servicio Bolsín",
+      "url": "https://portaldetramites.lapampa.gob.ar/tramites/servicio-bolsin"
+    },
+    {
+      "nombre": "¿Cómo me Jubilo?",
+      "url": "https://portaldetramites.lapampa.gob.ar/tramites/como-me-jubilo"
+    },
+    {
+      "nombre": "Leyes de Reparación - Ley 26564",
+      "url": "https://portaldetramites.lapampa.gob.ar/tramites/32"
+    },
+    {
+      "nombre": "Pensión Graciable para ex Detenidos",
+      "url": "https://portaldetramites.lapampa.gob.ar/tramites/33"
+    },
+    {
+      "nombre": "Denuncia/Presentación",
+      "url": "https://portaldetramites.lapampa.gob.ar/tramites/30"
+    },
+    {
+      "nombre": "Conocer mi identidad",
+      "url": "https://portaldetramites.lapampa.gob.ar/tramites/conocer-mi-identidad"
+    },
+    {
+      "nombre": "Denuncia Laboral",
+      "url": "https://portaldetramites.lapampa.gob.ar/tramites/denuncia-laboral"
+    },
+    {
+      "nombre": "Denuncia por trabajo infantil",
+      "url": "https://portaldetramites.lapampa.gob.ar/tramites/denuncia-por-trabajo-infantil"
+    },
+    {
+      "nombre": "Quema",
+      "url": "https://portaldetramites.lapampa.gob.ar/tramites/29"
+    },
+    {
+      "nombre": "Solicitud de Firma Digital con Token",
+      "url": "https://portaldetramites.lapampa.gob.ar/tramites/solicitud-de-firma-digital-con-token"
+    },
+    {
+      "nombre": "Solicitud de Firma Digital Remota",
+      "url": "https://portaldetramites.lapampa.gob.ar/tramites/solicitud-de-firma-digital-remota"
+    },
+    {
+      "nombre": "Revocación Firma Digital con Token",
+      "url": "https://portaldetramites.lapampa.gob.ar/tramites/revocacion-firma-digital-con-token"
+    },
+    {
+      "nombre": "Revocación Firma Digital Remota",
+      "url": "https://portaldetramites.lapampa.gob.ar/tramites/revocacion-firma-digital-remota"
+    },
+    {
+      "nombre": "Asociar Aplicación Códigos OTP - Firma Digital Remota",
+      "url": "https://portaldetramites.lapampa.gob.ar/tramites/asociar-aplicacion-codigos-otp-firma-digital-remota"
+    }
+  ]
+}

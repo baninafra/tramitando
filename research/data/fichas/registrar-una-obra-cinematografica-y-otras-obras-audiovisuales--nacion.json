@@ -1,0 +1,164 @@
+{
+  "tramite": {
+    "slug": "registro-de-obra-cinematografica-y-audiovisual",
+    "nombre": "Registrar una obra cinematográfica y otras obras audiovisuales",
+    "nombre_busqueda": "Registrar obra cinematográfica DNDA",
+    "resumen": "Este trámite protege las obras cinematográficas y audiovisuales que hayan sido exhibidas. Protege las obras que hayan sido publicadas previo al inicio del trámite.",
+    "sinonimos": [
+      "Registro de obra cinematográfica",
+      "Registro de obra audiovisual"
+    ],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional del Derecho de Autor",
+    "sigla": "DNDA",
+    "web": "https://www.argentina.gob.ar/servicio/registrar-una-obra-cinematografica-y-otras-obras-audiovisuales"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Realizadores de cine y video que quieran registrar la autoría de su obra ya estrenada."
+    ],
+    "requisitos": [
+      {
+        "texto": "Comprobante de pago del trámite por depósito o transferencia bancaria.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago de la tasa por depósito o transferencia bancaria.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de la obra completa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos de la obra: Productor, Director, Editor e Intérpretes (nombre y apellido completos), Lugar de edición (ciudad, provincia, país), Fecha de edición (mes y año), Ficha técnica y Síntesis argumental.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos a proporcionar de los autores: Nombre completo, N° de cuil/cuit/cdi (en caso de ser extranjero) / Pasaporte.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos a proporcionar de los titulares: Nombre completo, N° de cuil/cuit/cdi (en caso de ser extranjero)/ Pasaporte, nacionalidad, estado civil, e-mail, Teléfono, domicilio y porcentaje de titularidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el autor es menor de edad: documentación que acredite vínculo y Constancia de CUIL, CUIL o CDI del menor (en caso de ser extranjero).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si es autor fallecido: certificado de defunción.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el titular es persona jurídica: estatuto y última designación de autoridades.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Representante legal: autorización privada del autor, firmada y certificada ante autoridad bancaria, judicial, policial o escribano público, o carta poder concedida por el autor ante Escribano Público.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el escribano no pertenece a la Ciudad de Buenos Aires, su firma debe estar legalizada ante el Colegio de Escribanos de la localidad correspondiente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de cuil/cuit/ cdi (en caso de ser extranjero) / Pasaporte del autor o titular.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD-Inscripción de obra publicada–Videograma/Película Cinematográfica e iniciá el trámite."
+      },
+      {
+        "texto": "Completá los datos requeridos."
+      },
+      {
+        "texto": "Subí la documentación obligatoria y complementaria."
+      },
+      {
+        "texto": "El sistema te otorgará un número de expediente electrónico, anotalo y tenelo presente para cualquier consulta posterior en la DNDA."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá o enviá la obra y la impresión de los tres archivos (datos de la obra a registrar, carátula variable y carátulas del expediente) a la Dirección Nacional del Derecho de Autor: Sede Central."
+      },
+      {
+        "texto": "Si elegiste la opción Modo de Depósito Digital “NO”, deberás presentar o enviar la obra y la impresión de los tres archivos a la DNDA Sede Central."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La obra debe estar publicada previo al inicio del trámite.",
+      "El trámite no estará concluido hasta que no se haya enviado a la DNDA la obra con los archivos correspondientes.",
+      "Si tenés algún error, se te enviará una tarea de subsanación; caso contrario se te otorga el certificado por TAD."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 450000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/registrar-una-obra-cinematografica-y-otras-obras-audiovisuales"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional del Derecho de Autor",
+      "direccion": "Sede Central",
+      "localidad": "Sede Central",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/registrar-una-obra-cinematografica-y-otras-obras-audiovisuales"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/registrar-una-obra-cinematografica-y-otras-obras-audiovisuales",
+      "titulo": "Registrar una obra cinematográfica y otras obras audiovisuales | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T03:20:46.477Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T03:20:46.477Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/cdn-cgi/content?id=cBA.UsLqvFNCdBIrLo2pOeMF.tjRDuLOokR0.JtDH9A-1792995169.611904-1.2.1.1-GZXEdh0jLYXmHPyxO0LbMdXHmcJw0ScOxxYHth.GofXX0Z3ZB8AXu6o6DamQx3zC",
+      "titulo": "Evolutionary Game Theory: The Dance of Strategies",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T03:20:46.477Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Fecha de vigencia del trámite",
+    "Dirección exacta de la Sede Central de la DNDA",
+    "Localidad de la Sede Central de la DNDA"
+  ]
+}

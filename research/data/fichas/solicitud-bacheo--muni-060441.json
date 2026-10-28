@@ -1,0 +1,103 @@
+{
+  "tramite": {
+    "slug": "solicitud-bacheo-pavimentacion",
+    "nombre": "Solicitar bacheo o pavimentación",
+    "nombre_busqueda": "solicitud de bacheo o pavimentación",
+    "resumen": "Presentá un reclamo por bacheo o pavimentación mediante una nota con tus datos completos, detalles del pedido y fotos.",
+    "sinonimos": [
+      "reclamo por bacheo",
+      "reclamo por pavimentación"
+    ],
+    "temas": [
+      "calles-y-bacheo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060441",
+  "organismo": {
+    "nombre": "Mesa General de Entradas de la Municipalidad de La Plata",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés presentar una solicitud de bacheo o pavimentación."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nombre y apellido completos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de documento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio real.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Correo electrónico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descripción detallada de los hechos que motivan el pedido.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Citación de la norma legal que fundamenta el derecho invocado, si hace falta.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Petición clara y precisa, con el objetivo del trámite.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que respalde tu derecho.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de solicitud.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotos que acompañen el reclamo. No se aceptan videos.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá una nota con tus datos completos y los detalles del reclamo."
+      },
+      {
+        "texto": "Adjuntá fotos al reclamo. No presentes videos."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://tramites.laplata.gob.ar/mesaentrada/solicitud-bacheo.html",
+      "titulo": "Mesa General de Entradas - Municipalidad de La Plata",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T14:22:41.771Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa si el trámite requiere turno.",
+    "No se informa el plazo de resolución.",
+    "No se informa el costo del trámite.",
+    "No se indica dónde presentar la nota."
+  ]
+}

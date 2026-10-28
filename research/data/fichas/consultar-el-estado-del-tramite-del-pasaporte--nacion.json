@@ -1,0 +1,86 @@
+{
+  "tramite": {
+    "slug": "consultar-el-estado-del-tramite-del-pasaporte",
+    "nombre": "Consultar el estado del trámite del pasaporte",
+    "nombre_busqueda": "Consultar estado pasaporte",
+    "resumen": "Podés consultar el estado de tu trámite de pasaporte en RENAPER, Correo Argentino o OCA sin costo.",
+    "sinonimos": [
+      "Seguimiento pasaporte",
+      "Estado trámite pasaporte",
+      "Verificar pasaporte"
+    ],
+    "temas": [
+      "pasaporte"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier ciudadano que quiera conocer el estado de su trámite.",
+      "Un tercero que tenga los datos del titular del pasaporte."
+    ],
+    "requisitos": [
+      {
+        "texto": "Acceso a internet.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a Seguimiento de Pasaporte y completá el ID del trámite."
+      },
+      {
+        "texto": "Entrá al seguimiento de trámites del sitio del Correo Argentino desde este enlace e ingresá el número de trámite."
+      },
+      {
+        "texto": "Entrá al seguimiento de envíos del sitio de OCA desde este enlace e ingresá tu Número de envío."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consultar-el-estado-del-tramite-del-pasaporte",
+      "titulo": "Consultar el estado del trámite del Pasaporte | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T05:33:08.198Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T05:33:08.198Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/cdn-cgi/content?id=URwBzviPwAk8Ox3L4eIqRuHouTSnGcR4PcMFk9slT48-1792992787.2334816-1.2.1.1-GvhZhOpHJSrJg.X44sGn7tgRZDjyik4hIa.bSacNWELhf7UfMr1GiCZqXmvjRszP",
+      "titulo": "Nutrigenomics: The Science of Personalized Nutrition",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T05:33:08.198Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los enlaces específicos de seguimiento de Correo Argentino y OCA no se detallan en el texto.",
+    "El plazo de espera no se indica en el texto."
+  ]
+}

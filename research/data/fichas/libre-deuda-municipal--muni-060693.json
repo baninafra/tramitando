@@ -1,0 +1,80 @@
+{
+  "tramite": {
+    "slug": "libre-deuda-municipal",
+    "nombre": "Libre deuda municipal",
+    "nombre_busqueda": "Libre deuda municipal",
+    "resumen": "Permite cancelar la deuda municipal vencida en un plazo de 60 días desde la fecha de emisión. El trámite es presencial y tiene un costo de 19200 centavos.",
+    "sinonimos": [],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060693",
+  "organismo": {
+    "nombre": "Municipalidad de Roque Pérez",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que tenga una deuda municipal vencida."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documentación que acredite la deuda municipal vencida.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en la oficina de la municipalidad."
+      },
+      {
+        "texto": "Llevá la documentación que acredite la deuda municipal vencida."
+      },
+      {
+        "texto": "Realizá el pago del costo del trámite."
+      },
+      {
+        "texto": "Retirá el comprobante de la liberación de la deuda."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "60 días",
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1920000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.roqueperez.gob.ar/content/libre-deuda-municipal"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.roqueperez.gob.ar/content/libre-deuda-municipal",
+      "titulo": "Libre deuda municipal | Municipalidad de Roque Pérez",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T09:57:46.408Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina para realizar el trámite presencial.",
+    "Si el trámite requiere sacar turno y cómo hacerlo.",
+    "Si se aceptan copias o solo originales para la documentación de la deuda."
+  ]
+}

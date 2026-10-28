@@ -1,0 +1,80 @@
+{
+  "tramite": {
+    "slug": "importacion-productos-medicos-usados",
+    "nombre": "Importar productos médicos usados",
+    "nombre_busqueda": "importar productos medicos usados reacondicionamiento",
+    "resumen": "Trámite para empresas habilitadas o usuarios importadores (instituciones, clínicas) que desean importar productos médicos registrados ante ANMAT bajo modalidades de reacondicionamiento en el exterior, sin reacondicionamiento o reacondicionamiento en Argentina.",
+    "sinonimos": [
+      "importación de productos médicos usados",
+      "reacondicionamiento de productos médicos",
+      "importación PM usados"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMAT",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas habilitadas como importadores por ANMAT",
+      "Usuarios importadores: instituciones sanitarias, clínicas, hospitales y centros de diagnóstico"
+    ],
+    "requisitos": [
+      {
+        "texto": "Certificado de reacondicionamiento emitido por el fabricante o establecimiento en país de alta vigilancia",
+        "aclaracion": "Solo para productos reacondicionados en el exterior."
+      },
+      {
+        "texto": "Declaración jurada del monto a importar",
+        "aclaracion": "Solo para autorizaciones."
+      },
+      {
+        "texto": "Copias de la guía de transporte",
+        "aclaracion": "Solo para autorizaciones."
+      },
+      {
+        "texto": "Certificado de BPF/BPR o Constancia de habilitación sanitaria jurisdiccional",
+        "aclaracion": "En caso de importadores no habilitados por este INPM para tal fin."
+      },
+      {
+        "texto": "Información solicitada en el artículo 3° o 4° de la Disp. 224/26 según corresponda a la clase de riesgo y condición del PM",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciar el trámite de aviso de importación o autorización de importación a través de la plataforma TAD-BONITA o TAD según corresponda a la modalidad y si se es empresa habilitada o no."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/instructivo-para-actividades-de-reacondicionamiento-restauracion-reconstitucion-yo-0",
+      "titulo": "Instructivo para actividades de reacondicionamiento, restauración, reconstitución y/o verificación de buen funcionamiento de Productos Médicos usados | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T18:40:51.806Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de los aranceles no está especificado en el texto, consultar aranceles vigentes.",
+    "No se especifica el plazo de tramitación ni la vigencia exacta de la disposición."
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "tramite": {
+    "slug": "solicitar-el-alta-de-una-aplicacion-cliente-por-gde",
+    "nombre": "Solicitar el alta de una aplicación cliente por GDE",
+    "nombre_busqueda": "Alta de aplicación cliente GDE",
+    "resumen": "Solicitá el alta de credenciales de acceso para autenticar usuarios de tu sistema público a través de la plataforma Autenticar mediante Expediente Electrónico en GDE.",
+    "sinonimos": [
+      "Alta de aplicación cliente PAEC",
+      "Inscripción de aplicación cliente GDE"
+    ],
+    "temas": [
+      "gobierno-y-participacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Jefatura de Gabinete de Ministros",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El funcionario responsable del área dueña de la aplicación/trámite en cuestión, con cargo no inferior a Director."
+    ],
+    "requisitos": [
+      {
+        "texto": "Información completa sobre el Aplicación o Sistema que querés incorporar a Autenticar: Nombre, descripción y tecnología que utiliza.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Proveedor de Autenticación / Proceso de Autenticación que querés utilizar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "URL de redirección para un vez realizada la autenticación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Email: necesario para poder establecer contacto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Organismo: organismo administrador del Sistema o Aplicación que desea incorporarse a la plataforma PAEC.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombre del Sistema: nombre identificatorio del Sistema o Aplicación que desea incorporarse a la plataforma PAEC.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descripción del Sistema: breve descripción del Sistema o Aplicación que desea incorporarse a la plataforma PAEC.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tecnología en la que está desarrollado: tecnología en la cual el Sistema o Aplicación que desea incorporarse a la plataforma PAEC está desarrollado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Proveedor de Autenticación: seleccioná el o los Proveedores de identidad, de los que ofrecemos, con los que desea integrarse.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Por cada conjunto de proveedores de autenticación se debe indicar si se están conjugando (Y) o son alternativas (O).",
+        "aclaracion": null
+      },
+      {
+        "texto": "URL redirección: URL a la cual debe redirigirse cuando se termine el proceso de autenticación con el proveedor de autenticación elegido.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de carecer de una URL productiva debido a que el sistema se encuentra en proceso de desarrollo, deberán completar ese campo de la siguiente manera En Desarrollo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Concurrencia: se declara la cantidad de usuarios estimados que se espera que ingresen por mes a su sistema pasando por AUTENTICAR.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Aceptá términos y condiciones de uso de la plataforma.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Caratulá el expediente interno desde el módulo de Expediente Electrónico, con el código de tramite (MMOD00089 -Alta de Aplicación Cliente de PAEC) completando los siguientes datos."
+      },
+      {
+        "texto": "Realizá el PASE del Expediente Electrónico a la DNTDC#JGM, sector PAEC."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Las solicitudes se responden con los datos de alta en ambiente de testing, y deberás responderla con evidencias de que la integración se realizó con éxito para avanzar al ambiente productivo.",
+      "Para enviarnos la evidencia, deberás crear un documento y vincularlo al expediente generado.",
+      "Si debes rectificar la URL productiva lo podes hacer al final de este documento."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-el-alta-de-una-aplicacion-cliente-por-gde",
+      "titulo": "Solicitar el Alta de una Aplicación Cliente por GDE | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:13:21.162Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo de respuesta no está especificado en el texto.",
+    "La dirección de la oficina no está especificada en el texto."
+  ]
+}

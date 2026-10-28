@@ -1,0 +1,106 @@
+{
+  "tramite": {
+    "slug": "busqueda-de-empleo-y-seguro-de-desempleo",
+    "nombre": "Búsqueda de empleo y programas de empleo",
+    "nombre_busqueda": "Buscar empleo Berazategui",
+    "resumen": "Si tenés entre 18 y 64 años y no tenés trabajo registrado en los últimos 3 meses, podés inscribirte para la búsqueda de empleo y capacitaciones. También hay programas específicos para personas con discapacidad y alumnos de secundaria.",
+    "sinonimos": [
+      "Programa Fomentar Empleo",
+      "Programa Promover Igualdad de Oportunidades de Empleo",
+      "Mi Futuro Empleo"
+    ],
+    "temas": [
+      "busqueda-de-empleo-y-seguro-de-desempleo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060091",
+  "organismo": {
+    "nombre": "Municipalidad de Berazategui",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan entre 18 y 64 años inclusive y que en los últimos 3 meses no posean trabajo registrado.",
+      "Quienes tengan más de 18 años, estén desocupados y tengan algún tipo de discapacidad.",
+      "Alumnos de los últimos años de escuelas secundarias públicas y privadas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Ingresar a https://www.portalempleo.gob.ar/ o contactarse por correo electrónico a oeberazategui@trabajo.gob.ar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUIL.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado Único de Discapacidad (CUD).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Vivir en Berazategui.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar a https://www.portalempleo.gob.ar/ o contactarse por correo electrónico a oeberazategui@trabajo.gob.ar."
+      },
+      {
+        "texto": "Inscribirse para la búsqueda de empleo y realizar capacitaciones."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Según la actividad realizada variará el incentivo económico a recibir.",
+      "Recordá que es necesario vivir en Berazategui para participar de los programas."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Empleo",
+      "direccion": "Av. Milazzo 3251",
+      "localidad": "Av. Milazzo 3251",
+      "horario": null,
+      "fuente_url": "https://berazategui.gob.ar/empleo/"
+    },
+    {
+      "nombre": "Oficina de Empleo",
+      "direccion": "Parque Industrial Plátanos 4356-9200 int. 2280/2281",
+      "localidad": "Parque Industrial Plátanos 4356-9200 int. 2280/2281",
+      "horario": null,
+      "fuente_url": "https://berazategui.gob.ar/empleo/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://berazategui.gob.ar/empleo/",
+      "titulo": "Empleo – Municipalidad de Berazategui",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T21:52:30.810Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se especifica que es necesario vivir en Berazategui para participar de los programas, pero no se detalla si esto aplica a todos los casos o solo a los de capacitación.",
+    "No se especifica el monto exacto del incentivo económico ni si es gratuito o tiene costo."
+  ]
+}

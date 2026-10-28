@@ -1,0 +1,76 @@
+{
+  "tramite": {
+    "slug": "hospitales",
+    "nombre": "Hospitales",
+    "nombre_busqueda": "Hospitales Pilar",
+    "resumen": "Consultá la lista de hospitales del municipio y podés solicitar un turno online desde Mi Muni.",
+    "sinonimos": [],
+    "temas": [
+      "salud-y-prevencion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060638",
+  "organismo": {
+    "nombre": "Municipalidad del Pilar",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que necesite atención en los hospitales municipales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Turno solicitado en el sistema Mi Muni.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Accedé al sitio web del municipio."
+      },
+      {
+        "texto": "Ingresá a la sección de Turnos Mi Muni."
+      },
+      {
+        "texto": "Solicitá un turno para atenderte."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://pilar.gov.ar/hospitales/",
+      "titulo": "Hospitales - Municipio Pilar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T16:35:25.504Z"
+    },
+    {
+      "url": "https://www.pilar.gov.ar/mimuni/",
+      "titulo": "Turnos Mi Muni",
+      "bloques": [
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T16:35:25.504Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de las oficinas no especificada en el texto.",
+    "Horarios de atención no especificados en el texto.",
+    "Costos de los trámites no especificados en el texto."
+  ]
+}

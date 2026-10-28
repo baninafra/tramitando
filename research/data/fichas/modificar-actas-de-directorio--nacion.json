@@ -1,0 +1,78 @@
+{
+  "tramite": {
+    "slug": "modificar-actas-de-directorio",
+    "nombre": "Modificar actas de directorio",
+    "nombre_busqueda": "modificar actas de directorio",
+    "resumen": "Declará y/o modificá las autoridades vigentes y el correo electrónico oficial de tu empresa de transporte automotor de forma gratuita y en línea.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas de transporte automotor"
+    ],
+    "requisitos": [
+      {
+        "texto": "Acta de directorio inscripta ante Inspección General de Justicia relacionada a autoridades, poderes y todo cambio societario pertinente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formularios de declaraciones juradas de datos básicos F01 - F02.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave fiscal de nivel 3.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Presentá la documentación a través de TAD."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/modificar-actas-de-directorio",
+      "titulo": "Modificar actas de directorio | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T06:12:09.551Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T06:12:09.551Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina para trámites presenciales (si aplica)",
+    "Horarios de atención de las oficinas",
+    "Plazo estimado de resolución del trámite",
+    "Vigencia de la documentación presentada"
+  ]
+}

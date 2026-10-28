@@ -1,0 +1,95 @@
+{
+  "tramite": {
+    "slug": "presentar-garantia-acp",
+    "nombre": "Presentar la garantía de los acuerdos de cooperación productiva acp",
+    "nombre_busqueda": "presentar garantia acuerdos cooperacion productiva",
+    "resumen": "Si sos proveedor adjudicatario de una contratación con ACP, tenés que presentar la garantía equivalente al monto total de los compromisos asumidos en el plazo de 5 días.",
+    "sinonimos": [
+      "garantia acuerdos cooperacion productiva",
+      "cumplimiento acp"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Secretaría de Industria y Desarrollo Productivo",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Proveedores de la Administración Pública Nacional o de una empresa o sociedad del Estado Nacional adjudicatarios de una contratación en la que se le aprobó un Acuerdo de Cooperación Productiva."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener CUIT y clave fiscal nivel 3 en AFIP.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener Trámites a Distancia (TAD) asociado a AFIP.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estar inscripto en el Registro Único de la Matriz Productiva (RUMP).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a Trámites a Distancia."
+      },
+      {
+        "texto": "Elegí entre iniciar el trámite con tu clave fiscal o con Mi Argentina."
+      },
+      {
+        "texto": "Ingresá tu CUIT/CUIL o pasaporte extranjero y tu contraseña."
+      },
+      {
+        "texto": "Completá el formulario con los datos solicitados."
+      },
+      {
+        "texto": "Adjuntá la garantía y el formulario de detalle de actividades."
+      },
+      {
+        "texto": "Enviá para finalizar."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "5 días",
+    "consejos": [
+      "Una vez finalizado este trámite, vas a tener que informar el cumplimento del ACP."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/presentar-la-garantia-de-los-acuerdos-de-cooperacion-productiva-acp",
+      "titulo": "Presentar la Garantía de los Acuerdos de Cooperación Productiva (ACP) | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T01:23:14.134Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T01:23:14.134Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si no sabés si requiere turno, requiere_turno: null."
+  ]
+}

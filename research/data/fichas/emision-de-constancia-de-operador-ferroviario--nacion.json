@@ -1,0 +1,72 @@
+{
+  "tramite": {
+    "slug": "emision-de-constancia-de-operador-ferroviario",
+    "nombre": "Emisión de constancia de operador ferroviario",
+    "nombre_busqueda": "constancia operador ferroviario",
+    "resumen": "Este trámite permite generar en el sistema la emisión de una constancia de inscripción para personas o jurídicas reconocidas como operadores ferroviarios en el ReNOF.",
+    "sinonimos": [],
+    "temas": [
+      "transporte-publico-y-viajes",
+      "trenes-y-micros"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Comisión Nacional de Regulación del Transporte",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas humanas o jurídicas reconocidas como operadores ferroviarios en el ReNOF que requieran una constancia de inscripción."
+    ],
+    "requisitos": [
+      {
+        "texto": "Descargar y completar el Formulario ReNOF 07.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar el comprobante de pago del servicio solicitado ingresando a Gestión Electrónica de Pagos.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá la solicitud por TAD."
+      },
+      {
+        "texto": "La clave fiscal debe ser de nivel 3."
+      },
+      {
+        "texto": "Generá la constancia en el sistema."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La constancia será válida por 90 días contados a partir de la fecha de emisión."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/emision-de-constancia-de-operador-ferroviario",
+      "titulo": "Emisión de constancia de Operador Ferroviario | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-26T15:26:32.609Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del costo no se especifica en el texto, solo se indica que se debe acceder a la tabla de valores según categoría."
+  ]
+}

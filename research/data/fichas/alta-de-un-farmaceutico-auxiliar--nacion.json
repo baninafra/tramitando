@@ -1,0 +1,83 @@
+{
+  "tramite": {
+    "slug": "alta-de-un-farmaceutico-auxiliar",
+    "nombre": "Alta de un farmacéutico auxiliar",
+    "nombre_busqueda": "Alta de un farmacéutico auxiliar",
+    "resumen": "Trámite para autorizar el ingreso de un farmacéutico auxiliar a un establecimiento. Se realiza online en TAD y es gratuito.",
+    "sinonimos": [],
+    "temas": [
+      "cuidados-domiciliarios-y-salud-mental"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titular del establecimiento",
+      "Apoderado"
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de solicitud online en TAD",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de presentación de conformidad de aceptación de cargo firmada conjuntamente del presentante, el Director Técnico Titular y el Farmacéutico Auxiliar ingresante, o certificar por banco de escribano",
+        "aclaracion": null
+      },
+      {
+        "texto": "Disposición de Habilitación del Establecimiento",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Libre Regencia del Profesional Farmacéutico, emitido por Ministerio de Salud de la Provincia de Buenos Aires o Colegio de Farmacéuticos de la Provincia de Buenos Aires",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota en puño y letra indicando que el trámite es no arancelado de acuerdo a la Resolución Ministerial N° 1938/2025 (si no se modificó en TAD)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave fiscal nivel 2 o superior de la AFIP o Apoderamiento en trámites a distancia",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al TAD, trámite Alta de farmacéutico auxiliar, con clave fiscal y CUIT"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Para hacer el Trámite a Distancia (TAD) se recomienda ingresar desde una CPU a través de Mozilla Firefox o Google Chrome, no mediante celulares u otros dispositivos móviles porque se han detectado inconvenientes"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/alta-de-un-farmaceutico-auxiliar",
+      "titulo": "Alta de un farmacéutico auxiliar | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:30:01.457Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Fecha de vigencia de la Resolución Ministerial N° 1938/2025 que hace gratuito el trámite",
+    "Si el ítem Comprobante de pago ya fue modificado en la plataforma TAD"
+  ]
+}

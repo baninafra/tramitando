@@ -1,0 +1,72 @@
+{
+  "tramite": {
+    "slug": "prestamo-de-libros",
+    "nombre": "Préstamo de Libros",
+    "nombre_busqueda": "Préstamo de Libros",
+    "resumen": "Solicita libros tradicionales o académicos en formato físico o PDF si sos socio de la biblioteca.",
+    "sinonimos": [],
+    "temas": [
+      "educacion-y-estudios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060760",
+  "organismo": {
+    "nombre": "Municipalidad San Miguel",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Socios de la biblioteca"
+    ],
+    "requisitos": [
+      {
+        "texto": "Carnet de socio",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el carnet de socio en la biblioteca."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Biblioteca",
+      "direccion": "Sarmiento 1503",
+      "localidad": "San Miguel",
+      "horario": null,
+      "fuente_url": "https://www.msm.gov.ar/guia-tramites/cultura/prestamo-de-libros/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.msm.gov.ar/guia-tramites/cultura/prestamo-de-libros/",
+      "titulo": "Préstamo de Libros - Municipalidad San Miguel",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T13:07:12.401Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horarios de atención: Lunes a viernes de 10 a 12hs y de 14 a 16hs.",
+    "Contacto: Teléfono 4664-1840 o correo bibliotecadfs@hotmail.com.",
+    "Vigencia del documento: Un mes.",
+    "Vigencia de la renovación: A partir del mes siguiente."
+  ]
+}

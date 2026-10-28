@@ -1,0 +1,79 @@
+{
+  "tramite": {
+    "slug": "planes-de-pago-municipales",
+    "nombre": "Consulta de Deudas Municipales y Medios de Pago",
+    "nombre_busqueda": "Consulta deudas Chascomús",
+    "resumen": "Consultá si tenés deudas con la Municipalidad de Chascomús y podés ver los medios de pago disponibles para cancelarlas.",
+    "sinonimos": [
+      "Consulta deudas tributos",
+      "Pago de tasas vencidas",
+      "Ver deudas municipales"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "planes-de-pago-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060218",
+  "organismo": {
+    "nombre": "Municipalidad de Chascomús",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que tenga deudas con la Municipalidad de Chascomús."
+    ],
+    "requisitos": [
+      {
+        "texto": "Acceso a internet o conexión telefónica.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio web de la Municipalidad de Chascomús."
+      },
+      {
+        "texto": "Buscá la sección de 'Consulta de Deudas Tributos Municipales' o similar."
+      },
+      {
+        "texto": "Ingresá con tu identidad (DNI o CUIT) para consultar tus deudas."
+      },
+      {
+        "texto": "Seguí los pasos indicados para realizar el pago si tenés deudas."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Recordá que podés pagar por cualquiera de los canales de pago habilitados.",
+      "Para cancelar tus deudas con las bonificaciones vigentes completá el siguiente formulario."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://chascomus.gob.ar/municipio/estaticas/consultaDeudas",
+      "titulo": "Consulta de Deudas Tributos Municipales",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T05:21:47.108Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los montos exactos de las deudas y las tasas específicas no se detallan en el texto.",
+    "No se especifican los requisitos documentales para realizar la consulta o el pago."
+  ]
+}

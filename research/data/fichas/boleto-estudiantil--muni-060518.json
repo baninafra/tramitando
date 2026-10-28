@@ -1,0 +1,85 @@
+{
+  "tramite": {
+    "slug": "boleto-estudiantil-municipal",
+    "nombre": "Boleto Estudiantil Municipal",
+    "nombre_busqueda": "Boleto estudiantil Mar Chiquita",
+    "resumen": "El trámite permite solicitar el boleto estudiantil a residentes del Partido de Mar Chiquita con antigüedad comprobable de al menos un año, presentando certificado de alumno regular y encuesta socioeconómica.",
+    "sinonimos": [],
+    "temas": [
+      "educacion-y-estudios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060518",
+  "organismo": {
+    "nombre": "Municipalidad de Mar Chiquita",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Residentes con domicilio legal en el Partido de Mar Chiquita con una antigüedad comprobable no inferior a 1 año."
+    ],
+    "requisitos": [
+      {
+        "texto": "Certificado de alumno regular, emitido por la institución educativa a la cual asista.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Encuesta socio económica emitida por la Secretaría de Desarrollo Social.",
+        "aclaracion": "Una vez se apruebe la fase de inscripción al boleto estudiantil."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Registrate en la oficina virtual municipal."
+      },
+      {
+        "texto": "Completa el formulario de solicitud."
+      },
+      {
+        "texto": "Cargá los documentos requeridos."
+      },
+      {
+        "texto": "Realizá el pago online."
+      },
+      {
+        "texto": "Recibí tu cupón digital."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.marchiquita.gob.ar/boleto-estudiantil/",
+      "titulo": "Boleto Estudiantil – MUNICIPALIDAD DE MAR CHIQUITA",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T15:09:54.679Z"
+    },
+    {
+      "url": "https://oficinavirtual.marchiquita.gob.ar/",
+      "titulo": "OFICINA VIRTUAL MUNICIPALIDAD DE MAR CHIQUITA",
+      "bloques": [
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T15:09:54.679Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere antigüedad comprobable de al menos un año en el Partido de Mar Chiquita.",
+    "No se especifica el monto del boleto estudiantil.",
+    "No se especifica el plazo de tramitación.",
+    "No se especifica si se requiere turno para la atención presencial."
+  ]
+}

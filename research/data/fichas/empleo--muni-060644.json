@@ -1,0 +1,76 @@
+{
+  "tramite": {
+    "slug": "busqueda-de-empleo-y-seguro-de-desempleo",
+    "nombre": "Buscar empleo público",
+    "nombre_busqueda": "Empleo público Pinamar",
+    "resumen": "La Oficina de Empleo intermedia con el sector privado para ofrecer ofertas laborales. No hay concursos públicos ni personal municipal a contratar.",
+    "sinonimos": [
+      "Oferta laboral privada",
+      "Búsqueda de empleo privado"
+    ],
+    "temas": [
+      "busqueda-de-empleo-y-seguro-de-desempleo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060644",
+  "organismo": {
+    "nombre": "Oficina de Empleo",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en postularse a ofertas laborales del sector privado."
+    ],
+    "requisitos": [
+      {
+        "texto": "Leer bien los requisitos de cada oferta laboral antes de postularse.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Consultar sobre las condiciones de contratación ofrecidas antes de aceptar.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Escribinos a la Oficina de Empleo con el número de referencia y envianos tu CV por WhatsApp."
+      },
+      {
+        "texto": "Presentate para entrevista presencial en la oficina de empleo."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Empleo",
+      "direccion": "Av.Bunge 2100",
+      "localidad": "Pinamar",
+      "horario": null,
+      "fuente_url": "https://pinamar.gob.ar/empleo/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://pinamar.gob.ar/empleo/",
+      "titulo": "Empleo – Municipalidad de Pinamar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T16:52:24.703Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horario de atención: Lunes a Viernes de 7.30 a 13.30 hs."
+  ]
+}

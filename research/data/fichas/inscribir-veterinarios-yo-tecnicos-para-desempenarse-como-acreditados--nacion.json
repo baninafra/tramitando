@@ -1,0 +1,131 @@
+{
+  "tramite": {
+    "slug": "inscripcion-de-veterinarios-yo-tecnicos-para-acreditarse",
+    "nombre": "Inscribir veterinarios y técnicos para acreditarse",
+    "nombre_busqueda": "Inscribir veterinarios y técnicos para acreditarse",
+    "resumen": "Trámite único para que veterinarios privados y técnicos se acrediten o reacrediten ante el Senasa. Es gratuito, se hace online y la acreditación tiene vigencia de 4 años.",
+    "sinonimos": [
+      "Acreditación veterinaria Senasa",
+      "Reacreditación veterinaria",
+      "Inscripción veterinarios técnicos Senasa"
+    ],
+    "temas": [
+      "cursos-y-formacion-laboral"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Sanidad Animal",
+    "sigla": "DNSA",
+    "web": "https://www.argentina.gob.ar/senasa"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Veterinarios privados",
+      "Técnicos privados",
+      "Inspectores sanitarios",
+      "Vacunadores",
+      "Otros operadores privados autorizados por el Senasa"
+    ],
+    "requisitos": [
+      {
+        "texto": "Clave fiscal",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUIL vinculado al servicio del Senasa",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio electrónico registrado en SIGTrámites",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título veterinario (si se requiere en el curso)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma de la ARCA"
+      },
+      {
+        "texto": "Adherí el Servicio del SENASA-SAC"
+      },
+      {
+        "texto": "Cerrá tu sesión en ARCA y volvé a ingresar"
+      },
+      {
+        "texto": "Desde tus aplicaciones ingresá a SAC"
+      },
+      {
+        "texto": "Completá tus datos profesionales y personales"
+      },
+      {
+        "texto": "Inscribite al curso de acreditación o reacreditación deseado"
+      },
+      {
+        "texto": "Realizá el examen checklist durante la semana del curso"
+      },
+      {
+        "texto": "Esperá tres semanas para descargar la credencial"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La inscripción a los cursos virtuales comienza el primer día hábil de cada mes y dura 2 semanas",
+      "Las vacantes son limitadas por mes",
+      "El curso dura una semana",
+      "Se aprueba con 7 sobre 10",
+      "La acreditación tiene vigencia de 4 años",
+      "Si pasaron más de 3 años desde la primera acreditación, debés reacreditarte en el último año del período de vigencia",
+      "Para la reacreditación se usa la modalidad de autogestión con checklist"
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Ámbito de atención y asistencia primaria del Senasa",
+      "direccion": "Av. Paseo Colón N° 367, Piso 4°, C1063ACD",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-veterinarios-yo-tecnicos-para-desempenarse-como-acreditados"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribir-veterinarios-yo-tecnicos-para-desempenarse-como-acreditados",
+      "titulo": "Inscribir veterinarios y/o técnicos para desempeñarse como acreditados | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T17:17:43.433Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/capacitacion/veterinarios-acreditados",
+      "titulo": "Veterinarios y técnicos acreditados | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T17:17:43.433Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia de la acreditación (AAAA-MM-DD)",
+    "El monto exacto en centavos si no es gratuito (confirmado como gratuito)"
+  ]
+}

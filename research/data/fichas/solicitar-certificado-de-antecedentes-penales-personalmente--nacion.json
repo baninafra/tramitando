@@ -1,0 +1,128 @@
+{
+  "tramite": {
+    "slug": "solicitar-certificado-de-antecedentes-penales-personalmente",
+    "nombre": "Solicitar certificado de antecedentes penales personalmente",
+    "nombre_busqueda": "Certificado de antecedentes penales",
+    "resumen": "Si tenés DNI argentino y más de 18 años, podés tramitarlo en las sedes habilitadas con turno. El certificado certifica que no tenés antecedentes penales pendientes.",
+    "sinonimos": [
+      "Certificado de Antecedentes Penales",
+      "CAP"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro Nacional de Reincidencia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Si tenés DNI argentino y más de 18 años."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento Nacional de Identidad emitido por el Registro Nacional de las Personas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cuenta de correo electrónico a tu nombre para que te enviemos el certificado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de solicitud completo, con firma y aclaración de puño y letra.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Boleta o comprobante de pago impreso.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la turnera del Registro Nacional de Reincidencia, elegí el país donde vas a hacer el trámite y, en el caso de la Argentina, la provincia."
+      },
+      {
+        "texto": "Al final de la página, hacé clic en 'Siguiente'."
+      },
+      {
+        "texto": "Elegí sede, día y hora del turno y la modalidad."
+      },
+      {
+        "texto": "Después de que completes y confirmes el formulario, vas a recibir por correo electrónico un volante de pago."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Imprimí el volante y abonalo en una sucursal de Provincia NET."
+      },
+      {
+        "texto": "Presentate en la sede con el original y fotocopia de tu DNI, el formulario de solicitud completo, con firma y aclaración de puño y letra, y el boleta o comprobante de pago impreso."
+      },
+      {
+        "texto": "Pasado el plazo de la modalidad que elegiste, vas a recibir un último correo electrónico con un vínculo para que descargues tu certificado de antecedentes penales."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-antecedentes-penales-personalmente",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 850000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-antecedentes-penales-personalmente"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 480000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-antecedentes-penales-personalmente"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 240000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-antecedentes-penales-personalmente"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 100000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-antecedentes-penales-personalmente"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-antecedentes-penales-personalmente",
+      "titulo": "Solicitar certificado de antecedentes penales personalmente | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:16:28.902Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo exacto del trámite no está especificado en el texto, solo se menciona el plazo de vigencia del certificado.",
+    "La dirección exacta de las sedes habilitadas no está especificada en el texto, solo se indica que se debe elegir una sede en la turnera."
+  ]
+}

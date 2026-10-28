@@ -1,0 +1,89 @@
+{
+  "tramite": {
+    "slug": "generar-dut-para-viajes-de-turismo",
+    "nombre": "Generar DUT para viajes de turismo",
+    "nombre_busqueda": "generar dut turismo",
+    "resumen": "Las empresas con permisos de transporte para el turismo pueden generar el Documento Universal de Transporte (DUT) de forma gratuita en línea. El documento certifica las condiciones de seguridad de vehículos y conductores y debe exhibirse durante el viaje.",
+    "sinonimos": [],
+    "temas": [
+      "transporte-publico-y-viajes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Comisión Nacional de Regulación del Transporte",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas con permisos de transporte para el turismo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Dominios habilitados, con RTO y seguro vigentes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Conductores con LiNTI vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Responsable de control y Responsable de administración asignados en el sistema de Autogestión.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar al sitio web de DUT con nombre de usuario o CUIL."
+      },
+      {
+        "texto": "Declarar DUT."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La vigencia del DUT es hasta la finalización del viaje."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/generar-dut-para-viajes-de-turismo",
+      "titulo": "Generar DUT para viajes de turismo | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-26T15:36:31.346Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T15:36:31.346Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/cdn-cgi/content?id=X_aQ1udD1Pv1fuja57GUKg4qFE_4MDR7O1iuq8osudY-1792994478.0141928-1.2.1.1-a1onhJtUdZsUyixLSJVFKq2h0Yjba0QEFXU_Nuuf0P1qw9LttfikeI.xhZi6VRBw",
+      "titulo": "Biorefining: Unlocking the Potential of Biomass",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T15:36:31.346Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere asistencia de un gestor para la realización del trámite."
+  ]
+}

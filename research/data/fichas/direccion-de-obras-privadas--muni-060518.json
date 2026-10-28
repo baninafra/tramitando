@@ -1,0 +1,129 @@
+{
+  "tramite": {
+    "slug": "permiso-de-construccion-obra-nueva",
+    "nombre": "Permiso de Construcción - Obra Nueva",
+    "nombre_busqueda": "Permiso de construcción obra nueva",
+    "resumen": "Solicitud de visado y aprobación de planos para nuevas construcciones en predios particulares, ajustándose al Reglamento de Edificación vigente.",
+    "sinonimos": [
+      "Permiso de construcción",
+      "Visado de planos obra nueva",
+      "Aprobación de planos construcción"
+    ],
+    "temas": [
+      "obras-y-construccion",
+      "permiso-de-obra-y-planos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060518",
+  "organismo": {
+    "nombre": "Municipalidad de Mar Chiquita",
+    "sigla": null,
+    "web": "https://www.marchiquita.gob.ar/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Propietarios de predios particulares que realicen construcciones en su terreno."
+    ],
+    "requisitos": [
+      {
+        "texto": "Croquis de ubicación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota dirigida al Intendente solicitando aprobación de planos (con firmas de propietario y profesional).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitud de construcción con datos completos: Propietario (apellido y nombres, domicilio legal, teléfono y firma), Profesional (firma, sello, mail, domicilio legal y teléfono).",
+        "aclaracion": null
+      },
+      {
+        "texto": "5 copias de plano de construcción (TODOS visados por el Colegio).",
+        "aclaracion": null
+      },
+      {
+        "texto": "4 copias de plano de desagües.",
+        "aclaracion": null
+      },
+      {
+        "texto": "4 copias de plano de estructura, si fuera necesario.",
+        "aclaracion": null
+      },
+      {
+        "texto": "4 copias de plano de electricidad (TODOS visados por el Colegio).",
+        "aclaracion": null
+      },
+      {
+        "texto": "En carátula de plano debe constar impreso: Propietario (Firma y aclaración de firma), Profesional (firma, aclaración de firma, título, matrícula municipal, matrícula profesional).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contrato profesional visado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planilla anexa o desarrollo del visado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Escritura (1 o 2 fotocopias, según corresponda).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pagar sellado de ingreso de trámite.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Libre deuda impuestos municipales.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentar la documentación completa en la Dirección de Obras Privadas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Obras Privadas",
+      "direccion": "Coronel Vidal y Santa Clara del Mar",
+      "localidad": "Coronel Vidal y Santa Clara del Mar",
+      "horario": null,
+      "fuente_url": "https://www.marchiquita.gob.ar/direccion-de-obras-privadas/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.marchiquita.gob.ar/direccion-de-obras-privadas/",
+      "titulo": "Obras Privadas – MUNICIPALIDAD DE MAR CHIQUITA",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "consejos",
+        "donde",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T15:18:24.307Z"
+    },
+    {
+      "url": "https://oficinavirtual.marchiquita.gob.ar/",
+      "titulo": "OFICINA VIRTUAL MUNICIPALIDAD DE MAR CHIQUITA",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T15:18:24.307Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se indica que se puede realizar el trámite por internet en la página de la oficina virtual, pero no se detallan los pasos específicos ni se confirma si se requiere turno online.",
+    "No se especifica el monto exacto del sellado de ingreso de trámite ni de la tasa por revisión técnica en centavos."
+  ]
+}

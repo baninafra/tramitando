@@ -1,0 +1,83 @@
+{
+  "tramite": {
+    "slug": "autorizacion-ingreso-alimentos-uso-personal",
+    "nombre": "Autorización de ingreso de alimentos para uso personal",
+    "nombre_busqueda": "Autorización de ingreso de alimentos para uso personal",
+    "resumen": "Este trámite permite la importación de un alimento o suplemento dietario para consumo exclusivo del individuo importador, quedando prohibida su venta. Se encuentra alcanzado por el silencio administrativo.",
+    "sinonimos": [],
+    "temas": [
+      "asistencia-alimentaria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El individuo importador."
+    ],
+    "requisitos": [
+      {
+        "texto": "Copia de factura",
+        "aclaracion": null
+      },
+      {
+        "texto": "Conocimiento de embarque / carta de porte / guía aérea",
+        "aclaracion": null
+      },
+      {
+        "texto": "Detalle completo de la composición de ingredientes tal cual consta en el rótulo del envase del/los producto/s a importar",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar en la plataforma TAD"
+      },
+      {
+        "texto": "Adjuntar los documentos y completar los formularios"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El plazo estipulado para su configuración es de 1 día hábil después de haber acreditado el cumplimiento de las condiciones previstas para el otorgamiento de la autorización administrativa."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-autorizacion-de-ingreso-de-alimentos-para-uso-personal",
+      "titulo": "Solicitar la autorización de ingreso de alimentos para uso personal | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T09:17:56.021Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T09:17:56.021Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no menciona el monto del trámite ni si es gratuito.",
+    "El texto no especifica si se requiere turno para realizar el trámite.",
+    "El texto no indica la dirección de las oficinas ni la localidad."
+  ]
+}

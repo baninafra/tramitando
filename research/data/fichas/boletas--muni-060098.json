@@ -1,0 +1,66 @@
+{
+  "tramite": {
+    "slug": "boletas-y-vencimientos",
+    "nombre": "Descarga de boleta de TSG",
+    "nombre_busqueda": "Descargar boleta TSG",
+    "resumen": "Permití descargar la boleta de pago de la Tasa por Servicios Generales (TSG) desde la página oficial de la Municipalidad de Berisso.",
+    "sinonimos": [
+      "Boleta TSG",
+      "Pago TSG",
+      "Descargar boleta servicios generales"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "tasa-inmobiliaria-y-servicios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060098",
+  "organismo": {
+    "nombre": "Municipalidad de Berisso",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en descargar su boleta de pago."
+    ],
+    "requisitos": [
+      {
+        "texto": "Seleccioná la boleta de TSG en el listado disponible.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Entrá a la página de boletas de la Municipalidad de Berisso."
+      },
+      {
+        "texto": "Seleccioná la opción de boleta TSG - Tasa por Servicios Generales."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://boletas.berisso.gob.ar/boletas",
+      "titulo": "Boletas",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T11:16:47.207Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos, plazos ni requisitos adicionales en el texto."
+  ]
+}

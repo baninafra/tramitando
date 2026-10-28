@@ -1,0 +1,92 @@
+{
+  "tramite": {
+    "slug": "rectificacion-dni-reconocimiento-identidad-genero",
+    "nombre": "Rectificación de DNI por reconocimiento de identidad de género",
+    "nombre_busqueda": "DNI identidad de género",
+    "resumen": "Actualizá tu DNI con tus datos de identidad de género actualizados tras haber rectificado tu partida de nacimiento. Es un trámite gratuito que lleva 15 minutos y requiere constancia de turno.",
+    "sinonimos": [
+      "DNI identidad de género",
+      "DNI reconocimiento identidad de género",
+      "DNI identidad de género renaper"
+    ],
+    "temas": [
+      "dni"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Renaper",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Toda persona que quiera ejercer su derecho a la identidad de género en nuestro país."
+    ],
+    "requisitos": [
+      {
+        "texto": "Copia certificada de la partida de nacimiento rectificada con o sin oblea, la que deberá contar con sello y firma ológrafa del oficial público o extendida con firma digital, sin importar su fecha de expedición.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si tu nacionalidad argentina fue tramitada por opción o carta de ciudadanía, se sustituye el requisito de la partida de nacimiento por el formulario correspondiente, establecido a partir de la Resolución 493/13.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si es para un menor de 14 años, acompañamiento del padre, madre o representante legal; y su DNI.",
+        "aclaracion": "Si sos menor de 14 años."
+      },
+      {
+        "texto": "Acreditación del representante legal, cuando corresponda: Oficio judicial o testimonio de tutela del menor de edad. Es otorgado por el juzgado. Debe contar con sello y firma del juez, secretario o funcionario autorizado a extender oficios en cumplimiento de mandas judiciales.",
+        "aclaracion": "Si sos menor de 14 años."
+      },
+      {
+        "texto": "Si el menor se encuentra en una institución de cuidado u hogar de menores: Autorización de representación firmada y sellada por la autoridad competente que corresponda. Oficio judicial o testimonio de guarda provisoria con fines de adopción. Debe contar con sello y firma del juez, secretario o func…",
+        "aclaracion": "Si sos menor de 14 años."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Solicitá la rectificación de tu partida de nacimiento en cualquier Registro Civil. Elegí el Registro Civil más cercano, dentro de la jurisdicción donde tengas domicilio o sacá turno para un Centro de Documentación Renaper en la app Mi Argentina."
+      },
+      {
+        "texto": "Presentate en la oficina elegida, si es en un Centro de Documentación Renaper con la constancia de turno."
+      },
+      {
+        "texto": "Si sos mayor de 14 años, podés solicitar también el DNI en tu celular. Guardá la constancia de solicitud de trámite y hacé el seguimiento online con tu ID desde aquí."
+      },
+      {
+        "texto": "Cuando va el correo a tu domicilio, recibilo vos o alguien mayor de 18 años con la constancia de solicitud de trámite. Si vas a retiralo a una oficina, presentate con la constancia de solicitud de trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": "15 minutos",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tramitar-rectificacion-de-dni-por-reconocimiento-de-identidad-de-genero",
+      "titulo": "Tramitar rectificación de DNI por reconocimiento de identidad de género | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T00:58:14.283Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de oficinas",
+    "Localidad de oficinas",
+    "Nombre de oficinas",
+    "Vigencia exacta del trámite"
+  ]
+}

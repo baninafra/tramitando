@@ -1,0 +1,58 @@
+{
+  "tramite": {
+    "slug": "registro-titularidad-inmueble",
+    "nombre": "Registro de titularidad del inmueble",
+    "nombre_busqueda": "registrar el titular de un inmueble",
+    "resumen": "Registrá o actualizá los datos de titularidad de un inmueble en el Catastro Municipal de Magdalena. Sirve para identificar correctamente al propietario y mantener actualizada la base catastral.",
+    "sinonimos": [],
+    "temas": [
+      "catastro-e-inmuebles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060505",
+  "organismo": {
+    "nombre": "Catastro Territorial",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes necesiten registrar o actualizar la titularidad de un inmueble en el Catastro Municipal."
+    ],
+    "requisitos": [
+      {
+        "texto": "Escritura traslativa de dominio inscripta en el Registro de la Propiedad Inmueble de la Provincia de Buenos Aires.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI de quien solicita el trámite.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://magdalena.gob.ar/detalle-guia-de-tramites-y-servicios/registro-de-titularidad-del-inmueble/",
+      "titulo": "Registro de Titularidad del Inmueble : Magdalena",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T14:57:44.748Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa el costo del trámite.",
+    "No se detallan los pasos para realizarlo, si requiere turno, los plazos ni la oficina de atención."
+  ]
+}

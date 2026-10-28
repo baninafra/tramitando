@@ -1,0 +1,88 @@
+{
+  "tramite": {
+    "slug": "afectacion-bien-de-familia",
+    "nombre": "Afectación al Régimen de Protección de la Vivienda (Bien de Familia)",
+    "nombre_busqueda": "Afectar bien de familia",
+    "resumen": "Trámite para registrar un inmueble como Bien de Familia ante el Registro de la Propiedad Inmueble. Se requiere presentar documentos originales y copias de los constituyentes y beneficiarios.",
+    "sinonimos": [
+      "Afectar vivienda como bien de familia",
+      "Registro de Bien de Familia"
+    ],
+    "temas": [
+      "vivienda-y-servicios-del-hogar"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060189",
+  "organismo": {
+    "nombre": "Registro de la Propiedad Inmueble",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Constituyentes del inmueble",
+      "Beneficiarios del bien de familia"
+    ],
+    "requisitos": [
+      {
+        "texto": "Original y fotocopia del Título de Propiedad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI del/los constituyentes",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI de los beneficiarios",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de CUIL/CUIT de los constituyentes",
+        "aclaracion": null
+      },
+      {
+        "texto": "Libreta de Casamiento o Partida de Matrimonio o Certificado de Unión Convivencial",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Nacimiento de los hijos",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://dorrego.gob.ar/mun/direcciones/administracion/menu/legales/bien-de-familia.php",
+      "titulo": "Legales - Bien de Familia",
+      "bloques": [
+        "quien",
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T22:25:45.607Z"
+    },
+    {
+      "url": "https://dorrego.gob.ar/mun/direcciones/administracion/menu/hacienda/oficinas.php",
+      "titulo": "Hacienda - Oficinas",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T22:25:45.607Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de la oficina de Registro de la Propiedad Inmueble en Coronel Dorrego",
+    "Horarios de atención de la oficina",
+    "Métodos de pago aceptados en la oficina",
+    "Plazo de tramitación estimado",
+    "Si se requiere turno previo para la presentación"
+  ]
+}

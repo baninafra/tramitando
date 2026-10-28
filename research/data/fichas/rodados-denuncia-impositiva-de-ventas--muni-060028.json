@@ -1,0 +1,75 @@
+{
+  "tramite": {
+    "slug": "rodados-denuncia-impositiva-de-ventas",
+    "nombre": "Rodados – Denuncia Impositiva de Ventas",
+    "nombre_busqueda": "Rodados denuncia impositiva ventas",
+    "resumen": "Trámite municipal donde el titular registral informa la venta de un vehículo para deslindar responsabilidades fiscales futuras hasta que se complete el cambio de titularidad.",
+    "sinonimos": [],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060028",
+  "organismo": {
+    "nombre": "Municipio de Almirante Brown",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titular registral"
+    ],
+    "requisitos": [
+      {
+        "texto": "Presentación del DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de Denuncia de Venta entregado por el DNRPA",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el DNI."
+      },
+      {
+        "texto": "Recibí el Formulario de Denuncia de Venta entregado por el DNRPA."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dpto. Registro Deudores",
+      "direccion": "Rosales 1312 de Adrogué, Planta Baja",
+      "localidad": "Adrogué",
+      "horario": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/rodados-denuncia-impositiva-de-ventas/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.brown.gob.ar/tramites/rodados-denuncia-impositiva-de-ventas/",
+      "titulo": "Rodados – Denuncia Impositiva de Ventas",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T01:20:47.701Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere acceso a la Suite RAFAM para gestionar pagos, pero no se especifica el monto ni si es obligatorio para este trámite específico en el texto.",
+    "No se indica si el trámite requiere turno."
+  ]
+}

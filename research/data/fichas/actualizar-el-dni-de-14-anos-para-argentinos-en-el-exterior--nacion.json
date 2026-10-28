@@ -1,0 +1,106 @@
+{
+  "tramite": {
+    "slug": "actualizar-dni-14-anos-argentinos-exterior",
+    "nombre": "Actualizar el DNI de 14 años para argentinos en el exterior",
+    "nombre_busqueda": "Actualizar DNI 14 años exterior",
+    "resumen": "Si sos argentino, naciste en Argentina y cumpliste 14 años, tenés que actualizar tu DNI en el Consulado Argentino que te corresponde por tu domicilio. Si sos menor, necesitás hacerlo acompañado por alguno de tus padres.",
+    "sinonimos": [
+      "Renovación DNI 14 años",
+      "Actualización DNI menores 14 años"
+    ],
+    "temas": [
+      "dni"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Jóvenes argentinos que viven en el extranjero y ya cumplieron 14 años."
+    ],
+    "requisitos": [
+      {
+        "texto": "Partida de nacimiento (original).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento Nacional de Identidad (DNI).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dos (2) fotos 4cm x 4cm, de frente, busto superior, fondo blanco, sin anteojos ni sombrero.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI original de, al menos, uno de tus padres (para mayores de 18 y menores de 20 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dos (2) testigos ante el Consulado Argentino (para mayores de 20 años o si no tenés los documentos de los padres).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Los testigos deben llevar sus documentos de identidad originales.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate con alguno de tus padres en el Consulado Argentino que te corresponde según la dirección real que figura en el documento."
+      },
+      {
+        "texto": "Retirá el DNI en la sede consular donde iniciaste trámite."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Tené en cuenta que la constancia de DNI en trámite que te entregan no es una acreditación de tu identidad.",
+      "El lugar de pago depende de la Representación Consular donde iniciás el trámite."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1500000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/actualizar-el-dni-de-14-anos-para-argentinos-en-el-exterior"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/actualizar-el-dni-de-14-anos-para-argentinos-en-el-exterior",
+      "titulo": "Actualizar el DNI de 14 años para argentinos en el exterior | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T04:16:00.516Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T04:16:00.516Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia del trámite.",
+    "Si el trámite requiere turno y cómo sacarlo."
+  ]
+}

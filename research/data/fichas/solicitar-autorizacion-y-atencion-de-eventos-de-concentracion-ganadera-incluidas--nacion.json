@@ -1,0 +1,161 @@
+{
+  "tramite": {
+    "slug": "solicitar-autorizacion-y-atencion-de-eventos-de-concentracion-ganadera-incluidas-las",
+    "nombre": "Solicitar autorización y atención de eventos de concentración ganadera incluidas las actividades equinas",
+    "nombre_busqueda": "solicitar autorización eventos concentración ganadera senasa",
+    "resumen": "Para habilitar predios o realizar eventos concentradores de animales necesitás solicitar autorización al Senasa. El trámite requiere documentación específica y se realiza presencialmente en oficinas autorizadas.",
+    "sinonimos": [
+      "habilitación de predio ganadero",
+      "autorización eventos concentradores animales",
+      "remates ferias senasa"
+    ],
+    "temas": [
+      "animales-y-zoonosis"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Productores pecuarios",
+      "Organizadores de remates ferias y eventos concentradores de animales"
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota del solicitante firmada con número de documento de identidad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del título de propiedad del predio o del contrato de locación",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano de las instalaciones donde conste el corral lazareto con doble alambrado perimetral y dentro la manga, cepo y la playa de lavado, firmado por el solicitante",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización municipal o constancia de fuera del ejido",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización del organismo competente para el funcionamiento de la playa de lavado y desinfección de camiones jaula",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de la documentación de Obras Sanitarias u otra autoridad competente que autorice el tipo de desagüe de las aguas servidas de la playa",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota del solicitante de la transferencia (en caso de sociedades) consignando el domicilio urbano o rural de las instalaciones, firmada y con número de documento de identidad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del certificado de habilitación otorgado a nombre del nuevo titular",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del contrato social si se trata de una sociedad inscripta en el Registro Público de Comercio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de la escritura traslativa de dominio o del contrato de locación del predio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fecha de inicio y finalización del evento (con el predio previamente habilitado)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a las oficinas del Senasa autorizadas"
+      },
+      {
+        "texto": "Presentá la documentación"
+      },
+      {
+        "texto": "Aboná el arancel que corresponda"
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La vigencia del evento es hasta la finalización del mismo",
+      "La habilitación del predio se mantiene hasta que requiera actualización según cambios en el mismo"
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Sanidad Animal",
+      "direccion": "Av. Paseo Colón Nº 367, piso 4º cfrente, C1063ACD, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-autorizacion-y-atencion-de-eventos-de-concentracion-ganadera-incluidas-las"
+    },
+    {
+      "nombre": "Centro Regional Metropolitano",
+      "direccion": "Azopardo 1020 - CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-autorizacion-y-atencion-de-eventos-de-concentracion-ganadera-incluidas-las"
+    },
+    {
+      "nombre": "Laboratorio Central",
+      "direccion": "Talcahuano 1660 – Martínez, Provincia de Buenos Aires",
+      "localidad": "Martínez",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-autorizacion-y-atencion-de-eventos-de-concentracion-ganadera-incluidas-las"
+    },
+    {
+      "nombre": "Centro Regional Buenos Aires",
+      "direccion": "Mar de Plata, Provincia de Buenos Aires",
+      "localidad": "Mar de Plata",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-autorizacion-y-atencion-de-eventos-de-concentracion-ganadera-incluidas-las"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-autorizacion-y-atencion-de-eventos-de-concentracion-ganadera-incluidas-las",
+      "titulo": "Solicitar autorización y atención de eventos de concentración ganadera, incluidas las actividades equinas | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T04:57:14.061Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T04:57:14.061Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T04:57:14.061Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los montos exactos de los aranceles no están especificados en el texto, solo se indica que se deben abonar según los medios de pago habilitados.",
+    "La fecha de vigencia de la habilitación del predio depende de los cambios en el mismo y no hay un plazo fijo de actualización mencionado."
+  ]
+}

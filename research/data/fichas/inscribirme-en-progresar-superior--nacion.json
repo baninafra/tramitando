@@ -1,0 +1,124 @@
+{
+  "tramite": {
+    "slug": "inscribirme-en-progresar-superior",
+    "nombre": "Inscribirme en Progresar Superior",
+    "nombre_busqueda": "Inscribirme en Progresar Superior",
+    "resumen": "Es una beca gratuita para estudiantes de carreras universitarias, no universitarias y de Enfermería que cumplen requisitos de edad, académicos y ingresos.",
+    "sinonimos": [
+      "Beca Progresar Superior",
+      "Progresar Superior"
+    ],
+    "temas": [
+      "becas-y-ayudas-estudiantiles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Capital Humano",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Estudiantes de carreras universitarias, de formación superior no universitaria y de Enfermería.",
+      "Personas con ingresos y los de su grupo familiar no superiores a 3 Salarios Mínimos, Vitales y Móviles (SMVN).",
+      "Ingresantes que acrediten regularidad.",
+      "Estudiantes avanzados que acrediten regularidad y tengan al menos el 50% de las materias aprobadas conforme al plan de estudio y año."
+    ],
+    "requisitos": [
+      {
+        "texto": "Estar registrado en Mi Argentina.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cumplir con los requisitos de edad y académicos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Que los ingresos y los de tu grupo familiar no sean superiores a 3 Salarios Mínimos, Vitales y Móviles (SMVN).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditar regularidad si sos ingresante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditar regularidad y tener al menos el 50% de las materias aprobadas conforme al plan de estudio y año si estás avanzado en la carrera.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si sos una persona con discapacidad o refugiada y tenés más de 24 años, adjuntar la documentación que lo avale: CUD (Certificado Único de Discapacidad) o certificado oficial de la Comisión Nacional para los Refugiados (CONARE), respectivamente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá en argentina.gob.ar/progresar."
+      },
+      {
+        "texto": "Hacé clic en el botón de la línea a la que querés inscribir, en la sección Ingreso e inscripción por línea de beca."
+      },
+      {
+        "texto": "Hacé clic en el botón Iniciar sesión."
+      },
+      {
+        "texto": "Ingresá con tu CUIL y contraseña de Mi Argentina."
+      },
+      {
+        "texto": "Respondé la encuesta y completá tus datos académicos."
+      },
+      {
+        "texto": "Enviá el formulario."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si te inscribís en la Primera Convocatoria, vas a cobrar durante todo el año (12 cuotas mensuales).",
+      "Si te anotás en la Segunda Convocatoria, vas a cobrar la mitad de este periodo (6 cuotas mensuales).",
+      "Cobrás el 80 % de cada cuota mensualmente y el 20 % restante si la institución acredita que fuiste alumno regular y cumpliste con las condicionalidades de la línea.",
+      "El dinero se te deposita en una cuenta bancaria o billetera virtual a tu nombre.",
+      "La Primera Convocatoria 2026 se extenderá hasta el 30 de abril."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribirme-en-progresar-superior",
+      "titulo": "Inscribirme en Progresar Superior | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T17:26:55.448Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T17:26:55.448Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/",
+      "titulo": "Inicio | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T17:26:55.448Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Fecha de vigencia exacta del trámite.",
+    "Requisitos específicos de edad."
+  ]
+}

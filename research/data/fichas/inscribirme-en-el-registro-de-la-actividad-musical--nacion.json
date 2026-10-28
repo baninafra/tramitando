@@ -1,0 +1,65 @@
+{
+  "tramite": {
+    "slug": "inscripcion-actividad-musical",
+    "nombre": "Inscribirme en el registro de la actividad musical",
+    "nombre_busqueda": "Inscribirme en el registro de la actividad musical",
+    "resumen": "Si te dedicás a la actividad musical, podés inscribirte en el Registro de la Actividad Musical del INAMU para obtener distintos beneficios.",
+    "sinonimos": [],
+    "temas": [
+      "cultura-deportes-y-turismo",
+      "registro-de-artistas-y-propiedad-intelectual"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto Nacional de la Música",
+    "sigla": "INAMU",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas dedicadas a la actividad musical"
+    ],
+    "requisitos": [
+      {
+        "texto": "Volcar tus datos personales tal como figuran en tu D.N.I.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá los datos de tu actividad musical en el formulario."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "5 minutos",
+    "consejos": [
+      "Tené en cuenta que reviste carácter de Declaración Jurada.",
+      "Los datos que ingreses en el registro serán validados por el Registro Nacional de las Personas (RENAPER)."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribirme-en-el-registro-de-la-actividad-musical",
+      "titulo": "Inscribirme en el Registro de la Actividad Musical | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T17:23:53.970Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica si se requiere turno para realizar el trámite."
+  ]
+}

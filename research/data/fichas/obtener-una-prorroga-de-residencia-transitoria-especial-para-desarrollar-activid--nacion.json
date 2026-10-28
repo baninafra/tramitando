@@ -1,0 +1,131 @@
+{
+  "tramite": {
+    "slug": "prorroga-residencia-transitoria-especial-desarrollo-actividades-ferroviario",
+    "nombre": "Obtener una prórroga de residencia transitoria especial para desarrollar actividades",
+    "nombre_busqueda": "prorroga residencia transitoria especial actividades ferroviarias",
+    "resumen": "Para personas extranjeras que obtuvieron residencia en el Territorio Nacional para desarrollar actividades vinculadas con el mantenimiento y modernización del sistema ferroviario, se puede solicitar una prórroga de hasta seis meses con cita presencial.",
+    "sinonimos": [
+      "prorroga residencia transitoria especial",
+      "residencia transitoria especial mantenimiento ferroviario"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria",
+      "residencias-temporarias-y-permanentes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Migraciones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas extranjeras que obtuvieron residencia en el Territorio Nacional para desarrollar actividades vinculadas con el mantenimiento y modernización del sistema ferroviario.",
+      "Personas que cuenten con la expresa conformidad de la Secretaría de Transporte."
+    ],
+    "requisitos": [
+      {
+        "texto": "Pasaporte válido y vigente (todas las nacionalidades).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Nacionalidad emitido por autoridad Consular (solo si se presenta en lugar de pasaporte, debe tener fotografía y estar legalizado por el Ministerio de Relaciones Exteriores, Comercio Internacional y Culto).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Antecedentes Penales Argentinos emitido por el Registro Nacional de Reincidencia (solo para mayores de 16 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación probatoria que acredite la continuidad de la actividad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Toda documentación expedida en el extranjero debe estar legalizada por el Consulado Argentino o Apostillada (si el país ratificó el Convenio de La Haya).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Toda documentación expedida por representaciones consulares en el territorio nacional debe estar legalizada por el Ministerio de Relaciones Exteriores, Comercio Internacional y Culto (excepto MERCOSUR).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Toda documentación en idioma extranjero debe tener traducción al castellano efectuada por Traductor Público Nacional y legalizada por el Colegio de Traductores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La documentación a presentar debe ser original.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar en el sistema RaDEX."
+      },
+      {
+        "texto": "Registrarse como usuario."
+      },
+      {
+        "texto": "Completar el formulario de solicitud."
+      },
+      {
+        "texto": "Abonar las tasas correspondientes."
+      },
+      {
+        "texto": "Adjuntar la documentación y datos requeridos según el tipo de residencia."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentarse el día de la cita con la documentación original."
+      },
+      {
+        "texto": "El Certificado de Antecedentes Penales Argentinos se debe presentar el día de la cita fuera de RADEX."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": "hasta seis (6) meses",
+    "consejos": [
+      "Es necesario que te encuentres dentro del territorio de la República Argentina.",
+      "Podés realizar tu trámite con cita preferencial abonando un monto adicional."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-una-prorroga-de-residencia-transitoria-especial-para-desarrollar-actividades",
+      "titulo": "Obtener una prórroga de residencia transitoria especial para desarrollar actividades vinculadas con el mantenimiento y modernización del sistema ferroviario | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T07:16:18.638Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T07:16:18.638Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de las tasas migratorias no se especifica en el texto, solo se indica que se deben abonar en la plataforma RaDEX.",
+    "La URL específica para sacar el turno no se menciona en el texto, solo se indica que se debe sacar turno en línea."
+  ]
+}

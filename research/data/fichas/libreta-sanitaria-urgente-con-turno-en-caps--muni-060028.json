@@ -1,0 +1,87 @@
+{
+  "tramite": {
+    "slug": "libreta-sanitaria-a-domicilio-empresa",
+    "nombre": "Libreta Sanitaria a Domicilio Empresa",
+    "nombre_busqueda": "Libreta Sanitaria a Domicilio Empresa",
+    "resumen": "Trámite municipal que ofrece la realización de estudios y entrega de la libreta sanitaria directamente en el domicilio del trabajador, facilitando el cumplimiento de requisitos sanitarios laborales para empleados de empresas.",
+    "sinonimos": [],
+    "temas": [
+      "salud-y-prevencion",
+      "cuidados-domiciliarios-y-salud-mental"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060028",
+  "organismo": {
+    "nombre": "Municipio de Almirante Brown",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Toda empresa residente en el Municipio de Almirante Brown, para más de 15 empleados."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nombre y Apellido",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUIT",
+        "aclaracion": null
+      },
+      {
+        "texto": "Sexo (según como aparece en el DNI)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Teléfono",
+        "aclaracion": null
+      },
+      {
+        "texto": "Email",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Centro de Atención Primaria de Salud N° 18",
+      "direccion": "Centro de Atención Primaria de Salud N° 18 - Calle Pte. Perón 888",
+      "localidad": "Burzaco",
+      "horario": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/libreta-sanitaria-urgente-con-turno-en-caps/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.brown.gob.ar/tramites/libreta-sanitaria-urgente-con-turno-en-caps/",
+      "titulo": "Libreta Sanitaria a Domicilio Empresa",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T01:59:02.086Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos",
+    "No se especifican pasos",
+    "No se especifican costos",
+    "No se especifica plazo",
+    "No se especifica vigencia desde",
+    "No se especifica si se puede hacer online"
+  ]
+}

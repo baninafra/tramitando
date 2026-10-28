@@ -1,0 +1,97 @@
+{
+  "tramite": {
+    "slug": "comunicar-recupero-automotor",
+    "nombre": "Comunicar el recupero del automotor",
+    "nombre_busqueda": "Comunicar recupero auto",
+    "resumen": "Si te robaron el auto y lo recuperaste, tenés que inscribir su restitución en el Registro de Propiedad Automotor siempre y cuando hubieras anotado previamente la denuncia de robo o hurto.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro de Propiedad Automotor",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El trámite se solicita como titular, condómino, apoderado o comprador del vehículo recuperado."
+    ],
+    "requisitos": [
+      {
+        "texto": "Comunicado judicial de entrega del vehículo y una fotocopia simple.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario Tipo 04.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título del automotor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de prenda: El acreedor prendario debe ser notificado por medio de su firma certificada en la Solicitud Tipo 04 o bien debés adjuntar copia del telegrama colacionado o Carta Documento emitida por el Correo que acredite que tomó conocimiento de la recuperación del automotor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Verificación ST12.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento identificatorio: Si sos argentino: DNI. Si sos extranjero sin residencia: pasaporte; con residencia permanente: DNI; de países limítrofes: dni, ci, ci del país de origen o pasaporte.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En el caso en que vos seas el representante legal o apoderado, deberás presentar documentos que prueben esa representación que invocás.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá la Solicitud electrónica, para complementar luego el trámite de manera presencial en el Registro."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Hacé la verificación del automotor en la planta policial habilitada que te corresponda."
+      },
+      {
+        "texto": "Presentá la documentación en el Registro donde está radicado el vehículo."
+      },
+      {
+        "texto": "Si no abonaste en línea, pagá allí los aranceles."
+      },
+      {
+        "texto": "Retirá el título, la cédula verde y el triplicado de la Solicitud Tipo 04, dos días más tarde."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/comunicar-el-recupero-del-automotor",
+      "titulo": "Comunicar el recupero del automotor | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:56:37.693Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de los aranceles no se especifica en el texto, solo se indica que se deben consultar.",
+    "La información sobre si se requiere turno no aparece en el texto oficial del trámite."
+  ]
+}

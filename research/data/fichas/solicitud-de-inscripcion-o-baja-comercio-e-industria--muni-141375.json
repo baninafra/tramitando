@@ -1,0 +1,62 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-inscripcion-o-baja-comercio-e-industria",
+    "nombre": "Solicitud de inscripción o baja comercio e industria",
+    "nombre_busqueda": "Solicitud de inscripción o baja comercio e industria",
+    "resumen": "Formulario para solicitar la inscripción o baja de comercio e industria ante la Municipalidad de Anisacate.",
+    "sinonimos": [],
+    "temas": [
+      "comercio-e-industria",
+      "habilitacion-comercial"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141375",
+  "organismo": {
+    "nombre": "Municipalidad de Anisacate",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes deseen inscribir o dar de baja comercio e industria."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario F1",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el formulario F1 en la oficina correspondiente."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://anisacatemunicipio.gob.ar/download/f1-solicitud-de-inscripcion-o-baja-comercio-e-industria/",
+      "titulo": "F1 – Solicitud de Inscripción o baja Comercio e Industria – Municipalidad de Anisacate",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T18:08:37.489Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina para presentar el formulario.",
+    "Si se requiere turno para presentar la solicitud.",
+    "Costo de la inscripción o baja.",
+    "Plazo de respuesta o vigencia de la inscripción."
+  ]
+}

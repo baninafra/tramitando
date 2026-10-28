@@ -1,0 +1,148 @@
+{
+  "tramite": {
+    "slug": "solicitar-pago-asignacion-matrimonio-retirados-militares",
+    "nombre": "Solicitar el pago de la asignación por matrimonio para retirados y pensionistas militares",
+    "nombre_busqueda": "Solicitar asignación por matrimonio militares",
+    "resumen": "Podés tramitar el cobro de una asignación familiar por única vez si sos retirado o pensionista militar, casado y con haberes alcanzados por el IAF. El trámite es gratuito y tenés dos años desde el matrimonio para hacerlo.",
+    "sinonimos": [
+      "Asignación familiar por matrimonio militares",
+      "Pago asignación matrimonio retirados",
+      "Beneficio matrimonio IAF"
+    ],
+    "temas": [
+      "familia-y-pareja",
+      "jubilaciones-y-pensiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares",
+    "sigla": "IAF",
+    "web": "https://www.argentina.gob.ar/iaf"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Retirados y pensionistas militares beneficiarios del IAF que residan en el país.",
+      "Quienes hayan contraído matrimonio.",
+      "Cuyos haberes estén dentro de los topes vigentes para el cobro de asignaciones familiares.",
+      "Que no se encuentren percibiendo la asignación por ninguna otra entidad."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del titular y su cónyuge.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de CUIL/CUIIT del titular y su cónyuge.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta de matrimonio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancias de antecedentes laborales del titular del beneficio del IAF.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación negativa de ANSES.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Historia laboral de ANSES.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Registro Único de Beneficiarios (RUB) de ANSES.",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUNA de ANSES.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Recibo de haberes si se desempeña en relación de dependencia o percibe beneficio previsional.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de categoría y ticket del importe abonado si sos monotributista.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá con tu CUIL y contraseña al portal eIAF o a la App eIAF."
+      },
+      {
+        "texto": "Dejanos tu solicitud en el apartado Sistema Integrado de Consultas."
+      },
+      {
+        "texto": "Personal de Atención al Público te indicará los pasos a seguir para realizar el trámite."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate con la documentación requerida a la sede central del IAF en Cerrito 572 – CABA o a las Delegaciones del Interior."
+      },
+      {
+        "texto": "Presentá la documentación requerida."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "2 años contados a partir de la fecha del casamiento",
+    "consejos": [
+      "Si contrajiste matrimonio y tus haberes se encuentran alcanzados por el régimen de asignaciones familiares, podés tramitar el cobro de la asignación correspondiente, la cual se abona por única vez a ambos cónyuges.",
+      "El beneficio podrá solicitarse dentro de los dos (2) años posteriores a la fecha de matrimonio.",
+      "En caso de residir en el exterior, no corresponderá el pago de asignaciones familiares."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede central del IAF",
+      "direccion": "Cerrito 572",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-el-pago-de-la-asignacion-por-matrimonio-para-retirados-y-pensionistas-militares"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-el-pago-de-la-asignacion-por-matrimonio-para-retirados-y-pensionistas-militares",
+      "titulo": "Solicitar el pago de la asignación por matrimonio para retirados y pensionistas militares. | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T08:29:33.256Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/iaf",
+      "titulo": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T08:29:33.256Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T08:29:33.256Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Vigencia del trámite: dos años desde el matrimonio.",
+    "Horario de atención presencial: 08:00 a 13:00 horas.",
+    "Horario de atención telefónica: 08:00 a 18:00 horas.",
+    "Direcciones de las Delegaciones del Interior."
+  ]
+}

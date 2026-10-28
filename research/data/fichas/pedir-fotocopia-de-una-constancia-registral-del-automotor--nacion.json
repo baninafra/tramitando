@@ -1,0 +1,94 @@
+{
+  "tramite": {
+    "slug": "pedir-fotocopia-de-una-constancia-registral-del-automotor",
+    "nombre": "Pedir fotocopia de una constancia registral del automotor",
+    "nombre_busqueda": "pedir fotocopia constancia registral automotor",
+    "resumen": "El titular del automotor puede solicitar cualquier constancia del legajo del Registro de Radicación. Los terceros solo pueden pedir copias de formularios o solicitudes tipo.",
+    "sinonimos": [
+      "pedir constancia registral automotor",
+      "solicitar copia legajo vehiculo"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro de Radicación del vehículo",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El titular del automotor puede pedir cualquier constancia.",
+      "Los terceros solo pueden pedir copias de los formularios o solicitudes tipo.",
+      "Si sos el representante legal o apoderado, deberás presentar documentos que prueben esa representación que invocás."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento identificatorio: Si sos argentino: DNI (LC o LE sólo si tenés más de 75 años). Si sos extranjero sin residencia: pasaporte; con residencia permanente: DNI; de países limítrofes: dni, ci, ci del país de origen o pasaporte.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La constancia de Documento en trámite no acredita identidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario 02.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá la Solicitud electrónica, para complementar luego el trámite de manera presencial en el Registro."
+      },
+      {
+        "texto": "De forma opcional: podés abonar en línea."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación en el Registro elegido."
+      },
+      {
+        "texto": "Si no abonaste en línea, pagá allí los aranceles."
+      },
+      {
+        "texto": "Retirá la fotocopia certificada al día siguiente."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/pedir-fotocopia-de-una-constancia-registral-del-automotor",
+      "titulo": "Pedir fotocopia de una constancia registral del automotor | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T23:39:44.360Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T23:39:44.360Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los aranceles exactos no se especifican en el texto, consultá los aranceles.",
+    "Si el trámite se realiza en línea, se requiere cuenta en Mi Argentina y DNI argentino.",
+    "La fecha de vigencia no está indicada en el texto."
+  ]
+}

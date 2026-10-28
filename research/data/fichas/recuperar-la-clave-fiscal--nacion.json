@@ -1,0 +1,151 @@
+{
+  "tramite": {
+    "slug": "recuperar-la-clave-fiscal",
+    "nombre": "Recuperar la clave fiscal",
+    "nombre_busqueda": "recuperar clave fiscal",
+    "resumen": "Podés recuperar tu clave fiscal con distintos métodos, según el nivel de seguridad que necesitás. Es gratis.",
+    "sinonimos": [
+      "blanquear la clave fiscal"
+    ],
+    "temas": [
+      "cuit-y-clave-fiscal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ARCA",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que interactúan con AFIP."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener número de CUIT, CUIL o CDI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener usuario y clave de una entidad bancaria.",
+        "aclaracion": "Para recuperar la clave con nivel de seguridad 2 por homebanking."
+      },
+      {
+        "texto": "Tener instalada la aplicación móvil Mi AFIP.",
+        "aclaracion": "Para recuperar la clave con nivel de seguridad 3 o 4."
+      },
+      {
+        "texto": "Tener instalada la aplicación móvil Token AFIP.",
+        "aclaracion": "Para recuperar la clave con nivel de seguridad 4."
+      },
+      {
+        "texto": "Usar un dispositivo móvil con cámara frontal y acceso a internet.",
+        "aclaracion": "Si recuperás la clave desde Mi AFIP."
+      },
+      {
+        "texto": "Tener DNI argentino en formato tarjeta.",
+        "aclaracion": "Si recuperás la clave desde Mi AFIP."
+      },
+      {
+        "texto": "Ser mayor de edad.",
+        "aclaracion": "Si recuperás la clave desde Mi AFIP."
+      },
+      {
+        "texto": "Llevar DNI y una fotocopia, además del dispositivo móvil.",
+        "aclaracion": "Si hacés el trámite presencial en una dependencia."
+      },
+      {
+        "texto": "Tener datos biométricos registrados y acreditar tu identidad con huella digital.",
+        "aclaracion": "Si usás un puesto de autogestión en una dependencia."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la web de tu entidad bancaria con tu usuario y clave."
+      },
+      {
+        "texto": "Seleccioná “Servicios AFIP” y después “Blanqueo de clave fiscal”."
+      },
+      {
+        "texto": "Descargá Mi AFIP, escaneá el código de barras de tu DNI y hacé los gestos que te pida la aplicación para verificar tu identidad."
+      },
+      {
+        "texto": "Descargá Token AFIP y seleccioná “Activar en cajero automático”."
+      },
+      {
+        "texto": "Ingresá tu CUIT y clave fiscal en la aplicación."
+      },
+      {
+        "texto": "Ingresá en la aplicación el código que obtengas en el cajero automático."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Descargá Token AFIP y seleccioná “Activar en dependencia”."
+      },
+      {
+        "texto": "Sacá un turno web para el trámite “Soft token – Activación de claves”."
+      },
+      {
+        "texto": "Concurrí a la dependencia elegida el día y a la hora acordados, con DNI, una fotocopia y tu dispositivo móvil."
+      },
+      {
+        "texto": "Generá el código QR en Token AFIP para que el personal de AFIP lo escanee."
+      },
+      {
+        "texto": "Usá el código de 8 dígitos que genera la aplicación como clave de seguridad de segundo factor."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://www.argentina.gob.ar/turnos",
+    "plazo": null,
+    "consejos": [
+      "La clave fiscal es única e intransferible y no se bloquea ni caduca por falta de uso.",
+      "La clave fiscal queda vigente durante 365 días desde que la obtenés o modificás.",
+      "Si tenés CUIT y no registraste tus datos biométricos, tenés que dirigirte a la dependencia que corresponde según tu domicilio.",
+      "El recupero desde Mi AFIP no requiere que registres tus datos biométricos.",
+      "El cambio por homebanking asigna el nivel de seguridad 2."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": true,
+      "monto_centavos": null,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/recuperar-la-clave-fiscal"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/recuperar-la-clave-fiscal",
+      "titulo": "Recuperar la clave fiscal | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T14:44:33.985Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "pasos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T14:44:33.985Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se indica la URL para iniciar la recuperación desde Mi AFIP.",
+    "No se indica cuánto tarda el trámite."
+  ]
+}

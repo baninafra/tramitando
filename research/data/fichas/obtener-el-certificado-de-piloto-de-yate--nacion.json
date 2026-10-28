@@ -1,0 +1,99 @@
+{
+  "tramite": {
+    "slug": "obtener-el-certificado-de-piloto-de-yate",
+    "nombre": "Obtener el certificado de piloto de yate",
+    "nombre_busqueda": "certificado piloto yate",
+    "resumen": "Para obtener el certificado de piloto de yate a motor o vela, necesitás habilitación de Patrón de Yate con más de un año de antigüedad, un DNI, certificado médico y dos fotos color. El trámite se puede hacer presencialmente en la Prefectura Naval Argentina o online por TAD.",
+    "sinonimos": [
+      "certificado náutico deportivo",
+      "certificado piloto de yate a motor",
+      "certificado piloto de yate a vela"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Prefectura Naval Argentina",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas mayores de 18 años que posean habilitación de Patrón de Yate con una antigüedad superior a 1 año."
+    ],
+    "requisitos": [
+      {
+        "texto": "Habilitación de Patrón de Yate con antigüedad superior a 1 año.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento Nacional de Identidad (DNI argentino o extranjero nacionalizado), original y fotocopia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado médico (original) que acredite aptitud física, psíquica, auditiva y visual para la práctica de navegación deportiva y/o recreativa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DOS (2) fotografías color, actualizadas, de frente, fondo celeste, tamaño carnet, sin anteojos salvo que sean recetados para uso permanente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago del arancel.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de aprobación extendido por el Centro de Extensión Universitaria en Náutica Deportiva y Recreativa (CEUN).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de Solicitud del Certificado Náutico Deportivo, debidamente conformado en caso de optar por la modalidad presencial.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar a la Plataforma de Trámites a Distancia (TAD)."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentar la documentación en la delegación de la Prefectura Naval Argentina más cercana a tu domicilio."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-el-certificado-de-piloto-de-yate",
+      "titulo": "Obtener el certificado de Piloto de yate | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T06:22:25.913Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/prefecturanaval/aranceles",
+      "titulo": "Aranceles | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T06:22:25.913Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no está especificado en el texto, solo se menciona que se gestiona al finalizar el trámite y consultar el Cuadro Tarifario de Aranceles.",
+    "La fecha de vigencia de los aranceles no está especificada en el texto, solo se menciona que se actualiza según decretos."
+  ]
+}

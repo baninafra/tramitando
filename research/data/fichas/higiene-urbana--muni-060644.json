@@ -1,0 +1,90 @@
+{
+  "tramite": {
+    "slug": "recoleccion-de-residuos-urbanos",
+    "nombre": "Recolección de residuos urbanos",
+    "nombre_busqueda": "Recolección de basura Pinamar",
+    "resumen": "Servicio de retiro de residuos sólidos urbanos en contenedores y bolsas, con horarios diferenciados por temporada y zona.",
+    "sinonimos": [
+      "Retiro de basura",
+      "Recolección de residuos",
+      "Limpieza de cestos"
+    ],
+    "temas": [
+      "recoleccion-de-residuos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060644",
+  "organismo": {
+    "nombre": "Municipalidad de Pinamar",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Viviendas unifamiliares con recipiente de 80 litros",
+      "Viviendas multifamiliares con contenedores móviles de 1000 litros",
+      "Generadores especiales con contenedores identificados"
+    ],
+    "requisitos": [
+      {
+        "texto": "Recipiente de madera o plástico con tapa rebatible de 80 litros para viviendas unifamiliares",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contenedores plásticos móviles con tapa de 1000 litros para viviendas multifamiliares",
+        "aclaracion": null
+      },
+      {
+        "texto": "Residuos embolsados en bolsas plásticas cerradas con espesor adecuado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Residuos depositados en el espacio verde delimitado de la parcela",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cumplimiento de la Ordenanza Nro. 3375/06, 5697/2020 y 6048/2021",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cumplimiento de la Resolución Nro. 317/2020 del OPDS",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Verificar el cronograma de recolección según la localidad y temporada",
+      "Asegurar que los residuos estén embolsados y cerrados antes de la recolección",
+      "No acumular residuos en terrenos baldíos o espacios públicos"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://pinamar.gob.ar/higiene-urbana/",
+      "titulo": "Higiene Urbana – Municipalidad de Pinamar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T16:32:32.607Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican costos en el texto",
+    "No se especifican plazos de espera o tiempos de respuesta",
+    "No se especifican requisitos para personas jurídicas o empresas"
+  ]
+}

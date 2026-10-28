@@ -1,0 +1,101 @@
+{
+  "tramite": {
+    "slug": "inscripcion-de-nacimientos",
+    "nombre": "DNI recién nacido",
+    "nombre_busqueda": "DNI recién nacido",
+    "resumen": "Para inscribir a un recién nacido necesitás la partida de nacimiento, certificado médico y tu DNI. El trámite es gratuito y tiene vigencia de 6 meses si el bebé está internado.",
+    "sinonimos": [
+      "DNI para recién nacido",
+      "DNI 0 año",
+      "DNI bebé internado"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141498",
+  "organismo": {
+    "nombre": "Municipalidad de Tancacha",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Mamá, papá o tutor de un recién nacido"
+    ],
+    "requisitos": [
+      {
+        "texto": "Partida de nacimiento",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado médico de hospital o clínica",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tu DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Testimonio judicial de tutela (si sos el tutor legal)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta del reconocimiento o adopción (en caso de corresponder)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la partida de nacimiento"
+      },
+      {
+        "texto": "Presentá el certificado médico de hospital o clínica"
+      },
+      {
+        "texto": "Si sos el tutor legal, presentá el original del testimonio judicial de tutela"
+      },
+      {
+        "texto": "Si corresponde, adjuntá el acta del reconocimiento o adopción"
+      },
+      {
+        "texto": "Si el bebé está internado y no podés trasladarlo, presentá el certificado médico con los datos del bebé, diagnóstico y firma del médico con sello del hospital"
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El número del primer DNI es inalterable y lo va a acompañar toda su vida",
+      "El certificado médico tiene vigencia de 30 días desde la fecha de confección",
+      "No te sirve el certificado de un médico particular",
+      "Si el bebé está internado, el DNI provisorio tiene vigencia de 6 meses",
+      "Vencido el plazo, si el bebé continúa internado, podés solicitar una prórroga haciendo el trámite como la primera vez",
+      "Cuando le den el alta, debés tramitar el DNI definitivo"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.tancacha.gob.ar/recienNacido.html",
+      "titulo": "Recien nacido",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T09:46:19.138Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina",
+    "Localidad de la oficina",
+    "Nombre de la oficina",
+    "Vigencia desde la resolución o fecha exacta"
+  ]
+}

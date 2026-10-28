@@ -1,0 +1,96 @@
+{
+  "tramite": {
+    "slug": "pagar-cuotas-y-realizar-cancelaciones-anticipadas-de-creditos-hipotecarios-iaf",
+    "nombre": "Pagar cuotas y realizar cancelaciones anticipadas de créditos hipotecarios IAF",
+    "nombre_busqueda": "Pagar cuotas IAF",
+    "resumen": "Realizá el pago de cuotas impagas y saldos de cancelación de Créditos Hipotecarios del Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares de forma presencial o a distancia.",
+    "sinonimos": [
+      "Pago cuotas IAF",
+      "Cancelación crédito hipotecario IAF"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares que se encuentren amortizando un crédito hipotecario del IAF."
+    ],
+    "requisitos": [
+      {
+        "texto": "Realizar el pago a través de alguna de las modalidades habilitadas.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Pagar en efectivo o cheque certificado y en fecha, en pesos, en la Sede Central del IAF."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si se realiza el pago a distancia, el titular deberá enviar el comprobante al mail: [email protected] Recuerde que en caso de no recibirse el Aviso, el pago no tendrá efectos sobre el Préstamo. El Aviso deberá realizarse antes del 20 de cada mes."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central del IAF",
+      "direccion": "Cerrito 572, Ciudad Autónoma de Buenos Aires",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/pagar-cuotas-y-realizar-cancelaciones-anticipadas-de-creditos-hipotecarios-iaf"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/pagar-cuotas-y-realizar-cancelaciones-anticipadas-de-creditos-hipotecarios-iaf",
+      "titulo": "Pagar cuotas y realizar cancelaciones anticipadas de créditos hipotecarios - IAF | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T07:17:57.885Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/iaf",
+      "titulo": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T07:17:57.885Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T07:17:57.885Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La Sede Central del IAF está ubicada en Cerrito 572, Ciudad Autónoma de Buenos Aires."
+  ]
+}

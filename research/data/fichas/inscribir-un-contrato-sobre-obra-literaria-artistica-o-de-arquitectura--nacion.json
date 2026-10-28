@@ -1,0 +1,98 @@
+{
+  "tramite": {
+    "slug": "inscripcion-de-contratos-de-derecho-de-autor",
+    "nombre": "Inscribir un contrato sobre obra literaria, artística o de arquitectura",
+    "nombre_busqueda": "inscribir contrato obra literaria artistica arquitectura",
+    "resumen": "Este trámite permite inscribir ante la Dirección Nacional de Derecho de Autor (DNDA) contratos vinculados a obras literarias, artísticas o de arquitectura. Se requiere pagar una tasa legal y presentar el contrato firmado.",
+    "sinonimos": [
+      "Inscripción de contratos de derecho de autor",
+      "Registro de contratos literarios o artísticos"
+    ],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional del Derecho de Autor",
+    "sigla": "DNDA",
+    "web": "https://www.argentina.gob.ar/servicio/inscribir-un-contrato-sobre-obra-literaria-artistica-o-de-arquitectura"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas humanas y jurídicas que hayan suscripto contratos vinculados a obras literarias, artísticas o de arquitectura"
+    ],
+    "requisitos": [
+      {
+        "texto": "Contrato firmado por las partes",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de pago del trámite por depósito o transferencia bancaria",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de pago de la tasa por depósito o transferencia bancaria",
+        "aclaracion": null
+      },
+      {
+        "texto": "Traducción legalizada por el Colegio de Traductores (si el contrato está en otro idioma)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar a TAD y buscar Inscripción de contratos que involucran derecho de autor"
+      },
+      {
+        "texto": "Iniciar el trámite"
+      },
+      {
+        "texto": "Completar datos personales y del trámite"
+      },
+      {
+        "texto": "Subir la documentación obligatoria (constancia de pago del trámite y de la tasa y el contrato) y complementaria"
+      },
+      {
+        "texto": "Recibir la constancia de inscripción digital o subsanar errores si los hay"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si el contrato está en otro idioma, tenés que hacerlo traducir por traductor público y adjuntar también esa traducción, legalizada por el Colegio de Traductores"
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 300000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-un-contrato-sobre-obra-literaria-artistica-o-de-arquitectura"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribir-un-contrato-sobre-obra-literaria-artistica-o-de-arquitectura",
+      "titulo": "Inscribir un contrato sobre obra literaria, artística o de arquitectura | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T16:56:32.387Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El cálculo del monto a pagar se efectúa del siguiente modo: I) Contratos con monto determinado o determinable: Se abona el uno por ciento (1%) del monto, con una tasa mínima de cuatro pesos con once centavos ($4,11). II) Contratos con monto indeterminado: Se abona una tasa fija de seis pesos con diecisiete centavos ($6,17). III) Contratos con monto en parte indeterminada y en parte determinada o determinable: Se abona el uno por ciento (1%) del monto de la parte determinada o determinable, con una tasa mínima de cuatro pesos con once centavos ($4,11). IV) Contratos gratuitos: Se abona una tasa fija de seis pesos con diecisiete centavos ($6,17)"
+  ]
+}

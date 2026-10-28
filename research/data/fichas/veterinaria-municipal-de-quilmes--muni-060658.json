@@ -1,0 +1,75 @@
+{
+  "tramite": {
+    "slug": "veterinaria-municipal-de-quilmes",
+    "nombre": "Veterinaria Municipal de Quilmes",
+    "nombre_busqueda": "Veterinaria Municipal de Quilmes",
+    "resumen": "Trámite para obtener la libreta sanitaria de mascotas en la veterinaria municipal. Se requiere la libreta anterior, el DNI del dueño y la documentación de la mascota. El trámite se realiza presencialmente en la oficina.",
+    "sinonimos": [
+      "Libreta sanitaria mascotas Quilmes",
+      "Libreta veterinaria Quilmes"
+    ],
+    "temas": [
+      "cuidados-domiciliarios-y-salud-mental",
+      "vacunacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060658",
+  "organismo": {
+    "nombre": "Veterinaria Municipal de Quilmes",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Dueños de mascotas que deseen obtener la libreta sanitaria."
+    ],
+    "requisitos": [
+      {
+        "texto": "Libreta sanitaria anterior o constancia de extravío.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del dueño de la mascota.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación de la mascota (acta de nacimiento, certificado de vacunación, etc.).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acudí a la veterinaria municipal con los requisitos."
+      },
+      {
+        "texto": "Presentá la documentación y completá el formulario."
+      },
+      {
+        "texto": "Recibí la libreta sanitaria."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mi.quilmes.gov.ar/tramites/219/veterinaria-municipal-de-quilmes",
+      "titulo": "Veterinaria Municipal de Quilmes",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T11:47:49.353Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos, pasos, costos, plazos ni oficinas en el texto de la página."
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "tramite": {
+    "slug": "habilitacion-eventos-privados",
+    "nombre": "Autorización y Habilitación para Eventos Privados",
+    "nombre_busqueda": "Habilitación eventos privados Chascomús",
+    "resumen": "Para realizar eventos privados con venta de entradas en espacios cerrados, se debe completar un formulario online y presentar documentación específica ante la Dirección de Habilitaciones con una antelación de diez días hábiles.",
+    "sinonimos": [
+      "Habilitación de espacios cerrados",
+      "Permiso para eventos privados",
+      "Salón de fiestas habilitación"
+    ],
+    "temas": [
+      "espectaculos-y-eventos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060218",
+  "organismo": {
+    "nombre": "Municipalidad de Chascomús",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titular del establecimiento o autorizada a realizar el trámite.",
+      "Persona mayor de 21 años o con documentación de emancipación si es menor."
+    ],
+    "requisitos": [
+      {
+        "texto": "Habilitación comercial municipal vigente como salón de fiestas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título de propiedad o contrato de locación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título de propiedad (Escritura), o contrato de Alquiler (Timbrado), o contrato de comodato, o autorización del propietario.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de libre deuda de la partida inmobiliaria correspondiente al inmueble donde se realizará el evento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Libre deuda del solicitante expedido por el área de recaudación o ingresos públicos de la Municipalidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de medidas de seguridad contra siniestros donde conste la capacidad máxima de asistentes permitidos expedido por la Dirección de Bomberos de la Policía de la Provincia de Buenos Aires.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Seguro de responsabilidad civil que cubra las contingencias de incendio, lesiones y vida, respecto de los concurrentes, hasta el máximo que permita la Superintendencia de Seguros de la Nación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Seguro de responsabilidad civil para los asistentes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción de ARCA y ARBA.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Complete el formulario de solicitud de autorización para realizar eventos de carácter privado con venta de entradas."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presente la documentación adjunta al formulario ante la Dirección de Habilitaciones."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Cuartel de Bomberos Dolores",
+      "direccion": "Calle Alberdi Nº 47",
+      "localidad": "Dolores",
+      "horario": null,
+      "fuente_url": "https://apps.chascomus.gob.ar/habilitaciones/habilitacionEventoPrivado2.0.php"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://apps.chascomus.gob.ar/habilitaciones/habilitacionEventoPrivado2.0.php",
+      "titulo": "Solicitud de Habilitacio de Eventos Privados - Municipalidad de Chascomús",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T11:04:45.513Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Monto del trámite",
+    "Dirección exacta de la Dirección de Habilitaciones",
+    "Plazo de respuesta o resolución",
+    "Horarios de atención de la Dirección de Habilitaciones"
+  ]
+}

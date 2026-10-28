@@ -1,0 +1,79 @@
+{
+  "tramite": {
+    "slug": "reclamos-y-asesoramiento-en-defensa-del-consumidor",
+    "nombre": "Reclamos y asesoramiento en defensa del consumidor",
+    "nombre_busqueda": "Reclamos defensa del consumidor",
+    "resumen": "La OMIC ofrece asesoramiento gratuito sobre derechos de consumidores, cómo formular reclamos y realizar conciliaciones.",
+    "sinonimos": [
+      "Oficina Municipal de Información al Consumidor",
+      "Asesoramiento al consumidor"
+    ],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060189",
+  "organismo": {
+    "nombre": "Oficina Municipal de Información al Consumidor",
+    "sigla": "OMIC",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier consumidor o usuario que necesite orientación sobre sus derechos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Explicación del caso o consulta sobre derechos.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a la oficina de la OMIC ubicada en Av. Fuertes 630."
+      },
+      {
+        "texto": "Explicá tu situación o consulta al personal."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El asesoramiento y la recepción de denuncias son gratuitos.",
+      "Se realizan audiencias de conciliación para resolver conflictos."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina Municipal de Información al Consumidor",
+      "direccion": "Av. Fuertes 630",
+      "localidad": "Coronel Dorrego",
+      "horario": null,
+      "fuente_url": "https://dorrego.gob.ar/mun/direcciones/administracion/menu/omic/omic.php"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://dorrego.gob.ar/mun/direcciones/administracion/menu/omic/omic.php",
+      "titulo": "O.M.I.C.",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T22:29:23.110Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de la oficina de conciliación si difiere de la sede principal.",
+    "Horarios de atención de la OMIC."
+  ]
+}

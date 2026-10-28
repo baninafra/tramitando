@@ -1,0 +1,84 @@
+{
+  "tramite": {
+    "slug": "adhesion-a-factura-electronica",
+    "nombre": "Adhesión a Factura Electrónica",
+    "nombre_busqueda": "Adherir a Factura Electrónica",
+    "resumen": "Para adherirse a la factura electrónica de la ciudad de Balcarce, tenés dos opciones: registrarse en la oficina virtual de ARBAL o descargar el formulario y enviarlo por email o whatsapp.",
+    "sinonimos": [
+      "Adherir a Factura Electrónica",
+      "Unirse a Factura Electrónica"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "comercio-e-industria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060063",
+  "organismo": {
+    "nombre": "Agencia de Recaudación Balcarce",
+    "sigla": "ARBAL",
+    "web": "https://www.arbal.gob.ar"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes deseen adherirse a la factura electrónica de la ciudad de Balcarce."
+    ],
+    "requisitos": [
+      {
+        "texto": "Usuario registrado en la oficina virtual de ARBAL.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de adhesión completado.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la oficina virtual de ARBAL."
+      },
+      {
+        "texto": "Registráte en el sistema si aún no lo habías hecho."
+      },
+      {
+        "texto": "Adherite desde tu usuario registrado."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.arbal.gob.ar/adhesion_factura_electronica",
+      "titulo": "ARBAL - Agencia de Recaudación Balcarce",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T21:56:53.776Z"
+    },
+    {
+      "url": "https://www.arbal.gob.ar/login",
+      "titulo": "ARBAL | Sistema Aplicaciones",
+      "bloques": [
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T21:56:53.776Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de email para envío del formulario: direcciondedescentralizacion@arbal.gob.ar",
+    "Número de teléfono para envío del formulario: 2266-678938",
+    "Vigencia de la adhesión",
+    "Costo de la adhesión"
+  ]
+}

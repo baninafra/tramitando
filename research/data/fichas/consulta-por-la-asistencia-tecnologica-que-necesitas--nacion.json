@@ -1,0 +1,83 @@
+{
+  "tramite": {
+    "slug": "consulta-asistencia-tecnologica",
+    "nombre": "Consulta por la asistencia tecnológica que necesitás",
+    "nombre_busqueda": "Consulta asistencia tecnológica CNEA",
+    "resumen": "Podés consultar si necesitás asistencia tecnológica en la Comisión Nacional de Energía Atómica (CNEA) completando un formulario con los detalles de tu requerimiento.",
+    "sinonimos": [],
+    "temas": [
+      "discapacidad-y-accesibilidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Comisión Nacional de Energía Atómica",
+    "sigla": "CNEA",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Particulares",
+      "Empresas",
+      "Organismos del sector público o privado",
+      "Entidades gubernamentales, de ciencia e investigación"
+    ],
+    "requisitos": [
+      {
+        "texto": "Nombre o descripción de la asistencia tecnológica que necesitás, especificando el motivo, tipo de ensayo, técnica a utilizar y muestra a analizar",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombre y apellido",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el Formulario de Consulta"
+      },
+      {
+        "texto": "Redactá tu consulta con el mayor detalle posible del nombre o descripción de la asistencia tecnológica que necesitás, el motivo por el cual lo requerís, el tipo de ensayo, técnica a utilizar, muestra a analizar, etc."
+      },
+      {
+        "texto": "Enviá el formulario"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Redactá tu consulta con el mayor detalle posible del nombre o descripción de la asistencia tecnológica que necesitás, el motivo por el cual lo requerís, el tipo de ensayo, técnica a utilizar, muestra a analizar, etc."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consulta-por-la-asistencia-tecnologica-que-necesitas",
+      "titulo": "Consultá por la Asistencia Tecnológica que necesitás | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T15:08:37.793Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/cnea/consulta-por-la-asistencia-tecnologica-que-necesitas",
+      "titulo": "Consultá por la Asistencia Tecnológica que necesitás | Argentina.gob.ar",
+      "bloques": [
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-26T15:08:37.793Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si necesitás sacar turno para este trámite, consultá en el sitio oficial de turnos de la CNEA o en la página de turnos de la Presidencia de la Nación."
+  ]
+}

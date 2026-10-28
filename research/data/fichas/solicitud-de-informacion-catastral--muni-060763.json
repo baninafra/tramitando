@@ -1,0 +1,72 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-informacion-catastral",
+    "nombre": "Solicitud de información catastral",
+    "nombre_busqueda": "Solicitud de información catastral",
+    "resumen": "Trámite para profesionales que necesitan datos catastrales de un inmueble como nomenclatura, dirección, conformación, dimensiones, linderos, restricciones y afectaciones. Se realiza por correo electrónico.",
+    "sinonimos": [],
+    "temas": [
+      "catastro-e-inmuebles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060763",
+  "organismo": {
+    "nombre": "San Nicolás Ciudad",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Profesionales que requieran datos catastrales de un inmueble."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de Solicitud de Información Catastral.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de autorización firmada por propietario indicando motivo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Descargá y completá la nota de Solicitud de Información Catastral."
+      },
+      {
+        "texto": "Enviá toda la documentación por correo electrónico a catastroinfo@sannicolas.gob.ar."
+      },
+      {
+        "texto": "Indicá en el asunto del mail el nombre del trámite que estás realizando."
+      },
+      {
+        "texto": "Recibí por correo electrónico la respuesta a tu solicitud."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.sannicolasciudad.gob.ar/tramites/catastro/solicitud-de-informacion-catastral",
+      "titulo": "Solicitud de información catastral | Catastro | Trámites | San Nicolás Ciudad",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T14:59:05.651Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Plazo de respuesta no especificado en el texto."
+  ]
+}

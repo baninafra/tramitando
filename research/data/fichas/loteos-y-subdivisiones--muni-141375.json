@@ -1,0 +1,93 @@
+{
+  "tramite": {
+    "slug": "loteos-y-subdivisiones",
+    "nombre": "Excepción de loteo",
+    "nombre_busqueda": "Excepción de loteo ordenanza 374",
+    "resumen": "Permite la subdivisión de terrenos sin cumplir con los requisitos habituales de superficie o ubicación, bajo condiciones específicas establecidas en la ordenanza.",
+    "sinonimos": [
+      "Subdivisión excepcional",
+      "Loteo sin requisitos",
+      "Excepción a la normativa de loteo"
+    ],
+    "temas": [
+      "loteos-y-subdivisiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141375",
+  "organismo": {
+    "nombre": "Municipalidad de Anisacate",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona natural o jurídica que cumpla con los requisitos de la ordenanza."
+    ],
+    "requisitos": [
+      {
+        "texto": "Presentar la solicitud de excepción de loteo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar el plano del terreno a subdividir.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar el acta de nacimiento del propietario.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar el DNI del propietario.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar el título de propiedad del terreno.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la solicitud de excepción de loteo en la oficina de urbanismo."
+      },
+      {
+        "texto": "Presentá el plano del terreno a subdividir."
+      },
+      {
+        "texto": "Presentá el acta de nacimiento del propietario."
+      },
+      {
+        "texto": "Presentá el DNI del propietario."
+      },
+      {
+        "texto": "Presentá el título de propiedad del terreno."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://anisacatemunicipio.gob.ar/download/ordenanza-374-excepcion-de-loteo/",
+      "titulo": "ORDENANZA 374 (Excepción de Loteo) – Municipalidad de Anisacate",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T18:06:22.558Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La ordenanza no especifica los requisitos detallados de superficie, ubicación o condiciones técnicas para la excepción.",
+    "La ordenanza no especifica si se requiere turno para presentar la solicitud.",
+    "La ordenanza no especifica el plazo de resolución de la solicitud.",
+    "La ordenanza no especifica si hay costos asociados al trámite."
+  ]
+}

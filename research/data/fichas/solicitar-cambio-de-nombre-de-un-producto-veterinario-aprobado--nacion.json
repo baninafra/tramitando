@@ -1,0 +1,122 @@
+{
+  "tramite": {
+    "slug": "cambio-nombre-producto-veterinario",
+    "nombre": "Cambio de nombre de un producto veterinario",
+    "nombre_busqueda": "cambio nombre producto veterinario",
+    "resumen": "Para cambiar el nombre de fantasía de un producto ya aprobado, necesitás tramitarlo ante el Registro de Productos Veterinarios del Senasa por SIG-Trámites.",
+    "sinonimos": [],
+    "temas": [
+      "bromatologia-y-alimentos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titular, director técnico o apoderado de establecimiento elaborador de productos veterinarios."
+    ],
+    "requisitos": [
+      {
+        "texto": "Juego de Rótulos del producto en cuestión con la modificación correspondiente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Artes de impresión de todas las presentaciones con las que se comercializará el producto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración jurada de los requisitos en el formulario.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Accedé a SIG-Trámites."
+      },
+      {
+        "texto": "Completá el formulario de solicitud."
+      },
+      {
+        "texto": "Consultá el estado del trámite con el número generado."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si el expediente de producto es en soporte papel, se solicitará la digitalización al área correspondiente.",
+      "El número de expediente electrónico generado se asociará al expediente de registro de producto."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Sanidad Animal",
+      "direccion": "Carlos Calvo N° 66, PB, C1107ADR, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-cambio-de-nombre-de-un-producto-veterinario-aprobado"
+    },
+    {
+      "nombre": "Centro Regional Metropolitano",
+      "direccion": "Azopardo 1020 - CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-cambio-de-nombre-de-un-producto-veterinario-aprobado"
+    },
+    {
+      "nombre": "Sede Central",
+      "direccion": "Paseo Colón 367 - CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-cambio-de-nombre-de-un-producto-veterinario-aprobado"
+    },
+    {
+      "nombre": "Laboratorio Central",
+      "direccion": "Talcahuano 1660 – Martínez, Provincia de Buenos Aires",
+      "localidad": "Martínez",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-cambio-de-nombre-de-un-producto-veterinario-aprobado"
+    },
+    {
+      "nombre": "Centro Regional Buenos Aires",
+      "direccion": "Mar de Plata, Provincia de Buenos Aires",
+      "localidad": "Mar de Plata",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-cambio-de-nombre-de-un-producto-veterinario-aprobado"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-cambio-de-nombre-de-un-producto-veterinario-aprobado",
+      "titulo": "Solicitar cambio de nombre de un producto veterinario aprobado | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T08:04:47.742Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T08:04:47.742Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no está especificado en el texto, solo se indica que se debe abonar según corresponda.",
+    "La fecha de vigencia de la normativa o el plazo de resolución no está especificado en el texto."
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "tramite": {
+    "slug": "reservar-nombre-sociedad-entidad-civil",
+    "nombre": "Reservar nombre para una sociedad o entidad civil",
+    "nombre_busqueda": "reservar nombre para una sociedad",
+    "resumen": "Podés reservar por 30 días la denominación de una sociedad comercial o entidad civil que quiera registrarse en la Inspección General de Justicia. El trámite se hace por TAD y no es obligatorio.",
+    "sinonimos": [
+      "reserva de denominación"
+    ],
+    "temas": [
+      "comercio-e-industria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": "IGJ",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Sociedades comerciales y entidades civiles que quieran registrarse en la Inspección General de Justicia y tengan domicilio en la Ciudad Autónoma de Buenos Aires. No está habilitado para sociedades por acciones simplificadas (SAS)."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener un usuario de Trámites a Distancia (TAD).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener habilitado el servicio Trámites a Distancia a través de AFIP con clave fiscal nivel 2 o superior.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Consultá en línea si la denominación propuesta está disponible."
+      },
+      {
+        "texto": "Ingresá a TAD y completá el formulario «Reserva de denominación» con tres denominaciones alternativas."
+      },
+      {
+        "texto": "Aboná el importe correspondiente de manera electrónica."
+      },
+      {
+        "texto": "Esperá a que se acredite el pago. La IGJ te enviará por TAD la constancia de reserva, según la disponibilidad y el orden de prioridad indicado en el formulario."
+      },
+      {
+        "texto": "Si ninguna denominación está disponible, presentá nuevas alternativas hasta confirmar la reserva de alguna."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La reserva tiene una validez de 30 días corridos.",
+      "Que una denominación aparezca disponible en la consulta previa no confirma que puedas usarla. La IGJ lo confirma al finalizar el trámite.",
+      "No encontrar una denominación en la consulta previa tampoco indica que puedas utilizarla."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reservar-nombre-para-una-sociedad-comercial-o-entidad-civil",
+      "titulo": "Reservar nombre para una sociedad comercial o entidad civil | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T15:32:34.633Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El importe en pesos de cada modalidad no está indicado; la página expresa los costos en módulos."
+  ]
+}

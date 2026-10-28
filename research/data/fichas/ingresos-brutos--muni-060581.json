@@ -1,0 +1,90 @@
+{
+  "tramite": {
+    "slug": "ingresos-brutos-necochea",
+    "nombre": "Trámites de ingresos brutos",
+    "nombre_busqueda": "inscripción y actualización de ingresos brutos en Necochea",
+    "resumen": "Podés gestionar el alta de inscripción, la actualización general de datos y la modificación del domicilio fiscal o la actividad. También se informa una declaración jurada anual de la tasa por inspección de seguridad e higiene.",
+    "sinonimos": [
+      "alta de ingresos brutos",
+      "actualización de datos de ingresos brutos"
+    ],
+    "temas": [
+      "tasa-de-comercio-e-industria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060581",
+  "organismo": {
+    "nombre": "Municipalidad de Necochea",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El texto no especifica quiénes pueden realizar estos trámites."
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia de inscripción de AFIP.",
+        "aclaracion": "Para el alta de inscripción."
+      },
+      {
+        "texto": "Formulario R-444.N (Art. 7 RN 053/10) emitido por la web de ARBA, por duplicado, para certificar la firma.",
+        "aclaracion": "Para el alta de inscripción."
+      },
+      {
+        "texto": "DNI original y fotocopia.",
+        "aclaracion": "Para el alta de inscripción."
+      },
+      {
+        "texto": "Copia de una factura de servicio con el domicilio del titular.",
+        "aclaracion": "Para el alta de inscripción."
+      },
+      {
+        "texto": "Contrato de alquiler.",
+        "aclaracion": "Para el alta de inscripción."
+      },
+      {
+        "texto": "Partida de nacimiento, copia del DNI de los padres o libreta de casamiento para demostrar la relación con el titular del domicilio del recibo de servicios presentado.",
+        "aclaracion": "Si no tenés facturas de servicios ni contrato de alquiler."
+      },
+      {
+        "texto": "Formulario R-444 R por duplicado para certificar la firma.",
+        "aclaracion": "Para la actualización general de datos."
+      },
+      {
+        "texto": "La misma documentación requerida para el alta de inscripción.",
+        "aclaracion": "Para la actualización general de datos."
+      },
+      {
+        "texto": "Formulario R-445 N por duplicado, obtenido de la web de ARBA.",
+        "aclaracion": "Para modificar el domicilio fiscal o la actividad."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://necochea.gov.ar/tramites/ingresos-brutos/",
+      "titulo": "Tramites – Ingresos Brutos – Municipalidad de Necochea",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T15:33:35.234Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La página no especifica quiénes pueden realizar los trámites.",
+    "La página no detalla los pasos para completar los trámites ni indica si son presenciales o completamente en línea.",
+    "No se informa el costo ni si se requiere turno."
+  ]
+}

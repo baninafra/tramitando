@@ -1,0 +1,123 @@
+{
+  "tramite": {
+    "slug": "denuncia-por-problematicas-de-cobertura-prestacional",
+    "nombre": "Denuncia por problemáticas de cobertura prestacional",
+    "nombre_busqueda": "Denuncia cobertura prestacional",
+    "resumen": "Podés denunciar a tu Agente del Seguro o Entidad de Medicina Prepaga si tenés un inconveniente con la cobertura médica asistencial. El trámite es gratuito y se inicia generando el expediente presencial o por TAD.",
+    "sinonimos": [
+      "Denuncia a prepaga",
+      "Denuncia a agente del seguro"
+    ],
+    "temas": [
+      "obra-social-y-prepaga"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Servicios de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Beneficiarios de Agentes del Seguro",
+      "Usuarios de Entidades de Medicina Prepaga"
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de Denuncia completo y firmado por el titular",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI de la persona titular, apoderado o gestor",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del DNI grupo familiar",
+        "aclaracion": null
+      },
+      {
+        "texto": "Credencial del Agente del Seguro o prepaga del titular y grupo familiar",
+        "aclaracion": null
+      },
+      {
+        "texto": "Prescripción médica actualizada con letra legible",
+        "aclaracion": null
+      },
+      {
+        "texto": "Síntesis de historia clínica actualizada con letra legible",
+        "aclaracion": null
+      },
+      {
+        "texto": "Justificación actualizada de la prestación por médico tratante con letra legible",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación específica según régimen (recibo de sueldo, factura, pago monotributo, haberes previsionales, pago servicio doméstico, etc.)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma de Trámites a Distancia"
+      },
+      {
+        "texto": "Iniciá el trámite con tu usuario de ARCA o de Mi Argentina"
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Descargá, imprimí y completá el Formulario de Denuncia"
+      },
+      {
+        "texto": "Solicitá el turno en línea con usuario de Mi Argentina o creando tu cuenta"
+      },
+      {
+        "texto": "Presentá la documentación en la Sede Central o Delegación más cercana"
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://turnos.argentina.gob.ar/turnos/seleccionTurno/3015",
+    "plazo": null,
+    "consejos": [
+      "Los plazos y sanciones son los estipulados en la Resolución 951/2025"
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central",
+      "direccion": "Bartolomé Mitre 434 - Planta Baja - CABA - C1036AAH",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/denuncia-por-problematicas-de-cobertura-prestacional"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/denuncia-por-problematicas-de-cobertura-prestacional",
+      "titulo": "Denuncia por problemáticas de cobertura prestacional | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-26T15:08:22.700Z"
+    },
+    {
+      "url": "https://turnos.argentina.gob.ar/turnos/seleccionTurno/3015",
+      "titulo": "Sistema Nacional de Turnos",
+      "bloques": [
+        "donde"
+      ],
+      "consultada_en": "2026-10-26T15:08:22.700Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia de la Resolución 951/2025 que estipula los plazos y sanciones no está especificada en el texto."
+  ]
+}

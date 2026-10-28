@@ -1,0 +1,114 @@
+{
+  "tramite": {
+    "slug": "denuncias-defensa-consumidor-omic",
+    "nombre": "Hacer una denuncia ante Defensa del Consumidor",
+    "nombre_busqueda": "Denuncias ante la OMIC de Junín",
+    "resumen": "Podés presentar una denuncia por escrito con firma original o completar un modelo en línea. Si compraste el producto o contrataste el servicio en otra localidad o zona, podés iniciar el reclamo en la Ventanilla Única Federal.",
+    "sinonimos": [
+      "Reclamo ante la OMIC",
+      "Denuncia de consumo"
+    ],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060413",
+  "organismo": {
+    "nombre": "Oficina Municipal de Información al Consumidor",
+    "sigla": "OMIC",
+    "web": "https://www.junin.gob.ar"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés denunciar problemas relacionados con la compra de bienes o la contratación de servicios.",
+      "También podés reclamar por servicios públicos domiciliarios."
+    ],
+    "requisitos": [
+      {
+        "texto": "Datos personales: nombre y apellido, tipo y número de documento, domicilio, teléfono y correo electrónico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos de la persona o empresa denunciada: nombre y apellido, razón social o nombre de fantasía, domicilio, teléfono y, si lo tiene, correo electrónico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Relato detallado de los hechos, con el lugar, la fecha y la modalidad de la operación o el servicio reclamado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Indicación de lo que querés pedir en la conciliación, eligiendo una o más opciones del formulario.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopias de la documentación relacionada, como recibos, facturas, contratos, garantías, correos electrónicos o mensajes de WhatsApp.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia o foto del frente y dorso de tu DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia o foto del frente y dorso del DNI de la persona autorizada, si corresponde.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario de Ingreso de Denuncias."
+      },
+      {
+        "texto": "Adjuntá la documentación en formato PJN o PDF, junto con la foto o fotocopia del frente y dorso del DNI."
+      },
+      {
+        "texto": "Presentá la denuncia por el enlace OMIC Resuelve del sitio del Gobierno de Junín."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Completá el formulario de Ingreso de Denuncias."
+      },
+      {
+        "texto": "Presentá la denuncia por escrito, con firma original, en la OMIC."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "Para reclamos de servicios públicos domiciliarios, primero iniciá el reclamo ante la empresa prestadora, salvo en casos de urgencia. La empresa tiene 30 días desde el reclamo para responder. Si no re…",
+    "consejos": [
+      "Si compraste el producto o contrataste el servicio en otra localidad o zona, podés iniciar el reclamo en la Ventanilla Única Federal.",
+      "En reclamos de servicios públicos domiciliarios, los entes reguladores atienden cuestiones de medición de consumos, control de calidad y tarifas reguladas."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina Municipal de Información al Consumidor",
+      "direccion": "Hipólito Yrigoyen 63",
+      "localidad": "Junín",
+      "horario": "8:30 a 15:30",
+      "fuente_url": "https://www.junin.gob.ar/content/denuncias"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.junin.gob.ar/content/denuncias",
+      "titulo": "DENUNCIAS | Gobierno de Junín",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T13:54:17.289Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa si presentar la denuncia tiene costo.",
+    "No se indica si necesitás turno."
+  ]
+}

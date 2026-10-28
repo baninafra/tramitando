@@ -1,0 +1,80 @@
+{
+  "tramite": {
+    "slug": "actualizacion-balance-tecnico-liquidacion-grupo",
+    "nombre": "Actualización de balance técnico de liquidación de grupo",
+    "nombre_busqueda": "actualización balance técnico liquidación grupo",
+    "resumen": "Las sociedades que administran planes de ahorro previo por círculos o grupos cerrados deben realizar este trámite en línea presentando la declaración jurada y los informes de evolución de ingresos y egresos.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Sociedades que administran planes de ahorro previo por círculos o grupos cerrados"
+    ],
+    "requisitos": [
+      {
+        "texto": "CUIT y Número Correlativo de la Persona Jurídica",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ingresar a TAD con el usuario de la Persona Jurídica",
+        "aclaracion": null
+      },
+      {
+        "texto": "Completar la Declaración Jurada",
+        "aclaracion": null
+      },
+      {
+        "texto": "Adjuntar el Informe de Evolución de Ingresos y Egresos o el Informe sin Movimientos",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá el trámite desde el usuario TAD de la Persona Jurídica."
+      },
+      {
+        "texto": "Completá la Declaración Jurada."
+      },
+      {
+        "texto": "Adjuntá el Informe de Evolución de Ingresos y Egresos o el Informe sin Movimientos."
+      },
+      {
+        "texto": "Finalizá el trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/realizar-el-tramite-de-actualizacion-de-balance-tecnico-de-liquidacion-de-grupo",
+      "titulo": "Realizar el trámite de actualización de balance técnico de liquidación de grupo | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T02:11:51.628Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite no está especificada en el texto."
+  ]
+}

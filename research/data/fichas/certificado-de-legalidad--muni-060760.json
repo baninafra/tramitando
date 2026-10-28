@@ -1,0 +1,96 @@
+{
+  "tramite": {
+    "slug": "certificado-de-legalidad",
+    "nombre": "Certificado de legalidad",
+    "nombre_busqueda": "Certificado de legalidad licencia conducir",
+    "resumen": "Este documento certifica la legalidad de una licencia emitida en San Miguel para ser presentada en otro municipio de la Provincia de Buenos Aires o en otro país.",
+    "sinonimos": [
+      "Certificado de legalidad de licencia",
+      "Certificado de legalidad conducir"
+    ],
+    "temas": [
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060760",
+  "organismo": {
+    "nombre": "Municipalidad de San Miguel",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El interesado o un tercero con autorización del titular."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI con domicilio que no sea en alguna jurisdicción de la Provincia de Buenos Aires",
+        "aclaracion": null
+      },
+      {
+        "texto": "Licencia de conducir emitida por el Municipio de San Miguel",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate al totem ubicado en la recepción de la sucursal Perón 415, Muñiz."
+      },
+      {
+        "texto": "Retirá un ticket para certificado de legalidad."
+      },
+      {
+        "texto": "Iniciá el trámite siguiendo las indicaciones de la pantalla."
+      },
+      {
+        "texto": "Retirá el documento en el momento, que debe contener sello y firma de una persona autorizada por el Municipio."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 195250,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.msm.gov.ar/guia-tramites/licencias-conducir/certificado-de-legalidad/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Sucursal licencias de conducir",
+      "direccion": "Perón 415",
+      "localidad": "Muñiz",
+      "horario": null,
+      "fuente_url": "https://www.msm.gov.ar/guia-tramites/licencias-conducir/certificado-de-legalidad/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.msm.gov.ar/guia-tramites/licencias-conducir/certificado-de-legalidad/",
+      "titulo": "Certificado de Legalidad - Municipalidad San Miguel",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T13:57:15.708Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite no está especificada en el texto.",
+    "No se indica si el trámite se realiza con o sin turno."
+  ]
+}

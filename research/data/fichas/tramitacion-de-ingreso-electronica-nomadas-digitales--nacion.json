@@ -1,0 +1,83 @@
+{
+  "tramite": {
+    "slug": "ingreso-electronica-nomadas-digitales",
+    "nombre": "Ingreso Electrónica Nómadas Digitales",
+    "nombre_busqueda": "Ingreso electrónica nomadas digitales",
+    "resumen": "Permiso para extranjeros de países sin visa de turista que presten servicios remota desde el exterior. Requiere solicitud, CV, pasaporte, foto y prueba de actividad.",
+    "sinonimos": [
+      "Ingreso electrónico",
+      "TIE Nómadas",
+      "Permiso remoto"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Seguridad Nacional",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Extranjeros nacionales de países que no requieran visa de turista para ingresar al territorio nacional, a los fines de prestar servicios en forma remota mediante la utilización de medios informáticos, de telecomunicaciones o análogos, en favor de personas físicas o jurídicas domiciliadas en el exte…"
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de solicitud suscrita por la persona interesada, indicando datos personales y actividad laboral o independiente que va a desarrollar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Breve Curriculum Vitae en donde conste su experiencia en el campo en el que se va a desempeñar, y nivel de estudios o formación alcanzada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pasaporte válido y vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Foto del ingresante tomada al momento de la carga del trámite. No es válida una imagen anterior. (Debe tomarse únicamente del rostro con un fondo blanco y ser presentada en formato JPG).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación probatoria de la actividad que desarrolla (contrato, aval de empresa o constancia de solicitud de demanda laboral, certificaciones o recibos de ingresos u honorarios) y consignar por lo menos una referencia vinculada a su ocupación.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá tu trámite a distancia ingresando en Tramitación de Ingreso Electrónico- TIE 24H."
+      },
+      {
+        "texto": "Adjuntá la documentación y datos requeridos según el tipo de ingreso que solicites."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tramitacion-de-ingreso-electronica-nomadas-digitales",
+      "titulo": "Tramitación de Ingreso Electrónica - Nómadas digitales | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T18:14:39.248Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto menciona 'Ver cuadro tasas migratorias' para el costo, pero no especifica el monto exacto en centavos.",
+    "La vigencia se menciona como '180 días', pero no se indica una fecha de inicio exacta (AAAA-MM-DD)."
+  ]
+}

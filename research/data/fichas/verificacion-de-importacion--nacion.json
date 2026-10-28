@@ -1,0 +1,112 @@
+{
+  "tramite": {
+    "slug": "verificacion-de-importacion",
+    "nombre": "Verificación de importación",
+    "nombre_busqueda": "Verificación de importación",
+    "resumen": "Trámite para solicitar la verificación de importación de material ante la ANMaC, requiriendo documentación técnica, factura y guía aérea, con costos por estampillas.",
+    "sinonimos": [],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMaC",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Representante legal o titular del importador."
+    ],
+    "requisitos": [
+      {
+        "texto": "Ficha de datos técnicos (FDT) N° 7, por duplicado, suscriptas por el representante legal o titular, con certificación de firma en imprenta, sin espacios en blanco ni corrector, consignando el número de Autorización de Importación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Despacho de Importación oficializado o despacho de importación provisorio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copias auténticas de la Guía Aérea (AWB), Carta de Porte Internacional por Carretera (CRT) o Conocimiento de embarque (B/L), según corresponda.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia certificada de la factura.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Lista de Empaque (Packing List) con los datos técnicos, número de contenedores, detalle de la mercadería, número de código y riesgo principal de Naciones Unidas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Traducción al idioma castellano de la documentación confeccionada en idioma extranjero, efectuada por traductor público nacional.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copias de la Autorización de Importación oportunamente emitida por la ANMaC.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copias de la habilitación del vehículo para el transporte de sustancias peligrosas (para transporte terrestre).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "Verificación de importación",
+      "gratis": false,
+      "monto_centavos": 100000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/verificacion-de-importacion"
+    },
+    {
+      "modalidad": "Habilitación de Verificación de Importación Continua",
+      "gratis": false,
+      "monto_centavos": 100000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/verificacion-de-importacion"
+    },
+    {
+      "modalidad": "Habilitación de Verificación Importación Fuera de Horario",
+      "gratis": false,
+      "monto_centavos": 100000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/verificacion-de-importacion"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/verificacion-de-importacion",
+      "titulo": "Verificación de importación | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T19:18:27.272Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere DNI argentino y cuenta en Mi Argentina para sacar turno en línea."
+  ]
+}

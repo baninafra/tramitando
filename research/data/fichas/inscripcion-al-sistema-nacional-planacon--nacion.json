@@ -1,0 +1,110 @@
+{
+  "tramite": {
+    "slug": "inscripcion-al-sistema-nacional-planacon",
+    "nombre": "Inscripción al sistema nacional PLANACON",
+    "nombre_busqueda": "inscripción al sistema nacional planacon",
+    "resumen": "Inscribí a tu empresa en el PLANACON para que la Prefectura Naval Argentina apruebe su plan de emergencia por contaminación con hidrocarburos y otras sustancias peligrosas.",
+    "sinonimos": [
+      "PLANACON",
+      "plan de emergencia por contaminación",
+      "inscripción al sistema nacional de preparación y lucha contra la contaminación"
+    ],
+    "temas": [
+      "comercio-e-industria"
+    ],
+    "temas_propuestos": [
+      {
+        "slug": "emergencias-ambientales",
+        "nombre": "Emergencias ambientales",
+        "padre": null
+      }
+    ]
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Prefectura Naval Argentina",
+    "sigla": "PNA",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier representante de la firma o agente marítimo.",
+      "La empresa tiene que estar operando y comprendida dentro de los alcances de la Ordenanza 8/98."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de la empresa peticionante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tres cuerpos originales del Plan.",
+        "aclaracion": "Para los planes del Anexo 18 (empresas armadoras de buques tanque) se presentan dos cuerpos originales."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la nota de la empresa con los cuerpos originales del Plan en la Mesa de Entradas."
+      },
+      {
+        "texto": "Esperá el análisis de la documentación por la División Planes. Si el resultado es satisfactorio, el trámite pasa a inspección."
+      },
+      {
+        "texto": "Aceptá la inspección del personal técnico, que evalúa un ejercicio de campo demostrativo con las estrategias operativas y los medios disponibles para atender una emergencia real."
+      },
+      {
+        "texto": "Recibí la notificación del resultado de la División Planes y de la División Técnica Ambiental."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "30 días hábiles desde el ingreso de la documentación a la División Planes.",
+    "consejos": [
+      "La Disposición de Aprobación de los Planes de Emergencia tiene una vigencia de cinco años.",
+      "La convalidación es anual y se puede hacer un mes antes o un mes después de la fecha de aprobación del Plan (fecha de la inspección inicial).",
+      "Si no hay respuesta en 30 días hábiles desde que acreditás el cumplimiento de las condiciones, el silencio se considera positivo.",
+      "Los aranceles se informan al momento de solicitar el trámite; el cuadro tarifario estará disponible a la brevedad."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Edificio Guardacostas",
+      "direccion": "Avenida Eduardo Madero 235",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": "Lunes a viernes de 8:00 a 13:00",
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscripcion-al-sistema-nacional-planacon"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscripcion-al-sistema-nacional-planacon",
+      "titulo": "Inscripción al Sistema Nacional - PLANACON | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T00:14:24.225Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/prefecturanaval/aranceles",
+      "titulo": "Aranceles | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T00:14:24.225Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto del arancel no figura en las páginas: hay que consultar el Cuadro Tarifario de Aranceles (Decreto 2756/75).",
+    "No se indica si el trámite requiere turno.",
+    "No se detalla qué debe contener cada cuerpo del Plan.",
+    "No se indica un correo electrónico de contacto."
+  ]
+}

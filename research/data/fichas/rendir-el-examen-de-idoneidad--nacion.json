@@ -1,0 +1,165 @@
+{
+  "tramite": {
+    "slug": "rendir-examen-idoneidad",
+    "nombre": "Rendir el examen de idoneidad",
+    "nombre_busqueda": "rendir examen idoneidad cnv",
+    "resumen": "Certificado que garantiza la excelencia en competencia e integridad para quienes ofrecen servicios al público inversor. Requiere rendir un examen total o parcial según tu formación previa.",
+    "sinonimos": [
+      "examen de idoneidad cnv",
+      "idoneidad cnv",
+      "examen venta asesoramiento inversor"
+    ],
+    "temas": [
+      "trabajo-y-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Comisión Nacional de Valores",
+    "sigla": "CNV",
+    "web": "https://www.argentina.gob.ar/servicio/rendir-el-examen-de-idoneidad"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas físicas mayores de 18 años que vayan a desempeñar actividades de venta, promoción o prestación de asesoramiento al público inversor en un agente autorizado por la CNV."
+    ],
+    "requisitos": [
+      {
+        "texto": "Ser mayor de 18 años.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar Constancia de CUIT/CUIL.",
+        "aclaracion": null
+      },
+      {
+        "texto": "No encuadrar dentro de las incompatibilidades del artículo 2 del Título XI, Sección I, Capítulo V de las Normas CNV T.O. 2013.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sistema e-Recauda desde Google Chrome."
+      },
+      {
+        "texto": "Seleccioná como Entidad Receptora de los Fondos y Entidad Ordenante: 602 – comisión nacional de valores."
+      },
+      {
+        "texto": "Generá comprobante de pago."
+      },
+      {
+        "texto": "Seleccioná el concepto de pago: tasa de examen idóneo."
+      },
+      {
+        "texto": "Seleccioná examen idóneo total o examen idóneo parcial según corresponda."
+      },
+      {
+        "texto": "Ingresá los datos de quien va a rendir el examen como Contribuyente deudor y los datos de quien va a abonar la tasa como Obligado usuario."
+      },
+      {
+        "texto": "Pagá el Volante de Pago Electrónico (VEP) generado."
+      },
+      {
+        "texto": "Ingresá a Inscripción Examen Idóneos con tu CUIT o DNI y N° de VEP o Boleta de Pago."
+      },
+      {
+        "texto": "Registrá tus datos e inscribite en el examen que debes rendir."
+      },
+      {
+        "texto": "Elegí el turno teniendo en cuenta modalidad, fecha y horario del examen."
+      },
+      {
+        "texto": "Leé y aceptá las normas para rendir el examen."
+      },
+      {
+        "texto": "Recibirás en tu correo electrónico la confirmación del turno y demás instrucciones para realizar el examen."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Concurrí 15 minutos antes del horario del turno a la sede indicada."
+      },
+      {
+        "texto": "Presentá al ingreso tu DNI para identificarse."
+      },
+      {
+        "texto": "Llevá birome y/o lápiz y calculadora científica."
+      },
+      {
+        "texto": "Realizá el examen en la modalidad presencial."
+      },
+      {
+        "texto": "Devolvé la hoja en blanco para realizar los ejercicios prácticos al veedor una vez finalizado el examen."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://www.argentina.gob.ar/turnos",
+    "plazo": null,
+    "consejos": [
+      "El examen no requiere de cursada previa y la Comisión Nacional de Valores no avala ningún curso de preparación.",
+      "Para la modalidad virtual, necesitás PC/Notebook/Netbook con cámara y micrófono habilitados, acceso a la plataforma Microsoft Teams y conexión de internet estable.",
+      "Para la modalidad presencial, no se admiten examinados que concurran con personas acompañantes.",
+      "El examen total tiene 60 preguntas multiple choice divididas en 6 módulos, con 45 minutos de duración y se aprueba con el 70% (42 respuestas correctas).",
+      "El examen parcial tiene 30 preguntas multiple choice, con 23 minutos de duración y se aprueba con el 70% (21 respuestas correctas).",
+      "El examen de idoneidad tiene una validez de 1 año desde su aprobación.",
+      "Si durante ese plazo nunca fuiste registrado como idóneo, deberás rendir el examen nuevamente."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 10300000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/rendir-el-examen-de-idoneidad"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 6500000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/rendir-el-examen-de-idoneidad"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/rendir-el-examen-de-idoneidad",
+      "titulo": "Rendir el examen de idoneidad | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T03:35:18.465Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T03:35:18.465Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Vigencia exacta del examen de idoneidad desde su aprobación.",
+    "Fecha exacta de vigencia de los VEPs abonados hasta el 31/12/2024.",
+    "Fecha exacta de vigencia de los VEPs abonados hasta el 30/6/2025.",
+    "Fecha exacta de vigencia de los VEPs abonados hasta el 31/12/2025.",
+    "Fecha exacta de caducidad de los VEPs abonados hasta el 31/12/2025.",
+    "Fecha exacta de inicio de la vigencia de los VEPs a partir del 2026."
+  ]
+}

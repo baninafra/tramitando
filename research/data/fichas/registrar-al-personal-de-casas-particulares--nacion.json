@@ -1,0 +1,141 @@
+{
+  "tramite": {
+    "slug": "personal-de-casas-particulares",
+    "nombre": "Registrar al personal de casas particulares",
+    "nombre_busqueda": "Registrar al personal de casas particulares",
+    "resumen": "Debes dar de alta a tu empleado en ARCA para que pueda acceder a beneficios sociales. El trámite es gratuito y se realiza en línea con tu clave fiscal.",
+    "sinonimos": [],
+    "temas": [
+      "personal-de-casas-particulares"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Economía",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A empleadores de casas particulares."
+    ],
+    "requisitos": [
+      {
+        "texto": "Clave fiscal nivel 2",
+        "aclaracion": null
+      },
+      {
+        "texto": "N° de CUIL del trabajador",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombre y apellido del trabajador",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fecha de nacimiento del trabajador",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio real del trabajador",
+        "aclaracion": null
+      },
+      {
+        "texto": "Obra social del trabajador",
+        "aclaracion": null
+      },
+      {
+        "texto": "CBU del trabajador (si está bancarizado)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número telefónico del trabajador",
+        "aclaracion": null
+      },
+      {
+        "texto": "Correo electrónico del trabajador",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tipo de trabajo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cantidad horas semanales",
+        "aclaracion": null
+      },
+      {
+        "texto": "Modalidad de liquidación",
+        "aclaracion": null
+      },
+      {
+        "texto": "Remuneración",
+        "aclaracion": null
+      },
+      {
+        "texto": "Modalidad de trabajo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fecha de ingreso",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio laboral",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá en la web de ARCA con tu clave fiscal."
+      },
+      {
+        "texto": "Cargá los datos de tu empleado ingresando su número de CUIL y cliqueá el botón Buscar."
+      },
+      {
+        "texto": "Ingresá el domicilio del trabajador seleccionándolo o ingresándolo nuevo."
+      },
+      {
+        "texto": "Completá los datos del trabajo: tipo, horas semanales, modalidad de liquidación, remuneración, modalidad de trabajo y fecha de ingreso."
+      },
+      {
+        "texto": "Completá los datos del domicilio laboral seleccionándolo o ingresándolo nuevo."
+      },
+      {
+        "texto": "Confirmá los datos mostrados en la pantalla."
+      },
+      {
+        "texto": "Finalizá el alta confirmando los datos."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Podés anular el alta hasta las 23.59 del día de su registro.",
+      "Pasada esa hora el trámite es presencial.",
+      "El trabajador debe elegir su obra social y realizar los trámites necesarios para la alta del servicio."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/registrar-al-personal-de-casas-particulares",
+      "titulo": "Registrar al personal de casas particulares | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T03:23:04.829Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite."
+  ]
+}

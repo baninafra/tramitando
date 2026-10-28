@@ -1,0 +1,30 @@
+---
+import PaginaFija from '../layouts/PaginaFija.astro';
+export const prerender = false;
+---
+<PaginaFija
+  titulo="Aviso legal"
+  descripcion="Tramitando es un sitio independiente que no pertenece a ningún organismo del Estado. Condiciones de uso de la información."
+>
+  <p><strong>Tramitando es un sitio independiente y no pertenece a ningún organismo del Estado.</strong> Verificá siempre en la fuente oficial antes de hacer tu trámite.</p>
+
+  <h2>La información</h2>
+  <p>Explicamos trámites públicos con datos tomados de fuentes oficiales, que citamos en cada ficha junto con la fecha en que los verificamos. Los organismos pueden cambiar requisitos, costos y horarios en cualquier momento, así que la información puede no estar al día.</p>
+  <p>Lo que publicamos es orientativo. No reemplaza lo que diga el organismo que hace el trámite, que es quien tiene la última palabra.</p>
+
+  <h2>Lo que no hacemos</h2>
+  <ul>
+    <li>No hacemos trámites ni gestiones por nadie.</li>
+    <li>No cobramos por la información ni derivamos a gestores.</li>
+    <li>No damos asesoramiento legal, contable ni profesional.</li>
+  </ul>
+
+  <h2>Contenido</h2>
+  <p>Los textos están redactados por Tramitando. Los datos públicos (montos, requisitos, direcciones) se informan con su fuente. Las marcas y nombres de organismos pertenecen a sus titulares y se mencionan solo para identificarlos.</p>
+
+  <p class="nota">Texto provisorio, a revisar antes de publicar el sitio.</p>
+</PaginaFija>
+
+<style>
+  .nota { font: var(--t-nota); color: var(--tinta-suave); }
+</style>

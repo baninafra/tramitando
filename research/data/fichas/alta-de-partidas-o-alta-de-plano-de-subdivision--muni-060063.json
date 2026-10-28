@@ -1,0 +1,77 @@
+{
+  "tramite": {
+    "slug": "alta-de-partidas-o-alta-de-plano-de-subdivision",
+    "nombre": "Alta de partidas o alta de plano de subdivisión",
+    "nombre_busqueda": "Alta de partidas o alta de plano de subdivisión",
+    "resumen": "El titular, tramitante o profesional actuante puede realizar este trámite en el Departamento de Catastro Parcelario del Palacio Municipal. Es un trámite gratuito que requiere el plano aprobado y la partida de origen sin deuda.",
+    "sinonimos": [],
+    "temas": [
+      "catastro-e-inmuebles",
+      "loteos-y-subdivisiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060063",
+  "organismo": {
+    "nombre": "Municipalidad de Balcarce",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El titular, tramitante o profesional actuante"
+    ],
+    "requisitos": [
+      {
+        "texto": "Concurrir con la copia del plano aprobado por dirección de geodesia",
+        "aclaracion": null
+      },
+      {
+        "texto": "La partida de origen no tiene que tener deuda",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Concurrí al Departamento de Catastro Parcelario, ubicado en el Palacio Municipal (Av. del Valle 602)."
+      },
+      {
+        "texto": "Entregá la documentación solicitada."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Departamento de Catastro Parcelario",
+      "direccion": "Av. del Valle 602",
+      "localidad": "Balcarce",
+      "horario": null,
+      "fuente_url": "https://balcarce-app.gob.ar/portal_servicios/servicio/alta-de-partidas-o-alta-de-plano-de-subdivision"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://balcarce-app.gob.ar/portal_servicios/servicio/alta-de-partidas-o-alta-de-plano-de-subdivision",
+      "titulo": "Portal de Servicios | Modernizacion Balcarce",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "costo",
+        "donde",
+        "resumen",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T20:47:42.599Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el plazo de duración del trámite.",
+    "No se especifica si se requiere turno."
+  ]
+}

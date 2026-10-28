@@ -1,0 +1,62 @@
+{
+  "tramite": {
+    "slug": "solicitar-alta-generica",
+    "nombre": "Solicitar alta genérica",
+    "nombre_busqueda": "Solicitar alta genérica",
+    "resumen": "Para empresas nacionales que prestan servicios públicos de transporte en otro país, podés solicitar el alta de tu parque móvil para el país de destino a través de TAD.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas nacionales que prestan servicios públicos de transporte en otro país"
+    ],
+    "requisitos": [
+      {
+        "texto": "Detalle de servicios prestados",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave fiscal de nivel 3",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Presentá la documentación a través de TAD"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-alta-generica",
+      "titulo": "Solicitar alta genérica | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T04:31:55.840Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La información sobre si se requiere turno no está en el texto de las páginas oficiales."
+  ]
+}

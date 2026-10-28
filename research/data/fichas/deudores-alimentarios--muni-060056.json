@@ -1,0 +1,72 @@
+{
+  "tramite": {
+    "slug": "certificado-libre-deuda-deudores-alimentarios",
+    "nombre": "Certificado de libre deuda de deudores alimentarios",
+    "nombre_busqueda": "Certificado de libre deuda alimentaria",
+    "resumen": "La Municipalidad de Bahía Blanca expide gratuitamente un certificado que informa la inscripción o no de una persona como deudora alimentaria, requerido para iniciar diversos trámites administrativos.",
+    "sinonimos": [
+      "Certificado de inscripción en el Registro de Deudores Alimentarios",
+      "Certificado de libre deuda alimentaria"
+    ],
+    "temas": [
+      "familia-y-pareja"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Persona física o jurídica, pública o privada, en forma gratuita."
+    ],
+    "requisitos": [
+      {
+        "texto": "Oficio judicial que peticione la inscripción del deudor.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en la Jefatura de Gabinete y Gobierno municipal con tu DNI."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Jefatura de Gabinete y Gobierno",
+      "direccion": "Alsina 65",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/deudores-alimentarios/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/tramites/deudores-alimentarios/",
+      "titulo": "Deudores Alimentarios | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T03:20:24.787Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Plazo de entrega del certificado",
+    "Requisitos específicos para personas jurídicas"
+  ]
+}

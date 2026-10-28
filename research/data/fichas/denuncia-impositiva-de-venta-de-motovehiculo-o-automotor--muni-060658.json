@@ -1,0 +1,94 @@
+{
+  "tramite": {
+    "slug": "denuncia-impositiva-de-venta-de-motovehiculo-o-automotor",
+    "nombre": "Denuncia impositiva de venta de motovehículo o automotor",
+    "nombre_busqueda": "Denuncia venta motovehículo Quilmes",
+    "resumen": "Reportá la venta de un vehículo sin pagar impuestos en Quilmes. El trámite se realiza online sin costo y requiere datos del vendedor y del comprador.",
+    "sinonimos": [
+      "Denuncia venta de auto",
+      "Reporte venta motovehículo"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060658",
+  "organismo": {
+    "nombre": "Secretaría de Hacienda",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que conozca la venta de un vehículo sin pago de impuestos en el municipio."
+    ],
+    "requisitos": [
+      {
+        "texto": "Datos del vendedor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos del comprador.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Placa del vehículo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fecha de la venta.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Precio de venta.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al trámite Denuncia impositiva de venta de motovehículo o automotor en la página de trámites."
+      },
+      {
+        "texto": "Completá los datos del vendedor."
+      },
+      {
+        "texto": "Completá los datos del comprador."
+      },
+      {
+        "texto": "Ingresá la placa del vehículo."
+      },
+      {
+        "texto": "Indicá la fecha de la venta."
+      },
+      {
+        "texto": "Escribí el precio de venta."
+      },
+      {
+        "texto": "Revisá los datos y completá el formulario."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mi.quilmes.gov.ar/tramites/77/denuncia-impositiva-de-venta-de-motovehiculo-o-automotor",
+      "titulo": "Denuncia impositiva de venta de motovehículo o automotor",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T12:22:31.568Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos adicionales ni aclaraciones especiales."
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "tramite": {
+    "slug": "ingresar-como-lector-la-biblioteca-nacional",
+    "nombre": "Ingresar como lector a la Biblioteca Nacional",
+    "nombre_busqueda": "ingresar como lector biblioteca nacional",
+    "resumen": "Obtené la tarjeta de identificación de lector para acceder libre y gratuitamente a las salas y material bibliográfico de la Biblioteca Nacional. El trámite es gratuito, dura 5 minutos y la tarjeta es válida por una sola jornada.",
+    "sinonimos": [
+      "ingreso lector biblioteca nacional",
+      "credencial lector biblioteca nacional"
+    ],
+    "temas": [
+      "cultura-deportes-y-turismo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Biblioteca Nacional",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Toda persona interesada en ingresar a la Biblioteca Nacional con fines de consulta, lectura, estudio y/o investigación.",
+      "Los menores de 12 años pueden ingresar acompañados por un adulto, con sus respectivos documentos de identidad."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento Nacional de Identidad o Cédula de Identidad o Pasaporte o registro de conducir o credencial profesional (con foto).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Libreta Universitaria, con foto que acredite tu identidad (para estudiantes universitarios).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Credencial en vigencia y Documento de Identidad (para investigadores acreditados).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate hasta la Biblioteca Nacional Mariano Moreno, Agüero 2502, CABA."
+      },
+      {
+        "texto": "Presentá la documentación y completá la tarjeta de identificación del lector."
+      },
+      {
+        "texto": "Recibí tu credencial en forma inmediata."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "5 minutos",
+    "consejos": [
+      "La validez de la tarjeta de identificación no es mayor a una jornada. Abarca tu estadía como lector en las instalaciones de la Biblioteca. En caso de reingresar tendrás que efectuar el trámite nuevamente.",
+      "Como lector podés ingresar a las áreas de consulta y de lectura con apuntes y elementos necesarios para el estudio (papel, lápices, lapiceras).",
+      "No podés entrar con libros propios, publicaciones periódicas de cualquier tipo, tintas, pegamentos, objetos cortantes (tijeras, cuchillos, cortapapeles, etc.), así como con carteras, bolsos, mochilas o portafolios.",
+      "Estas restricciones no rigen para la Sala de Lectura de Acceso Libre del 6° piso, salvo para los objetos cortantes u otros potencialmente dañinos.",
+      "El ingreso con computadoras portátiles, tablets, cámaras digitales sin flash y grabadoras requiere una planilla de solicitud de ingreso de equipos electrónicos.",
+      "El ingreso con equipos de filmación o fotográficos para realizar tomas de imágenes del interior de la Biblioteca Nacional se realiza con autorización previa de la Dirección y requiere registro de entrada y salida de los equipos en el sector de Seguridad de la recepción."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Biblioteca Nacional Mariano Moreno",
+      "direccion": "Agüero 2502, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/ingresar-como-lector-la-biblioteca-nacional"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/ingresar-como-lector-la-biblioteca-nacional",
+      "titulo": "Ingresar como lector a la Biblioteca Nacional | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T16:53:14.034Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La vigencia de la tarjeta de identificación no es mayor a una jornada.",
+    "La tarjeta es válida por una sola jornada."
+  ]
+}

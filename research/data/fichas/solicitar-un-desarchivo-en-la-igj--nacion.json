@@ -1,0 +1,100 @@
+{
+  "tramite": {
+    "slug": "solicitar-desarchivo-igj",
+    "nombre": "Solicitar un desarchivo en la IGJ",
+    "nombre_busqueda": "Solicitar desarchivo IGJ",
+    "resumen": "Podés solicitar el desarchivo de trámites en curso o finalizados a través de la plataforma Trámites a Distancia (TAD). Necesitás tener habilitado el servicio ARCA con clave fiscal nivel 2 o superior.",
+    "sinonimos": [
+      "Desarchivo de expediente IGJ",
+      "Quitar archivo trámite IGJ"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": "IGJ",
+    "web": "https://www.argentina.gob.ar/servicio/solicitar-un-desarchivo-en-la-igj"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quien tenga habilitado el servicio Trámites a Distancia (TAD) a través de ARCA con clave fiscal nivel 2 o superior."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener habilitado el servicio Trámites a Distancia (TAD) a través de ARCA (clave fiscal nivel 2 o superior).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Completar el formulario Desarchivo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Indicar el número de trámite o expediente del que solicitás el desarchivo en el campo Observaciones.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Imprimir el formulario completado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Abonar el trámite.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Guardar el comprobante de pago.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD."
+      },
+      {
+        "texto": "Completá los datos que te solicite el sistema."
+      },
+      {
+        "texto": "Adjuntá el formulario con su correspondiente comprobante de pago."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Guardá el comprobante de pago del trámite.",
+      "La información solicitada, notificaciones y observaciones que puedan surgir serán enviadas a la casilla del usuario TAD que solicitó el trámite."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 5000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-un-desarchivo-en-la-igj"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-un-desarchivo-en-la-igj",
+      "titulo": "Solicitar un desarchivo en la IGJ | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T10:29:59.262Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica un plazo de tiempo para la resolución del desarchivo."
+  ]
+}

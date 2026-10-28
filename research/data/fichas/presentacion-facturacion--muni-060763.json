@@ -1,0 +1,72 @@
+{
+  "tramite": {
+    "slug": "presentacion-de-facturacion",
+    "nombre": "Presentación de facturación",
+    "nombre_busqueda": "Presentación de facturación",
+    "resumen": "Todos los proveedores monotributistas deben presentar online la factura por los servicios prestados junto con la documentación mensual.",
+    "sinonimos": [],
+    "temas": [
+      "proveedores-y-compras"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060763",
+  "organismo": {
+    "nombre": "Municipalidad de San Nicolás de los Arroyos",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Todos los proveedores monotributistas"
+    ],
+    "requisitos": [
+      {
+        "texto": "Factura por los servicios prestados",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago de monotributo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago de seguro por accidentes personales",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá el trámite online."
+      },
+      {
+        "texto": "Ingresá acá y cargá la documentación solicitada."
+      },
+      {
+        "texto": "Al finalizar la carga, recibirás la confirmación para el pago de tus honorarios."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.sannicolasciudad.gob.ar/tramites/proveedores/presentacion-facturacion",
+      "titulo": "Presentación de facturación | Proveedores | Trámites | San Nicolás Ciudad",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T15:42:54.880Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se no especifica el monto del trámite ni los plazos de entrega."
+  ]
+}

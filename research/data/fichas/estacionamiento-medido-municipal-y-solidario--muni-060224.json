@@ -1,0 +1,82 @@
+{
+  "tramite": {
+    "slug": "abono-frentista-y-estacionamiento-medido-municipal",
+    "nombre": "Abono Frentista y Estacionamiento Medido Municipal",
+    "nombre_busqueda": "Abono frentista Chivilcoy",
+    "resumen": "Trámite para obtener el abono mensual de frentistas y el pago de estacionamiento medido en la Municipalidad de Chivilcoy.",
+    "sinonimos": [
+      "Pago estacionamiento Chivilcoy",
+      "Abono frentista municipal"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "estacionamiento-medido"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060224",
+  "organismo": {
+    "nombre": "Municipalidad de Chivilcoy",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Frentistas que deseen abonar el servicio de estacionamiento medido."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del solicitante.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá tu DNI en la Oficina de Estacionamiento Medido."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "Frentistas",
+      "gratis": false,
+      "monto_centavos": 2400000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://chivilcoy.gov.ar/secretaria-de-seguridad/estacionamiento-medido-municipal-y-solidario/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Estacionamiento Medido",
+      "direccion": "Necochea 27",
+      "localidad": "Chivilcoy",
+      "horario": null,
+      "fuente_url": "https://chivilcoy.gov.ar/secretaria-de-seguridad/estacionamiento-medido-municipal-y-solidario/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://chivilcoy.gov.ar/secretaria-de-seguridad/estacionamiento-medido-municipal-y-solidario/",
+      "titulo": "Estacionamiento Medido, Municipal y Solidario – Municipalidad de Chivilcoy",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T23:12:25.801Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Requisitos específicos para no frentistas o montos mensuales generales.",
+    "Plazo de pago o vencimiento del abono.",
+    "Si el trámite se puede realizar completamente en línea."
+  ]
+}

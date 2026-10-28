@@ -1,0 +1,110 @@
+{
+  "tramite": {
+    "slug": "ingreso-carpeta-obra-derecho-construccion",
+    "nombre": "Ingresar una carpeta de obra",
+    "nombre_busqueda": "carpeta de obra y derecho de construcción",
+    "resumen": "Presentá la carpeta de obra para que visen el plano. El derecho de construcción se paga según la valuación fiscal y la etapa de la obra.",
+    "sinonimos": [
+      "ingreso de carpeta de obra",
+      "derecho de construcción"
+    ],
+    "temas": [
+      "permiso-de-obra-y-planos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060466",
+  "organismo": {
+    "nombre": "Municipalidad de Lezama",
+    "sigla": null,
+    "web": "https://lezama.gov.ar/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "El profesional debe estar inscripto en la Municipalidad."
+    ],
+    "requisitos": [
+      {
+        "texto": "Copia del título del profesional.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de la matrícula.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante del último pago de la matrícula.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Inscripción en AFIP.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contrato del colegio por la tarea que vas a realizar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano de amojonamiento y deslinde realizado por un agrimensor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de ARBA 901-903.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Seis copias del plano aprobado por el colegio de arquitectura.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá dos copias de la carpeta de obra para el visado del plano."
+      },
+      {
+        "texto": "Comprá la carpeta después del visado, si resulta necesario."
+      },
+      {
+        "texto": "Completá la carpeta con el arquitecto."
+      },
+      {
+        "texto": "Pagá el 1 % de la valuación fiscal al iniciar la obra y el 1 % al finalizarla."
+      },
+      {
+        "texto": "Si empadronás la obra, pagá el 2 % de la valuación fiscal."
+      },
+      {
+        "texto": "Pagá el derecho de final de obra para que te entreguen los planos."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://lezama.gov.ar/obras/",
+      "titulo": "Municipalidad de Lezama",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T14:42:33.345Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa el monto en pesos del derecho de construcción; se calcula como porcentaje de la valuación fiscal.",
+    "No se indica si hace falta turno ni dónde se presenta la carpeta."
+  ]
+}

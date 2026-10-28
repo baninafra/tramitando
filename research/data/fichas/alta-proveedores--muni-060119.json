@@ -1,0 +1,154 @@
+{
+  "tramite": {
+    "slug": "inscripcion-proveedores-municipio",
+    "nombre": "Inscripción en el Registro de Proveedores del Municipio",
+    "nombre_busqueda": "Alta de proveedores Brandsen",
+    "resumen": "Para inscribirse en el Registro de Proveedores de la Municipalidad de Brandsen, necesitás llenar la planilla, presentar documentos específicos según tu caso y pagar una tasa.",
+    "sinonimos": [
+      "Alta de proveedores",
+      "Registro de proveedores Brandsen",
+      "Inscripción proveedores municipal"
+    ],
+    "temas": [
+      "proveedores-y-compras"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060119",
+  "organismo": {
+    "nombre": "Municipalidad de Brandsen",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas y profesionales que quieran inscribirse en el Registro de Proveedores de la Municipalidad de Brandsen."
+    ],
+    "requisitos": [
+      {
+        "texto": "Llenar la planilla de proveedores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de AFIP.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de ARBA (pedimos la extensión ampliación del rubro).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Habilitación Municipal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Firma, aclaración y DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estatuto si es una sociedad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de ser profesional, presentar fotocopia del título o certificado de acreditación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En el caso de ser una constructora Capital declarado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de institución bancaria a la capacidad económica reconocida.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Especialidad si la tiene.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cantidad de personal permanente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "ART Formulario 931.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tiempo de existencia de la empresa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si alquila o maneja camiones, combis, autos, etc.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Seguro automotor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "ART si tiene personal a cargo, con cédula azul si el vehículo no es de su pertenencia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pago de monotributo correspondiente al mes certificado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Registro de conducir.",
+        "aclaracion": null
+      },
+      {
+        "texto": "V.T.V. del vehículo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Seguro de responsabilidad civil, según el caso.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en la Municipalidad de Brandsen."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1691631,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://brandsen.gob.ar/alta_proveedores"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://brandsen.gob.ar/alta_proveedores",
+      "titulo": "Municipalidad de Brandsen - El lugar que nos merecemos",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "costo",
+        "quien",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T11:45:42.380Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina para presentación de documentos.",
+    "Plazo de respuesta o vigencia de la inscripción.",
+    "Si se requiere turno para la presentación."
+  ]
+}

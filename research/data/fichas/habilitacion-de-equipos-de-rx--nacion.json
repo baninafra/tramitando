@@ -1,0 +1,93 @@
+{
+  "tramite": {
+    "slug": "habilitacion-equipos-rx",
+    "nombre": "Habilitación de equipos de rayos x",
+    "nombre_busqueda": "Habilitación equipos rayos x",
+    "resumen": "Trámite para habilitar equipos generadores de rayos x, de resonancia magnética o de uso médico, odontológico, veterinario e industrial. Se realiza en línea y es gratuito.",
+    "sinonimos": [
+      "Habilitación equipos de rayos x",
+      "Habilitación equipos resonancia magnética",
+      "Habilitación equipos radiológicos"
+    ],
+    "temas": [
+      "salud-y-prevencion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El titular o apoderado."
+    ],
+    "requisitos": [
+      {
+        "texto": "Completar formulario de solicitud online en TAD.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Disposición de Habilitación del Establecimiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorizaciones individuales de uso para cada equipo específico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota original de designación y aceptación de la responsabilidad de uso firmadas por el titular y/o Director médico o técnico de la Institución y el profesional designado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planos con el estudio de seguridad y Protección aprobado por Radiofísica Sanitaria.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota en puño y letra indicando que el trámite es no arancelado de acuerdo a la Resolución Ministerial N° 1938/2025 (si no se puede hacer el pago en línea).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave fiscal nivel 2 o superior de la AFIP o apoderamiento en trámites a distancia para realizar el registro.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al TAD con Clave Fiscal y número de CUIT."
+      },
+      {
+        "texto": "Elegí el trámite solicitado y seguí los pasos allí indicados."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La vigencia es permanente en tanto no se modifique su instalación original."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/habilitacion-de-equipos-de-rx",
+      "titulo": "Habilitación de equipos de Rx | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T15:50:25.742Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Información sobre cómo sacar turno si es necesario."
+  ]
+}

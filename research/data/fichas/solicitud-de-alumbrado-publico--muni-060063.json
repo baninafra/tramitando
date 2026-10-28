@@ -1,0 +1,67 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-alumbrado-publico",
+    "nombre": "Solicitud de alumbrado público",
+    "nombre_busqueda": "Solicitud de alumbrado público",
+    "resumen": "Para ampliar el alumbrado público en Balcarce, presentá un formulario con copia de DNI en la Mesa de Entrada del palacio municipal. El trámite es gratuito y finaliza con un convenio con la Cooperativa de Electricidad.",
+    "sinonimos": [],
+    "temas": [
+      "alumbrado-publico"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060063",
+  "organismo": {
+    "nombre": "Municipalidad de Balcarce",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Residentes del Partido de Balcarce que requieran ampliación del alumbrado público"
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de solicitud",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de DNI",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Si tenés firma digital, podés enviar el formulario completo al mail mesadeentradasbalcarce@gmail.com junto con la copia de DNI digitalizada."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el formulario de solicitud junto con copia de DNI en la Mesa de Entrada del palacio municipal."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://balcarce-app.gob.ar/portal_servicios/servicio/solicitud-de-alumbrado-publico",
+      "titulo": "Portal de Servicios | Modernizacion Balcarce",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T21:44:57.553Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica si se requiere turno para este trámite."
+  ]
+}

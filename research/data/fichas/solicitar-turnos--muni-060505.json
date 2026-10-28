@@ -1,0 +1,62 @@
+{
+  "tramite": {
+    "slug": "solicitar-turnos-de-salud",
+    "nombre": "Solicitar turnos de salud",
+    "nombre_busqueda": "Sacar un turno médico en Magdalena",
+    "resumen": "Podés sacar online un turno para distintas especialidades del Hospital Municipal de Magdalena. Para hacerlo, necesitás que tu DNI esté registrado en el sistema por haber sacado antes un turno presencial.",
+    "sinonimos": [
+      "Turnos médicos en Magdalena"
+    ],
+    "temas": [
+      "centros-de-salud-y-turnos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060505",
+  "organismo": {
+    "nombre": "Hospital Municipal de Magdalena",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Pacientes del Hospital Municipal de Magdalena cuyo DNI ya esté registrado en el sistema por haber sacado alguna vez un turno presencial."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener el DNI registrado en el sistema.",
+        "aclaracion": "Si ya sacaste alguna vez un turno presencial."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá tu número de DNI para sacar turno online."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://magdalena.gob.ar/detalle-guia-de-tramites-y-servicios/solicitar-turnos/",
+      "titulo": "Solicitar Turnos Salud : Magdalena",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T14:57:12.314Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa cómo registrarte en el sistema si todavía no sacaste un turno presencial.",
+    "No se indica si el trámite tiene costo.",
+    "No se informa el enlace para ingresar el DNI y sacar el turno."
+  ]
+}

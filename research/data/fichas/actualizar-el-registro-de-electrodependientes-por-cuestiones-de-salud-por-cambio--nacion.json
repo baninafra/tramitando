@@ -1,0 +1,73 @@
+{
+  "tramite": {
+    "slug": "actualizar-registro-electrodependientes-cuestiones-salud",
+    "nombre": "Actualizar el registro de electrodependientes por cuestiones de salud",
+    "nombre_busqueda": "Actualizar registro electrodependientes salud",
+    "resumen": "Trámite gratuito para personas inscriptas en el Registro de Electrodependientes por Cuestiones de Salud que deban cambiar de domicilio, con el fin de mantener la provisión gratuita y constante de luz.",
+    "sinonimos": [
+      "Actualizar inscripción electrodependientes",
+      "Cambiar domicilio electrodependientes"
+    ],
+    "temas": [
+      "salud-y-prevencion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas o familiares de personas que se encuentran ya inscriptos en el Registro de Electrodependientes por Cuestiones de Salud y deban cambiar de domicilio."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI (frente y dorso) de la persona electrodependiente y de la persona autorizada, si la hubiere.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Factura del suministro eléctrico donde se solicita el alta del beneficio (sin talón de pago encima).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración jurada firmada y fechada por la persona ED o la autorizada si la hubiere.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Escaneá o fotografiá digitalmente toda la documentación."
+      },
+      {
+        "texto": "Enviar la documentación digitalizada por correo electrónico a [email protected]."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/actualizar-el-registro-de-electrodependientes-por-cuestiones-de-salud-por-cambio-de",
+      "titulo": "Actualizar el Registro de Electrodependientes por Cuestiones de Salud, por cambio de domicilio | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T04:18:24.969Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite."
+  ]
+}

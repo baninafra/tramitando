@@ -1,0 +1,118 @@
+{
+  "tramite": {
+    "slug": "solicitar-registracion-de-agente-institorio",
+    "nombre": "Solicitar registracion de agente institorio",
+    "nombre_busqueda": "solicitar registracion de agente institorio",
+    "resumen": "Para solicitar la inscripción de agente institorio ante la Inspección General de Justicia de la Ciudad Autónoma de Buenos Aires, necesitás presentar el formulario, el certificado de antecedentes penales, la constancia de quiebras y el instrumento de poder.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Interesados en solicitar la inscripción de Agente institorio."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario denominado \"Poder Agente Institorio\".",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado emitido por el Registro Nacional de Reincidencia y Estadística Carcelaria que acredite la inexistencia de antecedentes penales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia del Archivo General del Poder Judicial sobre pedidos de quiebra contra el interesado o presentación en concurso preventivo del mismo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de presentación donde se indiquen, con carácter de declaración jurada, los datos personales del solicitante: nombres y apellidos, número de Documento Nacional de Identidad, fecha y lugar de nacimiento, estado civil, nacionalidad, domicilio real, domicilio comercial (debe hallarse situado dentr…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Instrumento mediante el cual se otorga el poder.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Resolución o acto administrativo emitido en forma previa por la Superintendencia de Seguros de la Nación, mediante el cual el solicitante fue autorizado para actuar como agente institorio, cumpliendo en dicho organismo con los requisitos establecidos en la Resolución S.S.N. N°38052/2013 o la que en…",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el formulario del trámite y toda la documentación indicada en la Mesa General de Entradas de la Inspección General de Justicia, previa solicitud de turno."
+      },
+      {
+        "texto": "Una vez finalizado el trámite, retiralo por Mesa de entradas, Av. Paseo Colón 291, previa solicitud de turno."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "Trámite común: 12 módulos",
+      "gratis": false,
+      "monto_centavos": 1200000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-registracion-de-agente-institorio"
+    },
+    {
+      "modalidad": "Trámite urgente: 48 módulos",
+      "gratis": false,
+      "monto_centavos": 4800000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-registracion-de-agente-institorio"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Mesa General de Entradas de la Inspección General de Justicia",
+      "direccion": "Av. Paseo Colón 291",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-registracion-de-agente-institorio"
+    },
+    {
+      "nombre": "Archivo General del Poder Judicial",
+      "direccion": "Palacio de Tribunales, Talcahuano Nº 550, subsuelo",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-registracion-de-agente-institorio"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-registracion-de-agente-institorio",
+      "titulo": "Solicitar registración de Agente institorio | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T16:19:30.595Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de la oficina para sacar turno.",
+    "Valor exacto de la tasa retributiva de servicios."
+  ]
+}

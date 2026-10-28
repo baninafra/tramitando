@@ -1,0 +1,89 @@
+{
+  "tramite": {
+    "slug": "reemplazo-licencia-cambio-domicilio",
+    "nombre": "Reemplazo licencia por cambio de domicilio",
+    "nombre_busqueda": "Reemplazo licencia cambio domicilio",
+    "resumen": "Si cambiás de domicilio en el DNI, debés actualizar la licencia de conducir dentro de los 90 días. Si no lo hacés, la licencia se considera vencida y tenés que tramitarla como una original.",
+    "sinonimos": [
+      "Cambio domicilio licencia",
+      "Licencia domicilio diferente DNI"
+    ],
+    "temas": [
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060505",
+  "organismo": {
+    "nombre": "Municipalidad de Magdalena",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que tenga licencia de conducir y haya cambiado su domicilio en el DNI."
+    ],
+    "requisitos": [
+      {
+        "texto": "Último DNI con domicilio en el Partido o Constancia de DNI en Trámite + copia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Licencia Anterior (en el caso de extravío de la misma, presentar Noticia de Extravío emitida por el Registro Civil, Denuncia Policial o Acta de retención según corresponda).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de CUIL (sólo si no consta en DNI o licencia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de legalidad original, sólo licencias emitidas en otra provincia o que no figuren en sistema (emitido por el municipio de origen).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Libre Faltas Municipal.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Accedé al escritorio ciudadano y solicitá turno para la toma de datos."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Juzgado de Faltas",
+      "direccion": "Goenaga e/San Martín y Rivadavia",
+      "localidad": "Goenaga e/San Martín y Rivadavia",
+      "horario": null,
+      "fuente_url": "https://magdalena.gob.ar/detalle-guia-de-tramites-y-servicios/reemplazo-por-cambio-de-domicilio/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://magdalena.gob.ar/detalle-guia-de-tramites-y-servicios/reemplazo-por-cambio-de-domicilio/",
+      "titulo": "Reemplazo por cambio de domicilio : Magdalena",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T15:35:44.683Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vencimiento de la licencia conservará la fecha de vencimiento de la licencia original.",
+    "No se especifica el monto del costo del trámite.",
+    "No se especifica el plazo exacto en días para realizar el trámite.",
+    "No se especifica si el trámite se puede realizar en línea sin necesidad de turno presencial."
+  ]
+}

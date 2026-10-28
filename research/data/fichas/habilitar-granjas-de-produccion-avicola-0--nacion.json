@@ -1,0 +1,93 @@
+{
+  "tramite": {
+    "slug": "habilitar-granjas-de-produccion-avicola",
+    "nombre": "Habilitar granjas de producción avícola",
+    "nombre_busqueda": "Habilitar granjas avícolas",
+    "resumen": "Para habilitar granjas de producción avícola comercial necesitás declarar un domicilio electrónico y presentar documentación específica ante el Senasa.",
+    "sinonimos": [],
+    "temas": [
+      "produccion-rural",
+      "apoyo-a-productores"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Productores avícolas de producción comercial"
+    ],
+    "requisitos": [
+      {
+        "texto": "Datos del trámite",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitud de establecimiento avícola",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Habilitación Provincial o Municipal",
+        "aclaracion": null
+      },
+      {
+        "texto": "Permiso de radicación / de uso de suelo / zonificación",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Entrá a la Plataforma Trámites a Distancia - TAD"
+      },
+      {
+        "texto": "Completá los datos solicitados"
+      },
+      {
+        "texto": "Subí la documentación solicitada"
+      },
+      {
+        "texto": "Al confirmar el trámite el sistema otorgará un número de expediente que lo identifica y también se podrá observar cada uno de los documentos que se adjuntaron y conforman el trámite"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/habilitar-granjas-de-produccion-avicola-0",
+      "titulo": "Habilitar granjas de producción avícola | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T16:19:25.687Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T16:19:25.687Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no se especifica en el texto, solo se indica que se debe abonar el arancel correspondiente según las normativas del Senasa."
+  ]
+}

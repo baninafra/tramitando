@@ -1,0 +1,71 @@
+{
+  "tramite": {
+    "slug": "medicacion-profe",
+    "nombre": "Medicación PROFE",
+    "nombre_busqueda": "Medicación PROFE",
+    "resumen": "Programa federal para atención médica a personas con discapacidades pensionadas. Requiere receta y documentación que acredite el consumo de medicamentos.",
+    "sinonimos": [],
+    "temas": [
+      "salud-y-prevencion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060042",
+  "organismo": {
+    "nombre": "Municipalidad de Ayacucho",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas con discapacidades que estén pensionadas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Receta",
+        "aclaracion": null
+      },
+      {
+        "texto": "Resumen de historia clínica que acredite el consumo de los medicamentos por parte del paciente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Último recibo de cobro que diga vigencia 45 días.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Coordinación de Personas con Capacidades Diferentes",
+      "direccion": "Centro Cívico, 9 de Julio 755",
+      "localidad": "Centro Cívico, 9 de Julio 755",
+      "horario": null,
+      "fuente_url": "https://www.ayacucho.gob.ar/?q=content/medicacion-profe"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.ayacucho.gob.ar/?q=content/medicacion-profe",
+      "titulo": "Medicación PROFE",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T02:55:24.610Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere verificar si el trámite se realiza presencialmente o si hay pasos online.",
+    "Se requiere verificar si el trámite requiere turno."
+  ]
+}

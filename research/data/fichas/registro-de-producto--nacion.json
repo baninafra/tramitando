@@ -1,0 +1,121 @@
+{
+  "tramite": {
+    "slug": "registro-de-producto",
+    "nombre": "Registro de producto",
+    "nombre_busqueda": "Registro de producto nitrato de amonio",
+    "resumen": "Trámite para solicitar el registro de productos, específicamente nitrato de amonio, ante la ANMaC. Requiere documentación técnica, formularios y pago de tasas.",
+    "sinonimos": [],
+    "temas": [
+      "emprendedores-y-monotributo",
+      "comercio-e-industria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMaC",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Fabricantes e importadores."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de solicitud especificando la petición que se efectúa, con indicación del material que solicita registrar, documentación que se agrega, etc., con firma y aclaración del representante legal o titular de la empresa, debidamente certificada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ficha de Datos Técnicos (FDT) N3, suscripto por el representante legal o titular de la empresa, con firma debidamente certificada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopias intervenidas por el representante legal o titular de la causante de la Hoja de Seguridad del Material (Material Safety Data Sheet) del producto que intenta registrar en idioma español o con traducción suscripta por traductor matriculado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Diseño del etiquetado de acuerdo a lo indicado en el Decreto 302/83.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Cuando por falta de muestras no sea posible a la ANMaC expedirse definitivamente sobre la calidad de un material, el interesado deberá solicitar la registración provisoria del mismo. Esta quedará sujeta a las pruebas, ensayos y análisis que en definitiva se practiquen y en base a las cuales pueda d…",
+      "El costo de todo ensayo pericial de material que perciba la entidad autorizada se encontrará a cargo del solicitante."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 10000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/registro-de-producto"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 5000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/registro-de-producto"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Sede Central del organismo",
+      "direccion": "Bartolomé Mitre 1465/9",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/registro-de-producto"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/registro-de-producto",
+      "titulo": "Registro de producto | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T03:27:20.270Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T03:27:20.270Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/",
+      "titulo": "Inicio | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T03:27:20.270Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La Disp. 140/07 establece que está prohibida la realización de cualquier acto con productos con nitrato de amonio no registrados.",
+    "Las Leyes 23.283 y 23.412 son las que rigen el valor de los formularios.",
+    "El Decreto 302/83 establece los requisitos para el diseño del etiquetado.",
+    "No se especifica el plazo de atención del trámite.",
+    "No se especifica si se requiere turno para realizar el trámite."
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "tramite": {
+    "slug": "renovacion-de-transporte-privado-de-pasajeros",
+    "nombre": "Solicitud de renovación de transporte privado de pasajeros",
+    "nombre_busqueda": "Renovar licencia transporte privado pasajeros",
+    "resumen": "Este trámite gestiona la renovación de la licencia de transporte privado de pasajeros. Requiere tener la documentación y pagos al día, presentar una nota dirigida al Intendente y acreditar la prestación del servicio con recorridos e inicio de punto terminal.",
+    "sinonimos": [
+      "Renovación de licencia de transporte privado",
+      "Renovación de transporte privado de pasajeros"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060063",
+  "organismo": {
+    "nombre": "Municipalidad de Balcarce",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que cumplan con los requisitos y documentación requerida."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener toda la documentación y pagos al día",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota dirigida al Sr. Intendente solicitando la Renovación como Transporte Privado de Pasajeros",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditar la prestación del servicio a realizar, con sus respectivos recorridos e Inicio de Punto Terminal/Inicial",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Inspección General",
+      "direccion": "Av. San Martin 3646",
+      "localidad": "Av. San Martin 3646",
+      "horario": null,
+      "fuente_url": "https://balcarce-app.gob.ar/portal_servicios/servicio/solicitud-de-renovacion-de-transporte-privado-de-pasajeros"
+    },
+    {
+      "nombre": "Dirección de Recursos",
+      "direccion": "1er. Piso Palacio Municipal",
+      "localidad": "1er. Piso Palacio Municipal",
+      "horario": null,
+      "fuente_url": "https://balcarce-app.gob.ar/portal_servicios/servicio/solicitud-de-renovacion-de-transporte-privado-de-pasajeros"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://balcarce-app.gob.ar/portal_servicios/servicio/solicitud-de-renovacion-de-transporte-privado-de-pasajeros",
+      "titulo": "Portal de Servicios | Modernizacion Balcarce",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "costo",
+        "donde",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T21:51:05.453Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del pago no se especifica en el texto.",
+    "No se indica si el trámite se realiza online o presencial.",
+    "No se especifica si se requiere turno.",
+    "No se indica el plazo de renovación."
+  ]
+}

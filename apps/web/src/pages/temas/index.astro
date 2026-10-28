@@ -1,0 +1,55 @@
+---
+// Índice de la taxonomía: todos los temas con sus subtemas y, aparte, las situaciones de vida.
+import Base from '../../layouts/Base.astro';
+import TarjetaTema from '../../components/TarjetaTema.astro';
+import { listarTemas } from '../../lib/data';
+
+const { temas, situaciones } = await listarTemas();
+---
+<Base
+  titulo="Temas"
+  descripcion="Todos los temas de trámites de la Argentina: documentos, vehículos, trabajo, familia, salud, vivienda y más. Con fuente oficial y fecha de verificación."
+>
+  <div class="contenedor">
+    <nav class="migas" aria-label="Estás en">
+      <ol><li><a href="/">Inicio</a></li><li aria-current="page">Temas</li></ol>
+    </nav>
+
+    <header class="cabecera">
+      <h1>Temas</h1>
+      <p class="bajada">Elegí el tema que más se parezca a lo que tenés que hacer. Adentro están los trámites, con lo que cuestan y lo que tardan.</p>
+    </header>
+
+    <section class="bloque" aria-labelledby="todos-los-temas">
+      <h2 id="todos-los-temas" class="visualmente-oculto">Todos los temas</h2>
+      {temas.length > 0 ? (
+        <ul class="grilla-temas">
+          {temas.map((tema) => <li><TarjetaTema tema={tema} nivel="h3" /></li>)}
+        </ul>
+      ) : (
+        <p class="vacio">Todavía no hay temas cargados. Los vamos sumando de a poco.</p>
+      )}
+    </section>
+
+    {situaciones.length > 0 && (
+      <section class="bloque" id="situaciones" aria-labelledby="t-situaciones">
+        <div class="seccion-cabecera">
+          <h2 id="t-situaciones" class="titulo-seccion">¿Qué te pasó?</h2>
+          <p class="cuenta">Atajos por situación de vida</p>
+        </div>
+        <p class="bajada intro">Si te pasó algo puntual, arrancá por acá: juntamos los trámites de varios temas que suelen necesitarse juntos.</p>
+        <ul class="grilla-temas">
+          {situaciones.map((situacion) => <li><TarjetaTema tema={situacion} nivel="h3" /></li>)}
+        </ul>
+      </section>
+    )}
+  </div>
+</Base>
+
+<style>
+  .cabecera { display: grid; gap: var(--espacio-3); padding-block: var(--espacio-4) var(--espacio-6); }
+  .bloque { display: grid; gap: var(--espacio-4); margin-bottom: var(--espacio-7); }
+  .intro { margin-top: calc(var(--espacio-4) * -1); }
+  .grilla-temas { list-style: none; padding: 0; display: grid; gap: var(--espacio-3); grid-template-columns: repeat(auto-fill, minmax(min(100%, 420px), 1fr)); }
+  .vacio { color: var(--tinta-2); }
+</style>

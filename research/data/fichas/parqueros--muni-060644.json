@@ -1,0 +1,88 @@
+{
+  "tramite": {
+    "slug": "registro-de-parqueros",
+    "nombre": "Registro de jardineros, podadores, parqueros y afines",
+    "nombre_busqueda": "inscribirse en el registro de parqueros de Pinamar",
+    "resumen": "Inscribite gratis y de forma digital en el registro si prestás servicios de jardinería, poda, desmontes, extracción de árboles o actividades afines en el Partido de Pinamar. Al completar el formulario y aceptar una declaración jurada, recibís una credencial digital por correo electrónico.",
+    "sinonimos": [
+      "Registro de parqueros",
+      "Registro municipal de jardineros y podadores"
+    ],
+    "temas": [
+      "poda-y-arbolado"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060644",
+  "organismo": {
+    "nombre": "Municipalidad de Pinamar",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas humanas y jurídicas que presten servicios de jardinería, poda, desmontes, extracción de árboles o actividades afines en el Partido de Pinamar."
+    ],
+    "requisitos": [
+      {
+        "texto": "Prestar servicios de jardinería, poda, desmontes, extracción de árboles o actividades afines en el Partido de Pinamar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Completar el formulario de inscripción.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Aceptar una declaración jurada.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario de inscripción en la sección «Trámites» / «Registro de parqueros» de la página de la Municipalidad de Pinamar."
+      },
+      {
+        "texto": "Aceptá la declaración jurada."
+      },
+      {
+        "texto": "Recibí la credencial digital que la Secretaría de Servicios Urbanos enviará al correo electrónico que informaste."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Exhibí la credencial digital cuando te la requieran agentes del área de fiscalización."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": true,
+      "monto_centavos": null,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://pinamar.gob.ar/parqueros/"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://pinamar.gob.ar/parqueros/",
+      "titulo": "Registro de Jardineros, Podadores, Parqueros y Afines – Municipalidad de Pinamar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T16:26:50.899Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa un plazo para recibir la credencial digital."
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "tramite": {
+    "slug": "ingresos-brutos-modificacion-actividad",
+    "nombre": "Modificación de actividad",
+    "nombre_busqueda": "Modificación de actividad IIBB",
+    "resumen": "Para modificar la actividad en el registro de Ingresos Brutos, se debe gestionar directamente en el sitio web oficial de ARBA sin acudir a la municipalidad.",
+    "sinonimos": [
+      "Cambio de actividad IIBB",
+      "Actualización de actividad en IIBB"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "comercio-e-industria",
+      "habilitacion-comercial",
+      "cambios-y-baja-de-habilitacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Administración Regional de Bienes del Estado",
+    "sigla": "ARBA",
+    "web": "http://www.arba.gov.ar/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas y personas que tengan inscripta una actividad en el registro de Ingresos Brutos y deseen modificarla."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de modificación de actividad generado en el sitio web de ARBA.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar al sitio web oficial de ARBA."
+      },
+      {
+        "texto": "Gestionar en dicho sitio web la modificación de la actividad (generación de formulario), siguiendo el instructivo disponible."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultar al teléfono 0291 459 4000, extensión 2136, para dudas sobre el trámite."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/tramites/iibb/modificacion-actividad/",
+      "titulo": "Modificación de actividad | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T20:44:07.497Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el monto de la tasa o costo para la modificación de actividad.",
+    "No se especifica el plazo de tiempo para la resolución de la modificación."
+  ]
+}

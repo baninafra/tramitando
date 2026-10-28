@@ -1,0 +1,75 @@
+{
+  "tramite": {
+    "slug": "declaracion-jurada-de-revaluo",
+    "nombre": "Declaración jurada de revalúo",
+    "nombre_busqueda": "Declaración jurada de revalúo",
+    "resumen": "Es un trámite para actualizar el valor de los inmuebles ante el catastro. Se realiza presentando la declaración jurada y los documentos de identidad.",
+    "sinonimos": [],
+    "temas": [
+      "catastro-e-inmuebles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060658",
+  "organismo": {
+    "nombre": "Secretaría de Hacienda",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Propietarios de inmuebles en el municipio."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original y copia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cédula de identidad de la persona que firma la declaración.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración jurada de revalúo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la declaración jurada de revalúo."
+      },
+      {
+        "texto": "Llevá el DNI original y copia."
+      },
+      {
+        "texto": "Llevá la cédula de identidad de la persona que firma la declaración."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mi.quilmes.gov.ar/tramites/120/declaracion-jurada-de-revaluo",
+      "titulo": "Declaración jurada de revalúo",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T08:23:08.984Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos adicionales ni aclaraciones especiales para casos particulares.",
+    "No se indica si el trámite se puede realizar online.",
+    "No se indica si se requiere turno.",
+    "No se especifica el plazo de atención."
+  ]
+}

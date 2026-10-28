@@ -1,0 +1,108 @@
+{
+  "tramite": {
+    "slug": "inscripcion-de-laboratorios-yo-solicitar-altas-de-rubros-analiticos-en-la-red-nacional-de",
+    "nombre": "Inscribir laboratorios y/o solicitar altas de rubros analíticos en la Red Nacional de Laboratorios",
+    "nombre_busqueda": "Inscribir laboratorios Senasa",
+    "resumen": "Realizá la inscripción de tu laboratorio para obtener el certificado de autorización para emitir resultados con validez oficial en el rubro analítico solicitado. El trámite es semipresencial y requiere declarar un domicilio electrónico.",
+    "sinonimos": [],
+    "temas": [
+      "bromatologia-y-alimentos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Laboratorios de personas humanas o jurídicas, debidamente inscriptas, entes centralizados o descentralizados del Estado Nacional, Provincial, Municipal y de Universidades Estatales o Privadas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Conocer y cumplir con las condiciones de la normativa vigente publicada en la web.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cumplir con los requisitos técnicos particulares de cada rubro publicados en la web.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Generar un Formulario con carácter de Declaración Jurada que contiene la Información General del Laboratorio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar un Expediente de alta de rubro (uno por cada rubro solicitado).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declarar el domicilio electrónico mediante el sistema SIGTrámites.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma TAD y seleccioná Inscripción en la Red o Alta de Rubro con CLAVE FISCAL."
+      },
+      {
+        "texto": "Generá el Formulario con carácter de Declaración Jurada que contiene la Información General del Laboratorio."
+      },
+      {
+        "texto": "Generá el Expediente de alta de rubro para cada rubro solicitado."
+      },
+      {
+        "texto": "Subí la documentación complementaria si la Coordinación de la Red de Laboratorios lo requiere mediante la sección NOTIFICACIONES."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La Coordinación de la Red Nacional de Laboratorios evaluará la información y emitirá un informe.",
+      "En caso de encontrarse en condiciones, se otorgará el estatus de solicitante para acceder al Sistema GRECERT.",
+      "La Coordinación Técnica evaluará la documentación y emita el correspondiente informe técnico.",
+      "Si la documentación se encuentra en condiciones administrativas y técnicas, se coordinará una auditoría y entrega del interlaboratorio.",
+      "De resultar ambos satisfactorios, culmina el trámite de autorización en la REDLAB emitiendo el Certificado de autorización."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Red Nacional de Laboratorios Senasa",
+      "direccion": "Talcahuano N° 1660, B1640CZT, Martínez, PROVINCIA DE BUENOS AIRES",
+      "localidad": "Martínez",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-laboratorios-yo-solicitar-altas-de-rubros-analiticos-en-la-red-nacional-de"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribir-laboratorios-yo-solicitar-altas-de-rubros-analiticos-en-la-red-nacional-de",
+      "titulo": "Inscribir laboratorios y/o solicitar altas de rubros analíticos en la Red Nacional de Laboratorios | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T16:56:43.798Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/laboratorios/rednacional-de-laboratorios",
+      "titulo": "Red Nacional de Laboratorios | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T16:56:43.798Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel para el alta de rubro y la auditoría/interlaboratorio no está especificado en el texto, se debe consultar la normativa vigente.",
+    "El plazo exacto para la evaluación y emisión del certificado de autorización no está especificado en el texto."
+  ]
+}

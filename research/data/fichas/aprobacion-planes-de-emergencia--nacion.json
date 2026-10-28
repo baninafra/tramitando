@@ -1,0 +1,100 @@
+{
+  "tramite": {
+    "slug": "aprobacion-planes-de-emergencia",
+    "nombre": "Aprobación planes de emergencia",
+    "nombre_busqueda": "Aprobación planes de emergencia",
+    "resumen": "El trámite consiste en presentar 3 cuerpos del Plan de Emergencia para que la Prefectura Naval Argentina lo apruebe y la empresa entre en el sistema PLANACON.",
+    "sinonimos": [],
+    "temas": [
+      "urgencias-y-emergencias",
+      "bomberos-y-defensa-civil"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Prefectura Naval Argentina",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier representante de la firma o agente marítimo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de la empresa adjuntando 3 cuerpos del Plan (originales).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para el caso de los Planes del Anexo 18 (Empresas Armadoras de buques tanque), se presentan 2 cuerpos (originales).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación en dependencias de todo el país."
+      },
+      {
+        "texto": "Asistí DOS veces: una para presentar la documentación y otra para retirar el certificado correspondiente."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "30 días",
+    "consejos": [
+      "La Disposición de Aprobación de los Planes de Emergencia tiene una vigencia de cinco (5) años, con una Convalidación anual que puede realizarse un (1) mes antes o un (1) mes después a la fecha de aprobación del Plan.",
+      "El trámite se encuentra alcanzado por las consideraciones establecidas en el inciso b del Art. 10 de la Ley N° 19.549, respecto del silencio con sentido positivo.",
+      "El plazo estipulado para su configuración es de 30 días habiles después de haber acreditado el cumplimiento de las condiciones previstas para el otorgamiento de la autorización administrativa."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Guardacostas",
+      "direccion": "Edificio Guardacostas Avenida Eduardo Madero 235 - CIUDAD AUTONOMA DE BUENOS AIRES",
+      "localidad": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/aprobacion-planes-de-emergencia"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/aprobacion-planes-de-emergencia",
+      "titulo": "Aprobación planes de emergencia | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T14:58:13.202Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/prefecturanaval/aranceles",
+      "titulo": "Aranceles | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T14:58:13.202Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T14:58:13.202Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Vigencia 5 años",
+    "Convalidación anual que puede realizarse un (1) mes antes o un (1) mes después a la fecha de aprobación del Plan",
+    "Consultar Cuadro Tarifario de Aranceles acorde valores establecidos Decreto 2756/75"
+  ]
+}

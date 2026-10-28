@@ -1,0 +1,115 @@
+{
+  "tramite": {
+    "slug": "licencia-conducir-renovacion",
+    "nombre": "Renovar la licencia de conducir",
+    "nombre_busqueda": "renovación de la licencia de conducir",
+    "resumen": "Podés renovar la licencia hasta 30 días antes de su vencimiento. Necesitás presentar la licencia y el DNI originales con dos fotocopias de cada uno, pagar los sellados y rendir un examen visual.",
+    "sinonimos": [
+      "renovación de licencia de conducir"
+    ],
+    "temas": [
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060274",
+  "organismo": {
+    "nombre": "Municipalidad de Florencio Varela",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas con domicilio en Florencio Varela."
+    ],
+    "requisitos": [
+      {
+        "texto": "Licencia de conducir que está por vencer, original y dos fotocopias.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento Nacional de Identidad (DNI), original y dos fotocopias.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Saber leer y escribir.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la licencia que está por vencer, original y dos fotocopias."
+      },
+      {
+        "texto": "Presentá tu DNI original y dos fotocopias."
+      },
+      {
+        "texto": "Pagá los sellados nacional, provincial y municipal, y el libre deuda."
+      },
+      {
+        "texto": "Rendí el examen visual."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": "Podés renovar la licencia hasta 30 días antes de su vencimiento. Una vez vencida, tenés 90 días para renovarla. Después de ese plazo, tenés que hacer el trámite completo como si fuera la primera vez:…",
+    "consejos": [
+      "Si renovás la licencia por deterioro o para actualizar tus datos, te dan una copia con la misma fecha de vencimiento, salvo que ya estés dentro del período de renovación."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 4448750,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.varela.gob.ar/licenciasdeconducir/renovacion.aspx"
+    },
+    {
+      "modalidad": "Eximidos 1",
+      "gratis": false,
+      "monto_centavos": 2161550,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.varela.gob.ar/licenciasdeconducir/renovacion.aspx"
+    },
+    {
+      "modalidad": "Eximidos 2",
+      "gratis": false,
+      "monto_centavos": 1589750,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.varela.gob.ar/licenciasdeconducir/renovacion.aspx"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.varela.gob.ar/licenciasdeconducir/renovacion.aspx",
+      "titulo": "Florencio Varela",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T12:35:43.248Z"
+    },
+    {
+      "url": "https://www.varela.gob.ar/licenciasdeconducir/turnos.aspx",
+      "titulo": "Florencio Varela",
+      "bloques": [
+        "costo",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T12:35:43.248Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica un enlace web para solicitar turno."
+  ]
+}

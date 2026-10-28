@@ -1,0 +1,80 @@
+{
+  "tramite": {
+    "slug": "cuit-y-clave-fiscal",
+    "nombre": "Sacá la CUIT",
+    "nombre_busqueda": "Obtener CUIT por internet",
+    "resumen": "La CUIT es un código que identifica a trabajadores autónomos, comercios y empresas. Podés obtenerla gratis en línea si tenés DNI y Clave fiscal.",
+    "sinonimos": [
+      "Obtener clave única de identificación tributaria",
+      "Sacar CUIT por internet",
+      "Generar CUIT"
+    ],
+    "temas": [
+      "cuit-y-clave-fiscal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración Federal de Ingresos Públicos",
+    "sigla": "AFIP",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Trabajadores autónomos",
+      "Monotributistas",
+      "Comerciantes",
+      "Profesionales",
+      "Empresas"
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI actualizado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave fiscal",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Hacé clic en el botón Iniciar trámite."
+      },
+      {
+        "texto": "Completá la información personal que el sistema te solicita."
+      },
+      {
+        "texto": "Sacá una foto a tu DNI y cargala en el sistema."
+      },
+      {
+        "texto": "Una vez validada tu información, recibí tu CUIT."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-cuit-por-internet",
+      "titulo": "Obtener CUIT por internet | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T06:27:11.059Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si tenés DNI argentino y cuenta en Mi Argentina podés sacar turno en línea."
+  ]
+}

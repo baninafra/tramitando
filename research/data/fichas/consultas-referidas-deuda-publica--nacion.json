@@ -1,0 +1,73 @@
+{
+  "tramite": {
+    "slug": "consultas-referidas-deuda-publica",
+    "nombre": "Consultas referidas a deuda pública",
+    "nombre_busqueda": "Consultas referidas a deuda pública",
+    "resumen": "Información sobre el estado de trámites de indemnizaciones para ex agentes de YPF y juicios laborales al Estado Nacional.",
+    "sinonimos": [],
+    "temas": [
+      "jubilaciones-y-pensiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Acreedores de indemnizaciones para ex agentes de YPF o juicios laborales al Estado Nacional."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento Nacional de Identidad (DNI) si concurre personalmente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poder especial otorgado ante escribano público si concurre un apoderado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de operación o de liquidación otorgado por el Organismo Deudor si la consulta es telefónica.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consultas-referidas-deuda-publica",
+      "titulo": "Consultas referidas a Deuda pública | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-26T05:46:19.617Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T05:46:19.617Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de las oficinas para atención presencial.",
+    "Horarios de atención.",
+    "Si se requiere turno para la consulta.",
+    "Enlace para sacar turno si es necesario.",
+    "Vigencia de la información."
+  ]
+}

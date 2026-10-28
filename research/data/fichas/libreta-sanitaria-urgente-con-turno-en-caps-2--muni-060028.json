@@ -1,0 +1,78 @@
+{
+  "tramite": {
+    "slug": "libreta-sanitaria-urgente-con-turno-en-caps",
+    "nombre": "Libreta Sanitaria Urgente Con Turno En Caps",
+    "nombre_busqueda": "Libreta sanitaria urgente caps",
+    "resumen": "Trámite rápido para obtener la Libreta Sanitaria obligatoria con turno previo en el CAPS del Municipio. Incluye control médico y firma profesional.",
+    "sinonimos": [
+      "Libreta sanitaria urgencia caps",
+      "Libreta sanitaria urgente brown"
+    ],
+    "temas": [
+      "carnet-sanitario"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060028",
+  "organismo": {
+    "nombre": "Municipio de Almirante Brown",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que necesite la libreta sanitaria."
+    ],
+    "requisitos": [
+      {
+        "texto": "Sacar turno.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Abonar Derecho de Oficina.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentarse con DNI.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Solicitá el turno en el CAPS del Municipio."
+      },
+      {
+        "texto": "Aboná el Derecho de Oficina."
+      },
+      {
+        "texto": "Presentate con tu DNI para el control médico y firma profesional."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.brown.gob.ar/tramites/libreta-sanitaria-urgente-con-turno-en-caps-2/",
+      "titulo": "Libreta Sanitaria Urgente Con Turno En Caps",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T19:01:51.991Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del Derecho de Oficina no se especifica en el texto.",
+    "La dirección exacta del CAPS no se especifica en el texto."
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "tramite": {
+    "slug": "solicitar-certificado-de-aportes-efectuados-al-iaf",
+    "nombre": "Solicitar certificado de aportes efectuados al IAF",
+    "nombre_busqueda": "certificado aportes IAF",
+    "resumen": "Este trámite permite obtener un documento que consigna los años de aportes realizados al Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares desde el ingreso a la Fuerza. Es gratuito y tiene un plazo de 10 días hábiles.",
+    "sinonimos": [
+      "certificado de aportes IAF",
+      "certificado de servicio IAF",
+      "certificado de aportes militares"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones",
+      "aportes-e-historia-laboral"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares",
+    "sigla": "IAF",
+    "web": "https://www.argentina.gob.ar/iaf"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Al personal de las tres Fuerzas Armadas, perciban o no, los haberes de retiro y/o pensión a través del IAF."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del titular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado o cómputo de servicio, extendido por la Contaduría del Estado Mayor de la Fuerza a la que perteneciste.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el titular del beneficio está fallecido: acta de defunción del titular y documento que acredite el vínculo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá con tu CUIL y contraseña al portal eIAF Beneficiarios o a la App eIAF."
+      },
+      {
+        "texto": "Dejanos tu solicitud en el apartado Sistema Integrado de Consultas."
+      },
+      {
+        "texto": "Personal de Atención al Público te indicará los pasos a seguir para realizar el trámite."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate con la documentación requerida a la sede central del IAF en Cerrito 572 – CABA o a las Delegaciones del Interior."
+      },
+      {
+        "texto": "Presentá la documentación requerida en el horario de 08:00 a 13:00 horas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "10 días hábiles",
+    "consejos": [
+      "Si no estás registrado en el portal eIAF Beneficiarios o en la App eIAF, podés conocer cómo hacerlo en el instructivo disponible.",
+      "Si no tenés la certificación de servicios, deberás solicitarla a la Contaduría del Estado Mayor de la Fuerza a la que perteneciste."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede central del IAF",
+      "direccion": "Cerrito 572",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-aportes-efectuados-al-iaf"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-aportes-efectuados-al-iaf",
+      "titulo": "Solicitar certificado de aportes efectuados al IAF. | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T08:18:58.244Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/iaf",
+      "titulo": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T08:18:58.244Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horarios de atención en las Delegaciones del Interior.",
+    "Direcciones exactas de las Delegaciones del Interior.",
+    "Emails de contacto específicos por Fuerza Armada para la solicitud de certificación de servicio."
+  ]
+}

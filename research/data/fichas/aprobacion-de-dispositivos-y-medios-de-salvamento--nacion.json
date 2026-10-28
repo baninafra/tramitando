@@ -1,0 +1,101 @@
+{
+  "tramite": {
+    "slug": "aprobacion-de-dispositivos-y-medios-de-salvamento",
+    "nombre": "Aprobar dispositivos y medios de salvamento",
+    "nombre_busqueda": "aprobar dispositivos y medios de salvamento Prefectura Naval",
+    "resumen": "Solicitá la inspección de los dispositivos y medios de salvamento con una nota por escrito. Si cumplís los requisitos, te otorgan el Certificado de Aprobación del Dispositivo.",
+    "sinonimos": [
+      "certificado de aprobación de dispositivos de salvamento",
+      "inspección de equipos de salvamento",
+      "aprobación de dispositivos SOLAS y NO SOLAS"
+    ],
+    "temas": [
+      "transporte-publico-y-viajes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Prefectura Naval Argentina",
+    "sigla": "PNA",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El propietario, el agente marítimo o un apoderado con poder general o especial, o una persona autorizada por el propietario con firma certificada por escribano público."
+    ],
+    "requisitos": [
+      {
+        "texto": "Presentá una solicitud con los requisitos del Agregado Nº 3 \"Aprobación de Dispositivos y Medios de Salvamento\" del Agregado Nº 1 a la Ordenanza Nº 3/01, tomo 1, de la Dirección de Policía de Seguridad de la Navegación.",
+        "aclaracion": "Para dispositivos y medios de salvamento tipo SOLAS."
+      },
+      {
+        "texto": "Presentá una solicitud con los requisitos del Agregado Nº 2 \"Requisitos y Pruebas para la Aprobación de Dispositivos y Medios de Salvamento NO SOLAS\" a la Ordenanza Nº 3/01, tomo 1, de la Dirección de Policía de Seguridad de la Navegación.",
+        "aclaracion": "Para dispositivos y medios de salvamento tipo NO SOLAS."
+      },
+      {
+        "texto": "Presentá toda la documentación en original y con fotocopias autenticadas.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Ingresá a la plataforma Trámites a Distancia (TAD) con tu CUIT y clave fiscal."
+      },
+      {
+        "texto": "Buscá el trámite de aprobación de dispositivos y medios de salvamento y adjuntá la documentación requerida."
+      },
+      {
+        "texto": "Solicitá la inspección del dispositivo a través de la División Registro de Empresas (Oficina 2135), que confecciona el formulario de Solicitud de Inspección."
+      },
+      {
+        "texto": "Realizá el seguimiento desde el panel de TAD."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "45 días (silencio administrativo)",
+    "consejos": [
+      "Cumplidos los requisitos, te otorgan el Certificado de Aprobación del Dispositivo."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Edificio Guardacostas",
+      "direccion": "Avenida Eduardo Madero 235",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": "Lunes a viernes de 8 a 13 hs",
+      "fuente_url": "https://www.argentina.gob.ar/servicio/aprobacion-de-dispositivos-y-medios-de-salvamento"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/aprobacion-de-dispositivos-y-medios-de-salvamento",
+      "titulo": "Aprobación de dispositivos y medios de salvamento | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:29:46.607Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/prefecturanaval/aranceles",
+      "titulo": "Aranceles | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T04:29:46.607Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No figura el monto del arancel para este trámite en la página de aranceles.",
+    "No se indica si la inspección del dispositivo requiere turno previo."
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "tramite": {
+    "slug": "solicitar-baja-de-extension-de-certificado-de-productos-veterinarios",
+    "nombre": "Solicitar baja de extensión de certificado de productos veterinarios",
+    "nombre_busqueda": "baja extensión certificado productos veterinarios",
+    "resumen": "Para dar de baja la extensión de uso de un producto veterinario, tenés que realizar el trámite ante el Senasa de forma gratuita en línea.",
+    "sinonimos": [],
+    "temas": [
+      "animales-y-zoonosis",
+      "castraciones-y-vacunas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titular, director técnico o apoderado de establecimientos de productos veterinarios."
+    ],
+    "requisitos": [
+      {
+        "texto": "Registrar el domicilio electrónico en el sistema SIGTrámites.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Accedé a SIG-Trámites."
+      },
+      {
+        "texto": "Completá el formulario para productos veterinarios ya registrados."
+      },
+      {
+        "texto": "Seleccioná el tipo de trámite y completá los requisitos solicitados."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Toda la comunicación se tramitará por SIG-Trámites.",
+      "En toda tramitación se generará un número de expediente electrónico que será asociado al expediente de registro del producto."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Sanidad Animal - Dirección de Productos Veterinarios",
+      "direccion": "Carlos Calvo N° 66, PB, C1107ADR, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-baja-de-extension-de-certificado-de-productos-veterinarios"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-baja-de-extension-de-certificado-de-productos-veterinarios",
+      "titulo": "Solicitar baja de extensión de certificado de productos veterinarios | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T05:00:03.940Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite no está especificada en el texto."
+  ]
+}

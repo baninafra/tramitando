@@ -1,0 +1,120 @@
+{
+  "tramite": {
+    "slug": "licencia-de-conducir",
+    "nombre": "Licencia de conducir original",
+    "nombre_busqueda": "Licencia de conducir original",
+    "resumen": "Trámite para obtener la primera licencia de conducir en la jurisdicción, habilitando al conductor para circular en todo el territorio nacional. Requiere aprobar exámenes teórico, práctico y psicofísico, además de cursar educación vial.",
+    "sinonimos": [
+      "Licencia original",
+      "Obtener licencia de conducir por primera vez"
+    ],
+    "temas": [
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060203",
+  "organismo": {
+    "nombre": "Jefatura de Inspección, Tránsito y Licencias",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Conductores que aspiran a matricularse como tal por primera vez."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento de identidad original y copia con domicilio en el partido de Coronel Suárez.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de DNI en trámite con todos los datos si no se tiene el documento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización de padre y madre o tutor certificada por Juez de Paz o escribano público para menores de 18 años.",
+        "aclaracion": "Si sos menor de edad."
+      },
+      {
+        "texto": "Certificado o partida de defunción y partida de nacimiento o libreta de familia si alguno de los padres falleció.",
+        "aclaracion": "Si sos menor de edad."
+      },
+      {
+        "texto": "Curso de Educación Vial finalizado en www.curso.seguridadvial.gob.ar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pago de los sellados correspondientes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Antecedentes Penales, electrocardiograma y electroencefalograma para clases C, D y E.",
+        "aclaracion": "Si sos mayor de 21 años y solicitás clase C, D o E."
+      },
+      {
+        "texto": "Certificado de LINTI vigente que reemplace los electrocardiograma y electroencefalograma.",
+        "aclaracion": "Si sos mayor de 21 años y solicitás clase C, D o E."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el documento de identidad original y copia o la constancia de DNI en trámite."
+      },
+      {
+        "texto": "Si sos menor de 18 años, presentá la autorización de padres o tutor certificada y los documentos de defunción o nacimiento si aplica."
+      },
+      {
+        "texto": "Realizá el curso de Educación Vial en www.curso.seguridadvial.gob.ar antes de la fecha del turno."
+      },
+      {
+        "texto": "Rendiré el exámen psicofísico obligatorio."
+      },
+      {
+        "texto": "Rendiré el exámen teórico mediante prueba escrita."
+      },
+      {
+        "texto": "Rendiré el exámen práctico con el vehículo correspondiente a la clase solicitada."
+      },
+      {
+        "texto": "Pagá los sellados correspondientes."
+      },
+      {
+        "texto": "Sacá la licencia en la Jefatura de Inspección, Tránsito y Licencias de Conducir."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Jefatura de Inspección, Tránsito y Licencias de Conducir",
+      "direccion": "Belgrano 827",
+      "localidad": "Coronel Suárez",
+      "horario": null,
+      "fuente_url": "https://www.coronelsuarez.gob.ar/licencias/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.coronelsuarez.gob.ar/licencias/",
+      "titulo": "Licencias – Municipalidad de Coronel Suárez",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T22:41:10.153Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere sacar turno para realizar el trámite.",
+    "Se requiere pagar tasas específicas para el trámite.",
+    "Dirección exacta de la oficina para el retiro de la licencia."
+  ]
+}

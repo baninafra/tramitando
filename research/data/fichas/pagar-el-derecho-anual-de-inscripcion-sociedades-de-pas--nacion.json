@@ -1,0 +1,103 @@
+{
+  "tramite": {
+    "slug": "pagar-derecho-anual-inscripcion-sociedades-pas",
+    "nombre": "Pagar el derecho anual de inscripción sociedades de pas",
+    "nombre_busqueda": "Pagar derecho anual inscripción sociedades pas",
+    "resumen": "Las sociedades inscritas en el Registro de Sociedades de Productores Asesores de Seguros deben pagar una suma fija anual antes del 30 de abril. El pago se realiza a través de eRecauda con una boleta de pago.",
+    "sinonimos": [],
+    "temas": [
+      "cuil-y-clave-de-seguridad-social",
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Seguros de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Sociedades Inscriptas en el Registro de Sociedades de Productores Asesores de Seguros"
+    ],
+    "requisitos": [
+      {
+        "texto": "Boleta de Pago generada por el sistema eRecauda",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de matrícula",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de CUIT",
+        "aclaracion": null
+      },
+      {
+        "texto": "Teléfono de contacto",
+        "aclaracion": null
+      },
+      {
+        "texto": "Correo electrónico de contacto",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá en el sistema eRecauda"
+      },
+      {
+        "texto": "Hacé clic en el acceso con o sin clave fiscal, según corresponda"
+      },
+      {
+        "texto": "Generá la boleta de pago para la cual necesitarás disponer de los datos requeridos"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "antes del 30 de abril del año correspondiente",
+    "consejos": [
+      "Si no pagás en término, deberás abonar el importe vigente al momento del pago con más una multa del 50% de dicho importe",
+      "Si no abonás antes del 1º de enero del siguiente año, la multa se incrementará al 100%"
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 13200000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/pagar-el-derecho-anual-de-inscripcion-sociedades-de-pas"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/pagar-el-derecho-anual-de-inscripcion-sociedades-de-pas",
+      "titulo": "Pagar el Derecho Anual de Inscripción- Sociedades de PAS | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T23:08:38.870Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T23:08:38.870Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La vigencia del pago es de 12 meses según la página oficial"
+  ]
+}

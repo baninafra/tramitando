@@ -1,0 +1,62 @@
+{
+  "tramite": {
+    "slug": "deudas-y-cedulones",
+    "nombre": "Deudas y Cedulones",
+    "nombre_busqueda": "Deudas y Cedulones Bouwer",
+    "resumen": "Imprimí los cupones para pagar tus deudas municipales en Bouwer.",
+    "sinonimos": [],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141377",
+  "organismo": {
+    "nombre": "Municipalidad de Bouwer",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier deudor municipal que tenga cupón impreso."
+    ],
+    "requisitos": [
+      {
+        "texto": "Cupón impreso de la deuda.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Imprimí los cupones de deuda en tu domicilio."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://municipalidaddebouwer.gob.ar/deudas-y-cedulones/",
+      "titulo": "Deudas y Cedulones – Municipalidad de Bouwer",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T18:20:38.883Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de la oficina para imprimir cupones.",
+    "Horarios de atención para imprimir cupones.",
+    "Monto de las deudas cobrables.",
+    "Plazo para pagar las deudas.",
+    "Vigencia de los cupones impresas."
+  ]
+}

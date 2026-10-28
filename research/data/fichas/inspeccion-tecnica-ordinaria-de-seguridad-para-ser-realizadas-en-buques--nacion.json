@@ -1,0 +1,88 @@
+{
+  "tramite": {
+    "slug": "inspeccion-tecnica-ordinaria-de-seguridad-buques",
+    "nombre": "Inspección técnica ordinaria de seguridad para ser realizadas en buques",
+    "nombre_busqueda": "Inspección técnica buques",
+    "resumen": "El trámite consiste en solicitar la inspección técnica de seguridad a un buque ante la Prefectura Naval Argentina. Se requiere presentar documentación que acredite la propiedad o representatividad del buque y completar el Formulario de Solicitud de Inspección (F-001-MW9).",
+    "sinonimos": [],
+    "temas": [
+      "seguridad-y-denuncias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Prefectura Naval Argentina",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El Propietario, Armador, Agente Marítimo, o apoderado con poder general o especial o autorización del propietario con firma debidamente certificada por escribano público."
+    ],
+    "requisitos": [
+      {
+        "texto": "La documentación que acredite la propiedad o representatividad del buque, embarcación o artefacto naval que se pretende inspeccionar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de Solicitud de Inspección (F-001-MW9).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentar la solicitud en la División Inspecciones Técnicas o en la Dependencia del interior del país más cercana, donde se comprobará que el solicitante acredite su condición de propietario o representante del buque, embarcación o artefacto naval y corroborará si la solicitud se corresponde con los términos que se encuentran establecidos para su realización en el Certificado Nacional de Seguridad de la Navegación."
+      },
+      {
+        "texto": "Confeccionar el Formulario Solicitud de Inspección (F-001-MW9) por triplicado."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "20 minutos",
+    "consejos": [
+      "Este trámite se encuentra alcanzado por las consideraciones establecidas en el inciso b del Art. 10 de la Ley N° 19.549, respecto del silencio con sentido positivo.",
+      "El plazo estipulado para su configuración es de 1 horas después de haber acreditado el cumplimiento de las condiciones previstas para el otorgamiento de la autorización administrativa."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "División Inspecciones Técnicas",
+      "direccion": "Edificio Guardacostas Avenida Eduardo Madero 235 - CIUDAD AUTONOMA DE BUENOS AIRES",
+      "localidad": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inspeccion-tecnica-ordinaria-de-seguridad-para-ser-realizadas-en-buques"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inspeccion-tecnica-ordinaria-de-seguridad-para-ser-realizadas-en-buques",
+      "titulo": "Inspección técnica ordinaria de seguridad, para ser realizadas en buques | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T05:30:07.089Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/prefecturanaval/aranceles",
+      "titulo": "Aranceles | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T05:30:07.089Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La vigencia del costo no está especificada en el texto, solo se indica consultar el Cuadro Tarifario de Aranceles acorde valores establecidos Decreto 2756/75.",
+    "No se especifica si el trámite requiere turno en la página oficial del trámite, aunque la página de turnos no lo menciona explícitamente para este servicio."
+  ]
+}

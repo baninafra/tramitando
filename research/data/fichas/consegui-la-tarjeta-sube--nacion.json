@@ -1,0 +1,117 @@
+{
+  "tramite": {
+    "slug": "conseguir-tarjeta-sube",
+    "nombre": "Conseguí la tarjeta SUBE",
+    "nombre_busqueda": "conseguir tarjeta sube",
+    "resumen": "Comprá tu tarjeta SUBE online o en los Puntos SUBE para viajar en transporte público. El valor de la tarjeta es de $1500 y podés acreditá tu saldo con homebanking o cajeros automáticos.",
+    "sinonimos": [
+      "conseguir tarjeta sube",
+      "comprar tarjeta sube",
+      "conseguir sube"
+    ],
+    "temas": [
+      "tarjeta-sube"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que quiera viajar en transporte público."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI argentino (para retirar la tarjeta en Centros de Atención si se compra online).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cuenta en Mi Argentina (para recuperar saldo en caso de pérdida, robo o rotura).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Comprá tu tarjeta SUBE online en la página web de SUBE."
+      },
+      {
+        "texto": "Ingresá con tus datos personales y completá la información requerida en el formulario."
+      },
+      {
+        "texto": "Pagá el valor de la tarjeta y el costo de envío si elegís ese método."
+      },
+      {
+        "texto": "Retirá la tarjeta en un Centro de Atención SUBE con los datos ingresados."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Comprá tu tarjeta SUBE en los Puntos SUBE."
+      },
+      {
+        "texto": "Acreditá tu saldo con homebanking, billeteras electrónicas o cajeros automáticos."
+      },
+      {
+        "texto": "Cargá tu tarjeta y acreditá tu saldo en una Terminal Automática, la app SUBE, la app Carga SUBE o Carga a Bordo."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Tené en cuenta que el trámite es personal y deberá retirarla el titular con los datos ingresados en el formulario.",
+      "En caso de pérdida, robo o rotura podés dar de baja tu tarjeta desde tu cuenta, en un Centro de Atención o telefónicamente al 0800-777-SUBE (7823)."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 150000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/consegui-la-tarjeta-sube"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consegui-la-tarjeta-sube",
+      "titulo": "Conseguí la tarjeta SUBE | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T05:13:19.353Z"
+    },
+    {
+      "url": "https://tarjetasube.sube.gob.ar/subeweb/Webforms/Account/Views/solicitar-tarjeta.aspx",
+      "titulo": "SUBE",
+      "bloques": [
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T05:13:19.353Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-26T05:13:19.353Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de las oficinas para retirar la tarjeta.",
+    "Horario de atención de los Centros de Atención SUBE."
+  ]
+}

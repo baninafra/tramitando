@@ -1,0 +1,113 @@
+{
+  "tramite": {
+    "slug": "reclamo-mala-atencion-distribuidora",
+    "nombre": "Reclamar mala atención telefónica y personal de la distribuidora",
+    "nombre_busqueda": "Reclamar mala atención telefónica y personal de la distribuidora",
+    "resumen": "Podés reclamar a la distribuidora (EDENOR o EDESUR) por mala atención telefónica o personal. El trámite es gratuito, requiere turno presencial en Suipacha 615 o se puede hacer por teléfono o formulario online.",
+    "sinonimos": [
+      "Reclamo atención telefónica distribuidora",
+      "Reclamo atención personal distribuidora"
+    ],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ente Nacional Regulador del Gas y la Electricidad",
+    "sigla": "ENReGE",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Usuarios de EDENOR y EDESUR"
+    ],
+    "requisitos": [
+      {
+        "texto": "Tu número de identificación según la distribuidora: número de cliente para EDESUR; número de cuenta para EDENOR",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de reclamo ante la distribuidora",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tu domicilio (entre qué calles, localidad, barrio, partido, código postal)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio donde querés recibir las comunicaciones relativas a tu reclamo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descripción del problema",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Llamá a la línea gratuita 0800 345 6000 todos los días, las 24 horas"
+      },
+      {
+        "texto": "Completá este formulario"
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "En Suipacha 615, Ciudad Autónoma de Buenos Aires, de lunes a viernes de 09:00 a 17:00 horas"
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "No olvides reclamar ante la empresa antes de hacerlo ante el ENReGE"
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede del ENReGE",
+      "direccion": "Suipacha 615",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/reclamar-por-mala-atencion-telefonica-y-personal-de-la-distribuidora"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reclamar-por-mala-atencion-telefonica-y-personal-de-la-distribuidora",
+      "titulo": "Reclamar por mala atención telefónica y personal de la distribuidora | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:35:49.439Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/enre/gestion-de-reclamos/formularios-online/formulario-atencion-usuarios",
+      "titulo": "Para reclamar por otras deficiencias en el servicio de EDENOR / EDESUR | Argentina.gob.ar",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T02:35:49.439Z"
+    },
+    {
+      "url": "https://mi.argentina.gob.ar/turnos/seleccion-turno/254",
+      "titulo": "Ingresar | Mi Argentina",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T02:35:49.439Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite",
+    "El enlace para sacar turno online"
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "tramite": {
+    "slug": "pedir-la-tenencia-de-instalacion-total-o-parcialmente-blindada",
+    "nombre": "Pedir la tenencia de instalación total o parcialmente blindada",
+    "nombre_busqueda": "pedir tenencia instalación blindada",
+    "resumen": "Solicitá la tenencia de instalaciones blindadas ante ANMaC si vos o tu empresa las poseen. Necesitás documentación específica, credenciales de Legítimo Usuario y formularios valorizados.",
+    "sinonimos": [
+      "solicitar tenencia blindada",
+      "pedir tenencia instalación blindada"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMaC",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Propietarios de instalaciones parcial o totalmente blindadas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Credencial de Legítimo Usuario o inscripción como usuario correspondiente vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota extendida en papel membrete del usuario firmada por su representante legal, con certificación de firma.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el responsable legal no es Legítimo Usuario: DNI y certificado de antecedentes penales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración en la nota sobre el lugar de emplazamiento y tipo de instalación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización municipal si el emplazamiento es vía pública.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado del fabricante con marca, modelo, nivel de resistencia balística, número de serie y código del certificado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado del fabricante con números de Certificación ANMaC (Norma MA.02) de los materiales, suscripto por representante legal o técnico del fabricante/importador.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Verificación Técnica de Instalación Blindada debidamente confeccionada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación de repotenciación de Instalación Blindada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Verificación de Instalación Blindada si la instalación previa no determinó el nivel de resistencia balística.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Etiqueta de identificación de materiales transparentes con homologación de material certificado acorde con la Norma MA.02.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá la solicitud electrónica para la credencial de Legítimo Usuario individual de Armas de Fuego."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      },
+      {
+        "texto": "Retirá la documentación emitida por el ANMaC en la delegación en la que iniciaste el trámite."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "20 días hábiles",
+    "consejos": [
+      "Si la instalación blindada deba trasladarse, notificá a ANMaC de manera previa con una antelación no menor a 96 horas hábiles administrativas.",
+      "Informá a ANMaC todo cambio en los datos contemplados en el certificado del fabricante, debiendo presentar uno nuevo con las modificaciones.",
+      "La presentación de cambios se realiza mediante los formularios valorizados.",
+      "Si querés solicitar la repotenciación de la instalación blindada, adjuntá el correspondiente certificado de repotenciación expedido por usuario autorizado por ANMaC.",
+      "La verificación o repotenciación solo podrá ser efectuada por usuarios comerciales inscriptos en el rubro Fabricante de Materiales de Usos especiales - Verificación y Repotenciación de Instalaciones Blindadas, que posean sus instalaciones habilitadas a tales efectos.",
+      "Deberán contar en todos los casos con un responsable técnico que tenga como mínimo la categoría de Legítimo Usuario de Materiales de Usos Especiales y acreditada solvencia técnica."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central del organismo",
+      "direccion": "Bartolomé Mitre 1465/9",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/pedir-la-tenencia-de-instalacion-total-o-parcialmente-blindada"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/pedir-la-tenencia-de-instalacion-total-o-parcialmente-blindada",
+      "titulo": "Pedir la tenencia de instalación total o parcialmente blindada | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T23:50:47.521Z"
+    },
+    {
+      "url": "https://mi.renar.gob.ar/gral/aranceles.html",
+      "titulo": "(sin título)",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T23:50:47.521Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T23:50:47.521Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa no está especificado en el texto, solo se indica que se consulta en Aranceles Vigencia Definitiva.",
+    "La fecha de vigencia de la normativa no está especificada en el texto, solo se menciona 'normativa vigente'."
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "tramite": {
+    "slug": "modificaciones-aprobaciones-caracter-particular",
+    "nombre": "Gestionar modificaciones a aprobaciones de carácter particular",
+    "nombre_busqueda": "modificaciones aprobaciones caracter particular seguros",
+    "resumen": "Las aseguradoras pueden solicitar modificaciones a planes de seguros tramitados por aprobación de carácter particular mediante el sistema TAD, presentando documentación digitalizada y firmada.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Seguros de la Nación",
+    "sigla": "SSN",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Entidades Aseguradoras"
+    ],
+    "requisitos": [
+      {
+        "texto": "Todos los firmantes deben tener usuarios de acceso a Trámites a Distancia (TAD).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copias del Acta de Directorio certificada por Escribano.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Condiciones Contractuales (exclusivamente las que se modifican).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Condiciones Particulares (Frente de Póliza).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Incorporación Individual.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formularios de Solicitud del Seguro.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formularios de Denuncia de Siniestro.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de Declaración Jurada de Salud.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota Técnica – Política de Suscripción y Retención de Riesgos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Bases Técnicas (exclusivamente las que se modifican).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Aval de Reaseguro (con membrete y firma del Reasegurador).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Opinión Actuarial.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Opinión Legal.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD, trámite Modificación – Aprobación De Carácter Particular, con clave fiscal."
+      },
+      {
+        "texto": "Cargá la documentación requerida y sus correspondientes firmantes."
+      },
+      {
+        "texto": "Una vez firmados la totalidad de los documentos, en la pestaña de notificaciones encontrarás el número de expediente electrónico."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La presentación ya se encuentra en la Mesa de Entrada de la Gerencia Técnica y Normativa de la SSN.",
+      "Se notificará la providencia observatoria o la Resolución aprobatoria por medio de S.U.N (Sistema Único de Notificaciones)."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/gestionar-modificaciones-aprobaciones-de-caracter-particular",
+      "titulo": "Gestionar modificaciones a aprobaciones de Carácter Particular | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T15:45:55.979Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto del trámite no se especifica en el texto."
+  ]
+}

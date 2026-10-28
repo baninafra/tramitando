@@ -1,0 +1,82 @@
+{
+  "tramite": {
+    "slug": "inscribirse-al-programa-promover",
+    "nombre": "Inscribirse al programa Promover",
+    "nombre_busqueda": "Inscribirse al programa Promover",
+    "resumen": "El programa Promover ofrece acompañamiento a personas con discapacidad para el desarrollo de proyectos ocupacionales o emprendimientos. Es gratuito y permite acceder a talleres, cursos y asistencia para el empleo.",
+    "sinonimos": [],
+    "temas": [
+      "discapacidad-y-accesibilidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Capital Humano",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas mayores de 18 años con discapacidad",
+      "Que se encuentran desocupadas",
+      "Que residen en el país"
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de CUIL",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditar Discapacidad mediante Certificado Único de Discapacidad expedido por autoridad competente en los términos del Artículo 3 de la Ley N° 22.431 y su modificatoria o norma análoga local, vigente",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a la Oficina de Empleo o Agencia Territorial más cercana a tu domicilio"
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Podés permanecer en el programa por el plazo de 24 meses una vez firmado el convenio de adhesión"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribirse-al-programa-promover",
+      "titulo": "Inscribirse al programa Promover | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T17:33:21.190Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T17:33:21.190Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de validez nacional de títulos y estudios",
+    "Registro de propiedad automotor",
+    "Registro nacional de reincidencia",
+    "Registro de la propiedad inmueble"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "tramite": {
+    "slug": "dni-actualizacion-14-anos",
+    "nombre": "Actualización 14 años",
+    "nombre_busqueda": "Actualizar DNI 14 años",
+    "resumen": "Trámite obligatorio para quienes nacieron en Argentina y cumplen 14 años, permitiendo actualizar el DNI sin acompañante mayor de 18 años.",
+    "sinonimos": [
+      "DNI 14 años",
+      "Cambio de DNI 14 años",
+      "Actualización DNI menor"
+    ],
+    "temas": [
+      "dni"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141498",
+  "organismo": {
+    "nombre": "Municipalidad de Tancacha",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes nacieron en Argentina y cumplen 14 años."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI vigente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá tu DNI vigente."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La vigencia del DNI es de 15 años.",
+      "Con esta actualización podés tramitar también el DNI en tu celular."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.tancacha.gob.ar/actualizacion14anos.html"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.tancacha.gob.ar/actualizacion14anos.html",
+      "titulo": "Municipalidad de Tancacha",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien",
+        "consejos",
+        "costo",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T17:59:31.435Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina.",
+    "Horarios de atención.",
+    "Si se requiere turno."
+  ]
+}

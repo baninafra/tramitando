@@ -1,0 +1,81 @@
+{
+  "tramite": {
+    "slug": "cambio-de-domicilio-de-usuario-individual-de-arma-de-fuego",
+    "nombre": "Registrar el cambio de domicilio de usuario individual de arma de fuego",
+    "nombre_busqueda": "cambio domicilio arma de fuego",
+    "resumen": "Si sos legítimo usuario de arma de fuego y cambiaste de domicilio, tenés que informar ese cambio en RENAR.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro Nacional de Armas",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Al usuario individual de arma de fuego que cambió su domicilio."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formularios Ley 23.283 y 23.412.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia certificada de las páginas 1, 2 y la del domicilio actualizado de DNI, LE o LC, o en su defecto, certificado de domicilio extendido por la policía jurisdiccional.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de RENAR que prefieras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "4 días hábiles",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central del organismo",
+      "direccion": "Bartolomé Mitre 1465/9",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/registrar-el-cambio-de-domicilio-de-usuario-individual-de-arma-de-fuego"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/registrar-el-cambio-de-domicilio-de-usuario-individual-de-arma-de-fuego",
+      "titulo": "Registrar el cambio de domicilio de usuario individual de arma de fuego | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T03:01:12.567Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T03:01:12.567Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa no se especifica en el texto, consultar Aranceles.",
+    "La fecha de vigencia del trámite no se especifica en el texto."
+  ]
+}

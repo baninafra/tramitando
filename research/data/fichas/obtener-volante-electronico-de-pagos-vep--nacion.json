@@ -1,0 +1,115 @@
+{
+  "tramite": {
+    "slug": "obtener-volante-electronico-de-pagos-vep",
+    "nombre": "Obtener volante electrónico de pagos",
+    "nombre_busqueda": "Obtener volante electrónico de pagos vep",
+    "resumen": "Generá un volante electrónico de pagos en ARCA para cancelar obligaciones impositivas y de seguridad social por transferencia electrónica de fondos.",
+    "sinonimos": [
+      "Volante electrónico de pagos ARCA",
+      "Generar VEP en línea"
+    ],
+    "temas": [
+      "cuil-y-clave-de-seguridad-social",
+      "tasa-inmobiliaria-y-servicios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración Federal de Ingresos Públicos",
+    "sigla": "AFIP",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes están obligados a cancelar sus obligaciones a través de la modalidad de pago por transferencia electrónica de fondos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Contar con clave de homebanking para utilizar tu cuenta bancaria por Internet y que tu entidad bancaria opere con VEP.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener incorporado a tu Clave Fiscal el servicio Presentación de DDJJ y Pagos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el monto de cancelación de tus obligaciones es mayor al límite del movimiento de fondos que tenés asignado en tu cuenta bancaria, solicitá en la entidad monetaria la ampliación de ese límite.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Entrá al Acceso con Clave Fiscal de ARCA e ingresá tu número de cuit/cuil/cdi y tu clave."
+      },
+      {
+        "texto": "El sistema desplegará en pantalla la lista de servicios de ARCA que tenés habilitados."
+      },
+      {
+        "texto": "Seleccioná Presentación de DDJJ y Pagos."
+      },
+      {
+        "texto": "Se desplegará una pantalla para que declares que los datos que vas a volcar son correctos y que actuarás de acuerdo con las normas vigentes."
+      },
+      {
+        "texto": "Presioná el botón Aceptar."
+      },
+      {
+        "texto": "En el menú de la izquierda de la pantalla elegí la opción Nuevo VEP (se encuentra bajo el título Pagos)."
+      },
+      {
+        "texto": "Ingresá toda la información que el sistema te vaya pidiendo y presioná el botón Siguiente cada vez que termines de volcar los datos solicitados."
+      },
+      {
+        "texto": "Elegí la entidad de pago que vas a utilizar para la cancelación y el sistema te va a generar un VEP."
+      },
+      {
+        "texto": "Aquí también vas a poder agregar otro VEP para incorporar nuevas obligaciones fiscales."
+      },
+      {
+        "texto": "Ingresá en pantalla a la entidad de pago elegida y pagá el VEP con tu clave bancaria."
+      },
+      {
+        "texto": "Con la confirmación del pago, te aparecerá el comprobante para que lo imprimas."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El pago de las obligaciones se considera realizado en término cuando la fecha y el horario que figuran en el comprobante de pago, acrediten que lo hiciste antes de la finalización del horario establecido por el prestador para el día de vencimiento.",
+      "El VEP tiene una validez de 30 días corridos contados a partir del día siguiente al de su generación."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-volante-electronico-de-pagos-vep",
+      "titulo": "Obtener Volante Electrónico de Pagos -VEP | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T23:07:30.837Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T23:07:30.837Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia del trámite.",
+    "El organismo específico que gestiona el trámite (AFIP)."
+  ]
+}

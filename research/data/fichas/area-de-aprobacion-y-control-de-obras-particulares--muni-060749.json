@@ -1,0 +1,100 @@
+{
+  "tramite": {
+    "slug": "aprobacion-y-control-de-obras-particulares",
+    "nombre": "Aprobación y control de obras particulares",
+    "nombre_busqueda": "Aprobación de obras particulares",
+    "resumen": "El área aprueba planos, autoriza avisos de obra e inspecciona obras nuevas y finales conforme al Código de Edificación.",
+    "sinonimos": [
+      "Permiso de construcción",
+      "Aprobación de planos",
+      "Control de obras"
+    ],
+    "temas": [
+      "obras-y-construccion",
+      "permiso-de-obra-y-planos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060749",
+  "organismo": {
+    "nombre": "Secretaría de Obras e Infraestructura Pública",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Solicitantes de permisos de construcción, demoliciones, incorporaciones o registraciones de construcciones existentes."
+    ],
+    "requisitos": [
+      {
+        "texto": "Planos de obra",
+        "aclaracion": null
+      },
+      {
+        "texto": "Identificación del solicitante",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación específica según el tipo de obra (nueva, ampliación, demolición, incorporación o registración)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá los planos de la obra en la oficina."
+      },
+      {
+        "texto": "Solicitá la aprobación de los planos."
+      },
+      {
+        "texto": "Recibí el visado conforme a obra si los planos son aprobados."
+      },
+      {
+        "texto": "Realizá la obra conforme a los planos aprobados."
+      },
+      {
+        "texto": "Solicitá la inspección de obra o de final de obra según corresponda."
+      },
+      {
+        "texto": "Retirá el certificado de inspección final si la obra fue aprobada."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Área de Aprobación y Control de Obras Particulares",
+      "direccion": "Constitución 1046, 1° piso",
+      "localidad": "San Fernando",
+      "horario": null,
+      "fuente_url": "https://www.sanfernando.gob.ar/municipio/secretarias/secretaria-de-obras-publicas/Area-de-aprobacion-y-control-de-obras-particulares"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.sanfernando.gob.ar/municipio/secretarias/secretaria-de-obras-publicas/Area-de-aprobacion-y-control-de-obras-particulares",
+      "titulo": "San Fernando Municipio - Área de Aprobación y Control de Obras Particulares",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T11:04:33.511Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los requisitos específicos de documentación para cada tipo de obra (nueva, ampliación, demolición, incorporación, registración) no se detallan en el texto.",
+    "El plazo de aprobación de planos no se especifica en el texto.",
+    "El costo de los trámites no se menciona en el texto."
+  ]
+}

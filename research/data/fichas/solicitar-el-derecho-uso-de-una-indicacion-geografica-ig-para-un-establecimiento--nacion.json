@@ -1,0 +1,106 @@
+{
+  "tramite": {
+    "slug": "solicitar-derecho-uso-indicacion-geografica-ig-establecimiento",
+    "nombre": "Solicitar el derecho a uso de una indicación geográfica IG para un establecimiento",
+    "nombre_busqueda": "Solicitar uso de indicación geográfica IG",
+    "resumen": "El trámite permite a un establecimiento vitivinícola solicitar el derecho a usar una Indicación Geográfica (IG) para sus vinos, presentando documentación específica y abonando un arancel.",
+    "sinonimos": [],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto Nacional de Vitivinicultura",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "La persona titular del establecimiento vitivinícola o su representante debidamente acreditado."
+    ],
+    "requisitos": [
+      {
+        "texto": "Copia digital de una nota de solicitud que contenga el nombre de la IG, el número de inscripción en el INV del establecimiento, la razón social, el domicilio real y legal, el contacto (teléfono y correo) y los datos del representante legal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia digital del formulario de solicitud Anexo III- Resolución Nº 32/02.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Indicación de por lo menos un viñedo a partir del cual obtendrá la uva para elaborar el producto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de Verificación del viñedo que verifique que se encuentra dentro del área pretendida y cuenta con variedades autorizadas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si los viñedos son de terceros, conformidad de la persona titular del viñedo mediante el formulario Anexo IV de la Resolución C.11/04 y una nota de la persona titular prestando conformidad a favor de la firma solicitante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante del CUIT/CUIL.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago del arancel.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Comunicarse con la Delegación del INV que le corresponda por domicilio."
+      },
+      {
+        "texto": "Adjuntar la documentación solicitada."
+      },
+      {
+        "texto": "Realizar el pago del arancel correspondiente."
+      },
+      {
+        "texto": "Presentar la documentación requerida."
+      },
+      {
+        "texto": "Esperar a que el INV efectúe las evaluaciones necesarias y sea aprobada la solicitud."
+      },
+      {
+        "texto": "Recibir por correo electrónico la autorización correspondiente a través de un certificado."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-el-derecho-uso-de-una-indicacion-geografica-ig-para-un-establecimiento",
+      "titulo": "Solicitar el derecho a uso de una Indicación Geográfica (IG) para un establecimiento vitivinícola | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:57:25.269Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T08:57:25.269Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo de resolución no está especificado en el texto."
+  ]
+}

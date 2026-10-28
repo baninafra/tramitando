@@ -1,0 +1,100 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-partidas",
+    "nombre": "Solicitud de Partidas",
+    "nombre_busqueda": "Solicitud de Partidas",
+    "resumen": "Permití solicitar copias de partidas de nacimiento, matrimonio, defunción y uniones convivenciales de la Provincia de Córdoba desde la plataforma Ciudadano Digital.",
+    "sinonimos": [
+      "Actas de nacimiento",
+      "Certificados de matrimonio",
+      "Partidas civiles"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141498",
+  "organismo": {
+    "nombre": "Municipalidad de Tancacha",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Tener una cuenta de Ciudadano Digital."
+    ],
+    "requisitos": [
+      {
+        "texto": "Datos del acta necesarios para que la búsqueda sea exitosa.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Generá una cuenta en Ciudadano Digital si no la tenés."
+      },
+      {
+        "texto": "Accedé al servicio Mi Registro Civil de la plataforma Ciudadano Digital (CiDi)."
+      },
+      {
+        "texto": "Indicá en qué localidad está inscripta originalmente el acta, además de los datos de número de acta, tomo, serie, folio y año."
+      },
+      {
+        "texto": "Descargá la partida desde la sección Mis trámites en el servicio Mi Registro Civil, solo con una cuenta nivel 1."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 425000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.tancacha.gob.ar/solicitudPartidas.html"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 580000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.tancacha.gob.ar/solicitudPartidas.html"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.tancacha.gob.ar/solicitudPartidas.html",
+      "titulo": "Municipalidad de Tancacha",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T11:54:03.922Z"
+    },
+    {
+      "url": "https://cidi.cba.gov.ar/portal-publico/?App=579",
+      "titulo": "Ciudadano Digital",
+      "bloques": [
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T11:54:03.922Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica si el trámite requiere turno.",
+    "El texto no indica un plazo de espera ni de entrega.",
+    "El texto no aclúa si los requisitos son diferentes para menores de edad o casos especiales."
+  ]
+}

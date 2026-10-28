@@ -1,0 +1,151 @@
+{
+  "tramite": {
+    "slug": "pasaporte",
+    "nombre": "Sacar el pasaporte",
+    "nombre_busqueda": "Sacar el pasaporte",
+    "resumen": "Para viajar al exterior, necesitás tramitar un primer ejemplar de Pasaporte Ordinario si sos ciudadano argentino mayor o menor de 18 años. También podés renovar, modificar, rectificar o reponer si te venció, lo extraviaste o te robaron.",
+    "sinonimos": [
+      "Renovar pasaporte",
+      "Rectificar pasaporte",
+      "Reponer pasaporte"
+    ],
+    "temas": [
+      "pasaporte"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060638",
+  "organismo": {
+    "nombre": "Municipio Pilar",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Ciudadanos argentinos mayores de 18 años.",
+      "Ciudadanos argentinos menores de 18 años.",
+      "Argentinos con capacidad restringida o incapaces."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI vigente.",
+        "aclaracion": "Solo para mayores de 18 años."
+      },
+      {
+        "texto": "Testimonio judicial de la designación de la persona que ejerza la tutela, la curatela, o la autorización judicial correspondiente.",
+        "aclaracion": "Solo para argentinos con capacidad restringida o incapaces."
+      },
+      {
+        "texto": "Documento Nacional de Identidad de la persona que ejerza la tutela, la curatela o de la persona autorizada judicialmente.",
+        "aclaracion": "Solo para argentinos con capacidad restringida o incapaces."
+      },
+      {
+        "texto": "DNI del menor.",
+        "aclaracion": "Solo para menores de 18 años."
+      },
+      {
+        "texto": "Partida de nacimiento original o certificado con oblea original.",
+        "aclaracion": "Solo para menores de 18 años."
+      },
+      {
+        "texto": "DNI del padre/madre o DNI del representante legal.",
+        "aclaracion": "Solo para menores de 18 años."
+      },
+      {
+        "texto": "Permiso para tramitar pasaporte sin presencia de los padres, con certificación de la autoridad pertinente (escribano o juez).",
+        "aclaracion": "Solo si el menor se acompaña de otra persona y no de los padres."
+      },
+      {
+        "texto": "Sentencia judicial en caso de no contar con adopción plena.",
+        "aclaracion": "Solo si el menor se acompaña de un representante legal sin adopción plena."
+      },
+      {
+        "texto": "Nuevo DNI tarjeta.",
+        "aclaracion": "Para renovar si se venció, extravió o le robaron."
+      },
+      {
+        "texto": "DNI.",
+        "aclaracion": "Para renovar si se venció, extravió o le robaron (menores de 18 años)."
+      },
+      {
+        "texto": "Partida de nacimiento original o acta de reconocimiento o adopción si correspondiere.",
+        "aclaracion": "Para renovar si se venció, extravió o le robaron (menores de 18 años)."
+      },
+      {
+        "texto": "DNI de la persona que ejerza la representación parental.",
+        "aclaracion": "Para renovar si se venció, extravió o le robaron (menores de 18 años)."
+      },
+      {
+        "texto": "Partida de nacimiento original, rectificada.",
+        "aclaracion": "Para rectificar."
+      },
+      {
+        "texto": "DNI, rectificado.",
+        "aclaracion": "Para rectificar."
+      },
+      {
+        "texto": "Pasaporte que querés reponer.",
+        "aclaracion": "Para reponer."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Sacá un turno a través de alguno de los canales de mi Muni."
+      },
+      {
+        "texto": "Dirigite a nuestras oficinas de Pilar Centro con el turno confirmado y toda la documentación requerida."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "Normal",
+      "gratis": false,
+      "monto_centavos": 10000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://pilar.gov.ar/tramites/pasaporte/"
+    },
+    {
+      "modalidad": "Express",
+      "gratis": false,
+      "monto_centavos": 20000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://pilar.gov.ar/tramites/pasaporte/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Oficinas de Pilar Centro",
+      "direccion": "Estanislao López 525",
+      "localidad": "Pilar Centro",
+      "horario": null,
+      "fuente_url": "https://pilar.gov.ar/tramites/pasaporte/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://pilar.gov.ar/tramites/pasaporte/",
+      "titulo": "Pasaporte - Municipio Pilar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-27T16:05:27.481Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el plazo de entrega para el trámite.",
+    "No se especifica si se puede realizar el trámite por internet."
+  ]
+}

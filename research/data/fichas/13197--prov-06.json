@@ -1,0 +1,75 @@
+{
+  "tramite": {
+    "slug": "partidas-y-actas",
+    "nombre": "Solicitud de partidas",
+    "nombre_busqueda": "solicitud de partidas",
+    "resumen": "Es el trámite para pedir partidas de nacimiento, matrimonio o defunción. Se puede hacer online o presencialmente.",
+    "sinonimos": [
+      "pedir partida",
+      "solicitar partida"
+    ],
+    "temas": [
+      "partidas-y-actas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "prov-06",
+  "organismo": {
+    "nombre": "Secretaría de Gobierno",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que necesite la partida.",
+      "Representantes con poder notarial."
+    ],
+    "requisitos": [
+      {
+        "texto": "Llevá el DNI original.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Llevá el poder notarial si sos representante.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal de trámites."
+      },
+      {
+        "texto": "Busca la solicitud de partidas."
+      },
+      {
+        "texto": "Seguí las instrucciones de la pantalla."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://portal.gba.gob.ar/tramite/13197",
+      "titulo": "Portal de Trámites",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-26T01:51:23.484Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el costo del trámite.",
+    "No se especifica el plazo de entrega.",
+    "No se especifica si requiere turno.",
+    "No se especifican las oficinas donde se puede hacer presencialmente.",
+    "No se especifica la vigencia exacta del trámite."
+  ]
+}

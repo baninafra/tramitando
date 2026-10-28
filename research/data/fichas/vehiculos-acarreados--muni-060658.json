@@ -1,0 +1,61 @@
+{
+  "tramite": {
+    "slug": "vehiculos-acarreados",
+    "nombre": "Vehículos Acarreados",
+    "nombre_busqueda": "Vehículos Acarreados",
+    "resumen": "Trámite para solicitar la exención de la tasa SUM para vehículos acarreados que transporten personas con discapacidad.",
+    "sinonimos": [],
+    "temas": [
+      "discapacidad-y-accesibilidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060658",
+  "organismo": {
+    "nombre": "Secretaría de Hacienda",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas con discapacidad que transporten vehículos acarreados."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documentación del vehículo acarreado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación de la persona con discapacidad.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mi.quilmes.gov.ar/tramites/255/vehiculos-acarreados",
+      "titulo": "Exención en Automotores para vehículos afectados a personas discapacitadas",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T14:23:25.315Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los requisitos específicos de documentación no están detallados en el texto.",
+    "No se especifica si el trámite se realiza online o presencial.",
+    "No se indica si se requiere turno.",
+    "No se especifica el plazo de atención."
+  ]
+}

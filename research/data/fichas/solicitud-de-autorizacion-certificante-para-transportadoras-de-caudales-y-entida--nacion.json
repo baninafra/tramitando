@@ -1,0 +1,75 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-autorizacion-certificante-para-transportadoras-de-caudales-y-entidades",
+    "nombre": "Solicitud de autorización certificante para transportadoras de caudales y entidades",
+    "nombre_busqueda": "Autorización certificante ANMaC",
+    "resumen": "Este trámite permite certificar firmas y copias presentadas por dependientes de transportadoras de caudales o entidades financieras ante ANMaC. Requiere solicitud electrónica y documentación específica según si sos legítimo usuario o no.",
+    "sinonimos": [
+      "Certificación ANMaC",
+      "Autorización ANMaC transportadoras"
+    ],
+    "temas": [
+      "legalizaciones-y-apostillados"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMaC",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Representantes legales de transportadoras de caudales o entidades financieras que quieran certificar firmas y/o copias de sus dependientes."
+    ],
+    "requisitos": [
+      {
+        "texto": "Solicitud electrónica avalada por el representante legal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditar condición de legítimo usuario.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento y certificado de antecedentes penales que emita el Registro Nacional de Reincidencias.",
+        "aclaracion": "Si no sos legítimo usuario."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá la solicitud electrónica ingresando a través de la página miAnmac y presionando 'SOLICITUD'."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitud-de-autorizacion-certificante-para-transportadoras-de-caudales-y-entidades",
+      "titulo": "Solicitud de Autorización Certificante para Transportadoras de Caudales y Entidades Financieras | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-27T17:47:01.939Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el costo del trámite.",
+    "No se indica si se requiere turno."
+  ]
+}

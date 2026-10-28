@@ -1,0 +1,84 @@
+{
+  "tramite": {
+    "slug": "licencia-de-conducir",
+    "nombre": "Licencia de conducir",
+    "nombre_busqueda": "Licencia de conducir",
+    "resumen": "Para renovar tu licencia pedí turno. Los menores de 16 años pueden obtener licencia A1.1 y los de 17 años, B1. Se requiere DNI, antecedentes penales y curso de capacitación para profesionales.",
+    "sinonimos": [
+      "Carnet de conducir",
+      "Licencia de conducir",
+      "Carnet profesional"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060784",
+  "organismo": {
+    "nombre": "Municipalidad de Suipacha",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Menores de 16 años para motocicletas de hasta 50cc.",
+      "Jóvenes de 17 años para autos particulares.",
+      "Solicitantes de licencias profesionales (categorías C, D y E)."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento Nacional de Identidad (DNI) vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de antecedentes penales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Licencia de conducir anterior (si corresponde).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Aprobación de un curso de capacitación específico según la categoría.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización de sus padres o tutores.",
+        "aclaracion": "Si sos menor de 17 años."
+      },
+      {
+        "texto": "Domicilio en Suipacha.",
+        "aclaracion": "Es imprescindible que los solicitantes tengan su domicilio en dicha localidad."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://suipacha.gob.ar/transito/",
+      "titulo": "Tránsito | Municipalidad de Suipacha",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T15:58:35.386Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos, pasos, costos, plazos exactos ni direcciones de oficinas en el texto proporcionado.",
+    "No se indica la URL para sacar turno ni el monto de la tasa.",
+    "No se especifica la fecha exacta de vigencia de la resolución o normativa."
+  ]
+}

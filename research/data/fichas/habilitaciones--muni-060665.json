@@ -1,0 +1,69 @@
+{
+  "tramite": {
+    "slug": "habilitacion-comercial",
+    "nombre": "Habilitación comercial",
+    "nombre_busqueda": "Habilitación de comercio",
+    "resumen": "Habilitá tu comercio, industria o transporte presentando el formulario correspondiente en la oficina de Habilitaciones.",
+    "sinonimos": [
+      "Habilitación de comercio",
+      "Habilitación de industria",
+      "Habilitación de transporte"
+    ],
+    "temas": [
+      "habilitacion-comercial"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060665",
+  "organismo": {
+    "nombre": "Municipalidad de Ramallo",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes deseen habilitar su comercio, industria o transporte."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario habilitación correspondiente al rubro.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Descargá el formulario que corresponda a tu trámite."
+      },
+      {
+        "texto": "Completalo a mano."
+      },
+      {
+        "texto": "Presentalo en la oficina de Habilitaciones."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.ramallo.gob.ar/tramites/habilitaciones",
+      "titulo": "Municipalidad de Ramallo",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T09:11:32.971Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos, plazos ni requisitos adicionales en el texto."
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "tramite": {
+    "slug": "servicio-de-busqueda-de-personal-quilmeno",
+    "nombre": "Servicio de búsqueda de personal quilmeño",
+    "nombre_busqueda": "Búsqueda de personal quilmeño",
+    "resumen": "Permite que personas desaparecidas o extraviadas en el municipio de Quilmes puedan solicitar la búsqueda de su identidad a través de la policía local.",
+    "sinonimos": [
+      "Búsqueda de desaparecidos Quilmes",
+      "Búsqueda de extraviados Quilmes"
+    ],
+    "temas": [
+      "busqueda-de-personas-extraviadas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060658",
+  "organismo": {
+    "nombre": "Policía Municipal de Quilmes",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que hayan desaparecido o extraviado su identidad en el municipio de Quilmes."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del desaparecido o extraviado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del solicitante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de extravío o declaración jurada de desaparición.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el DNI del desaparecido o extraviado."
+      },
+      {
+        "texto": "Presentá el DNI del solicitante."
+      },
+      {
+        "texto": "Presentá la constancia de extravío o declaración jurada de desaparición."
+      },
+      {
+        "texto": "Acordá una cita previa en la oficina de la policía."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mi.quilmes.gov.ar/tramites/342/servicio-de-busqueda-de-personal-quilmeno",
+      "titulo": "Servicio de búsqueda de personal quilmeño",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T06:22:01.820Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el plazo de respuesta.",
+    "No se especifica el costo del trámite.",
+    "No se especifica la dirección exacta de la oficina para la cita.",
+    "No se especifica si se puede realizar el trámite completamente online sin ir a la oficina."
+  ]
+}

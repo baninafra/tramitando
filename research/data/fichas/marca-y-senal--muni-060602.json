@@ -1,0 +1,107 @@
+{
+  "tramite": {
+    "slug": "marca-y-senal",
+    "nombre": "Marca y Señal",
+    "nombre_busqueda": "Marca y Señal Municipalidad Patagones",
+    "resumen": "Para realizar una marca, señal, renovación, transferencia, rectificación, duplicado o baja, necesitás cumplir requisitos específicos, pagar el arancel y timbrado, y acercarte a la oficina de Marca y Señales con toda la documentación.",
+    "sinonimos": [],
+    "temas": [
+      "marcas-senales-y-guias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060602",
+  "organismo": {
+    "nombre": "Municipalidad de Patagones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes deseen realizar una marca, señal, renovación, transferencia, rectificación, duplicado o baja."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario completo con la firma certificada mediante escribano.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de CUIT o CUIL.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de impuesto inmobiliario del campo, o escritura.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá tu CUIT/CUIL con guiones (ej.: 20-99999999-9) y clicá en BUSCAR."
+      },
+      {
+        "texto": "Registrá completando datos personales y posteriormente ingresá en el panel izquierdo en marcas y señales."
+      },
+      {
+        "texto": "Elegí el trámite deseado (nueva, renovación, transferencia, etc)."
+      },
+      {
+        "texto": "Generá la boleta con la cual deberás ir a pagar en un Bapro Pagos o cualquier Banco Provincia de Buenos Aires."
+      },
+      {
+        "texto": "Imprimí el pago del timbrado de $48,00."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acercá toda la información reunida a la oficina de Marca y Señales para entregarla."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 480000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://patagones.gob.ar/marca-y-senal/"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://patagones.gob.ar/marca-y-senal/",
+      "titulo": "Marca y Señal – Municipalidad de Patagones",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T15:49:08.508Z"
+    },
+    {
+      "url": "https://mi.mda.gba.gob.ar/pagos",
+      "titulo": "Mi MDA Pagos",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T15:49:08.508Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina de Marca y Señales.",
+    "Localidad de la oficina.",
+    "Nombre de la oficina.",
+    "Vigencia desde la fecha exacta.",
+    "Si el trámite requiere turno y cómo sacarlo."
+  ]
+}

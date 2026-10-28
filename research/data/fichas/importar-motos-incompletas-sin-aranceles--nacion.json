@@ -1,0 +1,80 @@
+{
+  "tramite": {
+    "slug": "importar-motos-incompletas-sin-aranceles",
+    "nombre": "Importar motos incompletas sin aranceles",
+    "nombre_busqueda": "importar motos incompletas sin aranceles",
+    "resumen": "Si representás a una empresa que fabrica motos y/o cuatriciclos, podés importar unidades incompletas, totalmente desarmadas, sin abonar aranceles aduaneros, siempre y cuando la fabricación de los vehículos se complete con componentes de origen nacional.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Producción y Trabajo",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Representantes de empresas que fabrican motocicletas y/o cuatriciclos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Disponer de una planta industrial en el país para la fabricación de motocicletas y/o cuatriciclos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estar inscripto en el Registro Único de la Matriz Productiva (RUMP).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Prepará una presentación dirigida a la Secretaría de Industria - Dirección de Política Automotriz y Regímenes Especiales que contenga el Formulario de Adhesión al Decreto Nº 81/2019 y el número de inscripción al RUMP."
+      },
+      {
+        "texto": "Acercate a la Mesa de Entradas del Ministerio de Producción y Trabajo en Av. Julio A. Roca 651, PB 2 (CABA)."
+      },
+      {
+        "texto": "Una vez que completes la solicitud de adhesión, recibí por correo electrónico el Certificado de Adhesión dentro de un plazo de 20 días corridos."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Mesa de Entradas del Ministerio de Producción y Trabajo",
+      "direccion": "Av. Julio A. Roca 651, PB 2",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/importar-motos-incompletas-sin-aranceles"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/importar-motos-incompletas-sin-aranceles",
+      "titulo": "Importar motos incompletas sin aranceles | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-26T16:32:51.499Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La integración de partes tiene que alcanzar un mínimo anual, proporcional al valor de los vehículos importados por la empresa cada año.",
+    "Vigencia: Hasta diciembre de 2023",
+    "Información complementaria: Decreto Nº 81/2019 y Resolución Nº 23/2019"
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "tramite": {
+    "slug": "residencia-temporaria-academicos",
+    "nombre": "Residencia temporaria para académicos",
+    "nombre_busqueda": "Residencia temporaria académicos",
+    "resumen": "Obtén una residencia temporaria de un año para extranjeros que realicen actividades académicas bajo acuerdos con instituciones de educación superior. El trámite es semipresencial y requiere documentación original legalizada.",
+    "sinonimos": [
+      "Residencia académica",
+      "Residencia para investigadores",
+      "Residencia para docentes extranjeros"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria",
+      "residencias-temporarias-y-permanentes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Migraciones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas extranjeras que realicen actividades académicas al amparo de acuerdos suscriptos entre Instituciones de educación superior en áreas especializadas y bajo responsabilidad de la institución contratante."
+    ],
+    "requisitos": [
+      {
+        "texto": "Pasaporte válido y vigente (todas las nacionalidades) o documento de viaje del MERCOSUR legalizado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Nacionalidad emitido por autoridad Consular (solo si se presenta en lugar de pasaporte), con fotografía y legalizado por el Ministerio de Relaciones Exteriores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Antecedentes Penales Argentinos emitido por el Registro Nacional de Reincidencia (solo para mayores de 16 años, no requiere tramitación previa en RADEX).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de no condenas ni procesos penales en trámite de los países donde haya residido por más de un año en los últimos tres años (solo para mayores de 16 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota del órgano o institución contratante firmada y certificada ante escribano público.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contrato suscripto por las partes ante escribano público.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción del empleador ante la Agencia de Recaudación y Control Aduanero (ARCA).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción del contratante/empleador en el Registro Único de Requirentes de extranjeros de la Dirección Nacional de Migraciones.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Legalización del Consulado Argentino o Apostilla para documentación expedida en el extranjero.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Legalización del Ministerio de Relaciones Exteriores para documentación expedida por representaciones consulares en el territorio nacional (excepto MERCOSUR).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Traducción al castellano por traductor público nacional y legalización por el Colegio de Traductores si la documentación está en idioma extranjero.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación original.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá tu trámite a distancia ingresando en el sistema RADEX."
+      },
+      {
+        "texto": "Registrate como usuario."
+      },
+      {
+        "texto": "Completá el formulario de solicitud y aboná las tasas correspondientes."
+      },
+      {
+        "texto": "Adjuntá la documentación y datos requeridos según el tipo de residencia a la que quieras aplicar."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el Certificado de Antecedentes Penales Argentinos el día de la cita (si aplica)."
+      },
+      {
+        "texto": "Realizá la cita presencial ante la Dirección Nacional de Migraciones."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La residencia se otorga por un plazo de un año, prorrogable.",
+      "Es necesario que te encuentres dentro del territorio de la República Argentina para realizar el trámite.",
+      "Podés realizar tu trámite con cita preferencial abonando un monto adicional."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-una-residencia-temporaria-como-academicos",
+      "titulo": "Obtener una residencia temporaria como académicos | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T07:30:17.191Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T07:30:17.191Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de las tasas migratorias no se especifica en el texto, solo se indica que deben abonarse en RADEX.",
+    "La fecha de vigencia de la normativa no se especifica en el texto, solo se menciona la ley y decreto que la reglamentan."
+  ]
+}

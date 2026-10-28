@@ -1,0 +1,96 @@
+{
+  "tramite": {
+    "slug": "cambios-de-categoria-del-trabajador-en-relacion-de-dependencia",
+    "nombre": "Registrar cambios de categoría del trabajador en relación de dependencia",
+    "nombre_busqueda": "cambios de categoria trabajador relacion de dependencia",
+    "resumen": "Este trámite permite registrar el cambio de categoría laboral dispuesto por tu empleador, siempre y cuando trabajes en relación de dependencia, estés empadronado en el Padrón del Sistema Nacional del Seguro de Salud que administra ANSES y te corresponda una obra social de distinta naturaleza.",
+    "sinonimos": [],
+    "temas": [
+      "trabajo-y-seguridad-social",
+      "aportes-e-historia-laboral"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANSES",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Al trabajador titular de la obra social o a quien lo represente."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI (original y copia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Original y copia del Formulario PS.5.3 - Declaración Jurada del Trabajador y su Grupo Familiar adheridos al Sistema Nacional del Seguro de Salud, completo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del último recibo de sueldo confeccionado de acuerdo a las formalidades de ley.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota formal con membrete de la empresa en la que conste el cambio de categoría laboral del trabajador en relación de dependencia y la fecha de vigencia del mismo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La nota formal deberá estar firmada por el Empleador Responsable autorizado o el Representante legal de la empresa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si la presentación la efectúa un tercero o se realiza ante la obra social, la firma de la persona titular debe estar certificada por autoridad competente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el titular se encuentra imposibilitado para firmar, esta situación deberá ser acreditada por escribano público.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Reuní la documentación."
+      },
+      {
+        "texto": "Presentá la documentación requerida en la oficina de ANSES o en la obra social."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/registrar-cambios-de-categoria-del-trabajador-en-relacion-de-dependencia",
+      "titulo": "Registrar cambios de categoría del trabajador en relación de dependencia | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T02:57:10.733Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T02:57:10.733Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si el trámite se realiza en la obra social, se debe coincidir con la obra social consignada por el empleador en la declaración jurada mensual a presentar ante AFIP.",
+    "La fecha de vigencia del cambio de categoría laboral debe constar en la nota formal.",
+    "Si se trata de un trabajador que recién inicia la relación laboral, el requisito del último recibo de sueldo no es obligatorio."
+  ]
+}

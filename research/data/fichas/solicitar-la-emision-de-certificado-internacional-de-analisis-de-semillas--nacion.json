@@ -1,0 +1,102 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-analisis-de-semillas",
+    "nombre": "Solicitud de análisis de semillas",
+    "nombre_busqueda": "certificado internacional analisis semillas",
+    "resumen": "Quienes estén inscriptos en el Registro Nacional de Comercio y Fiscalización de Semillas pueden solicitar la emisión de certificados de análisis de semillas ante el Laboratorio Central de Análisis de Semillas.",
+    "sinonimos": [
+      "Certificado Orange",
+      "Certificado Blue",
+      "Certificado del INASE"
+    ],
+    "temas": [
+      "bromatologia-y-alimentos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto Nacional de Semillas",
+    "sigla": "INASE",
+    "web": "https://www.argentina.gob.ar/servicio/solicitar-la-emision-de-certificado-internacional-de-analisis-de-semillas"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Toda persona física o jurídica que esté inscripta en el Registro Nacional de Comercio y Fiscalización de Semillas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Estar inscripto en el Registro Nacional de Comercio y Fiscalización de Semillas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario Solicitud de emisión de Certificados de análisis de semillas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Conocer las condiciones establecidas en la Información y requisitos para la realización de análisis.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Descargá y completá el Formulario Solicitud de emisión de Certificados de análisis de semillas."
+      },
+      {
+        "texto": "Enviar el formulario por correo electrónico a [email protected] o personalmente al Laboratorio Central de Análisis de Semillas."
+      },
+      {
+        "texto": "Pagá el monto correspondiente a los servicios requeridos."
+      },
+      {
+        "texto": "Enviar a [email protected] el comprobante de pago, describiendo el motivo del mismo."
+      },
+      {
+        "texto": "Retirá el certificado personalmente en el Laboratorio Central de Análisis de Semillas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Laboratorio Central de Análisis de Semillas",
+      "direccion": "Av. Paseo Colón 922, 4º Piso, Oficina 350 - CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-la-emision-de-certificado-internacional-de-analisis-de-semillas"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-emision-de-certificado-internacional-de-analisis-de-semillas",
+      "titulo": "Solicitar la emisión de certificado internacional de análisis de semillas | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T09:29:33.777Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T09:29:33.777Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los montos exactos de los aranceles no están especificados en el texto.",
+    "El plazo de emisión del certificado no está indicado en el texto."
+  ]
+}

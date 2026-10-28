@@ -1,0 +1,80 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-baja-de-instalaciones",
+    "nombre": "Solicitud de baja de instalaciones",
+    "nombre_busqueda": "Baja de instalaciones ANMaC",
+    "resumen": "Para que una persona física o jurídica deje de tener una instalación autorizada de explosivos, debe presentar una nota de solicitud firmada, el certificado de habilitación original y pagar el arancel correspondiente.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMaC",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Las personas físicas o jurídicas inscriptas en el rubro de explosivos que cesen sus actividades."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de solicitud especificando la petición, indicando rubros y documentación que se agrega, firmada por representante legal, con firma debidamente certificada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de habilitación original otorgado por la ANMaC.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitud-de-baja-de-instalaciones"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitud-de-baja-de-instalaciones",
+      "titulo": "Solicitud de baja de instalaciones | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-28T05:33:25.483Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T05:33:25.483Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de los Centros de Atención de ANMaC.",
+    "Si se requiere sacar turno antes de presentar la documentación."
+  ]
+}

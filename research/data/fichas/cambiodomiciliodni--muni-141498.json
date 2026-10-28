@@ -1,0 +1,101 @@
+{
+  "tramite": {
+    "slug": "cambio-domicilio-dni",
+    "nombre": "Cambio de domicilio",
+    "nombre_busqueda": "Cambio de domicilio DNI",
+    "resumen": "Este trámite permite modificar el domicilio registrado en el DNI. Se requiere llevar el DNI anterior y, si sos menor de 14 años, acompañamiento de un padre, madre o tutor con documentación específica.",
+    "sinonimos": [
+      "Modificación domicilio DNI",
+      "Actualizar domicilio documento identidad"
+    ],
+    "temas": [
+      "dni"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141498",
+  "organismo": {
+    "nombre": "Municipalidad de Tancacha",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Mayores de 14 años.",
+      "Menores de 14 años acompañados por padre, madre o tutor."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI anterior (si sos mayor de 14 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Partida de nacimiento actualizada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Testimonio judicial de tutela (si sos el tutor legal y sos menor de 14 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Padre, madre o tutor con su DNI (si sos menor de 14 años).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Llevá tu DNI anterior."
+      },
+      {
+        "texto": "Llevá la partida de nacimiento actualizada."
+      },
+      {
+        "texto": "Si sos menor de 14 años, llevá a tu padre, madre o tutor con su DNI."
+      },
+      {
+        "texto": "Si sos el tutor legal, llevá el original del testimonio judicial de tutela."
+      },
+      {
+        "texto": "Presentá la documentación en la oficina."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si sos mayor de 75 años, podés seguir usando el DNI verde, Libreta Cívica o de Enrolamiento siempre y cuando se encuentre en buen estado.",
+      "La vigencia de un nuevo ejemplar de DNI es de 15 años, excepto para menores de edad, cuya validez dura hasta su actualización obligatoria (5-8 años y 14 años)."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.tancacha.gob.ar/cambioDomicilioDni.html"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.tancacha.gob.ar/cambioDomicilioDni.html",
+      "titulo": "Municipalidad de Tancacha - Cambio de domicilio",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T09:48:47.775Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina para realizar el trámite.",
+    "Horario de atención de la oficina.",
+    "Si se requiere sacar turno y cómo hacerlo."
+  ]
+}

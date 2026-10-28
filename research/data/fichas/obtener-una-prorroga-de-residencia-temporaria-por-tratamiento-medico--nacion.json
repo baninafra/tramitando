@@ -1,0 +1,124 @@
+{
+  "tramite": {
+    "slug": "prorroga-residencia-temporaria-tratamiento-medico",
+    "nombre": "Obtener una prórroga de residencia temporaria por tratamiento médico",
+    "nombre_busqueda": "prorroga residencia médica",
+    "resumen": "Se otorga una prórroga de un año a personas extranjeras que obtuvieron residencia por tratamiento médico y desean extender su permanencia en el país por complejidad o riesgo de su salud.",
+    "sinonimos": [
+      "extensión residencia médica",
+      "prórroga estancia por salud"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria",
+      "residencias-temporarias-y-permanentes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Migraciones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas extranjeras que hayan obtenido una residencia temporaria por tratamiento médico y deseen extender su permanencia en el país.",
+      "Personas que se encuentren bajo tratamientos médicos que justifiquen la necesidad de permanencia en el país por su complejidad o riesgo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento Nacional de Identidad o Pasaporte válido y vigente (todas las nacionalidades).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Nacionalidad emitido por autoridad Consular, con fotografía y legalizado por el Ministerio de Relaciones Exteriores, Comercio Internacional y Culto de la Nación (solo si no se tiene DNI o Pasaporte).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Antecedentes Penales Argentinos emitido por el Registro Nacional de Reincidencia (Solo exigible a mayores de 16 años, incorporado al sistema Radex).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditación de Domicilio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Historia clínica suscripta por el director del hospital o clínica privada donde se desarrolle el tratamiento, explicando la duración y que este continúa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el tratamiento se lleva a cabo en una institución privada, la firma de la historia clínica deberá contar con la legalización del Ministerio de Salud.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Toda documentación expedida en el extranjero deberá contar con la legalización del Consulado Argentino sito en el país emisor del documento o Apostillada, si el país hubiera ratificado el Convenio de La Haya.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Sin perjuicio de lo dispuesto en los acuerdos o convenciones internacionales vigentes, toda documentación expedida por las representaciones consulares en el territorio nacional deberá contar con la legalización del Ministerio de Relaciones Exteriores, Comercio Internacional y Culto, excepto MERCOSU…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Toda documentación expedida en idioma extranjero deberá contar con la traducción al castellano efectuada por Traductor Público Nacional, Art. 6° Ley 20.305, y legalizada por el Colegio de Traductores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La documentación a presentar deberá ser original.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá tu trámite a distancia ingresando en el sistema RaDEX."
+      },
+      {
+        "texto": "Registrate como usuario."
+      },
+      {
+        "texto": "Completá el formulario de solicitud y aboná las tasas correspondientes."
+      },
+      {
+        "texto": "Adjuntá la documentación y datos requeridos según el tipo de residencia a la que quieras aplicar."
+      },
+      {
+        "texto": "Si cumplís con los requisitos para formalizar tu solicitud, recibirás un email con la fecha de tu cita presencial."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Las tramitaciones ante la Dirección Nacional de Migraciones son personales y sencillas, no se necesita la asistencia de un gestor.",
+      "Es necesario que te encuentres dentro del territorio de la República Argentina.",
+      "Podés realizar tu trámite con cita preferencial abonando un monto adicional."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-una-prorroga-de-residencia-temporaria-por-tratamiento-medico",
+      "titulo": "Obtener una prórroga de residencia temporaria por tratamiento médico | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T07:08:50.980Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T07:08:50.980Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de las tasas migratorias no se especifica en el texto, solo se indica que se deben abonar en la plataforma RaDEX.",
+    "La fecha de vigencia de la prórroga (AAAA-MM-DD) no se especifica en el texto, solo se indica que es de un año."
+  ]
+}

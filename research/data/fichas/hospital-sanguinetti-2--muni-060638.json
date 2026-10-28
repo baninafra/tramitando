@@ -1,0 +1,64 @@
+{
+  "tramite": {
+    "slug": "hospital-sanguinetti",
+    "nombre": "Hospital Sanguinetti",
+    "nombre_busqueda": "Hospital Sanguinetti Pilar",
+    "resumen": "El Hospital Sanguinetti de Pilar ofrece múltiples especialidades médicas y requiere agendar un turno a través de la plataforma Mi Muni.",
+    "sinonimos": [
+      "Hospital Municipal Pilar",
+      "Centro de Salud Sanguinetti"
+    ],
+    "temas": [
+      "salud-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060638",
+  "organismo": {
+    "nombre": "Municipalidad del Pilar",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que necesite atención médica en el Hospital Sanguinetti."
+    ],
+    "requisitos": [
+      {
+        "texto": "Acceso a la plataforma Mi Muni para solicitar turno.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Accedé a la plataforma Mi Muni."
+      },
+      {
+        "texto": "Solicitá un turno para atenderte."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": "https://pilar.gov.ar/hospitales/hospital-sanguinetti-2/",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://pilar.gov.ar/hospitales/hospital-sanguinetti-2/",
+      "titulo": "Hospital Sanguinetti - Municipio Pilar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T09:41:14.616Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos adicionales más allá del turno."
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "tramite": {
+    "slug": "consulta-y-pago-online-de-tasas-municipales",
+    "nombre": "Consultar y pagar tasas municipales",
+    "nombre_busqueda": "consulta y pago online de tasas municipales",
+    "resumen": "Consultá la deuda de tasas y servicios municipales en línea. Para buscarla, seleccioná una tasa o servicio e ingresá el número de partida inmobiliaria.",
+    "sinonimos": [
+      "consulta de deuda municipal",
+      "pago de tasas municipales"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060466",
+  "organismo": {
+    "nombre": "Municipalidad de Lezama",
+    "sigla": null,
+    "web": "https://lezama.gov.ar/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés consultar deudas de tasas o servicios municipales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de partida inmobiliaria.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Seleccioná la tasa o el servicio que querés consultar."
+      },
+      {
+        "texto": "Ingresá el número de partida inmobiliaria."
+      },
+      {
+        "texto": "Buscá la deuda."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://lezama.gov.ar/portal-de-pagos-online/",
+      "titulo": "Municipalidad de Lezama",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T14:41:28.203Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa si la consulta o el pago tienen costo.",
+    "No se detallan medios ni pasos para pagar la deuda."
+  ]
+}

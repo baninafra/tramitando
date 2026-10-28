@@ -1,0 +1,102 @@
+{
+  "tramite": {
+    "slug": "reclamo-demora-cambio-titularidad-suministro-electrico",
+    "nombre": "Reclamar demora cambio titularidad suministro eléctrico",
+    "nombre_busqueda": "Reclamar demora cambio titularidad suministro eléctrico",
+    "resumen": "Reclamá a la distribuidora (EDENOR o EDESUR) que cumpla con el plazo para el cambio de titularidad. Es gratuito, requiere turno y se hace presencialmente en Suipacha 615.",
+    "sinonimos": [
+      "Reclamo demora cambio titularidad EDENOR",
+      "Reclamo demora cambio titularidad EDESUR"
+    ],
+    "temas": [
+      "vivienda-y-servicios-del-hogar"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ente Nacional Regulador del Gas y la Electricidad",
+    "sigla": "ENReGE",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Usuarios de EDENOR y EDESUR"
+    ],
+    "requisitos": [
+      {
+        "texto": "Comprobante del pedido solicitado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del título de propiedad o del contrato de alquiler, o de un servicio a tu nombre, o del DNI donde conste el domicilio",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Completá el formulario de reclamo a distancia si preferís hacerlo así."
+      },
+      {
+        "texto": "Llegá a la sede de Suipacha 615, Ciudad Autónoma de Buenos Aires, de lunes a viernes de 09:00 a 17:00 horas."
+      },
+      {
+        "texto": "Presentá los datos y documentos requeridos."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "No olvides reclamar ante la empresa antes de hacerlo ante el ENReGE."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede ENReGE",
+      "direccion": "Suipacha 615",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/reclamar-por-demora-en-solicitud-de-cambio-de-titularidad-de-suministro-electrico"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reclamar-por-demora-en-solicitud-de-cambio-de-titularidad-de-suministro-electrico",
+      "titulo": "Reclamar por demora en solicitud de cambio de titularidad de suministro eléctrico | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T02:27:35.967Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/enre/gestion-de-reclamos/formularios-online/formulario-atencion-usuarios",
+      "titulo": "Para reclamar por otras deficiencias en el servicio de EDENOR / EDESUR | Argentina.gob.ar",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T02:27:35.967Z"
+    },
+    {
+      "url": "https://mi.argentina.gob.ar/turnos/seleccion-turno/250",
+      "titulo": "Ingresar | Mi Argentina",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T02:27:35.967Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo exacto para el cambio de titularidad no está especificado en el texto.",
+    "La URL para sacar el turno no se indica en el texto."
+  ]
+}

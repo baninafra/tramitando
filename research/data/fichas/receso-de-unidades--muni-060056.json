@@ -1,0 +1,91 @@
+{
+  "tramite": {
+    "slug": "receso-de-unidades",
+    "nombre": "Receso de unidades",
+    "nombre_busqueda": "Receso de unidades transporte",
+    "resumen": "Informá a la Dirección General de Tránsito y Transporte vía WhatsApp si no podés asistir a la desinfección de las unidades de transporte urbano. Si el receso es por más de 15 días, necesitás presentar documentación fiscal.",
+    "sinonimos": [],
+    "temas": [
+      "transporte-publico-y-viajes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Dirección General de Tránsito y Transporte",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Solicitantes de receso de unidades de transporte urbano"
+    ],
+    "requisitos": [
+      {
+        "texto": "Informar a la Dirección General de Tránsito y Transporte vía WhatsApp que no podrá asistir a la desinfección el día pautado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el receso es por 30 días, presentar el Libre deuda de Tasa de comercio o convenio de pagos vigente.",
+        "aclaracion": "Solo para recesos de 30 días"
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Informá a la Dirección General de Tránsito y Transporte vía WhatsApp (2914629594) que no podés asistir a la desinfección el día pautado."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a la oficina de la Dirección General de Tránsito y Transporte para realizar el trámite."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 325000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/transporte/receso-de-unidades/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Dirección General de Tránsito y Transporte",
+      "direccion": "Av. Cabrera 4118",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/transporte/receso-de-unidades/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/tramites/transporte/receso-de-unidades/",
+      "titulo": "Receso de unidades | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T03:01:07.647Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horario de atención de la oficina",
+    "Dirección exacta de la oficina de la Dirección General de Tránsito y Transporte",
+    "Vigencia del Libre deuda de Tasa de comercio o convenio de pagos",
+    "Plazo de respuesta o resolución del trámite",
+    "Si el trámite requiere turno"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "tramite": {
+    "slug": "inscripcion-de-nacimientos",
+    "nombre": "DNI recién nacido",
+    "nombre_busqueda": "DNI recién nacido",
+    "resumen": "Para inscribir a un recién nacido necesitás la partida de nacimiento, certificado médico y tu DNI. El trámite es gratuito y el DNI provisional tiene vigencia de 6 meses.",
+    "sinonimos": [
+      "DNI para recién nacido",
+      "DNI 0 año",
+      "DNI bebé"
+    ],
+    "temas": [
+      "documentos-e-identidad",
+      "dni"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141498",
+  "organismo": {
+    "nombre": "Municipalidad de Tancacha",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Si sos mamá, papá o tutor de un recién nacido."
+    ],
+    "requisitos": [
+      {
+        "texto": "Partida de nacimiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado médico de hospital o clínica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de corresponder, tenés que adjuntar el acta del reconocimiento o adopción.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tu DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si sos el tutor legal, también tenés que llevar el original del testimonio judicial de tutela.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.tancacha.gob.ar/recienNacido.html",
+      "titulo": "Municipalidad de Tancacha",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T12:19:24.560Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina",
+    "Localidad de la oficina",
+    "Nombre de la oficina",
+    "Requiere turno",
+    "Vigencia del trámite desde"
+  ]
+}

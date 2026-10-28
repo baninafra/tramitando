@@ -1,0 +1,115 @@
+{
+  "tramite": {
+    "slug": "obtener-reduccion-temporal-arancel-importacion",
+    "nombre": "Obtener una reducción temporal del arancel de importación",
+    "nombre_busqueda": "reducción arancel importación desabastecimiento",
+    "resumen": "Solicitá una reducción temporal del arancel de importación de hasta 365 días si hay desabastecimiento regional en el Mercosur. El trámite se inicia en TAD con el Formulario Básico y requiere tener CUIT.",
+    "sinonimos": [
+      "reducción arancelaria temporal",
+      "reducción arancel por desabastecimiento"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas monotributistas, autónomos o personas físicas.",
+      "Organizaciones e instituciones."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener CUIT.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Razón social o nombre de la empresa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUIL si aplica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Sector al que se dedica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Correo electrónico de contacto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Teléfono.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombre y apellido del contacto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cargo del contacto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Provincia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Localidad.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Descargá y completá el Formulario Básico."
+      },
+      {
+        "texto": "Iniciá el trámite en TAD y presentá el Formulario Básico."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El pedido será analizado y se realizarán consultas internas a entidades públicas y privadas.",
+      "Si no hay objeciones ni fabricación local, la Comisión de Comercio del MERCOSUR aprobará la rebaja en el plazo de 90 días desde el último día del mes de presentación.",
+      "La aprobación se registra en ALADI como Apéndice al Centésimo Nonagésimo Protocolo Adicional al ACE N° 18 y se incorpora al ordenamiento jurídico interno de Argentina."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-una-reduccion-temporal-del-arancel-de-importacion",
+      "titulo": "Obtener una reducción temporal del arancel de importación | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T07:28:16.751Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/produccion/consulta-obtener-una-reduccion-temporal-del-arancel-de-importacion",
+      "titulo": "Envianos tu consulta sobre el trámite de obtener una reducción temporal del arancel de importación | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T07:28:16.751Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia exacta de la reducción temporal.",
+    "El monto exacto de la reducción arancelaria."
+  ]
+}

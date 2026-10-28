@@ -1,0 +1,82 @@
+{
+  "tramite": {
+    "slug": "recoleccion-de-residuos",
+    "nombre": "Recolección de residuos",
+    "nombre_busqueda": "Recoleccion de residuos Alta Gracia",
+    "resumen": "La Municipalidad de Alta Gracia realiza la recolección de residuos sólidos todos los días en diferentes horarios según el barrio. Se requiere sacar turno online para acceder a los horarios de atención.",
+    "sinonimos": [
+      "Limpieza de residuos",
+      "Bolsa de basura",
+      "Servicio de basura"
+    ],
+    "temas": [
+      "recoleccion-de-residuos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141372",
+  "organismo": {
+    "nombre": "Municipalidad de Alta Gracia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier habitante del municipio que necesite sacar turno para la recolección de residuos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Sacar turno online en el sitio web de la Municipalidad de Alta Gracia.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio web de la Municipalidad de Alta Gracia."
+      },
+      {
+        "texto": "Buscá la sección de servicios públicos o recolección de residuos."
+      },
+      {
+        "texto": "Accedé al sistema de gestión de turnos."
+      },
+      {
+        "texto": "Ingresá con tu usuario y contraseña del sistema de turnos."
+      },
+      {
+        "texto": "Seleccioná el tipo de servicio (recolección de residuos) y el barrio correspondiente."
+      },
+      {
+        "texto": "El sistema te asignará un turno disponible según la disponibilidad."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": "https://altagracia.gob.ar/subareas/recoleccion-de-residuos/",
+    "plazo": null,
+    "consejos": [
+      "Revisá el horario de tu turno antes de irte al punto de recolección.",
+      "Llevá tu documento de identidad si te lo piden en el punto de recolección.",
+      "Si no tenés turno, no podés acceder al punto de recolección."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://altagracia.gob.ar/subareas/recoleccion-de-residuos/",
+      "titulo": "Recolección de residuos – Municipalidad de Alta Gracia",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T12:11:26.543Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos adicionales más allá de sacar turno.",
+    "No se indican costos para el trámite de recolección de residuos.",
+    "No se especifica un plazo de espera para obtener el turno."
+  ]
+}

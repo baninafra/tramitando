@@ -1,0 +1,120 @@
+{
+  "tramite": {
+    "slug": "defensa-del-consumidor-y-relaciones-vecinales",
+    "nombre": "Defensa del consumidor y relaciones vecinales",
+    "nombre_busqueda": "Hacer un reclamo de consumo o pedir mediación con un vecino",
+    "resumen": "Podés reclamar por compras o servicios realizados dentro del partido de Olavarría, incluso si fueron por internet, teléfono o puerta a puerta. También podés pedir mediación comunitaria para tratar conflictos vecinales y buscar un acuerdo.",
+    "sinonimos": [
+      "reclamo de consumo",
+      "mediación comunitaria"
+    ],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060595",
+  "organismo": {
+    "nombre": "Centro Municipal de Relaciones Vecinales y Defensa del Consumidor",
+    "sigla": null,
+    "web": "https://www.olavarria.gov.ar/servicios/defensa-consumidor-y-relaciones-vecinales/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Si adquirís bienes o servicios para tu consumo propio, familiar o social, podés reclamar como consumidor.",
+      "Si usás un bien o servicio que adquirió o contrató otra persona, podés reclamar como usuario.",
+      "Podés reclamar contra proveedores de bienes o servicios.",
+      "El Centro puede intervenir en compras o servicios realizados dentro del partido de Olavarría, o contratados a domicilio por internet, teléfono o puerta a puerta.",
+      "Si tenés un conflicto con un vecino, podés acercarte a pedir mediación comunitaria. El servicio también contempla conflictos entre vecinos, sociedades de fomento, clubes y asociaciones."
+    ],
+    "requisitos": [
+      {
+        "texto": "Datos de la otra persona involucrada en el conflicto vecinal: nombre y apellido, dirección y teléfono.",
+        "aclaracion": "Si pedís mediación comunitaria."
+      },
+      {
+        "texto": "Ticket o factura de la compra.",
+        "aclaracion": "Si hacés una denuncia o un reclamo de consumo."
+      },
+      {
+        "texto": "Comprobante de entrega del producto al servicio técnico.",
+        "aclaracion": "Si entregaste un producto para reparar."
+      },
+      {
+        "texto": "Ejemplar del contrato.",
+        "aclaracion": "Si hiciste una contratación."
+      },
+      {
+        "texto": "Número de reclamo telefónico.",
+        "aclaracion": "Si reclamaste por teléfono."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a la oficina municipal y explicale el conflicto a una mediadora."
+      },
+      {
+        "texto": "Facilitale a la mediadora el nombre y apellido, la dirección y el teléfono de la otra persona involucrada."
+      },
+      {
+        "texto": "Esperá a que la mediadora se comunique con la otra parte para conversar sobre el conflicto."
+      },
+      {
+        "texto": "Participá de la mediación cuando convoquen a las partes y conversá sobre el problema para buscar un acuerdo con ayuda de la mediadora."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Conservá el ticket o la factura de tus compras.",
+      "Pedí un comprobante cuando entregues un producto al servicio técnico.",
+      "Pedí un ejemplar del contrato cuando hagas una contratación.",
+      "Si hacés un reclamo por teléfono, pedí el número de reclamo.",
+      "La garantía legal para cosas muebles no consumibles es de seis meses si son nuevas y de tres meses si son usadas.",
+      "Si te arrepentís de entregar una seña, perdés ese monto. Si se arrepiente el proveedor, debe devolverte el doble de lo señado.",
+      "Si el vuelto es menor a cinco centavos y no pueden darte las monedas, la diferencia debe quedar a tu favor.",
+      "Si usás un servicio público, tenés derecho a recibir información sobre sus condiciones, hacer reclamos y recibir constancia."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": true,
+      "monto_centavos": null,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.olavarria.gov.ar/servicios/defensa-consumidor-y-relaciones-vecinales/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Centro Municipal de Relaciones Vecinales y Defensa del Consumidor",
+      "direccion": "Coronel Suarez 2843",
+      "localidad": "Olavarría",
+      "horario": "07:30 a 13:00",
+      "fuente_url": "https://www.olavarria.gov.ar/servicios/defensa-consumidor-y-relaciones-vecinales/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.olavarria.gov.ar/servicios/defensa-consumidor-y-relaciones-vecinales/",
+      "titulo": "Defensa del Consumidor y Relaciones Vecinales | Municipalidad del Partido de Olavarría",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "consejos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T15:41:37.643Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el procedimiento para presentar un reclamo de consumo.",
+    "No se informa si hace falta sacar turno."
+  ]
+}

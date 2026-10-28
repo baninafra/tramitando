@@ -1,0 +1,156 @@
+{
+  "tramite": {
+    "slug": "inscripcion-de-certificadoras-de-productos-ecologicos",
+    "nombre": "Inscribir entidades en el registro de certificadoras de productos ecológicos/orgánicos",
+    "nombre_busqueda": "Inscribir entidades en el registro de certificadoras de productos ecológicos/orgánicos",
+    "resumen": "Para producir y comercializar productos ecológicos/orgánicos, necesitás solicitar la aprobación ante el Senasa. El trámite es gratuito y se realiza en línea a través del sistema TAD.",
+    "sinonimos": [
+      "Inscripción de certificadoras de productos orgánicos",
+      "Registro de entidades certificadoras"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas físicas o jurídicas que aspiren a la inscripción en el Registro Nacional de Entidades Certificadoras de Productos Orgánicos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de Solicitud de inscripción.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de inscripción del Código Único de Identificación Tributaria (CUIT).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estatuto o Contrato Social o Contratos de Constitución que incluyan en sus objetivos de forma explícita las funciones de inspección y/o certificación de productos orgánicos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copias certificadas de la inscripción en la Inspección General de Justicia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copias certificadas del Acta donde conste la distribución de cargos de los integrantes y sus modificaciones debidamente inscriptas en el Registro Público de Comercio o Inspección General de Justicia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Manual de Calidad y Manual de Procedimientos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cuaderno de Normas de Producción y Elaboración propias de la entidad certificadora.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombre y documento del Responsable Técnico, que debe poseer título universitario con competencia en el tema y debe acreditar conocimientos y habilidades para el cumplimiento de su función.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nómina de inspectores y sus documentos que realicen inspecciones para la certificadora quienes deben poseer título universitario con competencia en el tema y debe acreditar conocimientos y habilidades para el cumplimiento de su función.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Curriculum Vitae de todo el personal de la firma.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración de no conflicto de intereses de todo el personal de la firma.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago del trámite.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración de domicilio electrónico.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Aboná el arancel que corresponda, ver los Medios de pago habilitados – Senasa."
+      },
+      {
+        "texto": "Consultá las Normativas relacionadas con los costos del trámite y las excepciones, si tu actividad está encuadrada a la Agricultura Familiar."
+      },
+      {
+        "texto": "Las certificadoras deben completar los datos del trámite y adjuntar toda la documentación en TAD."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "sede del Centro Regional Metropolitano",
+      "direccion": "Azopardo N° 1020 Piso 2 C1102ADR, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-entidades-en-el-registro-de-certificadoras-de-productos-ecologicosorganicos"
+    },
+    {
+      "nombre": "sede Central",
+      "direccion": "Paseo Colón 367 - CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-entidades-en-el-registro-de-certificadoras-de-productos-ecologicosorganicos"
+    },
+    {
+      "nombre": "Laboratorio Central",
+      "direccion": "Talcahuano 1660 – Martínez, Provincia de Buenos Aires",
+      "localidad": "Martínez",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-entidades-en-el-registro-de-certificadoras-de-productos-ecologicosorganicos"
+    },
+    {
+      "nombre": "Centro Regional Buenos Aires",
+      "direccion": "Mar de Plata, Provincia de Buenos Aires",
+      "localidad": "Mar de Plata",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-entidades-en-el-registro-de-certificadoras-de-productos-ecologicosorganicos"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribir-entidades-en-el-registro-de-certificadoras-de-productos-ecologicosorganicos",
+      "titulo": "Inscribir entidades en el registro de certificadoras de productos ecológicos/orgánicos | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T23:17:50.997Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T23:17:50.997Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia exacta del registro no se especifica en el texto, solo se indica que es de un año.",
+    "El plazo de tramitación no se especifica en el texto."
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "tramite": {
+    "slug": "certificado-estado-tramite-patente",
+    "nombre": "Certificado de estado de trámite de patente",
+    "nombre_busqueda": "Certificado estado trámite patente invención modelo",
+    "resumen": "Solicitá el certificado del estado de trámite de una patente de invención o modelo de utilidad desde el portal de trámites con tu clave fiscal.",
+    "sinonimos": [
+      "Certificado estado trámite patente",
+      "Certificado trámite patente invención",
+      "Certificado trámite modelo de utilidad"
+    ],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto Nacional de la Propiedad Industrial",
+    "sigla": "INPI",
+    "web": "https://www.argentina.gob.ar/servicio/solicitar-un-certificado-de-estado-de-tramite-de-una-patente-de-invencion-o-un-modelo-de"
+  },
+  "contenido": {
+    "quien_puede": [
+      "A cualquier persona humana o jurídica, sus apoderados o agentes de la propiedad industrial matriculados."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de acta de tu patente de invención o modelo de utilidad.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal de trámites con tu clave fiscal."
+      },
+      {
+        "texto": "Mirá el instructivo para adherir el servicio del INPI en tu cuenta de ARCA."
+      },
+      {
+        "texto": "Accedé a patentes / trámites / escrito."
+      },
+      {
+        "texto": "Completá el número de acta o resolución de tu patente o modelo de utilidad en el desplegable datos de la patente."
+      },
+      {
+        "texto": "Dentro de ARANCEL elegí el código 730000 - extensión de certificado de estado de trámite."
+      },
+      {
+        "texto": "En el desplegable ARCHIVO, dentro del índice, seleccioná MANIFIESTA."
+      },
+      {
+        "texto": "Podés adjuntar el escrito o redactarlo dentro de la caja de texto que figura a continuación."
+      },
+      {
+        "texto": "Hacé clic en FINALIZAR."
+      },
+      {
+        "texto": "Firmá electrónicamente el formulario."
+      },
+      {
+        "texto": "Generá y pagá el arancel correspondiente."
+      },
+      {
+        "texto": "Recibí el certificado dentro de los quince días hábiles en el portal de trámites web."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "15 días hábiles",
+    "consejos": [
+      "El trámite lleva 15 días hábiles."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-un-certificado-de-estado-de-tramite-de-una-patente-de-invencion-o-un-modelo-de",
+      "titulo": "Solicitar un certificado de estado de trámite de una patente de invención o un modelo de utilidad | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T17:10:20.119Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Monto exacto del arancel",
+    "Dirección de oficinas",
+    "Localidad de oficinas",
+    "Nombre de oficinas",
+    "Vigencia desde fecha exacta"
+  ]
+}

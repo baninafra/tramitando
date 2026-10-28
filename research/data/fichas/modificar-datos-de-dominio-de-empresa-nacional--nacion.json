@@ -1,0 +1,78 @@
+{
+  "tramite": {
+    "slug": "modificar-datos-de-dominio-de-empresa-nacional",
+    "nombre": "Modificar datos de dominio de empresa nacional",
+    "nombre_busqueda": "Modificar datos de dominio empresa nacional",
+    "resumen": "Si tenés una empresa nacional con flota ya permisionada, podés modificar datos de los vehículos de cargas internacionales de forma gratuita y en línea.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A empresas argentinas de transporte de carga con permiso originario."
+    ],
+    "requisitos": [
+      {
+        "texto": "Título de propiedad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Reválida de RUTA vigente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario CI2",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de solicitud",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poder de representación en caso de corresponder y no estar registrado",
+        "aclaracion": null
+      },
+      {
+        "texto": "RTO en caso de corresponder",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Presentá la documentación a través de TAD."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/modificar-datos-de-dominio-de-empresa-nacional",
+      "titulo": "Modificar datos de dominio de empresa nacional | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T06:14:47.016Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo no está especificado en el texto."
+  ]
+}

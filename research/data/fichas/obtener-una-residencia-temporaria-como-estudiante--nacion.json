@@ -1,0 +1,134 @@
+{
+  "tramite": {
+    "slug": "residencia-temporaria-estudiante",
+    "nombre": "Obtener residencia temporaria como estudiante",
+    "nombre_busqueda": "Residencia temporaria estudiante",
+    "resumen": "Trámite para personas extranjeras que ingresan al país a cursar estudios secundarios, terciarios, universitarios o especializados como alumnos regulares en establecimientos educativos públicos o privados.",
+    "sinonimos": [
+      "Residencia temporaria para estudiantes",
+      "Residencia temporaria alumno"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria",
+      "residencias-temporarias-y-permanentes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Migraciones",
+    "sigla": "DNM",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas extranjeras que ingresen al país para cursar estudios secundarios, terciarios, universitarios o especializados reconocidos, como alumnos regulares en establecimientos educativos públicos o privados."
+    ],
+    "requisitos": [
+      {
+        "texto": "Pasaporte válido y vigente (todas las nacionalidades) o documento de viaje del MERCOSUR legalizado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Antecedentes Penales Argentinos emitido por el Registro Nacional de Reincidencia (solo para mayores de 16 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de antecedentes penales de los países donde haya residido por más de un año en los últimos tres años (solo para mayores de 16 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción electrónica o convenio internacional o carta de aceptación según la categoría (estudiante, pasante o becario).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Partida de nacimiento legalizada y autorización de los padres (solo para menores de 18 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tutor designado con residencia legal en el país y designación instrumentada (solo para menores de 18 años cuyos padres no residan en el país).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Notas con firma certificada por el Ministerio de Educación, funcionario migratorio o escribano público (si fueran necesarias).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación expedida en el extranjero legalizada por el Consulado Argentino o apostillada según el Convenio de La Haya.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación traducida al castellano por traductor público nacional y legalizada (si estuviera en idioma extranjero).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Toda la documentación debe ser original.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá tu trámite a distancia ingresando en el sistema RADEX."
+      },
+      {
+        "texto": "Registrate como usuario."
+      },
+      {
+        "texto": "Completá el formulario de solicitud y aboná las tasas correspondientes."
+      },
+      {
+        "texto": "Adjuntá la documentación y datos requeridos según el tipo de residencia a la que quieras aplicar."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Recibí un email con la fecha de tu cita presencial si cumplís con los requisitos para formalizar tu solicitud."
+      },
+      {
+        "texto": "Presentá la documentación original y los certificados penales en la cita."
+      },
+      {
+        "texto": "Retirá la resolución de concesión de la residencia temporaria."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La residencia temporaria se otorga por un plazo de 1 año, prorrogable.",
+      "Es necesario que te encuentres dentro del territorio de la República Argentina para realizar el trámite.",
+      "Podés realizar tu trámite con cita preferencial abonando un monto adicional.",
+      "El Certificado de Antecedentes Penales Argentinos se tramita por fuera de RADEX y es obligatorio presentarlo el día de la cita."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-una-residencia-temporaria-como-estudiante",
+      "titulo": "Obtener una residencia temporaria como estudiante | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T07:01:01.946Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T07:01:01.946Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de las tasas migratorias no está especificado en el texto.",
+    "La fecha de vigencia de la resolución no está especificada en el texto."
+  ]
+}

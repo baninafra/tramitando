@@ -1,0 +1,80 @@
+{
+  "tramite": {
+    "slug": "lugares-de-pago",
+    "nombre": "Lugares de pago",
+    "nombre_busqueda": "Dónde pagar tasas municipales",
+    "resumen": "Podés pagar en el municipio o consultar otros canales habilitados, como Banco Provincia, Provincia Net Pagos, Banco Credicoop, PagoCoop, Pago Fácil y Red Link. Los pagos realizados fuera del municipio se acreditan a las 48 horas.",
+    "sinonimos": [
+      "formas de pago",
+      "pago de tasas municipales"
+    ],
+    "temas": [
+      "boletas-y-vencimientos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060648",
+  "organismo": {
+    "nombre": "Municipalidad de Presidente Perón",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que necesitan pagar tasas municipales."
+    ],
+    "requisitos": [
+      {
+        "texto": "La página no informa requisitos para pagar.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Pagá en la Municipalidad de Presidente Perón, Banco Provincia, Provincia Net Pagos, Banco Credicoop, PagoCoop o Pago Fácil."
+      },
+      {
+        "texto": "Si pagás por Red Link, elegí el rubro Impuestos Municipales y el ente correspondiente: munic. de pte. peron-deuda para recibos de deuda atrasada, planes en cuotas y Tasa de Seguridad e Higiene; municipalidad de pte. peron para cuotas vigentes."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "Si pagás fuera del municipio, el pago se acredita a las 48 horas.",
+    "consejos": [
+      "Banco Credicoop es solo para clientes.",
+      "Podés pagar por Red Link las 24 horas, todos los días del año, mediante cajeros Link, Home Banking de entidades adheridas, Link Celular o Mobile Home Banking."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Municipalidad de Presidente Perón",
+      "direccion": "Crisólogo Larralde 241",
+      "localidad": "Guernica",
+      "horario": null,
+      "fuente_url": "https://presidenteperon.gob.ar/lugares-de-pago/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://presidenteperon.gob.ar/lugares-de-pago/",
+      "titulo": "Lugares de Pago – Presidente Perón",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T16:31:57.844Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La página no especifica quiénes pueden usar cada canal de pago, salvo que Banco Credicoop es solo para clientes.",
+    "La página no informa requisitos para pagar.",
+    "No se informa el monto ni si el trámite tiene costo."
+  ]
+}

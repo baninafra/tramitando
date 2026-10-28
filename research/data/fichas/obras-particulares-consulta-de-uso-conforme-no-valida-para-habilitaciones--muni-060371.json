@@ -1,0 +1,54 @@
+{
+  "tramite": {
+    "slug": "consulta-uso-conforme",
+    "nombre": "Consultar el uso conforme",
+    "nombre_busqueda": "consulta de uso conforme",
+    "resumen": "La página descargada no contiene información sobre el trámite: solo muestra un indicador de carga.",
+    "sinonimos": [],
+    "temas": [
+      "numeracion-y-uso-de-suelo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060371",
+  "organismo": {
+    "nombre": "Municipalidad de San Martín",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "La página descargada no informa quiénes pueden hacer este trámite."
+    ],
+    "requisitos": [
+      {
+        "texto": "La página descargada no informa los requisitos.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://sanmartin.gob.ar/tramites/obras-particulares-consulta-de-uso-conforme-no-valida-para-habilitaciones",
+      "titulo": "(sin título)",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T13:32:18.634Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La página descargada no informa quiénes pueden hacer el trámite, sus requisitos ni sus pasos.",
+    "No se pudo confirmar si la consulta es válida para habilitaciones comerciales o zonificación."
+  ]
+}

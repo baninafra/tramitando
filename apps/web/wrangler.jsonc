@@ -1,0 +1,11 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "tramitando-web",
+  "compatibility_date": "2026-10-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "main": "@astrojs/cloudflare/entrypoints/server",
+  "observability": { "enabled": true },
+
+  // La web no habla con D1: lee todo por la API.
+  "services": [{ "binding": "API", "service": "tramitando-api" }]
+}

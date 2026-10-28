@@ -1,0 +1,93 @@
+{
+  "tramite": {
+    "slug": "solicitar-ordenes-de-prestacion-por-urgencia-pami-inssjp",
+    "nombre": "Solicitar órdenes de prestación por urgencia PAMI INSSJP",
+    "nombre_busqueda": "orden prestacion urgencia pami inssjp",
+    "resumen": "Si necesitás atenderte en un prestador alternativo por urgencia y no podés ir al de tu cartilla, podés solicitar la orden en línea.",
+    "sinonimos": [
+      "orden de prestación urgente PAMI",
+      "orden prestacion inssjp urgencia"
+    ],
+    "temas": [
+      "pensiones-no-contributivas-por-invalidez",
+      "prestaciones-medicas-e-incluir-salud"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "PAMI",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "La persona afiliada",
+      "Su apoderado/a",
+      "Su familiar"
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento Nacional de Identidad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Credencial de afiliación",
+        "aclaracion": null
+      },
+      {
+        "texto": "Historia clínica",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de admisión",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio web de Pami"
+      },
+      {
+        "texto": "Hacé clic en el botón Iniciar este trámite web"
+      },
+      {
+        "texto": "Completá los datos"
+      },
+      {
+        "texto": "Hacé clic en el botón Enviar formulario"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-ordenes-de-prestacion-por-urgencia-pami-inssjp",
+      "titulo": "Solicitar órdenes de prestación por urgencia a PAMI (INSSJP) | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T10:10:59.392Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T10:10:59.392Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si el trámite requiere turno, consultá en la página oficial si podés hacerlo en línea o si debés ir a la oficina."
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "tramite": {
+    "slug": "inscripcion-de-reglamentos-mutuales",
+    "nombre": "Inscribir un reglamento de mutual",
+    "nombre_busqueda": "inscripción de reglamentos mutuales INAES",
+    "resumen": "El Consejo Directivo de una mutual presenta ante el INAES el nuevo reglamento para que lo apruebe y pueda ofrecer nuevos servicios a sus asociados.",
+    "sinonimos": [
+      "aprobar un reglamento de mutual",
+      "inscripción de reglamento en el INAES",
+      "nuevo servicio de una mutual"
+    ],
+    "temas": [
+      "trabajo-y-seguridad-social"
+    ],
+    "temas_propuestos": [
+      {
+        "slug": "mutuales-y-cooperativas",
+        "nombre": "Mutuales y cooperativas",
+        "padre": "trabajo-y-seguridad-social"
+      }
+    ]
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto Nacional de Asociativismo y Economía Social",
+    "sigla": "INAES",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El Consejo Directivo de una mutual que decida brindar nuevos servicios a sus asociados."
+    ],
+    "requisitos": [
+      {
+        "texto": "Presentá la documentación asamblearia donde la entidad trató y aprobó el nuevo reglamento.",
+        "aclaracion": "Tiene que estar presentada antes de iniciar el trámite."
+      },
+      {
+        "texto": "Presentá una nota firmada por el presidente y el secretario del Consejo Directivo solicitando la aprobación.",
+        "aclaracion": "Usá el anexo de la Resolución 1862/19."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a Trámites a Distancia (TAD) y presentá la documentación asamblearia junto con la nota firmada."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación por Mesa de Entradas. Puede hacerlo cualquier asociado a la mutual."
+      },
+      {
+        "texto": "También podés enviarla por correo postal."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El reglamento tiene que estar aprobado por el INAES antes de que la mutual brinde los nuevos servicios."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscripcion-de-reglamentos-mutuales",
+      "titulo": "Inscripción de Reglamentos (mutuales) | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T00:17:05.829Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No dice cuánto tarda la aprobación del reglamento.",
+    "No dice si el trámite tiene costo.",
+    "No dice si hace falta sacar turno.",
+    "No incluye el enlace de Trámites a Distancia (TAD).",
+    "No indica la dirección de la Mesa de Entradas."
+  ]
+}

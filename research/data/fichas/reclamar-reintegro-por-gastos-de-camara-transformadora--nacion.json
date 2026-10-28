@@ -1,0 +1,124 @@
+{
+  "tramite": {
+    "slug": "reclamar-reintegro-gastos-camara-transformadora",
+    "nombre": "Reclamar reintegro por gastos de cámara transformadora",
+    "nombre_busqueda": "Reclamar reintegro cámara transformadora EDENOR EDESUR",
+    "resumen": "El ENReGE permite solicitar un reintegro gratuito por los gastos asociados a la construcción del recinto para la instalación de una cámara transformadora de electricidad. El trámite es presencial y requiere turnos.",
+    "sinonimos": [
+      "Reintegro cámara transformadora EDENOR",
+      "Reintegro cámara transformadora EDESUR",
+      "Reclamo gastos instalación cámara transformadora"
+    ],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ente Nacional Regulador del Gas y la Electricidad",
+    "sigla": "ENReGE",
+    "web": "https://www.argentina.gob.ar/enre"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Usuarios de EDENOR y EDESUR"
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia de la presentación realizada ante la distribuidora",
+        "aclaracion": null
+      },
+      {
+        "texto": "Toda documentación que acredite la realización y el costo de la obra",
+        "aclaracion": null
+      },
+      {
+        "texto": "Las facturas deben estar debidamente detalladas; si son originales, presentar copias debidamente certificadas",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tu número de identificación según la distribuidora: número de cliente para EDESUR; número de cuenta para EDENOR",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de reclamo ante la distribuidora",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tu domicilio (entre qué calles, localidad, barrio, partido, código postal)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio donde querés recibir las comunicaciones relativas a tu reclamo",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Llegá a la sede del ENReGE en Suipacha 615, Ciudad Autónoma de Buenos Aires"
+      },
+      {
+        "texto": "Acá de lunes a viernes de 09:00 a 17:00 horas"
+      },
+      {
+        "texto": "Solicitá turno previo"
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "No olvides reclamar ante la empresa antes de hacerlo ante el ENReGE"
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede del ENReGE",
+      "direccion": "Suipacha 615",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/reclamar-reintegro-por-gastos-de-camara-transformadora"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reclamar-reintegro-por-gastos-de-camara-transformadora",
+      "titulo": "Reclamar reintegro por gastos de cámara transformadora | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:52:14.989Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/enre/gestion-de-reclamos/formularios-online/formulario-atencion-usuarios",
+      "titulo": "Para reclamar por otras deficiencias en el servicio de EDENOR / EDESUR | Argentina.gob.ar",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T02:52:14.989Z"
+    },
+    {
+      "url": "https://mi.argentina.gob.ar/turnos/seleccion-turno/244",
+      "titulo": "Ingresar | Mi Argentina",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T02:52:14.989Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo exacto de respuesta del reclamo",
+    "La URL para sacar el turno online",
+    "La fecha de vigencia del trámite"
+  ]
+}

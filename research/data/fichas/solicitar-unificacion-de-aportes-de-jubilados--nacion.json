@@ -1,0 +1,105 @@
+{
+  "tramite": {
+    "slug": "solicitar-unificacion-de-aportes-de-jubilados",
+    "nombre": "Solicitar unificación de aportes de jubilados",
+    "nombre_busqueda": "Unificar aportes jubilados cónyuges",
+    "resumen": "Permite a cónyuges o concubinos beneficiarios de obras sociales nacionales unificar sus aportes para tener el mismo agente del seguro. Es un trámite gratuito que requiere formulario, DNI y documentación laboral o de vínculo.",
+    "sinonimos": [
+      "Unificar aportes cónyuges",
+      "Unificar aportes concubinos",
+      "Unificar aportes jubilados obras sociales"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones",
+      "obra-social-y-prepaga"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Beneficiarios de obras sociales nacionales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario Unificación de Aportes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Matrimonio o concubinato.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación laboral extendida por el empleador actual (modelo) y fotocopia del último recibo de sueldo, o pagos de monotributo, o pagos del servicio doméstico, o recibo de haberes previsionales (jubilación o pensión).",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de pertenecer al régimen de Monotributo: Fotocopia de F.184 / F.152 ARCA (ex AFIP), alta como monotributista social y como efector del Ministerio de desarrollo Social.",
+        "aclaracion": "Si sos monotributista."
+      },
+      {
+        "texto": "En caso de pertenecer al régimen de Servicio Doméstico: Fotocopia de F.102 ARCA (ex AFIP) y en caso de adherentes F.575 ARCA.",
+        "aclaracion": "Si sos servicio doméstico."
+      },
+      {
+        "texto": "Certificación del vínculo extendida por ANSES.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá la documentación por Trámites a Distancia (TAD)."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Solicitá el turno en línea con usuario de Mi Argentina o creando tu cuenta."
+      },
+      {
+        "texto": "Hacelo personalmente en delegaciones de todo el país."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central",
+      "direccion": "Bartolomé Mitre 434 - Planta Baja - CABA - C1035AAN",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-unificacion-de-aportes-de-jubilados"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-unificacion-de-aportes-de-jubilados",
+      "titulo": "Solicitar unificación de aportes de jubilados | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T17:25:29.464Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el plazo de atención.",
+    "No se especifica la URL para solicitar el turno en línea."
+  ]
+}

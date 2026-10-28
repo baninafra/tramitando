@@ -1,0 +1,115 @@
+{
+  "tramite": {
+    "slug": "nueva-marca-o-senal-ganadera",
+    "nombre": "Nueva marca o señal ganadera",
+    "nombre_busqueda": "Nueva marca o señal ganadera",
+    "resumen": "Para iniciar el trámite de nueva marca o señal ganadera necesitás una declaración jurada, el formulario único del Registro Ganadero, abonar la tasa y traer las copias del DNI, CUIT, Impuesto Inmobiliario y el formulario de pago.",
+    "sinonimos": [],
+    "temas": [
+      "marcas-senales-y-guias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060007",
+  "organismo": {
+    "nombre": "Municipalidad de Adolfo Alsina",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan que iniciar un trámite de nueva marca o señal ganadera."
+    ],
+    "requisitos": [
+      {
+        "texto": "Declaración Jurada",
+        "aclaracion": null
+      },
+      {
+        "texto": "Bajá y completá el formulario único del Registro Ganadero",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del Documento Nacional de Identidad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del CUIT/CUIL",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del Impuesto Inmobiliario del campo (Rentas)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario único de Registro Ganadero completo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de pago de Tasa y Timbrado Oficial, ya abonado",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Solicitá en la Municipalidad o en tu delegación municipal el Formulario para el pago de Tasa y el Timbrado Oficial y abonalo en el Banco Provincia de Buenos Aires."
+      },
+      {
+        "texto": "Traenos las copias del DNI, CUIT, Impuesto Inmobiliario del campo y el formulario de pago de Tasa y Timbrado Oficial ya abonado."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1935000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.adolfoalsina.gov.ar/proveedores/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Municipalidad de Adolfo Alsina",
+      "direccion": "Rivadavia y Pellegrini",
+      "localidad": "Carhué",
+      "horario": null,
+      "fuente_url": "https://www.adolfoalsina.gov.ar/nueva-marca-o-senal-ganadera/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.adolfoalsina.gov.ar/nueva-marca-o-senal-ganadera/",
+      "titulo": "Nueva marca o señal ganadera - Municipalidad de Adolfo Alsina",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T18:41:10.162Z"
+    },
+    {
+      "url": "https://www.adolfoalsina.gov.ar/proveedores/",
+      "titulo": "Proveedores - Municipalidad de Adolfo Alsina",
+      "bloques": [
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T18:41:10.162Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto de la tasa para la nueva marca o señal ganadera no se especifica en el texto.",
+    "El plazo de tramitación no se especifica en el texto.",
+    "Si el trámite requiere turno no se especifica en el texto."
+  ]
+}

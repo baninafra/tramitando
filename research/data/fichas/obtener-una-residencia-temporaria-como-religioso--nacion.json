@@ -1,0 +1,109 @@
+{
+  "tramite": {
+    "slug": "residencia-temporaria-religioso",
+    "nombre": "Obtener residencia temporaria como religioso",
+    "nombre_busqueda": "Residencia temporaria religiosa",
+    "resumen": "Trámite para personas extranjeras de cultos reconocidos que ingresan al país para desarrollar actividades propias de su culto exclusivamente.",
+    "sinonimos": [
+      "Residencia religiosa",
+      "Residencia para religiosos"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria",
+      "residencias-temporarias-y-permanentes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Migraciones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas extranjeras de cultos reconocidos oficialmente que ingresen al país para desarrollar en forma exclusiva actividades propias de su culto, ya sea como miembros del clero secular, ministros, seminaristas o personal religioso."
+    ],
+    "requisitos": [
+      {
+        "texto": "Pasaporte válido y vigente (todas las nacionalidades) o documento de viaje del MERCOSUR (solo para nacionales MERCOSUR).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Nacionalidad emitido por autoridad Consular (solo si no se tiene pasaporte), con fotografía y legalizado por el Ministerio de Relaciones Exteriores, Comercio Internacional y Culto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Antecedentes Penales Argentinos emitido por el Registro Nacional de Reincidencia (solo para mayores de 16 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de no condenas ni procesos penales en trámite de los países donde haya residido por más de un año en los últimos tres años (solo para mayores de 16 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditación de Domicilio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Carta de presentación del representante habilitado del culto, certificada por la Secretaría de Culto de la Cancillería, que especifique la actividad, el domicilio y si la entidad se hace cargo de la manutención y alojamiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Toda documentación expedida en el extranjero debe estar legalizada por el Consulado Argentino o Apostillada (si el país ratificó el Convenio de La Haya).",
+        "aclaracion": null
+      },
+      {
+        "texto": "La documentación expedida por representaciones consulares en el territorio nacional debe estar legalizada por el Ministerio de Relaciones Exteriores, Comercio Internacional y Culto (excepto MERCOSUR).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si la documentación está en idioma extranjero, debe ser traducida al castellano por un traductor público nacional y legalizada por el Colegio de Traductores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Toda la documentación debe ser original.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Solicitá cita para iniciar el trámite de residencia temporaria como religioso por intermedio del superior de la orden, ante la Secretaría de Culto de la Nación de la Cancillería Argentina."
+      },
+      {
+        "texto": "Presentate ante la Dirección Nacional de Migraciones en el día y horario que te informó la Secretaría de Culto de la Nación."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-una-residencia-temporaria-como-religioso",
+      "titulo": "Obtener una residencia temporaria como religioso | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-26T22:20:24.606Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T22:20:24.606Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica en el texto si se requiere sacar turno o no."
+  ]
+}

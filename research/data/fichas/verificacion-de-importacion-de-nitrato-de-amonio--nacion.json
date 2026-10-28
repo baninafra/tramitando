@@ -1,0 +1,103 @@
+{
+  "tramite": {
+    "slug": "verificacion-de-importacion-de-nitrato-de-amonio",
+    "nombre": "Verificación de importación de nitrato de amonio",
+    "nombre_busqueda": "verificacion importacion nitrato amonio",
+    "resumen": "Este trámite permite solicitar la verificación de importación de nitrato de amonio para obtener la autorización de ingreso o egreso de productos del país. Se requiere presentar documentación técnica específica y pagar aranceles reglamentados.",
+    "sinonimos": [],
+    "temas": [
+      "comercio-e-industria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMaC",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Solicitantes con inscripción como usuario de nitrato de amonio en el rubro importador/exportador y depósitos habilitados y vigentes a su nombre."
+    ],
+    "requisitos": [
+      {
+        "texto": "Ficha de datos técnicos (FDT) N° N7 por duplicado, suscriptas por el representante legal o titular con certificación de firma en imprenta, sin espacios en blanco ni corrector líquido, consignando el número de Autorización de Importación que la ampara.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estampillas por un valor de 100000.",
+        "aclaracion": "Res. Nº 204/22."
+      },
+      {
+        "texto": "Pago de arancel reglamentado mediante estampillas Leyes N° 23.283 y 23.412, equivalente/s al 2% del valor total de la mercadería (FOB).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia auténtica de la Guía Aérea (AWB), Carta de Porte Internacional por Carretera (CRT) o Conocimiento de embarque (B/L), según corresponda.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia certificada de la factura.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Lista de Empaque (Packing List) indicando los números con los datos técnicos correspondiente dependiente el medio de transporte aéreo, marítimo o terrestre, Nº de contenedores, detalle de la mercadería (bultos, pallets, etc) contenida en cada uno de ellos, con su número de código y riesgo principal…",
+        "aclaracion": null
+      },
+      {
+        "texto": "La documentación confeccionada en idioma extranjero deberá contar con su correspondiente traducción al idioma castellano, efectuada por traductor público nacional.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de la Autorización de Importación oportunamente emitida por la ANMaC.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de la habilitación del vehículo para el transporte de sustancias peligrosas (para transporte terrestre).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 10000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/verificacion-de-importacion-de-nitrato-de-amonio"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/verificacion-de-importacion-de-nitrato-de-amonio",
+      "titulo": "Verificación de importación de nitrato de amonio | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T18:26:42.216Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta del Centro de Atención de ANMaC.",
+    "Requisito de DNI argentino para sacar turno.",
+    "Fecha de vigencia del trámite."
+  ]
+}

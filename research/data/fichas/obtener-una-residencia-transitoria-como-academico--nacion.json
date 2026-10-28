@@ -1,0 +1,129 @@
+{
+  "tramite": {
+    "slug": "residencia-transitoria-academico",
+    "nombre": "Obtener residencia transitoria como académico",
+    "nombre_busqueda": "Residencia transitoria académico",
+    "resumen": "Trámite para personas extranjeras que realicen actividades académicas bajo acuerdos con instituciones de educación superior. Es semipresencial y requiere documentación específica y legalizada.",
+    "sinonimos": [
+      "Residencia transitoria para académico",
+      "Residencia académica transitoria"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria",
+      "residencias-temporarias-y-permanentes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Migraciones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas extranjeras que realicen actividades académicas al amparo de acuerdos suscriptos entre Instituciones de educación superior en áreas especializadas y bajo responsabilidad del centro o institución contratante."
+    ],
+    "requisitos": [
+      {
+        "texto": "Pasaporte válido y vigente (todas las nacionalidades) o documento de viaje del MERCOSUR legalizado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Nacionalidad emitido por autoridad Consular, con fotografía y legalizado por el Ministerio de Relaciones Exteriores, Comercio Internacional y Culto de la Nación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Antecedentes Penales Argentinos emitido por el Registro Nacional de Reincidencia (Solo exigible a mayores de 16 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado que acredite fehacientemente que no registra condenas anteriores ni procesos penales en trámite, emitido por las autoridades competentes de los países donde haya residido por un plazo superior a un año, durante el transcurso de los últimos tres años (Solo exigible a mayores de 16 años d…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contrato suscripto por las partes, ante escribano público.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota del órgano o institución contratante, en la que justifique contratación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Currículum Vitae del trabajador.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de Inscripción del empleador en el Registro Único de Requirentes de extranjeros de la Dirección Nacional de Migraciones.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación expedida en el extranjero deberá contar con la legalización del Consulado Argentino, sito en el país emisor del documento, o Apostillada, si el país hubiera ratificado el Convenio de La Haya.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación expedida por las representaciones consulares en el territorio nacional deberá contar con la legalización del Ministerio de Relaciones Exteriores, Comercio Internacional y Culto, excepto MERCOSUR.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación expedida en idioma extranjero deberá contar con la traducción al castellano efectuada por Traductor Público Nacional, Art. 6° Ley 20.305, y legalizada por el Colegio de Traductores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación original.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá tu trámite a distancia ingresando en el sistema RaDEX."
+      },
+      {
+        "texto": "Registrate como usuario, completá el formulario de solicitud y aboná las tasas correspondientes."
+      },
+      {
+        "texto": "Adjuntá la documentación y datos requeridos según el tipo de residencia a la que quieras aplicar."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Si cumplís con los requisitos para formalizar tu solicitud, recibirás un email con la fecha de tu cita presencial."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-una-residencia-transitoria-como-academico",
+      "titulo": "Obtener una residencia transitoria como académico | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T22:40:24.651Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T22:40:24.651Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de las tasas migratorias no se especifica en el texto, solo se indica que deben abonarse en la plataforma RaDEX.",
+    "El plazo exacto de otorgamiento de la residencia no se especifica en el texto, solo se menciona que es de un plazo máximo de un año prorrogable."
+  ]
+}

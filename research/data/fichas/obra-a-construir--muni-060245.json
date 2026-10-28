@@ -1,0 +1,118 @@
+{
+  "tramite": {
+    "slug": "obra-a-construir",
+    "nombre": "Obra a construir",
+    "nombre_busqueda": "Permiso de construcción",
+    "resumen": "Es un trámite para solicitar un permiso de construcción al titular de un inmueble. Se realiza en la Subdirección de Obras Particulares y entrega los planos aprobados y el Permiso de Construcción.",
+    "sinonimos": [
+      "Permiso de construcción",
+      "Permiso de obra"
+    ],
+    "temas": [
+      "obras-y-construccion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060245",
+  "organismo": {
+    "nombre": "Municipalidad de Ensenada",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Un profesional (Arquitecto, Maestro Mayor de Obra, Ingeniero, etc.) contratado por el propietario."
+    ],
+    "requisitos": [
+      {
+        "texto": "Carpeta de Obra liberada",
+        "aclaracion": null
+      },
+      {
+        "texto": "Inscripción del profesional",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planilla para liquidar",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dos planillas de estadísticas",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano visado por el Colegio Profesional de competencia",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano de Instalación eléctrica",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI del propietario y el Profesional",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación en la Subdirección de Obras Particulares."
+      },
+      {
+        "texto": "Recibí los planos aprobados y el Permiso de Construcción después de abonar los derechos."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 250000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.ensenada.gov.ar/obra-a-construir/"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 2000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.ensenada.gov.ar/obra-a-construir/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Subdirección de Obras Particulares",
+      "direccion": "Don Bosco esq. La Merced",
+      "localidad": "Don Bosco esq. La Merced",
+      "horario": null,
+      "fuente_url": "https://www.ensenada.gov.ar/obra-a-construir/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.ensenada.gov.ar/obra-a-construir/",
+      "titulo": "OBRA A CONSTRUIR – Municipalidad de Ensenada",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T23:04:38.585Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica requisitos para menores o casos especiales.",
+    "El texto no especifica si se requiere turno.",
+    "El texto no especifica la vigencia exacta del trámite."
+  ]
+}

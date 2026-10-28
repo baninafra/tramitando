@@ -1,0 +1,95 @@
+{
+  "tramite": {
+    "slug": "rectificacion-de-residencia",
+    "nombre": "Rectificación de residencia",
+    "nombre_busqueda": "Rectificar residencia",
+    "resumen": "Corrección de omisiones o errores materiales en los registros de residencia, siempre que no alteren su sustancia.",
+    "sinonimos": [
+      "Corrección de residencia",
+      "Enmienda de residencia"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Migraciones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que tenga un registro de residencia a corregir."
+    ],
+    "requisitos": [
+      {
+        "texto": "Pasaporte válido y vigente (todas las nacionalidades) o documentos del Anexo I del DC-46-2015-CMC (solo para nacionales MERCOSUR).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Nacionalidad emitido por autoridad Consular (solo excepcionalmente).",
+        "aclaracion": "Debe poseer fotografía de su titular y encontrarse legalizado por el Ministerio de Relaciones Exteriores, Comercio Internacional y Culto de la Nación."
+      },
+      {
+        "texto": "Nota de solicitud detallando los datos a rectificar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación respaldatoria que acredite la solicitud.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación original.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Legalización del Consulado Argentino o Apostilla para documentación expedida en el extranjero.",
+        "aclaracion": "Si el país emisor ratificó el Convenio de La Haya, se usa la Apostilla. Si no, se legaliza en el Consulado Argentino sito en el país emisor."
+      },
+      {
+        "texto": "Legalización del Ministerio de Relaciones Exteriores, Comercio Internacional y Culto para documentación expedida por representaciones consulares en el territorio nacional (excepto MERCOSUR).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Traducción al castellano efectuada por Traductor Público Nacional y legalizada por el Colegio de Traductores para documentación en idioma extranjero.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación adicional si la Dirección Nacional de Migraciones lo considera necesario.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación correspondiente de manera presencial en el sector de Mesa de Entradas de la sede de la dirección nacional de migraciones que te corresponda por domicilio."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/rectificacion-de-residencia",
+      "titulo": "Rectificación de Residencia | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T02:49:17.722Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa migratoria no se especifica en el texto, solo se indica que se debe consultar el cuadro de tasas.",
+    "La fecha exacta de vigencia del trámite no se especifica en el texto, solo se menciona la Ley de Procedimiento Administrativo 19.549/1972."
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "tramite": {
+    "slug": "turnos-juzgado-de-faltas",
+    "nombre": "Turnos para Juzgado de Faltas",
+    "nombre_busqueda": "Turnos Juzgado de Faltas Campana",
+    "resumen": "Reservá tu turno en línea para resolver descargos, infracciones, secuestros y devoluciones de licencias en los Juzgados 1 y 2.",
+    "sinonimos": [
+      "Turnos Juzgado 1 y 2",
+      "Reserva turno faltas",
+      "Turnero Juzgado"
+    ],
+    "temas": [
+      "juzgado-de-faltas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060126",
+  "organismo": {
+    "nombre": "Municipalidad de Campana",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en resolver sus descargos, infracciones, secuestros o devoluciones de licencias."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sistema de reserva de turnos."
+      },
+      {
+        "texto": "Seleccioná el trámite: Transito (infracciones, descargos, secuestros, devolución de licencias) para el Juzgado 1 o el Juzgado 2."
+      },
+      {
+        "texto": "Llená tus datos personales: nombre, apellido, DNI, pasaporte, celular, calle, altura, departamento, piso, localidad, código postal y correo electrónico."
+      },
+      {
+        "texto": "Confirmá el correo electrónico ingresado."
+      },
+      {
+        "texto": "Seleccioná la fecha para tu turno."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": "https://turnos.campana.gob.ar/JUZ",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://turnos.campana.gob.ar/JUZ/",
+      "titulo": "Turnero",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T11:02:03.828Z"
+    },
+    {
+      "url": "https://www.campana.gob.ar/",
+      "titulo": "Municipalidad de Campana",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T11:02:03.828Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos adicionales más allá del DNI.",
+    "No se indica si el trámite es gratuito o si hay costos asociados.",
+    "No se especifica el plazo exacto de espera para obtener el turno o la resolución.",
+    "No se indica si se requiere turno presencial o si se puede hacer todo por internet."
+  ]
+}

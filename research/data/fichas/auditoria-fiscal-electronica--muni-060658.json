@@ -1,0 +1,64 @@
+{
+  "tramite": {
+    "slug": "auditoria-fiscal-electronica",
+    "nombre": "Auditoría fiscal electrónica",
+    "nombre_busqueda": "Auditoría fiscal electrónica",
+    "resumen": "Trámite para consultar el estado de la deuda fiscal y obtener boletas de pago de tasas comerciales en el municipio.",
+    "sinonimos": [],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060658",
+  "organismo": {
+    "nombre": "Secretaría de Hacienda",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en consultar su estado de deuda o obtener boletas de pago."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original o fotocopia.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal de trámites de Mi Quilmes Digital."
+      },
+      {
+        "texto": "Buscá el trámite Auditoría Fiscal Electrónica."
+      },
+      {
+        "texto": "Seguí las instrucciones de la pantalla para ingresar tus datos y consultar la deuda."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mi.quilmes.gov.ar/tramites/211/auditoria-fiscal-electronica",
+      "titulo": "Auditoria Fiscal Electrónica",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T08:47:36.334Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos, plazos ni requisitos adicionales en el texto."
+  ]
+}

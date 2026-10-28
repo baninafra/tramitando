@@ -1,0 +1,130 @@
+{
+  "tramite": {
+    "slug": "franquicia-compra-vehiculos-particulares",
+    "nombre": "Franquicia para compra de vehículos particulares",
+    "nombre_busqueda": "Franquicia compra vehiculos particulares",
+    "resumen": "Permite a personas con discapacidad que no usan transporte público adquirir vehículos sin pagar IVA o derechos de importación, siempre que tengan capacidad económica.",
+    "sinonimos": [
+      "Franquicia impositiva vehículos",
+      "Franquicia Ley 19.279"
+    ],
+    "temas": [
+      "discapacidad-y-accesibilidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Secretaría Nacional de Discapacidad",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas con discapacidad que no pueden hacer uso del transporte público y tienen capacidad económica para comprar y mantener el vehículo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Clave fiscal de ARCA (Ex AFIP) de nivel 2 o superior.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de capacidad económica de ARCA (Ex AFIP).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración jurada completada online en el Sistema TAD.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Foto original de la factura proforma (firmada y sellada por un agente de la concesionaria) del automotor standard y el de menor precio dentro de su modelo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado médico original con antigüedad no mayor a seis meses.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Foto frente y dorso del DNI del beneficiario con domicilio actualizado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Foto frente y dorso del Registro de conducir del beneficiario.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el beneficiario no conduce: foto frente y dorso del DNI y del Registro de conducir del familiar conviviente más próximo, más foto de documentación que acredite el vínculo (partida de nacimiento, libreta de matrimonio, etc.).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el beneficiario es menor de edad: foto frente y dorso del DNI y del Registro de conducir de ambos padres.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el beneficiario es mayor de edad pero requiere representación: foto de la sentencia de Curatela y/o Apoyo Judicial con aceptación del cargo, o autorización del Juez para tramitar (Venia Judicial).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Solicitá el Certificado de capacidad económica de ARCA (Ex AFIP)."
+      },
+      {
+        "texto": "Ingresá a la plataforma de Trámites a Distancia."
+      },
+      {
+        "texto": "Seleccioná la opción Iniciar trámite: AFIP (vas a necesitar CUIT/CUIL y Clave Fiscal)."
+      },
+      {
+        "texto": "Completá los datos y adjuntá la documentación que solicita el TAD."
+      },
+      {
+        "texto": "Recibí las notificaciones para continuar con el trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/franquicia-para-compra-de-vehiculos-particulares",
+      "titulo": "Franquicia para compra de vehículos particulares | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T15:55:55.271Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/extension-o-reemplazo-de-la-autorizacion-de-manejo-para-un-vehiculo-adquirido-por-la",
+      "titulo": "Extensión o reemplazo de la autorización de manejo para un vehículo adquirido por la franquicia impositiva (particulares e instituciones) | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T15:55:55.271Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T15:55:55.271Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica un plazo de tiempo para la resolución del trámite.",
+    "El texto no indica si es necesario sacar turno para realizar el trámite."
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "tramite": {
+    "slug": "ingreso-electronica-tareas-cientifico",
+    "nombre": "Ingreso electrónico tareas científico",
+    "nombre_busqueda": "ingreso electronico tareas remuneradas campo cientifico",
+    "resumen": "Permiso para extranjeros que ingresan a Argentina para realizar tareas remuneradas o no en el campo científico, profesional, técnico, religioso o artístico.",
+    "sinonimos": [
+      "ingreso electronico cientifico",
+      "ingreso electronico tareas remuneradas"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria",
+      "visas-y-autorizaciones-de-viaje"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Seguridad Nacional",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El ingresante",
+      "El requirente debidamente inscripto en el Registro Nacional Único de Requirentes (Re.N.U.R.E.)"
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia de inscripción en el Re.N.U.R.E.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de solicitud firmada por la autoridad designada ante el Re.N.U.R.E., con los datos del ingresante (nombres, fecha de nacimiento, pasaporte, país de nacimiento, nacionalidad, estado civil, profesión, nivel de estudios, país y ciudad de residencia, plazo de permanencia, domicilio en Argentina, d…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación de la firma de la nota de solicitud por escribano público nacional o provincial.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pasaporte válido y vigente del ingresante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Foto del ingresante (foto formal del rostro con fondo blanco, tomada al momento de la carga del trámite).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá el trámite ingresando en Tramitación de Ingreso Electrónico - TIE 24H."
+      },
+      {
+        "texto": "Adjuntá la documentación y datos requeridos según el tipo de ingreso que solicités."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tramitacion-de-ingreso-electronica-tareas-remuneradas-o-no-en-el-campo-cientifico",
+      "titulo": "Tramitación de Ingreso Electrónica - Tareas remuneradas o no en el campo científico, profesional, técnico, religioso o artístico",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T17:35:23.462Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T17:35:23.462Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto menciona una vigencia de un mes para residencia transitoria, pero no especifica una fecha de inicio ni fin exacta.",
+    "No se indica si el trámite requiere turno ni cuál es la dirección de las oficinas para presentaciones presenciales."
+  ]
+}

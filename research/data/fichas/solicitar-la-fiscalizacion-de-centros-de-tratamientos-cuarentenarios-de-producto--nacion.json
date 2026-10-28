@@ -1,0 +1,114 @@
+{
+  "tramite": {
+    "slug": "solicitar-fiscalizacion-centros-tratamientos-cuarentenarios",
+    "nombre": "Solicitar la fiscalización de centros de tratamientos cuarentenarios",
+    "nombre_busqueda": "solicitar fiscalizacion centros tratamientos cuarentenarios",
+    "resumen": "El centro de tratamientos cuarentenarios debe registrar las cargas a tratar en el sistema SIGPV-SUFP y abonar el arancel correspondante antes de realizar el tratamiento.",
+    "sinonimos": [],
+    "temas": [
+      "bromatologia-y-alimentos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titular o apoderado de Centros de Tratamientos Cuarentenarios con bromuro de metilo y/o frío."
+    ],
+    "requisitos": [
+      {
+        "texto": "Registrar las cargas a tratar en el sistema SIGPV-SUFP.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declarar la cantidad de mercadería a ser tratada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constituir domicilio electrónico mediante el sistema SIGTrámites.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Aboná el arancel correspondante a través del SIGPV-SUFP vinculado con SIGAD."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Protección Vegetal",
+      "direccion": "Av. Paseo Colón N° 367, Piso 6° contrafrente, C1063ACD, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-la-fiscalizacion-de-centros-de-tratamientos-cuarentenarios-de-productos-de-origen"
+    },
+    {
+      "nombre": "Centro Regional Metropolitano",
+      "direccion": "Azopardo 1020 - CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-la-fiscalizacion-de-centros-de-tratamientos-cuarentenarios-de-productos-de-origen"
+    },
+    {
+      "nombre": "Laboratorio Central",
+      "direccion": "Talcahuano 1660 – Martínez, Provincia de Buenos Aires",
+      "localidad": "Martínez",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-la-fiscalizacion-de-centros-de-tratamientos-cuarentenarios-de-productos-de-origen"
+    },
+    {
+      "nombre": "Centro Regional Buenos Aires",
+      "direccion": "Mar de Plata, Provincia de Buenos Aires",
+      "localidad": "Mar de Plata",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-la-fiscalizacion-de-centros-de-tratamientos-cuarentenarios-de-productos-de-origen"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-fiscalizacion-de-centros-de-tratamientos-cuarentenarios-de-productos-de-origen",
+      "titulo": "Solicitar la fiscalización de centros de tratamientos cuarentenarios, de productos de origen vegetal, en el sistema único de fiscalización permanente (SUFP)* | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T09:37:21.440Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T09:37:21.440Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T09:37:21.440Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si tenés un trámite iniciado lo podés consultar de forma rápida y simple."
+  ]
+}

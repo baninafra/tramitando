@@ -1,0 +1,98 @@
+{
+  "tramite": {
+    "slug": "infracciones-y-multas",
+    "nombre": "Consultar infracciones",
+    "nombre_busqueda": "Consultar multas",
+    "resumen": "Permite verificar si tenés multas de tránsito en estado de sentencia firme que puedan impedir la renovación de la licencia de conducir.",
+    "sinonimos": [
+      "Verificar multas",
+      "Consultar infracciones de tránsito"
+    ],
+    "temas": [
+      "infracciones-y-multas",
+      "vehiculos-y-licencias",
+      "transito-local"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060655",
+  "organismo": {
+    "nombre": "Municipalidad de Punta Indio",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que quiera verificar si tiene multas en estado de sentencia firme."
+    ],
+    "requisitos": [
+      {
+        "texto": "Código de Libre Deuda",
+        "aclaracion": null
+      },
+      {
+        "texto": "Código de Verificación",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio de la Municipalidad de Punta Indio."
+      },
+      {
+        "texto": "Acargate al menú y buscá la opción 'Consultar Infracciones'."
+      },
+      {
+        "texto": "Ingresá tu Código de Libre Deuda y tu Código de Verificación."
+      },
+      {
+        "texto": "Verificá si tenés multas en estado de sentencia firme."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://puntaindio.gov.ar/pages/multas/multas.php",
+      "titulo": "Consultar Infracciones",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T04:21:38.067Z"
+    },
+    {
+      "url": "https://puntaindio.gov.ar/pages/mensajes/mensajes.php",
+      "titulo": "Mesa de Entradas Digital - Municipalidad",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T04:21:38.067Z"
+    },
+    {
+      "url": "https://tasas.puntaindio.gov.ar/tasas-web",
+      "titulo": "Suite RAFAM",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T04:21:38.067Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican los requisitos para acceder a la página de consulta.",
+    "No se especifican los requisitos para enviar un reclamo o consulta a través de la Mesa de Entradas Digital.",
+    "No se especifican los requisitos para acceder a la Suite RAFAM.",
+    "No se especifica si el trámite requiere turno.",
+    "No se especifica si el trámite tiene costo.",
+    "No se especifica el plazo de respuesta o vigencia del trámite."
+  ]
+}

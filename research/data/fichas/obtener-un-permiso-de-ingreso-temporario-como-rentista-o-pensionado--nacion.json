@@ -1,0 +1,113 @@
+{
+  "tramite": {
+    "slug": "permiso-ingreso-temporario-rentista-pensionado",
+    "nombre": "Permiso de ingreso temporal como rentista o pensionado",
+    "nombre_busqueda": "Permiso de ingreso temporal rentista pensionado",
+    "resumen": "Permiso para extranjeros que sean rentistas o pensionados con ingresos regulares. Requiere nota de solicitud detallada y documentación probatoria de los fondos. Se tramita en sede central o delegación DNM.",
+    "sinonimos": [
+      "Permiso ingreso temporal rentista",
+      "Permiso ingreso temporal pensionado"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria",
+      "residencias-temporarias-y-permanentes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Migraciones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Extranjeros titulares de renta mensual por periodo no menor de dos años con suma no inferior a cinco salarios mínimo vital y móvil generada en forma estable.",
+      "Extranjeros que perciban pensión de gobierno, organismos internacionales o empresas particulares por servicios prestados en el exterior con monto que permita ingreso pecuniario regular y permanente en el país."
+    ],
+    "requisitos": [
+      {
+        "texto": "Poder otorgado por el ingresante con facultades suficientes para actuar ante la Dirección Nacional de Migraciones (original y copia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI vigente del apoderado (original y copia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de solicitud detallando los motivos de la petición con los datos del ingresante: nombres y apellidos, fecha de nacimiento, número de pasaporte, país de nacimiento, nacionalidad, estado civil, profesión, nivel de estudios cursados, país y ciudad donde reside, plazo de permanencia pretendido, co…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia completa y actualizada del pasaporte válido y vigente del ingresante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación emitida por la entidad obligada a hacer la remesa de los fondos que conste que los mismos se originan de inversiones en bancos del exterior, remesas provenientes de instituciones bancarias o financieras del exterior, inversiones en empresas del exterior o inversiones en títulos nacion…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del acto por el cual se le concedió el beneficio de la jubilación o pensión (para pensionados).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de los últimos tres recibos de haberes (para pensionados).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Legalizaciones y traducción legalizada por el colegio de traductores correspondiente para toda documentación emitida en el exterior.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Solicitá turno escribiendo a [email protected]."
+      },
+      {
+        "texto": "Presentá la Nota de Solicitud y la totalidad de la documentación requerida ante el Departamento de Tramitación de Ingresos de la Sede Central de la Dirección Nacional de Migraciones o ante la delegación DNM que corresponda según el domicilio del requirente."
+      },
+      {
+        "texto": "Seguí el estado de tu trámite durante el período de supervisión de la solicitud presentada."
+      },
+      {
+        "texto": "Presentate en donde hayas iniciado la solicitud a los fines de notificarte del otorgamiento del mismo y poder informarle al extranjero que puede presentarse ante el Consulado Argentino que le corresponda con el fin de obtener su visa."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La suma mínima mensual necesaria para acreditar la condición de Pensionado es el equivalente a cinco salarios mínimo vital y móvil.",
+      "La vigencia del permiso es de tres años para residencia temporaria por un plazo de hasta tres años."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-un-permiso-de-ingreso-temporario-como-rentista-o-pensionado",
+      "titulo": "Obtener un Permiso de Ingreso Temporario como rentista o pensionado | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T06:35:30.918Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T06:35:30.918Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de las delegaciones DNM según domicilio del requirente.",
+    "Enlace para sacar turno en línea."
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "tramite": {
+    "slug": "exencion-impuesto-integrado-locacion-inmuebles",
+    "nombre": "Solicitar la exención del impuesto integrado por locación de inmuebles",
+    "nombre_busqueda": "Exención impuesto integrado locación inmuebles monotributo",
+    "resumen": "Si adheriste al Monotributo exclusivamente para locar hasta dos inmuebles, estás exento del impuesto integrado. Necesitás tener los contratos registrados en RELI y modificar tu actividad en el Portal de Monotributo.",
+    "sinonimos": [
+      "Exención ley 27737",
+      "Exención locación 2 inmuebles",
+      "Monotributo locación exención"
+    ],
+    "temas": [
+      "cuil-y-clave-de-seguridad-social",
+      "emprendedores-y-monotributo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Monotributistas que hayan adherido al Régimen Simplificado únicamente para desarrollar la actividad de locación de hasta dos inmuebles."
+    ],
+    "requisitos": [
+      {
+        "texto": "Clave fiscal",
+        "aclaracion": null
+      },
+      {
+        "texto": "Los contratos de alquiler registrados en el servicio Registro de Locaciones de Inmuebles – RELI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Información del período de alta de la actividad en el módulo Actividades con el código 681098",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar con tu clave fiscal al Portal de Monotributo."
+      },
+      {
+        "texto": "Registrarte seleccionando la opción Modificación locador de hasta 2 inmuebles – Beneficio Ley 27737."
+      },
+      {
+        "texto": "Informar el período a partir del cual te correspondería la exención del impuesto integrado."
+      },
+      {
+        "texto": "Declarar en el servicio con clave fiscal Sistema Registral la actividad 681098 – Servicios inmobiliarios realizados por cuenta propia con bienes propios o arrendados."
+      },
+      {
+        "texto": "Tener registrados los contratos de alquiler respectivos en el servicio Registro de Locaciones de Inmuebles – RELI."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Los importes del impuesto integrado que hayas abonado por esos períodos, podrás reimputarlos a través del servicio con clave fiscal CCMA – Cuenta Corriente de Monotributistas y Autónomos o podrás solicitar su devolución."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-exencion-del-impuesto-integrado-por-locacion-de-inmuebles",
+      "titulo": "Solicitar la exención del impuesto integrado por locación de inmuebles | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T09:35:27.562Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del beneficio no está especificada en el texto."
+  ]
+}

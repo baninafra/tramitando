@@ -1,0 +1,121 @@
+{
+  "tramite": {
+    "slug": "dni-24-hs",
+    "nombre": "DNI 24 hs",
+    "nombre_busqueda": "DNI 24 hs",
+    "resumen": "Tramitá tu DNI en 15 minutos en un Centro de Documentación Renaper con turno previo. Es para actualizaciones mayores de 14 años, menores de 14 o ejemplares nuevos.",
+    "sinonimos": [
+      "DNI urgente",
+      "DNI en 24 horas"
+    ],
+    "temas": [
+      "dni"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Renaper",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A todos los ciudadanos argentinos que necesiten realizar actualizaciones de 5 a 8 años, actualizaciones de mayor de 14 años o ejemplares nuevos.",
+      "Para menores de 14 años, el trámite requiere acompañamiento del padre, madre o representante legal."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI anterior (si lo tenés).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acompañamiento del padre, madre o representante legal (si es para un menor de 14 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del representante legal (si es para un menor de 14 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditación del representante legal: oficio judicial o testimonio de tutela del menor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización de representación firmada y sellada por la autoridad competente (si el menor se encuentra en una institución de cuidado u hogar convivencial).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Oficio judicial o testimonio de guarda provisoria con fines de adopción (si el menor se encuentra en una institución de cuidado u hogar convivencial).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Sacá turno para uno de los Centros de Documentación Renaper habilitados para la modalidad DNI 24 hs en la app Mi Argentina."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en la oficina elegida en el día y horario del turno, con los requisitos de tu trámite, los datos de la reserva del turno y el comprobante de pago del trámite."
+      },
+      {
+        "texto": "Retirá el DNI a las 24 horas hábiles, en el mismo Centro de Documentación donde realizaste el trámite."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://mi.argentina.gob.ar/turnos/seleccion-turno/1742",
+    "plazo": "15 minutos",
+    "consejos": [
+      "La emisión del DNI será realizada una vez se haya completado el proceso de verificación del mismo.",
+      "La vigencia es de 15 años para mayores de 14 años, o hasta el próximo DNI que tramites.",
+      "Para menores de edad, la vigencia es hasta la siguiente actualización que le corresponda.",
+      "La vigencia de todos los DNI está impresa en el frente del mismo (Fecha de vencimiento)."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 4100000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/dni-24-hs"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/dni-24-hs",
+      "titulo": "DNI 24 hs | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T15:25:15.459Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/interior/dni/centros-de-atencion-renaper",
+      "titulo": "Centros de Documentación Renaper | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T15:25:15.459Z"
+    },
+    {
+      "url": "https://mi.argentina.gob.ar/turnos/seleccion-turno/1742",
+      "titulo": "Ingresar | Mi Argentina",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T15:25:15.459Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de los Centros de Documentación habilitados."
+  ]
+}

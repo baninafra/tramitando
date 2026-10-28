@@ -1,0 +1,127 @@
+{
+  "tramite": {
+    "slug": "permiso-de-ingreso-temporario-trabajadores-contratados",
+    "nombre": "Permiso de ingreso temporario como trabajadores contratados",
+    "nombre_busqueda": "Permiso de ingreso temporario trabajadores contratados",
+    "resumen": "Permiso para extranjeros contratados por empresas visibles en Argentina para prestar servicios, con vigencia de hasta tres años.",
+    "sinonimos": [
+      "Permiso de ingreso temporario",
+      "Permiso de ingreso como trabajador contratado"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Migraciones",
+    "sigla": "DNM",
+    "web": "https://www.argentina.gob.ar/servicio/obtener-un-permiso-de-ingreso-temporario-como-trabajadores-contratados"
+  },
+  "contenido": {
+    "quien_puede": [
+      "El empleador debidamente inscripto en el Registro de Requirentes de la DNM.",
+      "El apoderado del empleador con poder designado ante escribano público o funcionario de la DNM."
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia de inscripción en el Registro Nacional Único de Requirentes (Re.N.U.R.E.), original y copia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de CUIT.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción y últimos 3 pagos de IVA, Ingresos Brutos y Ganancias (no requerida para Gran contribuyente Nacional), original y copia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poder otorgado por el requirente con facultades suficientes para actuar ante la DNM, original y copia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI/C.I. vigente del apoderado, original y copia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de solicitud detallada con datos del ingresante (nombres, fecha de nacimiento, pasaporte, nacionalidad, estado civil, profesión, estudios, residencia, plazo, consulado, domicilio, prestaciones, tareas, actividad de la empresa y cargo), firmada por el requirente y certificada por escribano públ…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia completa y actualizada del pasaporte válido del ingresante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contrato de trabajo ofrecido con datos personales, domicilio exterior, tareas, duración jornada y relación laboral, domicilio de tareas, remuneración en pesos ajustada al convenio colectivo, CUIT del empleador, suscripto por el empleador ante escribano público con legalización y cláusula de suspens…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que acredite los motivos del ingreso de mano de obra residente en el exterior.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación probatoria de la experiencia laboral del ingresante y de la actividad que cumple en su país.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si es empleo doméstico: título de propiedad o contrato de alquiler del inmueble, y documentación de solvencia económica (últimos 3 recibos de haberes, certificación contable legalizada por Consejo Profesional de Ciencias Económicas, o documentación de ingresos para autónomos/monotributistas).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación emitida en el exterior con legalización y traducción pública nacional.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la Nota de Solicitud y la totalidad de la documentación requerida ante el Departamento de Tramitación de Ingresos de la Sede Central de la DNM o ante la delegación DNM correspondiente según el domicilio del requirente."
+      },
+      {
+        "texto": "Seguí el estado de tu trámite durante el período de supervisión."
+      },
+      {
+        "texto": "Presentate en donde iniciaste la solicitud para notificarte del otorgamiento y poder informar al extranjero para que obtenga su visa en el Consulado Argentino correspondiente."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://www.argentina.gob.ar/turnos",
+    "plazo": null,
+    "consejos": [
+      "La vigencia del permiso es de tres años.",
+      "La residencia temporaria tiene un plazo de hasta tres años."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-un-permiso-de-ingreso-temporario-como-trabajadores-contratados",
+      "titulo": "Obtener un permiso de Ingreso temporario como trabajadores contratados | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-27T06:37:56.201Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T06:37:56.201Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa migratoria no se especifica en el texto, consultar el cuadro tasas migratorias vigente.",
+    "El plazo exacto de tramitación no se especifica en el texto."
+  ]
+}

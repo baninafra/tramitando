@@ -1,0 +1,100 @@
+{
+  "tramite": {
+    "slug": "presentar-informacion-de-contratos-automaticos-de-reaseguro",
+    "nombre": "Presentar información de contratos automáticos de reaseguro",
+    "nombre_busqueda": "Presentar información de contratos automáticos de reaseguro",
+    "resumen": "Las aseguradoras deben presentar la información de sus contratos de reaseguro automático a través de la plataforma TAD. El trámite es gratuito y requiere que todos los firmantes tengan usuario de acceso.",
+    "sinonimos": [],
+    "temas": [
+      "cuil-y-clave-de-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Seguros de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Aseguradoras que tengan contratos automáticos de reaseguro a informar."
+    ],
+    "requisitos": [
+      {
+        "texto": "Todos los firmantes deben tener usuario de acceso a Trámites a Distancia (TAD).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante generado por el SISUPRE (Sistema Supervisión Reaseguros), firmado por el apoderado TAD en AFIP, responsable con firma registrada en SSN y auditor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de presentación del trámite suscripta por un representante de la aseguradora, con logo de la entidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informe especial del auditor externo de la entidad, con su firma certificada por el respectivo Consejo Profesional, firmado por el apoderado TAD en AFIP y el auditor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Índice de los CORES (Código de Operación de Reaseguro), firmado por el apoderado TAD en AFIP.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Lógica Contractual (opcional), adjunta si se indicó en el aplicativo SISUPRE, firmada por el apoderado TAD en AFIP y responsable con firma registrada en SSN.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Exclusiones (opcional), adjunta si se seleccionó archivo en el aplicativo SISUPRE, firmada por el apoderado TAD, el responsable con firma registrada en SSN y auditor.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD, trámite Sistema de Supervisión del Reaseguro Automático, con clave fiscal."
+      },
+      {
+        "texto": "Debés operar como apoderado de la entidad a la que representas."
+      },
+      {
+        "texto": "Establecé los firmantes."
+      },
+      {
+        "texto": "Adjuntá la documentación solicitada."
+      },
+      {
+        "texto": "Cada firmante deberá firmar la documentación en TAD."
+      },
+      {
+        "texto": "Finalizado el trámite obtendrás un Nº de expediente dentro del sistema Gestión Documental Electrónica (GDE)."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Dado que este trámite se realiza vía TAD, toda la documentación a presentar debe ser digitalizada."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/presentar-informacion-de-contratos-automaticos-de-reaseguro",
+      "titulo": "Presentar Información de Contratos Automáticos de Reaseguro | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T07:28:03.126Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite."
+  ]
+}

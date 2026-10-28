@@ -1,0 +1,69 @@
+{
+  "tramite": {
+    "slug": "consulta-descarga-certificate-aptitud-psicofisica",
+    "nombre": "Consulta y descarga de certificado de aptitud psicofísica",
+    "nombre_busqueda": "Certificado de aptitud psicofísica",
+    "resumen": "Consultá y descargá tu certificado de aptitud psicofísica ingresando tu número de documento en el portal oficial.",
+    "sinonimos": [
+      "Certificado psicofísico",
+      "Certificado de aptitud"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060224",
+  "organismo": {
+    "nombre": "Municipalidad de Chivilcoy",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que tenga su número de documento registrado en el sistema."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de documento",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá tu número de documento en el portal."
+      },
+      {
+        "texto": "Consultá tu certificado de aptitud psicofísica."
+      },
+      {
+        "texto": "Descargá el certificado."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://public.chivilcoy.gob.ar/cap/loginCertificado",
+      "titulo": "CERTIFICADO | Index",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T23:05:15.068Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina para consultas presenciales",
+    "Horarios de atención",
+    "Vigencia del certificado",
+    "Si se requiere cita previa"
+  ]
+}

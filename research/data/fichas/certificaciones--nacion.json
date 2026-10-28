@@ -1,0 +1,144 @@
+{
+  "tramite": {
+    "slug": "certificaciones",
+    "nombre": "Certificaciones",
+    "nombre_busqueda": "Certificaciones migratorias",
+    "resumen": "El Certificado es el instrumento público oficial que emite la Dirección Nacional de Migraciones sobre la situación migratoria de las personas. Podrás obtener la certificación de los movimientos migratorios y/o certificación de residencia para presentarlo ante el/los organismos que te lo requieran.",
+    "sinonimos": [
+      "Certificado de Radicación",
+      "Certificado de Movimientos Migratorios",
+      "Certificado de Residencia"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Migraciones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que cumpla con los requisitos expuestos.",
+      "Puede solicitarse por apoderado con poder otorgado ante Escribano Público y legalizado, o credencial como apoderado acreditado ante la DNM."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento Vigente DNI, Pasaporte, Cédula de Identidad de su país de origen o Certificado de Nacionalidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cédula de Identidad de Policía Federal o Provincial y/o algún otro Documento Nacional que no se encuentre vigente pero que acredite residencia en el país (opcional).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Domicilio o Factura de Servicio Público a nombre del requerido que acredite domicilio real del mismo (opcional).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Toda la documentación debe ser digitalizada en original.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el documento fue emitido en el exterior por un país perteneciente al MERCOSUR, debe contar con visación de Autoridad Consular Argentina en el país emisor o \"apostille\" establecida por la Convención de La Haya o intervención del Consulado del país emisor en la República Argentina.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el documento fue emitido en el exterior por un país NO MERCOSUR, debe contar con visación de Autoridad Consular Argentina en el país emisor o \"apostille\" establecida por la Convención de La Haya, y además encontrarse traducidos por traductor público y legalizados por el Colegio profesional corre…",
+        "aclaracion": null
+      },
+      {
+        "texto": "La Dirección Nacional de Migraciones podrá solicitar, si así lo considerase necesario, documentación adicional a la detallada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de familiar directo, por medio de acreditación de vínculo adjuntando las partidas de nacimiento, defunción y/o matrimonio correspondientes, así como también libreta de familia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para solicitudes de movimientos migratorios con respecto a menores de edad, se requiere sin excepción alguna el consentimiento de ambos padres, adjuntando el documento de identidad vigente de cada uno y/o consentimiento firmado ante escribano público. Caso contrario, se deberá solicitar por oficio…",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá tu tramite a distancia ingresando en el Sistema Certificaciones."
+      },
+      {
+        "texto": "El sistema te pedirá una dirección de correo electrónico."
+      },
+      {
+        "texto": "Asegúrate de informar un mail que revises periódicamente, porque es allí donde Migraciones te enviará los detalles del curso de tu trámite y el certificado una vez finalizada la tramitación."
+      },
+      {
+        "texto": "Podrás realizar el pago en efectivo o con tarjeta de crédito."
+      },
+      {
+        "texto": "Si lo vas a hacer con tarjeta, tené el plástico a mano para completar los datos."
+      },
+      {
+        "texto": "Si vas a pagar en efectivo, sabé que se abona en Provincia NET o en Banco Nación."
+      },
+      {
+        "texto": "Recordá que la acreditación del pago con tarjeta es inmediato, en cambio, en efectivo demorará cinco días hábiles."
+      },
+      {
+        "texto": "Tu trámite online será más ágil si abonás con tarjeta de crédito."
+      },
+      {
+        "texto": "Tu solicitud de trámite estará cerrada sólo si todas las tasas han sido abonadas."
+      },
+      {
+        "texto": "Tené a mano toda la documentación original solicitada."
+      },
+      {
+        "texto": "Durante el procedimiento, tendrás que adjuntar las imágenes de esa documentación."
+      },
+      {
+        "texto": "Si no son escaneadas, podrán ser fotos tomadas con teléfono celular."
+      },
+      {
+        "texto": "El sistema va a guiarte para que las subas."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Nadie puede pedir un certificado a nombre de un tercero sin autorización formalizada, en cumplimiento a la Ley de Protección de Datos Personales.",
+      "La acreditación del pago con tarjeta es inmediata, en cambio, en efectivo demorará cinco días hábiles.",
+      "Tu trámite online será más ágil si abonás con tarjeta de crédito.",
+      "Tu solicitud de trámite estará cerrada sólo si todas las tasas han sido abonadas.",
+      "Tené a mano toda la documentación original solicitada.",
+      "Durante el procedimiento, tendrás que adjuntar las imágenes de esa documentación.",
+      "Si no son escaneadas, podrán ser fotos tomadas con teléfono celular.",
+      "El sistema va a guiarte para que las subas.",
+      "Si tenés consultas sobre el trámite, ingresá al Canal Único de Contacto."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/certificaciones",
+      "titulo": "Certificaciones | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:50:24.269Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El pago en efectivo se abona en Provincia NET o en Banco Nación.",
+    "La Dirección Nacional de Migraciones podrá solicitar, si así lo considerase necesario, documentación adicional a la detallada."
+  ]
+}

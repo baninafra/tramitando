@@ -1,0 +1,124 @@
+{
+  "tramite": {
+    "slug": "permiso-de-ingreso-temporario-estudiante",
+    "nombre": "Permiso de ingreso temporal como estudiante",
+    "nombre_busqueda": "Permiso de ingreso temporal estudiante",
+    "resumen": "Permiso para extranjeros inscriptos como alumnos en establecimientos educativos públicos o privados del sistema de enseñanza oficial para cursar estudios reconocidos.",
+    "sinonimos": [
+      "Permiso ingreso temporal estudiante",
+      "Permiso ingreso temporal alumno"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Migraciones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Extranjeros requeridos por estar inscriptos como alumnos regulares en establecimientos educativos públicos o privados del sistema de enseñanza oficial."
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia de inscripción en Re.N.U.R.E. (original y copia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poder otorgado por el requirente con facultades suficientes para actuar ante la Dirección Nacional de Migraciones (original y copia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI vigente del apoderado (original y copia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción electrónica al curso pretendido suscrita por el responsable de la entidad educativa, registrada ante el Re.N.U.R.E. para tales fines.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia completa y actualizada del pasaporte válido y vigente del ingresante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En el caso de estudiantes menores: autorización de sus padres y acreditación de la designación de un representante legal en el territorio nacional.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación emitida en el exterior con sus respectivas legalizaciones y traducción realizada por traductor público nacional (de corresponder).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de solicitud con documentación correcta y completa.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la nota de solicitud con documentación correcta y completa en la Dirección Nacional de Migraciones (Av. Antártida Argentina 1355, CABA) o en las Delegaciones de todo el país."
+      },
+      {
+        "texto": "Durante el período de supervisión de la solicitud presentada, podés seguir el estado de tu trámite."
+      },
+      {
+        "texto": "Una vez resuelto el trámite, debés presentarte en donde hayas iniciado la solicitud a los fines de notificarte del otorgamiento del mismo."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Una vez resuelto el trámite, debés presentarte en donde hayas iniciado la solicitud a los fines de notificarte del otorgamiento del mismo, y poder informarle al extranjero que puede presentarse ante el Consulado Argentino que le corresponda con el fin de obtener su visa."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Migraciones",
+      "direccion": "Av. Antártida Argentina 1355, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/obtener-un-permiso-de-ingreso-temporario-como-estudiante-de-ensenanza-oficial"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-un-permiso-de-ingreso-temporario-como-estudiante-de-ensenanza-oficial",
+      "titulo": "Obtener un Permiso de Ingreso Temporario como Estudiante de Enseñanza Oficial | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T06:30:20.691Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T06:30:20.691Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica el monto exacto en centavos de peso, solo indica referirse al cuadro de tasas migratorias vigentes.",
+    "El texto no especifica el plazo exacto en días ni meses, solo menciona una vigencia de un año para la residencia temporal.",
+    "El texto no especifica si el trámite se puede realizar completamente por internet o solo para sacar turno."
+  ]
+}

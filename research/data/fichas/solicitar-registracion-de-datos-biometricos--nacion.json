@@ -1,0 +1,115 @@
+{
+  "tramite": {
+    "slug": "solicitar-registracion-de-datos-biometricos",
+    "nombre": "Solicitar registracion de datos biometricos",
+    "nombre_busqueda": "Solicitar registracion de datos biometricos",
+    "resumen": "La digitalización de datos biométricos implica la registración digital de firma, foto, huella dactilar y escaneo del DNI. Es gratuito y se puede hacer con la app ARCA o presencialmente en dependencias ARCA.",
+    "sinonimos": [],
+    "temas": [
+      "dni"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ARCA",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A todas las personas humanas que operen con clave fiscal para utilizar los servicios de AFIP.",
+      "A quienes actúen por sí o como apoderados/as o representantes legales de personas humanas o jurídicas que soliciten CUIT y la inscripción en algún impuesto o régimen.",
+      "Importante: Quienes posean CUIT y requieran la obtención de clave fiscal, deberán registrar sus datos biométricos en la dependencia en la que se encuentren inscriptos."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Turno concedido",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dispositivo con acceso a Internet",
+        "aclaracion": null
+      },
+      {
+        "texto": "App ARCA en tu celular",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la página principal de ARCA."
+      },
+      {
+        "texto": "En el recuadro Ingresar con Clave Fiscal, presioná Iniciar sesión."
+      },
+      {
+        "texto": "Ingresá tu CUIT y clave fiscal."
+      },
+      {
+        "texto": "Presioná Ingresar."
+      },
+      {
+        "texto": "En Servicios más utilizados, hacé clic en Aceptación de datos biométricos."
+      },
+      {
+        "texto": "Confirmá los datos registrados: foto, huellas y firma."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Solicitá un turno en línea y presentate en la dependencia de ARCA."
+      },
+      {
+        "texto": "El personal del organismo efectuará el escaneo de tu DNI, capturará tu huella dactilar, tu firma y te tomará una fotografía."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-registracion-de-datos-biometricos",
+      "titulo": "Solicitar registración de datos biométricos | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T16:22:18.431Z"
+    },
+    {
+      "url": "https://servicioscf.arca.gob.ar/publico/turnos/Turnos.aspx",
+      "titulo": "Solicitud de turnos - ARCA",
+      "bloques": [
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T16:22:18.431Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T16:22:18.431Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de las dependencias ARCA",
+    "Plazo de tramitación",
+    "Modalidad de atención virtual disponible"
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "tramite": {
+    "slug": "obtencion-renovacion-licencia-conducir",
+    "nombre": "Sacar o renovar la licencia de conducir",
+    "nombre_busqueda": "licencia de conducir de General Arenales",
+    "resumen": "Podés obtener la licencia de conducir por primera vez o renovarla. El trámite tarda entre 2 y 5 días y podés iniciarlo hasta 30 días antes del vencimiento de tu licencia actual.",
+    "sinonimos": [
+      "obtención de licencia",
+      "renovación de licencia"
+    ],
+    "temas": [
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060294",
+  "organismo": {
+    "nombre": "Municipalidad de General Arenales",
+    "sigla": null,
+    "web": "https://www.generalarenales.gob.ar/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes quieran obtener por primera vez o renovar una licencia de conducir."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI, LE o LC con tu último domicilio.",
+        "aclaracion": "Si sacás la licencia por primera vez."
+      },
+      {
+        "texto": "La licencia que querés renovar.",
+        "aclaracion": "Si renovás la licencia."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a una delegación para reservar un turno. Ahí te informarán el día y el horario para presentarte en la Oficina de Licencias."
+      },
+      {
+        "texto": "Pagá las boletas que te entregan en la Oficina de Licencias antes de continuar. Podés abonarlas en Banco Provincia o en locales adheridos a Bapro Pagos."
+      },
+      {
+        "texto": "Presentate el día y a la hora asignados en la Oficina de Licencias de General Arenales, en Avenida Alvear 407. Si todavía no pagaste, pedí las boletas y aboná en los lugares indicados."
+      },
+      {
+        "texto": "Completá la revisión médica y firmá la planilla si el profesional médico te considera apto para conducir."
+      },
+      {
+        "texto": "Dejá la documentación en la Oficina de Licencias cuando hayas pagado los aranceles y la planilla médica indique que estás apto. Allí quedará a la espera de que generen la licencia."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": "La gestión tarda entre 2 y 5 días.",
+    "consejos": [
+      "Podés iniciar el trámite hasta 30 días antes del vencimiento de tu licencia actual."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Licencias",
+      "direccion": "Avenida Alvear 407 (Centro de Monitoreo)",
+      "localidad": "General Arenales",
+      "horario": null,
+      "fuente_url": "https://www.generalarenales.gob.ar/licencias-y-permisos/"
+    },
+    {
+      "nombre": "Delegación General Arenales",
+      "direccion": "Av. Alvear 407",
+      "localidad": "General Arenales",
+      "horario": null,
+      "fuente_url": "https://www.generalarenales.gob.ar/licencias-y-permisos/"
+    },
+    {
+      "nombre": "Delegación Ascensión",
+      "direccion": "Av. Libertad s/n",
+      "localidad": "Ascensión",
+      "horario": null,
+      "fuente_url": "https://www.generalarenales.gob.ar/licencias-y-permisos/"
+    },
+    {
+      "nombre": "Delegación Arribeños",
+      "direccion": "Av. Córdoba s/n",
+      "localidad": "Arribeños",
+      "horario": null,
+      "fuente_url": "https://www.generalarenales.gob.ar/licencias-y-permisos/"
+    },
+    {
+      "nombre": "Delegación Ferré",
+      "direccion": "San Juan y Buenos Aires",
+      "localidad": "Ferré",
+      "horario": null,
+      "fuente_url": "https://www.generalarenales.gob.ar/licencias-y-permisos/"
+    },
+    {
+      "nombre": "Delegación La Angelita",
+      "direccion": "Av. San Martín s/n",
+      "localidad": "La Angelita",
+      "horario": null,
+      "fuente_url": "https://www.generalarenales.gob.ar/licencias-y-permisos/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.generalarenales.gob.ar/licencias-y-permisos/",
+      "titulo": "Licencias y Permisos – Municipalidad de General Arenales",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T12:42:16.442Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto de los aranceles no está indicado."
+  ]
+}

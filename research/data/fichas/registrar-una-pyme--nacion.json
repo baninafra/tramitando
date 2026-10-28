@@ -1,0 +1,173 @@
+{
+  "tramite": {
+    "slug": "registro-de-pymes",
+    "nombre": "Registrar una PyME",
+    "nombre_busqueda": "Registrar una PyME",
+    "resumen": "Podés registrar tu negocio como MiPyME en línea de forma gratuita para acceder a beneficios impositivos y programas de asistencia. El trámite requiere tener CUIT, Clave Fiscal nivel 2 o superior y estar inscripto en el Monotributo o Régimen General.",
+    "sinonimos": [
+      "Inscripción de MiPyME",
+      "Certificado PyME",
+      "Registro de empresas MiPyMEs"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Economía",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Monotributistas",
+      "Profesionales que desarrollen actividad independiente",
+      "Comerciantes",
+      "Sociedades",
+      "Empresas que tengan como actividad principal Intermediación financiera y Servicio de Seguros si sus activos financieros no superan los $3.438.000.000",
+      "Empresas que tengan como actividad principal Servicios Inmobiliarios si sus activos financieros no superan los $3.438.000.000"
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener CUIT",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener Clave Fiscal nivel 2 o superior",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estar inscripto en el Monotributo o en el Régimen General",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estar adherido a Trámites a distancia (TAD)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Haber realizado la presentación de las declaraciones juradas de IVA, F.931 (si sos empleador) o Monotributo de los tres últimos ejercicios cerrados",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si sos Responsable Inscripto y querés solicitar el beneficio del Pago de IVA a 90 días, tenés que cumplir con todas las presentaciones y pagos vencidos",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si sos IVA Exento, tenés que completar la información de las ventas exentas de los últimos 3 ejercicios fiscales cerrados",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si tenes participación patrimonial con otras empresas, todas deben ser MiPyME y deberás verificar las declaraciones patrimoniales en ganancias y participaciones societarias",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si tu forma jurídica es otras sociedades u otras entidades civiles, tenés que enviar el estatuto a través de la plataforma TAD",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si tu forma jurídica es agrupación de colaboración, unión transitoria, consorcio de cooperación o cooperativa, deberás cargar con carácter de declaración jurada el detalle de cada uno de tus miembros o integrantes",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si tu empresa es una cooperativa, deberás completar la declaración jurada del Sistema Integrado de Nómina de Asociados y Autoridades de Cooperativas y Mutuales",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si tenés acciones propias en cartera, deberás concluir el trámite en TAD adjuntando el Acta de Asamblea con la prórroga correspondiente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si durante el último año hubo algún cambio en la composición del capital de la empresa, debés solicitar la baja de la última solicitud de inscripción al Registro MiPyME a través de TAD y luego Rectificar F1272",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio de ARCA con tu CUIT y Clave Fiscal"
+      },
+      {
+        "texto": "Entrá al Administrador de Relaciones de Clave Fiscal"
+      },
+      {
+        "texto": "Hacé clic en la opción Habilitar Servicio"
+      },
+      {
+        "texto": "Seleccioná el logo de ARCA y, en Servicios Interactivos, buscá y seleccioná el servicio PYMES Solicitud de Categorización y/o Beneficios"
+      },
+      {
+        "texto": "Hacé clic en Confirmar"
+      },
+      {
+        "texto": "Para que el servicio aparezca en tu menú, tenés que cerrar la sesión y volver a ingresar con tu Clave Fiscal"
+      },
+      {
+        "texto": "Entrá al servicio, hacé clic en Nuevo y controlá que la información contenida en el F.1272 sea correcta"
+      },
+      {
+        "texto": "Presentá el formulario"
+      },
+      {
+        "texto": "Si sos Responsable Inscripto y querés solicitar el beneficio del Pago de IVA a 90 días, hacé clic en el casillero que se encuentra al lado del beneficio y seleccioná la opción Sí"
+      },
+      {
+        "texto": "Si tu prioridad es obtener el Certificado MiPyME, seleccioná la opción No en el beneficio de pago de IVA a 90 días"
+      },
+      {
+        "texto": "En las solapas de los períodos fiscales vas a ver la suma de tus ventas totales anuales excluyendo el IVA, el impuesto interno que pudiera corresponder y el 25% del monto de las exportaciones"
+      },
+      {
+        "texto": "Una vez que hayas verificado que la información es correcta, podés presentar la Declaración Jurada haciendo clic en Presentar"
+      },
+      {
+        "texto": "Si querés, guardarla para terminar de completarla en otro momento, hacé clic en Grabar"
+      },
+      {
+        "texto": "Si sos monotributista, hacé clic en Siguiente y luego deslizá el cursor hacia arriba y hacé clic en el botón Presentar que se encuentra en el margen superior derecho"
+      },
+      {
+        "texto": "En 24 hs vas a poder ver la respuesta a tu solicitud de inscripción en el Registro en el Domicilio Fiscal Electrónico de ARCA"
+      },
+      {
+        "texto": "Si no lo recibís, podés consultar el estado de tu solicitud ingresando el CUIT y número de transacción"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si sos IVA Exento, tenés vinculación patrimonial con otras empresas, estás inscripto en las formas jurídicas otras sociedades u otras entidades civiles, tenés que terminar el trámite manualmente",
+      "Si sos IVA exento, una vez presentado el formulario, tenés que entrar acá y completar la información de las ventas exentas de los últimos 3 ejercicios fiscales cerrados",
+      "Si tenes participación patrimonial con otras empresas, recordá que todas deben ser MiPyME y, para evitar errores, verificá si tenés bien cargadas las declaraciones patrimoniales en ganancias y participaciones societarias con la ayuda del instructivo",
+      "Si tenés acciones propias en cartera, tenés que concluir el trámite en TAD adjuntando el Acta de Asamblea con la prórroga correspondiente, en función de lo establecido en el Art. 221 de la Ley 19.550 en cuanto al plazo de enajenación de las acciones",
+      "Si durante el último año hubo algún cambio en la composición del capital de la empresa y la presentación ante ARCA de la Declaración Jurada de participaciones societarias del periodo en el que realizaste dicho cambio se encuentra disponible, debés solicitar la baja de la última solicitud de inscrip…",
+      "Si durante el último año calendario hubo algún cambio en la composición del capital de la empresa y la Declaración Jurada de participaciones societarias de dicho periodo no se encuentra habilitada aún en la ARCA, podés finalizar el trámite a través de TAD adjuntando la constancia de presentación de…",
+      "También se recomienda registrar el referido cambio societario en el servicio LUFE, en la solapa Autoridades",
+      "Para consultas sobre trámite en proceso seleccioná la opción Consultas sobre trámite en proceso | Certificado MiPyME",
+      "O comunicate al 0800-333-7963"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/registrar-una-pyme",
+      "titulo": "Registrar una PyME | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T09:12:13.000Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La vigencia de los certificados",
+    "El plazo de reinscripción automática",
+    "El plazo de revisión del F.1272"
+  ]
+}

@@ -1,0 +1,117 @@
+[0m
+> build · deepseek-v4.1-flash-free
+[0m
+[0m◈ [0mExa Web Search "Municipalidad de Quetrequén La Pampa trámites sitio oficial"
+[0m◈ [0mExa Web Search "Quetrequén La Pampa municipalidad gob.ar"
+[0m✗ [0mWebFetch http://www.quetrequen.gov.ar failed
+[91m[1mError: [0mTransport error (GET http://www.quetrequen.gov.ar)
+[0m✗ [0mWebFetch https://www.quetrequen.gob.ar failed
+[91m[1mError: [0mTransport error (GET https://www.quetrequen.gob.ar)
+[0m◈ [0mExa Web Search ""quetrequen" site:gob.ar trámite"
+[0m✗ [0mWebFetch https://www.lapampa.gob.ar/tramites.html failed
+[91m[1mError: [0mStatusCode: non 2xx status code (404 GET https://www.lapampa.gob.ar/tramites.html)
+[0m◈ [0mExa Web Search "Gobierno de La Pampa portal de trámites guía trámites online"
+[0m◈ [0mExa Web Search ""Comisión de Fomento de Quetrequén" trámites licencia comercio"
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/
+[0m◈ [0mExa Web Search "site:portaldetramites.lapampa.gob.ar Quetrequén"
+[0m◈ [0mExa Web Search "La Pampa trámites municipales comisiones de fomento habilitación comercio licencia conducir"
+[0m✗ [0mWebFetch https://portaldetramites.lapampa.gob.ar/sitemap.xml failed
+[91m[1mError: [0mStatusCode: non 2xx status code (404 GET https://portaldetramites.lapampa.gob.ar/sitemap.xml)
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/robots.txt
+[0m◈ [0mExa Web Search "site:portaldetramites.lapampa.gob.ar/tramites "Ciudadanía""
+[0m✱ [0mGrep "/tramites/[a-z0-9-]+"[90m in C:/Users/fbani/.local/share/opencode/tool-output/tool_16f4277420015sUlhwQXIdRUBv · 100 matches[0m
+[0m✱ [0mGrep "page=|paginat|wire:click"[90m in C:/Users/fbani/.local/share/opencode/tool-output/tool_16f4277420015sUlhwQXIdRUBv · 100 matches[0m
+[0m✗ [0mWebFetch https://quetrequen.lapampa.gob.ar failed
+[91m[1mError: [0mTransport error (GET https://quetrequen.lapampa.gob.ar)
+[0m% [0mWebFetch https://www.lapampa.gob.ar/quetrequen.html
+[0m◈ [0mExa Web Search ""Quetrequén" "gob.ar" municipalidad sitio oficial trámites tasas"
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/?page=2
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/?tramitesPage=2
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/1
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/?page=1&tableRecordsPerPage=50
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/?page=3
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/?page=4
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/?page=5
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/?page=6
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/?page=7
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/?page=8
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/?page=9
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/inscripcion-de-nacimiento
+[0m% [0mWebFetch https://registrocivil.lapampa.gob.ar/quetrequen.html
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/certificado-de-adjudicatario
+[0m◈ [0mExa Web Search "site:lapampa.gob.ar licencia de conducir La Pampa trámite"
+[0m◈ [0mExa Web Search "site:lapampa.gob.ar "Quetrequén" "tasa" OR "habilitación" OR "licencia""
+[0m✱ [0mGrep "tramites/[a-z0-9-]+"[90m in C:/Users/fbani/.local/share/opencode/tool-output/tool_16f4277420015sUlhwQXIdRUBv · 100 matches[0m
+[0m✱ [0mGrep "tramites/[a-z0-9-]+"[90m in C:/Users/fbani/.local/share/opencode/tool-output/tool_16f42512c001HcoIoy2agqw372 · 100 matches[0m
+[0m→ [0mRead C:/Users/fbani/.local/share/opencode/tool-output/tool_16f429c49001pn6KY48EUq4XhZ[90m [limit=120][0m
+[0m✱ [0mGrep "^(Title|URL):"[90m in C:/Users/fbani/.local/share/opencode/tool-output/tool_16f429c49001pn6KY48EUq4XhZ · 88 matches[0m
+[0m✗ [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/acta-de-extrana-jurisdiccion failed
+[91m[1mError: [0mStatusCode: non 2xx status code (404 GET https://portaldetramites.lapampa.gob.ar/tramites/acta-de-extrana-jurisdiccion)
+[0m✗ [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/certificado-de-domicilio failed
+[91m[1mError: [0mStatusCode: non 2xx status code (404 GET https://portaldetramites.lapampa.gob.ar/tramites/certificado-de-domicilio)
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/solicitud-de-encuesta-pilquen
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/tarjeta-social-pampeana
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/plan-pro-vida
+[0m✗ [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/inclusion-laboral-trans failed
+[91m[1mError: [0mStatusCode: non 2xx status code (404 GET https://portaldetramites.lapampa.gob.ar/tramites/inclusion-laboral-trans)
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/servicio-bolsin
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/como-me-jubilo
+[0m◈ [0mExa Web Search "site:portaldetramites.lapampa.gob.ar "Acta de Extraña Jurisdicción""
+[0m◈ [0mExa Web Search "site:portaldetramites.lapampa.gob.ar "Inclusión Laboral Trans""
+[0m◈ [0mExa Web Search "site:portaldetramites.lapampa.gob.ar "Certificado de Domicilio""
+[0m✱ [0mGrep "(search|buscar|Buscar|tableSearch|wire:model)"[90m in C:/Users/fbani/.local/share/opencode/tool-output/tool_16f4277420015sUlhwQXIdRUBv · 44 matches[0m
+[0m✗ [0mWebFetch https://portaldetramites.lapampa.gob.ar/sitemap.xml failed
+[91m[1mError: [0mStatusCode: non 2xx status code (404 GET https://portaldetramites.lapampa.gob.ar/sitemap.xml)
+[0m✗ [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/solicitud-de-factibilidad-tecnica-bt-znc failed
+[91m[1mError: [0mStatusCode: non 2xx status code (404 GET https://portaldetramites.lapampa.gob.ar/tramites/solicitud-de-factibilidad-tecnica-bt-znc)
+[0m✗ [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/solicitud-de-conexion-electrica-znc failed
+[91m[1mError: [0mStatusCode: non 2xx status code (404 GET https://portaldetramites.lapampa.gob.ar/tramites/solicitud-de-conexion-electrica-znc)
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/consulta-de-interferencias
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/autorizacion-para-viajar-con-menores
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/certificacion-de-declaraciones-juradas
+[0m✗ [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/solicitud-de-instrumento-venta failed
+[91m[1mError: [0mStatusCode: non 2xx status code (404 GET https://portaldetramites.lapampa.gob.ar/tramites/solicitud-de-instrumento-venta)
+[0m✗ [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/afectacion-al-regimen-de-proteccion-de-vivienda failed
+[91m[1mError: [0mStatusCode: non 2xx status code (404 GET https://portaldetramites.lapampa.gob.ar/tramites/afectacion-al-regimen-de-proteccion-de-vivienda)
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/informe-de-titular-de-dominio
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/11
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/14
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/29
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/32
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/33
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/64
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/20
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/30
+[0m✗ [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/43 failed
+[91m[1mError: [0mStatusCode: non 2xx status code (404 GET https://portaldetramites.lapampa.gob.ar/tramites/43)
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/48
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/50
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/58
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/66
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/70
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/72
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/73
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/74
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/79
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/81
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/4
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/5
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/9
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/10
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/15
+[0m◈ [0mExa Web Search "site:portaldetramites.lapampa.gob.ar "Solicitud de Inscripción de Defunciones""
+[0m◈ [0mExa Web Search "site:portaldetramites.lapampa.gob.ar "Solicitud de Inscripción de Matrimonio""
+[0m◈ [0mExa Web Search "site:portaldetramites.lapampa.gob.ar "Solicitud de Unión Convencional""
+[0m◈ [0mExa Web Search "site:portaldetramites.lapampa.gob.ar "Solicitud de Reconocimiento""
+[0m◈ [0mExa Web Search "site:portaldetramites.lapampa.gob.ar "Adición de Apellido""
+[0m◈ [0mExa Web Search "site:portaldetramites.lapampa.gob.ar "Identidad de Género""
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/tarjeta-joven
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/solicitud-tarjeta-joven
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/tarjeta-joven-banco-de-la-pampa
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/denuncia-laboral
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/denuncia-por-trabajo-infantil
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/conocer-mi-identidad
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/inscripcion-de-nacimiento
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/pago-de-tasas-retributivas-de-servicios-de-la-direccion-de-transporte
+[0m✗ [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/denuncia-ante-defensa-del-consumidor failed
+[91m[1mError: [0mStatusCode: non 2xx status code (404 GET https://portaldetramites.lapampa.gob.ar/tramites/denuncia-ante-defensa-del-consumidor)

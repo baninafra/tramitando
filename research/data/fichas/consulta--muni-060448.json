@@ -1,0 +1,83 @@
+{
+  "tramite": {
+    "slug": "consulta-y-emision-de-tasas-municipales-online",
+    "nombre": "Consulta y emisión de Tasas Municipales Online",
+    "nombre_busqueda": "Consulta y emisión de Tasas Municipales Online",
+    "resumen": "Consultá y pagá las tasas municipales de Laprida en línea por CUIT o por partida específica.",
+    "sinonimos": [
+      "Consulta de Tasas Municipales",
+      "Pago de Tasas Municipales Online"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060448",
+  "organismo": {
+    "nombre": "Municipalidad de Laprida",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en consultar o pagar tasas."
+    ],
+    "requisitos": [
+      {
+        "texto": "CUIT",
+        "aclaracion": null
+      },
+      {
+        "texto": "Partida / Dominio",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio de la Municipalidad de Laprida."
+      },
+      {
+        "texto": "Seleccioná la opción de Tasas Online."
+      },
+      {
+        "texto": "Buscá la tasa por CUIT o por Partida/Dominio."
+      },
+      {
+        "texto": "Consultá el monto y los medios de pago disponibles."
+      },
+      {
+        "texto": "Realizá el pago online con los medios habilitados."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.laprida.gov.ar/tasas/consulta",
+      "titulo": "Municipalidad de Laprida",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T08:08:35.809Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los montos exactos de las tasas no se especifican en el texto.",
+    "No se detallan los requisitos específicos para cada tipo de tasa.",
+    "No se indican los plazos de vencimiento de las tasas.",
+    "No se especifican los pasos detallados para la emisión de la factura o comprobante.",
+    "No se indica si se requiere turno para consultas presenciales."
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "tramite": {
+    "slug": "obtencion-de-pase-provincial-de-transporte-discapacidad",
+    "nombre": "Obtención de Pase Provincial de Transporte | Discapacidad",
+    "nombre_busqueda": "Pase provincial transporte discapacidad",
+    "resumen": "Para viajar en colectivos del 200 en adelante, necesitás un Certificado Único de Discapacidad vigente y tu DNI. El trámite se inicia online y se retira presencialmente en la Dirección de Discapacidad.",
+    "sinonimos": [
+      "Pase libre multimodal",
+      "Credencial de discapacidad para transporte"
+    ],
+    "temas": [
+      "pasajes-gratuitos-por-discapacidad",
+      "discapacidad-y-accesibilidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060760",
+  "organismo": {
+    "nombre": "Municipalidad de San Miguel",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas con discapacidad que posean Certificado Único de Discapacidad vigente y DNI vigente."
+    ],
+    "requisitos": [
+      {
+        "texto": "Certificado Único de Discapacidad vigente",
+        "aclaracion": null
+      },
+      {
+        "texto": "D.N.I. vigente",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá en el siguiente link y gestioná la solicitud: https://www.gba.gob.ar/transporte/accesibilidad/pase_libre_multimodal"
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate con la solicitud gestionada en 3 meses o más a la oficina de atención para retirar el pase."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "3 meses",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Discapacidad",
+      "direccion": "Belgrano 1342 PB",
+      "localidad": "Belgrano 1342 PB",
+      "horario": null,
+      "fuente_url": "https://www.msm.gov.ar/guia-tramites/discapacidad/obtencion-de-pase-provincial-de-transporte-discapacidad/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.msm.gov.ar/guia-tramites/discapacidad/obtencion-de-pase-provincial-de-transporte-discapacidad/",
+      "titulo": "Obtención de Pase Provincial de Transporte | Discapacidad - Municipalidad San Miguel",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T13:00:36.450Z"
+    },
+    {
+      "url": "https://normas.gba.gob.ar/documentos/0vvjJjCe.html",
+      "titulo": "Resolución 231/2016",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T13:00:36.450Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia de la resolución o normativa vigente no se especifica en el texto.",
+    "No se indica si el trámite requiere turno previo para la oficina de atención."
+  ]
+}

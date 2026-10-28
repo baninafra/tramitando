@@ -1,0 +1,81 @@
+{
+  "tramite": {
+    "slug": "baja-impositiva-de-rodados",
+    "nombre": "Baja impositiva de rodados",
+    "nombre_busqueda": "Baja impositiva de rodados",
+    "resumen": "Trámite para solicitar la baja impositiva de autos y motos. Se requiere título y DNI, o denuncia de robo en caso de robo. El documento es permanente y no tiene costo.",
+    "sinonimos": [
+      "Baja impositiva de autos",
+      "Baja impositiva de motos"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060760",
+  "organismo": {
+    "nombre": "Municipalidad San Miguel",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titular del vehículo"
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia de título",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario 02 y 04 y copia de denuncia de robo",
+        "aclaracion": "En caso de baja por robo"
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Completá todos los requisitos."
+      },
+      {
+        "texto": "Presentá la Constancia de Habilitación firmada y controlada por el Director de General de Tránsito y Transporte."
+      },
+      {
+        "texto": "Retirá la Constancia de Habilitación en la Oficina de Transporte."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "72 horas una vez confeccionada la Constancia de Habilitación firmada y controlada por el Director de General de Tránsito y Transporte",
+    "consejos": [
+      "El documento obtenido es permanente."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.msm.gov.ar/guia-tramites/economia-finanzas/baja-impositiva-de-rodados/",
+      "titulo": "Baja Impositiva de Rodados - Municipalidad San Miguel",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T13:10:59.925Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horarios de atención en la Oficina de Transporte",
+    "Dirección exacta de la Oficina de Transporte"
+  ]
+}

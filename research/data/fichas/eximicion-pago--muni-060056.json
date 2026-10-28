@@ -1,0 +1,96 @@
+{
+  "tramite": {
+    "slug": "eximicion-pago-tasas-municipales",
+    "nombre": "Eximición de pago de tasas municipales",
+    "nombre_busqueda": "Eximición de pago de tasas municipales",
+    "resumen": "Permiso para no pagar tasas municipales si tenés una propiedad, ingresos bajos, sos jubilado o no tenés deudas con el municipio.",
+    "sinonimos": [
+      "Exención de tasas",
+      "No pagar tasas",
+      "Baja en tasas"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "exenciones-y-tasa-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan solo una propiedad y habiten en ella en forma permanente.",
+      "Quienes tengan un vehículo con antigüedad mayor a 10 años.",
+      "Quienes no tengan ingresos superiores al salario mínimo del Agrupamiento Obrero Municipal.",
+      "Jubilados y pensionados con ingresos que no superen dos jubilaciones mínimas.",
+      "Quienes no tengan deuda con este municipio."
+    ],
+    "requisitos": [
+      {
+        "texto": "Título de propiedad o boleto de compra y venta.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento de Identidad: Original y copia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Último recibo de cobro.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Último recibo de pago de la tasa municipal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de declaración jurada completo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "No tener deudas respecto de las demás tasas municipales.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá en el Departamento Recaudación la declaración jurada y la documentación para su visado y control de inexistencia de deudas con el municipio respecto de las otras tasas y derechos municipales."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Departamento Recaudación",
+      "direccion": "Alsina 43",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/tasas/eximicion-pago/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/tramites/tasas/eximicion-pago/",
+      "titulo": "Eximición de pago de Tasas Municipales | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T20:24:02.050Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto menciona que la eximición se aplica también a la Tasa de Salud regulada en los artículos 262/269 de la Ordenanza Fiscal vigente para la Tasa por Alumbrado, Limpieza y Conservación de la Vía Pública, pero no detalla los requisitos específicos para esos rubros.",
+    "No se especifica el plazo de respuesta para la resolución de eximición."
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "tramite": {
+    "slug": "emitir-certificado-de-captura-legal-express",
+    "nombre": "Emitir certificado de captura legal express",
+    "nombre_busqueda": "emitir certificado de captura legal express",
+    "resumen": "Este trámite permite obtener un Certificado de Captura Legal Express para exportadores de productos pesqueros, habilitado para embarques aéreos, terrestres y de recursos, antes del permiso de embarque.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Secretaría de Agricultura, Ganadería y Pesca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Exportadores/as de Productos Pesqueros"
+    ],
+    "requisitos": [
+      {
+        "texto": "Certificado Sanitario SENASA",
+        "aclaracion": null
+      },
+      {
+        "texto": "Facturas de Exportación",
+        "aclaracion": null
+      },
+      {
+        "texto": "Bill of Landing (BOL)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Guía Aérea o Carta de Porte",
+        "aclaracion": null
+      },
+      {
+        "texto": "Permiso/s de Embarque Oficializado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de Pago",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Inicia el trámite desde Afip en TAD"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "5 minutos",
+    "consejos": [
+      "La vigencia es indefinida"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/emitir-certificado-de-captura-legal-express",
+      "titulo": "Emitir Certificado de Captura Legal Express | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T15:28:40.883Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-26T15:28:40.883Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/",
+      "titulo": "Inicio | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T15:28:40.883Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica si se requiere turno para este trámite específico, aunque el sitio de turnos menciona que para la mayoría se necesita DNI argentino y cuenta en Mi Argentina."
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "tramite": {
+    "slug": "obtener-matricula-persona-humana-actividad-economica",
+    "nombre": "Obtener la matrícula de persona humana que realiza una actividad económica organizada",
+    "nombre_busqueda": "Obtener matrícula comerciante",
+    "resumen": "Este trámite se realiza exclusivamente en la Inspección General de Justicia para comerciantes radicados en la Ciudad Autónoma de Buenos Aires. Requiere presentación presencial de formulario, certificados y nota de presentación.",
+    "sinonimos": [
+      "Matrícula de comerciante",
+      "Inscripción de matrícula de persona humana"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "La persona o personas afectadas personalmente por el trámite o en su defecto, representante legal.",
+      "Si el presentante es menor de edad, se acompañará copia auténtica del instrumento de la emancipación civil o la autorización para el ejercicio del comercio con la constancia de su inscripción."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de Matrícula de persona humana que realiza una actividad económica organizada generado a través de la página web y luego impreso.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado emitido por el Registro Nacional de Reincidencia.",
+        "aclaracion": "Tiene treinta (30) días corridos de vigencia desde su expedición."
+      },
+      {
+        "texto": "Certificado del Archivo de Actuaciones Notariales sobre pedidos de quiebra contra el interesado o presentación en concurso preventivo del mismo.",
+        "aclaracion": "Se obtiene en el Palacio de Tribunales, Talcahuano Nº 550, subsuelo, de 8:00 a 13:00 hs. mediante la presentación de una nota. Tiene treinta (30) días corridos de vigencia desde su expedición."
+      },
+      {
+        "texto": "Nota de presentación indicando, con carácter de declaración jurada, los datos personales del solicitante (nombres y apellidos, número de documento nacional de identidad, fecha y lugar de nacimiento, estado civil, nacionalidad, domicilio real, domicilio comercial dentro del radio de la Ciudad Autóno…",
+        "aclaracion": "Si el presentante es menor de edad, se acompañará copia auténtica del instrumento de la emancipación civil o la autorización para el ejercicio del comercio con la constancia de su inscripción. Si se certificó por escribano de provincia, legalizar la firma por el Colegio correspondiente a la jurisdi…"
+      },
+      {
+        "texto": "Copia protocolar de la documentación indicada en los apartados anteriores (formulario, certificados y nota).",
+        "aclaracion": "Debe ser una reducción aproximada al 72% y tener 8 cm de margen izquierdo."
+      },
+      {
+        "texto": "Comprobante de pago de la tasa retributiva de servicios a nombre de quien lo solicita.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Prepará todos los formularios y solicitá turno para Mesa de Entradas de IGJ."
+      },
+      {
+        "texto": "Presentá toda la documentación indicada en la Mesa General de Entradas de la Inspección General de Justicia."
+      },
+      {
+        "texto": "Una vez inscripta la matrícula, retirá el trámite por Av. Paseo Colón 291 previa solicitud de turno."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Inspección General de Justicia",
+      "direccion": "Av. Paseo Colón 291",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/obtener-la-matricula-de-persona-humana-que-realiza-una-actividad-economica-organizada"
+    },
+    {
+      "nombre": "Palacio de Tribunales",
+      "direccion": "Palacio de Tribunales, Talcahuano Nº 550, subsuelo",
+      "localidad": "Palacio de Tribunales, Talcahuano Nº 550, subsuelo",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/obtener-la-matricula-de-persona-humana-que-realiza-una-actividad-economica-organizada"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-la-matricula-de-persona-humana-que-realiza-una-actividad-economica-organizada",
+      "titulo": "Obtener la matrícula de persona humana que realiza una actividad económica organizada (comerciante) | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T06:47:56.645Z"
+    },
+    {
+      "url": "https://www2.jus.gov.ar/igj-tasas/",
+      "titulo": "Inspección General de Justicia",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T06:47:56.645Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto indica que el trámite es exclusivo para comerciantes radicados en la Ciudad Autónoma de Buenos Aires, pero no especifica si hay excepciones o requisitos adicionales para otros lugares.",
+    "El texto menciona 'Calculá el valor del trámite' pero no especifica el monto exacto en centavos."
+  ]
+}

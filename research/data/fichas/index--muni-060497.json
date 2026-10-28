@@ -1,0 +1,158 @@
+{
+  "tramite": {
+    "slug": "adhesion-domicilio-fiscal-electronico",
+    "nombre": "Adherir al domicilio fiscal electrónico",
+    "nombre_busqueda": "Domicilio Fiscal Electrónico de Luján",
+    "resumen": "Registrá un domicilio fiscal electrónico para recibir comunicaciones y cumplir tus obligaciones fiscales. Completá la solicitud en línea y validá el domicilio con el código que te envían por correo electrónico.",
+    "sinonimos": [
+      "Alta del DFE",
+      "Constitución del domicilio fiscal electrónico"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060497",
+  "organismo": {
+    "nombre": "Municipalidad de Luján",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Contribuyentes y responsables."
+    ],
+    "requisitos": [
+      {
+        "texto": "CUIT.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Razón social o nombre del titular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio real.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de domicilio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio fiscal electrónico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de patente del vehículo.",
+        "aclaracion": "Si declarás una tasa por vehículo."
+      },
+      {
+        "texto": "Número de partida municipal de 7 dígitos del inmueble donde realizás la actividad.",
+        "aclaracion": "Si declarás una tasa por inmueble."
+      },
+      {
+        "texto": "Número de legajo del comercio.",
+        "aclaracion": "Si declarás una tasa por comercio."
+      },
+      {
+        "texto": "Número de ARBA del inmueble donde realizás la actividad.",
+        "aclaracion": "Si declarás una tasa por comercio."
+      },
+      {
+        "texto": "Información adicional sobre otros vehículos, inmuebles o comercios.",
+        "aclaracion": "Si tenés más de uno."
+      },
+      {
+        "texto": "Titular del inmueble, domicilio, número y localidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUIT del representante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Apellido y nombre.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del frente y del dorso.",
+        "aclaracion": "Si sos persona física."
+      },
+      {
+        "texto": "DNI del frente y del dorso del representante legal.",
+        "aclaracion": "Si sos persona jurídica."
+      },
+      {
+        "texto": "Estatuto social.",
+        "aclaracion": "Si sos persona jurídica."
+      },
+      {
+        "texto": "Acta de designación de cargo o poder.",
+        "aclaracion": "Si sos persona jurídica."
+      },
+      {
+        "texto": "Archivos en formato .jpg, .jpeg, .png o .pdf, de hasta 7 MB cada uno.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá los datos del contribuyente, el tipo de tasa y la información del vehículo, inmueble o comercio que corresponda."
+      },
+      {
+        "texto": "Completá los datos del inmueble y de la persona solicitante."
+      },
+      {
+        "texto": "Adjuntá la documentación respaldatoria que corresponda según tu tipo de persona."
+      },
+      {
+        "texto": "Confirmá el envío de la solicitud."
+      },
+      {
+        "texto": "Revisá tu correo electrónico y la carpeta de spam para encontrar el código de verificación."
+      },
+      {
+        "texto": "Ingresá el código para validar el domicilio fiscal electrónico."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://sistemas.lujan.gov.ar/dfe/index.php",
+      "titulo": "Municipalidad de Luján - Domicilio Fiscal Electrónico",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T14:55:41.590Z"
+    },
+    {
+      "url": "https://sistemas.lujan.gov.ar/dfe/",
+      "titulo": "Municipalidad de Luján - Domicilio Fiscal Electrónico",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T14:55:41.590Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se indica si el trámite tiene costo.",
+    "No se informa un plazo de resolución.",
+    "No se indica si hace falta sacar turno.",
+    "No se detalla si hay que completar todos los datos del inmueble para cada tipo de tasa."
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "tramite": {
+    "slug": "tarifa-diferencial-organizaciones-religiosas",
+    "nombre": "Tarifa Diferencial para Organizaciones Religiosas",
+    "nombre_busqueda": "Tarifa Diferencial Religiosas",
+    "resumen": "Beneficio para entidades religiosas inscriptas en el Registro Nacional de Cultos que solicita una reducción en la tarifa de servicios de luz y gas. El trámite se realiza de manera on-line a través de la plataforma TAD.",
+    "sinonimos": [
+      "Tarifa Diferencial Entidades Religiosas",
+      "Beneficio Religiosas Facturas"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Entidades religiosas inscriptas en el Registro Nacional de Cultos.",
+      "Institutos de Vida Consagrada.",
+      "Iglesia Católica Apostólica Romana."
+    ],
+    "requisitos": [
+      {
+        "texto": "Inscripción en el Registro Nacional de Cultos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Titular de la factura debe ser la entidad solicitante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Factura en formato PDF, legible y sin adjuntos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si se solicita para GAS con tarifa Residencial, debe cambiarla a General en la empresa antes de iniciar el trámite.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar a la plataforma TAD en el link https://tramitesadistancia.gob.ar."
+      },
+      {
+        "texto": "Buscar y seleccionar la opción «Solicitud de Tarifa Diferencial para Entidades Religiosas»."
+      },
+      {
+        "texto": "Seleccionar la opción «Iniciar el trámite con DNI»."
+      },
+      {
+        "texto": "Ingresar con el número de DNI y el número de trámite (los 11 números al final del DNI)."
+      },
+      {
+        "texto": "Completar el Formulario Declaración Jurada con los datos de la entidad."
+      },
+      {
+        "texto": "Adjuntar la última factura del servicio por el cual se solicita el beneficio."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El usuario que inicie el trámite será quien realizará el seguimiento a futuro de los mismos.",
+      "Deberá tener especial cuidado con la casilla de email, ya que será allí donde se informe la necesidad de corregir datos o archivos.",
+      "Una vez realizado el trámite, el seguimiento se puede hacer en la solapa TAD «Mis Trámites».",
+      "Recomendado tomar nota del número de expediente que le brindará el sistema por si surge algún inconveniente.",
+      "Aunque el sistema permite generar un trámite en conjunto por luz y gas de un mismo domicilio, se recomienda hacerlo por separado para evitar retrasos si una factura presenta errores."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/cultos/tarifa-diferencial-para-organizaciones-religiosas/",
+      "titulo": "Tarifa Diferencial para Organizaciones Religiosas | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T09:00:35.814Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El beneficio es otorgado por la Secretaría de Energía, dependiente del Ministerio de Desarrollo Productivo de la Nación."
+  ]
+}

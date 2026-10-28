@@ -1,0 +1,101 @@
+{
+  "tramite": {
+    "slug": "escrituracion-social-vivienda-unica",
+    "nombre": "Escrituración social para vivienda única",
+    "nombre_busqueda": "escriturar una vivienda única",
+    "resumen": "Podés iniciar la escrituración de una vivienda única si la valuación fiscal de la vivienda y del terreno no supera los límites indicados. El trámite es presencial.",
+    "sinonimos": [
+      "escrituración de vivienda única"
+    ],
+    "temas": [
+      "catastro-e-inmuebles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060466",
+  "organismo": {
+    "nombre": "Municipalidad de Lezama",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés iniciar el trámite para escriturar una vivienda única si la valuación fiscal de la vivienda es igual o menor que $2.308.800 y la del terreno es igual o menor que $1.154.400."
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia del boleto de compraventa, del convenio de donación y de sus cesiones, si existen.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de los DNI de compradores, vendedores y apoderados.",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUIT, CUIL o CDI del comprador, vendedor y apoderado, según corresponda.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Justificación del estado civil.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia certificada o partida de defunción.",
+        "aclaracion": "Si sos viudo o viuda."
+      },
+      {
+        "texto": "Testimonio de la sentencia judicial de divorcio.",
+        "aclaracion": "Si sos divorciado o divorciada."
+      },
+      {
+        "texto": "Copia del certificado o partida de matrimonio.",
+        "aclaracion": "Si sos casado o casada."
+      },
+      {
+        "texto": "Copia de la inscripción de la unión convivencial en el Registro de las Personas.",
+        "aclaracion": "Si tenés una unión convivencial."
+      },
+      {
+        "texto": "Fotocopia de la escritura anterior, a nombre del vendedor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de cancelación de deuda expedido por el vendedor.",
+        "aclaracion": "Si corresponde."
+      },
+      {
+        "texto": "Fotocopia de un impuesto de ARBA o constancia de valuación fiscal.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Iniciá el trámite de escrituración de vivienda única de forma presencial."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://lezama.gov.ar/catastro/",
+      "titulo": "Municipalidad de Lezama",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T14:42:11.308Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa el costo del trámite.",
+    "No se informa si necesitás sacar turno."
+  ]
+}

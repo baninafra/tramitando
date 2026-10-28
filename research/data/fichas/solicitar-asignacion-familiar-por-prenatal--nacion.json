@@ -1,0 +1,118 @@
+{
+  "tramite": {
+    "slug": "solicitar-asignacion-familiar-por-prenatal",
+    "nombre": "Solicitar asignación familiar por prenatal",
+    "nombre_busqueda": "Solicitar asignación familiar por prenatal",
+    "resumen": "Podés recibir el pago mensual que realiza la ANSES durante los meses de gestación y hasta el mes que se produzca el nacimiento o interrupción del embarazo. Es un trámite gratuito y semipresencial.",
+    "sinonimos": [],
+    "temas": [
+      "familia-y-pareja",
+      "salud-y-prevencion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANSES",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A personas trabajadoras en relación de dependencia.",
+      "A titulares de la prestación por desempleo.",
+      "A quienes estén cobrando por una ART.",
+      "A los que reciben una Pensión Honorífica de Veteranos de Guerra del Atlántico Sur.",
+      "A los monotributistas con categorías A hasta H."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener un embarazo de 12 semanas o más.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La solicitud de la asignación tenés que hacerla durante el embarazo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Los ingresos individuales y del grupo familiar deben encontrarse entre los topes mínimo y máximo vigentes, excepto para el caso de hijos con discapacidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contar con la información del titular y de su grupo familiar registrada en ANSES.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el otro progenitor trabaja en relación de dependencia, será quien deba realizar el trámite y es necesario acreditar la relación cónyuge, conviviente o conviviente previsional ante ANSES.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si trabajás en relación de dependencia o sos monotributista tenés que contar con una antigüedad mínima de 3 meses.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá en Atención Virtual, seleccioná la opción Asignación Familiar por Prenatal y seguí los pasos indicados."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Revisá si tus datos personales y vínculos familiares están actualizados, ingresando en mi ANSES."
+      },
+      {
+        "texto": "Si no están actualizados, cuando vayas a la oficina de ANSES llevá el certificado de matrimonio o convivencia y los DNI del grupo familiar (originales y copias)."
+      },
+      {
+        "texto": "Completá el formulario Declaración Jurada novedades unificadas de SUAF Novedades Unificadas (PS 2.55. (rubros 1, 2, 3, 5, 6 y 9)."
+      },
+      {
+        "texto": "Si en el rubro 1 marcaste que “Sí” te encontrás en una relación con la otra persona progenitora, tenés que completar el rubro 2."
+      },
+      {
+        "texto": "Si marcaste que “No”, no tenés que completar el rubro 2, y tenés que aclarar en el apartado Observaciones “no me encuentro en una relación de matrimonio, convivencia o convivencia previsional con el otro progenitor”."
+      },
+      {
+        "texto": "El rubro 2 se completa con los datos del otro progenitor y tenés que acreditar la relación ante ANSES presentando la documentación que corresponda a tu caso y ambos deben firmar el Rubro 9."
+      },
+      {
+        "texto": "El rubro 6 podés reemplazarlo con un certificado de embarazo extendido por un médico o Licenciado en Obstetricia, con su firma, sello y número de CUIL o CUIT."
+      },
+      {
+        "texto": "Los rubros 3, 5, 7 y 9 sólo se completan si trabajás en relación de dependencia o sos beneficiaria de una ART y con el mismo formulario solicitaras también la Asignación por Maternidad o Asignación por Maternidad Down."
+      },
+      {
+        "texto": "El rubro 8 se completa solo en caso de autorizar a otra persona a hacer el trámite en tu lugar."
+      },
+      {
+        "texto": "En caso de que se interrumpa el embarazo o se produzca un nacimiento (con o sin vida) antes de la fecha probable de parto, tenés que completar el rubro 1 y el rubro 6 o presentar certificado médico donde consten esos datos."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La solicitud de la asignación tenés que hacerla durante el embarazo, no corresponde el pago si la solicitás una vez ocurrido el nacimiento o la interrupción del embarazo."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-asignacion-familiar-por-prenatal",
+      "titulo": "Solicitar Asignación Familiar por Prenatal | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T04:53:12.236Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia del trámite.",
+    "El plazo de tramitación."
+  ]
+}

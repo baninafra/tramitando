@@ -1,0 +1,83 @@
+---
+// Cuerpo compartido por /temas/[slug] y /situaciones/[slug].
+import Base from '../layouts/Base.astro';
+import FichaTramite from './FichaTramite.astro';
+import Icono from './Icono.astro';
+import Paginacion from './Paginacion.astro';
+import type { PaginaTema } from '../lib/data';
+
+interface Props {
+  datos: PaginaTema;
+  /** Ruta base de la página, para las migas y la paginación. */
+  ruta: string;
+  tipo: 'tema' | 'situacion';
+  /** Ubicación pedida en la URL, para conservarla al paginar. */
+  prov?: string;
+  muni?: string;
+  /** Nombre legible de la ubicación, si la página la está usando. */
+  lugar?: string;
+}
+const { datos, ruta, tipo, prov, muni, lugar } = Astro.props;
+const { tema, padre, subtemas, tramites, total, pagina, paginas } = datos;
+
+const esSituacion = tipo === 'situacion';
+const titulo = esSituacion ? `${tema.nombre}: los trámites que necesitás` : `Trámites de ${tema.nombre}`;
+const descripcion = `${tema.descripcion} Requisitos, costos y plazos con fuente oficial.`;
+const etiqueta = esSituacion ? 'Situación de vida' : padre ? 'Subtema' : 'Tema';
+const cuenta = total === 1 ? '1 trámite' : `${total} trámites`;
+---
+<Base titulo={titulo} descripcion={descripcion} indexar={total > 0 || subtemas.length > 0}>
+  <div class="contenedor">
+    <nav class="migas" aria-label="Estás en">
+      <ol>
+        <li><a href="/">Inicio</a></li>
+        {esSituacion ? (
+          <li><a href="/temas#situaciones">¿Qué te pasó?</a></li>
+        ) : (
+          <>
+            <li><a href="/temas">Temas</a></li>
+            {padre && <li><a href={`/temas/${padre.slug}`}>{padre.nombre}</a></li>}
+          </>
+        )}
+        <li aria-current="page">{tema.nombre}</li>
+      </ol>
+    </nav>
+
+    <header class="cabecera">
+      <p class="chip">{etiqueta}</p>
+      <h1>{tema.nombre}</h1>
+      {tema.descripcion && <p class="bajada">{tema.descripcion}</p>}
+      {lugar && (
+        <p class="ubicacion">
+          <Icono nombre="map-pin" />
+          <span>Mostramos primero los trámites de <strong>{lugar}</strong>.</span>
+          <a href={ruta}>Verlos en todo el país</a>
+        </p>
+      )}
+    </header>
+
+    <section class="bloque" aria-labelledby="tramites">
+      <div class="seccion-cabecera">
+        <h2 id="tramites" class="titulo-seccion">Trámites</h2>
+        {total > 0 && <p class="cuenta">{cuenta}</p>}
+      </div>
+      {tramites.length > 0 ? (
+        <ul class="lista-tramites">
+          {tramites.map((tramite) => <li><FichaTramite tarjeta={tramite} /></li>)}
+        </ul>
+      ) : (
+        <p class="vacio">Todavía no tenemos trámites en {esSituacion ? 'esta situación' : 'este tema'}. Los vamos sumando de a poco.</p>
+      )}
+      <Paginacion pagina={pagina} paginas={paginas} ruta={ruta} parametros={{ prov, muni }} />
+    </section>
+  </div>
+</Base>
+
+<style>
+  .cabecera { display: grid; gap: var(--espacio-3); padding-block: var(--espacio-4) var(--espacio-6); }
+  .chip { font: var(--t-etiqueta); color: var(--celeste-tinta); }
+  .ubicacion { display: flex; flex-wrap: wrap; align-items: center; gap: var(--espacio-2) var(--espacio-3); font: var(--t-cuerpo-chico); color: var(--tinta-2); }
+  .ubicacion :global(.icono) { width: 18px; height: 18px; color: var(--celeste-tinta); }
+  .bloque { display: grid; gap: var(--espacio-4); margin-bottom: var(--espacio-7); }
+  .vacio { color: var(--tinta-2); }
+</style>

@@ -1,0 +1,79 @@
+{
+  "tramite": {
+    "slug": "acreditacion-de-titularidad-de-inmuebles-catastro-parcelario",
+    "nombre": "Acreditación de titularidad de inmuebles (catastro parcelario)",
+    "nombre_busqueda": "Acreditación de titularidad catastro parcelario",
+    "resumen": "Trámite para acreditar la propiedad de inmuebles en Florencio Varela mediante escritura, boleto o declaratoria de herederos, junto con DNI original y copia.",
+    "sinonimos": [
+      "Acreditación de titularidad catastral",
+      "Verificación de propiedad catastro parcelario"
+    ],
+    "temas": [
+      "catastro-e-inmuebles",
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060274",
+  "organismo": {
+    "nombre": "Municipalidad de Florencio Varela",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de inmuebles",
+      "Terceros con documentación original"
+    ],
+    "requisitos": [
+      {
+        "texto": "Escritura y/o boleto de compra venta y/o declaratoria de herederos",
+        "aclaracion": null
+      },
+      {
+        "texto": "D.N.I.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Original para cotejar la copia",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Llevá la documentación del bien (escritura, boleto o declaratoria de herederos)."
+      },
+      {
+        "texto": "Presentá el D.N.I. original para cotejar la copia."
+      },
+      {
+        "texto": "Exhibí toda la documentación del bien, sin excepción."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.varela.gob.ar/tramites/catastroparcelario.aspx",
+      "titulo": "Catastro Parcelario",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "consejos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T07:03:31.662Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos de tasas ni costos de timbrado.",
+    "No se especifica el plazo de resolución del trámite.",
+    "No se especifica si se requiere turno para la acreditación."
+  ]
+}

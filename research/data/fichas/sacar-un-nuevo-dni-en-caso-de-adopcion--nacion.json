@@ -1,0 +1,109 @@
+{
+  "tramite": {
+    "slug": "sacar-un-nuevo-dni-en-caso-de-adopcion",
+    "nombre": "Sacar un nuevo DNI en caso de adopcion",
+    "nombre_busqueda": "Sacar un nuevo DNI en caso de adopcion",
+    "resumen": "Si adoptaste a una persona menor de edad o fuiste adoptado/a, sacá un nuevo DNI que registre los datos biográficos de la acta de adopción judicial. El número del documento anterior no se modifica.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad",
+      "dni"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Renaper",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Si adoptaste a una persona menor de edad",
+      "Si fuiste adoptado/a y tenés más de 14 años"
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI vigente de padres y/o madres adoptantes",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia certificada de la nueva partida de nacimiento con o sin oblea, la que deberá contar con sello y firma ológrafa del oficial público o extendida con firma digital, sin importar su fecha de expedición",
+        "aclaracion": null
+      },
+      {
+        "texto": "O Certificado de nacimiento original con o sin oblea o número manuscrito, con sello y firma ológrafa del oficial público o extendido digitalmente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Hasta los 14 años, presencia de al menos uno de los padres y/o madres adoptantes o del representante legal debidamente acreditado",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Sacá turno para un Centro de Documentación Renaper en la app Mi Argentina"
+      },
+      {
+        "texto": "Guardá la constancia de solicitud de trámite y hacé el seguimiento online con tu ID desde aquí"
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Elegí el Registro Civil más cercano, dentro de la jurisdicción donde tengas domicilio"
+      },
+      {
+        "texto": "Presentate en la oficina elegida, si es en un Centro de Documentación Renaper con la constancia de turno"
+      },
+      {
+        "texto": "Si vas a retiralo a una oficina, presentate con la constancia de solicitud de trámite"
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://www.argentina.gob.ar/turnos",
+    "plazo": "15 minutos",
+    "consejos": [
+      "El trámite lleva 15 minutos",
+      "La vigencia es de 15 años",
+      "Para menores de 14 años, la vigencia será hasta cumplir la edad de las actualizaciones de 5/8, o de 14 años, según corresponda"
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/sacar-un-nuevo-dni-en-caso-de-adopcion"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/sacar-un-nuevo-dni-en-caso-de-adopcion",
+      "titulo": "Sacar un nuevo DNI en caso de adopción | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T04:23:29.862Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T04:23:29.862Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de los Centros de Documentación Renaper",
+    "Enlace directo para sacar turno desde la app Mi Argentina"
+  ]
+}

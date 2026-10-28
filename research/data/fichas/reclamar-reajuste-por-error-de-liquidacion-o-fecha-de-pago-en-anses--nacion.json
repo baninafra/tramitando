@@ -1,0 +1,77 @@
+{
+  "tramite": {
+    "slug": "reclamar-reajuste-por-error-de-liquidacion-o-fecha-de-pago-en-anses",
+    "nombre": "Reclamar reajuste por error de liquidación o fecha de pago en ANSES",
+    "nombre_busqueda": "Reclamar reajuste ANSES",
+    "resumen": "Si sos jubilado o pensionado, podés solicitar la revisión y reajuste del haber de una prestación ya otorgada y percibida si hay errores en la fecha inicial de pago o en la liquidación.",
+    "sinonimos": [
+      "Revisión de haber ANSES",
+      "Reajuste por error liquidación",
+      "Reajuste por fecha de pago incorrecta"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración Nacional de Seguros Sociales",
+    "sigla": "ANSES",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas jubiladas y pensionadas que consideren justa la revisión de sus haberes."
+    ],
+    "requisitos": [
+      {
+        "texto": "Clave de la Seguridad Social en ANSES.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación relacionada con tu solicitud de reajuste.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Solicitá un turno en ANSES."
+      },
+      {
+        "texto": "Consultá en línea la información del día y el lugar del turno asignado para cerciorarte o cancelarlo."
+      },
+      {
+        "texto": "Presentá la documentación en la oficina de ANSES el día y la hora del turno asignado."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reclamar-reajuste-por-error-de-liquidacion-o-fecha-de-pago-en-anses",
+      "titulo": "Reclamar reajuste por error de liquidación o fecha de pago en ANSES | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T02:50:22.296Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los casos específicos de error en la fecha inicial de pago (cese, adquisición de derecho, hecho generador, plazos SICAM, prescripción, solicitud).",
+    "Los casos específicos de error en la liquidación (aumentos, período de servicios, categoría autónomos, relación de dependencia, remuneraciones, aportes mixtos, descuentos moratoria).",
+    "Los casos de recálculo del haber inicial, movilidad o topes invocando fallo judicial.",
+    "El plazo de tiempo para realizar el reclamo.",
+    "La dirección exacta de las oficinas de ANSES."
+  ]
+}

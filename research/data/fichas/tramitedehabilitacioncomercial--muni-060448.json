@@ -1,0 +1,112 @@
+{
+  "tramite": {
+    "slug": "habilitacion-comercial",
+    "nombre": "Habilitación comercial",
+    "nombre_busqueda": "Habilitación comercial",
+    "resumen": "Para habilitar una actividad comercial en Laprida, necesitás presentar documentación específica en la Oficina de Tasas del Palacio Municipal y pagar una tasa.",
+    "sinonimos": [],
+    "temas": [
+      "comercio-e-industria",
+      "tasa-de-comercio-e-industria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060448",
+  "organismo": {
+    "nombre": "Municipalidad de Laprida",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de la actividad comercial."
+    ],
+    "requisitos": [
+      {
+        "texto": "Planilla de habilitación completa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de DNI del titular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del contrato de alquiler (en caso de corresponder).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de un servicio del edificio a habilitar (agua, luz, gas).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción en AFIP.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción en ARBA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del contrato de sociedad (en caso de corresponder).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de la oblea de matafuego.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Dirigite a la Oficina de Tasas, ubicada en el Palacio Municipal."
+      },
+      {
+        "texto": "Presentá la documentación requerida."
+      },
+      {
+        "texto": "Pagá la tasa correspondiente."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 2230000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.laprida.gov.ar/index.php/contenido/p/tramitedehabilitacioncomercial"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Tasas",
+      "direccion": "Av. San Martín 1160",
+      "localidad": "Av. San Martín 1160",
+      "horario": null,
+      "fuente_url": "https://www.laprida.gov.ar/index.php/contenido/p/tramitedehabilitacioncomercial"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.laprida.gov.ar/index.php/contenido/p/tramitedehabilitacioncomercial",
+      "titulo": "Municipalidad de Laprida",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T13:35:09.506Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el plazo de tramitación.",
+    "No se especifica si se requiere turno."
+  ]
+}

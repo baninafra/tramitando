@@ -1,0 +1,130 @@
+{
+  "tramite": {
+    "slug": "licencia-de-conducir",
+    "nombre": "Licencia de conducir",
+    "nombre_busqueda": "sacar o renovar la licencia de conducir",
+    "resumen": "Iniciá el trámite en persona en el espacio de Avellaneda y Rivadavia, en la terminal de ómnibus. Allí se realizan los estudios y el pago de sellados.",
+    "sinonimos": [
+      "sacar el registro",
+      "renovar la licencia de conducir"
+    ],
+    "temas": [
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060385",
+  "organismo": {
+    "nombre": "Municipalidad de General Viamonte",
+    "sigla": null,
+    "web": "https://www.generalviamonte.gob.ar/licencias"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Tenés que saber leer y escribir.",
+      "Tenés que estar habilitado para la clase de licencia que vas a solicitar."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original actualizado y con domicilio actualizado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Aprobá el examen teórico-práctico.",
+        "aclaracion": "Si solicitás una licencia original."
+      },
+      {
+        "texto": "Asistí a la charla obligatoria sobre concientización de manejo.",
+        "aclaracion": "Para todos los trámites."
+      },
+      {
+        "texto": "Autorización de ambos padres o tutores, tramitada en el Juzgado de Paz o ante escribano público.",
+        "aclaracion": "Si tenés 16 o 17 años."
+      },
+      {
+        "texto": "Llevá dos distintivos que indiquen que sos principiante.",
+        "aclaracion": "Si sos conductor principiante."
+      },
+      {
+        "texto": "Certificado de legalidad del municipio que emitió la licencia que vas a reemplazar.",
+        "aclaracion": "Si reemplazás una licencia por cambio de domicilio desde otra jurisdicción."
+      },
+      {
+        "texto": "Denuncia de extravío o denuncia por robo.",
+        "aclaracion": "Si solicitás un duplicado."
+      },
+      {
+        "texto": "Licencia de conducir.",
+        "aclaracion": "Si solicitás una renovación, ampliación o reemplazo."
+      },
+      {
+        "texto": "Conocé tu grupo sanguíneo.",
+        "aclaracion": "Si solicitás una licencia original."
+      },
+      {
+        "texto": "Número de CUIL o CUIT.",
+        "aclaracion": "Si solicitás una licencia original."
+      },
+      {
+        "texto": "Número de celular o correo electrónico.",
+        "aclaracion": "Si solicitás una licencia original."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en persona en el espacio de Avellaneda y Rivadavia, en la terminal de ómnibus."
+      },
+      {
+        "texto": "Presentá tu DNI original actualizado y con domicilio actualizado."
+      },
+      {
+        "texto": "Realizá los estudios en el mismo espacio."
+      },
+      {
+        "texto": "Pagá los sellados en el mismo espacio."
+      },
+      {
+        "texto": "Rendí el examen teórico-práctico si solicitás una licencia original."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La vigencia de la licencia depende de tu edad y de la clase solicitada.",
+      "Si sos principiante, no podés conducir en zona céntrica ni en rutas, semiautopistas o autopistas durante seis meses."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Licencias",
+      "direccion": "Avellaneda y Rivadavia, terminal de ómnibus",
+      "localidad": "Avellaneda y Rivadavia, terminal de ómnibus",
+      "horario": null,
+      "fuente_url": "https://www.generalviamonte.gob.ar/licencias"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.generalviamonte.gob.ar/licencias",
+      "titulo": "Licencia de Conducir | Municipalidad de General Viamonte",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T13:39:12.542Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa el monto de los sellados.",
+    "No se informa el plazo para completar el trámite.",
+    "No se indica si hace falta sacar turno.",
+    "No se precisa qué estudios médicos corresponden.",
+    "No se indica una fecha exacta de vigencia de los requisitos."
+  ]
+}

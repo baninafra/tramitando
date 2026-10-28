@@ -1,0 +1,85 @@
+{
+  "tramite": {
+    "slug": "cambiar-medio-de-cobro-asignaciones",
+    "nombre": "Cambiar de medio de cobro para asignaciones",
+    "nombre_busqueda": "cambiar medio de cobro asignaciones",
+    "resumen": "Podés elegir dónde cobrar tu asignación por internet sin acercarte a una oficina. Es gratis y tenés que tener Clave de la Seguridad Social y datos de contacto verificados.",
+    "sinonimos": [
+      "cambiar lugar de cobro asignaciones",
+      "cambiar medio de cobro anses"
+    ],
+    "temas": [
+      "familia-y-pareja"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANSES",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de asignaciones universales o familiares que deseen cambiar el medio de cobro de su prestación."
+    ],
+    "requisitos": [
+      {
+        "texto": "Clave de la Seguridad Social",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos de contacto (celular y correo electrónico) actualizados y verificados en mi ANSES",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a mi ANSES."
+      },
+      {
+        "texto": "Confirmá que tus datos personales y de contacto estén actualizados y verificados."
+      },
+      {
+        "texto": "Vas a recibir un código de validación por correo electrónico o a tu celular (SMS)."
+      },
+      {
+        "texto": "Ingresá en Cobros > Cambiar lugar de cobro Asignaciones Familiares."
+      },
+      {
+        "texto": "Elegí si querés cobrar por: Acreditación en cuenta (vas a necesitar tu CBU), Billetera virtual o Sucursal bancaria (tenés que elegir banco y sucursal)."
+      },
+      {
+        "texto": "Seguí los pasos para confirmar el cambio de medio de cobro."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "hasta 60 días",
+    "consejos": [
+      "Si vivís en una zona austral y elegís billetera virtual o CBU, vas a dejar de cobrar el diferencial por zona."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/cambiar-de-medio-de-cobro-para-asignaciones",
+      "titulo": "Cambiar de medio de cobro para asignaciones | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T15:03:37.877Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica si el trámite requiere turno ni dónde se puede realizar presencialmente."
+  ]
+}

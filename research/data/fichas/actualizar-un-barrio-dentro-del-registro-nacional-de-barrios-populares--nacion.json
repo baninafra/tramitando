@@ -1,0 +1,89 @@
+{
+  "tramite": {
+    "slug": "actualizar-barrio-registro-nacional-barrios-populares",
+    "nombre": "Actualizar un barrio dentro del Registro Nacional de Barrios Populares",
+    "nombre_busqueda": "Actualizar barrio RENABAP",
+    "resumen": "Si sos parte de un gobierno provincial o municipal, integrás una organización social o comunitaria, podés solicitar los datos de uno ya inscripto para actualizar registros existentes.",
+    "sinonimos": [],
+    "temas": [
+      "vivienda-y-servicios-del-hogar"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Gobiernos provinciales",
+      "Municipios",
+      "Organizaciones sociales",
+      "Organizaciones comunitarias",
+      "Ciudadanos"
+    ],
+    "requisitos": [
+      {
+        "texto": "Nombre del barrio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ubicación: Provincia, Departamento/Partido, Localidad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Año/Década de conformación",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cantidad de familias que lo habitan",
+        "aclaracion": null
+      },
+      {
+        "texto": "Forma de acceso a servicios básicos (energía eléctrica, agua corriente y gas)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si hay familias que cuentan con título de propiedad en el barrio informado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si la tierra donde el barrio se localiza es estatal o privada",
+        "aclaracion": null
+      },
+      {
+        "texto": "Límites de la superficie del barrio popular",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Una vez enviada la información necesaria se realizará una revisión técnica y territorial."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/actualizar-un-barrio-dentro-del-registro-nacional-de-barrios-populares",
+      "titulo": "Actualizar un barrio dentro del Registro Nacional de Barrios Populares | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T04:22:20.603Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo de respuesta no está especificado en el texto."
+  ]
+}

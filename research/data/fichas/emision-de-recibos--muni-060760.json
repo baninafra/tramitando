@@ -1,0 +1,75 @@
+{
+  "tramite": {
+    "slug": "emision-de-recibos",
+    "nombre": "Emisión de recibos",
+    "nombre_busqueda": "Emisión de recibos",
+    "resumen": "Obtén el recibo de pagos ingresando al Portal de Pagos con el número de la partida municipal.",
+    "sinonimos": [],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "planes-de-pago-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060760",
+  "organismo": {
+    "nombre": "Municipalidad San Miguel",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en abonar una cuota vigente."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nº de la Partida Municipal que se desea abonar.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al Portal de Pagos y realizá los pasos correspondientes."
+      },
+      {
+        "texto": "Si se trata de la cuota vigente, podés imprimirla desde el Portal de Pagos y proceder a abonarla dentro del mismo."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.msm.gov.ar/guia-tramites/economia-finanzas/emision-de-recibos/",
+      "titulo": "Emisión de Recibos - Municipalidad San Miguel",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T13:21:54.570Z"
+    },
+    {
+      "url": "https://autogestion.msm.gov.ar//",
+      "titulo": "Portal de pagos - Municipalidad de San Miguel",
+      "bloques": [
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T13:21:54.570Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horarios de atención del Portal de Pagos.",
+    "Dirección física de oficinas para trámites presenciales."
+  ]
+}

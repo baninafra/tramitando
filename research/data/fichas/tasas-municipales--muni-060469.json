@@ -1,0 +1,74 @@
+{
+  "tramite": {
+    "slug": "tasas-municipales",
+    "nombre": "Tasas municipales",
+    "nombre_busqueda": "pagar tasas municipales en Lincoln",
+    "resumen": "Consultá las tasas municipales y accedé a opciones para pagar. Podés pedir la boleta o el comprobante de libre deuda por WhatsApp o por correo electrónico.",
+    "sinonimos": [
+      "pago de tasas municipales"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060469",
+  "organismo": {
+    "nombre": "Municipalidad de Lincoln",
+    "sigla": null,
+    "web": "https://lincoln.gob.ar/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "La página ofrece acceso a la consulta y al pago de tasas municipales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Boleta de tasas municipales para pagar las tasas.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Accedé a MI LINCOLN para consultar las tasas."
+      },
+      {
+        "texto": "Adherite a la factura electrónica desde MI LINCOLN, si querés recibirla por ese medio."
+      },
+      {
+        "texto": "Presentá tu declaración jurada desde MI LINCOLN, si corresponde."
+      },
+      {
+        "texto": "Pagá en alguno de los medios indicados o adherí al pago de servicios desde Banca Internet Provincia."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "También podés pedir el comprobante de libre deuda por WhatsApp o por correo electrónico.",
+      "Los lugares de pago indicados son Banco de la Provincia de Buenos Aires, BIP, Link Pagos, Provincia Net, Red Banelco, Red Link, Rapipago, Pago Fácil, Pronto Pago, Centro Comercio e Industrias de Lincoln y PagoMisCuentas."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://lincoln.gob.ar/tramites/tasas-municipales",
+      "titulo": "Tasas Municipales · Municipalidad de Lincoln",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:43:26.416Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La página no especifica quiénes pueden hacer el trámite ni qué documentación se requiere; la boleta se menciona como un medio para pagar.",
+    "No se informa el monto de las tasas."
+  ]
+}

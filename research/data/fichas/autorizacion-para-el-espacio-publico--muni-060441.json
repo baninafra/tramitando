@@ -1,0 +1,102 @@
+{
+  "tramite": {
+    "slug": "autorizacion-uso-espacio-publico-mesas-sillas",
+    "nombre": "Autorización para usar el espacio público con mesas y sillas",
+    "nombre_busqueda": "permiso para poner mesas y sillas en la vereda",
+    "resumen": "Podés solicitar autorización para instalar mesas y sillas removibles en la vereda si tu comercio está entre los rubros autorizados y tiene una habilitación vigente.",
+    "sinonimos": [
+      "permiso para ocupar la vereda",
+      "autorización para mesas y sillas"
+    ],
+    "temas": [
+      "cortes-y-uso-de-la-via-publica"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060441",
+  "organismo": {
+    "nombre": "Dirección de Habilitaciones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés solicitarlo si tenés un comercio de los rubros autorizados, como bares, restaurantes, heladerías, cafés, confiterías y comercios similares, y contás con una habilitación vigente."
+    ],
+    "requisitos": [
+      {
+        "texto": "Croquis con la disposición de las mesas y sillas en la vereda.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del certificado de habilitación vigente.",
+        "aclaracion": "Si iniciás el trámite por separado de la habilitación."
+      },
+      {
+        "texto": "Constancia de inscripción en ARCA.",
+        "aclaracion": "Si iniciás el trámite por separado de la habilitación."
+      },
+      {
+        "texto": "Fotocopia del frente y dorso del DNI de la persona titular del comercio o representante.",
+        "aclaracion": "Si iniciás el trámite por separado de la habilitación."
+      },
+      {
+        "texto": "Poder certificado por escribano público.",
+        "aclaracion": "Si iniciás el trámite por separado de la habilitación y lo hacés mediante apoderado."
+      },
+      {
+        "texto": "Contrato constitutivo o estatuto.",
+        "aclaracion": "Si iniciás el trámite por separado de la habilitación y se trata de una sociedad."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la solicitud en la ventanilla de la Dirección de Habilitaciones del CAM, junto con el trámite de habilitación o después, con la documentación correspondiente."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La autorización solo permite mesas y sillas u otros asientos removibles. No se autorizan estructuras fijas."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Centro Administrativo Municipal",
+      "direccion": "Diagonal 80 N° 942 esquina 48",
+      "localidad": "La Plata",
+      "horario": null,
+      "fuente_url": "https://tramites.laplata.gob.ar/comercio/autorizacion-para-el-espacio-publico.html"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://tramites.laplata.gob.ar/comercio/autorizacion-para-el-espacio-publico.html",
+      "titulo": "Comercio - Municipalidad de La Plata",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:13:57.900Z"
+    },
+    {
+      "url": "https://cam.laplata.gob.ar/index.html",
+      "titulo": "Centro Administrativo Municipal",
+      "bloques": [
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T14:13:57.900Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa el costo del trámite.",
+    "No se informa el plazo de resolución.",
+    "No se especifica si hace falta sacar turno."
+  ]
+}

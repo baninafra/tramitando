@@ -1,0 +1,111 @@
+{
+  "tramite": {
+    "slug": "verificar-origen-productos-importados",
+    "nombre": "Verificar el origen de productos importados",
+    "nombre_busqueda": "Verificar origen productos importados",
+    "resumen": "Solicitá una investigación sobre el origen de tu mercadería importada si tenés dudas. Es un trámite gratuito que requiere Trámites a Distancia (TAD) de AFIP o una presentación presencial en el Ministerio de Producción.",
+    "sinonimos": [
+      "Investigación de origen mercadería",
+      "Origen productos importados"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Economía",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Ser una dependencia gubernamental, una empresa productora o importadora, o un organismo público"
+    ],
+    "requisitos": [
+      {
+        "texto": "Fundamentar la duda sobre el producto a investigar",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contar con Trámites a Distancia (TAD) asociado a AFIP",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD (Trámites a Distancia)."
+      },
+      {
+        "texto": "Si no estás adherido al servicio, entrá para saber cómo hacerlo."
+      },
+      {
+        "texto": "En la sección Nuevo Trámite seleccioná 'Solicitud de investigación de origen no preferencial' y completá los pasos del proceso."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Llamá al (011) 4349 3902 o comunicate a origenmer@mecon.gob.ar para asesorarte."
+      },
+      {
+        "texto": "En el caso de que tu reclamo sea válido, vas a recibir un Modelo de Solicitud de Investigación por correo electrónico para que imprimas y completes."
+      },
+      {
+        "texto": "Entregalo en Mesa de Entradas del Ministerio de Producción, en Av. Julio A. Roca 651, planta baja, CABA."
+      },
+      {
+        "texto": "Vas a obtener un número de expediente para poder seguir el caso."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Mesa de Entradas del Ministerio de Producción",
+      "direccion": "Av. Julio A. Roca 651, planta baja",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/verificar-el-origen-de-productos-importados"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/verificar-el-origen-de-productos-importados",
+      "titulo": "Verificar el origen de productos importados | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T18:44:35.830Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/produccion/consulta-verificar-el-origen-de-productos-importados",
+      "titulo": "Envianos tu consulta sobre el trámite de verificar el origen de productos importados | Argentina.gob.ar",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T18:44:35.830Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T18:44:35.830Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La vigencia del trámite se indica como anual, pero no hay una fecha exacta de inicio o fin.",
+    "No se especifica si el trámite requiere turno para la presentación presencial."
+  ]
+}

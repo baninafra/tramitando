@@ -1,0 +1,148 @@
+{
+  "tramite": {
+    "slug": "registro-de-obra-multimedia",
+    "nombre": "Registrar una obra multimedia",
+    "nombre_busqueda": "Registrar obra multimedia DNDA",
+    "resumen": "Trámite obligatorio para autores y editores de obras multimedia para proteger derechos. Requiere pago de tasa y envío de la obra física o carga digital.",
+    "sinonimos": [
+      "Inscripción de obra publicada multimedia",
+      "Registro de obra multimedia"
+    ],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional del Derecho de Autor",
+    "sigla": "DNDA",
+    "web": "https://www.argentina.gob.ar/servicio/registrar-una-obra-multimedia"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Autores/as y editores/as multimedia"
+    ],
+    "requisitos": [
+      {
+        "texto": "Comprobante de pago del trámite por depósito o transferencia bancaria de 3800 al Fondo Cooperador Ley 23.412 DNDA-CAL",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago de la tasa por depósito o transferencia bancaria al Fondo Nacional de las Artes",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ejemplares de la obra según tirada y editorial",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cuadro de catalogación con mención de autor, editor, número de edición, lugar y fecha de edición, y N° de ISBN",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos a proporcionar de los autores: nombre completo o seudónimo, N° de cuil/cuit/cdi o Pasaporte",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos a proporcionar de los titulares: nombre completo o razón social, N° de cuil/cuit/cdi o Pasaporte, nacionalidad, estado civil, correo electrónico, teléfono, domicilio y porcentaje de titularidad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que acredite vínculo y Constancia de CUIT, CUIL o CDI del menor si el autor es menor de edad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de defunción si el autor fallecido",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estatuto y última designación de autoridades si el titular es persona jurídica",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización privada del autor, firmada y certificada ante autoridad bancaria, judicial, policial o Escribano Público, o carta poder concedida por el autor ante Escribano Público",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de cuil/cuit/cdi o Pasaporte del autor o titular",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD Inscripción de obra publicada – Multimedia e iniciá el trámite"
+      },
+      {
+        "texto": "Completá los datos requeridos"
+      },
+      {
+        "texto": "Subí la documentación obligatoria y complementaria"
+      },
+      {
+        "texto": "El sistema te otorgará un número de expediente electrónico, anotalo y tenelo presente para cualquier consulta posterior en la DNDA"
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Si elegiste la opción Modo de Depósito Digital NO, presentá o enviá la obra y la impresión de los tres archivos descargados (datos de la obra a registrar, carátula variable y carátulas del expediente) a la Dirección Nacional del Derecho de Autor Sede Central"
+      },
+      {
+        "texto": "Si elegiste la opción Modo de Depósito Digital SI, seguí el procedimiento detallado en la comunicación recibida para la carga digital de la obra"
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El trámite no estará concluido hasta que no se haya enviado a la DNDA la obra con los archivos correspondientes"
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 380000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/registrar-una-obra-multimedia"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 41100,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/registrar-una-obra-multimedia"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional del Derecho de Autor",
+      "direccion": "Sede Central",
+      "localidad": "Sede Central",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/registrar-una-obra-multimedia"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/registrar-una-obra-multimedia",
+      "titulo": "Registrar una obra multimedia | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T03:26:59.850Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Fecha de vigencia del trámite",
+    "Direcciones exactas de sucursales o oficinas alternativas"
+  ]
+}

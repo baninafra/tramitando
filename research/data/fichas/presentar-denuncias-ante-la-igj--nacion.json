@@ -1,0 +1,116 @@
+{
+  "tramite": {
+    "slug": "presentar-denuncias-ante-la-igj",
+    "nombre": "Presentar denuncias ante la IGJ",
+    "nombre_busqueda": "Presentar denuncias ante la IGJ",
+    "resumen": "Para presentar una denuncia ante la Inspección General de Justicia necesitás completar un formulario, firmar con patrocinio letrado y llevar toda la documentación acompañada al domicilio de la entidad denunciada.",
+    "sinonimos": [],
+    "temas": [
+      "seguridad-y-denuncias",
+      "denuncias-anonimas-y-policiales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Socio, asociado, fundador, integrante de órgano de administración o fiscalización de la entidad denunciada."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de denuncias completado y abonado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Escrito de presentación con nombre, apellido y domicilio real y constituido del denunciante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditación de la condición personal del denunciante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombre social, sede social y datos de inscripción de la entidad denunciada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombres de los integrantes de los órganos de administración y fiscalización o del representante a cuya actuación se hace extensiva la denuncia, con su domicilio real y especial constituido.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Relación circunstanciada del hecho denunciado con las razones que la fundamentan.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ofrecimiento de prueba con la totalidad de la documental y de la instrumental del caso.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Firma del denunciante con patrocinio letrado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copias del escrito de denuncia y de la restante documentación acompañada.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Completá el formulario y acompañalo con toda la documentación indicada."
+      },
+      {
+        "texto": "Presentá el formulario del trámite y toda la documentación en la Mesa General de Entradas de la Inspección General de Justicia, Av. Paseo Colón 291."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Podés seguir el estado del trámite ingresando en el sistema Estado de trámites y vistas.",
+      "Si tenés alguna consulta o reclamo podés escribir a la Inspección General de Justicia."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Mesa General de Entradas de la Inspección General de Justicia",
+      "direccion": "Av. Paseo Colón 291",
+      "localidad": "Av. Paseo Colón 291",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/presentar-denuncias-ante-la-igj"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/presentar-denuncias-ante-la-igj",
+      "titulo": "Presentar denuncias ante la IGJ | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T01:04:28.045Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T01:04:28.045Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia no se especifica en el texto, solo se menciona que los contenidos están en proceso de actualización de acuerdo a la normativa vigente."
+  ]
+}

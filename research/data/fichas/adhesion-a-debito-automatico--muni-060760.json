@@ -1,0 +1,72 @@
+{
+  "tramite": {
+    "slug": "adhesion-a-debito-automatico",
+    "nombre": "Adhesión a Débito Automático",
+    "nombre_busqueda": "Adherir a débito automático",
+    "resumen": "Para adherir a la cobranza automática de tasas municipales, necesitás la partida municipal, el DNI y una tarjeta de crédito.",
+    "sinonimos": [
+      "Adherir a débito automático",
+      "Adherir a débito automático municipal"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060760",
+  "organismo": {
+    "nombre": "Municipalidad de San Miguel",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de la partida municipal o del rodado que se desea adherir."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nº de la Partida Municipal y/o dominio del rodado que se desea adherir.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del titular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tarjeta de crédito (Visa o Mastercard).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al Portal de Pagos con tu usuario y clave web."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.msm.gov.ar/guia-tramites/economia-finanzas/adhesion-a-debito-automatico/",
+      "titulo": "Adhesión a Débito Automático - Municipalidad San Miguel",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T13:03:25.993Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos de tasas ni costos asociados al trámite.",
+    "No se especifica el plazo de tiempo para completar el trámite.",
+    "No se especifica si se requiere turno para realizar el trámite."
+  ]
+}

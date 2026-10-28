@@ -1,0 +1,119 @@
+{
+  "tramite": {
+    "slug": "cambio-de-material",
+    "nombre": "Cambio de material",
+    "nombre_busqueda": "Cambio de material vehiculo",
+    "resumen": "Dirijite a la oficina de transporte con el vehiculo nuevo y la documentacion vigente para realizar la inspeccion tecnica y el pago de la tasa.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias",
+      "cedula-del-vehiculo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060760",
+  "organismo": {
+    "nombre": "Municipalidad San Miguel",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titular del vehiculo o chofer"
+    ],
+    "requisitos": [
+      {
+        "texto": "Documentacion del vehiculo nuevo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentacion vigente del vehiculo anterior",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentacion del titular",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentacion del chofer",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Dirijite a la oficina de transporte, ubicada en Italia y las vias del FF.CC. San Martin, con toda la documentacion requerida vigente del vehiculo (tambien del titular y del chofer si estuviere desactualizada)."
+      },
+      {
+        "texto": "Concurrite con el nuevo vehiculo a habilitar."
+      },
+      {
+        "texto": "Complete una Planilla de Cambio de Material con los datos del vehiculo que se da de baja y del que se esta presentando para habilitar."
+      },
+      {
+        "texto": "Realice la Inspeccion Tecnica Municipal del nuevo vehiculo a habilitar."
+      },
+      {
+        "texto": "Reciba la boleta de pago de Cambio de Material generada con la Orden de Emision de Recibo."
+      },
+      {
+        "texto": "Dirijite a las cajas municipales (ubicadas en planta baja del Palacio Municipal), a un Rapipago o a un Pago Facil para abonar la boleta."
+      },
+      {
+        "texto": "Regrese a la Oficina de Transporte y presente el original del pago efectuado."
+      },
+      {
+        "texto": "Espera la comunicacion telefonica cuando debe regresar a la Oficina a retirar la Credencial vehicular de Habilitacion."
+      },
+      {
+        "texto": "Acercese con el vehiculo para que el personal fije los Logos Identificatorios."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "72 horas",
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 43560,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.msm.gov.ar/guia-tramites/transito-y-transporte/cambio-de-material-2/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Transporte",
+      "direccion": "Italia y las vias del FF.CC. San Martin",
+      "localidad": "Italia y las vias del FF.CC. San Martin",
+      "horario": null,
+      "fuente_url": "https://www.msm.gov.ar/guia-tramites/transito-y-transporte/cambio-de-material-2/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.msm.gov.ar/guia-tramites/transito-y-transporte/cambio-de-material-2/",
+      "titulo": "Cambio de Material - Municipalidad San Miguel",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T14:20:24.791Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horarios de atención de las cajas municipales o Rapipago/Pago Facil",
+    "Actividades especificas permitidas para cada tipo de vehiculo (Transporte escolar, Coche escuela, Remis, Taxi o Transporte para personas con movilidad reducida)",
+    "Vigencia de la habilitacion del vehiculo anterior",
+    "Numero de interno del vehiculo anterior para fijar los Logos Identificatorios"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-certificado-para-presentar-en-el-extranjero",
+    "nombre": "Solicitud de certificado para presentar en el extranjero",
+    "nombre_busqueda": "Solicitud de certificado para presentar en el extranjero",
+    "resumen": "Es el trámite por el cual se obtiene el duplicado del certificado de inscripción de especialidades médicas, odontológicas, de enfermería, psicólogos, terapeutas ocupacionales, musicoterapeutas, fonoaudiólogos y kinesiología para poder anunciarse como tales.",
+    "sinonimos": [
+      "Duplicado de certificado de especialista",
+      "Certificado de especialista duplicado"
+    ],
+    "temas": [
+      "certificados-personales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Salud de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Aquellos profesionales que hayan obtenido el Certificado de Especialista otorgado por el Ministerio de Salud de la Nación."
+    ],
+    "requisitos": [
+      {
+        "texto": "Completar la DECLARACION JURADA online en TAD.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Matrícula Nacional vigente (anverso y reverso).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Denuncia de Robo o extravío del Certificado de Especialista.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar al TAD, Solicitud de duplicado/Solicitud de certificado para presentar en el extranjero, con clave fiscal."
+      },
+      {
+        "texto": "Completar la DECLARACION JURADA online en TAD."
+      },
+      {
+        "texto": "Subí la documentación requerida."
+      },
+      {
+        "texto": "Generá un expediente con el código asignado."
+      },
+      {
+        "texto": "El área de Especialistas analizará la documentación presentada."
+      },
+      {
+        "texto": "Recibí una notificación vía TAD con el lugar, fecha y horario de continuidad del trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitud-de-certificado-para-presentar-en-el-extranjero",
+      "titulo": "Solicitud de certificado para presentar en el extranjero | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T23:48:24.896Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se indica que se generará un expediente, pero no se especifica el plazo de análisis ni de entrega.",
+    "No se especifica si se requiere turno para la entrega o retiro del certificado."
+  ]
+}

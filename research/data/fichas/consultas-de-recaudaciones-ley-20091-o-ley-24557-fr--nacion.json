@@ -1,0 +1,77 @@
+{
+  "tramite": {
+    "slug": "consultas-de-recaudaciones-ley-20091-o-ley-24557-fr",
+    "nombre": "Consultas de recaudaciones LEY 20091 o LEY 24557 FR",
+    "nombre_busqueda": "Consultas de recaudaciones LEY 20091 o LEY 24557 FR",
+    "resumen": "Las entidades aseguradoras pueden presentar consultas o reclamos sobre las declaraciones juradas y pagos de la Tasa Uniforme, el Aporte Bomberil y la Contribución a la ANSV mediante el sistema TAD.",
+    "sinonimos": [
+      "Consultas LEY 20091",
+      "Consultas LEY 24557",
+      "Consultas recaudaciones SSN"
+    ],
+    "temas": [
+      "cuil-y-clave-de-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Seguros de la Nación",
+    "sigla": "SSN",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Entidades Aseguradoras"
+    ],
+    "requisitos": [
+      {
+        "texto": "Usuario de acceso a Trámites a Distancia (TAD) como apoderado para trámites",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de elevación y detalle de rubros con Firma de Presidente o Apoderado Legal (recomendado en formato .pdf)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD"
+      },
+      {
+        "texto": "Operá como apoderado de la entidad a la que representás"
+      },
+      {
+        "texto": "Adjuntá la documentación que correspondan a la presentación, de acuerdo a lo solicitado en el trámite"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El sistema generará un número de expediente ante la SSN",
+      "El organismo analizará la información presentada y ante una observación se comunicará sobre ello"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consultas-de-recaudaciones-ley-20091-o-ley-24557-fr",
+      "titulo": "Consultas de recaudaciones LEY 20091 o LEY 24557 FR | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T05:41:17.733Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La página no especifica si el trámite requiere turno ni dónde se debe acudir presencialmente"
+  ]
+}

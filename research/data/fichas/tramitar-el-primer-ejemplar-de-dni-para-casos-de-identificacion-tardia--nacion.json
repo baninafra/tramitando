@@ -1,0 +1,83 @@
+{
+  "tramite": {
+    "slug": "tramitar-el-primer-ejemplar-de-dni-para-casos-de-identificacion-tardia",
+    "nombre": "Tramitar el primer ejemplar de DNI para casos de identificación tardia",
+    "nombre_busqueda": "primer ejemplar dni tardia",
+    "resumen": "Si naciste antes de 1968 y tenés la partida de nacimiento, podés solicitar tu primer ejemplar de DNI en un Registro Civil o Centro de Documentación Renaper. El trámite es gratuito y tenés que presentarlo con los DNI de los progenitores.",
+    "sinonimos": [
+      "primer ejemplar de DNI",
+      "DNI para inscripción tardia",
+      "DNI para nacidos antes de 1968"
+    ],
+    "temas": [
+      "dni"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Renaper",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Todas las personas nacidas antes del año 1968 que tramitaron la inscripción tardía y ya tienen la partida de nacimiento."
+    ],
+    "requisitos": [
+      {
+        "texto": "Copia certificada de la partida de nacimiento con o sin oblea, con sello y firma del oficial público en tinta o extendida con firma digital.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de nacimiento original con o sin oblea o número manuscrito, con firma del oficial público o extendida digitalmente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI vigente de ambos progenitores.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Elegí un Registro Civil cercano o sacá turno para un Centro de Documentación Renaper en la app Mi Argentina."
+      },
+      {
+        "texto": "Guardá la constancia de solicitud de trámite y hacé el seguimiento online con tu ID desde aquí."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en la oficina elegida con la constancia de turno."
+      },
+      {
+        "texto": "Retiralo en la oficina con la constancia de solicitud de trámite."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tramitar-el-primer-ejemplar-de-dni-para-casos-de-identificacion-tardia",
+      "titulo": "Tramitar el primer ejemplar de DNI para casos de identificación tardía | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T18:07:49.335Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el plazo de vigencia del trámite.",
+    "No se especifica la dirección de las oficinas ni la localidad."
+  ]
+}

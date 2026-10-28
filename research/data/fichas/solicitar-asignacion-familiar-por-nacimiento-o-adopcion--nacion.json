@@ -1,0 +1,124 @@
+{
+  "tramite": {
+    "slug": "solicitar-asignacion-familiar-por-nacimiento-o-adopcion",
+    "nombre": "Solicitar Asignación Familiar por Nacimiento o Adopción",
+    "nombre_busqueda": "Asignación familiar nacimiento adopción ANSES",
+    "resumen": "Podés recibir el pago extraordinario que realiza la ANSES por nacimiento o adopción de un hijo. Se abona a uno solo de los progenitores.",
+    "sinonimos": [
+      "Pago extraordinario nacimiento",
+      "Pago extraordinario adopción"
+    ],
+    "temas": [
+      "familia-y-pareja"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANSES",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que trabajen en relación de dependencia",
+      "Personas que se encuentren cobrando por una Aseguradora de Riesgos del Trabajo (ART)",
+      "Personas trabajadoras por temporada",
+      "Personas trabajadoras rurales",
+      "Personas que cobren la Prestación por Desempleo",
+      "Personas que cobren la Pensión Honorífica de Veteranos de Guerra",
+      "Personas que cobren o hayan cobrado la Asignación Universal por Hijo, Hijo con Discapacidad o Asignación por Embarazo"
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI de las madres y/o padres",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del hijo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Partida de nacimiento del hijo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Sentencia de adopción, en caso de corresponder",
+        "aclaracion": null
+      },
+      {
+        "texto": "En el caso de nacimiento, el niño debe tener entre 2 meses y 2 años",
+        "aclaracion": null
+      },
+      {
+        "texto": "En el caso de adopción, el trámite debe realizarse dentro de los 2 meses y 2 años de dictada la sentencia",
+        "aclaracion": null
+      },
+      {
+        "texto": "En el caso de Asignación Universal por Hijo, por Hijo con Discapacidad o Asignación por Embarazo, haber tenido derecho al cobro a alguna de esas asignaciones durante el mes del nacimiento o adopción",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tus ingresos individuales y de tu grupo familiar no deben superar los topes máximos vigentes al momento del nacimiento o fecha de la sentencia de adopción",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Revisá si tus datos personales y vínculos familiares están actualizados en mi ANSES"
+      },
+      {
+        "texto": "Reuní la documentación correspondiente"
+      },
+      {
+        "texto": "Ingresá en Atención Virtual con tu CUIL y Clave de la Seguridad Social"
+      },
+      {
+        "texto": "Seleccioná la opción Pago único por matrimonio, nacimiento o adopción"
+      },
+      {
+        "texto": "Seguí los pasos"
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Realizá el trámite en una oficina de ANSES con turno previo"
+      },
+      {
+        "texto": "Llevá toda la documentación necesaria"
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-asignacion-familiar-por-nacimiento-o-adopcion",
+      "titulo": "Solicitar Asignación Familiar por Nacimiento o Adopción | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T04:50:25.065Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T04:50:25.065Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite",
+    "La URL para sacar el turno"
+  ]
+}

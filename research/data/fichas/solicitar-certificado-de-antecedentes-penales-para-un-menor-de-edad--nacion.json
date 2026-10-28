@@ -1,0 +1,173 @@
+{
+  "tramite": {
+    "slug": "certificado-antecedentes-penales-menor",
+    "nombre": "Solicitar certificado de antecedentes penales para un menor de edad",
+    "nombre_busqueda": "certificado de antecedentes penales para menores",
+    "resumen": "Si tenés 16 o 17 años y DNI argentino, podés tramitar el certificado con uno de tus padres o tu tutor. Si no hay una sede cerca o estás a más de 100 km de una, podés gestionarlo por correo electrónico.",
+    "sinonimos": [
+      "CAP para menores"
+    ],
+    "temas": [
+      "antecedentes-penales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro Nacional de Reincidencia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas de 16 o 17 años con DNI argentino."
+    ],
+    "requisitos": [
+      {
+        "texto": "Partida de nacimiento o libreta de matrimonio de tus padres.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cuenta de correo electrónico a tu nombre para recibir el certificado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI de tu padre, madre o tutor acompañante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Instrumento legal que acredite la tutela.",
+        "aclaracion": "Si te acompaña tu tutor."
+      },
+      {
+        "texto": "Foto de tu documento.",
+        "aclaracion": "Si hacés el trámite por correo electrónico y te autoriza tu padre o madre."
+      },
+      {
+        "texto": "Foto del documento de tu padre o madre.",
+        "aclaracion": "Si hacés el trámite por correo electrónico y te autoriza tu padre o madre."
+      },
+      {
+        "texto": "Foto de la partida de nacimiento o libreta de matrimonio de tus padres.",
+        "aclaracion": "Si hacés el trámite por correo electrónico y te autoriza tu padre o madre."
+      },
+      {
+        "texto": "Autorización de tu padre o madre para hacer el trámite, con su firma, aclaración y número de documento de identidad, pasaporte o cédula.",
+        "aclaracion": "Si hacés el trámite por correo electrónico y te autoriza tu padre o madre."
+      },
+      {
+        "texto": "Foto del instrumento legal que acredite la tutela, certificado por autoridad competente.",
+        "aclaracion": "Si hacés el trámite por correo electrónico y te autoriza tu tutor."
+      },
+      {
+        "texto": "Foto del documento, pasaporte o cédula del tutor que figura en el instrumento legal.",
+        "aclaracion": "Si hacés el trámite por correo electrónico y te autoriza tu tutor."
+      },
+      {
+        "texto": "Autorización de tu tutor para hacer el trámite, con su firma, aclaración y número de documento de identidad, pasaporte o cédula.",
+        "aclaracion": "Si hacés el trámite por correo electrónico y te autoriza tu tutor."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Enviá la documentación requerida a legales-usuario@dnrec.jus.gov.ar si en tu provincia no hay una sede disponible o estás a más de 100 km de una."
+      },
+      {
+        "texto": "Esperá a que verifiquen la documentación y te envíen por correo electrónico un ticket de pago."
+      },
+      {
+        "texto": "Pagá el certificado con el ticket recibido."
+      },
+      {
+        "texto": "Revisá tu correo: cuando se cumpla el plazo de tramitación desde que se acredite el pago, vas a recibir un vínculo para descargar el certificado."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Ingresá a la turnera del Registro Nacional de Reincidencia, elegí el país y, si el trámite es en Argentina, la provincia."
+      },
+      {
+        "texto": "Hacé clic en “Siguiente” al final de la página."
+      },
+      {
+        "texto": "Elegí la sede, el día, la hora del turno y la modalidad."
+      },
+      {
+        "texto": "Completá y confirmá el formulario; después vas a recibir por correo electrónico un volante de pago."
+      },
+      {
+        "texto": "Si la sede requiere que pagues antes del turno, imprimí el volante y abonalo en una sucursal de Provincia NET o mediante VEP."
+      },
+      {
+        "texto": "Presentate en la sede el día del turno con uno de tus padres o tu tutor. Llevá los originales y fotocopias de tu documentación y la de tu acompañante, el formulario completo con firma y aclaración de puño y letra, y el comprobante de pago impreso."
+      },
+      {
+        "texto": "Cuando se cumpla el plazo de la modalidad elegida, revisá tu correo y descargá el certificado desde el vínculo que te envíen."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": "Podés elegir recibir el certificado en 1 hora, 6 horas, 24 horas o 5 días. Para las opciones de 1, 6 y 24 horas, tenés que hacer el trámite en día hábil dentro de los horarios indicados: de 8 a 17, d…",
+    "consejos": [
+      "El certificado tiene una vigencia de 5 días hábiles desde que lo recibís. Consultá también en el organismo donde lo vas a presentar.",
+      "No se aceptan pagos en terminales de autoservicio a ningún número de cuenta.",
+      "Si hacés el trámite fuera de Argentina, la turnera te muestra el contacto de la embajada o consulado para que te comuniques con ellos."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "Exprés: 1 hora",
+      "gratis": false,
+      "monto_centavos": 850000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-antecedentes-penales-para-un-menor-de-edad"
+    },
+    {
+      "modalidad": "6 horas",
+      "gratis": false,
+      "monto_centavos": 480000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-antecedentes-penales-para-un-menor-de-edad"
+    },
+    {
+      "modalidad": "24 horas",
+      "gratis": false,
+      "monto_centavos": 240000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-antecedentes-penales-para-un-menor-de-edad"
+    },
+    {
+      "modalidad": "5 días",
+      "gratis": false,
+      "monto_centavos": 100000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-antecedentes-penales-para-un-menor-de-edad"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-antecedentes-penales-para-un-menor-de-edad",
+      "titulo": "Solicitar certificado de antecedentes penales para un menor de edad | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T13:39:33.481Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa el enlace directo de la turnera.",
+    "No se indica si se requiere turno para el trámite por correo electrónico.",
+    "No se indica una fecha exacta de vigencia del trámite."
+  ]
+}

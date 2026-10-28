@@ -1,0 +1,66 @@
+{
+  "tramite": {
+    "slug": "becas-municipales",
+    "nombre": "Becas Municipales",
+    "nombre_busqueda": "Becas estudiantiles Tancacha",
+    "resumen": "Programas de becas para estudiantes de nivel secundario y terciario universitario en la Municipalidad de Tancacha.",
+    "sinonimos": [
+      "Beca Nivel Secundario",
+      "Beca Nivel Terciario Universitario"
+    ],
+    "temas": [
+      "becas-y-ayudas-estudiantiles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141498",
+  "organismo": {
+    "nombre": "Municipalidad de Tancacha",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Estudiantes de nivel secundario y terciario universitario."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documentación del estudiante.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación requerida en la oficina correspondiente."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.tancacha.gob.ar/becas.html",
+      "titulo": "Becas estudiantiles",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T18:38:34.906Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los requisitos específicos de documentación no están detallados en el texto.",
+    "No se especifican los pasos exactos para la inscripción.",
+    "No se indica si se requiere turno.",
+    "No se especifica el plazo de entrega o duración del trámite.",
+    "No se menciona si el trámite se realiza online o solo presencialmente.",
+    "No se indican los montos de las becas ni los costos asociados."
+  ]
+}

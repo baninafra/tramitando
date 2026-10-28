@@ -1,0 +1,107 @@
+{
+  "tramite": {
+    "slug": "registrar-autorizados-para-solicitudes-de-reintegro",
+    "nombre": "Registrar autorizados para solicitudes de reintegro",
+    "nombre_busqueda": "Registrar autorizados para solicitudes de reintegro",
+    "resumen": "Este trámite habilita a personas autorizadas por las Obras Sociales Nacionales para suscribir solicitudes de reintegros del Fondo Solidario de Redistribución. Es gratuito y se puede hacer por internet o presencialmente.",
+    "sinonimos": [],
+    "temas": [
+      "discapacidad-y-accesibilidad",
+      "pensiones-no-contributivas-por-invalidez"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Servicios de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Obras Sociales Nacionales Registradas en la Superintendencia de Servicios de Salud",
+      "Representantes legales de la entidad solicitante",
+      "Mandatarios con delegación de firma"
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota dirigida al superintendente de servicios de salud en la que se solicita la delegación de facultades a una o hasta 3 personas para suscribir las presentaciones de solicitud de reintegros",
+        "aclaracion": null
+      },
+      {
+        "texto": "La nota debe estar suscripta por el representante legal de la entidad solicitante, certificada su firma por institución bancaria o escribano público, o bien personalmente a través de la/s persona/s habilitada/s por delegación de facultades ante la Mesa de Entradas de la Gerencia Operativa de Subsid…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento Nacional de Identidad del mandatario",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del Acta del órgano directivo de la Obra Social que la/s autoriza",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de la publicación del Acta en el Boletín Oficial de la República Argentina",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar mediante la plataforma de Trámites A Distancia con usuario de AFIP apoderado de la Entidad y cargar la documentación solicitada"
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentar la documentación requerida en Mesa de Entradas, los días hábiles en el horario de 10 a 16 hs"
+      },
+      {
+        "texto": "Acercarse con constancia de inicio de trámite y las copias de la documentación requerida a la Mesa de Entradas de la Gerencia Operativa de Subsidios por Reintegro, sita en Bartolomé Mitre 434 - Ciudad Autónoma de Buenos Aires - 1036AAH"
+      },
+      {
+        "texto": "Rubricar el Registro de Mandatarios"
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central de la Gerencia Operativa de Subsidios por Reintegro",
+      "direccion": "Bartolome Mitre 434 - Ciudad Autónoma de Buenos Aires - 1036AAH",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/registrar-autorizados-para-solicitudes-de-reintegro"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/registrar-autorizados-para-solicitudes-de-reintegro",
+      "titulo": "Registrar autorizados para solicitudes de reintegro | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T02:54:49.381Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T02:54:49.381Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite",
+    "El plazo de resolución del trámite",
+    "Si se requiere turno para la presentación presencial"
+  ]
+}

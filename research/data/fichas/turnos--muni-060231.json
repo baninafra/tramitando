@@ -1,0 +1,110 @@
+{
+  "tramite": {
+    "slug": "centros-medicos-y-turnos",
+    "nombre": "Sacar turno en centros médicos",
+    "nombre_busqueda": "Turnos centros médicos Daireaux",
+    "resumen": "Consultá los horarios y direcciones de los centros médicos de Daireaux para sacar turno. Algunos servicios tienen requisitos específicos como resultados previos o órdenes médicas.",
+    "sinonimos": [
+      "Turnos salud Daireaux",
+      "Centros médicos Daireaux",
+      "Chequeos preventivos Daireaux"
+    ],
+    "temas": [
+      "centros-de-salud-y-turnos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060231",
+  "organismo": {
+    "nombre": "Municipalidad de Daireaux",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en realizar estudios médicos o chequeos preventivos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Resultados de estudios previos",
+        "aclaracion": "Para mamografías y Papanicolau (PAP) en la campaña de octubre."
+      },
+      {
+        "texto": "Orden médica",
+        "aclaracion": "Para mamografías y Papanicolau (PAP) en la campaña de octubre."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Hospital Municipal Daireaux",
+      "direccion": "Calle Pellegrini N° 1125",
+      "localidad": "Daireaux",
+      "horario": null,
+      "fuente_url": "https://daireaux.gob.ar/turnos/"
+    },
+    {
+      "nombre": "Hospital Municipal Salazar",
+      "direccion": "Calle Hipólito Yrigoyen N° 190",
+      "localidad": "Salazar",
+      "horario": null,
+      "fuente_url": "https://daireaux.gob.ar/turnos/"
+    },
+    {
+      "nombre": "CAPS Ramón Carrillo - Daireaux",
+      "direccion": "Calle Golondrinas N° 25",
+      "localidad": "Barrio Julián Tajada",
+      "horario": null,
+      "fuente_url": "https://daireaux.gob.ar/turnos/"
+    },
+    {
+      "nombre": "CAPS Carlé - Daireaux",
+      "direccion": "Calle Florida N° 16",
+      "localidad": "Barrio L´Aveyron",
+      "horario": null,
+      "fuente_url": "https://daireaux.gob.ar/turnos/"
+    },
+    {
+      "nombre": "Centro Médico Santa Máxima - Arboledas",
+      "direccion": "Calle Godofredo Daireaux S/N, entre Libertad y Manuel Galvez",
+      "localidad": "Arboledas",
+      "horario": null,
+      "fuente_url": "https://daireaux.gob.ar/turnos/"
+    },
+    {
+      "nombre": "Hospital \"Dr. Luis Tabares\" Salazar",
+      "direccion": "Calle Hipólito Yrigoyen N° 190",
+      "localidad": "Salazar",
+      "horario": null,
+      "fuente_url": "https://daireaux.gob.ar/turnos/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://daireaux.gob.ar/turnos/",
+      "titulo": "TURNOS - Daireaux",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T23:28:32.583Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos generales para otros servicios que no sean la campaña de octubre.",
+    "No se especifican plazos de espera para sacar turno.",
+    "No se especifican costos para los servicios."
+  ]
+}

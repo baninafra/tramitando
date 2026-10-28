@@ -1,0 +1,72 @@
+{
+  "tramite": {
+    "slug": "certificado-domiciliario",
+    "nombre": "Certificado Domiciliario",
+    "nombre_busqueda": "Certificado Domiciliario",
+    "resumen": "Documento oficial que acredita el domicilio real de una persona ante el municipio. Se utiliza para trámites legales, administrativos, escolares y de salud.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060028",
+  "organismo": {
+    "nombre": "Municipio de Almirante Brown",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que necesite acreditar su domicilio real."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá tu DNI."
+      },
+      {
+        "texto": "Pagá el impuesto municipal del mes en curso."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Catastro",
+      "direccion": "Rosales 1312",
+      "localidad": "Adrogué",
+      "horario": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/certificado-domiciliario/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.brown.gob.ar/tramites/certificado-domiciliario/",
+      "titulo": "Certificado Domiciliario",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T19:17:50.419Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica si el trámite requiere turno.",
+    "No se especifica el plazo de entrega del certificado.",
+    "No se especifica el monto exacto del impuesto municipal."
+  ]
+}

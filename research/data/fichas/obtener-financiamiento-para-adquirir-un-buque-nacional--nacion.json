@@ -1,0 +1,80 @@
+{
+  "tramite": {
+    "slug": "obtener-financiamiento-buque-nacional",
+    "nombre": "Obtener financiamiento para adquirir un buque nacional",
+    "nombre_busqueda": "Financiamiento buque nacional",
+    "resumen": "Accedé a un crédito a tasa subsidiada para comprar buques o artefactos navales nuevos construidos en Argentina, si tu actividad es pesca, transporte o otra actividad naval.",
+    "sinonimos": [],
+    "temas": [
+      "emprendedores-y-monotributo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Economía",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas humanas o jurídicas dedicadas a transporte naval, pesca o cualquier otra actividad naval, bajo cualquier forma societaria o unipersonal, que deseen adquirir buques y/o artefactos navales nuevos construidos en astilleros radicados en el territorio nacional."
+    ],
+    "requisitos": [
+      {
+        "texto": "Estar inscripto en el RUMP con información actualizada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contar con la información del buque a adquirir, su presupuesto, datos del astillero y de la ingeniería naval involucrada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Que el Astillero donde se realizará la construcción o adquisición esté inscripto en el Registro de Astilleros, Talleres Navales y Estudios de Ingeniería Naval.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD con tu CUIT y clave fiscal."
+      },
+      {
+        "texto": "Completá el formulario de presentación con la información del buque (tipo, eslora, manga, puntal, potencia, combustible, capacidad de bodega si es pesquero y región de operación), el valor del buque y el tiempo estimado de construcción."
+      },
+      {
+        "texto": "Ingresá los datos del astillero (razón social, CUIT y dirección) y de la ingeniería naval (razón social y origen)."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "En un plazo aproximado de 15 días vas a recibir por TAD una notificación para informarte si tu solicitud fue aprobada.",
+      "Si tu solicitud fue aprobada, vas a recibir el certificado de elegibilidad y las instrucciones para tramitar tu crédito en el banco que hayas elegido."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-financiamiento-para-adquirir-un-buque-nacional",
+      "titulo": "Obtener financiamiento para adquirir un buque nacional | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T22:17:49.754Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto máximo se determinará de acuerdo a la capacidad del solicitante, sin superar el monto indicado en el Certificado de Elegibilidad emitido por la Subsecretaría de Industria del Ministerio de Economía.",
+    "El plazo de devolución es de 10 años más un período de gracia de hasta 24 meses por el plazo de construcción.",
+    "Bonificación de hasta 29,5 puntos porcentuales de parte del FONDEP para la adquisición o construcción de buques nacionales (aplica a la tasa vigente en cada Banco).",
+    "Durante el resto del período la tasa es BADLAR privada + 8%.",
+    "Las garantías requeridas son a satisfacción del Banco, pudiendo ser hipoteca naval.",
+    "Convocatoria finalizada."
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "tramite": {
+    "slug": "alumbrado-publico",
+    "nombre": "Pago de la tasa de alumbrado público",
+    "nombre_busqueda": "Pago alumbrado público balcarce",
+    "resumen": "Se debe pagar la tasa mensual de alumbrado público si el inmueble tiene medidor de electricidad o está afectado al servicio. Si no hay medidor, la tasa se cobra bimestralmente directamente por la municipalidad.",
+    "sinonimos": [
+      "Pago de alumbrado",
+      "Tasa de luz municipal",
+      "Servicio de alumbrado público"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060063",
+  "organismo": {
+    "nombre": "Municipalidad del Partido de Balcarce",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Contribuyentes del Partido de Balcarce"
+    ],
+    "requisitos": [
+      {
+        "texto": "Inmueble afectado al servicio de electricidad con medidor o compatibilizado en los padrones de la Cooperativa de Electricidad General Balcarce Limitada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Inmueble no afectado al servicio de electricidad o no compatibilizado en los padrones de contribuyentes.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá el calendario de vencimiento en el apartado de descargas para conocer las fechas de pago.",
+      "La tasa se cobra mensualmente si hay medidor, o bimestralmente si no hay medidor."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://balcarce-app.gob.ar/portal_servicios/servicio/alumbrado-publico",
+      "titulo": "Portal de Servicios | Modernizacion Balcarce",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "costo",
+        "donde",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-27T20:52:18.163Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de las oficinas para atención presencial no se especifica en el texto, solo se indica el correo para solicitar boletas por mail.",
+    "El monto exacto de la tasa en pesos no se detalla en el texto, solo se menciona que rige por la Ordenanza Fiscal 2025."
+  ]
+}

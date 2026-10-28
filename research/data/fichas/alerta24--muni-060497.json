@@ -1,0 +1,71 @@
+{
+  "tramite": {
+    "slug": "alta-activacion-boton-emergencias-alerta24",
+    "nombre": "Alta y activación del botón de emergencias Luján Alerta 24",
+    "nombre_busqueda": "Solicitar botón de emergencias Luján Alerta 24",
+    "resumen": "Solicitud para alta y activación del botón de emergencias Luján Alerta 24 en la zona de residencia.",
+    "sinonimos": [
+      "Solicitud de botón de emergencia",
+      "Activación Luján Alerta 24"
+    ],
+    "temas": [
+      "urgencias-y-emergencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060497",
+  "organismo": {
+    "nombre": "Municipalidad de Luján",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier vecino de la ciudad de Luján que necesite activar el botón de emergencias."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original y copia.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acudí a la oficina de la Municipalidad de Luján con tu DNI original y copia."
+      },
+      {
+        "texto": "Presentá la documentación en el escritorio de atención."
+      },
+      {
+        "texto": "El funcionario te registrará la solicitud de alta y activación del botón de emergencias."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El Centro Operativo de Monitoreo funciona las 24 horas, los 365 días del año."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.lujan.gob.ar/alerta24.php",
+      "titulo": "Luján Alerta 24",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T15:15:28.301Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los requisitos específicos de documentación para la alta y activación no se detallan explícitamente en el texto, solo se menciona el DNI como referencia general.",
+    "No se especifica el plazo de respuesta ni la duración del trámite en el texto."
+  ]
+}

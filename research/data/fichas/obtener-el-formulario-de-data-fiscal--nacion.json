@@ -1,0 +1,82 @@
+{
+  "tramite": {
+    "slug": "obtener-formulario-data-fiscal",
+    "nombre": "Obtener el formulario de Data Fiscal",
+    "nombre_busqueda": "formulario data fiscal",
+    "resumen": "El Formulario de Data Fiscal permite exhibir ante los consumidores una conducta fiscal transparente y posibilita denunciar irregularidades. Es gratuito y se obtiene en línea desde ARCA.",
+    "sinonimos": [
+      "Formulario 960/D",
+      "Data Fiscal"
+    ],
+    "temas": [
+      "cuil-y-clave-de-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Economía",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes realizan ventas a consumidores finales en locales o por Internet."
+    ],
+    "requisitos": [
+      {
+        "texto": "CUIT",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave fiscal de nivel 2 o superior",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Entrá al Acceso con clave fiscal de ARCA e ingresá tu número de cuit/cuil/cdi y tu Clave, con nivel de seguridad 2 o superior."
+      },
+      {
+        "texto": "Seleccioná la opción Formulario 960 D."
+      },
+      {
+        "texto": "Seleccioná tu CUIT."
+      },
+      {
+        "texto": "Elegí el domicilio que corresponde."
+      },
+      {
+        "texto": "Hacé clic en Descargar para visualizar e imprimir el Formulario N° 960/D – Data Fiscal."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si tenés vidriera en el local, también tenés que exhibirlo en el vidrio, de modo que sea visible desde el exterior, pudiendo ser de una dimensión menor al tamaño A-4 (hasta tamaño A-6).",
+      "En caso de realizar operaciones por Internet, también tenés que mostrar en tu sitio web el logo del Formulario 960 de Data Fiscal."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-el-formulario-de-data-fiscal",
+      "titulo": "Obtener el formulario de Data Fiscal | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T22:11:56.300Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica un plazo de tiempo para la obtención del formulario."
+  ]
+}

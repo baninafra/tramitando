@@ -1,0 +1,81 @@
+{
+  "tramite": {
+    "slug": "declaracion-jurada",
+    "nombre": "Declaración jurada",
+    "nombre_busqueda": "Declaración jurada comercio",
+    "resumen": "Contribuyentes deben declarar su situación fiscal antes de cada vencimiento. Se puede hacer online cargando el DDJJ o presencialmente.",
+    "sinonimos": [
+      "Declaración jurada comercio",
+      "Declaración jurada Tancacha"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "tasa-de-comercio-e-industria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141498",
+  "organismo": {
+    "nombre": "Municipalidad de Tancacha",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cada contribuyente"
+    ],
+    "requisitos": [
+      {
+        "texto": "DDJJ del monto a pagar según ingresos brutos",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar a la página por su intermedio al CIDI."
+      },
+      {
+        "texto": "Cargar el DDJJ del monto a pagar según ingresos brutos."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Realizar el trámite presencialmente."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 700000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.tancacha.gob.ar/declaracionJuradaComercio.html"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.tancacha.gob.ar/declaracionJuradaComercio.html",
+      "titulo": "Municipalidad de Tancacha",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "costo",
+        "quien",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T12:16:11.896Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Fecha de vencimiento exacta",
+    "Dirección de la oficina para trámite presencial",
+    "Horarios de atención presencial"
+  ]
+}

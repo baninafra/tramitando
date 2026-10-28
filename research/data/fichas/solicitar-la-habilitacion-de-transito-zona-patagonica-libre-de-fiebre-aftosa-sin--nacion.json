@@ -1,0 +1,108 @@
+{
+  "tramite": {
+    "slug": "solicitar-habilitacion-transito-zona-patagonica-sin-vacunacion",
+    "nombre": "Solicitar habilitación de tránsito a zona patagónica sin vacunación",
+    "nombre_busqueda": "habilitación tránsito zona patagónica sin vacunación",
+    "resumen": "Establecimientos habilitados por el SENASA pueden solicitar el Documento Sanitario de Tránsito (DST) para trasladar carnes y productos cárnicos desde zonas libres de fiebre aftosa con vacunación hacia la región patagónica libre sin vacunación.",
+    "sinonimos": [
+      "DST zona patagónica sin vacunación",
+      "Tránsito carne patagonia sin vacuna"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Establecimientos elaboradores y frigoríficos de alimentos de origen animal, productos, subproductos y derivados habilitados por el SENASA."
+    ],
+    "requisitos": [
+      {
+        "texto": "Estar habilitado por el SENASA como establecimiento elaborador y/o frigorífico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contar con usuario activo en el Sistema de Gestión de Certificados (SIGCER).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Que la mercadería provenga de zonas libres de fiebre aftosa con vacunación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Faena realizada en establecimientos habilitados y con inspección veterinaria ante y post mortem favorable.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cumplir los requisitos sanitarios específicos según especie (bovinos, porcinos, ovinos, caprinos y bubalinos), incluyendo: Exclusión de cabeza y lengua en rumiantes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Maduración mínima de 24 h a más de 2 °C y pH menor a 6 (cuando corresponda).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Restricciones de cortes con hueso en bovinos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solo se autoriza el ingreso de carnes con hueso cuando estas procedan de cortes que contengan exclusivamente huesos planos (costilla o asado y esternón).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Empaque primario y secundario, correctamente rotulados.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar al Sistema de Certificación (SIGCER) con el usuario habilitado por SENASA."
+      },
+      {
+        "texto": "Iniciar la solicitud de emisión del Documento Sanitario de Tránsito desde el rol del establecimiento."
+      },
+      {
+        "texto": "Seleccionar expresamente el cumplimiento de la Resolución SENASA N.º 460/2025 durante la carga de la solicitud."
+      },
+      {
+        "texto": "Verificar que el Servicio de Inspección Veterinaria (SIV) haya evaluado el cumplimiento de las condiciones sanitarias en SIGCER."
+      },
+      {
+        "texto": "Confirmar que en la parte inferior del documento sanitario figure explícitamente la aclaración de cumplimiento de la Resolución SENASA N.º 460/2025."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Solo con el documento sanitario correctamente emitido y validado podrá realizarse el traslado de carnes y/o productos cárnicos hacia la región patagónica.",
+      "La carne y productos cárnicos provenientes de la zona libre CON VACUNACIÓN que ingresan a la zona libre sin vacunación, no pueden ser exportados."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-habilitacion-de-transito-zona-patagonica-libre-de-fiebre-aftosa-sin-vacunacion",
+      "titulo": "Solicitar la habilitación de tránsito a zona patagónica (libre de fiebre aftosa sin vacunación) | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T09:41:51.644Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia de la Resolución Senasa 460/2025 no está especificada en el texto."
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "tramite": {
+    "slug": "devolucion-de-tasa-inspeccion-seguridad-e-higiene",
+    "nombre": "Devolución de Tasa Inspección Seguridad e Higiene",
+    "nombre_busqueda": "Devolución Tasa Inspección Seguridad e Higiene",
+    "resumen": "Solicitá la devolución de un pago duplicado o equivocado de la Tasa Inspección Seguridad e Higiene (TISH). El trámite es gratuito y se puede realizar de manera digital.",
+    "sinonimos": [
+      "Devolución TISH",
+      "Reembolso Tasa Inspección Seguridad e Higiene"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060760",
+  "organismo": {
+    "nombre": "Municipalidad de San Miguel",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El titular del pago."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de cuenta de TISH",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobantes de pago",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditación de titularidad",
+        "aclaracion": null
+      },
+      {
+        "texto": "CBU",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá el trámite en el Portal de Trámites."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.msm.gov.ar/guia-tramites/economia-finanzas/devolucion-de-tasa-inspeccion-seguridad-e-higiene/",
+      "titulo": "Devolución de Tasa Inspección Seguridad e Higiene - Municipalidad San Miguel",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T13:15:04.920Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica el plazo de resolución del trámite.",
+    "El texto no detalla los pasos presenciales ni los horarios de atención en oficinas."
+  ]
+}

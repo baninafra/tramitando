@@ -1,0 +1,80 @@
+{
+  "tramite": {
+    "slug": "cambios-de-destinatarios-tsm",
+    "nombre": "Cambios de destinatarios TSM",
+    "nombre_busqueda": "Cambios de destinatarios TSM",
+    "resumen": "Actualizá la titularidad del impuesto sobre los servicios municipales cuando comprás una propiedad. El trámite es online y tarda entre 3 a 10 días hábiles.",
+    "sinonimos": [
+      "Cambio de destinatario TSM",
+      "Actualización titularidad TSM"
+    ],
+    "temas": [
+      "catastro-e-inmuebles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060760",
+  "organismo": {
+    "nombre": "Municipalidad de San Miguel",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Todos los vecinos propietarios de un inmueble que no hayan actualizado la titularidad de la TSM."
+    ],
+    "requisitos": [
+      {
+        "texto": "Boleto compra venta con la reposición fiscal",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informe de dominio o copia simple de escritura",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUIL o CUIT",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al Portal de Trámites."
+      },
+      {
+        "texto": "Iniciá sesión con clave AFIP/ANSES."
+      },
+      {
+        "texto": "Seguí los pasos indicados."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "3 a 10 días hábiles",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.msm.gov.ar/guia-tramites/catastro/cambios-de-destinatarios/",
+      "titulo": "Cambios de Destinatarios TSM - Municipalidad San Miguel",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T12:52:19.651Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del costo no se especifica en el texto, solo se menciona que depende de la Ordenanza Tarifaria y Fiscal vigente.",
+    "La fecha de vigencia de la ordenanza tarifaria y fiscal no se especifica en el texto."
+  ]
+}

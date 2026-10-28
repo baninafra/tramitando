@@ -1,0 +1,105 @@
+{
+  "tramite": {
+    "slug": "prorroga-residencia-temporaria-religioso",
+    "nombre": "Obtener una prórroga de residencia temporaria como religioso",
+    "nombre_busqueda": "prorroga residencia religiosa",
+    "resumen": "Extensión de la residencia temporaria para religiosos extranjeros mediante trámite semipresencial en la Dirección Nacional de Migraciones.",
+    "sinonimos": [
+      "extensión residencia religiosa",
+      "prórroga residencia católica"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria",
+      "residencias-temporarias-y-permanentes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Migraciones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas extranjeras que hayan obtenido una residencia temporaria en la categoría de religioso y deseen extender su permanencia."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento Nacional de Identidad o Pasaporte válido y vigente (todas las nacionalidades).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Nacionalidad emitido por autoridad Consular (solo si no se tiene DNI/Pasaporte).",
+        "aclaracion": "Debe poseer fotografía de su titular y encontrarse legalizado por el Ministerio de Relaciones Exteriores, Comercio Internacional y Culto de la Nación."
+      },
+      {
+        "texto": "Certificado de Antecedentes Penales Argentinos emitido por el Registro Nacional de Reincidencia.",
+        "aclaracion": "Solo exigible a mayores de 16 años."
+      },
+      {
+        "texto": "Carta del culto al que pertenece donde especifique que seguirá desarrollando su tarea en el país.",
+        "aclaracion": "La misma deberá contar con la legalización del Ministerio de Relaciones Exteriores, Comercio Internacional y Culto."
+      },
+      {
+        "texto": "Documentación expedida en el extranjero legalizada por el Consulado Argentino o Apostillada.",
+        "aclaracion": "Si el país emisor ratificó el Convenio de La Haya, debe ser apostillada."
+      },
+      {
+        "texto": "Documentación expedida por representaciones consulares en el territorio nacional legalizada por el Ministerio de Relaciones Exteriores, Comercio Internacional y Culto.",
+        "aclaracion": "Excepción para nacionales MERCOSUR."
+      },
+      {
+        "texto": "Traducción al castellano efectuada por Traductor Público Nacional y legalizada por el Colegio de Traductores.",
+        "aclaracion": "Solo para documentación en idioma extranjero."
+      },
+      {
+        "texto": "La documentación a presentar deberá ser original.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá tu trámite a distancia ingresando en el sistema RaDEX."
+      },
+      {
+        "texto": "A través de una carta de presentación, solicitá cita para iniciar trámite de residencia temporaria como religioso, por intermedio del superior de la orden, ante la Secretaría de Culto de la Nación de la Cancillería Argentina."
+      },
+      {
+        "texto": "La Secretaría de Culto de la Nación certificará la carta de presentación y te informará el día y horario en que debés presentarte ante la Dirección Nacional de Migraciones para iniciar el trámite."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación original requerida ante la Dirección Nacional de Migraciones en el día y horario que te fue indicado."
+      },
+      {
+        "texto": "Recibí el certificado de antecedentes penales si se tramitó por fuera de RADEX."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-una-prorroga-de-residencia-temporaria-como-religioso",
+      "titulo": "Obtener una prórroga de residencia temporaria como religioso | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T06:54:02.085Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de los pagos generados por la plataforma web RaDEX no se especifica en el texto.",
+    "La fecha de vigencia de la resolución o decreto que regula el trámite no se especifica en el texto."
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "tramite": {
+    "slug": "formularios-municipales",
+    "nombre": "Formularios municipales",
+    "nombre_busqueda": "formularios de la Municipalidad de Presidente Perón",
+    "resumen": "Encontrá formularios municipales vinculados con obras particulares, como solicitudes, planillas y requisitos.",
+    "sinonimos": [
+      "formularios de obras particulares"
+    ],
+    "temas": [
+      "permiso-de-obra-y-planos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060648",
+  "organismo": {
+    "nombre": "Municipalidad de Presidente Perón",
+    "sigla": null,
+    "web": "https://presidenteperon.gob.ar/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "La página ofrece formularios para trámites municipales de obras particulares."
+    ],
+    "requisitos": [
+      {
+        "texto": "Revisá la planilla de requisitos disponible en la página.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://presidenteperon.gob.ar/formularios-municipales/",
+      "titulo": "Formularios Municipales – Presidente Perón",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T16:38:16.053Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La página no especifica quiénes pueden iniciar cada trámite.",
+    "No se detallan los requisitos de cada formulario.",
+    "No se indican los pasos para completar los trámites."
+  ]
+}

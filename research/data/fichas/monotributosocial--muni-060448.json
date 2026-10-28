@@ -1,0 +1,143 @@
+{
+  "tramite": {
+    "slug": "gestion-integral-monotributo-social",
+    "nombre": "Gestión integral de Monotributo Social",
+    "nombre_busqueda": "Monotributo Social en Laprida",
+    "resumen": "Podés iniciar la inscripción al Monotributo Social con un turno en ANSES y, luego de la evaluación, retirar la credencial de pago. Después, podés inscribirte en la Ley Alas en la Subsecretaría de Políticas Económicas, Producción y Empleo de Laprida.",
+    "sinonimos": [
+      "inscripción al Monotributo Social",
+      "Ley Alas"
+    ],
+    "temas": [
+      "monotributo-social-y-general"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060448",
+  "organismo": {
+    "nombre": "Municipalidad de Laprida",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que quieren inscribirse en el Monotributo Social y en la Ley Alas en Laprida."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de CUIL o CUIT.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Correo electrónico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de celular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción al Monotributo Social entregada por ANSES.",
+        "aclaracion": "Para inscribirte en la Ley Alas."
+      },
+      {
+        "texto": "Credencial de pago.",
+        "aclaracion": "Para inscribirte en la Ley Alas."
+      },
+      {
+        "texto": "Fotocopia del DNI.",
+        "aclaracion": "Para inscribirte en la Ley Alas."
+      },
+      {
+        "texto": "Fotocopia del impuesto inmobiliario del domicilio declarado, donde figure la partida de ARBA.",
+        "aclaracion": "Para inscribirte en la Ley Alas."
+      },
+      {
+        "texto": "Clave fiscal de AFIP.",
+        "aclaracion": "Para inscribirte en la Ley Alas."
+      },
+      {
+        "texto": "Número de teléfono.",
+        "aclaracion": "Para inscribirte en la Ley Alas."
+      },
+      {
+        "texto": "Capital estimativo invertido en la empresa.",
+        "aclaracion": "Para inscribirte en la Ley Alas."
+      },
+      {
+        "texto": "Facturación promedio mensual estimativa.",
+        "aclaracion": "Para inscribirte en la Ley Alas."
+      },
+      {
+        "texto": "Ticket de pago.",
+        "aclaracion": "Para inscribirte en la Ley Alas."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Sacá un turno en ANSES. Para hacerlo, tené a mano tu DNI, número de CUIL o CUIT, correo electrónico y número de celular."
+      },
+      {
+        "texto": "Presentate en ANSES el día del turno con tu DNI y hacé la inscripción."
+      },
+      {
+        "texto": "Guardá el comprobante de inscripción."
+      },
+      {
+        "texto": "Esperá la evaluación del Ministerio de Desarrollo Social."
+      },
+      {
+        "texto": "Retirá la credencial de pago en ANSES."
+      },
+      {
+        "texto": "Pagá entre el 1 y el 20 de cada mes."
+      },
+      {
+        "texto": "Presentate en la Subsecretaría de Políticas Económicas, Producción y Empleo para inscribirte en la Ley Alas con la documentación requerida."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Con el primer pago se da de alta en AFIP.",
+      "Para obtener la clave fiscal, descargá la aplicación Mi AFIP desde Play Store, tené el DNI a mano y seguí los pasos desde la opción con la imagen de un DNI.",
+      "Anotá la clave o contraseña respetando las mayúsculas y minúsculas."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Subsecretaría de Políticas Económicas, Producción y Empleo",
+      "direccion": "Av. San Martín 1753",
+      "localidad": "Laprida",
+      "horario": null,
+      "fuente_url": "https://www.laprida.gov.ar/index.php/contenido/p/monotributosocial"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.laprida.gov.ar/index.php/contenido/p/monotributosocial",
+      "titulo": "Municipalidad de Laprida",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:31:18.027Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa el costo del trámite.",
+    "No se indica si hace falta turno en la Subsecretaría.",
+    "No se informa el plazo de evaluación del Ministerio de Desarrollo Social."
+  ]
+}

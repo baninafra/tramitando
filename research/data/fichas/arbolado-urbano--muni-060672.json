@@ -1,0 +1,71 @@
+{
+  "tramite": {
+    "slug": "poda-y-arbolado",
+    "nombre": "Solicitud de poda o extracción de árbol",
+    "nombre_busqueda": "Solicitud poda árbol vereda Rauch",
+    "resumen": "Para solicitar la poda, recorte de raíz o extracción de un árbol urbano en Rauch, debes acercarte personalmente a la Dirección de Servicios Urbanos para recibir asesoramiento previo y justificar el motivo de la intervención.",
+    "sinonimos": [
+      "Solicitud poda árbol",
+      "Solicitud extracción árbol",
+      "Solicitud recorte raíz árbol"
+    ],
+    "temas": [
+      "poda-y-arbolado"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060672",
+  "organismo": {
+    "nombre": "Municipalidad de Rauch",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier vecino o propietario que requiera asesoramiento para una intervención en el árbol de su vereda."
+    ],
+    "requisitos": [
+      {
+        "texto": "Acercarse personalmente a la Dirección de Servicios Urbanos para solicitar asesoramiento previo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acércate a la Dirección de Servicios Urbanos para pedir asesoramiento sobre la poda, extracción o recorte de raíz."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Servicios Urbanos",
+      "direccion": "Prolongación de Av. San Martín",
+      "localidad": "Prolongación de Av. San Martín",
+      "horario": null,
+      "fuente_url": "https://www.rauch.mun.gba.gov.ar/web/index.php/arbolado-urbano/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.rauch.mun.gba.gov.ar/web/index.php/arbolado-urbano/",
+      "titulo": "Arbolado Urbano – Municipalidad de Rauch",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T09:23:11.451Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos adicionales ni costos en el texto."
+  ]
+}

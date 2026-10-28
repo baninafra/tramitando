@@ -1,0 +1,169 @@
+{
+  "tramite": {
+    "slug": "solicitud-autorizacion-valor-diferencial-cuota-enfermedad-preexistente",
+    "nombre": "Solicitud de autorización de valor diferencial de cuota por enfermedad preexistente",
+    "nombre_busqueda": "autorizacion valor diferencial cuota enfermedad preexistente",
+    "resumen": "Las Entidades de Medicina Prepaga pueden solicitar autorización para cobrar valores diferenciales a nuevos usuarios con enfermedades preexistentes, presentando documentación médica y económica detallada.",
+    "sinonimos": [
+      "autorizacion cobro diferencial prepaga",
+      "valor diferencial enfermedad preexistente"
+    ],
+    "temas": [
+      "obra-social-y-prepaga"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Servicios de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Entidades de Medicina Prepaga (EMP)"
+    ],
+    "requisitos": [
+      {
+        "texto": "Datos personales del usuario y de la enfermedad preexistente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombre de la enfermedad preexistente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos completos del usuario o usuaria",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombre y apellido",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUIT",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fecha de afiliación del usuario",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dirección de correo electrónico",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de teléfono",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración de valor de cuota y plan contratado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombre del Plan Contratado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Código del Plan Contratado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Valor de cuota plana",
+        "aclaracion": null
+      },
+      {
+        "texto": "Valor de cuota diferencial propuesto",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plazo de pago del valor diferencial propuesto",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración jurada de salud suscripta por el usuario o usuaria con firma y fecha de confección (PDF)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informe médico de la enfermedad o situación denunciada",
+        "aclaracion": null
+      },
+      {
+        "texto": "Diagnóstico específico expedido por el médico tratante (si lo hubiere)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estudios diagnósticos",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estado actual de la enfermedad o situación declarada, actualizado a la fecha de la solicitud y firmado por médico especialista",
+        "aclaracion": null
+      },
+      {
+        "texto": "Detalle del tratamiento actual (prestaciones, medicamentos, dosis y tiempo estimado de tratamiento)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descripción y cantidad de cirugías realizadas en relación con la enfermedad o situación preexistente, si las hubiera",
+        "aclaracion": null
+      },
+      {
+        "texto": "Antecedentes médicos aportados por el usuario o usuaria que hayan sido considerados para determinar el tratamiento médico esperable",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cualquier otra información médica que resulte relevante",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estructura de costos en función del tratamiento médico esperable de la enfermedad denunciada, detallando valores unitarios de cada prestación y cantidad de veces en el año que se hará uso de esa prestación / medicación",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresé mediante la plataforma de Trámites A Distancia con usuario apoderado de la Entidad."
+      },
+      {
+        "texto": "Cargué la documentación solicitada y hice clic en Confirmar Trámite."
+      },
+      {
+        "texto": "Ingresé a la pestaña Mis Trámites del portal de Trámites a Distancia (TAD) para el seguimiento del trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La autorización queda sujeta a la evaluación de la Autoridad de Aplicación y a la presentación completa de la documentación necesaria para su costeo."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitud-de-autorizacion-de-valor-diferencial-de-cuota-por-enfermedad-preexistente",
+      "titulo": "Solicitud de autorización de valor diferencial de cuota por enfermedad preexistente | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T11:26:19.124Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica requisitos para menores de edad ni casos especiales diferenciados.",
+    "El texto no indica si el trámite requiere turno ni cómo sacarlo.",
+    "El texto no especifica plazos de respuesta ni tiempos de evaluación.",
+    "El texto no menciona costos específicos en centavos, solo indica que es gratuito."
+  ]
+}

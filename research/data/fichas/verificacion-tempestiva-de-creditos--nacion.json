@@ -1,0 +1,112 @@
+{
+  "tramite": {
+    "slug": "verificacion-tempestiva-de-creditos",
+    "nombre": "Verificación tempestiva de créditos",
+    "nombre_busqueda": "Verificación tempestiva de créditos",
+    "resumen": "Los acreedores pueden solicitar la verificación electrónica de créditos de una entidad aseguradora en liquidación judicial sin necesidad de patrocinio letrado.",
+    "sinonimos": [],
+    "temas": [
+      "legalizaciones-y-apostillados"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Seguros de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Los pretensos acreedores de la entidad aseguradora en liquidación."
+    ],
+    "requisitos": [
+      {
+        "texto": "Usuario de acceso a Trámites a Distancia (TAD).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de CUIL y/o CUIT.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de poder, si es apoderado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de CBU.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que avale la petición, como por ejemplo: Contrato de póliza, denuncia de siniestro, nota de aceptación, convenio de pago, facturas, contratos, cheques rechazados y su constancia de rechazo bancario.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado expedido por el Juzgado en el que tramitó la sentencia, haciendo saber que se encuentra firme, consentida e impaga.",
+        "aclaracion": "Si tiene sentencia judicial firme."
+      },
+      {
+        "texto": "Solicitud de reserva de crédito en el expediente principal de la liquidación judicial, en los términos del artículo 220 de LCQ.",
+        "aclaracion": "Si tiene proceso judicial en trámite, sin sentencia firme."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD, trámite Verificación tempestiva de créditos, con clave fiscal."
+      },
+      {
+        "texto": "Completá los datos del solicitante."
+      },
+      {
+        "texto": "Completá el formulario donde se adjunta la documentación especialmente los campos que son obligatorios."
+      },
+      {
+        "texto": "Confirmá el trámite."
+      },
+      {
+        "texto": "Consultá tu estado del trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá el decreto de apertura de la liquidación judicial para conocer la fecha límite.",
+      "Consultá el monto del arancel en https://www.argentina.gob.ar/trabajo/consejodelsalario."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/verificacion-tempestiva-de-creditos",
+      "titulo": "Verificación tempestiva de créditos | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T18:42:30.955Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T18:42:30.955Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina para trámites presenciales.",
+    "Fecha exacta de vigencia del trámite.",
+    "Si el trámite requiere turno."
+  ]
+}

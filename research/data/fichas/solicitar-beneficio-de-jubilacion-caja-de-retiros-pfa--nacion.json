@@ -1,0 +1,105 @@
+{
+  "tramite": {
+    "slug": "inicio-de-jubilacion",
+    "nombre": "Solicitar beneficio de jubilación",
+    "nombre_busqueda": "Solicitar beneficio de jubilación caja de retiros pfa",
+    "resumen": "El personal cesado voluntariamente que cumpla los tiempos mínimos puede solicitar este beneficio ante la Caja de Retiros, Jubilaciones y Pensiones de la Policía Federal. El trámite es gratuito y lleva aproximadamente 20 días hábiles.",
+    "sinonimos": [
+      "Jubilación PFA",
+      "Beneficio previsional PFA"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones",
+      "inicio-de-jubilacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Caja de Retiros, Jubilaciones y Pensiones de la Policía Federal",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El personal cesado voluntariamente (mediante renuncia), que cumpla con los tiempos mínimos requeridos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Fojas de servicios.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación de sueldos y aportes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI original y copia (anverso y reverso).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave de identificación tributaria: CDI, CUIL o CUIT.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ultimo recibo de sueldo de haberes percibidos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de percibir rubro Titulo o Capacitación Superior, deberá presentar copia certificada del mismo y una certificación o título analítico donde conste la duración de la carrera al momento de cursarla.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de solicitud de beneficio previsional.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Deberá solicitar el inicio del trámite en el organismo en el que prestó servicios."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "20 días",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Departamento Central de Policía",
+      "direccion": "Moreno 1550",
+      "localidad": "C.A.B.A.",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-beneficio-de-jubilacion-caja-de-retiros-pfa"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-beneficio-de-jubilacion-caja-de-retiros-pfa",
+      "titulo": "Solicitar beneficio de jubilación - Caja de Retiros PFA | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T05:03:44.859Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T05:03:44.859Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La impresión del frente y dorso del formulario deberá hacerse en la misma hoja, sino no será aceptado."
+  ]
+}

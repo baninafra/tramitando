@@ -1,0 +1,101 @@
+{
+  "tramite": {
+    "slug": "introduccion-definitiva-de-componentes-de-municion-destinados-la-recarga-de-municiones",
+    "nombre": "Introducción definitiva de componentes de munición destinados a la recarga de municiones",
+    "nombre_busqueda": "Introducir componentes de munición",
+    "resumen": "Este trámite permite ingresar de manera definitiva al país componentes de munición para recarga de municiones. Se requiere ser Legítimo Usuario de armas de fuego con credencial vigente y tener registrado un Equipo de Recarga.",
+    "sinonimos": [
+      "Introducción de munición para recarga",
+      "Ingreso de componentes de munición"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Seguridad Nacional",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Legítimos Usuarios de armas de fuego con credencial vigente en la categoría correspondiente.",
+      "Personas que tengan registrado un Equipo de Recarga."
+    ],
+    "requisitos": [
+      {
+        "texto": "Una nota que explique los motivos por los que solicitás la introducción definitiva (Disp. 883/11).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Credencial vigente de Legítimo Usuario de armas de fuego en la categoría correspondiente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario Ley 23.283 detallando el tipo de componente a introducir.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario Ley 23.412 detallando el tipo de componente a introducir.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Registro de un Equipo de Recarga.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Podés ingresar como máximo CINCO MIL (5.000) puntas y/o vainas, por año calendario y solamente del calibre del arma sobre la cual tengas la tenencia o del arma que vayas a introducir al país.",
+      "Para pólvora o fulminantes podés ingresar como máximo hasta UN (1) kilogramo de pólvora deportiva o UN MIL (1.000) cápsulas de percusión (fulminantes), por año calendario.",
+      "Únicamente podés solicitar la introducción de componentes de munición para la recarga de municiones si tenés registrado un Equipo de Recarga."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/introduccion-definitiva-de-componentes-de-municion-destinados-la-recarga-de-municiones",
+      "titulo": "Introducción definitiva de componentes de munición destinados a la recarga de municiones | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T05:59:27.308Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-credencial-digital-de-legitimo-usuario-clu",
+      "titulo": "Solicitar la Credencial digital de Legitimo Usuario (CLU) | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T05:59:27.308Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T05:59:27.308Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de los Centros de Atención de ANMaC.",
+    "Plazo de espera para la introducción definitiva.",
+    "Valor de la tasa o costo del trámite."
+  ]
+}

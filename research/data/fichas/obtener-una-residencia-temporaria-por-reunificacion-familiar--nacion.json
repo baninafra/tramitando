@@ -1,0 +1,131 @@
+{
+  "tramite": {
+    "slug": "residencia-temporaria-reunificacion-familiar",
+    "nombre": "Obtener residencia temporaria por reunificación familiar",
+    "nombre_busqueda": "Residencia temporaria reunificacion familiar",
+    "resumen": "Para extranjeros que tengan vínculo familiar con un argentino o residente en el país. Se requiere documentación personal, antecedentes penales y acreditación de domicilio.",
+    "sinonimos": [
+      "Residencia por reunificación familiar",
+      "Residencia familiar temporaria"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria",
+      "residencias-temporarias-y-permanentes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Migraciones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas extranjeras que posean vínculo directo con un familiar argentino y/o radicado de forma temporaria o permanente en el país.",
+      "Ser cónyuge, progenitor o hijo de argentino nativo, naturalizado o por opción.",
+      "Ser cónyuge, progenitor o hijo soltero menor de 18 años, no emancipado, o mayor con capacidades diferentes, de un residente permanente o temporario, con autorización para permanecer en el país por un máximo de 3 años, o por el período de tiempo autorizado a su familiar radicado temporario, prorroga…"
+    ],
+    "requisitos": [
+      {
+        "texto": "Pasaporte válido y vigente (todas las nacionalidades) o documento de viaje del MERCOSUR (Anexo I del DC-46-2015-CMC).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de nacionalidad emitido por autoridad consular (solo si se usa en lugar del pasaporte).",
+        "aclaracion": "Debe poseer fotografía de su titular y encontrarse legalizado por el Ministerio de Relaciones Exteriores, Comercio Internacional y Culto de la Nación."
+      },
+      {
+        "texto": "Certificado de antecedentes penales argentinos, emitido por el Registro Nacional de Reincidencia.",
+        "aclaracion": "Solo exigible a mayores de 16 años. No es necesaria su tramitación por fuera si está incorporado al sistema Radex."
+      },
+      {
+        "texto": "Certificado que acredite fehacientemente que no registra condenas anteriores ni procesos penales en trámite.",
+        "aclaracion": "Solo exigible a mayores de 16 años. Emitido por las autoridades competentes de los países donde haya residido por un plazo superior a 1 año, durante el transcurso de los últimos 3 años."
+      },
+      {
+        "texto": "Acreditación de Domicilio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Partida de nacimiento o matrimonio debidamente legalizada que acredite el vínculo familiar alegado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento que acredite la identidad del dador de criterio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Partida de nacimiento legalizada y autorización de los padres para menores de 18 años.",
+        "aclaracion": "La autorización debe ser suscripta ante autoridad competente. Si los padres no residan en el territorio nacional, debe contar con un tutor designado, quien debe acreditar residencia legal en el país y demostrar, con un instrumento público, la designación de tutor sobre el menor."
+      },
+      {
+        "texto": "Legalización del Consulado Argentino o apostillado según la Convención de La Haya.",
+        "aclaracion": "Para la partida de nacimiento y el poder emitido en el exterior. Si el país emisor ha ratificado el Convenio de La Haya, se usa apostilla. Si no, se legaliza ante el Consulado Argentino sito en el país emisor. Esto aplica para documentos emitidos en países pertenecientes al MERCOSUR."
+      },
+      {
+        "texto": "Legalización del Ministerio de Relaciones Exteriores, Comercio Internacional y Culto.",
+        "aclaracion": "Para la documentación expedida por las representaciones consulares en el territorio nacional. Excepción: MERCOSUR."
+      },
+      {
+        "texto": "Traducción al castellano por un traductor público nacional y legalización por el Colegio de Traductores.",
+        "aclaracion": "Si la documentación está en idioma extranjero."
+      },
+      {
+        "texto": "Documentación original.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá tu trámite a distancia ingresando en el sistema RaDEX."
+      },
+      {
+        "texto": "Registrate como usuario, completá el formulario de solicitud y aboná las tasas correspondientes."
+      },
+      {
+        "texto": "Adjuntá la documentación y datos requeridos según el tipo de residencia a la que quieras aplicar."
+      },
+      {
+        "texto": "Si cumplís con los requisitos para formalizar tu solicitud, recibirás un email con la fecha de tu cita presencial."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación original y los certificados requeridos (antecedentes penales, partidas, etc.) en la cita asignada."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-una-residencia-temporaria-por-reunificacion-familiar",
+      "titulo": "Obtener una residencia temporaria por reunificación familiar | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T22:35:29.044Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T22:35:29.044Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de las tasas migratorias no se especifica en el texto, solo se indica que se deben abonar en la plataforma RaDEX.",
+    "El plazo exacto de otorgamiento de la residencia no se especifica en el texto, solo se menciona que se otorgará por idéntico plazo que el dador de criterio o hasta tres años en casos específicos."
+  ]
+}

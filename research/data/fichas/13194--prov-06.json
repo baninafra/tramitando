@@ -1,0 +1,65 @@
+{
+  "tramite": {
+    "slug": "dni",
+    "nombre": "DNI - Nuevo Ejemplar",
+    "nombre_busqueda": "Sacar el DNI nuevo",
+    "resumen": "Trámite para obtener un nuevo documento nacional de identidad.",
+    "sinonimos": [
+      "Renovación de DNI",
+      "DNI nuevo"
+    ],
+    "temas": [
+      "dni"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "prov-06",
+  "organismo": {
+    "nombre": "Secretaría de Gobierno",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que necesite un nuevo DNI."
+    ],
+    "requisitos": [
+      {
+        "texto": "Llevá tu DNI viejo si lo tenés.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en la oficina con los requisitos."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://portal.gba.gob.ar/tramite/13194",
+      "titulo": "Portal de Trámites",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-26T01:58:00.203Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el costo del trámite.",
+    "No se especifica el plazo de entrega.",
+    "No se especifica si requiere turno.",
+    "No se especifica la dirección de la oficina.",
+    "No se especifica si el DNI viejo es obligatorio.",
+    "No se especifica la vigencia exacta de la normativa."
+  ]
+}

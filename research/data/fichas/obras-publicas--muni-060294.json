@@ -1,0 +1,95 @@
+{
+  "tramite": {
+    "slug": "aprobacion-de-planos-para-inicio-de-obra",
+    "nombre": "Aprobación de planos para inicio de obra",
+    "nombre_busqueda": "aprobar planos para empezar una obra",
+    "resumen": "Antes de iniciar una obra, solicitá la aprobación y autorización de los planos en la Oficina de Obras Públicas. El trámite alcanza a construcciones, ampliaciones y otras obras en predios privados del partido.",
+    "sinonimos": [
+      "aprobación de planos de obra",
+      "permiso de construcción"
+    ],
+    "temas": [
+      "permiso-de-obra-y-planos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060294",
+  "organismo": {
+    "nombre": "Secretaría de Obras y Servicios Públicos",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Si vas a construir, ampliar o hacer otra obra en un predio privado del partido de General Arenales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota del profesional dirigida a la Secretaría de Servicios y Obras Públicas para solicitar la aprobación del plano de construcción.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dos o más copias del plano municipal visado por el Colegio de Arquitectos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano de instalaciones sanitarias.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano de instalaciones eléctricas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de la escritura.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá los planos para pedir el permiso antes de iniciar la obra."
+      },
+      {
+        "texto": "Llevá la nota del profesional y la documentación requerida a la Oficina de Obras Públicas."
+      },
+      {
+        "texto": "Pagá el derecho de construcción según la ordenanza impositiva vigente; el monto varía según el valor de la obra y la categoría de la vivienda."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Secretaría de Obras y Servicios Públicos",
+      "direccion": "Av. B Mitre 50",
+      "localidad": "General Arenales",
+      "horario": null,
+      "fuente_url": "https://www.generalarenales.gob.ar/obras-publicas/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.generalarenales.gob.ar/obras-publicas/",
+      "titulo": "Obras Publicas – Municipalidad de General Arenales",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T12:44:10.259Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se indica el monto exacto del derecho de construcción.",
+    "No se informa si necesitás sacar turno.",
+    "No se especifican los plazos del trámite.",
+    "No se indica una fecha exacta de vigencia para este trámite."
+  ]
+}

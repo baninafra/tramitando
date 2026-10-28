@@ -1,0 +1,67 @@
+{
+  "tramite": {
+    "slug": "informe-de-archivo-y-copia-de-antecedentes-de-obra",
+    "nombre": "Informe de archivo y copia de antecedentes de obra",
+    "nombre_busqueda": "informe de archivo de obra",
+    "resumen": "Pedí por correo el informe de archivo y la copia de antecedentes de obra. Tenés que enviar un documento donde figure el número de partida.",
+    "sinonimos": [
+      "copia de antecedentes de obra"
+    ],
+    "temas": [
+      "obras-y-construccion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060441",
+  "organismo": {
+    "nombre": "Obras Particulares de la Municipalidad de La Plata",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes necesiten un informe de archivo y una copia de antecedentes de obra."
+    ],
+    "requisitos": [
+      {
+        "texto": "Impuesto municipal, escritura o contrato de locación donde figure el número de partida.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Enviá por correo electrónico el pedido del informe a archivodop@laplata.gob.ar."
+      },
+      {
+        "texto": "Adjuntá el impuesto municipal, la escritura o el contrato de locación donde figure el número de partida."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Podés sacar un turno con la opción «Consulta Administrativa - Ingreso y Egreso Documentación»."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://tramites.laplata.gob.ar/obrasparticulares/informe-de-archivo.html",
+      "titulo": "Obras Particulares - Municipalidad de La Plata",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:17:39.374Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica quiénes pueden solicitar el informe.",
+    "No se informa el costo ni el plazo de entrega."
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "tramite": {
+    "slug": "reclamo-por-cobro-de-cargo-incorrecto-en-la-factura-de-gas",
+    "nombre": "Reclamo por cobro de cargo incorrecto en la factura de gas",
+    "nombre_busqueda": "Reclamo cobro incorrecto factura gas",
+    "resumen": "Podés reclamar ante el ENARGAS un cargo cobrado o pretendido cobrar por la Prestadora si el reclamo ante esta última no ha sido satisfecho. El trámite es gratuito y permite la devolución del monto y la indemnización pertinente.",
+    "sinonimos": [
+      "Reclamo ENARGAS",
+      "Reclamo gas incorrecto",
+      "Reclamo factura gas"
+    ],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ente Nacional Regulador del Gas",
+    "sigla": "ENARGAS",
+    "web": "https://www.argentina.gob.ar/servicio/reclamo-por-cobro-de-cargo-incorrecto-en-la-factura-de-gas"
+  },
+  "contenido": {
+    "quien_puede": [
+      "El cliente y/o el usuario."
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia del reclamo formulado ante la Prestadora.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de pago del cargo cuestionado (opcional).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descripción del reclamo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en la Sede Central de Suipacha 636, C1008AAN, Ciudad Autónoma de Buenos Aires o en la Sede más próxima a tu domicilio, los días hábiles de 10 a 16hs."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central",
+      "direccion": "Suipacha 636, C1008AAN, Ciudad Autónoma de Buenos Aires",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/reclamo-por-cobro-de-cargo-incorrecto-en-la-factura-de-gas"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reclamo-por-cobro-de-cargo-incorrecto-en-la-factura-de-gas",
+      "titulo": "Reclamo por cobro de cargo incorrecto en la factura de gas | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T03:01:47.805Z"
+    },
+    {
+      "url": "https://www.enargas.gov.ar/secciones/oficina-virtual/oficina-virtual.php",
+      "titulo": "Oficina virtual ENARGAS",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T03:01:47.805Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T03:01:47.805Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo exacto para la resolución del reclamo ante el ENARGAS.",
+    "Si el trámite se puede realizar completamente en línea sin necesidad de ir presencialmente."
+  ]
+}

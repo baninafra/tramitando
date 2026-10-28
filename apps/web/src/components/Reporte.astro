@@ -1,0 +1,203 @@
+---
+// "¿Viste algo mal?": formulario de reporte con prueba obligatoria (link oficial o captura).
+// Es un <details> para que funcione sin JS; con JS se abre desde los botones con [data-abrir-reporte].
+// El envío pasa por /api/reporte, que reenvía a POST /v1/reportes (Turnstile, R2 y límite por IP).
+import Icono from './Icono.astro';
+import { BLOQUES } from '../lib/data';
+
+interface Props {
+  tramite: string;
+  /** Variante que se está viendo, o vacío si es una ficha sin datos. */
+  variante?: string;
+  /** URL de la página, para saber desde dónde llegó el reporte. */
+  pagina: string;
+  /** "aportar" cambia los textos para municipios sin datos. */
+  modo?: 'corregir' | 'aportar';
+}
+const { tramite, variante = '', pagina, modo = 'corregir' } = Astro.props;
+const siteKey = import.meta.env.PUBLIC_TURNSTILE_SITE_KEY ?? '1x00000000000000000000AA';
+---
+<details class="reporte" id="reportar" data-reporte>
+  <summary class="btn btn-secundario">
+    <Icono nombre="flag" />{modo === 'aportar' ? 'Aportá la info de tu municipio' : '¿Viste algo mal?'}
+  </summary>
+
+  <form class="formulario" action="/api/reporte" method="post" enctype="multipart/form-data" novalidate data-formulario-reporte>
+    <p class="intro">
+      {modo === 'aportar'
+        ? 'Contanos cómo es el trámite en tu municipio. Necesitamos una prueba: el link a la fuente oficial o una captura.'
+        : 'Mandanos la corrección con una captura o un link a la fuente oficial. Lo revisamos antes de cambiar la ficha.'}
+    </p>
+    <input type="hidden" name="tramite" value={tramite} />
+    <input type="hidden" name="pagina" value={pagina} />
+    <input type="hidden" name="variante_id" value={variante} />
+
+    {modo === 'corregir' ? (
+      <div class="campo">
+        <label for="rep-bloque">¿Qué dato está mal?</label>
+        <select id="rep-bloque" name="bloque" class="entrada" required data-selector>
+          <option value="">Elegí una parte de la ficha</option>
+          {Object.entries(BLOQUES).map(([valor, texto]) => <option value={valor}>{texto}</option>)}
+          <option value="otro">Otra cosa</option>
+        </select>
+      </div>
+    ) : (
+      <input type="hidden" name="bloque" value="resumen" />
+    )}
+
+    <div class="campo">
+      <label for="rep-descripcion">Contanos qué está mal <span class="obligatorio">(obligatorio)</span></label>
+      <textarea id="rep-descripcion" name="descripcion" class="entrada" maxlength="1000" minlength="5" required aria-describedby="rep-descripcion-ayuda"></textarea>
+      <p class="ayuda" id="rep-descripcion-ayuda">Por ejemplo: "El costo cambió y ahora la oficina atiende de 7 a 13".</p>
+    </div>
+
+    <div class="campo">
+      <label for="rep-valor">¿Cuál es el dato correcto? <span class="opcional">(opcional)</span></label>
+      <textarea id="rep-valor" name="valor_correcto" class="entrada" maxlength="500" aria-describedby="rep-valor-ayuda"></textarea>
+      <p class="ayuda" id="rep-valor-ayuda">Por ejemplo: "Ahora cuesta $ 14.000 desde el 01/11/2026".</p>
+    </div>
+
+    <fieldset class="campo prueba" aria-describedby="rep-prueba-ayuda">
+      <legend>Prueba <span class="obligatorio">(obligatoria)</span></legend>
+      <p class="ayuda" id="rep-prueba-ayuda">Poné el link a la fuente oficial, una captura o las dos cosas.</p>
+      <div class="campo">
+        <label for="rep-link">Link a la fuente oficial</label>
+        <input id="rep-link" name="prueba_url" type="url" class="entrada" inputmode="url" placeholder="https://www.argentina.gob.ar/…" />
+      </div>
+      <div class="campo">
+        <label for="rep-captura">Captura de pantalla</label>
+        <input id="rep-captura" name="prueba" type="file" class="entrada archivo" accept="image/png,image/jpeg,image/webp" aria-describedby="rep-captura-ayuda" />
+        <p class="ayuda" id="rep-captura-ayuda">Imagen PNG, JPG o WebP de hasta 5 MB.</p>
+      </div>
+    </fieldset>
+
+    <div class="campo">
+      <label for="rep-email">Tu email <span class="opcional">(opcional)</span></label>
+      <input id="rep-email" name="email" type="email" class="entrada" autocomplete="email" aria-describedby="rep-email-ayuda" />
+      <p class="ayuda" id="rep-email-ayuda">Solo si querés que te avisemos cuando lo corrijamos. Lo borramos al cerrar el reporte.</p>
+    </div>
+
+    <div class="campo">
+      <div class="cf-turnstile" data-sitekey={siteKey} data-language="es" data-theme="auto"></div>
+    </div>
+
+    <div class="mensaje-error" role="alert" data-error hidden><Icono nombre="triangle-alert" /><span data-error-texto></span></div>
+    <div class="mensaje-info" role="status" data-info hidden><Icono nombre="circle-check" /><span data-info-texto></span></div>
+
+    <div class="acciones">
+      <button type="submit" class="btn btn-primario">{modo === 'aportar' ? 'Enviar la info' : 'Enviar corrección'}</button>
+    </div>
+  </form>
+</details>
+
+<script is:inline src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+
+<script>
+  const MAX_BYTES = 5 * 1024 * 1024;
+
+  const abrir = () => {
+    const d = document.querySelector<HTMLDetailsElement>('[data-reporte]');
+    if (!d) return;
+    d.open = true;
+    d.scrollIntoView({ block: 'start' });
+    d.querySelector<HTMLElement>('select, textarea')?.focus({ preventScroll: true });
+  };
+  document.querySelectorAll('[data-abrir-reporte]').forEach((a) =>
+    a.addEventListener('click', (e) => { e.preventDefault(); history.replaceState(null, '', '#reportar'); abrir(); }),
+  );
+  if (location.hash === '#reportar') abrir();
+  addEventListener('hashchange', () => { if (location.hash === '#reportar') abrir(); });
+
+  document.querySelectorAll<HTMLFormElement>('[data-formulario-reporte]').forEach((form) => {
+    const error = form.querySelector<HTMLElement>('[data-error]')!;
+    const errorTexto = form.querySelector<HTMLElement>('[data-error-texto]')!;
+    const info = form.querySelector<HTMLElement>('[data-info]')!;
+    const infoTexto = form.querySelector<HTMLElement>('[data-info-texto]')!;
+    const descripcion = form.querySelector<HTMLTextAreaElement>('[name="descripcion"]')!;
+    const link = form.querySelector<HTMLInputElement>('[name="prueba_url"]')!;
+    const captura = form.querySelector<HTMLInputElement>('[name="prueba"]')!;
+    const bloque = form.querySelector<HTMLSelectElement>('[name="bloque"]');
+    const email = form.querySelector<HTMLInputElement>('[name="email"]')!;
+    const acciones = form.querySelector<HTMLElement>('.acciones')!;
+    const boton = form.querySelector<HTMLButtonElement>('button[type="submit"]')!;
+
+    const fallar = (texto: string, campo: HTMLElement) => {
+      errorTexto.textContent = texto;
+      error.hidden = false;
+      info.hidden = true;
+      campo.setAttribute('aria-invalid', 'true');
+      campo.focus();
+    };
+
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      form.querySelectorAll('[aria-invalid]').forEach((c) => c.removeAttribute('aria-invalid'));
+      error.hidden = true;
+      info.hidden = true;
+      const archivo = captura.files?.[0];
+
+      if (bloque && !bloque.value) return fallar('Elegí qué parte de la ficha está mal.', bloque);
+      if (descripcion.value.trim().length < 5) return fallar('Contanos un poco más: necesitamos saber qué está mal.', descripcion);
+      if (!link.value.trim() && !archivo) return fallar('Falta la prueba: pegá el link a la fuente oficial o subí una captura.', link);
+      if (link.value.trim() && !link.validity.valid) return fallar('El link no parece válido. Tiene que empezar con https://', link);
+      if (archivo && !/^image\/(png|jpeg|webp)$/.test(archivo.type)) return fallar('La captura tiene que ser una imagen PNG, JPG o WebP.', captura);
+      if (archivo && archivo.size > MAX_BYTES) return fallar('La captura pesa más de 5 MB. Probá con una más chica o mandá el link.', captura);
+      if (email.value && !email.validity.valid) return fallar('Revisá el email: no parece válido.', email);
+
+      boton.disabled = true;
+      try {
+        const respuesta = await fetch(form.action, { method: 'POST', body: new FormData(form) });
+        const datos = (await respuesta.json().catch(() => ({}))) as { error?: { mensaje?: string } };
+        if (!respuesta.ok) {
+          const turnstile = (window as unknown as { turnstile?: { reset(): void } }).turnstile;
+          turnstile?.reset();
+          throw new Error(datos.error?.mensaje ?? 'No pudimos enviar el reporte. Probá de nuevo en un rato.');
+        }
+        infoTexto.textContent = '¡Listo! Recibimos tu reporte. Lo revisamos y, si corresponde, corregimos la ficha.';
+        info.hidden = false;
+        acciones.hidden = true;
+        form.querySelectorAll<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement>('input:not([type="hidden"]), textarea, select').forEach((campo) => {
+          campo.disabled = true;
+        });
+      } catch (fallo) {
+        const mensaje = fallo instanceof Error ? fallo.message : 'No pudimos enviar el reporte. Probá de nuevo en un rato.';
+        errorTexto.textContent = mensaje;
+        error.hidden = false;
+      } finally {
+        boton.disabled = false;
+      }
+    });
+  });
+</script>
+
+<style>
+  .reporte { scroll-margin-top: var(--espacio-5); }
+  .reporte > summary { list-style: none; display: inline-flex; }
+  .reporte > summary::-webkit-details-marker { display: none; }
+  .reporte[open] > summary { margin-bottom: var(--espacio-5); }
+  .formulario {
+    display: grid; gap: var(--espacio-5);
+    background: var(--superficie); padding: var(--espacio-6); border-radius: var(--r-panel);
+  }
+  .intro { color: var(--tinta-2); }
+  .prueba { border: 0; border-radius: 22px; background: var(--fondo); padding: var(--espacio-5); margin: 0; gap: var(--espacio-4); }
+  .prueba legend { float: left; width: 100%; margin-bottom: var(--espacio-2); }
+  .prueba legend { padding-inline: var(--espacio-1); }
+  .opcional { font-weight: 400; color: var(--tinta-2); }
+  .obligatorio { font-weight: 400; color: var(--tinta-2); }
+  .archivo { padding-block: var(--espacio-3); font: var(--t-cuerpo-chico); }
+  .archivo::file-selector-button {
+    font: var(--t-etiqueta); color: var(--tinta); background: var(--superficie);
+    border: 1.5px solid var(--borde-fuerte); border-radius: var(--radio-chico);
+    padding: var(--espacio-2) var(--espacio-3); margin-right: var(--espacio-3); cursor: pointer;
+  }
+  .mensaje-info {
+    display: flex; gap: var(--espacio-2); align-items: flex-start;
+    background: var(--celeste-suave); color: var(--tinta);
+    padding: var(--espacio-3); font: var(--t-cuerpo-chico);
+  }
+  .mensaje-info[hidden] { display: none; }
+  .acciones { display: flex; }
+  .acciones[hidden] { display: none; }
+  @media (max-width: 479px) { .acciones .btn { width: 100%; } }
+</style>

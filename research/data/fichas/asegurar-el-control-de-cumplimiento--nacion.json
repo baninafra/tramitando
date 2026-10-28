@@ -1,0 +1,88 @@
+{
+  "tramite": {
+    "slug": "asegurar-el-control-de-cumplimiento",
+    "nombre": "Asegurar el control de cumplimiento",
+    "nombre_busqueda": "control de cumplimiento reglamentos técnicos DNRT",
+    "resumen": "Si fabricás o importás productos alcanzados por reglamentaciones técnicas y recibís un requerimiento, tenés que presentar la documentación ante la Dirección Nacional de Reglamentos Técnicos.",
+    "sinonimos": [
+      "responder requerimiento de reglamentos técnicos",
+      "presentar documentación a la DNRT",
+      "acreditar requisitos de reglamentaciones técnicas"
+    ],
+    "temas": [
+      "comercio-e-industria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Reglamentos Técnicos",
+    "sigla": "DNRT",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Fabricantes e importadores."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener CUIT y clave fiscal nivel 2 en ARCA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contar con Trámites a Distancia (TAD) asociado a ARCA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si hacés el trámite en nombre de una empresa, tener hecha la delegación de servicios en ARCA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Llevar el instrumento constitutivo o el poder que acredite tu personería como representante de la empresa.",
+        "aclaracion": "Lo tenés que adjuntar cuando presentás la documentación."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Reuní la documentación que te pide el requerimiento y guardala en formato PDF."
+      },
+      {
+        "texto": "Armá una nota con el número de expediente principal, el de referencia donde te notificaron el requerimiento, y pedí que la presentación se remita al Buzón DNRT#MEC - PVD."
+      },
+      {
+        "texto": "Presentá la documentación por expediente a través de TAD con tu CUIT y clave fiscal."
+      },
+      {
+        "texto": "Si no podés usar TAD, enviá la documentación por correo electrónico a la mesa de entradas virtual, con copia, como indica el requerimiento."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": false,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si no cumplís el requerimiento, pueden aplicarte las sanciones de la Ley N° 24.240 y el Decreto N° 274/2019, sin perjuicio de la responsabilidad penal, civil o administrativa."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/asegurar-el-control-de-cumplimiento",
+      "titulo": "Asegurar el control de cumplimiento | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:38:00.979Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No dice cuánto cuesta el trámite.",
+    "No figuran las direcciones de correo electrónico de la mesa de entradas virtual.",
+    "No dice cuánto tarda la revisión de la documentación."
+  ]
+}

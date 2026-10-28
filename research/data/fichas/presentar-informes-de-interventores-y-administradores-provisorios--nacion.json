@@ -1,0 +1,90 @@
+{
+  "tramite": {
+    "slug": "presentar-informes-de-interventores-y-administradores-provisorios",
+    "nombre": "Presentar informes de interventores y administradores provisorios",
+    "nombre_busqueda": "Presentar informes interventores administradores provisorios",
+    "resumen": "Los interventores y administradores provisorios de los Agentes del Seguro de Salud deben presentar mensualmente informes ante la Superintendencia de Servicios de Salud.",
+    "sinonimos": [],
+    "temas": [
+      "gobierno-y-participacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Servicios de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Interventores y administradores provisorios de los Agentes del Seguro de Salud designados mediante acto administrativo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nombre y apellido",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUIL",
+        "aclaracion": null
+      },
+      {
+        "texto": "RNOS de la Obra Social que representa",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombre de la Obra Social que representa",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de Acto Administrativo de Designación",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informe de gestión",
+        "aclaracion": null
+      },
+      {
+        "texto": "Usuario de AFIP y Clave Fiscal 3",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al trámite Protocolo de Excepción para el recupero de prestaciones por VIH mediante la plataforma de Trámites A Distancia (TAD)."
+      },
+      {
+        "texto": "Cargá los datos y la documentación solicitada."
+      },
+      {
+        "texto": "Finalizá el trámite apretando el botón de Confirmar trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Los trámites TAD serán recepcionados por la Gerencia General de la Superintendencia de Servicios de Salud."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/presentar-informes-de-interventores-y-administradores-provisorios",
+      "titulo": "Presentar informes de interventores y administradores provisorios | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T07:33:39.124Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo exacto de presentación de los informes mensuales no está especificado en el texto."
+  ]
+}

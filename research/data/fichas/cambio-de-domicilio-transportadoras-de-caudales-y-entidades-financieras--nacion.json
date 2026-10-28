@@ -1,0 +1,84 @@
+{
+  "tramite": {
+    "slug": "cambio-de-domicilio-transportadoras-de-caudales-y-entidades-financieras",
+    "nombre": "Cambio de domicilio transportadoras de caudales y entidades financieras",
+    "nombre_busqueda": "cambio domicilio transportadoras caudales entidades financieras",
+    "resumen": "Informá el cambio de domicilio de transportadoras de caudales y entidades financieras inscriptas en el BCRA de forma presencial en ANMaC.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMaC",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Transportadoras de caudales y entidades financieras inscriptas en el BCRA."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota firmada por el representante legal o titular del usuario colectivo solicitando el cambio de domicilio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de libre reproducción sobre Condiciones de Seguridad del lugar de guarda del material cuando el mismo no se utilice en los objetivos, debidamente intervenido por la Autoridad Local de Fiscalización.",
+        "aclaracion": "Solo si el lugar de guarda no se utiliza en los objetivos."
+      },
+      {
+        "texto": "Declaración Jurada correspondiente según la Resolución 119/18.",
+        "aclaracion": "Solo si se muda el Sector de Guarda de Armas."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Completá la solicitud electrónica ingresando a través de la página miAnmac y presionando SOLICITUD."
+      },
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 2000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/cambio-de-domicilio-transportadoras-de-caudales-y-entidades-financieras"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/cambio-de-domicilio-transportadoras-de-caudales-y-entidades-financieras",
+      "titulo": "Cambio de domicilio Transportadoras de Caudales y Entidades Financieras | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T04:58:17.594Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de oficinas",
+    "Localidad",
+    "Nombre de oficinas",
+    "Requisito de DNI argentino",
+    "Requisito de cuenta en Mi Argentina",
+    "Vigencia desde",
+    "Turno online"
+  ]
+}

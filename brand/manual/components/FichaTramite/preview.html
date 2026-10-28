@@ -1,0 +1,31 @@
+<!-- @dsCard group="Contenido" height=260 subtitle="Tarjeta de resultado (datos de ejemplo)" -->
+<link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  body { margin: 0; background: var(--superficie); font-family: var(--font-sans); color: var(--tinta); }
+  .zona { padding: var(--espacio-5); display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: var(--espacio-4); }
+  .ficha { display: grid; gap: var(--espacio-3); background: var(--superficie-alta); border: 1px solid var(--borde); border-radius: var(--radio-grande); box-shadow: var(--sombra-tarjeta); padding: var(--espacio-5); text-decoration: none; color: inherit; }
+  .ficha:focus-visible { outline: 2px solid var(--foco); outline-offset: 2px; }
+  .chip { font: 500 13px/18px var(--font-sans); color: var(--tinta-2); }
+  h3 { margin: 0; font: 600 19px/26px var(--font-sans); }
+  .datos { display: grid; grid-template-columns: 1fr 1fr; gap: var(--espacio-3); }
+  .datos small { display: block; font: 500 13px/18px var(--font-sans); color: var(--tinta-suave); }
+  .datos b { font: 600 14px/20px var(--font-sans); font-variant-numeric: tabular-nums; }
+  .sello { justify-self: start; display: inline-flex; align-items: center; gap: 6px; font: 500 13px/18px var(--font-sans); padding: var(--espacio-1) var(--espacio-3) var(--espacio-1) var(--espacio-2); border-radius: var(--radio-pildora); }
+  .ok { background: var(--verificado-fondo); color: var(--verificado); }
+  .rev { background: var(--aviso-fondo); color: var(--aviso); }
+  svg { width: 16px; height: 16px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+</style>
+<div class="zona">
+  <a class="ficha" href="#">
+    <span class="chip">Nación · RENAPER</span>
+    <h3>Renovación de DNI</h3>
+    <div class="datos"><div><small>Costo</small><b>$ 12.500</b></div><div><small>Plazo habitual</small><b>15 días hábiles</b></div></div>
+    <span class="sello ok"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="m8 12 3 3 5-6"/></svg>Verificado el 14/10/2026</span>
+  </a>
+  <a class="ficha" href="#">
+    <span class="chip">Municipio de Rosario · Santa Fe</span>
+    <h3>Licencia de conducir (primera vez)</h3>
+    <div class="datos"><div><small>Costo</small><b>$ 38.900</b></div><div><small>Plazo habitual</small><b>En el día</b></div></div>
+    <span class="sello rev"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M12 7v5l3 2"/></svg>Puede estar desactualizado</span>
+  </a>
+</div>

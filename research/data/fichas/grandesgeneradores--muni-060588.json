@@ -1,0 +1,74 @@
+{
+  "tramite": {
+    "slug": "registro-de-grande-generador",
+    "nombre": "Registro de gran generador",
+    "nombre_busqueda": "Registro de gran generador",
+    "resumen": "El trámite para registrar como gran generador de residuos en la ciudad de 9 de Julio.",
+    "sinonimos": [],
+    "temas": [
+      "ambiente-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060588",
+  "organismo": {
+    "nombre": "Municipalidad de 9 de Julio",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona natural o jurídica que genere residuos en la ciudad de 9 de Julio."
+    ],
+    "requisitos": [
+      {
+        "texto": "Copia del documento de identidad del titular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del documento de identidad del representante legal en caso de persona jurídica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del certificado de domicilio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del certificado de actividad.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá los requisitos en la oficina de gestión ambiental."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.9dejulio.gob.ar/grandesGeneradores.php",
+      "titulo": "Municipalidad de 9 de Julio - Grandes Generadores",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T02:53:13.415Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de la oficina de gestión ambiental.",
+    "Horario de atención de la oficina.",
+    "Monto de la tasa municipal.",
+    "Plazo de emisión del registro.",
+    "Si se requiere turno previo."
+  ]
+}

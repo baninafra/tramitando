@@ -1,0 +1,108 @@
+{
+  "tramite": {
+    "slug": "actualizar-dni-entre-los-5-y-los-8-anos",
+    "nombre": "Actualizar el DNI entre los 5 y los 8 años",
+    "nombre_busqueda": "Actualizar DNI 5 a 8 años",
+    "resumen": "Si tenés hijos o menores legalmente a cargo que entran en edad escolar (entre 5 y 8 años), tenés que actualizarles el DNI. El trámite lleva 15 minutos y tiene un costo de 10000 centavos.",
+    "sinonimos": [
+      "Actualizar DNI menores 5 a 8 años",
+      "Renovar DNI escolar"
+    ],
+    "temas": [
+      "dni"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Renaper",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Hijos o menores legalmente a cargo que entran en edad escolar (entre 5 y 8 años)."
+    ],
+    "requisitos": [
+      {
+        "texto": "Acompañamiento del padre, madre o representante legal; y su DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditación del representante legal, cuando corresponda: Oficio judicial o testimonio de tutela del menor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el menor se encuentra en un hogar: Autorización de representación firmada y sellada por la autoridad competente que corresponda.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Oficio judicial o testimonio de guarda provisoria con fines de adopción, si aplica.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Elegí el Registro Civil más cercano a tu domicilio o sacá turno para un Centro de Documentación Renaper en la app Mi Argentina."
+      },
+      {
+        "texto": "Presentate en la oficina elegida con la constancia de turno y el comprobante de pago, si ya abonaste el trámite."
+      },
+      {
+        "texto": "Guardá la constancia de solicitud de trámite y hacé el seguimiento online con tu ID desde aquí."
+      },
+      {
+        "texto": "Retiralo en la oficina con la constancia de solicitud de trámite."
+      },
+      {
+        "texto": "O, si va el correo a tu domicilio, recibilo vos o alguien mayor de 18 años con la constancia de solicitud de trámite."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://mi.argentina.gob.ar/turnos/seleccion-turno/1070",
+    "plazo": "15 minutos",
+    "consejos": [
+      "Vigencia Hasta la siguiente actualización de 14 años."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 10000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/actualizar-el-dni-entre-los-5-y-los-8-anos"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/actualizar-el-dni-entre-los-5-y-los-8-anos",
+      "titulo": "Actualizar el DNI entre los 5 y los 8 años | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T04:16:56.630Z"
+    },
+    {
+      "url": "https://mi.argentina.gob.ar/turnos/seleccion-turno/1070",
+      "titulo": "Ingresar | Mi Argentina",
+      "bloques": [
+        "pasos"
+      ],
+      "consultada_en": "2026-10-26T04:16:56.630Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de oficinas",
+    "Ubicación de oficinas"
+  ]
+}

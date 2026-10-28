@@ -1,0 +1,80 @@
+{
+  "tramite": {
+    "slug": "cambios-y-baja-de-habilitacion",
+    "nombre": "Dar de baja comercio",
+    "nombre_busqueda": "Dar de baja comercio",
+    "resumen": "Para dar de baja su comercio local, debe presentarse en el palacio municipal entre las 7 y las 13 hs con la nota solicitante y la baja de AFIP.",
+    "sinonimos": [],
+    "temas": [
+      "comercio-e-industria",
+      "cambios-y-baja-de-habilitacion",
+      "tasas-e-impuestos-municipales",
+      "tasa-de-comercio-e-industria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141498",
+  "organismo": {
+    "nombre": "Municipalidad de Tancacha",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El Sr. contribuyente."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota solicitando la baja de su local comercial.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Baja de AFIP.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en el palacio municipal entre las 7 y las 13 hs."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 700000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.tancacha.gob.ar/bajaComercio.html"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.tancacha.gob.ar/bajaComercio.html",
+      "titulo": "Municipalidad de Tancacha - Baja de comercio",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T12:13:10.731Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horario de atención: 7 a 13 hs.",
+    "Dirección exacta del palacio municipal.",
+    "Ubicación de la oficina.",
+    "Localidad.",
+    "Vigencia del trámite.",
+    "Si se requiere turno.",
+    "Enlace para sacar turno."
+  ]
+}

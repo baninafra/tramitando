@@ -1,0 +1,83 @@
+{
+  "tramite": {
+    "slug": "consultar-infracciones-transito",
+    "nombre": "Consultar si tenés infracciones de tránsito",
+    "nombre_busqueda": "Consultar si tenés infracciones de tránsito",
+    "resumen": "Podés consultar si tenés infracciones de tránsito pendientes de pago de forma gratuita en línea, ingresando tu número de DNI.",
+    "sinonimos": [
+      "Consulta CENAT",
+      "Verificar multas de tránsito",
+      "Consultar antecedentes de tránsito"
+    ],
+    "temas": [
+      "infracciones-y-multas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Agencia Nacional de Seguridad Vial",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que pretenda realizar trámites con su licencia de conducir."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de DNI",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá tu número de documento y realizá la consulta en línea."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El modelo del acta única de infracción, los juzgados adheridos y las entidades de pago están disponibles para consultar.",
+      "Las preguntas frecuentes sobre infracciones también están disponibles."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consultar-si-tenes-infracciones-de-transito",
+      "titulo": "Consultar si tenés infracciones de tránsito | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T05:21:59.858Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/seguridadvial/licencianacional/infracciones/entidadesdepago",
+      "titulo": "Entidades de pago | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T05:21:59.858Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T05:21:59.858Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La vigencia exacta del trámite no está especificada en el texto.",
+    "No se indica si el trámite requiere turno presencial."
+  ]
+}

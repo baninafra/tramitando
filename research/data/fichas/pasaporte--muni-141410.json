@@ -1,0 +1,92 @@
+{
+  "tramite": {
+    "slug": "pasaporte",
+    "nombre": "Pasaporte",
+    "nombre_busqueda": "Pasaporte",
+    "resumen": "Para obtener un pasaporte en Villa Parque Santa Ana necesitás presentar tu DNI y, si sos menor, la acta de nacimiento y los documentos de tus padres. El trámite tiene dos modalidades: normal y express.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad",
+      "pasaporte"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141410",
+  "organismo": {
+    "nombre": "Municipio de Villa Parque Santa Ana",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Menores de edad",
+      "Mayores de edad"
+    ],
+    "requisitos": [
+      {
+        "texto": "Acta de nacimiento digitalizada",
+        "aclaracion": "Si sos menor de edad."
+      },
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI de los padres",
+        "aclaracion": "Si sos menor de edad."
+      },
+      {
+        "texto": "Acta de matrimonio de los padres",
+        "aclaracion": "Si sos menor de edad."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "Normal",
+      "gratis": false,
+      "monto_centavos": 1000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://villaparquesantaana.gob.ar/guia-de-tramites/pasaporte/"
+    },
+    {
+      "modalidad": "Express",
+      "gratis": false,
+      "monto_centavos": 2000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://villaparquesantaana.gob.ar/guia-de-tramites/pasaporte/"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://villaparquesantaana.gob.ar/guia-de-tramites/pasaporte/",
+      "titulo": "Pasaporte – Municipio de Villa Parque Santa Ana",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T18:34:40.414Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina",
+    "Localidad de la oficina",
+    "Nombre de la oficina",
+    "Requisitos para mayores de edad",
+    "Requisitos para pasaporte anterior",
+    "Pasos del trámite",
+    "Plazo de tramitación",
+    "Requisito de turno",
+    "Vigencia desde"
+  ]
+}

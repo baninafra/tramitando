@@ -1,0 +1,135 @@
+{
+  "tramite": {
+    "slug": "inscripcion-de-variedades-vegetales-en-rnpc",
+    "nombre": "Inscribir variedades vegetales en el RNPC",
+    "nombre_busqueda": "Inscribir variedades vegetales en el Registro Nacional de la Propiedad de Cultivares",
+    "resumen": "Este trámite protege el derecho de propiedad de los creadores de nuevas variedades vegetales mediante el Registro Nacional de la Propiedad de Cultivares (RNPC). Se realiza en línea a través de TAD y requiere presentar varios anexos técnicos y documentos de personería.",
+    "sinonimos": [
+      "Inscripción de cultivares",
+      "Registro de variedades vegetales",
+      "Título de Propiedad de Cultivares"
+    ],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto Nacional de Semillas",
+    "sigla": "INASE",
+    "web": "https://www.argentina.gob.ar/servicio/inscribir-variedades-vegetales-en-el-registro-nacional-de-la-propiedad-de-cultivares"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Toda persona física o jurídica que desee inscribir una variedad en el RNPC."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de Declaración Jurada de Solicitud de Inscripción",
+        "aclaracion": null
+      },
+      {
+        "texto": "Anexo I: Datos del Solicitante",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descriptor de Cultivares - Anexo II",
+        "aclaracion": null
+      },
+      {
+        "texto": "Anexo III: Fundamentación de Novedad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Anexo IV.a: Procedimiento para el mantenimiento de la pureza varietal (quién, cómo y dónde se realiza el procedimiento)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Anexo IV.b: Origen genético - Método de Obtención - Historia del mejoramiento de la variedad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Anexo IV.c: Condición de OGM de la variedad y evento incorporado a la misma",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento que acredite la personería del representante legal que lo faculta a actuar como tal",
+        "aclaracion": null
+      },
+      {
+        "texto": "En el caso de variedades de origen extranjero: poder del creador/titular de la variedad debidamente legalizado y traducido",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresa a TAD y utiliza para identificarte alguna de las formas que ofrece el sistema"
+      },
+      {
+        "texto": "Completá los campos solicitados e incorpora la documentación requerida"
+      },
+      {
+        "texto": "Cuando termines se generará un número de expediente que les permitirá realizar el seguimiento del mismo"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Se elabora el aviso de oposición de terceros interesados. El mismo deberá ser publicado, por un día, en el Boletín Oficial y en dos periódicos de amplia difusión",
+      "Se le comunica al Solicitante que deberá abonar el arancel correspondiente a la Inscripción del Cultivar",
+      "Se le comunica al Solicitante la Resolución de Inscripción, la cual deberá ser publicada por un día en el Boletín Oficial",
+      "El INASE pública la variedad en el Catálogo Nacional de Cultivares",
+      "Se imprime el Título de Propiedad y se entrega al Solicitante",
+      "Resolución 1/2024 Vigencia 20 años"
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 47124000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-variedades-vegetales-en-el-registro-nacional-de-la-propiedad-de-cultivares"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 23562000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-variedades-vegetales-en-el-registro-nacional-de-la-propiedad-de-cultivares"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 18921000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-variedades-vegetales-en-el-registro-nacional-de-la-propiedad-de-cultivares"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribir-variedades-vegetales-en-el-registro-nacional-de-la-propiedad-de-cultivares",
+      "titulo": "Inscribir variedades vegetales en el Registro Nacional de la Propiedad de Cultivares | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T17:16:26.158Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia de la Resolución 1/2024 no está especificada con precisión en el texto, solo se menciona 'Vigencia 20 años'",
+    "No se especifica si el trámite requiere turno ni se proporciona un enlace para sacarlo"
+  ]
+}

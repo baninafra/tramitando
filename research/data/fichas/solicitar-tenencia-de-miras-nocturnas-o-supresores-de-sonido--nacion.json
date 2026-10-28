@@ -1,0 +1,132 @@
+{
+  "tramite": {
+    "slug": "solicitar-tenencia-de-miras-nocturnas-o-supresores-de-sonido",
+    "nombre": "Solicitar tenencia de miras nocturnas o supresores de sonido",
+    "nombre_busqueda": "Solicitar tenencia de miras nocturnas o supresores de sonido",
+    "resumen": "Los legítimos usuarios vigentes de armas de Uso Civil Condicional pueden solicitar la tenencia de supresor o mira en el RENAR presentando documentación específica y acreditando la compatibilidad con su arma registrada.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro Nacional de Armas",
+    "sigla": "RENAR",
+    "web": "https://www.argentina.gob.ar/servicio/solicitar-tenencia-de-miras-nocturnas-o-supresores-de-sonido"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Legítimos usuarios vigentes de armas de Uso Civil Condicional."
+    ],
+    "requisitos": [
+      {
+        "texto": "Certificado de Legítimo Usuario.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de socio de un club de tiro autorizado o licencia de caza vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Usuario y contraseña de MiArgentina con validación biométrica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Anexo I - Declaración jurada solicitud de autorización de tenencia supresor/moderador de sonido – dispositivo/mira nocturna.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Pedí turno para el trámite ingresando a la plataforma MiRENAR con tu usuario y contraseña de MiArgentina o gestiona el turno en la sede del RENAR que elijas."
+      },
+      {
+        "texto": "Completa el Anexo I y abona el arancel en la misma sede."
+      },
+      {
+        "texto": "Podes descargarlo y llevarlo completo."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acreditar tu vínculo con la actividad."
+      },
+      {
+        "texto": "Presenta en la sede elegida, físicamente: Certificación de socio de una entidad de tiro autorizada e inscripta ante el RENAR, o Licencia o permiso de caza vigente, expedido por la autoridad nacional o provincial competente, para actividad cinegética en un predio habilitado e inscripto ante el RENAR."
+      },
+      {
+        "texto": "Declarar el dispositivo y el arma compatible."
+      },
+      {
+        "texto": "Declara ante el RENAR el supresor/moderador de sonido o mira nocturna que querés registrar, y acredita la compatibilidad con el arma de fuego registrada a tu nombre."
+      },
+      {
+        "texto": "Completa el formulario y pagar el arancel."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://www.argentina.gob.ar/turnos",
+    "plazo": null,
+    "consejos": [
+      "El RENAR evalúa la solicitud -incluida la compatibilidad técnica y funcional razonable entre el dispositivo y las armas de tu legajo registral- y te notifica el resultado a través del correo electrónico que hayas constituido en Mi RENAR (por favor verifica en carpeta de SPAM).",
+      "Aclaración: en caso de solicitar una mira nocturna para actividades cinegéticas, su utilización estará sujeta a la normativa vigente en la jurisdicción correspondiente y requerirá contar con el permiso de caza otorgado por la autoridad competente."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 200000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-tenencia-de-miras-nocturnas-o-supresores-de-sonido"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-tenencia-de-miras-nocturnas-o-supresores-de-sonido",
+      "titulo": "Solicitar tenencia de miras nocturnas o supresores de sonido | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T10:24:09.024Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-credencial-digital-de-legitimo-usuario-clu",
+      "titulo": "Solicitar la Credencial digital de Legitimo Usuario (CLU) | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T10:24:09.024Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T10:24:09.024Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El valor exacto de la Unidad RENAR no está especificado en el texto, solo se indica que consultar en MiRENAR.",
+    "El plazo de evaluación y notificación no está especificado en el texto."
+  ]
+}

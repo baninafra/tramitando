@@ -1,0 +1,104 @@
+{
+  "tramite": {
+    "slug": "habilitacion-de-transporte-de-sustancias-alimenticias",
+    "nombre": "Habilitación de transporte de sustancias alimenticias",
+    "nombre_busqueda": "Habilitación transporte sustancias alimenticias",
+    "resumen": "El dueño debe llevar el vehículo a Bromatología para inspección y luego presentar documentación en la Mesa de Entradas para obtener el certificado.",
+    "sinonimos": [],
+    "temas": [
+      "bromatologia-y-alimentos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060049",
+  "organismo": {
+    "nombre": "Municipio de Azul",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El dueño del vehículo"
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia de tarjeta verde o comprobante de compra/venta",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia VTV",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de la poliza de seguro",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Llevá el vehículo a Bromatología para la inspección (higiene, estado, separación de caja/cabina y frío). Allí se entrega el formulario inicial y la boleta de pago."
+      },
+      {
+        "texto": "Presentá formulario inicial y documentación exigida en Mesa de Entradas del Palacio Municipal."
+      },
+      {
+        "texto": "Retirá Certificado de Habilitacion del Transporte por Oficina de Bromatología."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "Vehiculos tipo furgon/pick up",
+      "gratis": false,
+      "monto_centavos": 1594000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.azul.gob.ar/tramites/habilitacion-de-transporte-de-sustancias-alimenticias"
+    },
+    {
+      "modalidad": "Chasis y acoplados",
+      "gratis": false,
+      "monto_centavos": 1912800,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.azul.gob.ar/tramites/habilitacion-de-transporte-de-sustancias-alimenticias"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Of. Bromatología",
+      "direccion": "Estación Ferrocarril. Calle Alberdi e H. Yrigoyen",
+      "localidad": "Estación Ferrocarril. Calle Alberdi e H. Yrigoyen",
+      "horario": null,
+      "fuente_url": "https://www.azul.gob.ar/tramites/habilitacion-de-transporte-de-sustancias-alimenticias"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.azul.gob.ar/tramites/habilitacion-de-transporte-de-sustancias-alimenticias",
+      "titulo": "Habilitación de Transporte de sustancias alimenticias | Municipio de Azul",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T02:04:35.437Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Vigencia del trámite",
+    "Plazo de tramitación",
+    "Requisitos adicionales para menores o casos especiales",
+    "Pasos online"
+  ]
+}

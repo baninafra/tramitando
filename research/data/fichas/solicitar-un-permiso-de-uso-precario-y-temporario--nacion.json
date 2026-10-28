@@ -1,0 +1,134 @@
+{
+  "tramite": {
+    "slug": "solicitar-permiso-uso-precario-temporario",
+    "nombre": "Solicitar un permiso de uso precario y temporario",
+    "nombre_busqueda": "permiso de uso temporario de un inmueble del Estado",
+    "resumen": "Podés pedir a la Agencia de Administración de Bienes del Estado permiso para usar temporalmente un inmueble nacional en una actividad breve. El permiso puede durar hasta tres meses y renovarse una vez por el mismo plazo.",
+    "sinonimos": [
+      "permiso de uso temporario",
+      "permiso de uso de inmueble del Estado"
+    ],
+    "temas": [
+      "catastro-e-inmuebles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Agencia de Administración de Bienes del Estado",
+    "sigla": "AABE",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas humanas.",
+      "Personas jurídicas."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI.",
+        "aclaracion": "Si sos una persona humana."
+      },
+      {
+        "texto": "Constancia de inscripción en AFIP.",
+        "aclaracion": "Si sos una persona humana."
+      },
+      {
+        "texto": "Certificado Fiscal para contratar con el Estado.",
+        "aclaracion": "Si sos una persona humana."
+      },
+      {
+        "texto": "Croquis del inmueble solicitado, con su ubicación respecto del ejido urbano y el polígono delimitado entre calles.",
+        "aclaracion": "Para personas humanas y jurídicas."
+      },
+      {
+        "texto": "Foto del inmueble.",
+        "aclaracion": "Para personas humanas y jurídicas."
+      },
+      {
+        "texto": "Foto satelital del inmueble.",
+        "aclaracion": "Para personas humanas y jurídicas."
+      },
+      {
+        "texto": "Formulario «Proyecto sobre Inmueble Solicitado».",
+        "aclaracion": "Para personas humanas y jurídicas."
+      },
+      {
+        "texto": "Documentación adicional, si corresponde.",
+        "aclaracion": "Opcional para personas humanas y jurídicas."
+      },
+      {
+        "texto": "Copia certificada del estatuto.",
+        "aclaracion": "Si sos una persona jurídica."
+      },
+      {
+        "texto": "Copia certificada del acta de designación de autoridades.",
+        "aclaracion": "Si sos una persona jurídica."
+      },
+      {
+        "texto": "Copia certificada del poder para firmar.",
+        "aclaracion": "Si sos una persona jurídica."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al Sistema de Tramitación a Distancia (TAD) con tu CUIT o CUIL y clave fiscal de nivel 3."
+      },
+      {
+        "texto": "Confirmá tus datos personales cuando el sistema te lo pida por primera vez y aceptá los términos y condiciones."
+      },
+      {
+        "texto": "Si actuás como apoderado, ingresá con tu CUIT y clave fiscal y elegí quién será el titular que realizará el trámite. Solo puede actuar como apoderado quien figure como tal para ese CUIT en AFIP."
+      },
+      {
+        "texto": "Seleccioná «Nuevo trámite» y elegí la Agencia de Administración de Bienes del Estado."
+      },
+      {
+        "texto": "Buscá el trámite correspondiente y leé la descripción «Detalles» sobre cómo presentar la documentación por TAD."
+      },
+      {
+        "texto": "Confirmá tus datos y completá el formulario con la documentación obligatoria."
+      },
+      {
+        "texto": "Seleccioná «Confirmá trámite» para finalizar la presentación."
+      },
+      {
+        "texto": "Guardá el número de expediente y los documentos asociados que muestra el sistema."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Pedí el permiso con antelación suficiente a la actividad.",
+      "El permiso puede durar hasta tres meses y renovarse una sola vez por el mismo plazo.",
+      "El canon lo fija la Agencia de Administración de Bienes del Estado.",
+      "No se permiten construcciones adheridas permanentemente al suelo.",
+      "Al terminar, tenés que dejar el inmueble desocupado y libre de instalaciones.",
+      "La Agencia puede revocar el permiso en cualquier momento por razones de oportunidad, mérito o conveniencia, sin que corresponda indemnización o compensación."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-un-permiso-de-uso-precario-y-temporario",
+      "titulo": "Solicitar un Permiso de Uso precario y Temporario | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T16:23:57.824Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto del canon no está especificado; lo fija la Agencia.",
+    "No se informa un plazo de resolución.",
+    "No se especifica si se requiere turno.",
+    "No se indica una fecha exacta de vigencia del trámite."
+  ]
+}

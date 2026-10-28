@@ -1,0 +1,82 @@
+{
+  "tramite": {
+    "slug": "tramitar-informe-ndeg-1-dominio-y-gravamenes",
+    "nombre": "Tramitar informe ndeg 1 dominio y gravámenes",
+    "nombre_busqueda": "informe ndeg 1 dominio gravamen",
+    "resumen": "Este trámite permite conocer a nombre de quién se encuentra una propiedad radicada en la Ciudad Autónoma de Buenos Aires y si posee algún tipo de gravamen. Se puede realizar en línea en CABA o en los registros del interior del país.",
+    "sinonimos": [
+      "Informe N° 1 dominio y gravámenes",
+      "Informe de dominio y gravámenes",
+      "Informe de dominio"
+    ],
+    "temas": [
+      "catastro-e-inmuebles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro de la Propiedad Inmueble",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Un profesional: escribano, abogado, procurador, agrimensor, ingeniero, arquitecto, contador público, martillero",
+      "Quien acredite tener interés legítimo a juicio de la Dirección del Registro"
+    ],
+    "requisitos": [
+      {
+        "texto": "La matrícula del inmueble o su inscripción dominial (Zona, Tomo y Folio, Finca, Unidad Funcional, etc.)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Una cuenta de email válida",
+        "aclaracion": null
+      },
+      {
+        "texto": "Una cuenta bancaria para abonar VEPs",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la página web del Registro de la Propiedad Inmueble de Capital Federal y seleccioná la forma de solicitar el Informe."
+      },
+      {
+        "texto": "Si sos un usuario abonado al Sistema RPIWEB ingresá a 'Trámites web para usuario registrados'; si no sos un usuario abonado ingresá a 'Informes con pago electrónico (público en general)'."
+      },
+      {
+        "texto": "Llená el formulario de solicitud."
+      },
+      {
+        "texto": "Recibí un email en la cuenta que informaste con los datos para descargar el Informe desde la página web del Registro de la Propiedad Inmueble de Capital Federal, una vez que haya transcurrido el plazo según la modalidad que seleccionaste."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tramitar-informe-ndeg-1-dominio-y-gravamenes",
+      "titulo": "Tramitar Informe N° 1 - Dominio y Gravámenes | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-27T18:20:13.678Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto menciona la existencia de 3 modalidades (común, urgente y urgente exprés) pero no especifica los montos ni los requisitos específicos para cada una.",
+    "No se especifica el plazo de presentación para el Informe Nº 4 de inscripción dominial si no se cuenta con la matrícula."
+  ]
+}

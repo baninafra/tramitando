@@ -1,0 +1,90 @@
+{
+  "tramite": {
+    "slug": "habilitacion-comercial",
+    "nombre": "Habilitar establecimientos elaboradores de alimentos para animales",
+    "nombre_busqueda": "Habilitar establecimiento alimentos animales",
+    "resumen": "Para elaborar y/o comercializar productos destinados a la alimentación animal, necesitás solicitar la habilitación ante el Senasa cumpliendo las regulaciones de higiene e inocuidad.",
+    "sinonimos": [],
+    "temas": [
+      "habilitacion-comercial",
+      "bromatologia-y-alimentos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Todo aquel que quiera habilitar un establecimiento elaborador de alimento para animales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Pago del arancel, código IC007",
+        "aclaracion": null
+      },
+      {
+        "texto": "Manual de Buenas Prácticas de Manufactura (BPM)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Análisis de agua",
+        "aclaracion": null
+      },
+      {
+        "texto": "Respaldo Municipal (inicio de tramite/provisoria/definitiva)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Generá el Sigtramite 183 desde la Plataforma SigTrámites a nombre de la persona jurídica o física responsable de los cupones de pago y toda la documentación respaldatoria citada."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Comunicate con la Regional correspondiente a ese establecimiento y/o con el mail de la Coordinación General de Piensos y Granarios."
+      },
+      {
+        "texto": "El Centro Regional visitará tu establecimiento y verificará las condiciones higiénico sanitarias del mismo en relación al cumplimiento del Manual de Buenas Prácticas de Manufactura (BPM) presentado, finalizando el proceso."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Inocuidad y Calidad Agroalimentaria",
+      "direccion": "Paseo Colón 367 - 5º piso Frente, C1063, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/habilitar-establecimientos-elaboradores-de-alimentos-para-animales"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/habilitar-establecimientos-elaboradores-de-alimentos-para-animales",
+      "titulo": "Habilitar establecimientos elaboradores de alimentos para animales | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T16:17:00.066Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto del arancel no se especifica en el texto.",
+    "El plazo de tramitación no se especifica en el texto."
+  ]
+}

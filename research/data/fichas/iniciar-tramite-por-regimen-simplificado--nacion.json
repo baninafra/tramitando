@@ -1,0 +1,89 @@
+{
+  "tramite": {
+    "slug": "iniciar-tramite-por-regimen-simplificado",
+    "nombre": "Iniciar trámite por régimen simplificado",
+    "nombre_busqueda": "Iniciar trámite por régimen simplificado",
+    "resumen": "Procedimiento para realizar el trámite de régimen simplificado en División Técnica Naval para buques que no requieren Certificado Nacional de Seguridad de la Navegación.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El Propietario, Armador, Agente Marítimo, Profesional o apoderado con poder general o especial o autorización del propietario con firma debidamente certificada por escribano público."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota del propietario o armador, especificando la obra a realizar y si será certificada por un Profesional o una OR. Se debe indicar claramente el motivo de su apertura, incluyendo la solicitud de acogerse al RS.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poder de Persona actuante, en caso que el armador y/o propietario delegue la tramitación del expediente, por ejemplo, en un agente marítimo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de encomienda profesional, emitido por el Consejo Profesional de Ingeniería Naval (CPIN) (por \"Proyecto y/o Dirección de Obra\", \"Incorporación\", etc., según corresponda), indicando que la tarea se realizará bajo el RS.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Memoria técnica / descriptiva, firmada por el personal autorizado por la OR en el país o por el Profesional encomendado, según corresponda, detallando las características de la obra.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración de Características Registrales, de conformidad con el \"formulario - tnav - rs 1.1/25\" o \"formulario - tnav - rs 1.2/25\", según corresponda, incluido en el Anexo de la presente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Presentá la documentación indicada previamente en formato digital con firma digital del personal autorizado por la OR en el país o del Profesional encomendado, según corresponda, directamente en la Mesa de Entradas del TNAV."
+      },
+      {
+        "texto": "O presentá la documentación indicada previamente en formato digital con firma digital del personal autorizado por la OR en el país o del Profesional encomendado, según corresponda, a través de la Dependencia Jurisdiccional, la cual la remitirá mediante el sistema GDE a dicha repartición, junto con la solicitud de adhesión al RS."
+      },
+      {
+        "texto": "O presentá la documentación indicada previamente en formato digital con firma digital del personal autorizado por la OR en el país o del Profesional encomendado, según corresponda, a través del sistema oficial de Trámites a Distancia (TAD)."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación indicada previamente en formato físico firmada de puño y letra por el personal autorizado por la OR en el país o por el Profesional encomendado, según corresponda, directamente en la Mesa de Entradas del TNAV."
+      },
+      {
+        "texto": "O presentá la documentación indicada previamente en formato físico firmada de puño y letra por el personal autorizado por la OR en el país o por el Profesional encomendado, según corresponda, a través de la Dependencia Jurisdiccional, la cual la remitirá por correo oficial al TNAV, efectuando el giro formal de la solicitud de adhesión al RS mediante el sistema de Gestión Documental Electrónica de la Administración Pública (sistema \"GDE\")."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "24 horas",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/iniciar-tramite-por-regimen-simplificado",
+      "titulo": "Iniciar trámite por régimen simplificado | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T16:41:42.753Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La vigencia del trámite es de 90 días."
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "tramite": {
+    "slug": "solicitar-autorizacion-para-exportar-animales-vivos",
+    "nombre": "Solicitar autorización para exportar animales vivos",
+    "nombre_busqueda": "exportar animales vivos",
+    "resumen": "Para exportar animales vivos (excepto perros y gatos no tradicionales) necesitás una autorización del Senasa que incluye la emisión del Certificado Veterinario Internacional (CVI). El trámite se realiza en línea en la plataforma TAD y requiere declarar un domicilio electrónico.",
+    "sinonimos": [
+      "egreso de animales vivos",
+      "exportación de animales vivos"
+    ],
+    "temas": [
+      "viajar-con-menores-o-mascotas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Operadores comerciales o individuos particulares interesados en exportar animales vivos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Declarar domicilio electrónico en el sistema SIGTrámites.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Conocer el número de animales, especie, uso (reproducción, engorde, etc.) y país de destino/origen.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Consultar las exigencias sanitarias del país de destino.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estar inscripto en el Registro de Exportadores y/o Importadores en la Dirección General de Aduanas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tramitar CITES y el permiso para la exportación ante la Dirección de Fauna Silvestre si corresponde según la especie.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar a la plataforma TAD."
+      },
+      {
+        "texto": "Completar el formulario de solicitud de autorización."
+      },
+      {
+        "texto": "Adjuntar la documentación requerida."
+      },
+      {
+        "texto": "Abonar el arancel correspondiente."
+      },
+      {
+        "texto": "Recibir notificaciones en el correo electrónico y en TAD."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La vigencia de los certificados veterinarios de exportación varía según el país de destino.",
+      "Consultá los días y horarios de las Oficinas de Senasa autorizadas."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-autorizacion-para-exportar-animales-vivos",
+      "titulo": "Solicitar autorización para exportar animales vivos * | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T04:39:06.546Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no está especificado en el texto, consultar los Medios de pago habilitados en la plataforma TAD."
+  ]
+}

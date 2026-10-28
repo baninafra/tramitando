@@ -1,0 +1,88 @@
+{
+  "tramite": {
+    "slug": "adhesion-factura-electronica-municipal",
+    "nombre": "Adherir a la factura electrónica",
+    "nombre_busqueda": "factura electrónica municipal",
+    "resumen": "Podés pedir que te envíen por correo electrónico la factura de algunas tasas y derechos municipales. Si la adhesión se confirma, dejan de enviarte la boleta impresa por correo postal.",
+    "sinonimos": [
+      "adhesión a la factura electrónica",
+      "boleta digital municipal"
+    ],
+    "temas": [
+      "boletas-y-vencimientos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060385",
+  "organismo": {
+    "nombre": "Municipalidad de General Viamonte",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés solicitar la adhesión para la tasa por servicios urbanos municipales, la tasa por conservación, reparación y mejorado de la red vial municipal, la tasa por inspección en seguridad e higiene o la patente automotor."
+    ],
+    "requisitos": [
+      {
+        "texto": "Completá un formulario por cada partida o tasa que quieras adherir.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declarà una dirección de correo electrónico para recibir el mensaje de confirmación.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá y enviá el formulario de adhesión para cada partida o tasa."
+      },
+      {
+        "texto": "Esperá la revisión de la información por la oficina de ingresos públicos municipal."
+      },
+      {
+        "texto": "Confirmá la adhesión desde el correo electrónico que recibas si la información es correcta."
+      },
+      {
+        "texto": "Reclamá mediante el formulario de reclamo si la adhesión se hizo efectiva y no recibiste la boleta digital."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "La factura electrónica se envía desde el período posterior si al confirmarse la adhesión ya se había emitido un período.",
+    "consejos": [
+      "Al adherirte, dejan de enviarte la boleta en formato físico por correo postal."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": true,
+      "monto_centavos": null,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.generalviamonte.gob.ar/factura-electronica"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.generalviamonte.gob.ar/factura-electronica",
+      "titulo": "Factura Electrónica | Municipalidad de General Viamonte",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T13:41:28.327Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa si la adhesión requiere turno."
+  ]
+}

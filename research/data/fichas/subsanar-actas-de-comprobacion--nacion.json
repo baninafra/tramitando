@@ -1,0 +1,102 @@
+{
+  "tramite": {
+    "slug": "subsana-actas-de-comprobacion",
+    "nombre": "Subsanar actas de comprobación",
+    "nombre_busqueda": "Subsanar actas de comprobación",
+    "resumen": "Podés solicitar la subsanación de actas emitidas por la CNRT, PNA o GNA de forma presencial en la sede central de Maipú o delegaciones regionales. El trámite es gratuito y no requiere la asistencia de un gestor.",
+    "sinonimos": [
+      "Subsanación de actas CNRT",
+      "Subsanación de actas PNA",
+      "Subsanación de actas GNA"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de la cédula verde o título DNI (persona física).",
+      "Titulares de estatuto (persona jurídica).",
+      "Tener poder en caso de corresponder."
+    ],
+    "requisitos": [
+      {
+        "texto": "Cédula verde / título DNI del titular (persona física).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estatuto (para personas jurídicas).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poder (en caso de corresponder).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Seguro.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Registro Único de Transporte Automotor (RUTA).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Revisión Técnica Obligatoria (RTO).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Licencia Nacional de Transporte Interjurisdiccional (LiNTI).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación en la sede central ubicada en Maipú 88, CABA, o en las delegaciones regionales que se encuentran en el interior del país."
+      },
+      {
+        "texto": "Realizá el trámite de lunes a viernes de 9 a 15 h."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede central",
+      "direccion": "Maipú 88",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/subsanar-actas-de-comprobacion"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/subsanar-actas-de-comprobacion",
+      "titulo": "Subsanar actas de comprobación | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T17:45:54.293Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica si se requiere turno.",
+    "No se especifica el plazo de atención."
+  ]
+}

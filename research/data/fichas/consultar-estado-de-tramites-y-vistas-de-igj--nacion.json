@@ -1,0 +1,96 @@
+{
+  "tramite": {
+    "slug": "consultar-estado-de-tramites-y-vistas-de-igj",
+    "nombre": "Consultar estado de trámites y vistas de IGJ",
+    "nombre_busqueda": "Consultar estado de trámites y vistas de IGJ",
+    "resumen": "Seguí el estado de tu trámite iniciado en la Inspección General de Justicia y consultá si hay vista disponible antes de ir presencialmente.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": "IGJ",
+    "web": "https://www.argentina.gob.ar/servicio/consultar-estado-de-tramites-y-vistas-de-igj"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Toda persona que desee obtener información sobre el estado de un trámite iniciado en la IGJ."
+    ],
+    "requisitos": [
+      {
+        "texto": "Haber iniciado un trámite presencial en la IGJ.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si hiciste el trámite a través de Trámites a Distancia (TAD), tenés la casilla del usuario TAD que inició el trámite.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contar con el número correlativo, número de trámite o denominación.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá el número correlativo, la denominación de la entidad o el número de trámite en Consultar en línea."
+      },
+      {
+        "texto": "Verificá si hay vista disponible."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Solicitá turno para responder la vista en la Mesa General de Entradas de IGJ, Paseo Colón 291, CABA."
+      },
+      {
+        "texto": "Si se indica vista y no está disponible, envías un correo a [email protected] con los datos completos de número correlativo y trámite."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://www.argentina.gob.ar/turnos",
+    "plazo": null,
+    "consejos": [
+      "Tené en cuenta que no se enviarán vistas por mail."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Mesa General de Entradas de IGJ",
+      "direccion": "Paseo Colón 291",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/consultar-estado-de-tramites-y-vistas-de-igj"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consultar-estado-de-tramites-y-vistas-de-igj",
+      "titulo": "Consultar estado de trámites y vistas de IGJ | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T05:44:22.841Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-26T05:44:22.841Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La dirección exacta de la oficina de turnos no se especifica en el texto, solo se menciona el Paseo Colón 291, CABA."
+  ]
+}

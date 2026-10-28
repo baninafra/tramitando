@@ -1,0 +1,113 @@
+{
+  "tramite": {
+    "slug": "solicitar-analisis-control-biologicos-veterinario",
+    "nombre": "Solicitar análisis para el control de biológicos de uso veterinario",
+    "nombre_busqueda": "solicitar analisis control biologicos veterinario senasa",
+    "resumen": "Para la comercialización de productos biológicos veterinarios, necesitás solicitar el retiro de muestras para el control de calidad en el Laboratorio Animal del Senasa. Una vez aprobados los ensayos, recibirás el certificado de uso y comercialización.",
+    "sinonimos": [
+      "solicitud de control de productos biológicos",
+      "análisis de biológicos veterinarios",
+      "certificado de uso y comercialización biológicos"
+    ],
+    "temas": [
+      "salud-y-prevencion",
+      "vacunacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Persona física o jurídica autorizada por el Laboratorio solicitante."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de Solicitud de control de productos biológicos debidamente completado a través de Trámites a distancia - TAD.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago de los aranceles correspondientes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Controles internos del laboratorio solicitante.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá la Solicitud de control de productos biológicos a través del módulo de Trámites a Distancia (TAD)."
+      },
+      {
+        "texto": "Aboná el arancel correspondiente y cargá el comprobante en el expediente del módulo TAD."
+      },
+      {
+        "texto": "Notificá el pago a [email protected] detallando el o los números de expedientes."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Retirá las muestras del Laboratorio solicitante por veterinarios de la Dirección del Laboratorio Animal, con excepción del Control Previo y los reactivos biológicos que se presentan personalmente en la Mesa de Entradas."
+      },
+      {
+        "texto": "Si tenés un trámite iniciado, consultá el estado de tu expediente."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Las muestras son retiradas del Laboratorio solicitante por veterinarios de la Dirección del Laboratorio Animal, con excepción del Control Previo y los reactivos biológicos que se presentan personalmente en la Mesa de Entradas.",
+      "Los usuarios externos que utilicen servicios o se encuentren inscriptos en registros del SENASA deberán constituir su domicilio electrónico mediante el sistema SIGTrámites."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Laboratorio Central",
+      "direccion": "Talcahuano N° 1660, B1640CZT, Martínez - PROVINCIA DE BUENOS AIRES",
+      "localidad": "Martínez",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-analisis-para-el-control-de-biologicos-de-uso-veterinario"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-analisis-para-el-control-de-biologicos-de-uso-veterinario",
+      "titulo": "Solicitar análisis para el control de biológicos de uso veterinario | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T04:18:00.308Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T04:18:00.308Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T04:18:00.308Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no está especificado en el texto, consultá las Normativas relacionadas con los costos del trámite.",
+    "El plazo de entrega de los certificados no está especificado en el texto, solo se menciona que se realiza dentro de los plazos establecidos."
+  ]
+}

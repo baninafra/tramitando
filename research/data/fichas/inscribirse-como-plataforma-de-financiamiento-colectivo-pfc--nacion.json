@@ -1,0 +1,86 @@
+{
+  "tramite": {
+    "slug": "inscribirse-como-plataforma-de-financiamiento-colectivo-pfc",
+    "nombre": "Inscribirse como plataforma de financiamiento colectivo pfc",
+    "nombre_busqueda": "Inscribirse como plataforma de financiamiento colectivo",
+    "resumen": "Debes inscribirte en el Registro que lleva la CNV en la categoría de Agente de Plataforma de Financiamiento Colectivo si operás como PFC. El trámite lleva 20 días y es gratuito.",
+    "sinonimos": [
+      "Inscripción como PFC",
+      "Registro de agente de plataforma de financiamiento colectivo"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Comisión Nacional de Valores",
+    "sigla": "CNV",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas jurídicas regularmente constituidas en la República Argentina bajo la forma de sociedad anónima conforme Ley N° 19.550."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documentación necesaria a presentar según el marco regulatorio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de registración online completado e impreso y certificado por un escribano público.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario de registración online ingresando para acceder al formulario."
+      },
+      {
+        "texto": "Al finalizar, imprimilo y certificalo ante un escribano público."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el formulario y la documentación completa llevándola a las oficinas de la CNV y presentándolo por mesa de entrada."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "20 días",
+    "consejos": [
+      "El trámite finaliza con el dictado de una resolución administrativa que otorga el número de matrícula, la que se mantiene vigente hasta tanto no proceda la cancelación o caducidad de inscripción.",
+      "No se dará curso, a los fines de su estudio y resolución, a las solicitudes que no acompañen toda la información requerida en esta reglamentación."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribirse-como-plataforma-de-financiamiento-colectivo-pfc",
+      "titulo": "Inscribirse como Plataforma de Financiamiento Colectivo - PFC | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T06:14:58.039Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T06:14:58.039Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de las oficinas de la CNV para la presentación del formulario.",
+    "Si se puede sacar turno en línea para este trámite específico."
+  ]
+}

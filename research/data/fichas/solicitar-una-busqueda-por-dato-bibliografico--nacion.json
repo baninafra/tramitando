@@ -1,0 +1,85 @@
+{
+  "tramite": {
+    "slug": "solicitar-busqueda-dato-bibliografico",
+    "nombre": "Solicitar una búsqueda por dato bibliográfico",
+    "nombre_busqueda": "Solicitar búsqueda por dato bibliográfico",
+    "resumen": "Este trámite permite consultar información sobre patentes, modelos de utilidad y diseños industriales que posean datos bibliográficos específicos, como prioridad, nombre del inventor o clasificación internacional.",
+    "sinonimos": [
+      "Consulta de patentes por dato bibliográfico",
+      "Búsqueda de propiedad industrial"
+    ],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto Nacional de la Propiedad Industrial",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Inventores",
+      "Emprendedores",
+      "PyMEs",
+      "Empresas",
+      "Universidades",
+      "Centros de I+D+i",
+      "Agentes de la propiedad industrial"
+    ],
+    "requisitos": [
+      {
+        "texto": "Clave fiscal nivel 2 para registrarte en el portal de trámites",
+        "aclaracion": null
+      },
+      {
+        "texto": "Información detallada del dato bibliográfico a rastrear y sobre el tipo de documento (nacional, extranjero, o ambos)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal de trámites con tu clave fiscal."
+      },
+      {
+        "texto": "Seleccioná el módulo información tecnológica / trámites / datos bibliográficos."
+      },
+      {
+        "texto": "Completá todos los datos del formulario."
+      },
+      {
+        "texto": "Firmá electrónicamente el formulario."
+      },
+      {
+        "texto": "Generá y pagá el arancel correspondiente."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "7 días",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-una-busqueda-por-dato-bibliografico",
+      "titulo": "Solicitar una búsqueda por dato bibliográfico | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T16:56:56.946Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los aranceles vigentes no se especifican en el texto."
+  ]
+}

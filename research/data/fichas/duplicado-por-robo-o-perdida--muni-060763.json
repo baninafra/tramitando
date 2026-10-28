@@ -1,0 +1,126 @@
+{
+  "tramite": {
+    "slug": "duplicado-de-licencia-de-conducir",
+    "nombre": "Duplicado de licencia de conducir",
+    "nombre_busqueda": "Duplicado licencia conducir robo perdida",
+    "resumen": "Si extraviaste o te robaron la licencia, podés tramitar el duplicado online o presencial. Necesitás tener la licencia vigente, sin multas en el partido, y realizar una denuncia en el Registro Civil.",
+    "sinonimos": [
+      "Licencia duplicada",
+      "Licencia nueva por robo",
+      "Licencia nueva por extravío"
+    ],
+    "temas": [
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060763",
+  "organismo": {
+    "nombre": "Municipalidad de San Nicolás de los Arroyos",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que extraviaron o perdieron la licencia.",
+      "Personas a quienes se les ha robado la licencia."
+    ],
+    "requisitos": [
+      {
+        "texto": "La licencia extraviada o robada no debe estar vencida.",
+        "aclaracion": null
+      },
+      {
+        "texto": "No poseer multas en el Partido de San Nicolás de los Arroyos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Denuncia por robo o pérdida de licencia realizada en el Registro Civil.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI con domicilio en San Nicolás.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En el caso de no poseerlo traer constancia de DNI en trámite otorgada por el Registro de las Personas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Superar examen psicofísico.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Comunicate a través del asistente virtual para comenzar tu trámite."
+      },
+      {
+        "texto": "Ingresá desde el botón inferior derecho que vas a encontrar en la pantalla."
+      },
+      {
+        "texto": "Seleccioná la opción licencia de conducir y luego INICIAR TRÁMITE."
+      },
+      {
+        "texto": "Un operador responderá tu consulta."
+      },
+      {
+        "texto": "En el caso de poseer multas te enviarán las boletas para regularizar tu situación."
+      },
+      {
+        "texto": "Una vez realizado el pago no olvides informarlo ingresando al menú principal del chat, opción INFRACCIONES VEHICULARES y luego INFORMAR PAGO."
+      },
+      {
+        "texto": "Seguí los pasos que te indique el asistente."
+      },
+      {
+        "texto": "Podrás enviar toda la documentación requerida a través del chat."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en el día y horario agendado."
+      },
+      {
+        "texto": "El día de tu turno dirigite a Av. Illia 1130 con DNI original, comprobantes de pago y el resto de la documentación que requiera tu tipo de licencia."
+      },
+      {
+        "texto": "Te entregarán tu licencia."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 3662300,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.sannicolasciudad.gob.ar/tramites/licencia-de-conducir/duplicado-por-robo-o-perdida"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.sannicolasciudad.gob.ar/tramites/licencia-de-conducir/duplicado-por-robo-o-perdida",
+      "titulo": "Duplicado por robo o pérdida | Licencia de conducir | Trámites | San Nicolás Ciudad",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T15:24:49.185Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo de entrega de la licencia.",
+    "La fecha de vigencia de la licencia duplicada."
+  ]
+}

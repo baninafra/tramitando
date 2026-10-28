@@ -1,0 +1,94 @@
+{
+  "tramite": {
+    "slug": "certificacion-de-pagos-de-tasa-fija-anual-por-renovacion-de-matricula-de-embarcaciones",
+    "nombre": "Certificación de pagos de tasa fija anual por renovación de matrícula de embarcaciones",
+    "nombre_busqueda": "Certificación de pagos de tasa fija anual por renovación de matrícula de embarcaciones",
+    "resumen": "El trámite permite obtener una constancia de que se abonaron los pagos de la tasa fija anual para renovar la matrícula de una embarcación. Es necesaria para realizar otros trámites como la transferencia de dominio.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Prefectura Naval Argentina",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El propietario registral de la embarcación.",
+      "El apoderado legal, exhibiendo el respectivo poder."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota o solicitud personal original.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Identificación individual de la embarcación.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación."
+      },
+      {
+        "texto": "Aboná el arancel en la Dependencia que efectuó la solicitud."
+      },
+      {
+        "texto": "Retirá la Certificación en la Dependencia de origen del trámite."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "15 días",
+    "consejos": [
+      "Si iniciás el trámite en el Registro Nacional de Buques (Edificio Guardacostas), el trámite es inmediato.",
+      "Si iniciás el trámite en una Dependencia del Interior, tenés que esperar quince días hábiles.",
+      "La certificación tiene vigencia permanente.",
+      "Este trámite se encuentra alcanzado por el silencio administrativo con sentido positivo, configurándose en 60 días hábiles después de haber acreditado el cumplimiento de las condiciones previstas para el otorgamiento de la autorización administrativa."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Registro Nacional de Buques",
+      "direccion": "Edificio Guardacostas, Avenida Eduardo Madero 235, Ciudad Autónoma de Buenos Aires, 1er. Piso – oficina 2104",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/certificacion-de-pagos-de-tasa-fija-anual-por-renovacion-de-matricula-de-embarcaciones"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/certificacion-de-pagos-de-tasa-fija-anual-por-renovacion-de-matricula-de-embarcaciones",
+      "titulo": "Certificación de pagos de tasa fija anual por renovación de matrícula de embarcaciones | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T04:46:35.176Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T04:46:35.176Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no se especifica en el texto.",
+    "La información de la oficina del Departamento Contralor Recaudatorio (dirección completa y localidad) no está completa en el texto."
+  ]
+}

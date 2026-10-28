@@ -1,0 +1,95 @@
+{
+  "tramite": {
+    "slug": "obtener-certificado-de-importacion-para-vehiculos-especiales-usados",
+    "nombre": "Obtener certificado de importación para vehículos especiales usados",
+    "nombre_busqueda": "certificado importacion vehiculos especiales usados",
+    "resumen": "Si necesitás vehículos especiales usados que no se consigan en el país, podés obtener una excepción para importarlos ingresando a TAD con tu CUIT y clave fiscal.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Tener CUIT y clave fiscal nivel 3 en AFIP",
+      "Contar con Trámites a Distancia (TAD) asociado a AFIP",
+      "Estar inscripto en el Registro Único de la Matriz Productiva (RUMP)"
+    ],
+    "requisitos": [
+      {
+        "texto": "Solicitud de emisión del Certificado de Importación",
+        "aclaracion": null
+      },
+      {
+        "texto": "Folletería del vehículo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Factura proforma",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD con tu CUIT y clave fiscal."
+      },
+      {
+        "texto": "Adjuntá la solicitud de emisión del Certificado de Importación, la folletería del vehículo y la factura proforma."
+      },
+      {
+        "texto": "El área va a evaluar la documentación que suministraste."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si existe algún problema, vas a recibir un pedido de subsanación a través de Tareas de TAD.",
+      "Una vez aprobada la información, vas a recibir el formulario de importación de vehículos especiales usados a través de Notificaciones de TAD."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-certificado-de-importacion-para-vehiculos-especiales-usados",
+      "titulo": "Obtener certificado de importación para vehículos especiales usados | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T22:36:44.003Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/produccion/consulta-obtener-certificado-de-importacion-para-vehiculos",
+      "titulo": "Envianos tu consulta sobre el trámite de obtener certificado de importación para vehículos especiales usados | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T22:36:44.003Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T22:36:44.003Z"
+    }
+  ],
+  "sin_confirmar": [
+    "¿Cuál es el plazo de resolución del trámite?",
+    "¿Se requiere turno para este trámite?"
+  ]
+}

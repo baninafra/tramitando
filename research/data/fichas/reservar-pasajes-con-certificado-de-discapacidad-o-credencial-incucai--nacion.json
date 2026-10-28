@@ -1,0 +1,97 @@
+{
+  "tramite": {
+    "slug": "reservar-pasajes-gratis-por-discapacidad",
+    "nombre": "Reservar pasajes gratis por discapacidad",
+    "nombre_busqueda": "reservar pasajes gratis discapacidad",
+    "resumen": "Si tenés certificado de discapacidad o credencial INCUCAI, podés viajar gratuitamente en servicios nacionales. El trámite es gratis y se puede hacer por internet o presencialmente.",
+    "sinonimos": [
+      "viajar gratis discapacidad",
+      "reservar boleto discapacidad"
+    ],
+    "temas": [
+      "pasajes-gratuitos-por-discapacidad",
+      "transporte-publico-y-viajes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Comisión Nacional de Regulación del Transporte",
+    "sigla": "CNRT",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas con certificado de discapacidad o credencial INCUCAI.",
+      "El representante legal si tenés credencial INCUCAI y no necesitás presentarte 48 horas antes."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de discapacidad o CUD vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Credencial INCUCAI.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá en el Sistema de Solicitud de Pasajes."
+      },
+      {
+        "texto": "Completá los datos solicitados."
+      },
+      {
+        "texto": "Si tenés certificado de discapacidad no CUD, debés darte de alta como persona usuaria del sistema enviando por correo electrónico una copia del certificado y del DNI."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a la boletería de la empresa con tu certificado de discapacidad o credencial INCUCAI y tu DNI al menos 48 horas antes del viaje."
+      },
+      {
+        "texto": "Retirá tu pasaje en la boletería."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Te recomendamos llevar copia de toda la documentación.",
+      "Si reservaste por internet, la empresa debe enviarte el pasaje hasta 48 horas antes de la salida del servicio y tiene la obligación de otorgarte el boleto reservado. No es necesario que lo retires en la boletería."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reservar-pasajes-con-certificado-de-discapacidad-o-credencial-incucai",
+      "titulo": "Reservar pasajes con certificado de discapacidad o credencial INCUCAI | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T04:03:32.044Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reservar-pasajes-con-certificado-de-discapacidad-o-credencial-incucai",
+      "titulo": "Reservar pasajes con certificado de discapacidad o credencial INCUCAI | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T04:03:32.044Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del certificado de discapacidad o credencial INCUCAI.",
+    "El plazo exacto para la atención presencial."
+  ]
+}

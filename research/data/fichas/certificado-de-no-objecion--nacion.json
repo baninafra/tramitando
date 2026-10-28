@@ -1,0 +1,82 @@
+{
+  "tramite": {
+    "slug": "certificado-de-no-objecion",
+    "nombre": "Certificado de no objeción",
+    "nombre_busqueda": "Certificado de no objeción",
+    "resumen": "Solicitá el certificado de no objeción para importar, exportar o fabricar sustancias controladas por TAD. Es un trámite gratuito en línea que requiere documentación específica del importador o exportador.",
+    "sinonimos": [
+      "Certificado de no objeción DSSCE",
+      "Certificado de no objeción sustancias controladas"
+    ],
+    "temas": [
+      "legalizaciones-y-apostillados"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Departamento de Sustancias Sujetas a Control Especial",
+    "sigla": "DSSCE",
+    "web": "https://www.argentina.gob.ar/servicio/certificado-de-no-objecion"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Importadores",
+      "Exportadores",
+      "Fabricantes",
+      "Facturadores"
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario con sustancia, cantidad y presentación",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación respaldatoria con nombre y dirección completos del importador, exportador, fabricante y facturador",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación en idioma español o con traducción legalizada por el Colegio de traductores si es en idioma extranjero",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá en la página TAD e iniciá el trámite"
+      },
+      {
+        "texto": "Cargá toda la documentación requerida"
+      },
+      {
+        "texto": "Respondé cualquier subsanación solicitada a través de la plataforma TAD"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La evaluación puede dar como resultado la emisión del certificado o una subsanación con petición de información adicional",
+      "El certificado se emitirá una vez respondida correctamente la subsanación, notificándote vía GDE"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/certificado-de-no-objecion",
+      "titulo": "Certificado de no objeción | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T04:44:13.668Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite no está especificada en el texto"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "tramite": {
+    "slug": "solicitar-asignacion-familiar-por-conyuge",
+    "nombre": "Solicitar asignación familiar por cónyuge",
+    "nombre_busqueda": "Solicitar asignación familiar por cónyuge",
+    "resumen": "Si sos titular de una jubilación o pensión o de una Pensión Honorífica de Veteranos de la Guerra, podés solicitar la Asignación por Cónyuge. La puede recibir solamente uno de los integrantes del matrimonio.",
+    "sinonimos": [],
+    "temas": [
+      "familia-y-pareja"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANSES",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de jubilaciones o pensiones.",
+      "Titulares de la Pensión Honorífica de Veteranos de Guerra del Atlántico Sur."
+    ],
+    "requisitos": [
+      {
+        "texto": "Residir en el país y tener la relación con tu cónyuge acreditada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario PS 6.18 completo o, en caso de reclamo: Formulario PS 2.14.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta, partida o certificado de matrimonio y los DNI del grupo familiar (originales y copias).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Revisá tus datos personales y familiares ingresando a mi ANSES."
+      },
+      {
+        "texto": "Si los datos no están actualizados, llevá el acta, partida o certificado de matrimonio y los DNI del grupo familiar (originales y copias)."
+      },
+      {
+        "texto": "Completá el formulario Solicitud de Prestaciones Previsionales (PS 6.18) u original del formulario Reclamo AAFF Jubilados y Pensionados (PS 2.14), en el que se encuentre declarado el/la cónyuge."
+      },
+      {
+        "texto": "Solicitá un turno en oficina de ANSES y presentate con la documentación requerida."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-asignacion-familiar-por-conyuge",
+      "titulo": "Solicitar Asignación Familiar por Cónyuge | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T04:47:01.907Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los topes máximos de ingresos vigentes."
+  ]
+}

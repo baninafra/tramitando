@@ -1,0 +1,101 @@
+{
+  "tramite": {
+    "slug": "solicitar-licencia-de-marca-pais-para-un-evento",
+    "nombre": "Solicitar licencia de Marca País para un evento",
+    "nombre_busqueda": "Licencia Marca País evento",
+    "resumen": "Es un trámite gratuito en línea para personas o empresas que quieran usar la identidad gráfica de la Marca País en eventos que promuevan turismo, cultura o deporte argentino. No requiere documentos adjuntos.",
+    "sinonimos": [
+      "Licencia Marca País eventos",
+      "Marca País eventos"
+    ],
+    "temas": [
+      "espectaculos-y-eventos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas humanas o personas jurídicas nacionales o extranjeras que organicen un evento en la Argentina o en el exterior con el fin de promocionar el turismo, las exportaciones, la cultura, el deporte, las inversiones o la imagen de la Argentina."
+    ],
+    "requisitos": [
+      {
+        "texto": "Ingresá con tu clave fiscal o cuenta de Mi Argentina a la plataforma Trámites a Distancia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Elegí la opción Eventos en el trámite Solicitud de Licencia de Marca País.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informá el nombre del evento en el Formulario de Solicitud.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Elegí el tipo de licencia correspondiente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si querés incluir información adicional del evento, redactala en Observaciones y/o aclaraciones.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si sos monotributista, informalo en ese mismo campo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá con tu clave fiscal o cuenta de Mi Argentina a la plataforma Trámites a Distancia, trámite Solicitud de Licencia de Marca País."
+      },
+      {
+        "texto": "Verificá tus datos y continuá."
+      },
+      {
+        "texto": "Elegí la opción Eventos."
+      },
+      {
+        "texto": "Informá el nombre del evento en Formulario de Solicitud y elegí el tipo de licencia correspondiente."
+      },
+      {
+        "texto": "Si querés incluir información adicional del evento, redactala en Observaciones y/o aclaraciones."
+      },
+      {
+        "texto": "Si sos monotributista, informalo en ese mismo campo."
+      },
+      {
+        "texto": "Confirmá el trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "60 días hábiles",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-licencia-de-marca-pais-para-un-evento",
+      "titulo": "Solicitar licencia de Marca País para un evento | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T10:01:48.402Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La vigencia de la licencia tiene validez desde el inicio hasta la finalización del evento."
+  ]
+}

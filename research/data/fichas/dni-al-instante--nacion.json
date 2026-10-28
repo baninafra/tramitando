@@ -1,0 +1,114 @@
+{
+  "tramite": {
+    "slug": "dni-al-instante",
+    "nombre": "DNI al instante",
+    "nombre_busqueda": "DNI al instante",
+    "resumen": "Tramitá tu DNI en uno de los Centros de Documentación Renaper habilitados con urgencia. Retiralo en la sede Renaper CABA Central entre 2 a 6 horas después de la toma.",
+    "sinonimos": [
+      "DNI urgente",
+      "DNI en una hora"
+    ],
+    "temas": [
+      "dni"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Renaper",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A todos los ciudadanos argentinos que necesiten, con la urgencia que presta esta modalidad, realizar alguno de los siguientes trámites: DNI Actualización de 5 a 8 años; DNI Actualización de mayor de 14 años; DNI ejemplar nuevo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Si tenés tu DNI anterior, llevalo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si es para un menor de 14 años, se agrega: Acompañamiento del padre, madre o representante legal; y su DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditación del representante legal, si corresponde: Oficio judicial o testimonio de tutela del menor. Es otorgado por el juzgado. Debe contar con sello y firma del juez, secretario o funcionario autorizado a extender oficios en cumplimiento de mandas judiciales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el menor se encuentra en una institución de cuidado u hogar convivencial: Autorización de representación firmada y sellada por la autoridad competente que corresponda. Oficio judicial o testimonio de guarda provisoria con fines de adopción. Debe contar con sello y firma del juez, secretario o fu…",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate CON TURNO en alguno de los siguientes Centros de Documentación Renaper: Buquebus (Av. Antártida Argentina 821, CABA) Renaper CABA Central (Av. Roque Sáenz Peña 689, CABA)."
+      },
+      {
+        "texto": "Retirá el DNI entre 2 a 6 horas de realizado el trámite en la sede Renaper CABA Central, dentro de su horario de atención."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://turnos.argentina.gob.ar/turnos/seleccionTurno/2742",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 5700000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/dni-al-instante"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Buquebus",
+      "direccion": "Av. Antártida Argentina 821, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/dni-al-instante"
+    },
+    {
+      "nombre": "Renaper CABA Central",
+      "direccion": "Av. Roque Sáenz Peña 689, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/dni-al-instante"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/dni-al-instante",
+      "titulo": "DNI al instante | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T15:26:42.114Z"
+    },
+    {
+      "url": "https://turnos.argentina.gob.ar/turnos/seleccionTurno/2742",
+      "titulo": "Sistema Nacional de Turnos",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T15:26:42.114Z"
+    }
+  ],
+  "sin_confirmar": [
+    "¿Cuánto tiempo lleva? (Plazo exacto no especificado en texto)",
+    "Horario de atención de la sede Renaper CABA Central"
+  ]
+}

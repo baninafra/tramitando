@@ -1,0 +1,95 @@
+{
+  "tramite": {
+    "slug": "reclamos-y-sugerencias-ciudadanas",
+    "nombre": "Reclamos y sugerencias ciudadanas",
+    "nombre_busqueda": "Reclamos y sugerencias ciudadanas",
+    "resumen": "Canal oficial para presentar reclamos y sugerencias a la Municipalidad de Capitan Sarmiento.",
+    "sinonimos": [
+      "Sugerencias ciudadanas",
+      "Reclamos ciudadanas",
+      "Denuncias ciudadanas"
+    ],
+    "temas": [
+      "gobierno-y-participacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060140",
+  "organismo": {
+    "nombre": "Municipalidad de Capitan Sarmiento",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier ciudadano de la ciudad."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nombre completo del reclamante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio completo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Teléfono de contacto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Correo electrónico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descripción detallada del reclamo o sugerencia.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio web de la Municipalidad de Capitan Sarmiento."
+      },
+      {
+        "texto": "Buscá el menú de Sugerencias y Reclamos."
+      },
+      {
+        "texto": "Llená el formulario con tu nombre, domicilio, teléfono, correo y la descripción del reclamo o sugerencia."
+      },
+      {
+        "texto": "Revisá los datos y clicá en enviar."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.capitansarmiento.gob.ar/sugerencias-y-reclamos",
+      "titulo": "Sugerencias y Reclamos | Municipalidad De Cap",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T21:54:32.645Z"
+    },
+    {
+      "url": "https://www.capitansarmiento.gob.ar/",
+      "titulo": "Municipalidad de Capitan Sarmiento | Cuna de la Bandera | Centenario 499, Capitán Sarmiento, Buenos Aires Province, Argentina",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T21:54:32.645Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el plazo de respuesta a los reclamos."
+  ]
+}

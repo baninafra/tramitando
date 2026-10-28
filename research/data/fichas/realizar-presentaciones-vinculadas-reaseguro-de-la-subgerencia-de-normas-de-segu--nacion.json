@@ -1,0 +1,106 @@
+{
+  "tramite": {
+    "slug": "presentaciones-vinculadas-reaseguro-subgerencia-normas",
+    "nombre": "Presentaciones vinculadas a reaseguro",
+    "nombre_busqueda": "Presentaciones vinculadas a reaseguro",
+    "resumen": "Las aseguradoras deben presentar documentación vinculada a reaseguro a la Subgerencia de Normas de Seguros y Reaseguros de la SSN a través de TAD.",
+    "sinonimos": [],
+    "temas": [
+      "seguro-y-circulacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Seguros de la Nación",
+    "sigla": "SSN",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Entidades Aseguradoras",
+      "Reaseguradoras Locales",
+      "Reaseguradoras Admitidas"
+    ],
+    "requisitos": [
+      {
+        "texto": "Usuario de acceso a Trámites a Distancia (TAD)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación respaldatoria digitalizada",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nro. de Nota o Nro. de Providencia y Nro. de Expediente (para respuestas a notificaciones)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formularios del Anexo al punto 2.1.1. del RGAA (para cortes de responsabilidad y rescisiones)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD con clave fiscal operando como apoderado de la entidad."
+      },
+      {
+        "texto": "Hacé click en seleccionar quien lo firma y completá la lista de firmantes."
+      },
+      {
+        "texto": "Indicá el Código Compañía SSN y seleccioná el tipo de trámite."
+      },
+      {
+        "texto": "Completá los datos de la notificación y la referencia a completar si corresponde."
+      },
+      {
+        "texto": "Guardá el trámite."
+      },
+      {
+        "texto": "Hacé click nuevamente en seleccionar quien lo firma."
+      },
+      {
+        "texto": "Adjuntá la nota o documentación respaldatoria."
+      },
+      {
+        "texto": "Confirmá el trámite."
+      },
+      {
+        "texto": "El apoderado firma por la pestaña MIS TRÁMITES y luego firma el responsable de la entidad con firma registrada en la SSN."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El trámite tendrá vigencia permanente."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/realizar-presentaciones-vinculadas-reaseguro-de-la-subgerencia-de-normas-de-seguros-y",
+      "titulo": "Realizar presentaciones vinculadas a reaseguro de la Subgerencia de Normas de Seguros y Reaseguros | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:26:12.804Z"
+    },
+    {
+      "url": "https://tramitesadistancia.gob.ar/tramitesadistancia/detalle-tipo?id=2760",
+      "titulo": "Mis Trámites - Trámites a Distancia",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T02:26:12.804Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto de la tasa no se especifica en el texto."
+  ]
+}

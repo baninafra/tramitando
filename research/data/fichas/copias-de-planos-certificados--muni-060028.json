@@ -1,0 +1,78 @@
+{
+  "tramite": {
+    "slug": "copias-de-planos-certificados",
+    "nombre": "Copias de Planos Certificados",
+    "nombre_busqueda": "Copias de planos certificados",
+    "resumen": "Trámite municipal para obtener reproducciones oficiales y certificadas de planos de inmuebles, obras o proyectos registrados.",
+    "sinonimos": [
+      "Certificados de planos",
+      "Reproducciones de planos",
+      "Copias certificadas de planos"
+    ],
+    "temas": [
+      "permiso-de-obra-y-planos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060028",
+  "organismo": {
+    "nombre": "Municipio de Almirante Brown",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en obtener copias certificadas de planos registrados."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Escritura Libre",
+        "aclaracion": null
+      },
+      {
+        "texto": "Deuda Municipal",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Uso del Suelo",
+      "direccion": "Rosales 1312",
+      "localidad": "Adrogué",
+      "horario": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/copias-de-planos-certificados/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.brown.gob.ar/tramites/copias-de-planos-certificados/",
+      "titulo": "Copias de Planos Certificados",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T19:38:26.506Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos de costos en el texto.",
+    "No se especifican plazos de entrega.",
+    "No se especifican requisitos para menores o casos especiales.",
+    "No se especifican pasos detallados para la solicitud.",
+    "No se especifica si requiere turno."
+  ]
+}

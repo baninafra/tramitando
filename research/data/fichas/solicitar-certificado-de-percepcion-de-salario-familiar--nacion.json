@@ -1,0 +1,102 @@
+{
+  "tramite": {
+    "slug": "solicitar-certificado-de-percepcion-de-salario-familiar",
+    "nombre": "Solicitar certificado de percepción de Salario Familiar",
+    "nombre_busqueda": "certificado percepción salario familiar",
+    "resumen": "Certifica si el titular percibe asignaciones familiares por el Instituto de Ayuda Financiera (IAF) dentro de su haber de retiro o pensión.",
+    "sinonimos": [
+      "certificado asignaciones familiares IAF",
+      "certificado cobro asignaciones familiares"
+    ],
+    "temas": [
+      "trabajo-y-seguridad-social",
+      "pensiones-no-contributivas-por-invalidez"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares",
+    "sigla": "IAF",
+    "web": "https://www.argentina.gob.ar/iaf"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Retirados y pensionistas militares que perciban su beneficio a través del IAF."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del titular del beneficio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Indicar ante qué Organismo deberá ser presentado.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá con tu CUIL y contraseña al portal eIAF Beneficiarios o a la App eIAF."
+      },
+      {
+        "texto": "Dejanos tu solicitud en el apartado Sistema Integrado de Consultas."
+      },
+      {
+        "texto": "Personal de Atención al Público te indicará los pasos a seguir para realizar el trámite."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate con la documentación requerida a la sede central del IAF en CABA o a las Delegaciones del Interior."
+      },
+      {
+        "texto": "Presentate en el horario de 08:00 a 13:00 horas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "10 días",
+    "consejos": [
+      "El trámite lleva 10 días desde que ingresá la solicitud.",
+      "El certificado estará listo a los 10 días de ingresada la Solicitud.",
+      "Podés retirarlo personalmente o pedir envío por correo electrónico."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central del IAF",
+      "direccion": "Cerrito 572",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-percepcion-de-salario-familiar"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-percepcion-de-salario-familiar",
+      "titulo": "Solicitar certificado de percepción de Salario Familiar. | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T08:05:42.047Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/iaf",
+      "titulo": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T08:05:42.047Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica en el texto si se requiere turno para el trámite presencial."
+  ]
+}

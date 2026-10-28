@@ -1,0 +1,123 @@
+{
+  "tramite": {
+    "slug": "estacionamiento-medido",
+    "nombre": "Estacionamiento Medido Digital: Registro de usuario y carga de crédito",
+    "nombre_busqueda": "Estacionamiento Medido Digital Luján",
+    "resumen": "Registrese en la aplicación SEM Luján para iniciar sesión o crear cuenta con su celular y contraseña. Luego, cargue crédito mínimo de $2000 y programe el estacionamiento de su vehículo.",
+    "sinonimos": [
+      "Estacionamiento digital Luján",
+      "SEM Luján",
+      "Pago estacionamiento medido"
+    ],
+    "temas": [
+      "estacionamiento-medido"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060497",
+  "organismo": {
+    "nombre": "Municipalidad de Luján",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que tenga cuenta en la aplicación SEM Luján o que se registre con sus datos personales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de celular (sin 0 ni 15) para iniciar sesión o registro.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contraseña generada o existente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Código de verificación (captcha) para validar la identidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos de la compañía de teléfono para registro.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Patente del vehículo a estacionar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Zona de estacionamiento seleccionada.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Descargue la aplicación SEM Luján en su tienda de aplicaciones."
+      },
+      {
+        "texto": "Inicie sesión con su cuenta o regístrese completando el formulario con su celular, compañía de teléfono y contraseña."
+      },
+      {
+        "texto": "Seleccione la opción de Comprar Crédito en el menú de la aplicación."
+      },
+      {
+        "texto": "Ingrese el monto deseado y seleccione el método de pago."
+      },
+      {
+        "texto": "Complete el proceso de pago siguiendo las instrucciones."
+      },
+      {
+        "texto": "Seleccione la patente de su vehículo."
+      },
+      {
+        "texto": "Seleccione la zona de estacionamiento."
+      },
+      {
+        "texto": "Presione el botón Iniciar Estacionamiento."
+      },
+      {
+        "texto": "Finalice el estacionamiento presionando el botón Finalizar Estacionamiento cuando termine."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Asegúrese de tener fondos suficientes en su método de pago seleccionado.",
+      "El monto mínimo para cargar crédito es de $200.",
+      "Asegúrate de finalizar su estacionamiento para evitar cargos adicionales.",
+      "La aplicación requiere Android 10 o superior o iOS 15.0 o superior.",
+      "Se requiere conexión a internet para utilizar la aplicación."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "Monto mínimo de crédito",
+      "gratis": false,
+      "monto_centavos": 200000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.lujan.gob.ar/estacionamiento.php"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.lujan.gob.ar/estacionamiento.php",
+      "titulo": "Municipalidad de Lujan - Estacionamiento Medido",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T15:06:44.904Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se especifica el monto mínimo de $200 pero no se indica si es el único costo o si hay tarifas por zona o tiempo de estacionamiento.",
+    "No se especifica el plazo de vigencia del crédito cargado ni la duración de la tarifa."
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "tramite": {
+    "slug": "inscripcion-proveedores-municipales",
+    "nombre": "Inscripción en el Registro de Proveedores Municipales",
+    "nombre_busqueda": "Inscripción proveedores Chaves",
+    "resumen": "Para ser proveedor municipal se requiere presentar constancia de CUIT, inscripción en Ingresos Brutos, habilitación municipal, contrato social si es sociedad, clave bancaria uniforme y abonar el arancel.",
+    "sinonimos": [
+      "Registro de Proveedores",
+      "Alta en proveedores",
+      "Contratación municipal"
+    ],
+    "temas": [
+      "proveedores-y-compras",
+      "emprendedores-y-monotributo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060014",
+  "organismo": {
+    "nombre": "Municipalidad de Adolfo Gonzales Chaves",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas",
+      "Contratistas",
+      "Subcontratistas",
+      "Proveedores"
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia de CUIT",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción en Ingresos Brutos",
+        "aclaracion": null
+      },
+      {
+        "texto": "Habilitación Municipal",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contrato Social (en el caso de Sociedades)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave Bancaria Uniforme (CBU)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planilla de solicitud de Alta/Modificación en el Registro de Proveedores (Oficina de Contrataciones)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planilla de solicitud de Alta/Modificación en el Registro de Proveedores (Tesorería Municipal)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización de acreditación en Cuenta Bancaria (Formulario 35)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Completá las planillas de solicitud de Alta/Modificación en el Registro de Proveedores en la Oficina de Contrataciones y en la Tesorería Municipal."
+      },
+      {
+        "texto": "Presentá la documentación requerida en la Tesorería Municipal."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "Proveedores",
+      "gratis": false,
+      "monto_centavos": 680000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://gonzaleschaves.gob.ar/proveedores/"
+    },
+    {
+      "modalidad": "Contratistas",
+      "gratis": false,
+      "monto_centavos": 680000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://gonzaleschaves.gob.ar/proveedores/"
+    },
+    {
+      "modalidad": "Subcontratistas",
+      "gratis": false,
+      "monto_centavos": 680000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://gonzaleschaves.gob.ar/proveedores/"
+    },
+    {
+      "modalidad": "Empresas",
+      "gratis": false,
+      "monto_centavos": 680000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://gonzaleschaves.gob.ar/proveedores/"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://gonzaleschaves.gob.ar/proveedores/",
+      "titulo": "Proveedores – Chaves Municipio",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "costo",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T19:20:29.897Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de las oficinas",
+    "Localidad de las oficinas",
+    "Vigencia del trámite",
+    "Si se requiere turno",
+    "Si se puede realizar el trámite online"
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "tramite": {
+    "slug": "aprobacion-y-visado-de-planos-para-construccion",
+    "nombre": "Aprobación y visado de planos para construcción",
+    "nombre_busqueda": "Aprobar planos construcción",
+    "resumen": "Para construir, debes presentar los planos con carátula, planta, corte, vista, cuadro de superficies, croquis, desagües pluviales y cloacales en la Dirección de Obras Públicas. Se verifica el cumplimiento del código de edificación, se visan los planos y se entrega el cartel de obra autorizada.",
+    "sinonimos": [
+      "Visado de planos",
+      "Aprobación de planos de obra",
+      "Cartel de obra autorizada"
+    ],
+    "temas": [
+      "obras-y-construccion",
+      "permiso-de-obra-y-planos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060277",
+  "organismo": {
+    "nombre": "Dirección de Obras Públicas",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Propietarios de la obra",
+      "Profesionales autorizados"
+    ],
+    "requisitos": [
+      {
+        "texto": "Carátula del plano",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planta",
+        "aclaracion": null
+      },
+      {
+        "texto": "Corte",
+        "aclaracion": null
+      },
+      {
+        "texto": "Vista",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cuadro de superficies",
+        "aclaracion": null
+      },
+      {
+        "texto": "Croquis de superficies",
+        "aclaracion": null
+      },
+      {
+        "texto": "Desagües pluviales y cloacales",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano de estructuras con detalles y cálculo (si hay más de una planta)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planilla N°903 de Estadística de Edificación",
+        "aclaracion": null
+      },
+      {
+        "texto": "Carátula del Expediente",
+        "aclaracion": null
+      },
+      {
+        "texto": "6 copias de los planos (para visado definitivo)",
+        "aclaracion": "Solo para visado definitivo"
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá los planos en la Dirección de Obras Públicas del Municipio."
+      },
+      {
+        "texto": "Esperá la verificación de los planos para verificar si cumplen con los requisitos del código de edificación."
+      },
+      {
+        "texto": "Recibí el cartel de obra autorizada para colocarlo visible en el frente de la futura construcción."
+      },
+      {
+        "texto": "Dejá que el profesional apruebe los planos en el colegio correspondiente en un plazo de 30 días."
+      },
+      {
+        "texto": "Presentá las 6 copias de los planos en la Dirección de Obras Públicas para proceder al visado definitivo y completar el expediente."
+      },
+      {
+        "texto": "Completá y presentá la planilla N°903 de Estadística de Edificación y la Carátula del Expediente."
+      },
+      {
+        "texto": "Si modificás el plano durante la construcción, presentá un nuevo plano, visalo en la Dirección de Obras Públicas y repetí el procedimiento de aprobación en el colegio y en el Municipio."
+      },
+      {
+        "texto": "Finalizá la construcción y reportá el final de obra para que realicen una inspección ocular."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://ameghino.gob.ar/quiero-construir/",
+      "titulo": "Quiero construir – Ameghino",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T13:15:51.073Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el monto del trámite.",
+    "No se especifica el plazo exacto para la verificación inicial.",
+    "No se especifica si se requiere turno para presentar los planos."
+  ]
+}

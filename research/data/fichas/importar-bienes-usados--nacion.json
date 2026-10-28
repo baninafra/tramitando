@@ -1,0 +1,76 @@
+{
+  "tramite": {
+    "slug": "importar-bienes-usados",
+    "nombre": "Importar bienes usados",
+    "nombre_busqueda": "Importar bienes usados",
+    "resumen": "Para importar bienes de capital y productos afines usados (capítulos 84 a 90 de la Nomenclatura Común del MERCOSUR), necesitás tener CUIT y clave fiscal nivel 2 en ARCA y operar en el Sistema Informático Malvina (SIM). El trámite es gratuito.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Economía",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Tener CUIT y clave fiscal nivel 2 en ARCA.",
+      "Operar en el Sistema Informático Malvina (SIM) de ARCA."
+    ],
+    "requisitos": [
+      {
+        "texto": "Asegurarse de que los bienes no se encuentren incluidos en la lista de posiciones arancelarias prohibidas del Anexo II de la Resolución 909/1994.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Consultar la posición arancelaria del producto a importar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el bien está prohibido pero es parte de un bien mayor permitido, ingresar la mercadería mediante una declaración jurada adicional al momento de oficializar el Despacho de Importación.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar en ARCA con tu CUIT y clave fiscal nivel 2 o superior."
+      },
+      {
+        "texto": "Acceder al Sistema Informático Malvina (SIM)."
+      },
+      {
+        "texto": "Al momento de oficializar el despacho de importación en el SIM, responder en carácter de declaración jurada que la mercadería no es un residuo según la Ley N.º 24.051, ni tiene como objetivo la valorización energética y/o su disposición final."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá la posición arancelaria de tu producto a importar antes de proceder."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/importar-bienes-usados",
+      "titulo": "Importar bienes usados | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T16:29:34.165Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La vigencia de la Resolución 909/1994 y el Decreto 273/2025."
+  ]
+}

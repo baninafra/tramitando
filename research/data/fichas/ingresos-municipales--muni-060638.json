@@ -1,0 +1,107 @@
+{
+  "tramite": {
+    "slug": "ingresos-municipales",
+    "nombre": "Ingresos Municipales",
+    "nombre_busqueda": "Ingresos Municipales Pilar",
+    "resumen": "Pagá tus tasas e impuestos municipales como patente automotor, renta inmobiliaria y renta comercial desde el portal de autogestión.",
+    "sinonimos": [
+      "Pago de tasas municipales",
+      "Impuestos municipales Pilar",
+      "Patente automotor Pilar"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "patente-automotor-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060638",
+  "organismo": {
+    "nombre": "Municipalidad del Pilar",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier ciudadano que tenga que pagar tasas o impuestos municipales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Cédula de identidad vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de domicilio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación del vehículo (para patente automotor).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cédula de identidad del propietario del inmueble (para renta inmobiliaria).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cédula de identidad del propietario del comercio (para renta comercial).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal de autogestión de la Municipalidad del Pilar."
+      },
+      {
+        "texto": "Seleccioná el trámite correspondiente (Patente, Renta Inmobiliaria o Renta Comercial)."
+      },
+      {
+        "texto": "Completá los datos personales y de la propiedad o vehículo."
+      },
+      {
+        "texto": "Realizá el pago de la tasa mediante transferencia bancaria o tarjeta."
+      },
+      {
+        "texto": "Guardá el comprobante de pago y el ticket de emisión."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá los montos exactos de las tasas en el portal antes de pagar.",
+      "Guardá bien los comprobantes de pago para futuras devoluciones o consultas.",
+      "Si sos menor de edad, necesitás el consentimiento de los padres o tutores."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://pilar.gov.ar/ingresos-municipales/",
+      "titulo": "Ingresos Municipales - Municipio Pilar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T03:12:38.117Z"
+    },
+    {
+      "url": "https://pilar.gov.ar/mi-muni/",
+      "titulo": "Mi Muni - Municipio Pilar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T03:12:38.117Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los montos exactos de las tasas no se especifican en el texto.",
+    "El plazo de vencimiento de las tasas no se especifica en el texto.",
+    "La dirección exacta de las oficinas presenciales no se especifica en el texto."
+  ]
+}

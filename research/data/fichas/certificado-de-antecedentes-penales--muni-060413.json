@@ -1,0 +1,93 @@
+{
+  "tramite": {
+    "slug": "certificado-de-antecedentes-penales",
+    "nombre": "Certificado de antecedentes penales",
+    "nombre_busqueda": "certificado de antecedentes penales",
+    "resumen": "El Registro Nacional de Reincidencia emite el certificado en formato electrónico. Podés iniciar el trámite por internet y completarlo en la Oficina de Licencia de Conducir de Junín.",
+    "sinonimos": [],
+    "temas": [
+      "antecedentes-penales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060413",
+  "organismo": {
+    "nombre": "Registro Nacional de Reincidencia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "La persona interesada puede hacer el trámite."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de certificado de antecedentes penales impreso",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Completá el formulario de certificado de antecedentes penales en el sitio web indicado."
+      },
+      {
+        "texto": "Imprimí el formulario."
+      },
+      {
+        "texto": "Llevá el formulario, tu DNI y una fotocopia del DNI a la Oficina de Licencia de Conducir."
+      },
+      {
+        "texto": "Pagá el importe en la ventanilla del BAPRO."
+      },
+      {
+        "texto": "Iniciá el trámite en la oficina. La gestión se completa en 15 minutos y te entregan un comprobante."
+      },
+      {
+        "texto": "Descargá el resultado desde tu domicilio."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "El trámite en la oficina se completa en 15 minutos.",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Licencia de Conducir",
+      "direccion": "Belgrano 43",
+      "localidad": "Junín",
+      "horario": null,
+      "fuente_url": "https://www.junin.gob.ar/tramite/certificado-de-antecedentes-penales"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.junin.gob.ar/tramite/certificado-de-antecedentes-penales",
+      "titulo": "Certificado de antecedentes penales | Gobierno de Junín",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "donde",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T13:53:18.617Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El importe no está especificado; varía según el tiempo requerido.",
+    "No se informa si hace falta sacar turno."
+  ]
+}

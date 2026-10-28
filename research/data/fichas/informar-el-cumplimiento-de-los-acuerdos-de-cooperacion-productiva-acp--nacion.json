@@ -1,0 +1,107 @@
+{
+  "tramite": {
+    "slug": "informar-el-cumplimiento-de-los-acuerdos-de-cooperacion-productiva-acp",
+    "nombre": "Informar el cumplimiento de los Acuerdos de Cooperación Productiva",
+    "nombre_busqueda": "informar cumplimiento acuerdos cooperacion productiva",
+    "resumen": "Si sos proveedor adjudicatario de una contratación con Acuerdo de Cooperación Productiva (ACP), debés presentar reportes anuales de avance antes del 31 de marzo y un reporte final de cumplimiento dentro de los 30 días posteriores a la finalización del contrato.",
+    "sinonimos": [
+      "reporte anual ACP",
+      "certificado cooperacion productiva",
+      "cumplimiento ACP"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Secretaría de Industria y Desarrollo Productivo",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Proveedores de la Administración Pública Nacional o de una empresa o sociedad del Estado Nacional que tengan Acuerdos de Cooperación Productiva vigentes."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener CUIT y clave fiscal nivel 3 en AFIP.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener Trámites a Distancia (TAD) asociado a AFIP.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estar inscripto en el Registro Único del Ministerio de Producción (RUMP).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Haber realizado la constitución de la garantía a través del trámite 'Presentar la garantía del Acuerdo de Cooperación Productiva'.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD."
+      },
+      {
+        "texto": "Entrá al Expediente en el cual realizaste la constitución de garantía."
+      },
+      {
+        "texto": "Presentá el formulario correspondiente al reporte anual y la documentación respaldatoria del mismo."
+      },
+      {
+        "texto": "Una vez concluido el contrato, ingresá nuevamente al expediente y presentá el último reporte consignando el cumplimiento del ACP."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El último reporte de inversiones debese presentar antes del 31 de marzo de cada año según el período de vigencia del ACP.",
+      "Una vez finalizado el contrato, tenés 30 días para presentar el reporte final de cumplimiento junto con la solicitud de liberación de la garantía.",
+      "La Secretaría de Industria y Desarrollo Productivo va a acreditar el cumplimiento mediante el Certificado de Cooperación Productiva (CCP)."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/informar-el-cumplimiento-de-los-acuerdos-de-cooperacion-productiva-acp",
+      "titulo": "Informar el cumplimiento de los Acuerdos de Cooperación Productiva (ACP) | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T16:43:54.925Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/presentar-la-garantia-de-los-acuerdos-de-cooperacion-productiva-acp",
+      "titulo": "Presentar la Garantía de los Acuerdos de Cooperación Productiva (ACP) | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-26T16:43:54.925Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T16:43:54.925Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia del ACP no está especificada en el texto.",
+    "El monto exacto del reporte anual no está especificado en el texto."
+  ]
+}

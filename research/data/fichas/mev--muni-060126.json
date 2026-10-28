@@ -1,0 +1,86 @@
+{
+  "tramite": {
+    "slug": "mesa-de-entradas-y-expedientes",
+    "nombre": "Mesa de Entradas y Expedientes",
+    "nombre_busqueda": "Mesa de Entradas CeMAV",
+    "resumen": "Para ingresar documentación general o presentar documentos profesionales en obras particulares.",
+    "sinonimos": [
+      "Mesa de Entradas",
+      "Ingreso de documentación general",
+      "Ingreso de documentación profesional"
+    ],
+    "temas": [
+      "mesa-de-entradas-y-expedientes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060126",
+  "organismo": {
+    "nombre": "Municipalidad de Campana",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Profesionales que realicen obras particulares.",
+      "Vecinos que presenten documentación general."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documentación general.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación profesional para obras particulares.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Ingresá al sistema de turnos y seleccioná la opción correspondiente."
+      },
+      {
+        "texto": "Llená los datos personales solicitados."
+      },
+      {
+        "texto": "Confirmá los datos ingresados."
+      },
+      {
+        "texto": "Seleccioná la fecha de tu cita."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://turnos.campana.gob.ar/MEV",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://turnos.campana.gob.ar/MEV/",
+      "titulo": "Turnero",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T11:20:09.736Z"
+    },
+    {
+      "url": "https://www.campana.gob.ar/",
+      "titulo": "Municipalidad de Campana",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T11:20:09.736Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos detallados más allá de la documentación general o profesional.",
+    "No se especifican plazos exactos para cada tipo de trámite, solo tiempos aproximados de atención.",
+    "No se especifican costos o montos de tasas."
+  ]
+}

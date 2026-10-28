@@ -1,0 +1,103 @@
+{
+  "tramite": {
+    "slug": "valoracion-del-dano",
+    "nombre": "Valoración del daño",
+    "nombre_busqueda": "Valoración del daño SRT",
+    "resumen": "Trámite para determinar el porcentaje de incapacidad resultante de un accidente laboral o enfermedad profesional, cuando ya se firmó un preacuerdo y existen secuelas incapacitantes.",
+    "sinonimos": [
+      "Valoración de incapacidad",
+      "Determinación de porcentaje de incapacidad"
+    ],
+    "temas": [
+      "trabajo-y-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Riesgos del Trabajo",
+    "sigla": "SRT",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que hayan firmado un preacuerdo por haber sufrido un accidente laboral y/o enfermedad profesional y la ART/EA considere que te quedaron secuelas incapacitantes.",
+      "Trabajadores que tuvieren un siniestro y la ART/EA considere que te quedaron secuelas incapacitantes."
+    ],
+    "requisitos": [
+      {
+        "texto": "Alta médica con indicación de secuelas incapacitantes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación solicitada por la ART/EA para iniciar el expediente en la comisión médica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constitución obligatoria de patrocinio letrado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Asistencia a la citación para evaluación médica en la ART/EA.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate a la citación para evaluación médica en la ART/EA con tu patrocinante."
+      },
+      {
+        "texto": "Expresa tu intención respecto a si aceptas o no la propuesta de acuerdo."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/valoracion-del-dano",
+      "titulo": "Valoración del Daño | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T19:05:30.643Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/srt/patrocinio-letrado/servicio-patrocinio-letrado",
+      "titulo": "Conocé cómo solicitar el servicio de un letrado | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T19:05:30.643Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/srt/comisionesmedicas/tramites/ausencia-citaciones-comision-medica",
+      "titulo": "Ausencia a citaciones de Comisiones Medicas | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T19:05:30.643Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia del trámite.",
+    "El monto exacto en centavos de peso."
+  ]
+}

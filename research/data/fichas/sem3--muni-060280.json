@@ -1,0 +1,63 @@
+{
+  "tramite": {
+    "slug": "inscripcion-frentistas-residentes-estacionamiento-medido",
+    "nombre": "Inscripción al estacionamiento medido para residentes",
+    "nombre_busqueda": "inscripción de frentistas y residentes al SEM",
+    "resumen": "Inscribite en el formulario para acceder al sistema de estacionamiento medido en Miramar. Solo pueden registrarse quienes residan durante todo el año en la vivienda.",
+    "sinonimos": [
+      "inscripción al SEM",
+      "estacionamiento medido para residentes"
+    ],
+    "temas": [
+      "estacionamiento-medido"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060280",
+  "organismo": {
+    "nombre": "Municipio de General Alvarado",
+    "sigla": null,
+    "web": "https://mga.gov.ar/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés registrarte si residís durante todo el año en la vivienda."
+    ],
+    "requisitos": [
+      {
+        "texto": "Residir durante todo el año en la vivienda.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario de inscripción."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "El estacionamiento medido funciona del 15 de diciembre de 2025 al 15 de marzo de 2026.",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mga.gov.ar/sem3/",
+      "titulo": "SEM FORM - Municipio Gral Alvarado",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-27T12:39:19.389Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no informa si la inscripción tiene costo.",
+    "El texto no indica si hace falta un turno."
+  ]
+}

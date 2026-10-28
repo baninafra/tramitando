@@ -1,0 +1,168 @@
+{
+  "tramite": {
+    "slug": "solicitar-acreditacion-haberes-retiro-pension-militar-exterior",
+    "nombre": "Solicitar la acreditación de los haberes de retiro o pensión militar en el exterior",
+    "nombre_busqueda": "solicitar acreditación haberes retiro pension militar exterior",
+    "resumen": "Permite gestionar la acreditación de una cuenta bancaria propia en el exterior para el depósito de haberes de retiro o pensión militar. Es un trámite gratuito que se realiza en línea o presencialmente.",
+    "sinonimos": [
+      "acreditación de haberes en el exterior",
+      "cobro de pensión militar en el exterior"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Retirados o pensionistas militares mayores de 18 años que residan en el exterior con la debida autorización de la Fuerza y deseen percibir sus haberes mediante acreditación en una cuenta bancaria propia en el exterior."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del titular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI extranjero.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pasaporte del titular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización de la Fuerza para residir en el Exterior.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia del banco en el exterior donde se acrediten datos propios de la sucursal y los códigos necesarios para realizar la transferencia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Residencia Fiscal, constancia de Registro Tributario y número de Identificación Tributaria (NIF), si corresponde.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nacionalidad actual.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Lugar de Nacimiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fecha de nacimiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de identificación tributaria en el país de residencia del beneficiario (NIF) si correspondiera.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Residencia Tributaria o Residencia Fiscal Tributaria, si correspondiera.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave de Identificación (CDI), si correspondiera.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Banco pagador del beneficio en el exterior.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio del banco pagador en el exterior.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Código/s swift/aba/fx etc.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de cuenta del titular / IBAN (si son pagos en Europa).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Moneda a realizar la transferencia.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Presentá la documentación requerida ante el Instituto a través del portal eIAF (Sistema Integrado de Consultas)."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación requerida presencialmente en la Sede Central del Instituto o en cualquiera de sus Delegaciones."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "30 a 45 días",
+    "consejos": [
+      "El trámite se hará efectivo en la liquidación de haberes inmediata posterior a la presentación de la solicitud.",
+      "El plazo aproximado es de entre 30 y 45 días según la fecha del mes en que se inicie el trámite."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central del Instituto",
+      "direccion": "Cerrito 572, (CP 1010), Ciudad Autónoma de Buenos Aires",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-la-acreditacion-de-los-haberes-de-retiro-o-pension-militar-en-el-exterior"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-acreditacion-de-los-haberes-de-retiro-o-pension-militar-en-el-exterior",
+      "titulo": "Solicitar la acreditación de los haberes de retiro o pensión militar en el Exterior | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T09:04:34.377Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/iaf",
+      "titulo": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T09:04:34.377Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/cambiar-la-zona-de-pago-de-los-haberes-de-retiro-o-pension-militar",
+      "titulo": "Cambiar la Zona de Pago de los haberes de retiro o pensión militar. | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T09:04:34.377Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Vigencia exacta del trámite",
+    "Direcciones de delegaciones del interior",
+    "Horarios de atención presencial",
+    "Horarios de atención telefónica"
+  ]
+}

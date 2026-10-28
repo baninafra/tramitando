@@ -1,0 +1,134 @@
+{
+  "tramite": {
+    "slug": "solicitar-certificacion-veterinaria-para-traslados-al-exterior-de-perros-y-gatos",
+    "nombre": "Solicitar certificación veterinaria para traslados al exterior de perros y gatos",
+    "nombre_busqueda": "Certificación veterinaria mascotas exterior",
+    "resumen": "Para viajar con tu perro o gato al exterior necesitás un Certificado Veterinario Internacional (CVI) emitido por Senasa. Podés tramitarlo online si tu vuelo sale desde Ezeiza o si el destino permite la opción digital.",
+    "sinonimos": [
+      "Certificado Veterinario Internacional mascotas",
+      "CVI mascotas",
+      "Certificación veterinaria exterior perros gatos"
+    ],
+    "temas": [
+      "viajar-con-menores-o-mascotas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que desean trasladar perros y/o gatos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Consultá los requisitos por destino.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cumplí con los requisitos que solicita el país de destino.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declara tu domicilio electrónico.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al Sistema y consultá los requisitos a cumplir ante veterinario privado del país al que viajás."
+      },
+      {
+        "texto": "Obtené el turno y aboná los cupones que te generó la misma plataforma."
+      },
+      {
+        "texto": "Ver los Medios de pago habilitados - Senasa."
+      },
+      {
+        "texto": "Descargá y completá el formulario."
+      },
+      {
+        "texto": "Acudí a la Oficina al turno que te otorgaron por estas vias."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Andá al veterinario, cumplí con los requisitos."
+      },
+      {
+        "texto": "Llevate el turno."
+      },
+      {
+        "texto": "Acercate a la Oficina certificante del Senasa para obtener el CVA (Certificado Veterinario Austral)."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si tu CVI es digital podés consultar el Registro de Veterinarios firmantes."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Centro Regional Metropolitano",
+      "direccion": "Azopardo 1020 - CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificacion-veterinaria-para-traslados-al-exterior-de-perros-y-gatos"
+    },
+    {
+      "nombre": "Sede Central",
+      "direccion": "Paseo Colón 367 - CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificacion-veterinaria-para-traslados-al-exterior-de-perros-y-gatos"
+    },
+    {
+      "nombre": "Laboratorio Central",
+      "direccion": "Talcahuano 1660 – Martínez, Provincia de Buenos Aires",
+      "localidad": "Martínez",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificacion-veterinaria-para-traslados-al-exterior-de-perros-y-gatos"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-certificacion-veterinaria-para-traslados-al-exterior-de-perros-y-gatos",
+      "titulo": "Solicitar certificación veterinaria para traslados al exterior de perros y gatos | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T07:42:53.287Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/informacion-al-viajero/envios-al-exterior-perros-o-gatos/oficinas-certificantes-para-mascotas",
+      "titulo": "Oficinas certificantes para mascotas | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T07:42:53.287Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T07:42:53.287Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no está especificado en el texto, consultá los Medios de pago habilitados - Senasa.",
+    "El plazo de tramitación no está especificado en el texto."
+  ]
+}

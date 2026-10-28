@@ -1,0 +1,110 @@
+{
+  "tramite": {
+    "slug": "permiso-de-ingreso-transitorio-como-becario",
+    "nombre": "Permiso de ingreso transitorio como becario",
+    "nombre_busqueda": "Permiso de ingreso transitorio becario",
+    "resumen": "Permiso para extranjeros que desarrollan actividades de formación profesional o investigación científica en el marco de una beca otorgada por una entidad educativa o organismo público/privado.",
+    "sinonimos": [
+      "Permiso ingreso transitorio becario",
+      "Permiso ingreso transitorio investigación"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Migraciones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Extranjeros requeridos para desarrollar actividades vinculadas a su formación profesional en el marco de una beca otorgada.",
+      "Personas que hayan obtenido una beca de investigación otorgada por un organismo público o privado que desarrolle actividades científicas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia de inscripción en el Registro Nacional Único de Requirentes (Re.N.U.R.E.) del requirente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poder otorgado por el requirente con facultades suficientes para actuar ante la DNM.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI vigente del apoderado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción electrónica al curso pretendido suscrita por el responsable de la entidad educativa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copias del pasaporte válido y vigente del ingresante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia del otorgamiento de la beca.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización de los padres o tutor legal y acreditación de la designación de un representante legal en el Territorio Nacional (en caso de menores).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Solicitá turno escribiendo a [email protected]."
+      },
+      {
+        "texto": "Presentá la Nota de Solicitud y la totalidad de la documentación requerida ante el Departamento de Tramitación de Ingresos de la Sede Central de la Dirección Nacional de Migraciones o ante la delegación DNM que corresponda según el domicilio del requirente."
+      },
+      {
+        "texto": "Seguí el estado de tu trámite durante el período de supervisión de la solicitud presentada."
+      },
+      {
+        "texto": "Presentate en donde hayas iniciado la solicitud a los fines de notificarte del otorgamiento del mismo."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Toda documentación emitida en el exterior deberá contar con sus respectivas legalizaciones y su correspondiente traducción realizada por traductor público nacional (de corresponder)."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-un-permiso-de-ingreso-transitorio-como-becario",
+      "titulo": "Obtener un Permiso de Ingreso Transitorio como Becario | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-27T06:46:48.692Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T06:46:48.692Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de la Sede Central de la Dirección Nacional de Migraciones.",
+    "Dirección exacta de las delegaciones DNM según domicilio del requirente.",
+    "Enlace de correo electrónico para solicitar turno."
+  ]
+}

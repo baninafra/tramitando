@@ -1,0 +1,74 @@
+[0m
+> build · deepseek-v4.1-flash-free
+[0m
+[0m◈ [0mExa Web Search "Municipalidad de Fray Mamerto Esquiú Catamarca sitio oficial .gob.ar"
+[0m◈ [0mExa Web Search ""Fray Mamerto Esquiú" municipalidad trámites sitio oficial"
+[0m% [0mWebFetch https://www.fraymunicipalidad.gob.ar/
+[0m✗ [0mWebFetch https://fraymunicipalidad.gob.ar/tramites failed
+[91m[1mError: [0mStatusCode: non 2xx status code (404 GET https://fraymunicipalidad.gob.ar/tramites)
+[0m✗ [0mWebFetch https://www.fraymunicipalidad.gob.ar/tramites failed
+[91m[1mError: [0mStatusCode: non 2xx status code (404 GET https://www.fraymunicipalidad.gob.ar/tramites)
+[0m% [0mWebFetch https://www.fraymunicipalidad.gob.ar/
+[0m✗ [0mWebFetch https://www.fraymunicipalidad.gob.ar/sitemap.xml failed
+[91m[1mError: [0mStatusCode: non 2xx status code (404 GET https://www.fraymunicipalidad.gob.ar/sitemap.xml)
+[0m% [0mWebFetch https://www.fraymunicipalidad.gob.ar/robots.txt
+[0m% [0mWebFetch https://www.fraymunicipalidad.gob.ar/build/assets/routes-Cg6hYKh6.js
+[0m✗ [0mWebFetch https://fraymunicipalidad.gob.ar/servicios failed
+[91m[1mError: [0mStatusCode: non 2xx status code (404 GET https://fraymunicipalidad.gob.ar/servicios)
+[0m◈ [0mExa Web Search "fraymunicipalidad.gob.ar licencia de conducir trámite"
+[0m◈ [0mExa Web Search "Fray Mamerto Esquiú municipalidad habilitación comercial requisitos"
+[0m% [0mWebFetch https://www.fraymunicipalidad.gob.ar/rentas
+[0m◈ [0mExa Web Search "site:fraymunicipalidad.gob.ar trámite"
+[0m◈ [0mExa Web Search "site:fraymunicipalidad.gob.ar servicios requisitos"
+[0m% [0mWebFetch https://fraymunicipalidad.gob.ar/juzgado-faltas
+[0m✗ [0mWebFetch https://www.fraymunicipalidad.gob.ar/solicitud failed
+[91m[1mError: [0mStatusCode: non 2xx status code (404 GET https://www.fraymunicipalidad.gob.ar/solicitud)
+[0m% [0mWebFetch https://fraymunicipalidad.gob.ar/sepelio-san-jose.html
+[0m✗ [0mWebFetch https://fraymunicipalidad.gob.ar/contribuyentes/calendario failed
+[91m[1mError: [0mStatusCode: non 2xx status code (404 GET https://fraymunicipalidad.gob.ar/contribuyentes/calendario)
+[0m✗ [0mWebFetch https://fraymunicipalidad.gob.ar/servicios failed
+[91m[1mError: [0mStatusCode: non 2xx status code (404 GET https://fraymunicipalidad.gob.ar/servicios)
+[0m% [0mWebFetch https://fraymunicipalidad.gob.ar/
+[0m✗ [0mWebFetch https://fraymunicipalidad.gob.ar/solicitud failed
+[91m[1mError: [0mStatusCode: non 2xx status code (404 GET https://fraymunicipalidad.gob.ar/solicitud)
+[0m% [0mWebFetch https://fraymunicipalidad.gob.ar/rentas
+[0m✗ [0mWebFetch https://fraymunicipalidad.gob.ar/servicio-sepelio.html failed
+[91m[1mError: [0mStatusCode: non 2xx status code (404 GET https://fraymunicipalidad.gob.ar/servicio-sepelio.html)
+[0m% [0mWebFetch https://www.fraymunicipalidad.gob.ar/build/assets/home-HoAqvvrP.js
+[0m% [0mWebFetch https://fraymunicipalidad.gob.ar/index.html
+[0m% [0mWebFetch https://www.fraymunicipalidad.gob.ar/build/assets/rentas-DOzF32eE.js
+[0m✗ [0mWebFetch https://fraymunicipalidad.gob.ar/parque-botanico failed
+[91m[1mError: [0mStatusCode: non 2xx status code (404 GET https://fraymunicipalidad.gob.ar/parque-botanico)
+[0m✗ [0mWebFetch https://fraymunicipalidad.gob.ar/eco-fray failed
+[91m[1mError: [0mStatusCode: non 2xx status code (404 GET https://fraymunicipalidad.gob.ar/eco-fray)
+[0m✗ [0mWebFetch https://fraymunicipalidad.gob.ar/deportes failed
+[91m[1mError: [0mStatusCode: non 2xx status code (404 GET https://fraymunicipalidad.gob.ar/deportes)
+[0m✗ [0mWebFetch https://etramites.fraymunicipalidad.gob.ar/ failed
+[91m[1mError: [0mTransport error (GET https://etramites.fraymunicipalidad.gob.ar/)
+[0m◈ [0mExa Web Search "site:fraymunicipalidad.gob.ar inurl:html"
+[0m◈ [0mExa Web Search ""Fray Mamerto Esquiú" trámites habilitación licencia conducir catastro sitio oficial gob.ar"
+[0m✗ [0mWebFetch https://fraymunicipalidad.gob.ar/rentas/solicitud failed
+[91m[1mError: [0mStatusCode: non 2xx status code (404 GET https://fraymunicipalidad.gob.ar/rentas/solicitud)
+[0m✗ [0mWebFetch https://fraymunicipalidad.gob.ar/empadronamiento failed
+[91m[1mError: [0mStatusCode: non 2xx status code (404 GET https://fraymunicipalidad.gob.ar/empadronamiento)
+[0m✗ [0mWebFetch https://fraymunicipalidad.gob.ar/etramites failed
+[91m[1mError: [0mStatusCode: non 2xx status code (404 GET https://fraymunicipalidad.gob.ar/etramites)
+[0m✗ [0mWebFetch https://fraymunicipalidad.gob.ar/defensa-del-consumidor failed
+[91m[1mError: [0mStatusCode: non 2xx status code (404 GET https://fraymunicipalidad.gob.ar/defensa-del-consumidor)
+[0m✗ [0mWebFetch https://municipalidad.com/fray/etramites failed
+[91m[1mError: [0mRequest timed out
+[0m✗ [0mWebFetch https://municipalidad.com/fray/etramites/verguia?idTipoTramiteDet=11 failed
+[91m[1mError: [0mRequest timed out
+[0m✗ [0mWebFetch https://www.fraymunicipalidad.gob.ar/deportes failed
+[91m[1mError: [0mStatusCode: non 2xx status code (404 GET https://www.fraymunicipalidad.gob.ar/deportes)
+[0m✗ [0mWebFetch https://www.fraymunicipalidad.gob.ar/camping failed
+[91m[1mError: [0mStatusCode: non 2xx status code (404 GET https://www.fraymunicipalidad.gob.ar/camping)
+[0m✗ [0mWebFetch https://www.fraymunicipalidad.gob.ar/hosteria failed
+[91m[1mError: [0mStatusCode: non 2xx status code (404 GET https://www.fraymunicipalidad.gob.ar/hosteria)
+[0m✗ [0mWebFetch https://www.fraymunicipalidad.gob.ar/club-campo failed
+[91m[1mError: [0mStatusCode: non 2xx status code (404 GET https://www.fraymunicipalidad.gob.ar/club-campo)
+[0m◈ [0mExa Web Search "site:fraymunicipalidad.gob.ar turnos reclamos certificado"
+[0m◈ [0mExa Web Search ""fraymunicipalidad.gob.ar" "habilitación" OR "catastro" OR "licencia""
+[0m✗ [0mWebFetch https://www.fraymunicipalidad.gob.ar/contribuyentes/login failed
+[91m[1mError: [0mStatusCode: non 2xx status code (404 GET https://www.fraymunicipalidad.gob.ar/contribuyentes/login)
+[0m% [0mWebFetch https://www.fraymunicipalidad.gob.ar/juzgado-faltas

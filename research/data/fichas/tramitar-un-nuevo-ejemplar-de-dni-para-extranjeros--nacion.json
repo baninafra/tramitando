@@ -1,0 +1,113 @@
+{
+  "tramite": {
+    "slug": "tramitar-nuevo-ejemplar-dni-extranjeros",
+    "nombre": "Sacar un nuevo ejemplar de DNI para extranjeros",
+    "nombre_busqueda": "tramitar nuevo ejemplar dni extranjero",
+    "resumen": "Si cambiaste tu domicilio, perdiste el documento, se te venció o te lo robaron, podés tramitar un nuevo ejemplar de DNI. El trámite lleva 15 minutos y cuesta $20000.00.",
+    "sinonimos": [
+      "Renovación de DNI para extranjeros",
+      "Canje de DNI para extranjeros",
+      "Solicitar nuevo DNI para extranjeros"
+    ],
+    "temas": [
+      "dni"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Renaper",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Mayores de 14 años.",
+      "Menores de 14 años acompañados por padre, madre o tutor con su DNI."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Denuncia de extravío o robo del DNI, si se aplicable.",
+        "aclaracion": "Si lo extraviaste o te lo robaron."
+      },
+      {
+        "texto": "Oficio judicial o testimonio de tutela del menor.",
+        "aclaracion": "Si sos menor de 14 años y sos representante legal."
+      },
+      {
+        "texto": "Autorización de representación firmada y sellada por la autoridad competente.",
+        "aclaracion": "Si el menor se encuentra en una institución de cuidado u hogar de menores."
+      },
+      {
+        "texto": "Oficio judicial o testimonio de guarda provisoria con fines de adopción.",
+        "aclaracion": "Si el menor se encuentra en una institución de cuidado u hogar de menores."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Sacá turno para un Centro de Documentación Renaper en la app Mi Argentina."
+      },
+      {
+        "texto": "Guardá la constancia de solicitud de trámite y hacé el seguimiento online con tu ID desde aquí."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en la oficina elegida, si es en un Centro de Documentación Renaper con la constancia de turno."
+      },
+      {
+        "texto": "Si sos mayor de 14 años, podés solicitar también el DNI en tu celular."
+      },
+      {
+        "texto": "Si vas a retiralo a una oficina, presentate con la constancia de solicitud de trámite."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://mi.argentina.gob.ar/turnos/seleccion-turno/1070",
+    "plazo": "15 minutos",
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 2000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/tramitar-un-nuevo-ejemplar-de-dni-para-extranjeros"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tramitar-un-nuevo-ejemplar-de-dni-para-extranjeros",
+      "titulo": "Tramitar un nuevo ejemplar de DNI para extranjeros | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-28T00:31:30.393Z"
+    },
+    {
+      "url": "https://mi.argentina.gob.ar/turnos/seleccion-turno/1070",
+      "titulo": "Ingresar | Mi Argentina",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T00:31:30.393Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de las oficinas de Centro de Documentación Renaper.",
+    "Vigencia del DNI para menores de 14 años (hasta cumplir la edad de las actualizaciones de 5/8 o de 14 años)."
+  ]
+}

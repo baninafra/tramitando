@@ -1,0 +1,125 @@
+{
+  "tramite": {
+    "slug": "licencia-de-operacion-o-registro-para-importacion-exportacion-y-venta-de-fuentes",
+    "nombre": "Licencia de operación o registro para importación, exportación y venta de fuentes",
+    "nombre_busqueda": "Licencia operación registro fuentes radiactivas",
+    "resumen": "Este trámite autoriza a importar, exportar, vender y transferir fuentes radiactivas y equipos para uso industrial. Requiere documentación específica, pago de tasa regulatoria y presentación ante la Autoridad Regulatoria Nuclear.",
+    "sinonimos": [
+      "Licencia ARN fuentes radiactivas",
+      "Registro operación material radiactivo",
+      "Autorización venta fuentes"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Autoridad Regulatoria Nuclear",
+    "sigla": "ARN",
+    "web": "https://www.argentina.gob.ar/arn"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Persona humana o jurídica titular de la licencia de operación o registro.",
+      "Usuarios titulares de licencia de operación o registros vigentes al momento de la transferencia.",
+      "Usuarios exentos de control regulatorio, en el caso de corresponder."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota firmada por el(los) representante(s) legal(es) que describa el trámite, el motivo, la actividad radiactiva máxima y la descripción del material radiactivo o equipos a importar, exportar y vender, incluyendo el uso de dichos equipos o material.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitud de Autorización de Operación para el Uso de Radioisótopos o Radiaciones Ionizantes, firmada en original por el(los) representante(s) legal(es) en doble faz.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Aceptación de Responsabilidad por la seguridad radiológica para la importación, exportación y venta a usuarios autorizados o exentos de control regulatorio, firmado por la persona designada en el formulario anterior.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que acredite la capacidad jurídica de la entidad titular de la licencia de operación o registro y la representatividad legal del firmante de la solicitud de autorización de operación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descripción del depósito destinado a la guarda de fuentes, incluyendo esquemas y fotografías de las instalaciones.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descripción del monitor de radiaciones.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Procedimiento de emergencias radiológicas, que puede ser desarrollado en base a las Recomendaciones para la elaboración de un procedimiento de emergencias para prácticas que usan fuentes radiactivas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago de la tasa regulatoria correspondiente, junto con el Formulario Facturación de la Tasa Regulatoria.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación requerida por correo postal dirigida a la Autoridad Regulatoria Nuclear, Av. del Libertador 8250, C1429BNP, Ciudad Autónoma de Buenos Aires."
+      },
+      {
+        "texto": "O presentá la documentación requerida personalmente en la sede central de la ARN, Av. del Libertador 8250, Oficina 317, de lunes a viernes de 9 a 15 horas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá el valor de la hora regulatoria aquí.",
+      "En caso de documentación faltante o de existir observaciones, se te informará por teléfono, correo electrónico o postal y deberás remitir la documentación requerida por correo postal o entregarla personalmente en el caso de originales, a menos que se especifique lo contrario."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede central de la ARN",
+      "direccion": "Av. del Libertador 8250, Oficina 317",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/licencia-de-operacion-o-registro-para-importacion-exportacion-y-venta-de-fuentes"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/licencia-de-operacion-o-registro-para-importacion-exportacion-y-venta-de-fuentes",
+      "titulo": "Licencia de operación o registro para importación, exportación y venta de fuentes radiactivas y/o equipos con fuentes radiactivas para uso industrial | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T05:35:17.579Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/arn/instalaciones-practicas-y-personal-regulado/datos-de-contacto-para-regulados",
+      "titulo": "Datos de contacto para regulados | Argentina.gob.ar",
+      "bloques": [
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T05:35:17.579Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T05:35:17.579Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Vigencia de la licencia o registro.",
+    "Valor exacto de la hora regulatoria."
+  ]
+}

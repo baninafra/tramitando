@@ -1,0 +1,85 @@
+{
+  "tramite": {
+    "slug": "solicitar-baja-en-el-registro-de-productos-veterinarios",
+    "nombre": "Solicitar baja en el registro de productos veterinarios",
+    "nombre_busqueda": "baja registro productos veterinarios senasa",
+    "resumen": "Si tenés productos veterinarios inscriptos en el registro del Senasa y ya no los comercializás, debés informar la baja. Es un trámite gratuito que se hace en línea completando el formulario en SIG-Trámites.",
+    "sinonimos": [
+      "Dar de baja producto veterinario",
+      "Baja registro SENASA",
+      "Eliminar producto del registro veterinario"
+    ],
+    "temas": [
+      "animales-y-zoonosis"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Sanidad Animal",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titular, director técnico o apoderado de establecimientos de productos veterinarios que soliciten la baja de un producto veterinario inscripto en el Senasa."
+    ],
+    "requisitos": [
+      {
+        "texto": "Completar en SIG-Trámites.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Accedé a SIG-Trámites."
+      },
+      {
+        "texto": "Seleccioná el trámite de baja de productos veterinarios."
+      },
+      {
+        "texto": "Completá el formulario con los datos solicitados."
+      },
+      {
+        "texto": "Guardá el número de trámite generado para consultar el estado."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Todo lo completado tiene carácter de declaración jurada.",
+      "En toda tramitación se generará un número de expediente electrónico que será vinculado al expediente de registro de producto."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Sanidad Animal - Dirección de Productos Veterinarios",
+      "direccion": "Carlos Calvo N° 66, PB, C1107ADR, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-baja-en-el-registro-de-productos-veterinarios"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-baja-en-el-registro-de-productos-veterinarios",
+      "titulo": "Solicitar baja en el registro de productos veterinarios | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T05:01:54.060Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite no está especificada en el texto, solo se menciona la Resolución Senasa N° 11/2025.",
+    "No se especifica en el texto si el trámite requiere turno ni cuál es el plazo estimado de resolución."
+  ]
+}

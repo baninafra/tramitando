@@ -1,0 +1,72 @@
+{
+  "tramite": {
+    "slug": "consulta-de-libre-deuda-de-infracciones-municipal",
+    "nombre": "Consulta de libre deuda de infracciones municipal",
+    "nombre_busqueda": "Consulta libre deuda infracciones licencias",
+    "resumen": "Permite verificar si hay infracciones impagas a nivel municipal que impidan tramitar la licencia de conducir.",
+    "sinonimos": [
+      "Consulta deudas licencias",
+      "Libre deuda municipal licencias"
+    ],
+    "temas": [
+      "licencia-de-conducir",
+      "infracciones-y-multas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060098",
+  "organismo": {
+    "nombre": "Berisso",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes deseen consultar la base de infracciones."
+    ],
+    "requisitos": [
+      {
+        "texto": "Ingresar los siguientes datos: Tipo de Documento, Número de Documento, Apellido y Nombre.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá los datos solicitados en el formulario."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://licencias.berisso.gob.ar/libredeuda",
+      "titulo": "Libre de Deuda - Licencias de Conducir",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T11:15:29.939Z"
+    },
+    {
+      "url": "https://licencias.berisso.gob.ar/",
+      "titulo": "Sistema de Turnos - Licencias de Conducir",
+      "bloques": [
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T11:15:29.939Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se indica que el trámite corresponde únicamente a infracciones a nivel municipal.",
+    "No se especifican requisitos adicionales ni aclaraciones sobre el tipo de documento aceptado más allá de las opciones mostradas."
+  ]
+}

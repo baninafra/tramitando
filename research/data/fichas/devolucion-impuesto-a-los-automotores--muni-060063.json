@@ -1,0 +1,76 @@
+{
+  "tramite": {
+    "slug": "devolucion-impuesto-a-los-automotores",
+    "nombre": "Devolución impuesto a los automotores",
+    "nombre_busqueda": "Devolución impuesto automotores",
+    "resumen": "Formá el expediente para pedir la devolución de pagos en demasía o erróneos en la planta baja del Palacio Municipal.",
+    "sinonimos": [],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060063",
+  "organismo": {
+    "nombre": "Municipalidad de Balcarce",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titular",
+      "Persona designada como apoderada",
+      "Mandataria del automotor"
+    ],
+    "requisitos": [
+      {
+        "texto": "Comprobantes de pago",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de solicitud",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá los comprobantes de pago y la nota de solicitud en la planta baja del Palacio Municipal."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Palacio Municipal",
+      "direccion": "Av. del Valle Nº 602",
+      "localidad": "Balcarce",
+      "horario": null,
+      "fuente_url": "https://balcarce-app.gob.ar/portal_servicios/servicio/devolucion-impuesto-a-los-automotores"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://balcarce-app.gob.ar/portal_servicios/servicio/devolucion-impuesto-a-los-automotores",
+      "titulo": "Portal de Servicios | Modernizacion Balcarce",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "donde",
+        "costo",
+        "resumen",
+        "consejos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T03:02:55.629Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el plazo de resolución.",
+    "No se especifican los requisitos para menores de edad o casos especiales."
+  ]
+}

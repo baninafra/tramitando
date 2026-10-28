@@ -1,0 +1,103 @@
+{
+  "tramite": {
+    "slug": "solicitar-certificacionrecertificacion-bpm",
+    "nombre": "Solicitar certificación/recertificación de BPM",
+    "nombre_busqueda": "Certificación BPM Senasa",
+    "resumen": "Solicitá la certificación o recertificación de buenas prácticas de manufactura ante el Senasa si tenés un establecimiento elaborador de productos veterinarios. El trámite se hace en línea por TAD y requiere declarar un domicilio electrónico.",
+    "sinonimos": [
+      "Certificación BPM veterinaria",
+      "Recertificación BPM",
+      "Auditoría BPM Senasa"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titular, director técnico o apoderado de establecimiento elaborador de productos veterinarios."
+    ],
+    "requisitos": [
+      {
+        "texto": "Declarar domicilio electrónico mediante el sistema SIGTrámites.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Seleccionar solo 'otros cambios legales' en la solicitud de modificación al registro de firmas de productos veterinarios.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Adjuntar en un solo PDF: cupón(es) con el/los comprobante(s) de pago y una NOTA solicitando la certificación o recertificación, mencionando los establecimientos de la firma a ser auditados.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar por TAD."
+      },
+      {
+        "texto": "Realizar la modificación al Registro de firmas de productos veterinarios (Cambio de Razón Social y otros cambios legales)."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si tenés un trámite iniciado, podés consultar de forma rápida y simple el estado de tu expediente.",
+      "Puede solicitar una entrevista con un técnico. La misma se acordará con una antelación de 24 a 48 horas según disponibilidad para los días Lunes a viernes, de 9 a 12 hs y tendrán una duración máxima de 30 minutos. Se realizarán en Carlos Calvo N° 66, PB - CABA."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Sanidad Animal - Dirección de Productos Veterinarios",
+      "direccion": "Carlos Calvo N° 66, PB, C1107ADR, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificacionrecertificacion-de-buenas-practicas-de-manufactura-bpm-para-un"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-certificacionrecertificacion-de-buenas-practicas-de-manufactura-bpm-para-un",
+      "titulo": "Solicitar certificación/recertificación de buenas prácticas de manufactura (BPM) para un establecimiento elaborador de productos veterinarios | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T07:50:15.725Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T07:50:15.725Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T07:50:15.725Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no está especificado en el texto, solo se indica que corresponde según el caso particular.",
+    "El plazo de resolución no está especificado en el texto."
+  ]
+}

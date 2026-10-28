@@ -1,0 +1,117 @@
+{
+  "tramite": {
+    "slug": "legalizacion-y-apostillados",
+    "nombre": "Reconocimiento de licencia de conducir colombiana",
+    "nombre_busqueda": "Reconocimiento licencia conducir colombiana argentina",
+    "resumen": "Colombianos residentes en Argentina pueden obtener el reconocimiento de su licencia de conducir vigente. El trámite es gratuito y requiere presentar documentación original y copia, además de un examen psicofísico en un CEL.",
+    "sinonimos": [
+      "Canje de licencia colombiana",
+      "Reconocimiento licencia conducir Colombia Argentina"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Agencia Nacional de Seguridad Vial",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Colombianos residentes en la Argentina mayores de 17 años con licencia de conducir vigente."
+    ],
+    "requisitos": [
+      {
+        "texto": "Licencia de Conducir vigente otorgada por el Ministerio de Transportes de Colombia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI argentino original y copia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI colombiano original y copia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de antecedentes penales (si se tramita clase D).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cumplir la edad mínima legal para la categoría y/o clase correspondiente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener la edad correspondiente para la clase de licencia que se solicita.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Solicitar el certificado que autorice la expedición de la Licencia Nacional de Conducir por equivalencia al correo electrónico indicado en la página oficial."
+      },
+      {
+        "texto": "Acompañar la solicitud con copia de DNI argentino y DNI colombiano."
+      },
+      {
+        "texto": "Generar la boleta de pago del Certificado Nacional de Antecedentes de Tránsito (CENAT) si se reside en la provincia de Buenos Aires."
+      },
+      {
+        "texto": "Concurrir al CEL del municipio correspondiente al domicilio."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentar la documentación original y copia."
+      },
+      {
+        "texto": "Realizar el examen psicofísico."
+      },
+      {
+        "texto": "Retirar la Licencia Nacional de Conducir en la fecha que el CEL indique."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El certificado de Expedición de Licencia Nacional de Conducir por equivalencia tiene una vigencia de 60 días para ser presentado en el CEL.",
+      "No se retendrá la licencia otorgada por las autoridades colombianas.",
+      "La documentación debe ser un único archivo en formato PDF a color con datos legibles, sellos y firmas visibles, respetando el encuadre del documento."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/acuerdo-entre-la-republica-de-colombia-y-la-republica-argentina-sobre-reconocimiento",
+      "titulo": "Acuerdo entre la República de Colombia y la República Argentina sobre reconocimiento recíproco y expedición de Licencias de Conducir por equivalencia. | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T04:13:13.835Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T04:13:13.835Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El trámite lleva 2 meses desde la consulta de validación hasta la emisión del certificado.",
+    "El trámite tiene un año de validez desde la adquisición de residencia en territorio argentino.",
+    "Vigencia de 60 días para el certificado de equivalencia."
+  ]
+}

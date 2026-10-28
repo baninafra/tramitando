@@ -1,0 +1,139 @@
+{
+  "tramite": {
+    "slug": "registro-de-obra-musical",
+    "nombre": "Registrar una canción o un álbum musical",
+    "nombre_busqueda": "Registrar obra musical",
+    "resumen": "Este trámite permite registrar una edición musical (letra y música) para autores, compositores o editores. Requiere un pago de $1.100 y la presentación de la obra completa junto con documentos de identidad y vínculo.",
+    "sinonimos": [
+      "Registro de obra musical",
+      "Inscripción de obra musical",
+      "Registro de canción"
+    ],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional del Derecho de Autor",
+    "sigla": "DNDA",
+    "web": "https://www.argentina.gob.ar/servicio/registrar-una-cancion-o-un-album-musical"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Autores y compositores",
+      "Editores musicales"
+    ],
+    "requisitos": [
+      {
+        "texto": "Comprobante de pago del trámite por depósito o transferencia bancaria de $1.100 al Fondo Cooperador Ley 23.412 DNDA-SADAIC",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de la obra completa",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos de los autores (nombre completo o seudónimo, cuil/cuit/cdi o pasaporte si es extranjero)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos de los editores/titulares (nombre completo o razón social, cuil/cuit/cdi, nacionalidad, estado civil, correo electrónico, teléfono, domicilio y porcentaje de titularidad)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el autor es menor de edad: documentación que acredite vínculo y constancia de CUIT, CUIL o CDI del menor (en caso de ser extranjero)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el autor es fallecido: certificado de defunción",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el titular es persona jurídica: estatuto y última designación de autoridades",
+        "aclaracion": null
+      },
+      {
+        "texto": "Representante legal: autorización privada del autor, firmada y certificada ante autoridad bancaria, judicial, policial o Escribano Público, o carta poder concedida por el autor ante Escribano Público",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el escribano no pertenece a la Ciudad de Buenos Aires, su firma debe estar legalizada ante el Colegio de Escribanos de la localidad correspondiente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de cuil/cuit/cdi (en caso de ser extranjero)/ pasaporte del autor o titular",
+        "aclaracion": null
+      },
+      {
+        "texto": "Apoderado vía TAD (si aplica)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD -Inscripción de obra publicada - Musical e iniciá el trámite"
+      },
+      {
+        "texto": "Consultá el Instructivo inicio de tramite en plataforma TAD"
+      },
+      {
+        "texto": "Completá los datos requeridos"
+      },
+      {
+        "texto": "Subí la documentación obligatoria y complementaria"
+      },
+      {
+        "texto": "El sistema te otorgará un número de expediente electrónico, anotalo y tenelo presente para cualquier consulta posterior en la DNDA"
+      },
+      {
+        "texto": "Si elegiste la opción Modo de Depósito Digital \"NO\", dentro del expediente generado encontrarás 3 archivos para descargar e imprimir: 1.datos de la obra a registrar, 2.carátula variable y 3.carátulas del expediente"
+      },
+      {
+        "texto": "Si elegiste la opción Modo de Depósito Digital \"SI\", una vez iniciado el expediente recibirás una comunicación en la cual se te detallará el procedimiento para la carga digital de la obra"
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Si elegiste la opción Modo de Depósito Digital \"NO\", deberás presentar o enviar la obra y la impresión de los tres archivos a la Dirección Nacional del Derecho de Autor: Sede Central"
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Tené en cuenta que si seleccionaste envío físico o digital, el trámite no estará concluido hasta que no hayas remitido la obra a la DNDA con los archivos correspondientes"
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 110000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/registrar-una-cancion-o-un-album-musical"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/registrar-una-cancion-o-un-album-musical",
+      "titulo": "Registrar una canción o un álbum musical | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T03:07:53.905Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Información sobre el plazo de tramitación",
+    "Dirección exacta de la Sede Central de la DNDA"
+  ]
+}

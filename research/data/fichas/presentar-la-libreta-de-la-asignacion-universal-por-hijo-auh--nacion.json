@@ -1,0 +1,96 @@
+{
+  "tramite": {
+    "slug": "presentar-la-libreta-de-la-asignacion-universal-por-hijo-auh",
+    "nombre": "Presentar la libreta de la asignación universal por hijo AUH",
+    "nombre_busqueda": "Presentar la libreta de la asignación universal por hijo AUH",
+    "resumen": "Si no es posible verificar los controles de salud, vacunación y escolaridad de tus hijos automáticamente, podés acreditarlo presentando la libreta. El trámite es gratuito y se realiza en línea desde mi ANSES.",
+    "sinonimos": [
+      "Presentar libreta AUH",
+      "Acreditar controles de salud y escolaridad AUH"
+    ],
+    "temas": [
+      "familia-y-pareja"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANSES",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "La madre, padre o titular con niños y adolescentes a cargo.",
+      "Titulares de la Asignación Universal por Hijo que sean desocupados.",
+      "Trabajadores no registrados o sin aportes.",
+      "Trabajadores de casas particulares.",
+      "Monotributistas sociales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Libreta de la Asignación Universal por Hijo (Formulario PS. 147) completa con datos de salud y educación según corresponda.",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUIL y Clave de la Seguridad Social para usar mi ANSES.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá en mi ANSES."
+      },
+      {
+        "texto": "En la sección Hijos > Libreta AUH, revisá las secciones que faltan completar (educación, salud y vacunación) por cada hijo o personas a cargo."
+      },
+      {
+        "texto": "Generá la Libreta seleccionando la opción GENERAR LIBRETA para descargarla o enviarla a tu mail."
+      },
+      {
+        "texto": "Hacé completar la Libreta imprimiéndola en una sola hoja con buena calidad y llevándola a la escuela y/o centro de salud para que la completen y firmen."
+      },
+      {
+        "texto": "Sacale una foto a la Libreta completa y firmada siguiendo las recomendaciones de iluminación, visibilidad de esquinas, sin arrugas ni movimiento, con peso menor a 3 MB y formato JPG."
+      },
+      {
+        "texto": "Ingresá en mi ANSES, seleccioná Hijos > Libreta AUH y subí la foto para finalizar el trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Para utilizar mi ANSES necesitás contar con CUIL y Clave de la Seguridad Social.",
+      "Si tenés la Libreta AUH completa generada en mi ANSES y tenés problemas para subirla, podés presentarla en una oficina de ANSES sin turno previo."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/presentar-la-libreta-de-la-asignacion-universal-por-hijo-auh",
+      "titulo": "Presentar la Libreta de la Asignación Universal por Hijo (AUH) | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T01:27:32.240Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T01:27:32.240Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si no tenés CUIL ni Clave de la Seguridad Social, no podés usar mi ANSES para hacer el trámite en línea.",
+    "No se especifica si se requiere turno para presentarla en una oficina de ANSES, aunque se menciona que se puede hacer sin turno previo si hay problemas con la subida."
+  ]
+}

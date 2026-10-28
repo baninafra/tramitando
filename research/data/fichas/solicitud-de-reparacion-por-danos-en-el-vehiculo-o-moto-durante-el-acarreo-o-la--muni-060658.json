@@ -1,0 +1,77 @@
+{
+  "tramite": {
+    "slug": "solicitud-reparacion-danos-vehiculo-moto",
+    "nombre": "Solicitud de reparación por daños en el vehículo o moto",
+    "nombre_busqueda": "Solicitud reparación daños vehículo moto",
+    "resumen": "Solicitud para autorizar la reparación de daños en vehículos o motos ocurridos durante el acarreo o estancia en el municipio.",
+    "sinonimos": [
+      "Reparación daños vehículo Quilmes",
+      "Daños vehículo acarreo Quilmes"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060658",
+  "organismo": {
+    "nombre": "Municipalidad de Quilmes",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que hayan sufrido daños en su vehículo o moto durante el acarreo o estancia en el municipio."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del propietario del vehículo o moto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación del vehículo o moto (matrícula, título de propiedad, etc.).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de la autoridad de tránsito que acredite los daños.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá los requisitos en la oficina correspondiente."
+      },
+      {
+        "texto": "Recibí la solicitud y los documentos."
+      },
+      {
+        "texto": "Esperá la resolución de la solicitud."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mi.quilmes.gov.ar/tramites/154/solicitud-de-reparacion-por-danos-en-el-vehiculo-o-moto-durante-el-acarreo-o-la-estadia",
+      "titulo": "Solicitud de reparación por daños en el vehículo o moto, durante el acarreo o la estadia",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T08:47:13.150Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se desconoce si el trámite se puede realizar completamente por internet.",
+    "Se desconoce si se requiere sacar turno para realizar el trámite.",
+    "Se desconoce el plazo de resolución de la solicitud.",
+    "Se desconoce si hay costos asociados al trámite."
+  ]
+}

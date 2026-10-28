@@ -1,0 +1,84 @@
+{
+  "tramite": {
+    "slug": "certificar-residencia-fiscal-en-la-argentina",
+    "nombre": "Certificar residencia fiscal en la Argentina",
+    "nombre_busqueda": "certificado de residencia fiscal",
+    "resumen": "Solicitá ante ARCA un certificado de residencia fiscal para evitar la doble imposición tributaria en otros países, con o sin convenio con Argentina.",
+    "sinonimos": [
+      "certificado de residencia fiscal"
+    ],
+    "temas": [
+      "certificados-personales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ARCA",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas físicas, jurídicas y sucesiones indivisas residentes en el país durante el período que abarca el certificado."
+    ],
+    "requisitos": [
+      {
+        "texto": "Clave fiscal.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá con clave fiscal al servicio «Solicitud de certificado de residencia fiscal» en el sitio de ARCA y elegí «Iniciar solicitud»."
+      },
+      {
+        "texto": "Completá los datos y confirmá el inicio de la solicitud. La información que envíes tiene carácter de declaración jurada."
+      },
+      {
+        "texto": "Revisá el resultado de los controles formales que aparecerá en pantalla."
+      },
+      {
+        "texto": "Guardá el comprobante que emita el sistema si acepta la solicitud. Si contiene observaciones, subsanalas."
+      },
+      {
+        "texto": "Iniciá una nueva solicitud si el sistema rechaza la anterior, una vez que hayas corregido las inconsistencias."
+      },
+      {
+        "texto": "Presentá la documentación para subsanar observaciones en la dependencia donde estás inscripto o en la que corresponda a tu domicilio real, dentro de los 10 días corridos desde el día siguiente a la aceptación del envío."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "Si ARCA te pide documentación o aclaraciones complementarias, tenés 15 días corridos para presentarlas. Para subsanar observaciones, tenés 10 días corridos desde el día siguiente a la aceptación del…",
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": true,
+      "monto_centavos": null,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/certificar-residencia-fiscal-en-la-argentina"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/certificar-residencia-fiscal-en-la-argentina",
+      "titulo": "Certificar residencia fiscal en la Argentina | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-27T16:22:19.059Z"
+    }
+  ],
+  "sin_confirmar": []
+}

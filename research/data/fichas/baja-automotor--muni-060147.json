@@ -1,0 +1,87 @@
+{
+  "tramite": {
+    "slug": "baja-automotor",
+    "nombre": "Baja de Automotor",
+    "nombre_busqueda": "Baja de automotor",
+    "resumen": "Para bajar un automotor de la matrícula municipal necesitás copias del título transferido, informe histórico y comprobante de pago sin deudas.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias",
+      "patente-automotor-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060147",
+  "organismo": {
+    "nombre": "Municipalidad de Carlos Casares",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares del vehículo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Copia del título transferido.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informe histórico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago.",
+        "aclaracion": null
+      },
+      {
+        "texto": "No tener deudas.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario web haciendo click en el enlace correspondiente."
+      },
+      {
+        "texto": "Adherite al comprobante de pago electrónico haciendo click en el enlace correspondiente."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1330000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://casares.gob.ar/tramites/baja-automotor/"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://casares.gob.ar/tramites/baja-automotor/",
+      "titulo": "Baja Automotor – Municipalidad de Carlos Casares",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T10:50:45.057Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina para trámites presenciales.",
+    "Horarios de atención.",
+    "Si se requiere sacar turno y cómo hacerlo.",
+    "Vigencia del trámite desde cuándo."
+  ]
+}

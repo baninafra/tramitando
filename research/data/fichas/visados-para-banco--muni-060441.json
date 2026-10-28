@@ -1,0 +1,105 @@
+{
+  "tramite": {
+    "slug": "visado-para-banco",
+    "nombre": "Visado para banco",
+    "nombre_busqueda": "visado de planos para créditos hipotecarios",
+    "resumen": "Obtené un plano visado por la Dirección de Obras Particulares para presentarlo en una entidad bancaria. El trámite es presencial y requiere turno previo.",
+    "sinonimos": [
+      "visado de banco",
+      "visado de planos para banco"
+    ],
+    "temas": [
+      "obras-y-construccion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060441",
+  "organismo": {
+    "nombre": "Dirección General de Obras Particulares",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes necesitan presentar un plano visado en una entidad bancaria."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota del profesional dirigida al director general de Obras Particulares para solicitar el visado de banco.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dos copias del plano municipal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia impresa y completa de ingreso de Monotasa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de los servicios de agua y cloaca o boleta de pago donde consten esos servicios.",
+        "aclaracion": "Si la parcela tiene más de una unidad."
+      },
+      {
+        "texto": "Una copia del plano de propiedad horizontal.",
+        "aclaracion": "Si el inmueble está sometido al régimen de propiedad horizontal."
+      },
+      {
+        "texto": "Una copia del plano que dio origen a la propiedad horizontal.",
+        "aclaracion": "Si el inmueble está sometido al régimen de propiedad horizontal."
+      },
+      {
+        "texto": "Autorización de los copropietarios.",
+        "aclaracion": "Si el inmueble está sometido al régimen de propiedad horizontal."
+      },
+      {
+        "texto": "Timbrado vigente o comprobante de turno ProCreAr.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La carpeta debe estar en Obras Particulares.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Sacá un turno previo con la opción «Consulta Administrativa - Ingreso y Egreso Documentación»."
+      },
+      {
+        "texto": "Presentá los requisitos para solicitar el visado de banco."
+      },
+      {
+        "texto": "Retirá el plano visado cuando se complete el trámite."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://turnos.laplata.gob.ar/misdatos",
+    "plazo": null,
+    "consejos": [
+      "El visado se otorga una sola vez por expediente."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://tramites.laplata.gob.ar/obrasparticulares/visados-para-banco.html",
+      "titulo": "Obras Particulares - Municipalidad de La Plata",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:17:02.558Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa el costo del trámite.",
+    "No se indica el plazo de resolución ni la dirección donde se realiza."
+  ]
+}

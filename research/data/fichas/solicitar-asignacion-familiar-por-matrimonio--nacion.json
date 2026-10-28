@@ -1,0 +1,93 @@
+{
+  "tramite": {
+    "slug": "solicitar-asignacion-familiar-por-matrimonio",
+    "nombre": "Solicitar asignación familiar por matrimonio",
+    "nombre_busqueda": "Solicitar asignación familiar por matrimonio",
+    "resumen": "Es un pago único que se puede abonar a ambos cónyuges, siempre que se encuentren comprendidos en el Régimen de Asignaciones Familiares. La solicitud se puede realizar desde los dos meses y hasta los dos años de celebrado el matrimonio.",
+    "sinonimos": [],
+    "temas": [
+      "familia-y-pareja",
+      "matrimonios-y-uniones-convivenciales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANSES",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A personas trabajadoras registradas titulares de la prestación por desempleo que cobren a través de una Aseguradora de Riesgos del Trabajo (ART)",
+      "A trabajadoras de temporada titulares de la Pensión Honorífica de Veteranos de Guerra del Atlántico Sur"
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI de ambos",
+        "aclaracion": null
+      },
+      {
+        "texto": "Partida o acta de matrimonio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener actualizados los datos personales y los vínculos familiares en ANSES",
+        "aclaracion": null
+      },
+      {
+        "texto": "Que los ingresos del grupo familiar no superen los topes máximos establecidos para el mes en que te casaste",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a nuestro canal de Atención Virtual con tu CUIL y Clave de la Seguridad Social"
+      },
+      {
+        "texto": "Revisá si tus datos personales y vínculos familiares están actualizados en mi ANSES"
+      },
+      {
+        "texto": "Reuní la documentación de ambos cónyuges"
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Actualizá tus datos personales y vínculos familiares en una oficina de ANSES"
+      },
+      {
+        "texto": "Hacé el trámite de manera presencial en una oficina de ANSES con turno previo"
+      },
+      {
+        "texto": "Llevá la documentación correspondiente"
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La solicitud se puede realizar desde los dos meses y hasta los dos años de celebrado el matrimonio"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-asignacion-familiar-por-matrimonio",
+      "titulo": "Solicitar Asignación Familiar por Matrimonio | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T04:48:49.378Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo exacto de tramitación",
+    "La dirección de las oficinas de ANSES",
+    "El monto de la asignación familiar"
+  ]
+}

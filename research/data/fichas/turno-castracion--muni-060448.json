@@ -1,0 +1,121 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-turno-de-castracion-de-mascotas",
+    "nombre": "Solicitud de turno de castración de mascotas",
+    "nombre_busqueda": "Turno castración mascota Laprida",
+    "resumen": "Completá el formulario online para precargar un turno de castración. Un administrador confirmará la fecha y hora definitiva.",
+    "sinonimos": [
+      "Turno veterinario castración",
+      "Reserva castración perro"
+    ],
+    "temas": [
+      "castraciones-y-vacunas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060448",
+  "organismo": {
+    "nombre": "Municipalidad de Laprida",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Vecinos de Laprida que deseen precargar un turno para la castración de su mascota."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del vecino con nombre y apellido.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dirección del domicilio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Celular sin 0 y sin 15.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombre del perro.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Raza del perro.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Edad del perro.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Sexo del perro (macho o hembra).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tamaño del perro (chico, mediano o grande).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Color del perro.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si vivís en zona rural.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si necesitás traslado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si solicitás colocación de chip.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si solicitás vacunación antirrábica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Observaciones adicionales.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario de solicitud de turno de castración en la página oficial."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Municipalidad de Laprida",
+      "direccion": "Av. San Martín 1160",
+      "localidad": "Av. San Martín 1160",
+      "horario": null,
+      "fuente_url": "https://www.laprida.gov.ar/index.php/forms/turno_castracion"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.laprida.gov.ar/index.php/forms/turno_castracion",
+      "titulo": "Municipalidad de Laprida - Solicitud de Turno de Castración",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T08:03:31.282Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos, plazos exactos ni requisitos adicionales en el texto."
+  ]
+}

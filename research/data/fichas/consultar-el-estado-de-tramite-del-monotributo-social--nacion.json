@@ -1,0 +1,89 @@
+{
+  "tramite": {
+    "slug": "consultar-el-estado-de-tramite-del-monotributo-social",
+    "nombre": "Consultar el estado de trámite del monotributo social",
+    "nombre_busqueda": "Consultar estado de trámite monotributo social",
+    "resumen": "Podés consultar en qué situación se encuentra tu gestión del Monotributo Social ingresando tu número de CUIT de forma gratuita y en línea.",
+    "sinonimos": [
+      "Consulta estado monotributo",
+      "Verificar trámite monotributo social",
+      "Consultar CUIT monotributo"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo",
+      "monotributo-social-y-general"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Secretaría de Trabajo, Empleo y Seguridad Social",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A personas que previamente hayan solicitado la adhesión al régimen tributario de monotributo social."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de CUIT",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la página de Consulta de estado de trámite."
+      },
+      {
+        "texto": "Completá tu número de CUIT."
+      },
+      {
+        "texto": "Clickéate en el botón buscar."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Ante dudas y consultas podés comunicarte con el Centro de Informes de la Secretaría de Trabajo, Empleo y Seguridad Social al 0800-222-2220 o enviar un mail a enviar un mail a: [email protected] o completar el formulario web de consultas y reclamos."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consultar-el-estado-de-tramite-del-monotributo-social",
+      "titulo": "Consultar el estado de trámite del monotributo social | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T05:21:50.345Z"
+    },
+    {
+      "url": "https://efectores.trabajo.gob.ar/webefectores/consulta",
+      "titulo": "Consulta-Reclamo",
+      "bloques": [
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T05:21:50.345Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T05:21:50.345Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La dirección de correo electrónico exacta del Centro de Informes no se especifica en el texto, solo aparece como [email protected]."
+  ]
+}

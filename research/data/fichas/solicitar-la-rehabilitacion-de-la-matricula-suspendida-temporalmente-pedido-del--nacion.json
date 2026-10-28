@@ -1,0 +1,92 @@
+{
+  "tramite": {
+    "slug": "rehabilitacion-matricula-productor-asesor-seguros",
+    "nombre": "Rehabilitación de matrícula de Productor Asesor de Seguros",
+    "nombre_busqueda": "Rehabilitación matrícula Productor Asesor Seguros",
+    "resumen": "Si sos Productor Asesor de Seguros y tenés la matrícula suspendida temporalmente, podés solicitar su rehabilitación a través del sistema eRecauda o TAD.",
+    "sinonimos": [
+      "Rehabilitación matrícula PAS",
+      "Rehabilitación matrícula Productor Asesor"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Seguros de la Nación",
+    "sigla": "SSN",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Productores Asesores de Seguros que solicitaron la suspensión temporal de su matrícula."
+    ],
+    "requisitos": [
+      {
+        "texto": "Comprobante de pago.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota donde solicites la rehabilitación de tu matrícula.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá en el sistema eRecauda."
+      },
+      {
+        "texto": "Hacé click en el acceso con o sin clave fiscal, según corresponda."
+      },
+      {
+        "texto": "Generá la boleta de pago bajo el concepto rehabilitación de matrícula de productor asesor de seguros."
+      },
+      {
+        "texto": "Confeccioná una nota donde solicites la rehabilitación de tu matrícula."
+      },
+      {
+        "texto": "Presentá toda la documentación por TAD a través del trámite Presentaciones Generales de la Subgerencia de Productores."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si tenés dificultades para la obtención de la boleta de pago online, podés solicitarla a [email protected].",
+      "Imprimí la boleta de pago y pagá en una sucursal de cobro habilitada o con el código QR a través de una billetera electrónica."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-rehabilitacion-de-la-matricula-suspendida-temporalmente-pedido-del-productor",
+      "titulo": "Solicitar la rehabilitación de la matrícula suspendida temporalmente a pedido del Productor Asesor de Seguros | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T10:02:42.244Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/superintendencia-de-seguros/presentaciones-generales-productores-asesores-de-seguros-pas-y-aspirantes-la-matricula-de-pas",
+      "titulo": "Presentaciones generales - Productores Asesores de Seguros (PAS) y Aspirantes a la matrícula de PAS | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T10:02:42.244Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa no se especifica en el texto, solo se menciona el concepto de pago.",
+    "No se indica un plazo de resolución específico para la rehabilitación."
+  ]
+}

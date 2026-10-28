@@ -1,0 +1,127 @@
+{
+  "tramite": {
+    "slug": "registro-de-obra-de-tv-radio-o-teatro-representada",
+    "nombre": "Registrar una obra de TV, radio o teatro ya representada",
+    "nombre_busqueda": "Registrar obra de TV radio teatro",
+    "resumen": "Este trámite permite registrar ante la Dirección Nacional del Derecho de Autor programas de televisión, radio o teatro que ya han sido presentados al público. Se requiere pagar una tasa de $3500 y enviar la obra física junto con los archivos generados por el sistema.",
+    "sinonimos": [
+      "Registro de obra representada",
+      "Inscripción de obra de TV radio teatro"
+    ],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional del Derecho de Autor",
+    "sigla": "DNDA",
+    "web": "https://www.argentina.gob.ar/servicio/registrar-una-obra-de-tv-radio-o-teatro-ya-representada"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Autores de programas de radio, TV o teatro."
+    ],
+    "requisitos": [
+      {
+        "texto": "Comprobante de pago del trámite por depósito o transferencia bancaria de $ 3500 al Fondo Cooperador Ley 23.412 DNDA-CAPIF.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de la obra completa con la información impresa según el medio (Teatro, Televisión, Radio o Internet).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos de los autores: Nombre completo, N° de cuil/cuit/cdi o PASAPORTE.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos de los titulares: Nombre completo, N° de cuil/cuit/cdi o PASAPORTE, Nacionalidad, Estado Civil, E-mail, Teléfono, Domicilio y Porcentaje de Titularidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el autor es menor de edad: documentación que acredite vínculo y Constancia de CUIT, CUIL o CDI del menor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el autor es fallecido: certificado de defunción.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el titular es persona jurídica: estatuto y última designación de autoridades.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si no sos el autor o titular: Autorización privada del autor firmada y certificada ante autoridad bancaria, judicial, policial o Escribano Público, o Carta poder concedida por el autor ante Escribano Público.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el escribano no pertenece a la Ciudad de Buenos Aires, su firma debe estar legalizada ante el Colegio de Escribanos de la localidad correspondiente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de cuil/cuit/cdi o PASAPORTE del autor o titular (en caso de ser extranjero).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD - Inscripción de obra publicada – Representación e iniciá el trámite."
+      },
+      {
+        "texto": "Completá los datos requeridos."
+      },
+      {
+        "texto": "Subí la documentación obligatoria y complementaria."
+      },
+      {
+        "texto": "El sistema te otorgará un número de expediente electrónico, anotalo y tenelo presente para cualquier consulta posterior en la DNDA."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá o enviá la obra y la impresión de los tres archivos descargados (datos de la obra, carátula variable y carátulas del expediente) a la Dirección Nacional del Derecho de Autor: Sede Central."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El trámite no estará concluido hasta que no hayas enviado a la DNDA la obra con los archivos correspondientes.",
+      "Si elegiste la opción Modo de Depósito Digital \"NO\", recibirás una comunicación con el procedimiento para la carga digital de la obra una vez iniciado el expediente.",
+      "Si tenés algún error, se te enviará una tarea de subsanación; caso contrario se te otorgará el certificado por TAD."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 350000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/registrar-una-obra-de-tv-radio-o-teatro-ya-representada"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/registrar-una-obra-de-tv-radio-o-teatro-ya-representada",
+      "titulo": "Registrar una obra de TV, radio o teatro, ya representada | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T03:24:18.154Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de la Sede Central de la DNDA para la presentación presencial."
+  ]
+}

@@ -1,0 +1,1 @@
+agy-delegate: note: output is 47757 chars (> 8000) — that looks like a raw dump, not a digest. Don't ingest this into the conductor's context: re-run with --digest, or have agy summarize it first. (plugin option digest_warn_chars tunes this; 0 disables.)

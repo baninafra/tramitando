@@ -1,0 +1,107 @@
+{
+  "tramite": {
+    "slug": "obtener-la-guia-de-transporte",
+    "nombre": "Obtener la guía de transporte",
+    "nombre_busqueda": "Obtener guía de transporte cáñamo",
+    "resumen": "Solicitá la guía para el transporte de cáñamo industrial no psicoactivo (semilla, grano y/o fibra) a través de Trámites a Distancia. Es exclusivo para empresas y productores que ya tengan licencia vigente.",
+    "sinonimos": [
+      "Guía de transporte cáñamo industrial",
+      "Transporte cáñamo no psicoactivo"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas de transporte industrial",
+      "Grandes productores agrícolas",
+      "Productores de cáñamo industrial",
+      "Proyectos públicos de las provincias"
+    ],
+    "requisitos": [
+      {
+        "texto": "Licencia agrícola o industrial vigente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de licencia agrícola o industrial",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dirección de origen",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dirección de destino",
+        "aclaracion": null
+      },
+      {
+        "texto": "Material, descripción, peso y/o cantidad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos del vehículo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos del conductor",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a Trámites a Distancia TAD"
+      },
+      {
+        "texto": "Completá la 'Solicitud de licencia para la realización de actividades vinculadas al Cáñamo Industrial no psicoactivo'"
+      },
+      {
+        "texto": "Llená la información solicitada en el formulario"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Recibís el pdf con la guía en 24hs por mail",
+      "La guía está conformada para utilizar y presentar en caso de inspección en un control en ruta",
+      "Se deberá solicitar cada vez que sea necesario el traslado de dicho producto"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-la-guia-de-transporte",
+      "titulo": "Obtener la guía de transporte | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T22:47:27.086Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T22:47:27.086Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fuente no especifica si el trámite requiere turno ni cuál es el plazo exacto de respuesta",
+    "La fuente no menciona costos, montos ni direcciones de oficinas presenciales"
+  ]
+}

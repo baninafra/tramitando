@@ -1,0 +1,73 @@
+{
+  "tramite": {
+    "slug": "infracciones-y-multas",
+    "nombre": "Consulta de infracciones",
+    "nombre_busqueda": "Consultar infracciones",
+    "resumen": "Permite consultar si tu vehículo tiene infracciones pendientes en Almirante Brown ingresando tu DNI.",
+    "sinonimos": [
+      "Consulta multas",
+      "Ver infracciones vehiculo"
+    ],
+    "temas": [
+      "infracciones-y-multas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060028",
+  "organismo": {
+    "nombre": "Almirante Brown",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Vehículos con infracciones pendientes en Almirante Brown"
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI sin espacios ni guiones",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá tu DNI sin espacios ni guiones"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.brown.gob.ar/tramites/infracciones/",
+      "titulo": "Infracciones",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T19:06:56.192Z"
+    },
+    {
+      "url": "https://a.brown.gob.ar/turnos/licencias-de-conducir/consultar-infracciones/1",
+      "titulo": "Almirante Brown",
+      "bloques": [
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T19:06:56.192Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos adicionales ni aclaraciones para casos especiales",
+    "No se especifican plazos de respuesta",
+    "No se especifican costos asociados al trámite"
+  ]
+}

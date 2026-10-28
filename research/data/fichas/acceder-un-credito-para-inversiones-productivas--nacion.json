@@ -1,0 +1,77 @@
+{
+  "tramite": {
+    "slug": "acceder-un-credito-para-inversiones-productivas",
+    "nombre": "Acceder a un crédito para inversiones productivas",
+    "nombre_busqueda": "Crédito inversiones productivas PyME",
+    "resumen": "Si formás parte de una MiPyME o de una gran empresa dedicada a la actividad manufacturera, podés acceder a un crédito para adquirir bienes de capital nacionales. La convocatoria se encuentra cerrada.",
+    "sinonimos": [],
+    "temas": [
+      "emprendedores-y-monotributo",
+      "monotributo-social-y-general"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Economía",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "MiPyMEs",
+      "Grandes empresas"
+    ],
+    "requisitos": [
+      {
+        "texto": "Estar inscripto en la sección C del CLAE de AFIP",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener Certificado MiPyMe vigente (solo para micro, pequeñas y medianas empresas)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Ingresá al Banco Nación Argentina y pedí un turno presencial."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://www.argentina.gob.ar/turnos",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/acceder-un-credito-para-inversiones-productivas",
+      "titulo": "Acceder a un crédito para inversiones productivas | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-26T09:16:25.788Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "pasos"
+      ],
+      "consultada_en": "2026-10-26T09:16:25.788Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La convocatoria se encuentra cerrada",
+    "Monto máximo para micro, pequeñas y medianas empresas: $50 millones",
+    "Monto máximo para grandes empresas: $250 millones",
+    "Tasa de interés bonificada por el FONDEP en un 7%",
+    "Plazo de 36 meses con 6 meses de gracia",
+    "Exclusiones de bienes de capital (maquinaria agrícola, vial, computadoras, etc.)"
+  ]
+}

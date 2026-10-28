@@ -1,0 +1,69 @@
+{
+  "tramite": {
+    "slug": "inscripcion-controladores-fiscales-entidades",
+    "nombre": "Inscripción de controladores fiscales para entidades",
+    "nombre_busqueda": "Inscripción controladores fiscales entidades",
+    "resumen": "Las entidades aseguradoras deben inscribir un controlador fiscal homologado por AFIP ante la Superintendencia de Seguros de la Nación para asentar los pagos en efectivo de los premios.",
+    "sinonimos": [],
+    "temas": [
+      "cuil-y-clave-de-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Seguros de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Entidades aseguradoras"
+    ],
+    "requisitos": [
+      {
+        "texto": "Usuario de acceso a Trámites a Distancia (TAD) con clave fiscal",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos del controlador fiscal: marca, modelo, año de fabricación, si está homologado por AFIP",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Accedé a TAD y seleccioná el trámite 'Inscripción al Registro de Controladores Fiscales' con clave fiscal."
+      },
+      {
+        "texto": "Completá el formulario con los datos del controlador fiscal indicando marca, modelo, año de fabricación y si está homologado por AFIP."
+      },
+      {
+        "texto": "Confirmá los datos ingresados."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-inscripcion-en-el-registro-de-controladores-fiscales-para-entidades",
+      "titulo": "Solicitar la inscripción en el registro de controladores fiscales para Entidades Aseguradoras | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T10:10:16.995Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia de la normativa no está especificada en el texto, solo se mencionan resoluciones de 2017."
+  ]
+}

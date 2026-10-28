@@ -1,0 +1,176 @@
+{
+  "tramite": {
+    "slug": "autorizacion-centros-aplicacion-tratamientos-catem",
+    "nombre": "Autorización para centros de aplicación de tratamientos CATEM",
+    "nombre_busqueda": "Autorización CATEM Senasa",
+    "resumen": "Trámite para habilitar centros de tratamiento de embalajes de madera (CATEM, FEM y HOSETRAM) para exportación. Requiere inscripción previa, documentación específica según el tipo de centro y pago de arancel.",
+    "sinonimos": [
+      "Inscripción CATEM",
+      "Habilitación centros tratamiento madera",
+      "Registro centros CATEM FEM HOSETRAM"
+    ],
+    "temas": [
+      "comercio-e-industria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas físicas o jurídicas interesadas en habilitar establecimientos para el tratamiento o armado de embalajes de madera, que se utilicen en el comercio internacional de mercaderías."
+    ],
+    "requisitos": [
+      {
+        "texto": "Digital Completá los datos del trámite y adjuntá en formato pdf la documentación detallada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En el caso de personas jurídicas, presentá copia del contrato de constitución social.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá copia del Documento Único del representante legal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá poder certificado del representante legal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para CATEM: presentá listado y descripción del equipamiento e instrumental a utilizar para el control de los procesos de tratamiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para CATEM: presentá manual de procedimiento operativo del centro (flujo de circulación de la madera).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para CATEM: presentá copia de manual del usuario del software.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para CATEM: presentá reporte de tratamiento de prueba avalado por el responsable técnico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para CATEM: presentá ficha/s descriptiva/s de todos los tipos de embalajes que tratara el establecimiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para HOSETRAM: presentá copia de manual del usuario del software.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para HOSETRAM: presentá reportes de programa de secado de las especies y escuadrías que solicita aprobar, avalados por el responsable técnico.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma (TAD) y completá los datos."
+      },
+      {
+        "texto": "Adjuntá la documentación asociada a la modificación solicitada."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La inscripción es el primer paso para la habilitación.",
+      "Los centros de tratamiento habilitados son fiscalizados por los agentes del Senasa para verificar el cumplimiento de los requisitos para el comercio internacional de los embalajes de madera."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Protección Vegetal",
+      "direccion": "Av. Paseo Colón N° 367, Piso 6° contrafrente, C1063ACD, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/autorizacion-para-centros-de-aplicacion-de-tratamientos-catem-las-fabricas-de-embalajes-de"
+    },
+    {
+      "nombre": "sede del Centro Regional Metropolitano",
+      "direccion": "Azopardo 1020 - CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/autorizacion-para-centros-de-aplicacion-de-tratamientos-catem-las-fabricas-de-embalajes-de"
+    },
+    {
+      "nombre": "Laboratorio Central",
+      "direccion": "Talcahuano 1660 – Martínez, Provincia de Buenos Aires",
+      "localidad": "Martínez",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/autorizacion-para-centros-de-aplicacion-de-tratamientos-catem-las-fabricas-de-embalajes-de"
+    },
+    {
+      "nombre": "sede del Centro Regional Buenos Aires",
+      "direccion": "Mar de Plata, Provincia de Buenos Aires",
+      "localidad": "Mar de Plata",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/autorizacion-para-centros-de-aplicacion-de-tratamientos-catem-las-fabricas-de-embalajes-de"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/autorizacion-para-centros-de-aplicacion-de-tratamientos-catem-las-fabricas-de-embalajes-de",
+      "titulo": "Autorización para centros de aplicación de tratamientos (CATEM), las fábricas de embalajes de madera (FEM) y los hornos secaderos tradicionales de madera (HOSETRAM) | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T15:07:30.918Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T15:07:30.918Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T15:07:30.918Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Vigencia 1 año.",
+    "Normativa Resolución Senasa N° 199/2013.",
+    "Disposición DNPV N° 4/2015.",
+    "Resolución Senasa N° 0027/2019.",
+    "Horario de atención: en Casa Central de lunes a viernes de 10 a 13 y de 14 a 17.",
+    "Para consultas orientativas sobre este trámite, podés comunicarte con el ámbito de atención y asistencia primaria del Senasa, desde: [email protected]",
+    "Los pagos se informan automáticamente al sistema por todos los medios de pago detallados, excepto Banco Nación, en caso de abonar en dicha entidad o que la boleta no les figure saldada deben presentar la misma junto con el comprobante de pago en la oficina local de su jurisdicción a fin de que dicho pago sea informado manualmente.",
+    "A partir del 4 de enero de 2021 sólo se aceptarán medios electrónicos de pago en las cajas de las siguientes oficinas del Senasa: oficina Estación de Cuarentena \"Lazareto Capital\" (CABA), sede del Centro Regional Metropolitano (Azopardo 1020 - CABA), sede Central (Paseo Colón 367 - CABA), Laboratorio Central (Talcahuano 1660 – Martínez, Provincia de Buenos Aires) y sede del Centro Regional Buenos Aires en Mar de Plata, Provincia de Buenos Aires.",
+    "Código QR (App bancaria o billetera electrónica)",
+    "Pago Fácil (incluido la página web Online con tarjeta de débito)",
+    "Provincia Net",
+    "Mercado Pago",
+    "Rapipago",
+    "Multipago (incluido la página web Online con tarjeta de débito)",
+    "Pronto Pago (incluido la página web Online con tarjeta de débito)",
+    "Plus Pagos (incluido la página web Online con tarjeta de débito)",
+    "Banco de la Nación Argentina",
+    "Tarjetas de débito o crédito en las cajas del Senasa",
+    "Débito en cuenta, previa adhesión del CBU al Sistema Nacional de pagos/pago directo ingresando a través del sitio web de la AFIP - Servicios habilitados - SIGAD (Sistema Integrado de Gestión de Administración)",
+    "Interbanking (Btob), adhiriéndose al sistema mediante su entidad bancaria",
+    "Los usuarios externos que utilicen servicios o se encuentren inscriptos en registros del SENASA deberán constituirlo mediante el sistema SIGTrámites."
+  ]
+}

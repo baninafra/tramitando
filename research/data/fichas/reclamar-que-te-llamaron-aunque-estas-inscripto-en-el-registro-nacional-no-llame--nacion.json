@@ -1,0 +1,85 @@
+{
+  "tramite": {
+    "slug": "reclamo-registro-nacional-no-llame",
+    "nombre": "Reclamar que te llamaron aunque estás inscripto en el Registro Nacional No Llame",
+    "nombre_busqueda": "Reclamar que te llamaron aunque estás inscripto en el Registro Nacional No Llame",
+    "resumen": "Si una empresa de publicidad o marketing telefónico continúa contactando a un teléfono que inscribiste en el Registro, hacé tu reclamo. Es gratuito y se realiza en línea.",
+    "sinonimos": [],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Usuarios o titulares de una línea telefónica que recibieron una llamada publicitaria a pesar de haberla inscripto en el Registro Nacional No Llame."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del titular o usuario de la línea telefónica inscripta en el Registro Nacional No Llame.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Código de área y número del teléfono en el que recibiste la llamada de publicidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número del teléfono del que provino la llamada, en caso de que lo poseas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Día y hora que recibiste la llamada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos del contenido de la oferta recibida, tales como nombre o marca de la empresa y producto o servicio ofertado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dirección de correo electrónico.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario de denuncia en la página web."
+      },
+      {
+        "texto": "Hacé click en declaración jurada y guardá."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Deben haber pasado al menos 30 días desde que inscribiste la línea telefónica en el Registro Nacional No Llame."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reclamar-que-te-llamaron-aunque-estas-inscripto-en-el-registro-nacional-no-llame",
+      "titulo": "Reclamar que te llamaron aunque estás inscripto en el Registro Nacional No Llame | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:48:38.825Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina para trámites presenciales."
+  ]
+}

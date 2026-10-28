@@ -1,0 +1,92 @@
+{
+  "tramite": {
+    "slug": "solicitar-admision-equivalencia-tecnica",
+    "nombre": "Solicitar admisión de equivalencia técnica",
+    "nombre_busqueda": "solicitar admisión de equivalencia técnica",
+    "resumen": "Los fabricantes e importadores pueden solicitar la admisión de una norma técnica si no está contemplada en el Reglamento Técnico correspondiente.",
+    "sinonimos": [],
+    "temas": [
+      "validacion-y-equivalencia-de-titulos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Fabricantes e importadores de productos regulados por un Reglamento Técnico."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener CUIT y clave fiscal nivel 2 en ARCA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contar con Trámites a Distancia (TAD) asociado a ARCA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Hacer la delegación de servicios vía ARCA si se realiza en nombre de una empresa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Adjuntar la Declaración Jurada donde se manifieste el cumplimiento de los requisitos fundamentales de calidad y seguridad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Adjuntar el informe de ensayo o la certificación que pretende hacer valer.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Adjuntar otra documentación relevante que acredite lo solicitado.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Inicia el trámite Admisión de Equivalencia Técnica a través de TAD."
+      },
+      {
+        "texto": "Adjunta la documentación requerida."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá la Resolución S.I.y.C. N° 237/2024 y la Disposición DNRT N° 1/2024 para más detalles."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-admision-de-equivalencia-tecnica",
+      "titulo": "Solicitar la admisión de equivalencia técnica | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T09:07:33.455Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T09:07:33.455Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto del trámite no se especifica en el texto.",
+    "El plazo de resolución no se especifica en el texto.",
+    "La vigencia de la disposición no se especifica en el texto."
+  ]
+}

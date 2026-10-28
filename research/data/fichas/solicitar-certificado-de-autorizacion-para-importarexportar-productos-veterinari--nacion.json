@@ -1,0 +1,150 @@
+{
+  "tramite": {
+    "slug": "solicitar-certificado-de-autorizacion-productos-veterinarios",
+    "nombre": "Solicitar certificado de autorización para importar/exportar productos veterinarios",
+    "nombre_busqueda": "certificado autorización productos veterinarios importar exportar",
+    "resumen": "Para importar o exportar productos veterinarios registrados, necesitás tramitar un certificado de autorización en el Senasa. El trámite se hace en línea en el sistema SIGVET, presentando documentación específica y abonando el arancel correspondiente.",
+    "sinonimos": [
+      "certificado autorización importación exportación veterinaria",
+      "autorización productos veterinarios senasa"
+    ],
+    "temas": [
+      "bromatologia-y-alimentos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas que realicen la operación con fines comerciales.",
+      "Usuarios particulares que vayan a necesitar medicamentos para uso particular."
+    ],
+    "requisitos": [
+      {
+        "texto": "Domicilio electrónico declarado en el sistema SIGTrámites.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave fiscal para ingresar con ARCA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de autorización de importación o exportación completado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Factura comercial (se acepta proforma).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Lista de empaque.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de análisis.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Aprobación del programa EET - Certificado BSE - Materia prima declarada en el expediente de registro (aplica solo para productos con material de origen animal rumiante).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Adherí el servicio SIGVET ingresando con Clave fiscal en la web de ARCA."
+      },
+      {
+        "texto": "Si delegás el trámite a un tercero, detallá el CUIT del autorizado y aceptá la delegación."
+      },
+      {
+        "texto": "Seleccioná la opción de nuevo trámite de fármacos o nuevo trámite de biológicos según corresponda."
+      },
+      {
+        "texto": "Cargá toda la información detallada solicitada en el formulario."
+      },
+      {
+        "texto": "Una vez firmado el certificado, el sistema enviará una notificación automática al mail suministrado con el aviso de que el certificado ya puede ser descargado con su correspondiente número de CUVE."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "10 días hábiles",
+    "consejos": [
+      "El certificado tiene una vigencia de 30 días corridos para ser presentado en Aduana; no es posible realizar prorrogas.",
+      "Si el trámite es observado para corregir cantidades o rectificar información, completá la subsanación solicitada sin necesidad de nuevo pago de arancel.",
+      "Para productos no registrados, la autorización se proviste mediante notas de no intervención o permiso de importación/exportación en formato electrónico mediante una nota con firma digital."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Sanidad Animal",
+      "direccion": "Carlos Calvo N° 66 PB, C1107ADR, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-autorizacion-para-importarexportar-productos-veterinarios"
+    },
+    {
+      "nombre": "Centro Regional Metropolitano",
+      "direccion": "Azopardo 1020 - CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-autorizacion-para-importarexportar-productos-veterinarios"
+    },
+    {
+      "nombre": "Sede Central",
+      "direccion": "Paseo Colón 367 - CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-autorizacion-para-importarexportar-productos-veterinarios"
+    },
+    {
+      "nombre": "Laboratorio Central",
+      "direccion": "Talcahuano 1660 – Martínez, Provincia de Buenos Aires",
+      "localidad": "Martínez",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-autorizacion-para-importarexportar-productos-veterinarios"
+    },
+    {
+      "nombre": "Centro Regional Buenos Aires",
+      "direccion": "Mar de Plata, Provincia de Buenos Aires",
+      "localidad": "Mar de Plata",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-autorizacion-para-importarexportar-productos-veterinarios"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-autorizacion-para-importarexportar-productos-veterinarios",
+      "titulo": "Solicitar certificado de autorización para importar/exportar productos veterinarios | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T08:23:50.476Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T08:23:50.476Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel y los cupones de pago.",
+    "La vigencia exacta del trámite en días hábiles."
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "tramite": {
+    "slug": "inscripcion-de-nacimientos",
+    "nombre": "Inscribirse en el Registro de Entidades",
+    "nombre_busqueda": "Inscribirse en el Registro de Entidades",
+    "resumen": "Este trámite permite a mutuales, cooperativas, bancos, obras sociales y asociaciones gremiales inscribirse en el Registro de Entidades para ofrecer servicios a empleados públicos y descontar cuotas directamente de sus haberes.",
+    "sinonimos": [],
+    "temas": [
+      "gobierno-y-participacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Entidades contempladas en el Decreto 352/26: mutuales, cooperativas, bancos y financieras, entidades oficiales, obras sociales y asociaciones gremiales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Estatuto Social vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitud de alta de entidad firmada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Actas de directorio con designación de autoridades vigentes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de vigencia emitido por el Instituto Nacional de Asociativismo y Economía Social (INAES) y Banco Central de la República Argentina (BCRA)/Ministerio de Producción y Trabajo/Superintendencia de Servicios de Salud.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de actividades que se encuentra autorizada a realizar la entidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Última acta de fijación de cuotas sociales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción ante la Administración Federal de Ingresos Públicos (AFIP).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de libre deuda de obligaciones previsionales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dos últimos balances con firma de contador certificada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización vigente para funcionar emitida por el Ministerio de Turismo (para el caso de solicitar código de Turismo).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acto Administrativo emitido por el Ministerio de Producción y Trabajo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia emitida por la Superintendencia de Servicios de Salud (para el caso de solicitar código de salud).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización para funcionar como entidad bancaria o financiera.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia autenticada del acto administrativo que les acuerde facultades para realizar prestaciones comprendidas en el presente Registro.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditación de la representación legal de la entidad por parte de la persona física requirente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al Sistema de Registro de Entidades y completá todos los datos para iniciar la Solicitud de Alta de Entidad."
+      },
+      {
+        "texto": "Revisá tu correo electrónico en el cual recibirás el usuario para ingresar al Registro de Entidades."
+      },
+      {
+        "texto": "Volvé a ingresar al Sistema de Registro de Entidades con tu usuario y completá la Solicitud de Alta de Entidad."
+      },
+      {
+        "texto": "Confirmá la solicitud."
+      },
+      {
+        "texto": "Envíá la documentación antes mencionada escaneada en formato PDF a través del Sistema de Registro de Entidades."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La documentación enviada a través del Sistema de Registro de Entidades será analizada a la brevedad.",
+      "En el caso de recibir una notificación indicando un requerimiento contrario a lo indicado, se solicita NO tener en cuenta el mismo."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribirse-en-el-registro-de-entidades",
+      "titulo": "Inscribirse en el Registro de Entidades | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T06:26:12.646Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de las cuotas no se especifica en el texto.",
+    "El plazo de resolución no se especifica en el texto.",
+    "La dirección de la oficina no se especifica en el texto."
+  ]
+}

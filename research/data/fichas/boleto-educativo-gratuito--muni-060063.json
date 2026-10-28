@@ -1,0 +1,75 @@
+{
+  "tramite": {
+    "slug": "boleto-educativo-gratuito",
+    "nombre": "Boleto Educativo Gratuito",
+    "nombre_busqueda": "Boleto Educativo Gratuito",
+    "resumen": "Este trámite permite obtener una tarjeta SUBE gratuita para estudiantes residentes de Balcarce que cursen nivel primario, secundario o terciario.",
+    "sinonimos": [],
+    "temas": [
+      "educacion-y-estudios",
+      "transporte-publico-y-viajes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060063",
+  "organismo": {
+    "nombre": "Municipalidad de Balcarce",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Estudiantes residentes de la ciudad de Balcarce que cursen nivel primario, secundario o terciario."
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia de DNI actualizado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de alumno regular",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación requerida en la Dirección de Juventud."
+      },
+      {
+        "texto": "Recibí la tarjeta SUBE gratuita."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Juventud",
+      "direccion": "Calle 22 nro. 765",
+      "localidad": "Balcarce",
+      "horario": null,
+      "fuente_url": "https://balcarce-app.gob.ar/portal_servicios/servicio/boleto-educativo-gratuito"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://balcarce-app.gob.ar/portal_servicios/servicio/boleto-educativo-gratuito",
+      "titulo": "Portal de Servicios | Modernizacion Balcarce",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T21:05:34.532Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se especifica que el trámite es presencial, pero no se indica si requiere turno ni el plazo de espera."
+  ]
+}

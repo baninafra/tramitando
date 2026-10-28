@@ -1,0 +1,89 @@
+{
+  "tramite": {
+    "slug": "cambio-de-la-direccion-medica-de-un-establecimiento-asistencial",
+    "nombre": "Cambio de la dirección médica de un establecimiento asistencial",
+    "nombre_busqueda": "cambio direccion medica establecimiento asistencial",
+    "resumen": "Es el trámite por el cual se realizan la baja y el alta de la Dirección Médica de un establecimiento habilitado. Es gratuito y se realiza en línea.",
+    "sinonimos": [],
+    "temas": [
+      "salud-y-prevencion",
+      "carnet-sanitario"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El Titular del Establecimiento",
+      "El Apoderado"
+    ],
+    "requisitos": [
+      {
+        "texto": "Completar el formulario de solicitud online en el TAD",
+        "aclaracion": null
+      },
+      {
+        "texto": "Disposición de Habilitación del Establecimiento",
+        "aclaracion": null
+      },
+      {
+        "texto": "Disposición de Alta del Director Médico saliente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de vacunación de hepatitis B expedido por Hospital Público, serología de laboratorio o troquel de la farmacia del profesional (Ley 24151)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Especialista",
+        "aclaracion": null
+      },
+      {
+        "texto": "En el caso de Personas Jurídicas, Acta de Directorio que designa al Director Técnico/Médico autenticada por Escribano Público Atento",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar al TAD con número de CUIT y clave fiscal"
+      },
+      {
+        "texto": "Completar el formulario de solicitud online en el TAD"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Para hacer el Trámite a Distancia (TAD) se recomienda ingresar a la página desde una CPU a través del Mozilla Firefox o el Google Chrome, no mediante celulares u otros dispositivos móviles porque se han detectado inconvenientes",
+      "La vigencia del cambio es hasta que se realice un nuevo cambio de la Dirección Técnica"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/cambio-de-la-direccion-medica-de-un-establecimiento-asistencial",
+      "titulo": "Cambio de la dirección médica de un establecimiento asistencial | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T05:01:03.868Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La información sobre la necesidad de sacar turno no está en el texto de las páginas dadas",
+    "El plazo exacto de espera para la resolución no está en el texto de las páginas dadas"
+  ]
+}

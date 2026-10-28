@@ -1,0 +1,100 @@
+{
+  "tramite": {
+    "slug": "certificado-escribano-libre-deuda-inmobiliario",
+    "nombre": "Certificado de escribano libre deuda inmobiliario",
+    "nombre_busqueda": "Certificado de escribano libre deuda",
+    "resumen": "Es un documento que certifica que no hay deudas inmobiliarias y se exige para escrituraciones. Se puede obtener en la oficina de Catastro.",
+    "sinonimos": [
+      "Certificado de libre deuda inmobiliaria",
+      "Libre deuda inmobiliaria"
+    ],
+    "temas": [
+      "catastro-e-inmuebles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060245",
+  "organismo": {
+    "nombre": "Municipalidad de Ensenada",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en realizar escrituraciones."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original y copia.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acudí a la oficina de Catastro ubicada en San Martín y Pte. Perón."
+      },
+      {
+        "texto": "Presentá tu DNI original y copia."
+      },
+      {
+        "texto": "Pagá la tasa correspondiente."
+      },
+      {
+        "texto": "Recibí tu certificado de escribano."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "15 días hábiles",
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "Simple",
+      "gratis": false,
+      "monto_centavos": 125500,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.ensenada.gov.ar/tramites-de-certificado-de-escribano-libre-deuda-inmobiliario/"
+    },
+    {
+      "modalidad": "Urgente",
+      "gratis": false,
+      "monto_centavos": 251000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.ensenada.gov.ar/tramites-de-certificado-de-escribano-libre-deuda-inmobiliario/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Catastro",
+      "direccion": "San Martín y Pte. Perón",
+      "localidad": "Ensenada",
+      "horario": null,
+      "fuente_url": "https://www.ensenada.gov.ar/tramites-de-certificado-de-escribano-libre-deuda-inmobiliario/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.ensenada.gov.ar/tramites-de-certificado-de-escribano-libre-deuda-inmobiliario/",
+      "titulo": "CERTIFICADO DE ESCRIBANO (LIBRE DEUDA INMOBILIARIO) – Municipalidad de Ensenada",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T05:52:39.207Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos adicionales como constancias de extravío o actas de nacimiento.",
+    "No se indica si el trámite requiere turno previo."
+  ]
+}

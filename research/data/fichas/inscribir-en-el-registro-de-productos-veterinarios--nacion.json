@@ -1,0 +1,143 @@
+{
+  "tramite": {
+    "slug": "inscripcion-de-productos-veterinarios",
+    "nombre": "Inscribir en el registro de productos veterinarios",
+    "nombre_busqueda": "Inscribir productos veterinarios",
+    "resumen": "Para empresas elaboradoras de productos veterinarios que quieren comercializar un producto nuevo, se debe cumplir la inscripción en el registro de Senasa. Se requiere documentación que acredite la vinculación con el fabricante, formularios específicos y la presentación de ARTES de impresión.",
+    "sinonimos": [
+      "Registro de productos veterinarios",
+      "Inscripción de productos veterinarios"
+    ],
+    "temas": [
+      "animales-y-zoonosis"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Representantes de la industria farmacéutica veterinaria."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de tramitación de productos veterinarios.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración jurada en establecimientos de terceros.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Anexo 5 de la Resolución Senasa N°11/2025.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Registro y Libre Venta en el país de origen (para importados).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Buenas Prácticas de Manufactura emitido por la autoridad competente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Convenio o acuerdo de distribución o representación (para importados).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración de elaborador autenticada por la autoridad sanitaria competente (si hay derivados de origen animal).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que acredite la relación comercial con el elaborador en el país de origen (para importados).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Libre Elaboración y fundamentos (para productos no registrados en el país de origen).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Protocolo de prueba de eficacia (para productos antiparasitarios o con pruebas previas).",
+        "aclaracion": null
+      },
+      {
+        "texto": "ARTES de impresión de todas las presentaciones con las que se comercializará el producto.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Accedé al micrositio oficial de Senasa."
+      },
+      {
+        "texto": "Acercate a la Dirección de Productos Veterinarios en Carlos Calvo N° 66, PB - CABA."
+      },
+      {
+        "texto": "Completá el formulario de inscripción en SIG-Trámites."
+      },
+      {
+        "texto": "Seleccioná el tipo de trámite y completá cada requisito solicitado."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a la Dirección de Productos Veterinarios en Carlos Calvo N° 66, PB - CABA."
+      },
+      {
+        "texto": "Presentá la documentación requerida."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si iniciaste el trámite por SIG-Trámites, podés consultar el estado mediante tu ID o número de trámite.",
+      "Podes solicitar una entrevista con un técnico con una antelación de 24 a 48 horas según disponibilidad (martes y jueves, de 9 a 16 horas).",
+      "Las entrevistas se realizan en Carlos Calvo N° 66, PB, teléfono: (011) 4121-5487.",
+      "La duración máxima de la entrevista es de 30 minutos."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Sanidad Animal - Dirección de Productos Veterinarios",
+      "direccion": "Carlos Calvo N° 66, PB - CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-en-el-registro-de-productos-veterinarios"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribir-en-el-registro-de-productos-veterinarios",
+      "titulo": "Inscribir en el registro de productos veterinarios | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T17:02:24.263Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T17:02:24.263Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no está especificado en el texto.",
+    "La fecha de vigencia del trámite no está especificada en el texto."
+  ]
+}

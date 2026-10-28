@@ -1,0 +1,142 @@
+{
+  "tramite": {
+    "slug": "registro-de-teletrabajo",
+    "nombre": "Registro de teletrabajo",
+    "nombre_busqueda": "Registro de teletrabajo",
+    "resumen": "Las empresas que apliquen la modalidad de teletrabajo deben inscribirse en el registro informando el software utilizado y la nómina del personal. Se puede hacer por presentación virtual o presencial.",
+    "sinonimos": [],
+    "temas": [
+      "trabajo-y-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Trabajo",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A empleadores y empleadoras de todo el territorio nacional que apliquen la modalidad del Teletrabajo."
+    ],
+    "requisitos": [
+      {
+        "texto": "El CUIT/CUIL del representante de la empresa (iniciador).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Que el CUIT/CUIL esté autorizado ante la AFIP por la entidad CUIT de la empresa en cuestión.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Detalle de las herramientas, aplicaciones y programas digitales utilizados para el teletrabajo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Entidad sindical en que está encuadrado el personal que teletrabaja.",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUIT.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Correo electrónico y teléfono de contacto de la empresa.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresa a la página de Trámites Públicos del Ministerio de Trabajo."
+      },
+      {
+        "texto": "En el buscador del sitio escribí 'teletrabajo' y tocá la opción 'Teletrabajo- Nómina de Trabajadores'."
+      },
+      {
+        "texto": "El sitio te llevará a la página de la AFIP donde pones tu CUIT y clave para continuar."
+      },
+      {
+        "texto": "Una vez ingresado al trámite, hacé clic en 'Baja hasta la nómina de trabajadores'."
+      },
+      {
+        "texto": "Hacé clic en 'Descargar Nómina de Trabajadores' para completar el archivo Excel."
+      },
+      {
+        "texto": "Eliminá las filas con los trabajadores de modalidad presencial para que queden sólo quienes laboran en la modalidad de Teletrabajo."
+      },
+      {
+        "texto": "Guardá el archivo Excel y cárgalo en la pestaña 'Datos Completados'."
+      },
+      {
+        "texto": "Hacé clic en el botón de listo y completá las restantes preguntas del sitio."
+      },
+      {
+        "texto": "Hacé clic en enviar trámite."
+      },
+      {
+        "texto": "El sistema te otorgará un número de trámite."
+      },
+      {
+        "texto": "Ingresá a Trámites a Distancia (TAD) para finalizar el trámite."
+      },
+      {
+        "texto": "Aceptá los Términos y Condiciones."
+      },
+      {
+        "texto": "Adjuntá al trámite una nota en formato PDF dirigida al Director Nacional de Nuevas Formas de Trabajo indicando el número de trámite asignado, el detalle de las herramientas utilizadas, la entidad sindical, el CUIT y el correo electrónico y teléfono de contacto de la empresa."
+      },
+      {
+        "texto": "Cuando termines de subir la documentación en TAD, el sistema te va a asignar un número de expediente."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Concurrí en el horario de 09:00 a 16:00 horas a la Mesa de Entradas del Ministerio de Trabajo, 25 de Mayo 637 (CABA)."
+      },
+      {
+        "texto": "Presentá una nota dirigida al Director Nacional de Nuevas Formas de Trabajo indicando el número de trámite asignado, el detalle de las herramientas utilizadas, la entidad sindical, el CUIT y el correo electrónico y teléfono de contacto de la empresa."
+      },
+      {
+        "texto": "Esta información será cargada por personal del Ministerio en el sistema de Gestión Documental Electrónica (DGE), generando un número de expediente."
+      },
+      {
+        "texto": "Se confirmará la recepción de la nota enviada y el número expediente asignado por email mediante cédula enviada al CUIT registrado para TAD."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Mesa de Entradas del Ministerio de Trabajo",
+      "direccion": "25 de Mayo 637",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/registro-de-teletrabajo"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/registro-de-teletrabajo",
+      "titulo": "Registro de Teletrabajo | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T03:35:05.396Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si el texto dice solo un mes, un año o 'a partir de la resolución X', poné null y anotalo en sin_confirmar."
+  ]
+}

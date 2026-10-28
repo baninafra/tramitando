@@ -1,0 +1,122 @@
+{
+  "tramite": {
+    "slug": "reclamo-por-factura-del-servicio-de-gas-recibida-con-atraso",
+    "nombre": "Reclamo por factura del servicio de gas recibida con atraso",
+    "nombre_busqueda": "Reclamo factura gas atraso",
+    "resumen": "Si tu prestadora de gas no responde en 15 días o la contestación es insatisfactoria, podés reclamar ante el ENARGAS. Mientras se tramita el reclamo, no estarás obligado a abonar la factura.",
+    "sinonimos": [
+      "Reclamo factura gas atraso",
+      "Queja gas atraso",
+      "Reclamo ENARGAS gas"
+    ],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ente Nacional Regulador del Gas",
+    "sigla": "ENARGAS",
+    "web": "https://www.argentina.gob.ar/servicio/reclamo-por-factura-del-servicio-de-gas-recibida-con-atraso"
+  },
+  "contenido": {
+    "quien_puede": [
+      "El cliente y/o el usuario."
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia del reclamo formulado ante la Prestadora.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descripción del reclamo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Reclamo de deuda y/o aviso/s recibidos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del/los pago/s efectuado/s de la/s factura/s reclamada/s.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Realizar su queja ante la Prestadora del Servicio."
+      },
+      {
+        "texto": "Consultar las direcciones y números telefónicos de ella en su factura de gas."
+      },
+      {
+        "texto": "Exigir el número de reclamo correspondiente y el plazo estimativo para la resolución."
+      },
+      {
+        "texto": "Contactarse con el ENARGAS telefónicamente o por fax si la Distribuidora no responde luego de 15 días o la contestación es insatisfactoria."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentarse personalmente en Sede Central, Suipacha 636, C1008AAN, Ciudad Autónoma de Buenos Aires o en la Sede más próxima a su domicilio, días hábiles de 10 a 16 hs."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Importante: exija el número de reclamo correspondiente y el plazo estimativo para la resolución, datos que la Prestadora está obligada a proporcionarle.",
+      "Importante: siempre conserve el número de su reclamo.",
+      "Importante: mientras se tramita el reclamo el reclamante no estará obligado a abonar la/s factura/s reclamada/s."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central",
+      "direccion": "Suipacha 636, C1008AAN, Ciudad Autónoma de Buenos Aires",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/reclamo-por-factura-del-servicio-de-gas-recibida-con-atraso"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reclamo-por-factura-del-servicio-de-gas-recibida-con-atraso",
+      "titulo": "Reclamo por factura del servicio de gas recibida con atraso | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T03:16:44.796Z"
+    },
+    {
+      "url": "https://www.enargas.gob.ar/secciones/contacto/reclamos-formulario.php",
+      "titulo": "ENReGE",
+      "bloques": [
+        "requisitos",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T03:16:44.796Z"
+    },
+    {
+      "url": "https://www.enargas.gov.ar/secciones/oficina-virtual/oficina-virtual.php",
+      "titulo": "Oficina virtual ENARGAS",
+      "bloques": [
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T03:16:44.796Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo exacto para la respuesta del ENARGAS no está especificado en el texto.",
+    "La forma de sacar turno no está indicada en el texto."
+  ]
+}

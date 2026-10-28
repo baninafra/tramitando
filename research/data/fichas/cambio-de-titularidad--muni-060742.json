@@ -1,0 +1,73 @@
+{
+  "tramite": {
+    "slug": "cambio-de-titularidad",
+    "nombre": "Cambio de titularidad",
+    "nombre_busqueda": "Cambio de titularidad automotor",
+    "resumen": "Para cambiar el titular del vehículo, necesitás copias del título del automotor y el rodado debe estar libre de deuda. El trámite se hace en la oficina de rentas.",
+    "sinonimos": [
+      "Cambio de dueño",
+      "Cambio de propietario"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "cedula-del-vehiculo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060742",
+  "organismo": {
+    "nombre": "Municipalidad de San Cayetano",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona"
+    ],
+    "requisitos": [
+      {
+        "texto": "Copia del Título del automotor",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la copia del Título del automotor."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Rentas",
+      "direccion": "Av. San Martín 451",
+      "localidad": "San Cayetano",
+      "horario": null,
+      "fuente_url": "https://sancayetano.gob.ar/cambio-de-titularidad/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://sancayetano.gob.ar/cambio-de-titularidad/",
+      "titulo": "Cambio de titularidad - San Cayetano | Municipalidad",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T10:21:58.177Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos de tasas o costos en el texto."
+  ]
+}

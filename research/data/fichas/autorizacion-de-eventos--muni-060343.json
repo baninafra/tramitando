@@ -1,0 +1,116 @@
+{
+  "tramite": {
+    "slug": "autorizacion-de-eventos",
+    "nombre": "Autorización de eventos",
+    "nombre_busqueda": "sacar permiso para hacer un evento en General Paz",
+    "resumen": "Para hacer un evento en General Paz tenés que presentar una nota al Intendente con los datos del evento, el personal que va a trabajar y los seguros o licencias que correspondan.",
+    "sinonimos": [
+      "permiso para eventos",
+      "autorización municipal para eventos"
+    ],
+    "temas": [
+      "espectaculos-y-eventos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060343",
+  "organismo": {
+    "nombre": "Municipalidad de General Paz",
+    "sigla": null,
+    "web": "https://municipalidaddegeneralpaz.gob.ar"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes quieran realizar un evento en el partido de General Paz."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota dirigida al Intendente Municipal",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fecha del evento",
+        "aclaracion": null
+      },
+      {
+        "texto": "Lugar del evento",
+        "aclaracion": null
+      },
+      {
+        "texto": "Hora aproximada de inicio y finalización",
+        "aclaracion": null
+      },
+      {
+        "texto": "Motivo del evento",
+        "aclaracion": null
+      },
+      {
+        "texto": "Breve descripción del desarrollo del evento",
+        "aclaracion": null
+      },
+      {
+        "texto": "Listado de personal que trabajará en el evento con nombre y apellido completos, DNI y teléfono de contacto",
+        "aclaracion": null
+      },
+      {
+        "texto": "Listado de personal de seguridad",
+        "aclaracion": "Si se contrata seguridad."
+      },
+      {
+        "texto": "Póliza de seguro de responsabilidad civil por una cantidad aproximada de asistentes",
+        "aclaracion": null
+      },
+      {
+        "texto": "Licencia REBA",
+        "aclaracion": "Si se comercializan bebidas alcohólicas."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la nota dirigida al Intendente Municipal con todos los datos y documentos requeridos."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Municipalidad",
+      "direccion": "Obdulio Hernández Castro 2858",
+      "localidad": "General Paz",
+      "horario": null,
+      "fuente_url": "https://municipalidaddegeneralpaz.gob.ar/index.php/autorizacion-de-eventos/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://municipalidaddegeneralpaz.gob.ar/index.php/autorizacion-de-eventos/",
+      "titulo": "Autorización de Eventos -",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T12:54:15.073Z"
+    },
+    {
+      "url": "https://municipalidaddegeneralpaz.gob.ar/",
+      "titulo": "MGP Sitio Oficial -",
+      "bloques": [
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T12:54:15.073Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el costo del trámite.",
+    "No se indica el plazo de respuesta.",
+    "No se detalla si el trámite se puede iniciar por internet o solo de forma presencial.",
+    "No se especifica si se requiere turno previo para la presentación."
+  ]
+}

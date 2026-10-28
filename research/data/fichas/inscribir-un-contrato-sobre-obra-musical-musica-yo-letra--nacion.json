@@ -1,0 +1,96 @@
+{
+  "tramite": {
+    "slug": "inscripcion-de-contratos-obra-musical",
+    "nombre": "Inscribir un contrato sobre obra musical",
+    "nombre_busqueda": "Inscribir contrato obra musical",
+    "resumen": "Este trámite permite inscribir ante la Dirección Nacional de Derecho de Autor (DNDA) un contrato que tenga como objeto obras musicales (música y/o letra).",
+    "sinonimos": [
+      "Inscripción de contrato musical",
+      "Contrato obra musical DNDA"
+    ],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional del Derecho de Autor",
+    "sigla": "DNDA",
+    "web": "https://www.argentina.gob.ar/servicio/inscribir-un-contrato-sobre-obra-musical-musica-yo-letra"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas humanas y jurídicas que hayan suscripto contratos vinculados a obras musicales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Comprobante de pago del trámite por depósito o transferencia bancaria a la cuenta del fondo cooperador (ley 23.412) dnda-sadaic (cuit 33-52568893-9) Banco de la Provincia de Buenos Aires ALIAS: SADAIC56122 CBU 0140099101402200561225, Cuenta Corriente N° 5612-2, Sucursal 4022, por la suma de pesos t…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago de la tasa por depósito o transferencia bancaria a la cuenta del fondo nacional de las artes (cuit 30-54667741-5) Banco de la Nación Argentina alias: fondo.artes.nacion cbu 0110599520000000547929, Cuenta Corriente N° 547/92, Sucursal 0015.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contrato firmado por las partes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el contrato está redactado en otro idioma, tenés que hacerlo traducir por traductor público y adjuntar también esa traducción, legalizada por el Colegio de Traductores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Apoderamiento a través de la plataforma TAD (en caso de corresponder).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD, buscá Inscripción de contratos que involucran derecho de autor e iniciá el trámite."
+      },
+      {
+        "texto": "Completá datos personales y del trámite."
+      },
+      {
+        "texto": "Subí la documentación obligatoria (constancia de pago del trámite y de la tasa y el contrato) y complementaria."
+      },
+      {
+        "texto": "El sistema te otorgará un número de expediente electrónico (carátula variable). Si tenés algún error se te enviará una tarea de subsanación; caso contrario, recibirás la constancia de inscripción digital."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 300000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-un-contrato-sobre-obra-musical-musica-yo-letra"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribir-un-contrato-sobre-obra-musical-musica-yo-letra",
+      "titulo": "Inscribir un contrato sobre obra musical (música y/o letra) | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T16:57:44.879Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Vigencia del trámite"
+  ]
+}

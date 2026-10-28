@@ -1,0 +1,97 @@
+{
+  "tramite": {
+    "slug": "renovar-permiso-originario",
+    "nombre": "Renovar permiso originario",
+    "nombre_busqueda": "Renovar permiso originario",
+    "resumen": "Solicitá la renovación de tu permiso para transporte de cargas internacionales de forma gratuita en línea sin necesidad de asistencia de un gestor.",
+    "sinonimos": [
+      "Renovación de permiso originario",
+      "Permiso originario transporte cargas internacionales"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Transportistas de carga argentinos que posean un permiso originario próximo a vencer o vencido."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de solicitud de renovación de Permiso Originario",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título de propiedad del vehículo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contrato de leasing o comodato (si hay dominios bajo esa modalidad)",
+        "aclaracion": null
+      },
+      {
+        "texto": "RUTA - reválida vigente de cada dominio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contrato social o estatuto en el caso de personas jurídicas",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ultima acta de directorio o modificación societaria",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poder de representación en caso de corresponder",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario CI1 (declaración jurada de socios o accionistas o único propietario)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario CI2 (declaración jurada de vehículos y seguros)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Arancel por destino solicitado",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Presentá la documentación a través de TAD."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/renovar-permiso-originario",
+      "titulo": "Renovar permiso originario | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T03:30:17.645Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo de renovación no está especificado en el texto."
+  ]
+}

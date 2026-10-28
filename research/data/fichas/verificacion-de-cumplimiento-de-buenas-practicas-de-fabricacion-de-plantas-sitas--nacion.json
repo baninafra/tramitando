@@ -1,0 +1,128 @@
+{
+  "tramite": {
+    "slug": "verificacion-buenas-practicas-fabricacion-plantas-extranjeras",
+    "nombre": "Verificación de cumplimiento de Buenas Prácticas de fabricación de plantas sitas en el extranjero",
+    "nombre_busqueda": "Verificación BPF plantas extranjeras ANMAT",
+    "resumen": "Trámite para empresas que necesitan Certificados de Buenas Prácticas de Fabricación (BPF) de plantas en el extranjero según Disposición ANMAT 7998/2025. Se realiza a distancia con clave AFIP y CUIT.",
+    "sinonimos": [
+      "Certificado BPF planta extranjera",
+      "Verificación BPF ANMAT",
+      "Certificación planta farmacéutica exterior"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo",
+      "monotributo-social-y-general",
+      "cuit-y-clave-fiscal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMAT",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas que requieran la tramitación de Certificados de Buenas Prácticas de Fabricación (BPF) en plantas elaboradoras de especialidades medicinales o ingredientes farmacéuticos activos ubicadas en el extranjero extendido por la Dirección Nacional del Instituto Nacional de Medicamentos (INAME)."
+    ],
+    "requisitos": [
+      {
+        "texto": "Completar el formulario de solicitud en la plataforma TAD.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Aportar documentación obligatoria según Anexo I de la Disposición ANMAT 7998/2025.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Subir el Certificado según modelo en el formato Word adjunto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de arancel código 2033.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Adicional por línea (código 2730).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Adicional monto variable por pasajes y viáticos (código 2154).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar en la plataforma de trámites a distancia."
+      },
+      {
+        "texto": "Buscar e iniciar el trámite 'Verificación de cumplimiento de Buenas Prácticas de Fabricación de Plantas sitas en el exterior'."
+      },
+      {
+        "texto": "Ingresar con clave AFIP y con el CUIT de la empresa."
+      },
+      {
+        "texto": "Seleccionar entre las opciones según se establece en el Anexo I de la Disposición ANMAT 7998/2025: Caso 1 (PIC/S), Caso 2 (OPS/OMS), Caso 3 (Mercosur), Caso 4 (Otros)."
+      },
+      {
+        "texto": "Completar el formulario de solicitud."
+      },
+      {
+        "texto": "Adjuntar la documentación requerida según el Anexo I de la Disposición ANMAT 7998/2025 para cada caso."
+      },
+      {
+        "texto": "Adjuntar el modelo de certificado en formato Word, completando sólo los datos necesarios y eliminando las filas que no correspondan."
+      },
+      {
+        "texto": "Adjuntar comprobante de pago de Arancel (códigos 2033, 2730 y 2154 según corresponda)."
+      },
+      {
+        "texto": "Confirmar el trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/verificacion-de-cumplimiento-de-buenas-practicas-de-fabricacion-de-plantas-sitas-en-el",
+      "titulo": "Verificación de cumplimiento de Buenas Prácticas de fabricación de plantas sitas en el extranjero según Disposición ANMAT 7998/2025 | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T12:47:39.589Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/anmat/regulados/aranceles",
+      "titulo": "Aranceles vigentes de los trámites ante ANMAT | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-28T12:47:39.589Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T12:47:39.589Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica requisitos para menores de edad o casos especiales.",
+    "El texto no especifica plazos de espera ni tiempos de respuesta.",
+    "El texto no especifica si se requiere turno presencial o en línea."
+  ]
+}

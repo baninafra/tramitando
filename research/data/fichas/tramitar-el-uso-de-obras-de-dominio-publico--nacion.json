@@ -1,0 +1,110 @@
+{
+  "tramite": {
+    "slug": "tramitar-el-uso-de-obras-de-dominio-publico",
+    "nombre": "Tramitar el uso de obras de dominio público",
+    "nombre_busqueda": "declaracion jurada dominio publico",
+    "resumen": "Si utilizás una obra de un autor fallecido hace más de 70 años, tenés que declarar su uso y pagar un arancel al Fondo Nacional de las Artes (FNA). El trámite se hace online presentando la declaración jurada y el comprobante de pago.",
+    "sinonimos": [
+      "declaración jurada dominio público",
+      "arancel dominio público FNA",
+      "uso de obras caídas en dominio público"
+    ],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Fondo Nacional de las Artes",
+    "sigla": "FNA",
+    "web": "https://www.argentina.gob.ar/cultura/fna"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que utilice una obra de dominio público para su comercialización en Argentina."
+    ],
+    "requisitos": [
+      {
+        "texto": "Declaración jurada de utilización de obras caídas en dominio público a ser comercializadas en la Argentina.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago del arancel.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la Plataforma de Contribuyentes y seleccioná la DDJJ según el tipo de obra (Edición General, Edición PP o ejecución en radio o TV)."
+      },
+      {
+        "texto": "Completá el formulario con los datos correspondientes."
+      },
+      {
+        "texto": "Aboná el arancel por una de las vías indicadas."
+      },
+      {
+        "texto": "Presentá el comprobante de pago junto con el formulario de declaración jurada."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el formulario de declaración jurada y el comprobante de pago en la Tesorería del FNA (Alsina 673, Ciudad Autónoma de Buenos Aires) o remited el comprobante vía fax o correo electrónico si pagaste por transferencia."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Tesorería del Fondo Nacional de las Artes",
+      "direccion": "Alsina 673",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/tramitar-el-uso-de-obras-de-dominio-publico"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tramitar-el-uso-de-obras-de-dominio-publico",
+      "titulo": "Tramitar el uso de obras de dominio público | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T18:14:10.036Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/cultura/fna/guia-practica-para-abonar-el-gravamen-en-el-fna",
+      "titulo": "Guía práctica para abonar el gravamen en el FNA | Argentina.gob.ar",
+      "bloques": [
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T18:14:10.036Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T18:14:10.036Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los montos exactos de los aranceles no están especificados en el texto, consultá los aranceles vigentes.",
+    "El plazo exacto para la presentación de la declaración jurada no está especificado en el texto, consultá los aranceles vigentes."
+  ]
+}

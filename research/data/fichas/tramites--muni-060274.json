@@ -1,0 +1,89 @@
+{
+  "tramite": {
+    "slug": "ampliacion-de-licencia-de-conducir",
+    "nombre": "Ampliación de licencia de conducir",
+    "nombre_busqueda": "Ampliación de licencia de conducir",
+    "resumen": "Para ampliar tu licencia de conducir en Florencio Varela necesitás tu licencia original, DNI y sellado nacional, provincial, municipal y libre deuda. Si sos mayor de 65 años no abonás el sellado municipal.",
+    "sinonimos": [
+      "Ampliación de licencia",
+      "Renovación de licencia"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060274",
+  "organismo": {
+    "nombre": "Municipalidad de Florencio Varela",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que tenga licencia de conducir vigente."
+    ],
+    "requisitos": [
+      {
+        "texto": "Licencia original y copia de ambos lados.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento Nacional de Identidad (DNI) original y copia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Sellado nacional, provincial, municipal y libre deuda.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Concurrí con los requisitos al turno asignado."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "Ampliación",
+      "gratis": false,
+      "monto_centavos": 4690750,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.varela.gob.ar/licenciasdeconducir/tramites.aspx"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.varela.gob.ar/licenciasdeconducir/tramites.aspx",
+      "titulo": "Otorgamiento Renovación Profesional Turnos / Aranceles Otros trámites",
+      "bloques": [
+        "requisitos",
+        "costo",
+        "quien",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T06:52:43.519Z"
+    },
+    {
+      "url": "https://www.varela.gob.ar/licenciasdeconducir/turnos.aspx",
+      "titulo": "TURNOS/ARANCELES 2026",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-28T06:52:43.519Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina para el trámite presencial.",
+    "Horario de atención en la oficina.",
+    "Plazo de tramitación estimado."
+  ]
+}

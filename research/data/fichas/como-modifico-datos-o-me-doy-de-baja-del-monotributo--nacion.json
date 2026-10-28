@@ -1,0 +1,84 @@
+{
+  "tramite": {
+    "slug": "monotributo-social-y-general",
+    "nombre": "Cómo modifico datos o me doy de baja del monotributo",
+    "nombre_busqueda": "modificar datos monotributo",
+    "resumen": "Si estás inscripto en el Monotributo Social, podés modificar tus datos o solicitar la baja. El trámite se puede realizar presencialmente o online.",
+    "sinonimos": [
+      "modificación monotributo social",
+      "renuncia monotributo social",
+      "cambios monotributo"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo",
+      "monotributo-social-y-general"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANSES",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Si estás inscripto en el Monotributo Social."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento Nacional de Identidad o Certificado de residencia temporaria o permanente (CERMI) si sos extranjero.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que acredite la identidad y el parentesco entre el titular y su grupo familiar primario (si querés modificar el grupo familiar adherido).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la página de trámites a distancia y escribí la palabra 'monotributo social' en el buscador."
+      },
+      {
+        "texto": "Elegí la opción 'Solicitud de inscripción, modificación o renuncia al monotributo social' y seleccioná 'Iniciar trámite' vía ARCA."
+      },
+      {
+        "texto": "Ingresá con clave fiscal nivel 3 (podés obtenerla en ARCA o a través de la app arca móvil)."
+      },
+      {
+        "texto": "Completá los datos solicitados y aceptá el trámite."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Solicitá un turno en línea."
+      },
+      {
+        "texto": "El día del turno acercate con la documentación solicitada a la agencia de la ANSES indicada."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/como-modifico-datos-o-me-doy-de-baja-del-monotributo",
+      "titulo": "Cómo modifico datos o me doy de baja del monotributo | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:45:00.229Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La obra social elegida se modifica a través la opción de cambio de la Superintendencia de Servicios de Salud."
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "tramite": {
+    "slug": "informar-ausencia-y-reingreso-del-pais-de-titulares-de-jubilaciones-o-pensiones",
+    "nombre": "Informar ausencia y reingreso del país de titulares de jubilaciones o pensiones",
+    "nombre_busqueda": "Informar ausencia y reingreso jubilaciones pensiones",
+    "resumen": "Si cobrás una jubilación o pensión y te vas a ausentar del país por más de tres meses, tenés que avisarle a ANSES para que no te suspendan el pago. El trámite es gratuito y se realiza presencialmente.",
+    "sinonimos": [
+      "Comunicar ausencia jubilados",
+      "Avisar reingreso pensionados"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones",
+      "adultos-mayores"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANSES",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas jubiladas y pensionadas.",
+      "Quienes cobran una Pensión no Contributiva por Invalidez."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario PS 6.246 - Ausencia y regreso al país.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Último recibo de haberes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pasaporte y pasaje (o certificado de la compañía por la que vas a viajar).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el trámite lo realiza un apoderado: Formulario PS 6.4 - Carta Poder.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI (original y copia) para apoderados.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el trámite es para una persona que cobra una Pensión no Contributiva por Invalidez: Formulario de Comunicación, Descargo y Renuncia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si reingresaste por medios propios: Declaración Jurada.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Revisá si tus datos personales y vínculos familiares están actualizados en mi ANSES."
+      },
+      {
+        "texto": "Presentate sin turno en una oficina de ANSES con la documentación necesaria."
+      },
+      {
+        "texto": "Cuando regreses al país, avisá en ANSES."
+      },
+      {
+        "texto": "Tenés que comunicarlo dentro de los 30 días y presentar pasaje de regreso o pasaporte (original y copia), según corresponda."
+      },
+      {
+        "texto": "Si reingresaste por medios propios, presentá la Declaración Jurada."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si reingresaste por medios propios, se te tomará una Declaración Jurada.",
+      "En caso de postergar la fecha de regreso, solicitá una prórroga.",
+      "Quienes cobran una Pensión no Contributiva por Invalidez deben solicitar un turno en una oficina de ANSES."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/informar-ausencia-y-reingreso-del-pais-de-titulares-de-jubilaciones-o-pensiones",
+      "titulo": "Informar ausencia y reingreso del país de titulares de jubilaciones o pensiones | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T16:40:40.737Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T16:40:40.737Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia del trámite.",
+    "Si el trámite requiere turno o no."
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "tramite": {
+    "slug": "solicitar-certificacion-de-libre-venta-y-apto-consumo-sin-requerimientos-especificos",
+    "nombre": "Solicitar certificación de libre venta y apto consumo sin requerimientos específicos",
+    "nombre_busqueda": "Certificación libre venta apto consumo Senasa",
+    "resumen": "Los establecimientos habilitados por el Senasa pueden solicitar la certificación para libre venta y apto consumo dentro del territorio y exportación mediante correo electrónico.",
+    "sinonimos": [
+      "Certificación libre venta Senasa",
+      "Apto consumo Senasa"
+    ],
+    "temas": [
+      "certificados-personales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Todo establecimiento elaborador de alimentos de origen animal habilitado por Senasa."
+    ],
+    "requisitos": [
+      {
+        "texto": "Cumplir con los requisitos sanitarios y de calidad establecidos por el país de destino.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Registrar domicilio electrónico mediante el sistema SIGTrámites.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Enviar la solicitud al correo electrónico indicado por el ámbito de atención y asistencia primaria del Senasa."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "7 días hábiles",
+    "consejos": [
+      "Consultá las Normativas relacionadas con los costos del trámite.",
+      "Los pagos se informan automáticamente al sistema por todos los medios de pago detallados, excepto Banco Nación, en caso de abonar en dicha entidad o que la boleta no les figure saldada deben presentar la misma junto con el comprobante de pago en la oficina local de su jurisdicción a fin de que dich…"
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Inocuidad y Calidad Agroalimentaria Dirección de Inocuidad de Pesca y Acuicultura",
+      "direccion": "Av. Paseo Colón N° 367, Piso 5° Contrafrente, C1063ACD, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificacion-de-libre-venta-y-apto-consumo-sin-requerimientos-especificos"
+    },
+    {
+      "nombre": "Coordinación General de Aprobación de Productos Alimenticios (CAPA)",
+      "direccion": "Carlos Calvo 66, Piso 2°, C1102AAB, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificacion-de-libre-venta-y-apto-consumo-sin-requerimientos-especificos"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-certificacion-de-libre-venta-y-apto-consumo-sin-requerimientos-especificos",
+      "titulo": "Solicitar certificación de libre venta y apto consumo sin requerimientos específicos | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-27T07:38:44.149Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T07:38:44.149Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T07:38:44.149Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no está especificado en el texto, solo se indica que se debe abonar el arancel correspondiente.",
+    "La fecha de vigencia del trámite no está especificada en el texto, solo se menciona que es un trámite vigente."
+  ]
+}

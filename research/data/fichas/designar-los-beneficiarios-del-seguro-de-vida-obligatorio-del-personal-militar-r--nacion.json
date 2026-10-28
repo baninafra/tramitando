@@ -1,0 +1,105 @@
+{
+  "tramite": {
+    "slug": "designar-beneficiarios-seguro-vida-militar",
+    "nombre": "Designar los beneficiarios del seguro de vida obligatorio del personal militar retirado",
+    "nombre_busqueda": "Designar beneficiarios seguro vida militar retirado",
+    "resumen": "Retirados militares con descuento en haberes pueden designar beneficiarios de su Seguro de Vida Obligatorio de forma presencial, telefónica, por correo o en línea.",
+    "sinonimos": [
+      "Designar beneficiarios SVO militar",
+      "Designar beneficiarios seguro vida obligatoria militar"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Retirados militares que tengan el descuento del Seguro de Vida Obligatorio en su recibo de haberes y deseen dejar designados a los beneficiarios del mismo."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del titular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI de los beneficiarios designados.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá con tu CUIL y contraseña en el portal eIAF Beneficiarios o en la App eIAF."
+      },
+      {
+        "texto": "Dejanos tu solicitud en el apartado Sistema Integrado de Consultas."
+      },
+      {
+        "texto": "Personal de Atención al Público te indicará los pasos a seguir para realizar el trámite."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate con la documentación requerida a la sede central del IAF en Cerrito 572 – CABA o a las Delegaciones del Interior."
+      },
+      {
+        "texto": "Realizá la designación en el horario de 08:00 a 13:00 horas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La designación tiene vigencia sin cumplimiento de plazo, excepto por revocación efectuada por el titular."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede central del IAF",
+      "direccion": "Cerrito 572",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/designar-los-beneficiarios-del-seguro-de-vida-obligatorio-del-personal-militar-retirado"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/designar-los-beneficiarios-del-seguro-de-vida-obligatorio-del-personal-militar-retirado",
+      "titulo": "Designar a los beneficiarios del Seguro de Vida Obligatorio del personal militar retirado. | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T04:47:35.277Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/iaf",
+      "titulo": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T04:47:35.277Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T04:47:35.277Z"
+    }
+  ],
+  "sin_confirmar": []
+}

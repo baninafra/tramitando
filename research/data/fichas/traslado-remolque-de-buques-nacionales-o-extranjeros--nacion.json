@@ -1,0 +1,171 @@
+{
+  "tramite": {
+    "slug": "traslado-remolque-de-buques-nacionales-o-extranjeros",
+    "nombre": "Traslado a remolque de buques nacionales o extranjeros",
+    "nombre_busqueda": "Traslado a remolque de buques",
+    "resumen": "Autorización para el traslado de buques en aguas de jurisdicción nacional, previa verificación de condiciones técnicas y vigencia de certificados.",
+    "sinonimos": [
+      "Autorización de traslado (remolque transporte)",
+      "Autorización de traslado (remolque maniobra)"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Prefectura Naval Argentina",
+    "sigla": "PNA",
+    "web": "https://www.argentina.gob.ar/prefecturanaval"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Propietario o Titular de la Embarcación",
+      "Agente Marítimo",
+      "Armador",
+      "Persona designada bajo mandato o Poder"
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de solicitud suscripta por el propietario/armador o el agente marítimo/representante legal de la embarcación a ser remolcada, o en su defecto, por su representante legal y/o agencia marítima.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poder notarial o la nominación correspondiente (si el solicitante es un representante designado).",
+        "aclaracion": "Solo si sos persona designada bajo mandato o Poder."
+      },
+      {
+        "texto": "Plan de traslado a remolque, navegación y análisis de riesgo, confeccionado e intervenido por un profesional habilitado como Perito Naval en Navegación y Maniobras, marítimo o fluvial.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Información general del o de los buques involucrados, con detalle de sus características principales (dimensiones, calado, tipo y cantidad de carga, desplazamiento, órganos de propulsión y gobierno, potencia de máquinas, número de motores, órganos auxiliares de gobierno, entre otros).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Objeto del traslado (por ejemplo, traslado a puerto o astillero para continuar reparaciones), debiendo acompañarse la autorización de giro u otra documentación que acredite que el buque tiene asignado un sitio de amarre en el puerto o un turno en el astillero.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Desarrollo del plan de navegación y remolque, con indicación de origen y destino, descripción de etapas o escalas, estimaciones en pasos críticos y zonas con prohibición de cruce, tipo de navegación, condiciones hidrometeorológicas consideradas y modalidades de remolque previstas para la travesía (…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Diagrama de navegación con el trazado de la derrota proyectada sobre imágenes de cartas electrónicas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Características, longitud y condiciones generales del convoy.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Esquema y croquis del convoy de remolque, con especificación de sus dimensiones máximas durante toda la navegación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de emplearse la modalidad de remolque acoderado, deberá indicarse el ángulo de visibilidad desde el remolcador y, cuando esta no alcance los 360°, las medidas complementarias previstas para mitigar las obstrucciones.",
+        "aclaracion": "Solo si sos modalidad de remolque acoderado."
+      },
+      {
+        "texto": "Descripción del aparejo de remolque principal y de respeto, así como del tipo de cabos a utilizar, con detalle de material, dimensiones y carga de rotura, acompañando el correspondiente certificado de construcción emitido por el fabricante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Aprobación del plan de traslado y navegación por parte de los capitanes del buque remolcado y del o de los remolcadores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cuando intervengan prácticos, el plan deberá contar asimismo con el aval del o de los prácticos intervinientes, según las zonas a navegar.",
+        "aclaracion": "Solo si intervienen prácticos."
+      },
+      {
+        "texto": "Cálculo de la potencia mínima requerida del remolcador, considerando las limitaciones hidrometeorológicas y las velocidades máximas previstas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Propuesta de dotación adecuada en el buque remolcado para la atención de los equipos de achique, de lucha contra incendios y del aparejo de remolque principal y de respeto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificados estatutarios vigentes del buque a ser remolcado y del o de los buques remolcadores, incluyendo su situación registral.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado Nacional de Seguridad de la Navegación (CNSN) vigente para el traslado solicitado, o en su defecto, certificado de corto plazo (solo para embarcaciones obligadas a contar con él).",
+        "aclaracion": "Solo si sos embarcación obligada a contar con CNSN."
+      },
+      {
+        "texto": "Fotografías actuales del buque a ser remolcado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar las inspecciones practicadas al buque a ser remolcado, ya sea por inspectores de la Institución, por el Estado de abanderamiento y/o por una organización reconocida.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En el caso de buques de bandera extranjera, opinión favorable del Estado de abanderamiento y/o de la organización reconocida respecto del plan de traslado, navegación y análisis de riesgo propuesto.",
+        "aclaracion": "Solo si sos buque de bandera extranjera."
+      },
+      {
+        "texto": "La documentación deberá presentarse en idioma español.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la nota de solicitud para Autorización de Traslado con la totalidad de la documentación requerida."
+      },
+      {
+        "texto": "Solicitá confección de la Boleta Arancelaria correspondiente (Acorde cuadro tarifario PNA)."
+      },
+      {
+        "texto": "Pagá el Arancelario correspondiente."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "12 días hábiles",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Edificio Guardacostas",
+      "direccion": "1er. Piso",
+      "localidad": "1er. Piso",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/traslado-remolque-de-buques-nacionales-o-extranjeros"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/traslado-remolque-de-buques-nacionales-o-extranjeros",
+      "titulo": "Traslado a remolque de buques nacionales o extranjeros | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T18:41:29.899Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/prefecturanaval/aranceles",
+      "titulo": "Aranceles | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T18:41:29.899Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de las Dependencias Jurisdiccionales de todo el país.",
+    "Valor exacto del arancel administrativo correspondiente al análisis."
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "tramite": {
+    "slug": "consulta-pago-danos-perjuicios-gasoductos",
+    "nombre": "Consulta por pago de daños y perjuicios ocasionados en inmuebles por el paso de gasoductos",
+    "nombre_busqueda": "Consulta daños gasoductos",
+    "resumen": "Consultá al Ente Nacional Regulador del Gas (ENARGAS) sobre el pago de daños y perjuicios que debe realizar una Licenciataria de Gas o un Subdistribuidor como consecuencia de la instalación de un gasoducto en un inmueble.",
+    "sinonimos": [],
+    "temas": [
+      "vivienda-y-servicios-del-hogar",
+      "catastro-e-inmuebles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ente Nacional Regulador del Gas",
+    "sigla": "ENARGAS",
+    "web": "https://www.argentina.gob.ar/servicio/consulta-por-pago-de-danos-y-perjuicios-ocasionados-en-inmuebles-por-el-paso-de-gasoductos"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Propietarios",
+      "Representantes debidamente acreditados",
+      "Titulares de un derecho sobre el inmueble"
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota firmada por el propietario, representante o titular de un derecho sobre el inmueble",
+        "aclaracion": null
+      },
+      {
+        "texto": "La Nota debe constar la descripción de la consulta",
+        "aclaracion": null
+      },
+      {
+        "texto": "Los datos catastrales y/o dominiales del inmueble",
+        "aclaracion": null
+      },
+      {
+        "texto": "El domicilio y el teléfono de la persona que realiza la consulta",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si corresponde, copia del reclamo ya realizado ante la Licenciataria o Subdistribuidor",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la Nota firmada con la descripción de la consulta, los datos catastrales y/o dominiales del inmueble, el domicilio y teléfono de la persona que realiza la consulta, y si corresponde, copia del reclamo ya realizado ante la Licenciataria o Subdistribuidor"
+      },
+      {
+        "texto": "Acudí a la Sede Central de Suipacha 636, C1008AAN, Ciudad Autónoma de Buenos Aires o a la Sede más próxima a tu domicilio"
+      },
+      {
+        "texto": "Acudí los días hábiles de 10 a 16 hs"
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central",
+      "direccion": "Suipacha 636, C1008AAN",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/consulta-por-pago-de-danos-y-perjuicios-ocasionados-en-inmuebles-por-el-paso-de-gasoductos"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consulta-por-pago-de-danos-y-perjuicios-ocasionados-en-inmuebles-por-el-paso-de-gasoductos",
+      "titulo": "Consulta por pago de daños y perjuicios ocasionados en inmuebles por el paso de gasoductos | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-26T15:10:45.519Z"
+    },
+    {
+      "url": "https://www.enargas.gob.ar/secciones/contacto/reclamos-formulario.php",
+      "titulo": "ENReGE",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-26T15:10:45.519Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T15:10:45.519Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si el trámite se realiza telefónicamente o por correo postal, no se especifica si requiere turno",
+    "El plazo de respuesta no está indicado en el texto"
+  ]
+}

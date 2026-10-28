@@ -1,0 +1,87 @@
+{
+  "tramite": {
+    "slug": "inscripcion-en-el-registro-nacional-de-talleres-de-inspeccion-tecnica-de-vehiculos",
+    "nombre": "Inscripción en el Registro Nacional de Talleres de Inspección Técnica de Vehículos",
+    "nombre_busqueda": "Inscripción taller inspección técnica vehículos",
+    "resumen": "Trámite digital gratuito para habilitar Talleres de Revisión Técnica (TRT) a operar bajo el régimen de Revisión Técnica Obligatoria (RTO). Se requiere presentar documentación completa en formato digital y esperar un plazo de control formal de 30 días.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Solicitudes de habilitación para operar en el marco del régimen vigente de Revisión Técnica Obligatoria (RTO)."
+    ],
+    "requisitos": [
+      {
+        "texto": "Identificación del solicitante y acreditación de personería (representante legal o apoderado).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Designación del Director Técnico, quien deberá ser ingeniero matriculado con título habilitante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración del personal auxiliar (administrativos y auxiliares de fosa).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración del equipamiento mínimo exigido.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditación de la disponibilidad legal del inmueble donde funcionará el taller.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constitución de domicilio especial físico y electrónico en TAD.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Cargá toda la documentación en formato digital, completa y consistente, conforme los requerimientos del sistema."
+      },
+      {
+        "texto": "Esperá el control formal de la presentación en un plazo de hasta 30 días corridos para verificar la integridad y consistencia de los datos declarados."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "30",
+    "consejos": [
+      "Si hay observaciones, tenés un plazo de 20 días corridos para corregir inconsistencias.",
+      "Cumplido el plazo de 30 días sin respuesta por parte de la Administración, el taller se considerará inscripto y habilitado provisoriamente."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscripcion-en-el-registro-nacional-de-talleres-de-inspeccion-tecnica-de-vehiculos",
+      "titulo": "Inscripción en el Registro Nacional de Talleres de Inspección Técnica de Vehículos | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T00:16:47.194Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica en el texto si el trámite requiere turno o no."
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "tramite": {
+    "slug": "consulta-sobre-pago-de-servidumbre-de-paso-de-gasoducto",
+    "nombre": "Consulta sobre pago de servidumbre de paso de gasoducto",
+    "nombre_busqueda": "Consulta sobre pago de servidumbre de paso de gasoducto",
+    "resumen": "Consultá al Ente Nacional Regulador del Gas (ENARGAS) sobre el pago que debe realizar una Licenciataria de Gas o un Subdistribuidor por una servidumbre de paso de gasoducto.",
+    "sinonimos": [],
+    "temas": [
+      "vivienda-y-servicios-del-hogar",
+      "subsidios-a-los-servicios-publicos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ente Nacional Regulador del Gas",
+    "sigla": "ENARGAS",
+    "web": "https://www.argentina.gob.ar/servicio/consulta-sobre-pago-de-servidumbre-de-paso-de-gasoducto"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Licenciatarias de Gas",
+      "Subdistribuidores"
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota firmada por el propietario, representante debidamente acreditado o titular de un derecho sobre el inmueble.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En la Nota debe constar la descripción de la consulta.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos catastrales y/o dominiales del inmueble.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Consignar domicilio y teléfono de la persona que realiza la consulta.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si corresponde, adjuntar copia del reclamo ya realizado ante la Licenciataria o Subdistribuidor.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la Nota firmada con los datos catastrales y/o dominiales del inmueble."
+      },
+      {
+        "texto": "Consigná vuestro domicilio y teléfono en la Nota."
+      },
+      {
+        "texto": "Si tenés un reclamo previo, adjuntá su copia."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central",
+      "direccion": "Suipacha 636",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/consulta-sobre-pago-de-servidumbre-de-paso-de-gasoducto"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consulta-sobre-pago-de-servidumbre-de-paso-de-gasoducto",
+      "titulo": "Consulta sobre pago de servidumbre de paso de gasoducto | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T15:13:45.282Z"
+    },
+    {
+      "url": "https://www.enargas.gob.ar/secciones/contacto/reclamos-formulario.php",
+      "titulo": "ENReGE",
+      "bloques": [
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-26T15:13:45.282Z"
+    },
+    {
+      "url": "https://www.enargas.gov.ar/secciones/oficina-virtual/oficina-virtual.php",
+      "titulo": "Oficina virtual ENARGAS",
+      "bloques": [
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-26T15:13:45.282Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horario de atención presencial: días hábiles de 10 a 16 hs.",
+    "Contacto telefónico o fax: 0800-333-4444.",
+    "Correo postal gratuito: Apartado Especial Nº 600 (C1000WAF) Correo Central.",
+    "Vigencia del trámite."
+  ]
+}

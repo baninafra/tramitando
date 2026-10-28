@@ -1,0 +1,83 @@
+{
+  "tramite": {
+    "slug": "registro-del-automotor",
+    "nombre": "Registro del automotor",
+    "nombre_busqueda": "Registro del automotor",
+    "resumen": "La ordenanza 130 regula el registro del automotor en la Municipalidad de Anisacate.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141375",
+  "organismo": {
+    "nombre": "Municipalidad de Anisacate",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Los propietarios de vehículos registrados en el municipio."
+    ],
+    "requisitos": [
+      {
+        "texto": "Presentar el documento de identidad del propietario.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar el documento de identidad del conductor si es distinto al propietario.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar la tarjeta de circulación vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar la póliza de seguro vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar el certificado de inspección técnica vigente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acudí a la oficina de la municipalidad con los documentos requeridos."
+      },
+      {
+        "texto": "Presentá los documentos ante el funcionario responsable."
+      },
+      {
+        "texto": "Recibí el comprobante de pago si corresponde."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://anisacatemunicipio.gob.ar/download/ordenanza-130-registro-del-automotor/",
+      "titulo": "ORDENANZA 130 (Registro del Automotor) – Municipalidad de Anisacate",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-26T08:08:33.927Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los pasos exactos para realizar el trámite no están detallados en el texto de la ordenanza.",
+    "El monto de la tasa de registro no se especifica en el texto.",
+    "El plazo para realizar el registro no se menciona en el texto.",
+    "La dirección exacta de la oficina no aparece en el texto."
+  ]
+}

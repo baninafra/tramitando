@@ -1,0 +1,87 @@
+{
+  "tramite": {
+    "slug": "destruccion-de-drogas-solicitud-del-interesado",
+    "nombre": "Destrucción de drogas a solicitud del interesado",
+    "nombre_busqueda": "Destrucción de drogas a solicitud del interesado",
+    "resumen": "Para solicitar la destrucción de sustancias sujetas a control especial, necesitás una nota firmada por el director técnico, detalles de la sustancia y cantidad, y acta de destrucción ante escribano. El trámite se hace en línea con TAD.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El interesado que presente la documentación respaldatoria ante el Departamento de Sustancias Sujetas a Control Especial."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota firmada y sellada por el Director técnico responsable, indicando lugar y fecha de la destrucción y empresa que la llevó a cabo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Detalle de descripción y cantidad de cada una de las sustancias a destruir.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombre del escribano interviniente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Manifiesto de destrucción.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta de destrucción ante escribano público.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago de arancel.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La documentación incorporada al trámite debe encontrarse en idioma español. En caso de presentarse documentación en idioma extranjero, deberá acompañarse de la traducción al castellano, legalizada por el Colegio de traductores.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar en la plataforma de TAD e iniciar el trámite."
+      },
+      {
+        "texto": "Cargar toda la documentación, la misma quedará disponible para su evaluación."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/destruccion-de-drogas-solicitud-del-interesado",
+      "titulo": "Destrucción de drogas a solicitud del interesado | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T15:21:53.996Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto menciona que consultá el costo del trámite en la tabla de aranceles de ANMAT, pero no especifica el monto exacto ni si es gratis.",
+    "El texto menciona un plazo de 60 días hábiles para la configuración del silencio administrativo, pero no establece un plazo de entrega definitivo del trámite."
+  ]
+}

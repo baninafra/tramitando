@@ -1,0 +1,67 @@
+{
+  "tramite": {
+    "slug": "validacion-y-equivalencia-de-titulos",
+    "nombre": "Validar documentos electrónicos firmados digitalmente",
+    "nombre_busqueda": "validar firma digital pdf",
+    "resumen": "Para validar la autenticidad e integridad de un documento PDF firmado digitalmente, necesitás tener el archivo y seguir una guía paso a paso que incluye la instalación de certificados y programas específicos.",
+    "sinonimos": [
+      "validar firma digital",
+      "verificar documento firmado",
+      "validar documento electrónico"
+    ],
+    "temas": [
+      "firma-digital"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que reciba un documento firmado."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento en formato PDF a validar.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Podés validarlo con Validador de firmas sin necesidad de instalar nada y desde cualquier dispositivo."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La firma digital argentina es válida en Uruguay, Chile, Paraguay y Brasil; y los certificados de estos países también son válidos en Argentina."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/valida-los-documentos-electronicos-firmados-digitalmente",
+      "titulo": "Validá los documentos electrónicos firmados digitalmente | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T19:04:14.382Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos para instalar programas locales ni detalles sobre la instalación de certificados en sistemas operativos específicos.",
+    "No se especifican requisitos para la configuración de programas locales ni detalles sobre la instalación de certificados en sistemas operativos específicos.",
+    "No se especifican requisitos para la configuración de programas locales ni detalles sobre la instalación de certificados en sistemas operativos específicos."
+  ]
+}

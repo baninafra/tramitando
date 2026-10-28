@@ -1,0 +1,78 @@
+{
+  "tramite": {
+    "slug": "rentas-bahia-consulta-deuda-y-medios-de-pago",
+    "nombre": "Consulta de deuda y medios de pago",
+    "nombre_busqueda": "Consulta deuda rentas bahia blanca",
+    "resumen": "Permite consultar la deuda de rentas municipales y ver los medios de pago disponibles para el abono.",
+    "sinonimos": [
+      "Consulta deuda municipal",
+      "Medios de pago rentas bahia"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "planes-de-pago-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier ciudadano que tenga una deuda con el municipio."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original o fotocopia",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cédula de identidad",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio web de Rentas Bahía."
+      },
+      {
+        "texto": "Buscá la sección de Medios de Pago."
+      },
+      {
+        "texto": "Ingresá con tu DNI o Cédula de identidad."
+      },
+      {
+        "texto": "Consultá tu deuda y los medios de pago disponibles."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá si tenés alguna exención o moratoria vigente antes de pagar.",
+      "Guardá el comprobante de pago si lo realizás online."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/rentas/mediospago/",
+      "titulo": "Medios de Pago | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T20:38:36.280Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos de deuda ni plazos de pago en el texto."
+  ]
+}

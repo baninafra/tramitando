@@ -1,0 +1,99 @@
+{
+  "tramite": {
+    "slug": "credencial-infantil-biblioteca-nacional-de-maestros",
+    "nombre": "Credencial infantil Biblioteca Nacional de Maestros",
+    "nombre_busqueda": "credencial para ninos biblioteca nacional de maestros",
+    "resumen": "Es un trámite para niños de 3 a 12 años que habilita el préstamo a domicilio de libros. Se realiza en la Biblioteca Nacional de Maestros con documentación específica.",
+    "sinonimos": [],
+    "temas": [
+      "educacion-y-estudios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Biblioteca Nacional de Maestros",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Niños y niñas de 3 a 12 años acompañados de padre, madre o adulto a cargo que residan en un radio no mayor a 200 Km. de la Biblioteca Nacional de Maestros."
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia del DNI (anverso y reverso) del niño o niña.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI (anverso y reverso) del adulto a cargo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de un servicio pago a nombre del adulto a cargo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de solicitud de credencial completo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentar toda la documentación solicitada en Sala de Lectura, Pizzurno 953 PB, de lunes a viernes de 9 a 20 hs."
+      },
+      {
+        "texto": "Retirar la credencial, en ella figuran: los datos personales de la persona asociada, la categoría, una foto del titular y un código de barras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sala de Lectura",
+      "direccion": "Pizzurno 953 PB",
+      "localidad": "Pizzurno 953 PB",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/obtencion-de-la-credencial-para-ninos-de-3-12-anos-biblioteca-nacional-de-maestros"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtencion-de-la-credencial-para-ninos-de-3-12-anos-biblioteca-nacional-de-maestros",
+      "titulo": "Obtención de la Credencial para niños de 3 a 12 años (Biblioteca Nacional de Maestros) | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T22:12:09.047Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T22:12:09.047Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica si se requiere sacar turno para este trámite.",
+    "El texto no especifica el monto del servicio pago requerido."
+  ]
+}

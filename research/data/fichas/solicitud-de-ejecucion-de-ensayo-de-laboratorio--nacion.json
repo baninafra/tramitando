@@ -1,0 +1,69 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-ejecucion-de-ensayo-de-laboratorio",
+    "nombre": "Solicitud de ejecución de ensayo de laboratorio",
+    "nombre_busqueda": "solicitud de ensayo de laboratorio",
+    "resumen": "Permite que entidades públicas, privadas, educativas o individuales soliciten la realización de estudios sobre materiales viales en los laboratorios de Vialidad Nacional. Se requiere presentar ítems de ensayo (muestras) y abonar el presupuesto aprobado.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Vialidad Nacional",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Entidades públicas (municipalidades, direcciones provinciales de vialidad, gobiernos de provincias)",
+      "Entidades educativas (universidades y escuelas de estudios)",
+      "Centros de investigación (privados, nacionales, provinciales)",
+      "Empresas, entidades privadas o individuos"
+    ],
+    "requisitos": [
+      {
+        "texto": "Ítems de ensayo (muestras) para realizar los ensayos requeridos",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá el trámite mediante TAD completando los datos del formulario de solicitud, indicando el/los tipo/s de ensayo y su cantidad."
+      },
+      {
+        "texto": "Aguardá la formulación del presupuesto, el cual deberá abonarse para la continuidad del trámite."
+      },
+      {
+        "texto": "Recibirás el resultado de los ensayos mediante TAD dentro del plazo previamente informado."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitud-de-ejecucion-de-ensayo-de-laboratorio",
+      "titulo": "Solicitud de ejecución de ensayo de laboratorio | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T00:03:27.097Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del presupuesto no se especifica en el texto.",
+    "El plazo exacto de entrega de resultados no se especifica en el texto."
+  ]
+}

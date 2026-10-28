@@ -1,0 +1,105 @@
+{
+  "tramite": {
+    "slug": "duplicado-de-licencia",
+    "nombre": "Duplicado de licencia",
+    "nombre_busqueda": "duplicado de licencia de conducir",
+    "resumen": "Podés pedir un duplicado si perdiste o se destruyó o deterioró tu licencia y no se puede identificar al titular. El duplicado conserva las fechas de expedición y vencimiento.",
+    "sinonimos": [
+      "reposición de licencia de conducir"
+    ],
+    "temas": [
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060602",
+  "organismo": {
+    "nombre": "Municipalidad de Patagones",
+    "sigla": null,
+    "web": "https://patagones.gob.ar/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés pedirlo si perdiste o se destruyó o deterioró tu licencia y ya no se puede identificar al titular."
+    ],
+    "requisitos": [
+      {
+        "texto": "Último DNI con domicilio en Patagones, original y copia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de DNI en trámite.",
+        "aclaracion": "Si no tenés el último DNI."
+      },
+      {
+        "texto": "Denuncia por extravío expedida por el Registro Civil, original.",
+        "aclaracion": "Si perdiste la licencia."
+      },
+      {
+        "texto": "Denuncia penal, original y copia.",
+        "aclaracion": "Si te robaron la licencia."
+      },
+      {
+        "texto": "Certificado de legalidad emitido por el municipio de origen.",
+        "aclaracion": "Si tu licencia no es del partido."
+      },
+      {
+        "texto": "Constancia de CUIL o CUIT.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Pagá las tasas provincial y nacional."
+      },
+      {
+        "texto": "Digitalizá tus datos personales, foto, huellas y firma para que armen el expediente."
+      },
+      {
+        "texto": "Pedí el libre deuda en el Registro de Deudores Alimentarios, ubicado en Desarrollo Social."
+      },
+      {
+        "texto": "Solicitá el libre deuda al Juzgado de Faltas."
+      },
+      {
+        "texto": "Hacete el examen médico en el turno que te asigne el operador."
+      },
+      {
+        "texto": "Hacé el examen práctico de manejo si tenés más de 70 años o clase F, después de ver al médico."
+      },
+      {
+        "texto": "Pagá las tasas municipal y el sellado del hospital."
+      },
+      {
+        "texto": "Esperá la autorización del trámite y la impresión de la licencia."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El duplicado conserva las fechas de expedición y vencimiento de la licencia."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://patagones.gob.ar/licencia-de-conducir/duplicado-de-licencia/",
+      "titulo": "Duplicado de Licencia – Municipalidad de Patagones",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T15:46:31.419Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa el monto de las tasas provincial, nacional y municipal ni del sellado del hospital.",
+    "No se indica el plazo para obtener el duplicado.",
+    "No se especifica si hace falta sacar turno ni cómo se asigna el turno para el examen médico."
+  ]
+}

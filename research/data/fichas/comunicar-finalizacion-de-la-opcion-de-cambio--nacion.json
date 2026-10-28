@@ -1,0 +1,87 @@
+{
+  "tramite": {
+    "slug": "comunicar-finalizacion-de-la-opcion-de-cambio",
+    "nombre": "Comunicar finalización de la opción de cambio",
+    "nombre_busqueda": "Comunicar finalización de la opción de cambio",
+    "resumen": "Trámite para solicitar que se finalice la Opción de cambio realizada para acceder a la cobertura de una nueva Obra Social fuera de sistema o de personal de dirección.",
+    "sinonimos": [],
+    "temas": [
+      "discapacidad-y-accesibilidad",
+      "carnet-sanitario"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Servicios de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Beneficiarios de Obras Sociales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario Finalización de Opción.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación laboral extendida por el empleador actual (modelo o fotocopia de recibo de sueldo).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el Formulario de solicitud."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central",
+      "direccion": "Bartolomé Mitre 434 - Planta Baja - CABA - C1035AAN",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/comunicar-finalizacion-de-la-opcion-de-cambio"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/comunicar-finalizacion-de-la-opcion-de-cambio",
+      "titulo": "Comunicar finalización de la opción de cambio | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T05:00:29.953Z"
+    },
+    {
+      "url": "https://turnos.argentina.gob.ar/turnos/seleccionTurno/3032",
+      "titulo": "Sistema Nacional de Turnos",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T05:00:29.953Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si se requiere turno, no se especifica en el texto si se puede solicitar por internet o solo presencialmente.",
+    "Si se requiere turno, no se especifica la URL para solicitarlo."
+  ]
+}

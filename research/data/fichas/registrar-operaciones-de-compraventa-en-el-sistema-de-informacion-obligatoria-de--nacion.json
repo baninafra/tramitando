@@ -1,0 +1,70 @@
+{
+  "tramite": {
+    "slug": "registrar-operaciones-compraventa-granos-sio",
+    "nombre": "Registrar operaciones de compraventa en el sistema de informacion obligatoria de granos sio",
+    "nombre_busqueda": "Registrar operaciones de compraventa en el sistema de informacion obligatoria de granos sio",
+    "resumen": "Los operadores de granos inscriptos en el RUCA deben declarar sus operaciones de compraventa en el sistema SIO-Granos. El trámite es gratuito, rápido y se realiza en línea.",
+    "sinonimos": [],
+    "temas": [
+      "produccion-rural"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Economía",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Todos los operadores de granos que se encuentren inscriptos en el Registro Único de Operadores de la Cadena Agroindustrial (RUCA) que realicen operaciones de compraventa."
+    ],
+    "requisitos": [
+      {
+        "texto": "Ingresar al sistema Autogestión MAGYP.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Seleccionar el número de CUIT con el que se desea trabajar.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar al sistema Autogestión MAGYP."
+      },
+      {
+        "texto": "Seleccionar el número de CUIT con el que se desea trabajar."
+      },
+      {
+        "texto": "Ingresar al sistema SIO-Granos y realizar la declaración de operaciones obligatoria."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "5 minutos",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/registrar-operaciones-de-compraventa-en-el-sistema-de-informacion-obligatoria-de-granos-sio",
+      "titulo": "Registrar operaciones de compraventa en el Sistema de Información Obligatoria de Granos SIO-Granos | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T03:14:41.014Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La información sobre los productos y subproductos subyacentes de contratos de futuros habilitados (cebada forrajera, girasol, maíz, soja, aceite de soja, sorgo, trigo) se menciona en el texto pero no se detalla en los requisitos específicos de declaración."
+  ]
+}

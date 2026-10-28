@@ -1,0 +1,77 @@
+{
+  "tramite": {
+    "slug": "turno-inscripcion-registro-demanda-habitacional",
+    "nombre": "Turno para inscripción en el Registro de Demanda Habitacional",
+    "nombre_busqueda": "Turno demanda habitacional Chascomús",
+    "resumen": "Se requiere turnar para inscribirse en el Registro de Demanda Habitacional de Chascomús cumpliendo requisitos de residencia, no ser propietario y tener DNI argentino.",
+    "sinonimos": [
+      "Turno demanda habitacional",
+      "Inscripción registro demanda habitacional"
+    ],
+    "temas": [
+      "vivienda-y-servicios-del-hogar",
+      "planes-de-vivienda-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060218",
+  "organismo": {
+    "nombre": "Municipalidad de Chascomús",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "No ser propietario/a de ninguna vivienda, ni terreno.",
+      "Poseer DNI argentino.",
+      "Ser mayor de 18 años.",
+      "Constituir grupo familiar conviviente (con el mismo domicilio en el DNI).",
+      "Contar con 5 años de residencia en el partido (con cambio de domicilio en DNI)."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original de todo el grupo familiar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUD en caso de corresponder.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta de matrimonio o unión convivencial (para parejas sin hijos).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate el día y horario elegido con la documentación requerida."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "http://apps.chascomus.gob.ar/vivienda",
+    "plazo": null,
+    "consejos": [
+      "Solo para aquellas personas que no se hayan inscripto en el llamado anterior del 22/02 al 14/04."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://apps.chascomus.gob.ar/vivienda/",
+      "titulo": "Turnos - Municipalidad de Chascomús",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T11:12:50.247Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se evaluarán los ingresos de acuerdo a cada Operatoria.",
+    "No se especifica el monto de la tasa o costo del trámite."
+  ]
+}

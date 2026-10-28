@@ -1,0 +1,78 @@
+{
+  "tramite": {
+    "slug": "adopcion-responsable-de-animales-de-compania",
+    "nombre": "Adoptar un animal de compañía",
+    "nombre_busqueda": "adopción responsable de perros",
+    "resumen": "Explorá los perros que buscan un hogar y completá el formulario para indicar a cuál querés adoptar.",
+    "sinonimos": [
+      "adopción responsable",
+      "adoptar un perro"
+    ],
+    "temas": [
+      "registro-de-mascotas-y-adopcion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060455",
+  "organismo": {
+    "nombre": "Gobierno Municipal de Las Flores",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés completar el formulario para expresar a cuál de los perros querés adoptar."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nombre y apellido.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Teléfono.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Correo electrónico.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Explorá la galería de perros que buscan un hogar."
+      },
+      {
+        "texto": "Completá el formulario con tus datos."
+      },
+      {
+        "texto": "Elegí el perro que querés adoptar."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://lasflores.gob.ar/tramites/adopcionresponsable/",
+      "titulo": "Cuidado Animal - Adopción Responsable - Las Flores",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T14:33:39.502Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa el costo del trámite.",
+    "No se indica si necesitás turno.",
+    "No se informa cuánto tarda el proceso de adopción.",
+    "No se detallan las condiciones para completar la adopción."
+  ]
+}

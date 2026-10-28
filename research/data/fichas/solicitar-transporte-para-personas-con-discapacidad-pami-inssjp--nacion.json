@@ -1,0 +1,104 @@
+{
+  "tramite": {
+    "slug": "solicitar-transporte-para-personas-con-discapacidad-pami-inssjp",
+    "nombre": "Solicitar transporte para personas con discapacidad a PAMI",
+    "nombre_busqueda": "Solicitar transporte discapacidad PAMI",
+    "resumen": "Podés solicitar a PAMI el traslado de una persona con discapacidad en línea. Necesitás tener el Certificado de Discapacidad y una orden médica que solicite el traslado.",
+    "sinonimos": [
+      "Solicitar traslado discapacidad PAMI",
+      "Transporte discapacidad INSSJP"
+    ],
+    "temas": [
+      "discapacidad-y-accesibilidad",
+      "pensiones-no-contributivas-por-invalidez"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "PAMI",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas con discapacidad que necesiten traslado."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento Nacional de Identidad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Credencial de afiliación",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Discapacidad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Orden médica solicitando el traslado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación del establecimiento al que asiste",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presupuesto del transportista, quien deberá ser prestador de esta Obra Social",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio web de Pami"
+      },
+      {
+        "texto": "Hacé clic en el botón Iniciar este trámite web"
+      },
+      {
+        "texto": "Completá los datos"
+      },
+      {
+        "texto": "Hacé clic en el botón Enviar formulario"
+      },
+      {
+        "texto": "Iniciar trámite"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-transporte-para-personas-con-discapacidad-pami-inssjp",
+      "titulo": "Solicitar transporte para personas con discapacidad a PAMI (INSSJP) | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T10:34:00.215Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T10:34:00.215Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto del transporte no se especifica en el texto.",
+    "El plazo de respuesta o ejecución del traslado no se especifica en el texto.",
+    "La vigencia de la resolución o normativa que habilita el trámite no se especifica en el texto."
+  ]
+}

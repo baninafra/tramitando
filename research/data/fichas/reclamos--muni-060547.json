@@ -1,0 +1,85 @@
+{
+  "tramite": {
+    "slug": "reclamos-vecinales-cav",
+    "nombre": "Hacer un reclamo vecinal",
+    "nombre_busqueda": "reclamos y solicitudes de servicios",
+    "resumen": "El Centro de Atención Vecinal recibe reclamos, consultas y solicitudes sobre obras públicas, servicios urbanos y rurales, medio ambiente y pedido de volquetes. Mientras renuevan el sistema, podés llamar o acercarte en persona.",
+    "sinonimos": [
+      "reclamos al C.A.V.",
+      "consultas y solicitudes de servicios"
+    ],
+    "temas": [
+      "reclamos-vecinales",
+      "servicios-urbanos-y-reclamos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060547",
+  "organismo": {
+    "nombre": "Municipalidad de Monte",
+    "sigla": null,
+    "web": "https://monte.gob.ar/reclamos/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés hacer consultas, reclamos y solicitudes sobre los temas que atiende el Centro de Atención Vecinal."
+    ],
+    "requisitos": [
+      {
+        "texto": "Indicá el reclamo, la consulta o la solicitud que querés hacer.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Llamá al (02271) 407797 para hacer tu reclamo mientras renuevan el sistema."
+      },
+      {
+        "texto": "Acercate en persona a Sardén e Hipólito Yrigoyen para hacer tu reclamo."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El sistema de atención está en renovación."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Centro de Atención Vecinal (C.A.V.)",
+      "direccion": "Calle Sardén e Hipólito Yrigoyen",
+      "localidad": "Monte",
+      "horario": null,
+      "fuente_url": "https://monte.gob.ar/reclamos/"
+    },
+    {
+      "nombre": "Palacio Municipal",
+      "direccion": "Calle Laura Giagnacovo N° 636",
+      "localidad": "Monte, Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://monte.gob.ar/reclamos/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://monte.gob.ar/reclamos/",
+      "titulo": "Reclamos - Municipalidad de Monte",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T15:11:55.132Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa qué datos tenés que aportar para registrar un reclamo.",
+    "No se informa si necesitás turno para la atención presencial."
+  ]
+}

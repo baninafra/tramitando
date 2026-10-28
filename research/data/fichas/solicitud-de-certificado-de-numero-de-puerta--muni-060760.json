@@ -1,0 +1,75 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-certificado-de-numero-de-puerta",
+    "nombre": "Solicitud de certificado de número de puerta",
+    "nombre_busqueda": "certificado numero puerta",
+    "resumen": "Asigná un número de puerta a una parcela o corroborá los existentes presentándote en ventanilla de la Dirección de Catastro.",
+    "sinonimos": [
+      "certificado de número de puerta",
+      "certificado de número de calle"
+    ],
+    "temas": [
+      "catastro-e-inmuebles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060760",
+  "organismo": {
+    "nombre": "Municipalidad San Miguel",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Contribuyentes",
+      "Profesionales en general"
+    ],
+    "requisitos": [
+      {
+        "texto": "Último impuesto pago",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en ventanilla de la Dirección de Catastro."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "un dia",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Catastro",
+      "direccion": "Belgrano 1342, 3er piso",
+      "localidad": "San Miguel",
+      "horario": null,
+      "fuente_url": "https://www.msm.gov.ar/guia-tramites/catastro/solicitud-de-certificado-de-numero-de-puerta/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.msm.gov.ar/guia-tramites/catastro/solicitud-de-certificado-de-numero-de-puerta/",
+      "titulo": "Solicitud de certificado de número de puerta - Municipalidad San Miguel",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T12:56:39.883Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horarios de atención: De Lunes a Viernes de 8:00 a 16:00 hs",
+    "Si el trámite requiere turno, no se especifica cómo sacarlo ni si es online o presencial."
+  ]
+}

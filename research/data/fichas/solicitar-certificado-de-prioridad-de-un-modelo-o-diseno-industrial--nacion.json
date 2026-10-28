@@ -1,0 +1,103 @@
+{
+  "tramite": {
+    "slug": "solicitar-certificado-de-prioridad-de-un-modelo-o-diseno-industrial",
+    "nombre": "Solicitar certificado de prioridad de un modelo o diseño industrial",
+    "nombre_busqueda": "certificado prioridad modelo diseño industrial",
+    "resumen": "Solicitá el comprobante de depósito para acreditar tu inicio de trámite en Argentina si vas a presentar tu modelo o diseño en otro país. Se hace en línea con tu clave fiscal y el número de acta.",
+    "sinonimos": [
+      "certificado de prioridad INPI",
+      "comprobante depósito modelo industrial"
+    ],
+    "temas": [
+      "marcas-y-derecho-de-autor",
+      "registro-de-artistas-y-propiedad-intelectual"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto Nacional de la Propiedad Industrial",
+    "sigla": "INPI",
+    "web": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-prioridad-de-un-modelo-o-diseno-industrial"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Solicitantes de modelos o diseños industriales que necesiten acreditar el inicio de trámite en otro país."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de acta del modelo o diseño industrial.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación respaldatoria.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave fiscal para ingresar al portal de trámites.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal de trámites con tu clave fiscal."
+      },
+      {
+        "texto": "Mirá el instructivo para adherir el servicio del INPI en tu cuenta de ARCA."
+      },
+      {
+        "texto": "Seleccioná el menú modelos / trámites / escritos."
+      },
+      {
+        "texto": "Consigná el número de acta de tu modelo o diseño industrial."
+      },
+      {
+        "texto": "Marcá tu condición (PARTICULAR o AGENTE)."
+      },
+      {
+        "texto": "Elegí el código 720000 escritos arancelados certificado de prioridad."
+      },
+      {
+        "texto": "Adjuntá la documentación respaldatoria."
+      },
+      {
+        "texto": "Podés completar la caja de texto para indicar el certificado que estás solicitando (no obligatorio)."
+      },
+      {
+        "texto": "Finalizá y firmá digitalmente el trámite."
+      },
+      {
+        "texto": "Aboná el arancel correspondiente."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "3 días hábiles desde la acreditación del volante de pago.",
+    "consejos": [
+      "Una vez que se acredite el pago, vas a poder acceder a tu certificado de prioridad desde el portal, dentro del menú mis trámites / notificaciones."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-prioridad-de-un-modelo-o-diseno-industrial",
+      "titulo": "Solicitar certificado de prioridad de un modelo o diseño industrial | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:07:43.285Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de oficina para atención presencial (si aplica).",
+    "Horarios de atención en oficinas."
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "tramite": {
+    "slug": "consultar-sobre-impuesto-las-ganancias",
+    "nombre": "Consultar sobre impuesto a las ganancias",
+    "nombre_busqueda": "Consultar sobre impuesto a las ganancias",
+    "resumen": "El trámite permite que retirados y pensionistas militares consulten sobre el descuento de Impuesto a las Ganancias. Se realiza de manera presencial en sedes del IAF, telefónicamente o a través del sistema SIC.",
+    "sinonimos": [],
+    "temas": [
+      "jubilaciones-y-pensiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Retirados y pensionistas militares."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del titular.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate con la documentación requerida a la sede central del IAF en Cerrito 572 – CABA o a las Delegaciones del Interior del Interior."
+      },
+      {
+        "texto": "Realizá la consulta en horario de 08:00 a 13:00 horas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si estás registrado en el portal eIAF Beneficiarios o en la App eIAF, podés ingresar con tu CUIL y contraseña para realizar la consulta a través del Sistema Integrado de Consultas (SIC).",
+      "Si no estás registrado, consultá cómo hacerlo en el instructivo disponible."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede central del IAF",
+      "direccion": "Cerrito 572",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/consultar-sobre-impuesto-las-ganancias"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consultar-sobre-impuesto-las-ganancias",
+      "titulo": "Consultar sobre Impuesto a las Ganancias. | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-26T05:25:27.229Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/iaf",
+      "titulo": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares | Argentina.gob.ar",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T05:25:27.229Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T05:25:27.229Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Información sobre el descuento de Impuesto a las Ganancias.",
+    "Horario de atención telefónica: 08:00 a 15:00 horas.",
+    "Vías de contacto: call center 0810-222-2423.",
+    "Registro en el portal eIAF Beneficiarios o App eIAF.",
+    "Instructivo sobre cómo registrarse en el portal y en la app eIAF."
+  ]
+}

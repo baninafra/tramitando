@@ -1,0 +1,72 @@
+{
+  "tramite": {
+    "slug": "solicitar-pict-radicacion",
+    "nombre": "Solicitar PICT Radicación",
+    "nombre_busqueda": "Solicitar PICT Radicación",
+    "resumen": "El trámite tiene como objetivo la incorporación de investigadores científicos y/o tecnológicos a Unidades Ejecutoras de universidades e instituciones públicas o privadas sin fines de lucro.",
+    "sinonimos": [],
+    "temas": [
+      "emprendedores-y-monotributo",
+      "monotributo-social-y-general"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Estar registrado/a en Agenciar",
+      "Estar registrado en CVar"
+    ],
+    "requisitos": [
+      {
+        "texto": "Estar registrado/a en Agenciar",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estar registrado en CVar",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Leer las bases de la Ventanilla Permanente"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-pict-radicacion",
+      "titulo": "Solicitar PICT Radicación | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T10:27:59.695Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T10:27:59.695Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia no está especificada en el texto, solo se mencionan fechas de cierre parcial de convocatorias pasadas."
+  ]
+}

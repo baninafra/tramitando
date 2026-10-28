@@ -1,0 +1,118 @@
+{
+  "tramite": {
+    "slug": "reclamo-por-datos-de-usuario-incorrectos-en-la-factura-de-gas",
+    "nombre": "Reclamo por datos de usuario incorrectos en la factura de gas",
+    "nombre_busqueda": "Reclamo por datos de usuario incorrectos en la factura de gas",
+    "resumen": "Si la Prestadora no resolvió tu reclamo o su respuesta fue insatisfactoria, podés hacerlo ante el ENARGAS. Es gratuito y no tenés que abonar la factura mientras se tramita.",
+    "sinonimos": [],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ente Nacional Regulador del Gas",
+    "sigla": "ENARGAS",
+    "web": "https://www.enargas.gob.ar"
+  },
+  "contenido": {
+    "quien_puede": [
+      "El cliente y/o el usuario."
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia del reclamo formulado ante la Prestadora.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copias de la factura con el error (opcional).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descripción del reclamo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Efectuá el reclamo ante la Prestadora del Servicio."
+      },
+      {
+        "texto": "Exijá el número de reclamo correspondiente y el plazo estimativo para la resolución."
+      },
+      {
+        "texto": "Si la Prestadora no responde luego de 15 días o su respuesta es insatisfactoria, contáctate con el ENARGAS."
+      },
+      {
+        "texto": "Ingresá a la página web del ENARGAS."
+      },
+      {
+        "texto": "Completá el Formulario de Reclamo."
+      },
+      {
+        "texto": "Adjuntá la documentación respaldatoria si la tenés."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Personalmente en Sede Central, Suipacha 636, C1008AAN, Ciudad Autónoma de Buenos Aires o en la Sede más próxima a tu domicilio, días hábiles de 10 a 16 hs."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Conservá el número de tu reclamo.",
+      "Recordá que si no estás conforme con la facturación, la prestación del servicio, la gestión de tu deuda o tenés inconvenientes con el suministro de gas, primero debés realizar el reclamo ante tu prestadora de gas."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central",
+      "direccion": "Suipacha 636, C1008AAN, Ciudad Autónoma de Buenos Aires",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/reclamo-por-datos-de-usuario-incorrectos-en-la-factura-de-gas"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reclamo-por-datos-de-usuario-incorrectos-en-la-factura-de-gas",
+      "titulo": "Reclamo por datos de usuario incorrectos en la factura de gas | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T03:06:14.658Z"
+    },
+    {
+      "url": "https://www.enargas.gob.ar/secciones/contacto/reclamos-formulario.php",
+      "titulo": "ENReGE",
+      "bloques": [
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T03:06:14.658Z"
+    },
+    {
+      "url": "https://www.enargas.gov.ar/secciones/oficina-virtual/oficina-virtual.php",
+      "titulo": "Oficina virtual ENARGAS",
+      "bloques": [
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T03:06:14.658Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo exacto para la resolución del reclamo ante el ENARGAS.",
+    "Si el trámite requiere turno para presentarse presencialmente."
+  ]
+}

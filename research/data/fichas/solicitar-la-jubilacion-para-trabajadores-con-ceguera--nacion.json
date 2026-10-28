@@ -1,0 +1,89 @@
+{
+  "tramite": {
+    "slug": "inicio-de-jubilacion",
+    "nombre": "Solicitar la jubilación para trabajadores con ceguera",
+    "nombre_busqueda": "Solicitar jubilación ceguera",
+    "resumen": "Podés solicitar esta jubilación si tenés ceguera congénita o adquirida y 45 años de edad o 20 años de aportes. Es un beneficio gratuito que se tramita en una oficina de ANSES con turno.",
+    "sinonimos": [
+      "Jubilación por ceguera",
+      "Prestación por ceguera"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones",
+      "discapacidad-y-accesibilidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración Nacional de Servicios Sociales para Personas Discapacitadas",
+    "sigla": "ANSES",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Trabajadores en relación de dependencia.",
+      "Trabajadores autónomos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Ceguera congénita o adquirida.",
+        "aclaracion": null
+      },
+      {
+        "texto": "45 años de edad o 20 años de aportes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En el caso de ceguera congénita, acreditar 20 años de servicios con aportes o 45 años de edad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si cumplís con el requisito de edad, no debe requerirse la totalidad del otro requisito, pero para tener derecho a esta prestación deberás tener servicios con aportes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para el caso de ceguera adquirida, la misma debe haber sido evidenciada o adquirida en los últimos 5 años anteriores al cese de actividad laboral.",
+        "aclaracion": null
+      },
+      {
+        "texto": "También tendrán derecho a la prestación quienes reúnan 45 años de edad o 20 años de servicios al adquirir la ceguera y la misma se prolonga por 2 años.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Reuní la documentación correspondiente."
+      },
+      {
+        "texto": "Solicitá un turno en una oficina de ANSES."
+      },
+      {
+        "texto": "Presentate en la oficina de ANSES el día del turno con la documentación necesaria."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-jubilacion-para-trabajadores-con-ceguera",
+      "titulo": "Solicitar la jubilación para trabajadores con ceguera | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T09:34:19.294Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia exacta de la resolución o normativa que regula este trámite."
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "tramite": {
+    "slug": "informar-precios-telefonica-movil",
+    "nombre": "Informar precios para servicios de telefonía móvil",
+    "nombre_busqueda": "informar precios telefonía móvil empresa",
+    "resumen": "Las empresas prestadoras de servicios de telefonía móvil deben informar los precios de todos los planes vigentes a sus usuarios. El trámite consiste en dar de alta el servicio interactivo en AFIP y presentar la planilla modelo en la oficina de la Secretaría de Coordinación de Producción.",
+    "sinonimos": [
+      "informar tarifas telefonía móvil",
+      "declarar precios telefonía móvil"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Secretaría de Coordinación de Producción",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Ser una empresa prestadora de servicio de comunicaciones móviles"
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener clave fiscal nivel 2",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Dar de alta el servicio interactivo SCI-Solicitud de Contacto en AFIP para tu propio CUIT o para delegar autorización a otro CUIT consultando los instructivos correspondientes."
+      },
+      {
+        "texto": "Accedé nuevamente a AFIP e ingresá a Régimen informativo de precios."
+      },
+      {
+        "texto": "Descargá la planilla modelo, completá los datos y presentala en la oficina indicada."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la planilla modelo completada en Av. Julio A. Roca 651, Planta Baja, Sector 11 y 12, CABA, de lunes a viernes de 9 a 17hs."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La normativa que rige este trámite es la Resolución N°176/2014."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Secretaría de Coordinación de Producción",
+      "direccion": "Av. Julio A. Roca 651, Planta Baja, Sector 11 y 12, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/informar-los-precios-para-servicios-de-telefonia-movil"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/informar-los-precios-para-servicios-de-telefonia-movil",
+      "titulo": "Informar los precios para servicios de telefonía móvil | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T16:46:09.657Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica un plazo de tiempo para la presentación de la planilla ni para la recepción del informe."
+  ]
+}

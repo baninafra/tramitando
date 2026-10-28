@@ -1,0 +1,101 @@
+{
+  "tramite": {
+    "slug": "denuncia-impositiva-de-venta-automotor",
+    "nombre": "Denuncia impositiva de venta automotor",
+    "nombre_busqueda": "Denuncia impositiva venta automotor san martin",
+    "resumen": "Trámite para declarar la venta de un vehículo automotor en el municipio de San Martín. Requiere documentos del vendedor y comprador, pago de tasas y presentación en oficina.",
+    "sinonimos": [
+      "Declaración de venta de auto",
+      "Comprobante de venta de vehículo",
+      "Impuesto venta automotor"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060371",
+  "organismo": {
+    "nombre": "Municipalidad de San Martín",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Vendedores de vehículos automotores",
+      "Compradores de vehículos automotores"
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del vendedor",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del comprador",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cédula de identidad del vehículo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de venta",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI del vendedor",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI del comprador",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de la cédula de identidad del vehículo",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá los documentos requeridos en la oficina de la municipalidad."
+      },
+      {
+        "texto": "Completá el formulario de denuncia impositiva."
+      },
+      {
+        "texto": "Pagá la tasa correspondiente."
+      },
+      {
+        "texto": "Recibí el comprobante de pago y la denuncia impositiva."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://sanmartin.gob.ar/tramites/tasas-municipales-automotor-denuncia-impositiva-de-venta",
+      "titulo": "Denuncia Impositiva de Venta - Automotor",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T01:09:07.047Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere verificar si el trámite se puede realizar completamente por internet.",
+    "Se requiere verificar si se necesita sacar turno antes de ir a la oficina.",
+    "Se requiere verificar el monto exacto de la tasa en centavos de peso.",
+    "Se requiere verificar si hay plazos específicos para realizar la denuncia.",
+    "Se requiere verificar si existen oficinas específicas o direcciones para este trámite.",
+    "Se requiere verificar si hay aclaraciones especiales para casos particulares (ej. vehículos con problemas registrales)."
+  ]
+}

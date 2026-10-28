@@ -1,0 +1,98 @@
+{
+  "tramite": {
+    "slug": "solicitar-correccion-del-padron",
+    "nombre": "Solicitar corrección del padrón",
+    "nombre_busqueda": "corregir padrón agente seguro",
+    "resumen": "Trámite gratuito para beneficiarios de Agentes del Seguro que quieran corregir un cambio de opción realizado en un empleo anterior.",
+    "sinonimos": [
+      "corregir padrón agente seguro",
+      "modificar padrón agente seguro"
+    ],
+    "temas": [
+      "cuil-y-clave-de-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Beneficiarios de Agentes del Seguro"
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario Corrección del padrón",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación laboral extendida por el empleador actual",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar la documentación por Trámites A Distancia (TAD) con usuario de ARCA o de Mi Argentina."
+      },
+      {
+        "texto": "Completar el Formulario de Corrección de Padrón."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central",
+      "direccion": "Bartolomé Mitre 434 - Planta Baja - CABA - C1036AAH",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-correccion-del-padron"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-correccion-del-padron",
+      "titulo": "Solicitar corrección del padrón | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T08:10:11.989Z"
+    },
+    {
+      "url": "https://turnos.argentina.gob.ar/turnos/seleccionTurno/3029",
+      "titulo": "Sistema Nacional de Turnos",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T08:10:11.989Z"
+    },
+    {
+      "url": "https://turnos.argentina.gob.ar/turnos/seleccionTurno/3203",
+      "titulo": "Sistema Nacional de Turnos",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T08:10:11.989Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Cómo solicitar el turno en línea con usuario de Mi Argentina o creando tu cuenta.",
+    "Número de línea para solicitar turnos (0800-222 SALUD)."
+  ]
+}

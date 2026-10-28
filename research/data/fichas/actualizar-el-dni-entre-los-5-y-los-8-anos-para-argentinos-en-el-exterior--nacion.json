@@ -1,0 +1,85 @@
+{
+  "tramite": {
+    "slug": "actualizar-dni-entre-5-y-8-anos-argentinos-exterior",
+    "nombre": "Actualizar el DNI entre los 5 y los 8 años para argentinos en el exterior",
+    "nombre_busqueda": "Actualizar DNI niños argentinos exterior",
+    "resumen": "Si tenés hijos o menores legalmente a cargo que nacieron en Argentina y entran en edad escolar (entre 5 y 8 años), tenés que actualizarles el DNI. El trámite se realiza en el Consulado Argentino que te corresponde por tu domicilio en el exterior.",
+    "sinonimos": [
+      "Actualizar DNI menores 5 a 8 años",
+      "Renovar DNI niños argentinos en el exterior"
+    ],
+    "temas": [
+      "dni"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Padres, madres o tutores legales de niños argentinos entre 5 y 8 años de edad que residan en el extranjero."
+    ],
+    "requisitos": [
+      {
+        "texto": "Partida de nacimiento original y fotocopia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del menor y el del padre, madre o tutor legal que lo acompañe.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia judicial original (si sos tutor).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dos fotos 4cm x 4cm, de frente, busto superior, fondo blanco, sin anteojos ni sombrero (si la Representación Consular no cuenta con el sistema de toma de trámites digital).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Te presentás con tu hijo en la Representación Consular Argentina correspondiente a tu domicilio real, con la documentación requerida."
+      },
+      {
+        "texto": "Retirás el DNI (que tendrá su firma, además de su foto y huella) en la sede en la que hicieron el trámite."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/actualizar-el-dni-entre-los-5-y-los-8-anos-para-argentinos-en-el-exterior",
+      "titulo": "Actualizar el DNI entre los 5 y los 8 años para argentinos en el exterior | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:17:21.044Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T04:17:21.044Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El lugar de pago dependerá de la Representación Consular donde iniciaste el trámite."
+  ]
+}

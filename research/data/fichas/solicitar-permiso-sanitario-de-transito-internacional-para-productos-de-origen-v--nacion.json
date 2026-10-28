@@ -1,0 +1,118 @@
+{
+  "tramite": {
+    "slug": "permiso-sanitario-de-transito-internacional-productos-vegetales",
+    "nombre": "Permiso sanitario de tránsito internacional para productos de origen vegetal",
+    "nombre_busqueda": "Permiso de tránsito internacional Senasa vegetal",
+    "resumen": "El agente de transporte aduanero (ATA) debe tramitar el Permiso Fitosanitario de Tránsito Internacional (PFTI) en línea mediante el sistema SGTI del Senasa antes de ingresar la mercadería a la frontera.",
+    "sinonimos": [
+      "Permiso de tránsito internacional vegetal",
+      "Permiso fitosanitario Senasa"
+    ],
+    "temas": [
+      "transito-vecinal-fronterizo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Agente de transporte aduanero (ATA)",
+      "Exportador",
+      "Representante autorizado"
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de alta de Agente de Transporte Aduanero (ATA)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del certificado fitosanitario emitido por el país de origen (a excepción de los productos de origen vegetal categoría de riesgo 1)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación aduanera MIC / DTA (Manifiesto Internacional de Cargas/Declaración de Tránsito Aduanero)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de pago del arancel del tránsito",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitud de Permiso Fitosanitario de Tránsito Internacional (PFTI) por autogestión, adhiriéndote al Sistema de Gestión de Tránsitos Internacionales (SGTI) del Senasa desde la plataforma de ARCA",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de tratamiento fitosanitario en los casos que corresponda",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Solicitá el Permiso Fitosanitario de Tránsito Internacional (PFTI) desde el Sistema de Gestión de Tránsitos Internacionales (SGTI) del Senasa mediante la plataforma de ARCA"
+      },
+      {
+        "texto": "Presentá el PFTI en los Puestos de Control de Fronteras y Barreras Zoofitosanitarias ubicados en el punto de ingreso y egreso de la mercadería"
+      },
+      {
+        "texto": "Aboná el arancel que corresponda"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "3 días",
+    "consejos": [
+      "La vigencia del permiso es de 10 días",
+      "La emisión o autenticación oficial del trámite lleva hasta 3 días hábiles"
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Protección Vegetal",
+      "direccion": "Av. Paseo Colón N° 367, Piso 6° contrafrente, C1063ACD, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-permiso-sanitario-de-transito-internacional-para-productos-de-origen-vegetal-yo"
+    },
+    {
+      "nombre": "Dirección Nacional de Operaciones",
+      "direccion": "Av. Paseo Colón N° 367, Piso 7° frente, C1063ACD, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-permiso-sanitario-de-transito-internacional-para-productos-de-origen-vegetal-yo"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-permiso-sanitario-de-transito-internacional-para-productos-de-origen-vegetal-yo",
+      "titulo": "Solicitar permiso sanitario de tránsito internacional para productos de origen vegetal y/o animal | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T10:23:56.980Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T10:23:56.980Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los montos exactos del arancel del tránsito no están especificados en el texto, consultá las Normativas relacionadas con los costos del trámite"
+  ]
+}

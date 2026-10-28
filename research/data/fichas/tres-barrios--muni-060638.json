@@ -1,0 +1,74 @@
+{
+  "tramite": {
+    "slug": "centros-de-salud-y-turnos",
+    "nombre": "Centros de salud y turnos",
+    "nombre_busqueda": "Centros de salud Tres Barrios Pilar",
+    "resumen": "El Centro de Salud Tres Barrios ofrece atención médica en especialidades como medicina general, odontología y pediatría. Para acceder a los servicios, es necesario solicitar un turno a través de la plataforma Mi Muni.",
+    "sinonimos": [
+      "Centro de salud Tres Barrios",
+      "Atención médica Pilar Tres Barrios"
+    ],
+    "temas": [
+      "centros-de-salud-y-turnos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060638",
+  "organismo": {
+    "nombre": "Municipalidad del Pilar",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que necesite atención médica en el Centro de Salud Tres Barrios."
+    ],
+    "requisitos": [
+      {
+        "texto": "Solicitar un turno a través de la plataforma Mi Muni.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Accedé a la plataforma Mi Muni."
+      },
+      {
+        "texto": "Solicitá un turno para atenderte."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Centro de Salud Tres Barrios",
+      "direccion": "Villa Rosa A. Camus 2753 y Almirante brown",
+      "localidad": "Tres Barrios",
+      "horario": null,
+      "fuente_url": "https://pilar.gov.ar/centros-de-salud/tres-barrios/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://pilar.gov.ar/centros-de-salud/tres-barrios/",
+      "titulo": "Tres Barrios - Municipio Pilar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T09:24:34.264Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos adicionales ni costos en el texto."
+  ]
+}

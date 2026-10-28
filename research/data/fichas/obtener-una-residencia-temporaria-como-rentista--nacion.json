@@ -1,0 +1,144 @@
+{
+  "tramite": {
+    "slug": "residencia-temporaria-rentista",
+    "nombre": "Obtener una residencia temporaria como rentista",
+    "nombre_busqueda": "residencia temporaria rentista",
+    "resumen": "Trámite para personas extranjeras que solventen su estadía en Argentina con recursos propios traídos desde el exterior, como rentas de activos o inversiones.",
+    "sinonimos": [],
+    "temas": [
+      "migraciones-y-extranjeria",
+      "residencias-temporarias-y-permanentes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Migraciones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas extranjeras que solventen su estadía en la República Argentina con recursos propios traídos desde el exterior, de las rentas que éstos produzcan, o de cualquier otro ingreso lícito proveniente de fuentes externas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Pasaporte válido y vigente (todas las nacionalidades).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Nacionalidad emitido por autoridad Consular, con fotografía y legalizado por el Ministerio de Relaciones Exteriores, Comercio Internacional y Culto de la Nación (solo si aplica).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Antecedentes Penales Argentinos emitido por el Registro Nacional de Reincidencia (solo para mayores de 16 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado que acredite fehacientemente que no registra condenas anteriores ni procesos penales en trámite, emitidos por las autoridades competentes de los países donde haya residido por un plazo superior a un año, durante el transcurso de los últimos tres años (solo para mayores de 16 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditación de Domicilio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ingreso regular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Requisitos para acreditar la condición de rentista.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditar que el monto de la renta percibida sea equivalente o superior a la suma de cinco Salarios Mínimo Vital y Móvil.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Probar que la renta constituye un beneficio proveniente de activos incorporados al patrimonio del solicitante (instrumentos financieros, inmuebles, participaciones en empresas), no incluyéndose en esta categoría retribuciones obtenidas por el trabajo personal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Demostrar que el ingreso al país de los fondos se realiza por intermedio de instituciones bancarias o financieras autorizadas por el Banco Central de la República Argentina.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Toda documentación expedida en el extranjero deberá contar con la legalización del Consulado Argentino, sito en el país emisor del documento, o Apostillada, si el país hubiera ratificado el Convenio de La Haya.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La documentación expedida por las representaciones consulares en el territorio nacional deberá contar con la legalización del Ministerio de Relaciones Exteriores Comercio Internacional y Culto, excepto MERCOSUR.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si estuviera en idioma extranjero debe ser traducida al castellano por un traductor público nacional y legalizada por el Colegio de Traductores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Toda la documentación debe ser original.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá tu trámite a distancia ingresando en el sistema RADEX."
+      },
+      {
+        "texto": "Registrate como usuario."
+      },
+      {
+        "texto": "Completá el formulario de solicitud y aboná las tasas correspondientes."
+      },
+      {
+        "texto": "Adjuntá la documentación y datos requeridos según el tipo de residencia a la que quieras aplicar."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Recibí un email con la fecha de tu cita presencial si cumplís con los requisitos para formalizar tu solicitud."
+      },
+      {
+        "texto": "Presentá la documentación original, incluyendo el Certificado de Antecedentes Penales Argentinos si se tramitó por fuera de RADEX, el día de la cita."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La residencia temporaria se otorga por un plazo de un año, prorrogable.",
+      "Las tramitaciones ante la Dirección Nacional de Migraciones son personales y sencillas, no se necesita la asistencia de un gestor.",
+      "Es necesario que te encuentres dentro del territorio de la República Argentina.",
+      "Podés realizar tu trámite con cita preferencial abonando un monto adicional."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-una-residencia-temporaria-como-rentista",
+      "titulo": "Obtener una residencia temporaria como rentista | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T22:22:31.070Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T22:22:31.070Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de las tasas migratorias no está especificado en el texto, solo se indica consultar el cuadro de tasas.",
+    "La fecha de vigencia de la resolución o disposición que regula el trámite no está especificada con precisión en el texto."
+  ]
+}

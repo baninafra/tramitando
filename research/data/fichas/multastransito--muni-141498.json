@@ -1,0 +1,67 @@
+{
+  "tramite": {
+    "slug": "multas-de-transito",
+    "nombre": "Multas de tránsito",
+    "nombre_busqueda": "Multas de tránsito",
+    "resumen": "Se reciben las actas por infracciones de tránsito labradas por inspectores y se cargan en sistema para iniciar el expediente administrativo.",
+    "sinonimos": [],
+    "temas": [
+      "infracciones-y-multas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141498",
+  "organismo": {
+    "nombre": "Municipalidad de Tancacha",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Infractores de tránsito que reciban las actas por infracciones labradas por inspectores."
+    ],
+    "requisitos": [
+      {
+        "texto": "Presentarse en el plazo de 5 días hábiles desde la notificación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Allanarse y abonar voluntariamente con un descuento del 50% de la multa, salvo caso de reincidencia, o presentar un descargo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentarse en el plazo de 5 días hábiles desde la notificación."
+      },
+      {
+        "texto": "Allanarse y abonar voluntariamente con un descuento del 50% de la multa, salvo caso de reincidencia, o presentar un descargo."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.tancacha.gob.ar/multasTransito.html",
+      "titulo": "Municipalidad de Tancacha",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "costo",
+        "quien",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-26T09:34:26.473Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia del trámite.",
+    "La dirección de la oficina donde se debe presentarse."
+  ]
+}

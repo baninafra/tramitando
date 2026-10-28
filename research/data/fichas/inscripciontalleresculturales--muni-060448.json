@@ -1,0 +1,81 @@
+{
+  "tramite": {
+    "slug": "inscripcion-talleres-culturales",
+    "nombre": "Inscripción a talleres culturales",
+    "nombre_busqueda": "inscribirse a talleres culturales en Laprida",
+    "resumen": "Inscribite a talleres culturales de marzo a noviembre. La inscripción se realiza en la Dirección de Cultura o, para los talleres de San Jorge, en la Delegación Municipal.",
+    "sinonimos": [
+      "talleres de cultura",
+      "inscripción a talleres municipales"
+    ],
+    "temas": [
+      "talleres-y-escuelas-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060448",
+  "organismo": {
+    "nombre": "Municipalidad de Laprida",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés inscribirte a los talleres culturales que se ofrecen en Laprida y San Jorge."
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia del DNI",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a la Dirección de Cultura en el Complejo Municipal de las Artes para inscribirte a los talleres de Laprida."
+      },
+      {
+        "texto": "Acercate a la Delegación Municipal para inscribirte a los talleres de San Jorge."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Cultura",
+      "direccion": "Santamarina 1322",
+      "localidad": "Laprida",
+      "horario": null,
+      "fuente_url": "https://www.laprida.gov.ar/index.php/contenido/p/inscripciontalleresculturales"
+    },
+    {
+      "nombre": "Delegación Municipal",
+      "direccion": "D’Elia 703",
+      "localidad": "San Jorge",
+      "horario": null,
+      "fuente_url": "https://www.laprida.gov.ar/index.php/contenido/p/inscripciontalleresculturales"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.laprida.gov.ar/index.php/contenido/p/inscripciontalleresculturales",
+      "titulo": "Municipalidad de Laprida",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T14:29:32.374Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa si hace falta sacar turno.",
+    "No se informa cuánto tarda la inscripción."
+  ]
+}

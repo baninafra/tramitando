@@ -1,0 +1,67 @@
+{
+  "tramite": {
+    "slug": "adhesion-boleta-digital-tasas-municipales",
+    "nombre": "Adhesión a boleta digital de tasas municipales",
+    "nombre_busqueda": "adherir boletas municipales a Cuenta DNI o Home Banking",
+    "resumen": "Adherí tus boletas municipales a Cuenta DNI o Home Banking para guardarlas en la agenda de la aplicación y pagarlas cuando y donde quieras.",
+    "sinonimos": [
+      "adherir boletas municipales"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060466",
+  "organismo": {
+    "nombre": "Municipalidad de Lezama",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés adherir tus boletas municipales a Cuenta DNI o Home Banking."
+    ],
+    "requisitos": [
+      {
+        "texto": "Código Link de Pago que figura en tu factura.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Buscá «Buenos Aires – Municipalidad de Lezama» en la opción para adherir servicios de tu aplicación."
+      },
+      {
+        "texto": "Ingresá el Código Link de Pago que figura en tu factura."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Una vez adheridas, las boletas quedan guardadas en la agenda de la aplicación para que puedas pagarlas cuando y donde quieras."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://lezama.gov.ar/pagos/",
+      "titulo": "Municipalidad de Lezama",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:41:49.153Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa si la adhesión tiene costo.",
+    "No se especifica si necesitás turno."
+  ]
+}

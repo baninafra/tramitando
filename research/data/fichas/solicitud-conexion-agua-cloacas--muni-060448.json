@@ -1,0 +1,88 @@
+{
+  "tramite": {
+    "slug": "solicitud-conexion-agua-y-cloacas",
+    "nombre": "Solicitud de conexión de agua y cloacas",
+    "nombre_busqueda": "Conexión agua y cloacas Laprida",
+    "resumen": "Para solicitar la conexión de agua y cloacas en Laprida, debés presentarte en la oficina de Obras Sanitarias con documentación específica y completar formularios y compromisos de pago.",
+    "sinonimos": [
+      "Conexión de servicios básicos",
+      "Agua y cloacas municipal"
+    ],
+    "temas": [
+      "vivienda-y-servicios-del-hogar",
+      "subsidios-a-los-servicios-publicos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060448",
+  "organismo": {
+    "nombre": "Municipalidad de Laprida",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares del servicio"
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia escritura o certificado escribano actuante",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia DNI del titular del servicio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de Impuesto Inmobiliario",
+        "aclaracion": null
+      },
+      {
+        "texto": "Compromiso de Pago (oficina de Tasas Municipalidad)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en la oficina de Obras Sanitarias, ubicada en Benito Martínez 1105."
+      },
+      {
+        "texto": "Completá el formulario R531v2."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Obras Sanitarias",
+      "direccion": "Benito Martínez 1105",
+      "localidad": "Benito Martínez 1105",
+      "horario": null,
+      "fuente_url": "https://www.laprida.gov.ar/index.php/contenido/p/solicitud_conexion_agua_cloacas"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.laprida.gov.ar/index.php/contenido/p/solicitud_conexion_agua_cloacas",
+      "titulo": "Municipalidad de Laprida",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T13:37:42.219Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos de tasas o costos en el texto.",
+    "No se indica si se requiere turno para realizar el trámite.",
+    "No se especifica el plazo de atención del trámite."
+  ]
+}

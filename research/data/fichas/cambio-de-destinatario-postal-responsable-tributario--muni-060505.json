@@ -1,0 +1,63 @@
+{
+  "tramite": {
+    "slug": "cambio-destinatario-postal-responsable-tributario",
+    "nombre": "Cambiar el destinatario postal o responsable tributario",
+    "nombre_busqueda": "cambio de destinatario de tasas municipales",
+    "resumen": "Modificá quién recibe las tasas municipales o quién figura como responsable tributario. El cambio actualiza el envío de notificaciones y tasas según el acto jurídico vigente.",
+    "sinonimos": [
+      "cambio de responsable tributario"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "catastro-e-inmuebles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060505",
+  "organismo": {
+    "nombre": "Municipalidad de Magdalena",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés solicitar el cambio de quién recibe las tasas municipales o figura como responsable tributario."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI de quien solicita el cambio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Uno de estos documentos que acredite la relación con el inmueble: boleto de compraventa, escritura simple, cesión de derechos posesorios, plano de usucapión u otro documento jurídico válido.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://magdalena.gob.ar/detalle-guia-de-tramites-y-servicios/cambio-de-destinatario-postal-responsable-tributario/",
+      "titulo": "Cambio de Destinatario Postal / Responsable Tributario : Magdalena",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T14:58:06.064Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa cómo iniciar ni completar el trámite.",
+    "No se informa el costo.",
+    "No se indica el plazo de resolución.",
+    "No se especifica si necesitás turno ni dónde se realiza el trámite."
+  ]
+}

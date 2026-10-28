@@ -1,0 +1,20 @@
+<!-- @dsCard group="Contenido" height=260 subtitle="Qué necesitás" -->
+<link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  body { margin: 0; background: var(--fondo); font-family: var(--font-sans); color: var(--tinta); }
+  .bloque { padding: var(--espacio-5); max-width: 560px; }
+  h2 { margin: 0 0 var(--espacio-3); font: 700 24px/30px var(--font-sans); }
+  label { display: grid; grid-template-columns: 22px 1fr; gap: var(--espacio-3); align-items: start; min-height: 44px; padding-block: var(--espacio-2); cursor: pointer; }
+  input { appearance: none; margin: 2px 0 0; width: 22px; height: 22px; border: 1.5px solid var(--borde-fuerte); border-radius: var(--radio-chico); background: var(--fondo); display: grid; place-content: center; cursor: pointer; }
+  input:checked { background: var(--accion); border-color: var(--accion); }
+  input:checked::after { content: ""; width: 10px; height: 6px; border: solid var(--on-accion); border-width: 0 0 2px 2px; transform: translateY(-1px) rotate(-45deg); }
+  input:focus-visible { outline: 2px solid var(--foco); outline-offset: 2px; }
+  span { font: 400 17px/27px var(--font-sans); }
+  small { display: block; font: 400 15px/22px var(--font-sans); color: var(--tinta-2); }
+</style>
+<div class="bloque">
+  <h2>Qué necesitás</h2>
+  <label><input type="checkbox" id="c1" checked><span>Tu DNI anterior<small>Aunque esté vencido o roto.</small></span></label>
+  <label><input type="checkbox" id="c2" checked><span>El turno confirmado</span></label>
+  <label><input type="checkbox" id="c3"><span>Partida de nacimiento<small>Solo si cambiaste algún dato personal.</small></span></label>
+</div>

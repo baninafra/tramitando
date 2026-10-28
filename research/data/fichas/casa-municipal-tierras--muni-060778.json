@@ -1,0 +1,96 @@
+{
+  "tramite": {
+    "slug": "casa-municipal-de-tierras",
+    "nombre": "Casa Municipal de Tierras",
+    "nombre_busqueda": "Casa Municipal de Tierras",
+    "resumen": "Trámite gratuito para titulares registrales de vivienda que deseen proteger su hogar frente a futuras deudas y ordenar la documentación necesaria, en convenio con el Registro de la Propiedad de la Provincia de Buenos Aires.",
+    "sinonimos": [],
+    "temas": [
+      "vivienda-y-servicios-del-hogar",
+      "catastro-e-inmuebles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060778",
+  "organismo": {
+    "nombre": "Municipio de San Vicente",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares registrales de la vivienda"
+    ],
+    "requisitos": [
+      {
+        "texto": "Escritura",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI de titulares y beneficiarios",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancias de cuil/cuit/cdi",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación de vínculos",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poder o certificado adicional, cuando corresponda",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Registrate en Mi San Vicente para validar tu identidad y dejar actualizados tus datos de contacto."
+      },
+      {
+        "texto": "Completá la solicitud cargando los datos del inmueble y la información requerida por Casa Municipal de Tierras."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación respaldatoria en el Palacio Municipal, Sarmiento 39, tras que el equipo municipal convoca el día y horario."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Palacio Municipal",
+      "direccion": "Sarmiento 39",
+      "localidad": "Sarmiento 39",
+      "horario": null,
+      "fuente_url": "https://www.sanvicente.gob.ar/casa-municipal-tierras.html"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.sanvicente.gob.ar/casa-municipal-tierras.html",
+      "titulo": "Casa Municipal de Tierras | Municipio de San Vicente",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T15:56:32.349Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se especifica que el trámite es gratuito, pero no se indica el monto exacto en centavos.",
+    "No se especifica el plazo de resolución ni vencimiento de documentos.",
+    "No se especifica si se requiere turno para la presentación presencial."
+  ]
+}

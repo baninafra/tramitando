@@ -1,0 +1,80 @@
+{
+  "tramite": {
+    "slug": "infracciones-y-multas",
+    "nombre": "Consulta de multas e infracciones de tránsito",
+    "nombre_busqueda": "Consulta multas La Matanza",
+    "resumen": "Consultá el historial de infracciones de tránsito ingresando la patente o el DNI en el sitio oficial.",
+    "sinonimos": [
+      "Consulta de multas",
+      "Historial de infracciones",
+      "Ver multas"
+    ],
+    "temas": [
+      "infracciones-y-multas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060427",
+  "organismo": {
+    "nombre": "Municipalidad de La Matanza",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en consultar su historial de infracciones."
+    ],
+    "requisitos": [
+      {
+        "texto": "Patente del vehículo",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del conductor",
+        "aclaracion": null
+      },
+      {
+        "texto": "Código verificador",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio oficial de infracciones de La Matanza."
+      },
+      {
+        "texto": "Seleccioná la opción de consulta por patente o DNI."
+      },
+      {
+        "texto": "Ingresá los datos solicitados: patente, DNI y código verificador."
+      },
+      {
+        "texto": "Consultá el historial de infracciones que aparece en pantalla."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://infracciones.lamatanza.gov.ar/",
+      "titulo": "Infracciones - La Matanza",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T14:10:55.315Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica si el trámite es gratuito o tiene costo.",
+    "No se indica el plazo de respuesta ni la vigencia del servicio.",
+    "No se detallan los pasos presenciales ni las oficinas donde se puede atender."
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "tramite": {
+    "slug": "reclamos-medidores-electricidad",
+    "nombre": "Reclamar por inconvenientes con el medidor del servicio eléctrico",
+    "nombre_busqueda": "Reclamar por inconvenientes con el medidor del servicio eléctrico",
+    "resumen": "Podés reclamar por demora en la colocación, rotura o mal funcionamiento del medidor, o por mal procedimiento en su cambio o retiro. Es un trámite gratuito que se realiza presencialmente en la sede del ENReGE.",
+    "sinonimos": [
+      "Reclamo medidor eléctrico",
+      "Queja medidor EDENOR",
+      "Queja medidor EDESUR"
+    ],
+    "temas": [
+      "servicios-urbanos-y-reclamos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ente Nacional Regulador del Gas y la Electricidad",
+    "sigla": "ENReGE",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Usuarios de EDENOR y EDESUR"
+    ],
+    "requisitos": [
+      {
+        "texto": "Comprobante del pedido de suministro definitivo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el servicio no está a tu nombre: copia del título de propiedad o del contrato de alquiler, o de un servicio a tu nombre, o del DNI donde conste el domicilio",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Llevá a mano los siguientes datos: tu número de identificación según la distribuidora (número de cliente para EDESUR o número de cuenta para EDENOR), el número de reclamo ante la distribuidora, tu domicilio (entre qué calles, localidad, barrio, partido, código postal) y el domicilio donde querés recibir las comunicaciones relativas a tu reclamo."
+      },
+      {
+        "texto": "Acudí personalmente a la sede del ENReGE en Suipacha 615, Ciudad Autónoma de Buenos Aires, de lunes a viernes de 09:00 a 17:00 horas."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "No olvides reclamar ante la empresa antes de hacerlo ante el ENReGE."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede del ENReGE",
+      "direccion": "Suipacha 615",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/reclamar-por-inconvenientes-con-el-medidor-del-servicio-electrico"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reclamar-por-inconvenientes-con-el-medidor-del-servicio-electrico",
+      "titulo": "Reclamar por inconvenientes con el medidor del servicio eléctrico | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:45:11.972Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/enre/gestion-de-reclamos/formularios-online/formulario-atencion-usuarios",
+      "titulo": "Para reclamar por otras deficiencias en el servicio de EDENOR / EDESUR | Argentina.gob.ar",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T02:45:11.972Z"
+    },
+    {
+      "url": "https://mi.argentina.gob.ar/turnos/seleccion-turno/252",
+      "titulo": "Ingresar | Mi Argentina",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T02:45:11.972Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horarios de atención en línea",
+    "Plazo de respuesta del reclamo",
+    "Formulario de solicitud de turno"
+  ]
+}

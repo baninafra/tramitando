@@ -1,0 +1,61 @@
+{
+  "tramite": {
+    "slug": "consultar-viajes-de-turismo-al-exterior",
+    "nombre": "Consultar viajes de turismo al exterior",
+    "nombre_busqueda": "Consultar viajes de turismo al exterior",
+    "resumen": "Podés consultar en línea si tu viaje de turismo al exterior tiene las autorizaciones necesarias. El trámite es gratuito.",
+    "sinonimos": [],
+    "temas": [
+      "viajar-con-menores-o-mascotas",
+      "migraciones-y-extranjeria",
+      "visas-y-autorizaciones-de-viaje"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes vayan a realizar un viaje de turismo al exterior."
+    ],
+    "requisitos": [
+      {
+        "texto": "Completar documentación.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá en viajes ocasionales y consultá los viajes autorizados."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consultar-viajes-de-turismo-al-exterior",
+      "titulo": "Consultar viajes de turismo al exterior | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T05:39:44.172Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La documentación específica a completar no se detalla en el texto."
+  ]
+}

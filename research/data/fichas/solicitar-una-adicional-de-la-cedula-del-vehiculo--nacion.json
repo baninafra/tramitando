@@ -1,0 +1,98 @@
+{
+  "tramite": {
+    "slug": "solicitar-adicional-cedula-vehiculo",
+    "nombre": "Solicitar una adicional de la cédula del vehículo",
+    "nombre_busqueda": "cédula adicional del vehículo",
+    "resumen": "Si compartís la titularidad de un automotor, podés tramitar una cédula de identificación vehicular adicional. Podés iniciar la solicitud en línea, pero tenés que terminar el trámite presencialmente en el Registro.",
+    "sinonimos": [
+      "cédula adicional",
+      "adicional de la cédula del vehículo"
+    ],
+    "temas": [
+      "cedula-del-vehiculo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registros de la Propiedad Automotor",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Si compartís la titularidad de un automotor con otra persona."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario 02 firmado por el titular y certificado por escribano o por el encargado del Registro.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título del Automotor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI.",
+        "aclaracion": "Si sos argentino."
+      },
+      {
+        "texto": "Pasaporte.",
+        "aclaracion": "Si sos extranjero sin residencia."
+      },
+      {
+        "texto": "Dni, ci, ci del país de origen o pasaporte.",
+        "aclaracion": "Si sos extranjero de un país limítrofe."
+      },
+      {
+        "texto": "Documentación que pruebe la representación que invocás.",
+        "aclaracion": "Si sos representante legal o apoderado."
+      },
+      {
+        "texto": "La cédula del vehículo deteriorada total o parcialmente.",
+        "aclaracion": "Si la cédula está deteriorada."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Completá la solicitud electrónica."
+      },
+      {
+        "texto": "Finalizá el trámite en el Registro donde está radicado el vehículo."
+      },
+      {
+        "texto": "Pagá los aranceles en el Registro si no abonaste en línea."
+      },
+      {
+        "texto": "Retirá la cédula adicional a las 48 horas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "Retirá la cédula adicional a las 48 horas.",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-una-adicional-de-la-cedula-del-vehiculo",
+      "titulo": "Solicitar una adicional de la cédula del vehículo | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "resumen",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T16:25:57.974Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto de los aranceles no está especificado.",
+    "El costo de la cédula adicional no está especificado.",
+    "El Formulario 02 es gratuito si certificás la firma ante el Registro Seccional y presentás el trámite en ese momento."
+  ]
+}

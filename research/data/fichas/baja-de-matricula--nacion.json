@@ -1,0 +1,81 @@
+{
+  "tramite": {
+    "slug": "baja-de-matricula",
+    "nombre": "Baja de matrícula",
+    "nombre_busqueda": "Baja de matrícula profesional salud",
+    "resumen": "Es el trámite por el cual el Profesional de la Salud solicita la baja voluntaria de su Matrícula. En caso de fallecimiento, un familiar o apoderado deberá solicitar la baja adjuntando el Certificado de Defunción.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titular o Apoderado del Profesional de la Salud."
+    ],
+    "requisitos": [
+      {
+        "texto": "Completar el formulario en el trámite TAD en el caso de BAJA VOLUNTARIA de matrícula por parte del Profesional.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de baja por fallecimiento del profesional, el familiar o apoderado que realice este trámite deberá adjuntar la Partida de Defunción.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener Clave fiscal nivel 2 o superior de la AFIP o Apoderamiento en trámites a distancia para realizar el registro.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al TAD, trámite 'Baja de matrícula', con clave fiscal y seguí los pasos que allí te indican."
+      },
+      {
+        "texto": "Completá tus datos en el TAD."
+      },
+      {
+        "texto": "Completá y subí la Nota de Solicitud del TAD para proceder a la Baja voluntaria de tu Matrícula."
+      },
+      {
+        "texto": "En caso de tratarse de baja por fallecimiento del Profesional, un familiar o apoderado además deberá adjuntar el Certificado del mismo en el ítem: 'Partida de defunción'."
+      },
+      {
+        "texto": "Una vez iniciado el expediente, consultá el ítem: 'Notificaciones' del TAD. Allí se te comunicará la Baja de la Matrícula."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Para hacer el Trámite a Distancia (TAD) se recomienda ingresar a la página desde una CPU a través del Mozilla Firefox o el Google Chrome, no mediante celulares u otros dispositivos móviles porque se han detectado inconvenientes."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/baja-de-matricula",
+      "titulo": "Baja de Matrícula | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T15:23:28.347Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite."
+  ]
+}

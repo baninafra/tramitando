@@ -1,0 +1,68 @@
+{
+  "tramite": {
+    "slug": "descargos-infracciones-faltas-municipales",
+    "nombre": "Descargos por infracciones y faltas municipales",
+    "nombre_busqueda": "Descargar multas Bragado",
+    "resumen": "El Juzgado de Faltas de Bragado permite ejercer el derecho de defensa y ofrecer pruebas para descargos de infracciones cometidas en el municipio, siempre que no se trate de rutas provinciales o nacionales.",
+    "sinonimos": [
+      "Descargar multa Bragado",
+      "Descargar infracción municipal Bragado",
+      "Descargar falta municipal Bragado"
+    ],
+    "temas": [
+      "infracciones-y-multas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060112",
+  "organismo": {
+    "nombre": "Juzgado de Faltas Municipal de Bragado",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El presunto infractor que haya cometido una falta o contravención en el municipio de Bragado."
+    ],
+    "requisitos": [
+      {
+        "texto": "Indicar un e-mail válido como domicilio electrónico.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar a la página web de la Municipalidad de Bragado."
+      },
+      {
+        "texto": "Navegar hasta la sección del Juzgado de Faltas."
+      },
+      {
+        "texto": "Seguir las instrucciones para ejercer el derecho de defensa y ofrecer pruebas."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.bragado.gov.ar/juzgado-de-faltas/",
+      "titulo": "Juzgado de Faltas - Municipalidad de Bragado",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "consejos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T11:36:15.826Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos adicionales ni plazos de respuesta en el texto."
+  ]
+}

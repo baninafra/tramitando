@@ -1,0 +1,97 @@
+{
+  "tramite": {
+    "slug": "tramitar-ampliaciones-que-requieran-evaluacion",
+    "nombre": "Tramitar ampliaciones que requieran evaluación",
+    "nombre_busqueda": "Ampliaciones ANMaC",
+    "resumen": "Este trámite permite a empresas de custodia de dinero solicitar nuevas ámbitos o ampliar cupos de portaciones y tenencias ante ANMaC.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMaC",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas que prestan servicio de custodia de dinero y otros valores, en proceso de expansión."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de solicitud firmada por el representante legal y debidamente certificada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Leyes 23.283 y 23.412.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      },
+      {
+        "texto": "Presentá la documentación completa respetando el día, horario y lugar que seleccionaste al pedir el turno."
+      },
+      {
+        "texto": "Retirá la documentación emitida por el ANMaC en la delegación en la que iniciaste el trámite o pedí que te la manden por correo."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central del organismo",
+      "direccion": "Bartolomé Mitre 1465/9",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/tramitar-ampliaciones-que-requieran-evaluacion"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tramitar-ampliaciones-que-requieran-evaluacion",
+      "titulo": "Tramitar ampliaciones que requieran evaluación | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T17:38:58.063Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T17:38:58.063Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto de los costos no está especificado en el texto.",
+    "El plazo de resolución no está especificado en el texto.",
+    "La fecha de vigencia del trámite no está especificada en el texto."
+  ]
+}

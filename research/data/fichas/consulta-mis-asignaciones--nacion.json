@@ -1,0 +1,86 @@
+{
+  "tramite": {
+    "slug": "consulta-mis-asignaciones",
+    "nombre": "Consultar mis asignaciones",
+    "nombre_busqueda": "ver mis cobros de asignaciones",
+    "resumen": "Consultá el detalle de tus cobros de asignaciones, descuentos y el estado de los pagos de forma fácil y segura.",
+    "sinonimos": [
+      "ver detalle de cobros",
+      "consultar asignaciones"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones",
+      "prestaciones-medicas-e-incluir-salud",
+      "trabajo-y-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Capital Humano",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Trabajadores en relación de dependencia y quienes cobren a través de una Aseguradora de Riesgos del Trabajo (comprendidos en Ley 24.241)",
+      "Personas que cobren la Asignación Universal por Hijo (AUH)",
+      "Personas que cobren la Asignación Universal por Hijo con discapacidad",
+      "Monotributistas",
+      "Personas que cobren la Prestación por Desempleo",
+      "Personas que cobren la Pensión Honorífica de Veteranos de Guerra del Atlántico Sur",
+      "Jubilados y pensionados",
+      "Personas que cobren una Pensión No Contributiva por Invalidez o asignación por trasplante"
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de CUIL",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave de la Seguridad Social",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá en mi ANSES"
+      },
+      {
+        "texto": "En el menú de mi ANSES accedé a la opción Hijos > Mis Asignaciones y seleccioná el período que querés consultar"
+      },
+      {
+        "texto": "Podés ver el detalle de los cobros y descuentos, por cada asignación e identificarlas de acuerdo al color: en verde: las que se encuentran con pagos vigentes, en amarillo: las que están suspendidas o embargadas, en rojo: las denegadas"
+      },
+      {
+        "texto": "En la opción Ver Más, podés consultar el motivo por el cual se te suspende o deniega una asignación y, de corresponder, la forma de solucionarlo"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá el detalle de tus asignaciones a partir del primer día del calendario de pagos de cada mes",
+      "Ahora podés consultar en mi ANSES las asignaciones de cada uno de tus hijos de forma más completa, rápida y fácil"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consulta-mis-asignaciones",
+      "titulo": "Consulta Mis Asignaciones | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T01:50:02.215Z"
+    }
+  ],
+  "sin_confirmar": []
+}

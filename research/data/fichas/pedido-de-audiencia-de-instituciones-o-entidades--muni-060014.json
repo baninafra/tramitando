@@ -1,0 +1,80 @@
+{
+  "tramite": {
+    "slug": "pedido-de-audiencia-con-el-intendente-municipal",
+    "nombre": "Pedido de audiencia con el Intendente Municipal",
+    "nombre_busqueda": "Pedir audiencia al Intendente",
+    "resumen": "Solicitá una audiencia con el Intendente Municipal presentando una nota y fotocopia de DNI en la Mesa de Entradas.",
+    "sinonimos": [
+      "Solicitar audiencia al Intendente",
+      "Pedir cita al Intendente"
+    ],
+    "temas": [
+      "gobierno-y-participacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060014",
+  "organismo": {
+    "nombre": "Municipalidad de Adolfo Gonzales Chaves",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en solicitar una audiencia con el Intendente Municipal."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota dirigida al Sr. Intendente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de DNI.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Realizá la nota exponiendo los motivos por los cuales está solicitando la audiencia adjuntando la fotocopia de DNI."
+      },
+      {
+        "texto": "Presentá la documentación en Mesa de Entradas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Mesa de Entradas",
+      "direccion": "Bartolomé Mitre y Juan Eliçagaray",
+      "localidad": "Bartolomé Mitre y Juan Eliçagaray",
+      "horario": null,
+      "fuente_url": "https://gonzaleschaves.gob.ar/gobierno-abierto/pedido-de-audiencia-de-instituciones-o-entidades/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://gonzaleschaves.gob.ar/gobierno-abierto/pedido-de-audiencia-de-instituciones-o-entidades/",
+      "titulo": "Pedido de Audiencia de Instituciones o Entidades – Chaves Municipio",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T19:30:06.001Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el plazo de respuesta o espera para la audiencia.",
+    "No se especifica si se requiere turno previo."
+  ]
+}

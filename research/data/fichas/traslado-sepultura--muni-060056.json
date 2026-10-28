@@ -1,0 +1,126 @@
+{
+  "tramite": {
+    "slug": "traslado-de-sepultura-dentro-del-cementerio",
+    "nombre": "Traslado de sepultura dentro del cementerio",
+    "nombre_busqueda": "Traslado de sepultura cementerio bahia blanca",
+    "resumen": "Trámite para mover el cuerpo de un fallecido dentro del mismo cementerio municipal. Requiere la presencia de titulares de las sepulturas y pago de tasas según el tipo de traslado.",
+    "sinonimos": [
+      "Mover cuerpo en cementerio",
+      "Traslado de restos en cementerio"
+    ],
+    "temas": [
+      "cementerio-y-servicios-funebres",
+      "inhumaciones-y-traslados"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de ambas sepulturas"
+    ],
+    "requisitos": [
+      {
+        "texto": "Concurrir al Cementerio Municipal con la documentación requerida",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Concurrir al Cementerio Municipal con la documentación requerida y abonar lo correspondiente."
+      },
+      {
+        "texto": "Otorgado el turno por el personal del Cementerio, el traslado puede ser presenciado por el/los solicitante/s."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "Verificaciones a tierra",
+      "gratis": false,
+      "monto_centavos": 1673259,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/cementerio/traslado-sepultura/"
+    },
+    {
+      "modalidad": "Verificaciones nicho-panteón-bóveda",
+      "gratis": false,
+      "monto_centavos": 1115600,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/cementerio/traslado-sepultura/"
+    },
+    {
+      "modalidad": "Reducciones",
+      "gratis": false,
+      "monto_centavos": 1394383,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/cementerio/traslado-sepultura/"
+    },
+    {
+      "modalidad": "Traslados de cadáveres mayores a 3 años",
+      "gratis": false,
+      "monto_centavos": 1115600,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/cementerio/traslado-sepultura/"
+    },
+    {
+      "modalidad": "Traslados de cadáveres menores a 3 años",
+      "gratis": false,
+      "monto_centavos": 223106,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/cementerio/traslado-sepultura/"
+    },
+    {
+      "modalidad": "Traslados de restos",
+      "gratis": false,
+      "monto_centavos": 557753,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/cementerio/traslado-sepultura/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Cementerio Municipal",
+      "direccion": "Pablo Lejarraga 1198",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/cementerio/traslado-sepultura/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/tramites/cementerio/traslado-sepultura/",
+      "titulo": "Traslado de sepultura dentro del cementerio | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T20:19:26.405Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si sos menor de edad, necesitás el DNI del padre o madre o tutor.",
+    "Si no tenés el DNI, necesitás constancia de extravío."
+  ]
+}

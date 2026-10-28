@@ -1,0 +1,98 @@
+{
+  "tramite": {
+    "slug": "pago-de-tasas-municipales",
+    "nombre": "Pago de Tasas Municipales",
+    "nombre_busqueda": "Pago de tasas municipales",
+    "resumen": "Trámite para el pago de tasas municipales y la impresión de boletas correspondientes.",
+    "sinonimos": [
+      "Pago de tasas",
+      "Pago de tasas y boletas"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060260",
+  "organismo": {
+    "nombre": "Municipalidad de Esteban Echeverría",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier vecino o contribuyente del municipio."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original y fotocopia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Boleta de la tasa correspondiente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Libre Deuda.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el DNI original y fotocopia."
+      },
+      {
+        "texto": "Presentá la boleta de la tasa correspondiente."
+      },
+      {
+        "texto": "Presentá el Certificado de Libre Deuda."
+      },
+      {
+        "texto": "Realizá el pago de la tasa."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección General de Rentas",
+      "direccion": "Sofía T. Santamarina 455",
+      "localidad": "Monte Grande",
+      "horario": null,
+      "fuente_url": "https://www.estebanecheverria.gob.ar/pago-de-tasas/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.estebanecheverria.gob.ar/pago-de-tasas/",
+      "titulo": "PAGO DE TASAS – Esteban Echeverría",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien",
+        "donde",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T23:47:09.235Z"
+    },
+    {
+      "url": "https://www.estebanecheverria.gob.ar/pases-de-transportes-para-discapacitados/",
+      "titulo": "Pases de transportes para discapacitados – Esteban Echeverría",
+      "bloques": [
+        "requisitos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T23:47:09.235Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos de tasas ni costos de trámite.",
+    "No se especifica el plazo de atención.",
+    "No se especifica si se requiere turno."
+  ]
+}

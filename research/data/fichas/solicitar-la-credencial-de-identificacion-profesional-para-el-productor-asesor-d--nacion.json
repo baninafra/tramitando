@@ -1,0 +1,118 @@
+{
+  "tramite": {
+    "slug": "credencial-de-identificacion-profesional-productor-asesor-seguros",
+    "nombre": "Credencial de Identificación Profesional para el Productor Asesor de Seguros",
+    "nombre_busqueda": "Credencial CIPAS Productor Asesor Seguros",
+    "resumen": "Solicitá tu credencial de uso obligatorio, personal y permanente para Productores Asesores de Seguros. Es gratuita la primera emisión y la retirás en una oficina del Ente Cooperador.",
+    "sinonimos": [
+      "CIPAS",
+      "Credencial Productor Asesor Seguros"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Seguros de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Productores Asesores de Seguros"
+    ],
+    "requisitos": [
+      {
+        "texto": "Copia digital del DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Foto digital 4 x 4",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Supervivencia (solo si sos mayor de 65 años)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá los datos del formulario adjuntando la documentación requerida."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Retirá la credencial en la oficina del Ente Cooperador."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 260000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-la-credencial-de-identificacion-profesional-para-el-productor-asesor-de-seguros"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 400000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-la-credencial-de-identificacion-profesional-para-el-productor-asesor-de-seguros"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 520000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-la-credencial-de-identificacion-profesional-para-el-productor-asesor-de-seguros"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Ente Cooperador",
+      "direccion": "Chacabuco N° 77 – 1° PISO",
+      "localidad": "Chacabuco N° 77 – 1° PISO",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-la-credencial-de-identificacion-profesional-para-el-productor-asesor-de-seguros"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-credencial-de-identificacion-profesional-para-el-productor-asesor-de-seguros",
+      "titulo": "Solicitar la Credencial de Identificación Profesional para el Productor Asesor de Seguros | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T09:49:18.776Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T09:49:18.776Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Fecha de vigencia",
+    "Requisito de no tener sanciones vigentes",
+    "Requisito de no registrar deuda en concepto de matrícula y/o cursos"
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "tramite": {
+    "slug": "licencia-de-conducir",
+    "nombre": "Licencia de conducir",
+    "nombre_busqueda": "Licencia de conducir",
+    "resumen": "Para obtener o renovar la licencia de conducir en Ensenada, necesitás constatar domicilio, último voto, prueba teórico-práctica, examen psicomotor y estar libre de deudas. El costo total varía según el tipo de licencia y la edad.",
+    "sinonimos": [
+      "Permiso de conducir",
+      "Licencia de conducir original",
+      "Licencia de conducir renovada",
+      "Permiso de conducir menores de 18 años"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060245",
+  "organismo": {
+    "nombre": "Municipalidad de Ensenada",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas mayores de 18 años para licencias originales.",
+      "Personas mayores de 17 años para permisos de menores.",
+      "Personas mayores de 21 años para licencias profesionales.",
+      "Personas mayores de 65 años para renovación por 1 año."
+    ],
+    "requisitos": [
+      {
+        "texto": "Constatar domicilio real en Ensenada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constatar último voto (caso contrario, justificar en la Junta Electoral).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Prueba teórico-práctica (previo turno con el examinador técnico).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Grupo y factor sanguíneo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Libre de deuda en Juzgado de Faltas (La Merced 491).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Timbrado nacional y provincial.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tasa municipal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Examen psicomotor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Sistematización de datos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Permiso de los padres en el Juzgado de Paz (calle Ferella y Alem).",
+        "aclaracion": "Si sos menor de edad."
+      },
+      {
+        "texto": "Fotocopia de DNI (con domicilio en Ensenada).",
+        "aclaracion": "Si sos menor de edad."
+      },
+      {
+        "texto": "Licencia de conducir, seguro, casco y chaleco refractario.",
+        "aclaracion": "Si sos menor de edad."
+      },
+      {
+        "texto": "Denuncia de extravío (se realiza en el Registro Civil, La Vieja Estación, Alberdi y Sidoti).",
+        "aclaracion": "Si sos menor de edad."
+      },
+      {
+        "texto": "Certificado de antecedentes penales (calle 13 Nº 562 e/43 y 44 de La Plata).",
+        "aclaracion": "Si sos mayor de 21 años."
+      },
+      {
+        "texto": "Constatar último domicilio (caso contrario, justificar en la Junta Electoral).",
+        "aclaracion": "Si sos mayor de 21 años."
+      },
+      {
+        "texto": "Fotocopia de DNI (ser mayor de 21 años).",
+        "aclaracion": "Si sos mayor de 21 años."
+      },
+      {
+        "texto": "Licencia de conducir, seguro y casco.",
+        "aclaracion": "Si sos menor de edad."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Sacá turno con el examinador técnico."
+      },
+      {
+        "texto": "Presentá los requisitos en la Dirección de Transito."
+      },
+      {
+        "texto": "Realizá la prueba teórico-práctica y el examen psicomotor."
+      },
+      {
+        "texto": "Retirá la licencia por envío de la Provincia (con DNI y/o licencia vencida)."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Se sugiere realizar el trámite con 30 días de anticipación.",
+      "A partir de la fecha de vencimiento de la licencia hay 90 días para realizar el trámite como renovación pero no está habilitado para conducir.",
+      "De haberse vencido el plazo estipulado (90 días) deberá realizarse el trámite como original."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "Licencia original (18 a 64 años)",
+      "gratis": false,
+      "monto_centavos": 68875,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.ensenada.gov.ar/requisitos-para-obtener-o-renovar-licencias-de-conducir/"
+    },
+    {
+      "modalidad": "Licencia duplicada (extravío, robo o cambio de domicilio)",
+      "gratis": false,
+      "monto_centavos": 53850,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.ensenada.gov.ar/requisitos-para-obtener-o-renovar-licencias-de-conducir/"
+    },
+    {
+      "modalidad": "Licencia ampliada (cambio de clase)",
+      "gratis": false,
+      "monto_centavos": 43450,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.ensenada.gov.ar/requisitos-para-obtener-o-renovar-licencias-de-conducir/"
+    },
+    {
+      "modalidad": "Licencia profesional (2 años, 21 a 45 años)",
+      "gratis": false,
+      "monto_centavos": 52150,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.ensenada.gov.ar/requisitos-para-obtener-o-renovar-licencias-de-conducir/"
+    },
+    {
+      "modalidad": "Licencia profesional (3 años, 21 a 45 años)",
+      "gratis": false,
+      "monto_centavos": 47800,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.ensenada.gov.ar/requisitos-para-obtener-o-renovar-licencias-de-conducir/"
+    },
+    {
+      "modalidad": "Licencia profesional (1 año, 21 a 45 años)",
+      "gratis": false,
+      "monto_centavos": 44171,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.ensenada.gov.ar/requisitos-para-obtener-o-renovar-licencias-de-conducir/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Juzgado de Faltas",
+      "direccion": "La Merced 491",
+      "localidad": "Ensenada",
+      "horario": null,
+      "fuente_url": "https://www.ensenada.gov.ar/requisitos-para-obtener-o-renovar-licencias-de-conducir/"
+    },
+    {
+      "nombre": "Juzgado de Paz",
+      "direccion": "calle Ferella y Alem",
+      "localidad": "Ensenada",
+      "horario": null,
+      "fuente_url": "https://www.ensenada.gov.ar/requisitos-para-obtener-o-renovar-licencias-de-conducir/"
+    },
+    {
+      "nombre": "Registro Civil",
+      "direccion": "La Vieja Estación, Alberdi y Sidoti",
+      "localidad": "Ensenada",
+      "horario": null,
+      "fuente_url": "https://www.ensenada.gov.ar/requisitos-para-obtener-o-renovar-licencias-de-conducir/"
+    },
+    {
+      "nombre": "Certificado de antecedentes penales",
+      "direccion": "calle 13 Nº 562 e/43 y 44 de La Plata",
+      "localidad": "Ensenada",
+      "horario": null,
+      "fuente_url": "https://www.ensenada.gov.ar/requisitos-para-obtener-o-renovar-licencias-de-conducir/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.ensenada.gov.ar/requisitos-para-obtener-o-renovar-licencias-de-conducir/",
+      "titulo": "Requisitos para obtener o renovar licencias de conducir – Municipalidad de Ensenada",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T23:13:56.553Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Monto exacto de renovación por 5 años, 3 años y 1 año para mayores de 65 años.",
+    "Plazo exacto de tramitación."
+  ]
+}

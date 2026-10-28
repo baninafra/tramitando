@@ -1,0 +1,66 @@
+{
+  "tramite": {
+    "slug": "pago-de-tasas-por-adjudicacion",
+    "nombre": "Pago de tasas por adjudicación",
+    "nombre_busqueda": "Pago tasas adjudicación ordenanza 366",
+    "resumen": "Se debe pagar una tasa por adjudicación según la Ordenanza 366 (Dto 42) de la Municipalidad de Anisacate.",
+    "sinonimos": [
+      "Pago tasa adjudicación",
+      "Pago tasa ordenanza 366"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141375",
+  "organismo": {
+    "nombre": "Municipalidad de Anisacate",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Los adjudicatarios de los servicios públicos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Presentar la ordenanza de adjudicación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar el comprobante de pago de la tasa.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá la fecha límite de pago en la ordenanza.",
+      "Guardá el comprobante de pago para la entrega de la adjudicación."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://anisacatemunicipio.gob.ar/download/ordenanza-366-dto-42-adjudicacion/",
+      "titulo": "Ordenanza 366 (Dto 42 adjudicación) – Municipalidad de Anisacate",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T08:45:36.020Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa no aparece en el texto.",
+    "La fecha límite de pago no aparece en el texto.",
+    "La dirección de la oficina de pago no aparece en el texto.",
+    "Si se requiere turno para el pago no aparece en el texto."
+  ]
+}

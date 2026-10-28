@@ -1,0 +1,100 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-autorizacion-de-enmienda",
+    "nombre": "Solicitud de autorización de enmienda",
+    "nombre_busqueda": "Autorización de enmienda ANMAT",
+    "resumen": "Trámite para patrocinadores de estudios clínicos que presenten una enmienda al protocolo (EFCA3) ante ANMAT.",
+    "sinonimos": [
+      "Enmienda de protocolo EFCA3",
+      "Modificación de estudio clínico ANMAT"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMAT",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Patrocinadores de estudios clínicos que presenten una solicitud de autorización de enmienda al protocolo (EFCA3) ante ANMAT."
+    ],
+    "requisitos": [
+      {
+        "texto": "Comprobante de pago de arancel.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Control de cambios con respecto con la versión inmediatamente anterior, que deberá haber sido aprobada previamente por ANMAT.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En el caso de que la versión previa no cuente con aprobación de ANMAT (debido a cambios administrativos), deberá ser aclarado mediante una carta en la cual se aporten las explicaciones correspondientes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En este caso, el patrocinador deberá adjuntar los controles de cambios de todas las versiones generadas entre la última versión de protocolo aprobada por ANMAT y la versión que se presenta para aprobación, permitiendo asegurar la trazabilidad entre todos los documentos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de la Disposición autorizante del estudio y de las notas de autorización de ANMAT de enmiendas anteriores, si las hubiera.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La información de fecha y versión del documento que fue cargada en el campo correspondiente deberá coincidir con el documento que obra en el PDF.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al expediente original/madre (1-47-2-xxxx-xx-xx) en la plataforma de ensayos clínicos ECLIN."
+      },
+      {
+        "texto": "Seleccioná la opción 'añadir EFCA'."
+      },
+      {
+        "texto": "Seleccioná y cargá la solapa EFCA3."
+      },
+      {
+        "texto": "Completá el formulario EFCA3 sin omitir ningún campo."
+      },
+      {
+        "texto": "Adjuntá la documentación en formato PDF 'seleccionable' en todos los campos donde aplique."
+      },
+      {
+        "texto": "Verificá la correcta caratulación del trámite."
+      },
+      {
+        "texto": "Si el trámite se realiza a través de la plataforma TAD, envías un email a la dirección de correo electrónico indicada y adjuntá el formulario EFCA 3 completo en formato Word."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitud-de-autorizacion-de-enmienda",
+      "titulo": "Solicitud de autorización de enmienda | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T17:48:41.442Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica el monto del arancel, consultalo en la tabla de aranceles de ANMAT.",
+    "El texto no especifica el plazo de evaluación ni los requisitos de turno."
+  ]
+}

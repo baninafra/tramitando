@@ -1,0 +1,152 @@
+{
+  "tramite": {
+    "slug": "juzgado-de-faltas",
+    "nombre": "Juzgado de Faltas",
+    "nombre_busqueda": "Tribunal de Faltas Bahía Blanca",
+    "resumen": "Este juzgado recibe infracciones de tránsito, parquímetro, fiscalización comercial, bromatología y denuncia de particulares. Se pueden abonar multas voluntariamente en boca de cobro o en oficinas municipales.",
+    "sinonimos": [
+      "Tribunal de Faltas",
+      "Juzgado Contravencional Municipal"
+    ],
+    "temas": [
+      "infracciones-y-multas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Particulares",
+      "Oficinas de Tránsito",
+      "Fiscalización Comercial",
+      "Departamento de Bromatología",
+      "Departamento de Veterinaria y Zoonosis",
+      "Saneamiento Ambiental",
+      "Contralor de Obras Particulares",
+      "O.M.I.C (Defensa al Consumidor)"
+    ],
+    "requisitos": [
+      {
+        "texto": "Original y un juego de fotocopias del título de propiedad.",
+        "aclaracion": "Si hay más de un titular, deben estar presentes todas las partes."
+      },
+      {
+        "texto": "Cédula verde en vigencia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento nacional de identidad DNI del titular, infractor y quien retira conduciendo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Licencia de conducir con categoría habilitante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Póliza o credencial de seguro y último recibo de pago.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Patente reglamentaria o permiso de circulación vigente (Formulario 02).",
+        "aclaracion": "Solo si el vehículo no llevaba chapa patente al momento del secuestro."
+      },
+      {
+        "texto": "Toda documentación adicional que el interesado quiera agregar.",
+        "aclaracion": "Debe presentarse también en fotocopias."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá los documentos requeridos en el Tribunal de Faltas o en las oficinas de pago habilitadas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "Estadia Grúa Moto",
+      "gratis": false,
+      "monto_centavos": 33600,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.bahia.gob.ar/tribunaldefaltas/"
+    },
+    {
+      "modalidad": "Estadia Grúa Moto",
+      "gratis": false,
+      "monto_centavos": 4480000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.bahia.gob.ar/tribunaldefaltas/"
+    },
+    {
+      "modalidad": "Estadia Grúa Automóvil",
+      "gratis": false,
+      "monto_centavos": 168000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.bahia.gob.ar/tribunaldefaltas/"
+    },
+    {
+      "modalidad": "Estadia Grúa Automóvil",
+      "gratis": false,
+      "monto_centavos": 17360000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.bahia.gob.ar/tribunaldefaltas/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Tribunal de Faltas",
+      "direccion": "Brown 1112/38",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tribunaldefaltas/"
+    },
+    {
+      "nombre": "Municipalidad de Bahía Blanca – Delegaciones Municipales y Centro de Gestión Comunal",
+      "direccion": "Alsina 43",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tribunaldefaltas/"
+    },
+    {
+      "nombre": "Municipalidad de Bahía Blanca",
+      "direccion": "Alsina 65",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tribunaldefaltas/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/tribunaldefaltas/",
+      "titulo": "Tribunal de Faltas | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T20:25:05.498Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horario de atención",
+    "Vigencia de los costos"
+  ]
+}

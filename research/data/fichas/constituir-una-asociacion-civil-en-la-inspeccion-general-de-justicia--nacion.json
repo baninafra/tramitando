@@ -1,0 +1,153 @@
+{
+  "tramite": {
+    "slug": "constituir-una-asociacion-civil",
+    "nombre": "Constituir una asociación civil",
+    "nombre_busqueda": "constituir asociación civil IGJ",
+    "resumen": "Tramitá en la Inspección General de Justicia la constitución de una asociación civil de primer grado con domicilio en la Ciudad Autónoma de Buenos Aires y objeto propio. Presentás el acta, el estatuto y el resto de la documentación con turno en la Mesa General de Entradas.",
+    "sinonimos": [
+      "crear una asociación civil",
+      "personería jurídica de asociación civil",
+      "autorización para funcionar como persona jurídica"
+    ],
+    "temas": [
+      "gobierno-y-participacion"
+    ],
+    "temas_propuestos": [
+      {
+        "slug": "asociaciones-civiles-y-fundaciones",
+        "nombre": "Asociaciones civiles y fundaciones",
+        "padre": null
+      }
+    ]
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": "IGJ",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes quieran constituir una asociación civil con objeto propio.",
+      "La entidad tiene que tener domicilio en la Ciudad Autónoma de Buenos Aires y no estar contemplada en las Resoluciones 01/2020 y 07/2020."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de autorización para funcionar como persona jurídica, completo y con el pago correspondiente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta constitutiva o fundacional con lugar y fecha de constitución, datos de los constituyentes, nombre de la entidad con el tipo social, plazo de duración, objeto y actividades.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta constitutiva o fundacional con la sede social en la Ciudad Autónoma de Buenos Aires, indicando calle, número, piso y oficina.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta constitutiva o fundacional con la elección de autoridades: cargos, datos personales, mandatos, DNI, CUIL o CUIT, nacionalidad, profesión, estado civil, aceptación, domicilios y declaración jurada de no estar inhabilitado ni tener incompatibilidades.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta constitutiva o fundacional con la decisión de pedir la autorización para funcionar y la designación de una o más personas para gestionar, presentar y retirar documentación, hacer depósitos y retiros bancarios y aceptar las modificaciones que formule la IGJ.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Patrimonio social inicial de al menos un salario mínimo, vital y móvil, acreditado según el tipo de bienes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el patrimonio son bienes que no son dinero: estado contable o inventario certificado por contador público, con informe del profesional sobre cada rubro y el criterio de valuación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el patrimonio es dinero: depósito en el Banco de la Nación Argentina a nombre de la entidad en formación, en la cuenta de depósitos oficiales, boleta de depósitos varios.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Alternativa al depósito: que la escritura pública de constitución deje constancia de que los constituyentes entregan los fondos a los administradores o al escribano autorizante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Primer testimonio de escritura pública firmado por todos los constituyentes y por los integrantes de los órganos sociales designados.",
+        "aclaracion": "Incluye la transcripción del acta constitutiva y la aprobación del estatuto."
+      },
+      {
+        "texto": "Estatuto con lugar y fecha, denominación con el tipo social \"Asociación civil\", plazo, objeto, régimen de administración y representación, elección de autoridades y cierre del ejercicio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estatuto con las clases o categorías de asociados o consejeros y sus derechos y deberes, y el régimen de ingreso, admisión, remoción, renuncia, sanciones disciplinarias, exclusiones y recursos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estatuto con las causales de disolución, el procedimiento de liquidación y el destino de los bienes, que pueden ir a una entidad de bien común sin fines de lucro domiciliada en la Argentina.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dictamen de precalificación profesional de escribano público o abogado, conforme al artículo 50, inciso 2, del Anexo A de la Resolución General IGJ 07/15.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaraciones juradas de Personas Expuestas Políticamente (PEP) de cada una de las autoridades.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación en la Mesa General de Entradas, Paseo Colón 285, Ciudad Autónoma de Buenos Aires."
+      },
+      {
+        "texto": "Retirá la documentación cuando finalice el trámite."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://www.argentina.gob.ar/turnos",
+    "plazo": null,
+    "consejos": [
+      "Una vez que la entidad esté autorizada para funcionar, tenés 60 días corridos para tramitar la CUIT en AFIP y para individualizar y rubricar los libros.",
+      "En la página oficial podés descargar un estatuto tipo, modelo Resolución 7/2015.",
+      "La guía oficial está en proceso de actualización; consultá el marco normativo vigente antes de presentar."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Mesa General de Entradas",
+      "direccion": "Paseo Colón 285",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/constituir-una-asociacion-civil-en-la-inspeccion-general-de-justicia"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/constituir-una-asociacion-civil-en-la-inspeccion-general-de-justicia",
+      "titulo": "Constituir una asociación civil en la Inspección General de Justicia",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:53:55.023Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "pasos"
+      ],
+      "consultada_en": "2026-10-26T04:53:55.023Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se indica el monto de los 5 módulos del trámite común; hay que calcularlo.",
+    "No se indica cuánto tarda la IGJ en resolver el trámite.",
+    "No se detalla el horario de atención de la Mesa General de Entradas."
+  ]
+}

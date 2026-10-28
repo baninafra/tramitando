@@ -1,0 +1,130 @@
+{
+  "tramite": {
+    "slug": "inscripcion-en-el-sistema-de-proveedores-del-estado",
+    "nombre": "Inscripción en el Sistema de Proveedores del Estado",
+    "nombre_busqueda": "Inscripción en el Sistema de Proveedores del Estado",
+    "resumen": "Registrate en COMPR.AR para poder contratar con la Administración Pública Nacional. Es necesario para personas físicas, jurídicas y otras entidades. Se requiere documentación específica según el tipo de personería y una clave fiscal.",
+    "sinonimos": [
+      "Inscripción en COMPR.AR",
+      "Inscripción en SIPRO",
+      "Registro de proveedor en el Estado"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo",
+      "cuil-y-clave-de-seguridad-social",
+      "cuit-y-clave-fiscal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Oficina Nacional de Contrataciones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas físicas",
+      "Personas jurídicas",
+      "Sociedades de hecho",
+      "Cooperativas",
+      "Mutuales",
+      "Uniones Transitorias de Empresas (UTE)",
+      "Organismos públicos"
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento Nacional de Identidad o Pasaporte del titular (frente y dorso)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contrato social o estatuto inscripto en la Inspección General de Justicia o Registro Público pertinente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ampliaciones estatutarias y/o actualizaciones inscriptas en la Inspección General de Justicia o Registro Público correspondiente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ultima acta de designación de autoridades y distribución de cargos y/o designación de gerente de SRL",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta de asamblea constitutiva, estatutos u otros y sus actualizaciones",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento Nacional de Identidad o Pasaporte de los socios (frente y dorso)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contrato constitutivo de la UTE inscripto en la Inspección General de Justicia o Registro Público correspondiente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Instrumento donde conste la designación de representantes legales de la UTE inscripto en la Inspección General de Justicia o Registro Público correspondiente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento Nacional de Identidad o Pasaporte de los administradores (frente y dorso)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta de Administrador Legitimado",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Adherite al servicio en AFIP bajo la opción Administrador de Relaciones de Clave Fiscal, buscando Secretaría de Innovación Pública y Trámites a Distancia."
+      },
+      {
+        "texto": "Ingresá al portal Trámites a Distancia (TAD) y seleccioná el trámite Inscripción Proveedor."
+      },
+      {
+        "texto": "Completá el Formulario de Pre-Inscripción disponible en el portal COMPR.AR de acuerdo al tipo de personería."
+      },
+      {
+        "texto": "Cargá la documentación requerida de acuerdo al tipo de personería correspondiente."
+      },
+      {
+        "texto": "Actualizá los datos en el formulario de pre-inscripción ingresando a COMPR.AR con tu usuario y contraseña."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "60 días hábiles",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscripcion-en-el-sistema-de-proveedores-del-estado",
+      "titulo": "Inscripción en el Sistema de Proveedores del Estado | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T00:19:00.354Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/jefatura/ejecutiva/oficina-nacional-de-contrataciones",
+      "titulo": "Oficina Nacional de Contrataciones | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T00:19:00.354Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto del trámite es gratuito.",
+    "La fecha de vigencia exacta del trámite.",
+    "La fecha de vigencia exacta del trámite."
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "tramite": {
+    "slug": "solicitar-informe-sobre-encuadre-de-alimentos",
+    "nombre": "Solicitar informe sobre encuadre de alimentos",
+    "nombre_busqueda": "solicitar informe encuadre alimentos codigo alimentario",
+    "resumen": "Para obtener el RNPA, necesitás una nota de solicitud con datos del producto y el RNE vigente. El trámite tiene costo y se hace en línea en TAD.",
+    "sinonimos": [
+      "solicitud de encuadre alimentos",
+      "informe CAA RNPA"
+    ],
+    "temas": [
+      "bromatologia-y-alimentos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMAT",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Si es una firma elaboradora o importadora."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de solicitud de evaluación con motivo y finalidad, datos del solicitante y características del producto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Registro Nacional de Establecimiento (RNE) vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fórmula cuali-cuantitativa completa del producto con ingredientes, aditivos y porcentajes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Proceso de elaboración del producto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Condiciones de conservación, modo de uso o preparación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Especificaciones físico-químicas y microbiológicas del producto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Antecedentes normativos internacionales y/o evidencia de comercialización.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Rótulo del producto.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá en la plataforma TAD."
+      },
+      {
+        "texto": "Completá el formulario y adjuntá la documentación requerida."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-informe-sobre-encuadre-de-alimentos-en-el-marco-de-la-normativa-vigente-codigo",
+      "titulo": "Solicitar Informe sobre encuadre de alimentos en el marco de la normativa vigente, Código Alimentario Argentino (CAA), para el otorgamiento del RNPA ante quien corresponda | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T09:20:46.627Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T09:20:46.627Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no se especifica en el texto, consultá el listado de aranceles en la página oficial."
+  ]
+}

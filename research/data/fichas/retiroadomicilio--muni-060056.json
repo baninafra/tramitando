@@ -1,0 +1,84 @@
+{
+  "tramite": {
+    "slug": "servicio-de-retiro-de-residuos-voluminosos-a-domicilio",
+    "nombre": "Servicio de retiro de residuos voluminosos a domicilio",
+    "nombre_busqueda": "Retiro de residuos voluminosos a domicilio",
+    "resumen": "Servicio para retirar residuos de pequeñas podas (hasta 15 kg) y pequeños trabajos de construcción (hasta 1/4 m³) a domicilio. Se debe avisar por WhatsApp y sacar los residuos el día anterior según la zona.",
+    "sinonimos": [
+      "Retiro de poda voluminosa",
+      "Retiro de escombros a domicilio",
+      "Retiro de residuos de construcción"
+    ],
+    "temas": [
+      "recoleccion-de-residuos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Vecinos de Bahía Blanca"
+    ],
+    "requisitos": [
+      {
+        "texto": "Avisar al WhatsApp 2914325325",
+        "aclaracion": null
+      },
+      {
+        "texto": "Indicar domicilio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Indicar tipo de residuo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Sacar los residuos el día anterior a ser retirado según zona",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Gestión Urbana",
+      "direccion": "Alsina 65",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/retiroadomicilio/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/retiroadomicilio/",
+      "titulo": "Servicio de retiro de residuos voluminosos a domicilio | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T03:18:29.075Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos para personas mayores o menores de edad.",
+    "No se especifican requisitos para empresas o contratistas.",
+    "No se especifica el plazo de respuesta o confirmación del retiro.",
+    "No se especifica si el servicio es gratuito o tiene costo.",
+    "No se especifica la fecha de vigencia del servicio.",
+    "No se especifica si se requiere turno para solicitar el servicio."
+  ]
+}

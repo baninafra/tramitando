@@ -1,0 +1,88 @@
+{
+  "tramite": {
+    "slug": "ocupacion-de-calzada",
+    "nombre": "Ocupación de calzada",
+    "nombre_busqueda": "Ocupación de calzada",
+    "resumen": "Para sacar escombros, tierra, arena u otros materiales de construcción, necesitás un permiso que se tramita en el Juzgado de Faltas y luego en la Municipalidad.",
+    "sinonimos": [
+      "Permiso de ocupación de vía",
+      "Permiso de escombros"
+    ],
+    "temas": [
+      "cortes-y-uso-de-la-via-publica"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141498",
+  "organismo": {
+    "nombre": "Municipalidad de Tancacha",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que necesite sacar materiales de construcción."
+    ],
+    "requisitos": [
+      {
+        "texto": "Hacer el pedido en el Juzgado de Faltas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dirigirse con el pedido a la Municipalidad, en la parte de Atención al Público.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Hacé el pedido en el Juzgado de Faltas."
+      },
+      {
+        "texto": "Dirijite con el pedido a la Municipalidad, en la parte de Atención al Público, y solicitá el permiso correspondiente."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 500000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.tancacha.gob.ar/ocupacionCalzada.html"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.tancacha.gob.ar/ocupacionCalzada.html",
+      "titulo": "Municipalidad de Tancacha",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T12:28:59.764Z"
+    },
+    {
+      "url": "https://www.tancacha.gob.ar/index.html",
+      "titulo": "Municipalidad de Tancacha",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T12:28:59.764Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de la oficina de Atención al Público",
+    "Dirección exacta del Juzgado de Faltas",
+    "Plazo de tramitación",
+    "Si se requiere turno"
+  ]
+}

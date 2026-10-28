@@ -1,0 +1,104 @@
+{
+  "tramite": {
+    "slug": "ingreso-electronica-participantes-programas-intercambio-estudiantil",
+    "nombre": "Ingreso electrónica participantes programas intercambio estudiantil",
+    "nombre_busqueda": "Ingreso electrónica intercambio estudiantil",
+    "resumen": "Permiso de ingreso para extranjeros que cursan estudios en Argentina bajo convenios de intercambio estudiantil. Requiere constancia de inscripción, pasaporte válido y, en algunos casos, antecedentes penales legalizados.",
+    "sinonimos": [
+      "TIE estudiantil",
+      "Ingreso electrónico intercambio",
+      "Permiso ingreso intercambio"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria",
+      "visas-y-autorizaciones-de-viaje"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Migraciones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El ingresante",
+      "El requirente: Entidad organizadora del Programa de Intercambio debidamente inscripta en el Registro Nacional Único de Requirentes (Re.N.U.R.E.)",
+      "El apoderado del requirente: Con poder/designación con facultades suficientes (ante escribano público)"
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia de inscripción electrónica al programa de intercambio estudiantil suscrita por el responsable de la entidad organizadora registrada ante el Re.N.U.R.E.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pasaporte válido y vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Foto del ingresante tomada al momento de la carga del trámite (rostro con fondo blanco, formato JPG).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Convenio Internacional o Carta de aceptación (formato PDF).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado que acredite fehacientemente que no registra condenas anteriores ni procesos penales en trámite, emitido por las autoridades competentes de los países donde haya residido por un plazo superior a un año durante los últimos tres años.",
+        "aclaracion": "Solo exigible a mayores de 16 años."
+      },
+      {
+        "texto": "Autorización de sus padres y acreditar la designación de un representante legal en el territorio nacional.",
+        "aclaracion": "Solo para estudiantes menores."
+      },
+      {
+        "texto": "Toda documentación expedida en el extranjero deberá contar con la legalización del Consulado Argentino, sito en el país emisor del documento, o apostillada, si el país hubiera ratificado el Convenio de La Haya; y su correspondiente traducción al idioma español.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá tu trámite a distancia ingresando en Tramitación de Ingreso Electrónico- TIE 24H."
+      },
+      {
+        "texto": "Adjuntá la documentación y datos requeridos según el tipo de ingreso que solicités."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Una vez resuelto el trámite, recibirás una notificación mediante correo electrónico con la constancia de la autorización de ingreso, la cual deberás exhibir al inspector al momento de someterte al control migratorio cuando ingreses a la República Argentina."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tramitacion-de-ingreso-electronica-participantes-de-programas-de-intercambio-estudiantil",
+      "titulo": "Tramitación de Ingreso Electrónica - Participantes de programas de Intercambio Estudiantil | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T18:19:14.558Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T18:19:14.558Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto en centavos de peso no se especifica en el texto, solo se menciona referencia al cuadro de tasas migratorias.",
+    "El plazo exacto de resolución no se especifica en el texto.",
+    "La dirección de las oficinas no se especifica en el texto."
+  ]
+}

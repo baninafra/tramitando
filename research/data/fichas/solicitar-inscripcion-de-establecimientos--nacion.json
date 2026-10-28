@@ -1,0 +1,110 @@
+{
+  "tramite": {
+    "slug": "solicitud-inscripcion-establecimientos",
+    "nombre": "Solicitud inscripción de establecimientos",
+    "nombre_busqueda": "inscripción establecimientos médicos",
+    "resumen": "Trámite para que las obras sociales y prepagas contraten prestadores en el Registro Nacional de Prestadores. Es gratis y se hace en línea.",
+    "sinonimos": [
+      "inscripción de establecimientos médicos asistenciales",
+      "inscripción de redes de prestadores"
+    ],
+    "temas": [
+      "obra-social-y-prepaga"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Servicios de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Establecimientos médico-asistenciales",
+      "Asociaciones de profesionales o de establecimientos",
+      "Redes de prestadores"
+    ],
+    "requisitos": [
+      {
+        "texto": "Solicitud de inscripción suscrita por el director médico o representante legal con firma autenticada por escribano público o entidad bancaria",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de la habilitación otorgada por la autoridad sanitaria jurisdiccional autenticada por el organismo emisor o escribano público",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia simple del certificado de inscripción en el Registro Nacional de Prestadores del Director Médico/Técnico",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia simple de la Constancia de inscripción ante la ARCA de la Razón Social propietaria del establecimiento",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia certificada por escribano público del poder amplio o acto administrativo con la designación del representante legal (si aplica)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia certificada por escribano público del contrato constitutivo de la Asociación (si es asociación)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Listado de prestadores en formato Excel con nombre, domicilio, localidad, provincia, número de inscripción vigente y fecha de vencimiento",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia simple del certificado de inscripción en el Registro de Prestadores de cada prestador individualmente inscripto",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia simple de la constancia de inscripción ante la ARCA de la Asociación (si es asociación)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia certificada del contrato constitutivo de la Red (si es red)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta de adhesión firmada por los establecimientos o profesionales que decidan adherir a la Red (si es red)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia certificada por escribano público del Estatuto o Contrato Constitutivo de la Razón Social (si es emergencia médica y traslados)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma de Trámites A Distancia"
+      },
+      {
+        "texto": "Cargá la documentación solicitada"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-inscripcion-de-establecimientos",
+      "titulo": "Solicitar inscripción de establecimientos | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T08:51:33.083Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite no está indicada en el texto."
+  ]
+}

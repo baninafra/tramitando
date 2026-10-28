@@ -1,0 +1,80 @@
+{
+  "tramite": {
+    "slug": "certificacion-deudas-municipales",
+    "nombre": "Certificación de Deudas Municipales",
+    "nombre_busqueda": "Certificación deudas municipales coronel suarez",
+    "resumen": "Documento que acredita el estado de las deudas municipales del contribuyente, útil para trámites bancarios o administrativos.",
+    "sinonimos": [
+      "Certificado de deuda municipal",
+      "Comprobante de deuda municipal",
+      "Certificado de saneamiento municipal"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "catastro-e-inmuebles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060203",
+  "organismo": {
+    "nombre": "Municipalidad de Coronel Suárez",
+    "sigla": null,
+    "web": "https://www.coronelsuarez.gob.ar/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier contribuyente municipal que desee acreditar su estado de deudas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia de D.N.I.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercarse a la Municipalidad o a la delegación más cercana a su domicilio."
+      },
+      {
+        "texto": "Presentar la fotocopia de su D.N.I."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultar el costo específico antes de realizar el trámite.",
+      "Verificar si se requiere visado de planos o documentación adicional según el caso."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Municipalidad de Coronel Suárez",
+      "direccion": "Las Heras 846",
+      "localidad": "Coronel Suárez",
+      "horario": null,
+      "fuente_url": "https://www.coronelsuarez.gob.ar/tramites/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.coronelsuarez.gob.ar/tramites/",
+      "titulo": "Trámites – Municipalidad de Coronel Suárez",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T04:45:06.521Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Plazo de emisión del certificado.",
+    "Costo exacto del trámite."
+  ]
+}

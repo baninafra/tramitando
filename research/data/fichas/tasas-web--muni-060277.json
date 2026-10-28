@@ -1,0 +1,72 @@
+{
+  "tramite": {
+    "slug": "consulta-y-pago-de-tasas-municipales",
+    "nombre": "Consulta y pago de tasas municipales",
+    "nombre_busqueda": "Consulta y pago de tasas municipales",
+    "resumen": "Permite consultar y pagar tasas municipales a través de la Suite RAFAM.",
+    "sinonimos": [],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060277",
+  "organismo": {
+    "nombre": "Municipalidad de General Alvear",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en consultar o pagar tasas municipales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Datos personales para identificar al usuario.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la Suite RAFAM."
+      },
+      {
+        "texto": "Seleccioná el trámite de consulta y pago de tasas."
+      },
+      {
+        "texto": "Ingresá tus datos personales."
+      },
+      {
+        "texto": "Consultá las tasas vigentes."
+      },
+      {
+        "texto": "Realizá el pago si lo necesitás."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://tasas.ameghino.gob.ar/tasas-web",
+      "titulo": "Suite RAFAM",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T13:12:50.763Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos de tasas.",
+    "No se especifican plazos de pago.",
+    "No se especifican requisitos detallados más allá de datos personales.",
+    "No se especifican pasos adicionales como retiro de comprobante."
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "tramite": {
+    "slug": "inscripcion-operadores-directores-tecnicos-centros-tratamientos",
+    "nombre": "Inscribir/Reinscribir operadores y directores técnicos de centros de tratamientos",
+    "nombre_busqueda": "Inscribir operadores y directores técnicos centros tratamientos",
+    "resumen": "Si sos operador o director técnico de centros de tratamiento cuarentenarios (CTC) con bromuro de metilo o frío, tenés que inscribirte en el registro del Senasa. El trámite es gratuito, se hace en línea y lleva 5 días hábiles.",
+    "sinonimos": [
+      "Inscripción operadores CTC Senasa",
+      "Registro directores técnicos bromuro metilo"
+    ],
+    "temas": [
+      "salud-y-prevencion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Persona física con secundario completo que se desempeñe como Operador e Ingeniero Agrónomo que cumple tareas de Director Técnico."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de solicitud de inscripción al registro del Senasa de operadores para CTC con bromuro de metilo y con frio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditar estudios secundarios completos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de aprobación del curso como operador técnico, dictado por el Senasa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario solicitud de inscripción de directores técnicos para Centros de Tratamiento Cuarentenarios (CTC) con bromuro de metilo y con frio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia certificada del título universitario de ingeniero agrónomo y matricula profesional vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de aprobación del curso como director técnico, dictado por el Senasa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declarar domicilio electrónico.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma TAD: Inscripión Reinscripción."
+      },
+      {
+        "texto": "Completá el formulario de solicitud de inscripción."
+      },
+      {
+        "texto": "Adjuntá la documentación."
+      },
+      {
+        "texto": "Vas a recibir la confirmación en tu correo electrónico."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "5 dias hábiles",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Protección Vegetal",
+      "direccion": "Venezuela N° 162, C1095AAD - CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribirreinscribir-operadores-y-directores-tecnicos-de-centros-de-tratamientos"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribirreinscribir-operadores-y-directores-tecnicos-de-centros-de-tratamientos",
+      "titulo": "Inscribir/Reinscribir operadores y directores técnicos de centros de tratamientos cuarentenarios de productos de origen vegetal | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T17:28:03.805Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T17:28:03.805Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia de la inscripción se menciona como '2 años a partir de otorgada la inscripción', pero no se especifica una fecha de inicio o fin exacta en el texto."
+  ]
+}

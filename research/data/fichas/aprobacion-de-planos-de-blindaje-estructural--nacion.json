@@ -1,0 +1,93 @@
+{
+  "tramite": {
+    "slug": "aprobacion-de-planos-de-blindaje-estructural",
+    "nombre": "Aprobación de planos de blindaje estructural",
+    "nombre_busqueda": "aprobar planos de blindaje estructural",
+    "resumen": "Pedí al Ministerio de Salud la aprobación de los planos de blindaje estructural de un establecimiento. Se hace en línea por TAD y es gratuito.",
+    "sinonimos": [
+      "blindaje estructural",
+      "aprobación de planos de blindaje"
+    ],
+    "temas": [
+      "obras-y-construccion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Salud de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El titular del establecimiento o su apoderado."
+    ],
+    "requisitos": [
+      {
+        "texto": "Contar con CUIT y Clave Fiscal para ingresar a TAD.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Completar la nota de solicitud en línea en TAD.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Subir una foto de una nota escrita a puño y letra que diga: «El trámite es no arancelado de acuerdo a la Resolución Ministerial N° 1938/2025».",
+        "aclaracion": "Reemplaza al ítem «Comprobante de pago» hasta que se actualice la plataforma TAD."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD con tu CUIT y Clave Fiscal y buscá el trámite de aprobación de planos de blindaje estructural."
+      },
+      {
+        "texto": "Completá la nota de solicitud en línea."
+      },
+      {
+        "texto": "Subí la foto de la nota escrita a mano donde consta que el trámite es no arancelado."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Ingresá desde una computadora con Mozilla Firefox o Google Chrome: desde celulares u otros dispositivos móviles se detectaron inconvenientes.",
+      "Las consultas por correo se atienden de lunes a viernes de 10 a 16 y por teléfono de lunes a viernes de 10 a 13 al 011 4379-9000, internos 4669 y 4670.",
+      "La atención al público es de lunes a viernes de 10 a 13."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "Trámite",
+      "gratis": true,
+      "monto_centavos": null,
+      "vigente_desde": null,
+      "nota": "No arancelado según la Resolución Ministerial N° 1938/2025.",
+      "fuente_url": "https://www.argentina.gob.ar/servicio/aprobacion-de-planos-de-blindaje-estructural"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/aprobacion-de-planos-de-blindaje-estructural",
+      "titulo": "Aprobación de planos de blindaje estructural | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:32:06.860Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No figura cuánto tarda la aprobación.",
+    "No figura la fecha exacta desde la que rige la gratuidad de la Resolución Ministerial N° 1938/2025.",
+    "No figura la dirección de la oficina de atención al público.",
+    "El correo electrónico de consultas aparece protegido en la página y no se pudo leer."
+  ]
+}

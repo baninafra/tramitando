@@ -1,0 +1,109 @@
+{
+  "tramite": {
+    "slug": "registro-de-integrantes-de-grupos-cambio-rural",
+    "nombre": "Inscribirse en el registro de integrantes de grupos Cambio Rural",
+    "nombre_busqueda": "inscripción grupos Cambio Rural",
+    "resumen": "Cambio Rural te da asistencia técnica, capacitación y acceso a otros programas del Estado, y financia parte de los honorarios de un promotor asesor que coordina el trabajo del grupo. Si sos pequeño o mediano productor rural, podés inscribir tu grupo en el registro.",
+    "sinonimos": [
+      "Cambio Rural",
+      "Registro de grupos Cambio Rural",
+      "Integrante de grupo Cambio Rural"
+    ],
+    "temas": [
+      "produccion-rural",
+      "apoyo-a-productores"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Secretaría de Agricultura, Ganadería y Pesca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas físicas, asociaciones civiles, cooperativas y consorcios agropecuarios que no puedan hacer la titulación con recursos propios.",
+      "Comunidades de pueblos originarios que no puedan hacer la titulación con recursos propios."
+    ],
+    "requisitos": [
+      {
+        "texto": "Pedí usuario y contraseña a la Mesa de Ayuda de Cambio Rural",
+        "aclaracion": "Escribí a soportecr@magyp.gob.ar."
+      },
+      {
+        "texto": "Nombre y apellido con las dos caras del DNI escaneadas",
+        "aclaracion": null
+      },
+      {
+        "texto": "Función que cumplís: representante o candidato a promotor o asesor",
+        "aclaracion": null
+      },
+      {
+        "texto": "Provincia, EEA y AER del INTA",
+        "aclaracion": "La EEA es la Estación Experimental Agropecuaria y la AER la Agencia de Extensión Rural."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Cargá el Acta de Conformación de Grupos y la Solicitud de registro de integrante de grupo en la web de Cambio Rural."
+      },
+      {
+        "texto": "Imprimí el acta y la solicitud y hacé que todos los integrantes del grupo firmen todas las hojas."
+      },
+      {
+        "texto": "Hacé certificar las firmas por una autoridad competente."
+      },
+      {
+        "texto": "Mandá el acta y una solicitud de registro por cada integrante a la Coordinación Nacional del Programa Cambio Rural, Av. Paseo Colón 982, C.P. 1063, Ciudad Autónoma de Buenos Aires."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "45 días desde la apertura.",
+    "consejos": [
+      "Consultá el instructivo para la inscripción de nuevos grupos que está disponible en la página del trámite."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "Inscripción",
+      "gratis": true,
+      "monto_centavos": null,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribirse-en-el-registro-de-integrantes-de-grupos-cambio-rural"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Coordinación Nacional Programa Cambio Rural",
+      "direccion": "Av. Paseo Colón 982",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribirse-en-el-registro-de-integrantes-de-grupos-cambio-rural"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribirse-en-el-registro-de-integrantes-de-grupos-cambio-rural",
+      "titulo": "Inscribirse en el Registro de Integrantes de Grupos Cambio Rural",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T00:12:09.920Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se indica si hace falta turno.",
+    "No se informa el horario de atención de la Coordinación Nacional."
+  ]
+}

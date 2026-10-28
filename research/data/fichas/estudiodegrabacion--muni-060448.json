@@ -1,0 +1,76 @@
+{
+  "tramite": {
+    "slug": "turno-estudio-grabacion-sala-ensayos",
+    "nombre": "Pedir turno para el estudio de grabación o sala de ensayos",
+    "nombre_busqueda": "turno para el estudio de grabación de Laprida",
+    "resumen": "Podés pedir un turno para usar el estudio de grabación o la sala de ensayos. El uso es gratuito y tenés que solicitarlo personalmente.",
+    "sinonimos": [
+      "turno para sala de ensayos"
+    ],
+    "temas": [
+      "cultura-deportes-y-turismo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060448",
+  "organismo": {
+    "nombre": "Municipalidad de Laprida",
+    "sigla": null,
+    "web": "https://www.laprida.gov.ar"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que quieran usar el estudio de grabación o la sala de ensayos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Presentate personalmente para solicitar el turno.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Dirigite al Complejo Municipal de las Artes entre las 8 y las 20 para solicitar el turno."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": true,
+      "monto_centavos": null,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.laprida.gov.ar/index.php/contenido/p/estudiodegrabacion"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Complejo Municipal de las Artes",
+      "direccion": "Santamarina 1322",
+      "localidad": "Santamarina 1322",
+      "horario": null,
+      "fuente_url": "https://www.laprida.gov.ar/index.php/contenido/p/estudiodegrabacion"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.laprida.gov.ar/index.php/contenido/p/estudiodegrabacion",
+      "titulo": "Municipalidad de Laprida",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T14:29:53.945Z"
+    }
+  ],
+  "sin_confirmar": []
+}

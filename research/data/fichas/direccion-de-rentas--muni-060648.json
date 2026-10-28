@@ -1,0 +1,83 @@
+{
+  "tramite": {
+    "slug": "planes-de-pago-municipales",
+    "nombre": "Solicitar plan de pago en cuotas",
+    "nombre_busqueda": "Plan de pago cuotas deuda municipal",
+    "resumen": "Para regularizar la deuda municipal y pagar en cuotas, se requiere presentar documentación del inmueble, DNI y boletos de compra-venta o escrituras, abonando la primera cuota en el momento del trámite.",
+    "sinonimos": [
+      "Pago en cuotas deuda",
+      "Regularizar deuda municipal",
+      "Plan de cuotas Edesur"
+    ],
+    "temas": [
+      "planes-de-pago-municipales",
+      "libre-deuda-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060648",
+  "organismo": {
+    "nombre": "Dirección de Rentas",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de inmuebles con deuda municipal regularizable."
+    ],
+    "requisitos": [
+      {
+        "texto": "Boleto de Compra-Venta ó Cesión de Derechos (con el sellado de ARBA correspondiente) con la correspondiente cadena de boletos de compra hasta llegar al titular de dominio ó Escritura.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI, primera y segunda hoja (cambio de domicilio si tuviera).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ultimo recibo de Edesur del inmueble en cuestión.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Libre Deuda Municipal, la misma debe ser regularizada a la fecha del trámite.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentar la documentación original y las fotocopias correspondientes."
+      },
+      {
+        "texto": "Abonar la primera cuota del plan en el momento de realizar el trámite."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La deuda debe estar regularizada a la fecha del trámite.",
+      "Si hubo cambio de domicilio, presentá la hoja correspondiente del DNI."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://presidenteperon.gob.ar/direccion-de-rentas/",
+      "titulo": "Dirección de Rentas – Presidente Perón",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T03:37:02.848Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el monto de la cuota o el plazo para regularizar la deuda.",
+    "No se indica si el trámite se realiza en línea o presencialmente.",
+    "No se especifica la dirección exacta de la oficina ni la localidad."
+  ]
+}

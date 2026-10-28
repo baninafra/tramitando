@@ -1,0 +1,89 @@
+{
+  "tramite": {
+    "slug": "reclamos-y-denuncias-omic",
+    "nombre": "Reclamos y denuncias ante la OMIC",
+    "nombre_busqueda": "Reclamos y denuncias ante la OMIC",
+    "resumen": "Podés efectuar reclamos o denuncias ante la Oficina Municipal de Información al Consumidor presentando un formulario firmado y documentación que respalde el hecho. Para servicios públicos, primero debés hacerlo ante la empresa prestataria.",
+    "sinonimos": [
+      "Denuncias ante la OMIC",
+      "Reclamos al consumidor municipal",
+      "Oficina Municipal de Información al Consumidor"
+    ],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060266",
+  "organismo": {
+    "nombre": "Oficina Municipal de Información al Consumidor",
+    "sigla": "OMIC",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Los consumidores que deseen efectuar reclamos o denuncias."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de denuncia completado y firmado por el titular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota detallando el motivo del reclamo o denuncia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que respalde el hecho de consumo (facturas de compra, presupuestos, contratos, etc.).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Completá el formulario de denuncia que se facilita en la página oficial."
+      },
+      {
+        "texto": "Firmitelo como titular."
+      },
+      {
+        "texto": "Presentalo ante la OMIC junto con la nota detallando el motivo y la documentación que respalde el hecho."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.exaltaciondelacruz.gob.ar/OMIC/?page_id=148",
+      "titulo": "¿Cómo denunciar? – OMIC – Municipalidad de Exaltación de la Cruz",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T06:43:33.523Z"
+    },
+    {
+      "url": "https://www.exaltaciondelacruz.gob.ar/OMIC/",
+      "titulo": "OMIC – Municipalidad de Exaltación de la Cruz – Oficina Municipal de Información al Consumidor",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T06:43:33.523Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se especifica que en los casos sobre servicios públicos se deben efectuar las denuncias ante la empresa prestataria en primer término, pero no se detalla si esto aplica también para los reclamos generales ante la OMIC o si hay excepciones específicas.",
+    "No se indica si los trámites requieren la presentación de turno o no.",
+    "No se especifica la dirección exacta de la oficina ni la localidad donde se puede realizar la presentación.",
+    "No se menciona si existen audiencias de conciliación obligatorias para todos los casos o solo para ciertos tipos de reclamos."
+  ]
+}

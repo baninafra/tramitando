@@ -1,0 +1,105 @@
+{
+  "tramite": {
+    "slug": "solicitar-certificado-decreto-124498-suplemento-veterano-malvinas",
+    "nombre": "Solicitar certificado de decreto 1244/98 (suplemento de veterano de malvinas)",
+    "nombre_busqueda": "certificado decreto 1244 98 veterano malvinas",
+    "resumen": "Certificá que no recibís beneficios como veterano de Malvinas a través del IAF. El trámite es gratuito y toma 10 días hábiles.",
+    "sinonimos": [
+      "certificado no percibo beneficio veterano malvinas",
+      "certificado decreto 1244 98"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Veteranos de Malvinas que cobren su beneficio a través del IAF según el decreto 1244/98."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del titular.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá con tu CUIL y contraseña al portal eIAF Beneficiarios o a la App eIAF."
+      },
+      {
+        "texto": "Dejanos tu solicitud en el apartado Sistema Integrado de Consultas."
+      },
+      {
+        "texto": "Personal de Atención al Público te indicará los pasos a seguir para realizar el trámite."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate con la documentación requerida a la sede central del IAF en CABA o a las Delegaciones del Interior."
+      },
+      {
+        "texto": "Presentate en el horario de 08:00 a 13:00 horas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "10 días hábiles",
+    "consejos": [
+      "El certificado no acredita la condición de Veterano de Malvinas.",
+      "El trámite debe gestionarse exclusivamente ante la Coordinación de Veteranos de Guerra del Ministerio de Defensa a través de la plataforma TAD."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede central del IAF",
+      "direccion": "Cerrito 572",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-decreto-124498-suplemento-de-veterano-de-malvinas"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-decreto-124498-suplemento-de-veterano-de-malvinas",
+      "titulo": "Solicitar certificado de Decreto 1244/98 (Suplemento de Veterano de Malvinas). | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T07:47:52.302Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/iaf",
+      "titulo": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T07:47:52.302Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T07:47:52.302Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La dirección exacta de las Delegaciones del Interior no se especifica en el texto.",
+    "El horario de atención para las Delegaciones del Interior no se especifica en el texto."
+  ]
+}

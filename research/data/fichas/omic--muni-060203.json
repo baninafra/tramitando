@@ -1,0 +1,87 @@
+{
+  "tramite": {
+    "slug": "presentacion-de-denuncia-ante-la-omic",
+    "nombre": "Presentación de denuncia ante la OMIC",
+    "nombre_busqueda": "Denuncia OMIC Coronel Suárez",
+    "resumen": "Para presentar un reclamo ante la OMIC, completá un formulario y llevá tu DNI más la documentación que respalde tu caso. La oficina intentará resolver el conflicto por conciliación o aplicará sanciones si se violó la ley.",
+    "sinonimos": [
+      "Reclamo ante OMIC",
+      "Denuncia al Consumidor Coronel Suárez",
+      "Oficina Municipal de Información al Consumidor"
+    ],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060203",
+  "organismo": {
+    "nombre": "OMIC",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas físicas o jurídicas de cualquier nacionalidad o procedencia que sean destinatarios finales de bienes y servicios para su consumo o uso particular, familiar o colectivo.",
+      "Cuando el proveedor tenga carácter empresarial o profesional.",
+      "Cuando el proveedor sea la misma Administración Pública."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de denuncia completado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que respalde el reclamo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Completá el formulario de denuncia."
+      },
+      {
+        "texto": "Concurrí a la oficina de la OMIC en Av. Alsina 150."
+      },
+      {
+        "texto": "Presentá el formulario y tu documentación."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "OMIC",
+      "direccion": "Av. Alsina 150",
+      "localidad": "Coronel Suárez",
+      "horario": null,
+      "fuente_url": "https://www.coronelsuarez.gob.ar/omic/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.coronelsuarez.gob.ar/omic/",
+      "titulo": "OMIC – Municipalidad de Coronel Suárez",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T04:47:08.788Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horario de atención en la oficina.",
+    "Plazo para resolver el reclamo."
+  ]
+}

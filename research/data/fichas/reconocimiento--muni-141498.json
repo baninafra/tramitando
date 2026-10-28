@@ -1,0 +1,86 @@
+{
+  "tramite": {
+    "slug": "reconocimiento-de-hijo",
+    "nombre": "Reconocimiento de hijo",
+    "nombre_busqueda": "Reconocimiento de hijo",
+    "resumen": "Permite reconocer legalmente a un hijo/a biológico/a por voluntad propia. Se requiere DNI del reconociente y datos de la partida de nacimiento del menor.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141498",
+  "organismo": {
+    "nombre": "Municipalidad de Tancacha",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Una persona que desee reconocer legalmente a su hijo/a biológico/a."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del reconociente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos de la partida de nacimiento del hijo/a que se pretende reconocer.",
+        "aclaracion": "La partida de nacimiento debe tener no más de 6 meses de expedición."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1161000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.tancacha.gob.ar/reconocimiento.html"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.tancacha.gob.ar/reconocimiento.html",
+      "titulo": "Municipalidad de Tancacha - Reconocimiento",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T09:44:39.297Z"
+    },
+    {
+      "url": "https://www.tancacha.gob.ar/index.html",
+      "titulo": "Municipalidad de Tancacha - Inicio",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T09:44:39.297Z"
+    },
+    {
+      "url": "https://cidi.cba.gov.ar/portal-publico/?App=579",
+      "titulo": "Ciudadano Digital",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T09:44:39.297Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina para realizar el trámite.",
+    "Horarios de atención.",
+    "Si se requiere turno para realizar el trámite.",
+    "Plazo de atención estimado."
+  ]
+}

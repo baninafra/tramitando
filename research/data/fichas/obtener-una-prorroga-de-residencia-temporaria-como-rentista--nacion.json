@@ -1,0 +1,103 @@
+{
+  "tramite": {
+    "slug": "prorroga-residencia-temporaria-rentista",
+    "nombre": "Obtener una prórroga de residencia temporaria como rentista",
+    "nombre_busqueda": "prorroga residencia rentista",
+    "resumen": "Extendé tu permanencia en el país si tenés residencia temporaria como rentista y acreditás que tu renta sigue siendo suficiente.",
+    "sinonimos": [
+      "prórroga residencia rentista",
+      "extensión residencia temporaria rentista"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria",
+      "residencias-temporarias-y-permanentes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Seguridad Nacional",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas extranjeras que hayan obtenido una residencia temporaria en la categoría de rentista y deseen extender su permanencia."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento Nacional de Identidad o Pasaporte válido y vigente (todas las nacionalidades).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Nacionalidad emitido por autoridad Consular, con fotografía y legalizado por el Ministerio de Relaciones Exteriores, Comercio Internacional y Culto de la Nación (si aplica).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Antecedentes Penales Argentinos emitido por el Registro Nacional de Reincidencia (solo para mayores de 16 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación probatoria que acredite la continuidad como rentista.",
+        "aclaracion": null
+      },
+      {
+        "texto": "El monto de la renta percibida debe ser equivalente o superior a la suma de CINCO (5) Salarios Mínimo Vital y Móvil.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá tu trámite a distancia ingresando en el sistema RaDEX."
+      },
+      {
+        "texto": "Registrate como usuario, completá el formulario de solicitud y aboná las tasas correspondientes."
+      },
+      {
+        "texto": "Adjuntá la documentación y datos requeridos según el tipo de residencia a la que quieras aplicar."
+      },
+      {
+        "texto": "Si cumplís con los requisitos para formalizar tu solicitud, recibirás un email con la fecha de tu cita presencial."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La prórroga se otorga por un plazo de 1 año.",
+      "Toda documentación expedida en el extranjero deberá contar con la legalización del Consulado Argentino o ser Apostillada.",
+      "Toda documentación expedida en idioma extranjero deberá contar con la traducción al castellano efectuada por Traductor Público Nacional y legalizada por el Colegio de Traductores.",
+      "La documentación a presentar deberá ser original.",
+      "La Dirección Nacional de Migraciones podrá solicitar documentación adicional si así lo considerase necesario.",
+      "Es necesario que te encuentres dentro del territorio de la República Argentina."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-una-prorroga-de-residencia-temporaria-como-rentista",
+      "titulo": "Obtener una prórroga de residencia temporaria como rentista | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T06:58:59.008Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T06:58:59.008Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de las tasas migratorias no se especifica en el texto, solo se indica que deben abonarse en el sistema RaDEX.",
+    "La URL específica para sacar el turno no se menciona en el texto, solo se indica que se debe buscar por nombre del trámite."
+  ]
+}

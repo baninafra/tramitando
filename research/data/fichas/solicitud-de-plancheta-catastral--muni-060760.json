@@ -1,0 +1,81 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-plancheta-catastral",
+    "nombre": "Solicitud de plancheta catastral",
+    "nombre_busqueda": "Solicitud de plancheta catastral",
+    "resumen": "El titular puede obtener la plancheta catastral digitalmente desde el Portal de Trámites o presencialmente en la Dirección de Catastro. El trámite tarda un día y el documento es válido indefinidamente.",
+    "sinonimos": [],
+    "temas": [
+      "catastro-e-inmuebles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060760",
+  "organismo": {
+    "nombre": "Municipalidad San Miguel",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Contribuyentes",
+      "Profesionales en general"
+    ],
+    "requisitos": [
+      {
+        "texto": "Informar la Nomenclatura catastral",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar a Portal de Trámites."
+      },
+      {
+        "texto": "Dirigirse a la solapa que dice Recursos Territoriales."
+      },
+      {
+        "texto": "Seleccionar Planchetas Municipales."
+      },
+      {
+        "texto": "Seleccionar el Número de Manzana (circunscripción – sección – nro de manzana)."
+      },
+      {
+        "texto": "Seleccionar Aplicar."
+      },
+      {
+        "texto": "En caso de no conocer Número de Manzana, ingresar en el buscador la dirección y ver el nro que le corresponde."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acercarse al Municipio a la Dirección de Catastro y solicitarlo presencialmente."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "un día",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.msm.gov.ar/guia-tramites/catastro/solicitud-de-plancheta-catastral/",
+      "titulo": "Solicitud de Plancheta Catastral - Municipalidad San Miguel",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T13:00:19.622Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del costo no se especifica en el texto, solo se indica que depende de la tarifaria y fiscal vigente.",
+    "No se especifican los requisitos ni los pasos para el caso de quienes no ingresan por el buscador de dirección."
+  ]
+}

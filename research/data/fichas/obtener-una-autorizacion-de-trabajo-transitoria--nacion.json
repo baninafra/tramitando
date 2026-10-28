@@ -1,0 +1,125 @@
+{
+  "tramite": {
+    "slug": "autorizacion-de-trabajo-transitoria",
+    "nombre": "Autorización de trabajo transitoria",
+    "nombre_busqueda": "Autorización de trabajo transitoria",
+    "resumen": "Permiso para personas extranjeras que ingresan como turistas y desean trabajar hasta el vencimiento de su plazo de permanencia original. Se tramita en línea desde el territorio nacional.",
+    "sinonimos": [
+      "Residencia transitoria",
+      "Permiso de trabajo transitorio"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria",
+      "permiso-de-trabajo-para-extranjeros"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Migraciones",
+    "sigla": "DNM",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas extranjeras que ingresen al país como turistas y deseen obtener una Autorización Especial de Trabajo hasta el vencimiento del plazo de permanencia originalmente otorgado."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento de identidad (en original).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de ingreso al país.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción de la firma o persona contratante en el Registro de Requirentes de la Dirección Nacional de Migraciones.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de solicitud de autorización de permiso de trabajo para los extranjeros, donde conste: a) Apellido y nombre. b) Fecha de nacimiento. c) Nacionalidad. d) Tipo y N° de documento. e) Actividad a realizar. f) Plazo de permanencia estimado. g) Domicilio donde residirá (firmada ante escribano públic…",
+        "aclaracion": null
+      },
+      {
+        "texto": "La nota debe encontrarse suscripta por autoridad inscripta en el Registro de Requirentes, con firma certificada por escribano público o agente de la DNM.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Antecedentes Penales Argentinos (si se tramita con cita preferencial).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si no se tiene visado previo: Contar con un invitante/requirente inscripto en el RENURE. Presentar ante el consulado argentino una nota solicitando el visado como residente transitorio consignando la siguiente información: a) Apellido y nombre. b) Fecha de nacimiento. c) Nacionalidad. d) Tipo y N°…",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá tu trámite a distancia ingresando en el sistema RaDEX."
+      },
+      {
+        "texto": "Registrate como usuario, completá el formulario de solicitud y aboná las tasas correspondientes."
+      },
+      {
+        "texto": "Adjuntá la documentación y datos requeridos según el tipo de residencia a la que quieras aplicar."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Recibí un email con la fecha de tu cita presencial."
+      },
+      {
+        "texto": "Presentá la documentación y datos requeridos según el tipo de residencia a la que quieras aplicar."
+      },
+      {
+        "texto": "Recibí la autorización respectiva."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El beneficio obtenido caduca al egresar del país.",
+      "Sólo pueden gestionarse dos autorizaciones por cada 12 meses transcurridos.",
+      "De no contar con la respectiva autorización para desarrollar actividades para las cuales no fuera expresamente autorizado, podría encuadrar su situación y la de su empleador / requirente dentro de las previsiones de los artículo 55, 59, 61 y 62 inciso d) del Decreto 616/10, siendo pasibles de las m…",
+      "El pago de tasa del Turno Urgente es independiente del costo del trámite a efectuar.",
+      "En el supuesto de necesitar iniciar el trámite en forma urgente sin esperar la fecha de turno asignada, puede optar por el Régimen de Tramitación Urgente de Residencia (conforme Disposición DNM N° 2145/12)."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-una-autorizacion-de-trabajo-transitoria",
+      "titulo": "Obtener una Autorización de trabajo transitoria | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T07:08:08.561Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/migraciones/entrada-y-salida-del-pais",
+      "titulo": "Entrada y salida del país | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T07:08:08.561Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T07:08:08.561Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de las tasas migratorias no se especifica en el texto.",
+    "El plazo exacto de tramitación no se especifica en el texto."
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "tramite": {
+    "slug": "solicitar-el-subsidio-de-contencion-familiar",
+    "nombre": "Solicitar el subsidio de contención familiar",
+    "nombre_busqueda": "solicitar subsidio contención familiar fallecimiento jubilado",
+    "resumen": "Reintegro gratuito para familiares que pagaron gastos de sepelio de jubilados fallecidos o niños en tratamiento oncológico. Requiere turno presencial y documentación específica según el caso.",
+    "sinonimos": [
+      "subsidio contención familiar fallecimiento",
+      "reintegro gastos sepelio jubilado"
+    ],
+    "temas": [
+      "familia-y-pareja"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANSES",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que acrediten haber pagado los gastos de sepelio, cremación o inhumación.",
+      "Viudas, viudos, convivientes previsionales, hijos con derecho a la pensión por fallecimiento.",
+      "Otros herederos de la persona fallecida.",
+      "Familiares directos (cónyuge o conviviente previsional, madre o padre o hija o hijo) en caso de fallecimiento por COVID-19.",
+      "Padre, madre o representante legal en caso de fallecimiento de niños o adolescentes en tratamiento oncológico."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI de quien solicita el reintegro.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Partida de defunción del jubilado o pensionado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Factura emitida a tu nombre.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia emitida por empresa o cooperativa de energía, gremio o mutual.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Póliza de la compañía de seguros.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Resolución de otorgamiento de la pensión para familiares con derecho a pensión.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario PS.6.296.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formularios PS.6.254, PS.6.258, PS.6.259, PS.6.286 según el caso para herederos sin pensión.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario PS.6.253 'Solicitud de Haberes devengados' si es pariente por consanguinidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario PS.6.258 'Información Sumaria S' del solicitante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario PS.6.259 'Información Sumaria T' de cada testigo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Partidas que acrediten el vínculo con la persona fallecida (original y fotocopia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario PS.6.254 'Declaración Jurada de Herederos no Solicitante' con firma autenticada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario PS.6.255 'Declaración Jurada De No Herederos Solicitantes' si no es heredero.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario PS.6.256 'Caución Juratoria - Solicitante No Heredero' si no es heredero.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificados del médico que atendió a la persona antes de su fallecimiento con facturas abonadas.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Reuní la documentación según corresponda a tu caso."
+      },
+      {
+        "texto": "Sacá turno en una oficina de ANSES."
+      },
+      {
+        "texto": "Presentate el día del turno con la documentación y dos testigos (o los Formularios PS.6.259, completos y firmados ante autoridad competente)."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si el trámite lo realiza otra persona que acredite haber pagado el sepelio, cremación o inhumación, debe hacerlo antes de cumplirse un año desde el fallecimiento.",
+      "Se puede hacer junto con el inicio del trámite de la pensión.",
+      "En caso de fallecimiento de niños o adolescentes en tratamiento oncológico, el fallecimiento debe ser con posterioridad al 26/7/2022.",
+      "Si los testigos no pueden asistir el día del turno, se pueden presentar los formularios certificados por autoridad competente o ante tribunales competentes.",
+      "Si los importes fueran superiores a una jubilación mínima, para solicitar el cobro de la totalidad deberá iniciar la sucesión y hacerlo a través de un oficio judicial."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1500000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-el-subsidio-de-contencion-familiar"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-el-subsidio-de-contencion-familiar",
+      "titulo": "Solicitar el Subsidio de Contención Familiar | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T08:48:23.433Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-el-cobro-de-haberes-devengados-de-jubilaciones-y-pensiones",
+      "titulo": "Solicitar el cobro de haberes devengados de jubilaciones y pensiones | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:48:23.433Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Fecha de vigencia exacta del subsidio.",
+    "Dirección de oficinas de ANSES.",
+    "Localidad de oficinas de ANSES.",
+    "Nombre de oficinas de ANSES."
+  ]
+}

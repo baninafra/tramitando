@@ -1,0 +1,124 @@
+{
+  "tramite": {
+    "slug": "rectificacion-partidas",
+    "nombre": "Rectificación de Partidas",
+    "nombre_busqueda": "Rectificación de partidas",
+    "resumen": "Corrección de errores en actas de nacimiento, defunción, matrimonio o unión convivencial inscriptas en la Provincia de Córdoba.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141498",
+  "organismo": {
+    "nombre": "Municipalidad de Tancacha",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titular de la partida a rectificar",
+      "Familiar directo en caso de fallecimiento del titular",
+      "Representante legal o autorizado mediante un poder con firma certificada ante escribano público"
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de solicitud explicando el error detectado y mencionando la documental que se acompaña",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI original del solicitante",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos del acta que se pretende rectificar",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pruebas documentales que acrediten el dato erróneo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si las partidas son de origen extranjero, legalizaciones del Estado de origen o la Apostilla de la convención de La Haya del año 1961",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si está en idioma extranjero, traducción por traductor matriculado salvo que se haya emitido plurilingüe desde el organismo extranjero emisor",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá una nota de solicitud que explique el error y mencione la documentación acompañada"
+      },
+      {
+        "texto": "Llevá tu DNI original"
+      },
+      {
+        "texto": "Incluí los datos del acta a rectificar para que el registro civil la localice"
+      },
+      {
+        "texto": "Aportá las pruebas documentales que acrediten el dato erróneo"
+      },
+      {
+        "texto": "Si las partidas son extranjeras, mostrá las legalizaciones o la Apostilla correspondiente"
+      },
+      {
+        "texto": "Si el documento está en otro idioma, presentá la traducción oficial"
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Aseguráte de que toda la documentación esté absolutamente legible y completa en sus partes",
+      "Si sos familiar directo en caso de fallecimiento, podés necesitar aportar actas de nacimiento, matrimonio y defunción del titular y de sus padres para acreditar el vínculo"
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1161000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.tancacha.gob.ar/rectificacionPartidas.html"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.tancacha.gob.ar/rectificacionPartidas.html",
+      "titulo": "Municipalidad de Tancacha",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T09:43:34.795Z"
+    },
+    {
+      "url": "https://www.tancacha.gob.ar/index.html",
+      "titulo": "Municipalidad de Tancacha",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T09:43:34.795Z"
+    },
+    {
+      "url": "https://cidi.cba.gov.ar/portal-publico/?App=579",
+      "titulo": "Ciudadano Digital",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T09:43:34.795Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se inicia de manera presencial",
+    "No se especifica el plazo de resolución"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "tramite": {
+    "slug": "tomar-vista-de-expediente-de-inspeccion-laboral",
+    "nombre": "Tomar vista de expediente de inspección laboral",
+    "nombre_busqueda": "tomar vista de expediente inspección laboral",
+    "resumen": "Permite que empleadores, representantes legales o apoderados accedan a las actuaciones de expedientes de inspección laboral del PNRT o Competencia Federal. Es un trámite gratuito que se realiza por correo electrónico.",
+    "sinonimos": [
+      "acceso a expediente inspección laboral",
+      "ver actuaciones inspección laboral"
+    ],
+    "temas": [
+      "conflictos-laborales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección de Inspección Federal",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empleadores y empleadoras con expedientes o sumarios administrativos sustanciados en el PNRT o Competencia Federal",
+      "Representantes legales",
+      "Representantes convencionales",
+      "Letrados patrocinantes"
+    ],
+    "requisitos": [
+      {
+        "texto": "Solicitud para tomar vista de expediente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que acredite personería",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Descargá y completá la solicitud para tomar vista de expediente."
+      },
+      {
+        "texto": "Enviá por correo electrónico la solicitud y la documentación que acredita personería jurídica en formato PDF a [email protected]."
+      },
+      {
+        "texto": "En el asunto del correo escribí: Número de Expediente/Sumario – Razón Social – Solicitud toma vista de actuaciones."
+      },
+      {
+        "texto": "Un agente de la Dirección de Inspección Federal se contactará con el solicitante, por correo electrónico o telefónicamente, para corroborar los datos informados y, en caso de ser necesario, corregir la solicitud."
+      },
+      {
+        "texto": "Se te indicará la forma de proceder a tomar vista de las actuaciones, de manera presencial o a partir del envío de copias digitalizadas de dichas actuaciones."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tomar-vista-de-expediente-de-inspeccion-laboral",
+      "titulo": "Tomar vista de expediente de inspección laboral | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T17:53:47.150Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La forma de trámite se efectuará hasta la finalización de la emergencia sanitaria dispuesta por la Ley N°27.541 y sus complementarias.",
+    "El trámite se realiza en la Dirección de Inspección Federal con asiento en la Ciudad Autónoma de Buenos Aires."
+  ]
+}

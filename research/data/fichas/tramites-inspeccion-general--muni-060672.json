@@ -1,0 +1,85 @@
+{
+  "tramite": {
+    "slug": "habilitacion-de-transporte",
+    "nombre": "Habilitación de Transporte",
+    "nombre_busqueda": "Licencia de transporte",
+    "resumen": "Solicita autorización para habilitar un vehículo como transporte, requiriendo formulario, documentación y pago de tasas.",
+    "sinonimos": [
+      "Licencia de transporte",
+      "Habilitación de vehículo transporte"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060672",
+  "organismo": {
+    "nombre": "Municipalidad de Rauch",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Persona física / Persona Jurídica que requiera autorización para habilitar transporte."
+    ],
+    "requisitos": [
+      {
+        "texto": "Completar formulario de Solicitud de Licencia para Transporte",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación respaldatoria",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentar formulario de Solicitud de Licencia para Transporte en Mesa de Entradas del Municipio, con sellado previo de Tesorería y acompañado por la documentación respaldatoria."
+      },
+      {
+        "texto": "Se lleva a cabo la inspección del vehículo."
+      },
+      {
+        "texto": "Se expide Inspección General y en caso de corresponder se otorga el Certificado de Habilitación correspondiente."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Tiempo estimado: Mínimo 5 días."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Inspección General",
+      "direccion": "Aristóbulo del Valle 30",
+      "localidad": "Aristóbulo del Valle 30",
+      "horario": null,
+      "fuente_url": "https://www.rauch.mun.gba.gov.ar/web/index.php/tramites-inspeccion-general/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.rauch.mun.gba.gov.ar/web/index.php/tramites-inspeccion-general/",
+      "titulo": "Guia de Trámites – Municipalidad de Rauch",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T09:13:54.232Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de las tasas no se especifica en el texto.",
+    "La vigencia de la habilitación no se indica en el texto.",
+    "Si se requiere turno no se especifica en el texto."
+  ]
+}

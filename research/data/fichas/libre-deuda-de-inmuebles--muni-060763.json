@@ -1,0 +1,60 @@
+{
+  "tramite": {
+    "slug": "libre-deuda-de-inmuebles",
+    "nombre": "Libre deuda de inmuebles",
+    "nombre_busqueda": "Libre deuda inmuebles",
+    "resumen": "Obtén la constancia de Libre Deuda de servicios municipales ingresando desde aquí con el número de inmueble y realizando la consulta desde la página web.",
+    "sinonimos": [],
+    "temas": [
+      "catastro-e-inmuebles",
+      "tasa-inmobiliaria-y-servicios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060763",
+  "organismo": {
+    "nombre": "Municipalidad de San Nicolás de los Arroyos",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes necesiten obtener la constancia de Libre Deuda de servicios municipales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de inmueble.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá desde aquí con el número de inmueble y realizá la consulta desde la página web."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.sannicolasciudad.gob.ar/tramites/libre-de-deuda/libre-deuda-de-inmuebles",
+      "titulo": "Libre deuda de inmuebles | Libre deuda | Trámites | San Nicolás Ciudad",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T15:13:48.938Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica si el trámite es gratuito o tiene costo.",
+    "No se especifica el plazo de respuesta."
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "tramite": {
+    "slug": "obleas-pnlg",
+    "nombre": "Obleas para personas no residentes - Parque Natural Laguna de Gómez",
+    "nombre_busqueda": "Obleas Parque Natural Laguna de Gómez",
+    "resumen": "El trámite consiste en solicitar y retirar una Oblea de ingreso al Parque Natural Laguna de Gómez para personas que no residen en el municipio, siempre que se cumplan los requisitos de buen contribuyente.",
+    "sinonimos": [],
+    "temas": [
+      "turismo-y-parques-nacionales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060413",
+  "organismo": {
+    "nombre": "Gobierno de Junín",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Propietarios y/o permisionarios de tierras dentro del PNLG que cumplan con los requisitos de buen contribuyente.",
+      "Concesionarios de kioscos y demás actividades comerciales que se desarrollan en el PNLG que cumplan con los requisitos de buen contribuyente.",
+      "Buenos contribuyentes de acuerdo a lo establecido en el Art. 181º de la Ordenanza."
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia de DNI",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Solicitá el reconocimiento como buen contribuyente en la Oficina de la Dirección de Rentas."
+      },
+      {
+        "texto": "Presentá la fotocopia de tu DNI en el Centro de Información Turística."
+      },
+      {
+        "texto": "Retirá tu Oblea de ingreso en el horario correspondiente."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Centro de Información Turística",
+      "direccion": "Bm. Mitre 16",
+      "localidad": "Junín",
+      "horario": null,
+      "fuente_url": "https://obleaspnlg.junin.gob.ar/"
+    },
+    {
+      "nombre": "Oficina de la Dirección de Rentas",
+      "direccion": "Rivadavia 80",
+      "localidad": "Junín",
+      "horario": null,
+      "fuente_url": "https://obleaspnlg.junin.gob.ar/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://obleaspnlg.junin.gob.ar/",
+      "titulo": "Obleas PNLG",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:05:22.014Z"
+    },
+    {
+      "url": "https://www.junin.gob.ar/",
+      "titulo": "Inicio | Gobierno de Junín",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T14:05:22.014Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica si el trámite se puede realizar completamente por internet o solo la solicitud de reconocimiento como buen contribuyente.",
+    "El texto no indica un plazo de espera para la entrega de la Oblea una vez presentados los requisitos."
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "tramite": {
+    "slug": "ampliacion-de-licencia",
+    "nombre": "Ampliación de Licencia",
+    "nombre_busqueda": "Ampliación de Licencia",
+    "resumen": "Para ampliar tu licencia de conducir en el Municipio de Coronel Rosales, necesitás llevar tu licencia vigente y la documentación correspondiente al caso que te aplique.",
+    "sinonimos": [
+      "Ampliar licencia",
+      "Renovar licencia"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060182",
+  "organismo": {
+    "nombre": "Municipio de Coronel Rosales",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan licencia de conducir vigente."
+    ],
+    "requisitos": [
+      {
+        "texto": "Licencia de conducir vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación correspondiente al caso que te aplique.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá tu licencia de conducir vigente y la documentación correspondiente al caso que te aplique."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mcr.gob.ar/documentos/ampliacion-de-licencia/",
+      "titulo": "Ampliación de Licencia - MCR",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T22:16:48.768Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se especifica que se necesita documentación correspondiente al caso que te aplique, pero no se detallan los requisitos específicos por caso (menores, mayores, extranjeros, etc.) en el texto.",
+    "No se indica si el trámite requiere turno.",
+    "No se especifica el plazo de tramitación.",
+    "No se menciona ningún costo o tasa."
+  ]
+}

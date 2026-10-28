@@ -1,0 +1,27 @@
+---
+// Páginas fijas (quiénes somos, cómo verificamos, aviso legal, privacidad).
+import Base from './Base.astro';
+
+interface Props {
+  titulo: string;
+  descripcion: string;
+  bajada?: string;
+}
+const { titulo, descripcion, bajada } = Astro.props;
+---
+<Base titulo={titulo} descripcion={descripcion}>
+  <div class="contenedor">
+    <nav class="migas" aria-label="Estás en">
+      <ol><li><a href="/">Inicio</a></li><li aria-current="page">{titulo}</li></ol>
+    </nav>
+    <article class="texto-largo pagina">
+      <h1>{titulo}</h1>
+      {bajada && <p class="bajada">{bajada}</p>}
+      <slot />
+    </article>
+  </div>
+</Base>
+
+<style>
+  .pagina { padding-top: var(--espacio-4); }
+</style>

@@ -1,0 +1,77 @@
+{
+  "tramite": {
+    "slug": "entrega-leche-maternizada",
+    "nombre": "Entrega de leche maternizada",
+    "nombre_busqueda": "leche maternizada para bebés",
+    "resumen": "Se entregan 4 kg mensuales de leche maternizada para bebés de 0 a 6 meses. El programa está dirigido a madres en período de lactancia que necesiten este insumo y no tengan cobertura médico-asistencial.",
+    "sinonimos": [
+      "Programa de leche maternizada"
+    ],
+    "temas": [
+      "salud-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060413",
+  "organismo": {
+    "nombre": "Subsecretaría de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés acceder si sos madre en período de lactancia, necesitás este insumo y no tenés cobertura médico-asistencial."
+    ],
+    "requisitos": [
+      {
+        "texto": "Resumen de historia clínica que justifique la entrega del insumo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Libreta sanitaria con el esquema completo de vacunación.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación requerida en la Subsecretaría de Salud."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La entrega es de 4 kg mensuales para bebés de 0 a 6 meses."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Subsecretaría de Salud",
+      "direccion": "Gandini 92",
+      "localidad": "Gandini 92",
+      "horario": null,
+      "fuente_url": "https://www.junin.gob.ar/content/entrega-de-leche-maternizada"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.junin.gob.ar/content/entrega-de-leche-maternizada",
+      "titulo": "Entrega de leche maternizada | Gobierno de Junín",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T13:53:31.921Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa si necesitás sacar turno.",
+    "No se informa el plazo para recibir la leche."
+  ]
+}

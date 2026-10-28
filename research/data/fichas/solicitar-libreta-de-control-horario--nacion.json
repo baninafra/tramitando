@@ -1,0 +1,119 @@
+{
+  "tramite": {
+    "slug": "solicitar-libreta-de-control-horario",
+    "nombre": "Solicitar libreta de control horario",
+    "nombre_busqueda": "Solicitar libreta de control horario",
+    "resumen": "Documentación para el control de horario de conductores de transporte de pasajeros de jurisdicción nacional. Se requiere LiNTI o Licencia Nacional de Conducir, vehículo habilitado y permiso de transporte vigente.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Comisión Nacional de Regulación del Transporte",
+    "sigla": "CNRT",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Conductores de transporte de pasajeros que desarrollan sus tareas en calidad de integrante de una cooperativa de trabajo.",
+      "Titulares de un permiso de transporte.",
+      "Cónyuges de un titular de un permiso de transporte.",
+      "Socios de una empresa titular de un permiso de transporte que a los efectos de la Ley de Contrato de Trabajo no le corresponda el encuadramiento de trabajador en relación de dependencia."
+    ],
+    "requisitos": [
+      {
+        "texto": "LiNTI vigente o Licencia Nacional de Conducir (Clases C, D y/o E) con más de quince días de vigencia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Vehículo habilitado en el registro de parque móvil.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Permiso de transporte vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de declaración jurada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pago del arancel.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación específica según el caso: Registro de Asociados con certificación profesional con firma legalizada (para asociados de cooperativa), Acta de matrimonio (para cónyuges), Contrato social (para socios sin relación de dependencia), Certificado de domicilio (para parientes o concubinos sin…",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Presentá la documentación a través de TAD."
+      },
+      {
+        "texto": "Asegurate de que tu clave fiscal sea de nivel 3."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Retirá el documento en la recepción de la CNRT en el horario de lunes a viernes de 9 a 15 h, o en la delegación seleccionada en el trámite."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Podrás proceder a la renovación con dos meses de anterioridad a la fecha de vencimiento.",
+      "Se rechazarán las solicitudes que tengan menos de quince días de vigencia al momento de la solicitud."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1857025,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-libreta-de-control-horario"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-libreta-de-control-horario",
+      "titulo": "Solicitar libreta de control horario | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T09:52:22.690Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T09:52:22.690Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/cdn-cgi/content?id=hMJ0Bh_LTfsXqshOTVLGn.hHaEX35nApT8F2DwkWY_U-1792995314.4758713-1.2.1.1-.wUrpldv201xwG6QSkhTDmE9_ON75Vdsm7J1WhnkjjDYzWnl9oJsftoetLVOtswR",
+      "titulo": "Surface Chemistry: Unveiling the Mysteries of Interfaces",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T09:52:22.690Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Información sobre la necesidad de sacar turno no está explícita en el texto de la página oficial del trámite.",
+    "Dirección exacta de las delegaciones seleccionadas no se especifica en el texto."
+  ]
+}

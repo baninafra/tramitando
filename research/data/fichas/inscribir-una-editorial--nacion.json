@@ -1,0 +1,91 @@
+{
+  "tramite": {
+    "slug": "inscripcion-de-nacimientos",
+    "nombre": "Inscribir una editorial",
+    "nombre_busqueda": "Inscribir una editorial",
+    "resumen": "Para inscribir tu editorial de libros, revistas o videos ante la DNDA, necesitás pagar una tasa de $3800 y subir documentación al TAD.",
+    "sinonimos": [],
+    "temas": [
+      "marcas-y-derecho-de-autor",
+      "emprendedores-y-monotributo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional del Derecho de Autor",
+    "sigla": "DNDA",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Editores de libros, revistas y publicaciones aún no inscriptos en la DNDA."
+    ],
+    "requisitos": [
+      {
+        "texto": "Comprobante de pago del trámite por depósito o transferencia bancaria.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de CUIL, CUIT O CDI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el titular es una persona jurídica: una copia del contrato social y última designación de autoridades.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si fuera una persona humana, bastará con constancia de CUIT o CUIL.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD - Inscripción al Registro de Editoriales e iniciá el trámite."
+      },
+      {
+        "texto": "Subí la documentación obligatoria y complementaria."
+      },
+      {
+        "texto": "Al finalizar se te otorgará un número de expediente electrónico (carátula variable)."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "10 minutos",
+    "consejos": [
+      "En caso de algún error o inconveniente se te notificará mediante el TAD una tarea de subsanación.",
+      "La Dirección Nacional del Derecho de Autor te enviará al correo denunciado el certificado otorgado."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 380000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-una-editorial"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribir-una-editorial",
+      "titulo": "Inscribir una editorial | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T17:10:15.458Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de oficinas para trámites presenciales."
+  ]
+}

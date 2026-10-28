@@ -1,0 +1,86 @@
+{
+  "tramite": {
+    "slug": "tramitar-viajes-ocasionales-en-circuito-cerrado-al-exterior",
+    "nombre": "Tramitar viajes ocasionales en circuito cerrado al exterior",
+    "nombre_busqueda": "Viajes ocasionales circuito cerrado exterior",
+    "resumen": "Solicitud de permiso para realizar viajes ocasionales al exterior para empresas de turismo. Es gratuito y se realiza online.",
+    "sinonimos": [],
+    "temas": [
+      "migraciones-y-extranjeria",
+      "transporte-publico-y-viajes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Comisión Nacional de Regulación del Transporte",
+    "sigla": "CNRT",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas con permisos de transporte para el turismo",
+      "Personas que se registren en la web de la CNRT y estén autorizadas a través del Formulario para solicitud de alta de usuario"
+    ],
+    "requisitos": [
+      {
+        "texto": "Registrarse completando los campos requeridos en el Formulario para solicitud de alta de usuario",
+        "aclaracion": null
+      },
+      {
+        "texto": "No tener multas",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener todas las presentaciones al día",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar a la web del trámite"
+      },
+      {
+        "texto": "Completar el Formulario para la solicitud de alta de usuario"
+      },
+      {
+        "texto": "Abonar la solicitud del viaje"
+      },
+      {
+        "texto": "Enviar la solicitud"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "72 h antes de la fecha de salida del permiso",
+    "consejos": [
+      "Los permisos son por cada viaje"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tramitar-viajes-ocasionales-en-circuito-cerrado-al-exterior",
+      "titulo": "Tramitar viajes ocasionales en circuito cerrado al exterior | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T00:35:57.223Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de oficinas",
+    "Localidad de oficinas",
+    "Nombre de oficinas",
+    "Vigencia exacta del trámite (AAAA-MM-DD)",
+    "Si el trámite requiere turno"
+  ]
+}

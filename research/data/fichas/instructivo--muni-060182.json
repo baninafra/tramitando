@@ -1,0 +1,85 @@
+{
+  "tramite": {
+    "slug": "licencia-de-conducir",
+    "nombre": "Licencia de conducir",
+    "nombre_busqueda": "Licencia de conducir",
+    "resumen": "Instructivo para tramitar la licencia de conducir en el Municipio de Coronel Rosales.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060182",
+  "organismo": {
+    "nombre": "Municipio de Coronel Rosales",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que cumpla con los requisitos legales para obtener la licencia de conducir."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI vigente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotografías recientes",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de antecedentes penales",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de aptitud física",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pago de la tasa correspondiente",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acudí a la oficina de Trámites del Municipio de Coronel Rosales."
+      },
+      {
+        "texto": "Presentá todos los requisitos requeridos."
+      },
+      {
+        "texto": "Realizá el pago de la tasa correspondiente."
+      },
+      {
+        "texto": "Recibí tu licencia de conducir."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mcr.gob.ar/documentos/instructivo/",
+      "titulo": "INSTRUCTIVO - MCR",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T05:12:06.568Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los montos exactos de las tasas no se especifican en el texto.",
+    "Los plazos de espera para la emisión de la licencia no se especifican en el texto.",
+    "La dirección exacta de la oficina no se especifica en el texto.",
+    "Si se requiere turno no se especifica en el texto."
+  ]
+}

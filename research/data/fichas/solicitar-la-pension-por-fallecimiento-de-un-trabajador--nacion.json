@@ -1,0 +1,116 @@
+{
+  "tramite": {
+    "slug": "pensiones-por-fallecimiento",
+    "nombre": "Solicitar la pensión por fallecimiento de un trabajador",
+    "nombre_busqueda": "Solicitar pensión por fallecimiento trabajador",
+    "resumen": "La pensión es para garantizar un acompañamiento económico a los familiares de un trabajador fallecido. Es un trámite gratuito que se realiza en una oficina de ANSES con turno.",
+    "sinonimos": [],
+    "temas": [
+      "pensiones-por-fallecimiento",
+      "trabajo-y-seguridad-social",
+      "jubilaciones-y-pensiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANSES",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "La pueden solicitar los familiares de un trabajador en relación de dependencia, autónomo o monotributista.",
+      "Cónyuge: con partida de casamiento actualizada (la actualización debe ser posterior a la fecha de fallecimiento del trabajador).",
+      "Conviviente: tenés que acreditar 5 años de convivencia antes de la fecha del fallecimiento del trabajador.",
+      "Si tienen un hijo reconocido por ambos, el plazo se reduce a 2 años.",
+      "Hijo: ser menor de 18 años, soltero y no cobrar otra prestación.",
+      "No hay límite de edad en los casos que el hijo se encuentre incapacitado para trabajar y haya estado a cargo del trabajador fallecido."
+    ],
+    "requisitos": [
+      {
+        "texto": "El fallecimiento del trabajador debe estar acreditado en mi ANSES.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI y formularios PS 6.284 y PS.6.9.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Original y copia de tutoría o curatela.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Original y copia de certificado de alumno regular, estudios, diagnósticos y certificados médicos que acrediten la incapacidad a la fecha del fallecimiento del trabajador.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formularios PS.6.9, PS.6.12, PS.6.13.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formularios PS.6.2, PS.6.1 y PS.5.7.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Recibos de sueldos, ticket de aportes, Declaración Jurada Régimen Especial.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formularios 558/A, 558/B y 558/C de ARCA (Ex-AFIP).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Originales y copias de los pagos autónomos y monotributistas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que pruebe los períodos trabajados: certificaciones de servicios, recibos de sueldo, comprobantes de afiliación a obra social y/o declaración jurada que acredite los servicios del trabajador fallecido.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Ingresá en mi ANSES con tu CUIL y Clave de la Seguridad Social y revisá que tu información personal y vínculos familiares estén registrados y actualizados."
+      },
+      {
+        "texto": "Reuní toda la documentación requerida, según corresponda."
+      },
+      {
+        "texto": "Solicitá un turno para tramitar la pensión en una oficina de ANSES."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-pension-por-fallecimiento-de-un-trabajador",
+      "titulo": "Solicitar la pensión por fallecimiento de un trabajador | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T09:52:52.656Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La actualización de la partida de casamiento debe ser posterior a la fecha de fallecimiento del trabajador.",
+    "Se debe acreditar 5 años de convivencia antes de la fecha del fallecimiento del trabajador para convivientes.",
+    "El plazo se reduce a 2 años si tienen un hijo reconocido por ambos.",
+    "El hijo debe ser menor de 18 años, soltero y no cobrar otra prestación.",
+    "No hay límite de edad en los casos que el hijo se encuentre incapacitado para trabajar y haya estado a cargo del trabajador fallecido.",
+    "El trabajador fallecido debía cumplir con 30 años de aportes para el régimen común.",
+    "Como aportante regular: haber aportado 30 meses o más dentro de los últimos 36 meses antes de su fallecimiento.",
+    "Como aportante irregular: haber aportado 18 meses o más dentro de los últimos 36 meses antes de su fallecimiento.",
+    "Haber aportado 12 meses dentro de los últimos 60 meses antes de su fallecimiento y tener la mitad del total de años exigidos por el régimen común o diferencial.",
+    "En caso de no cumplir con este requisito como solicitante podés completar los años de aportes, computando servicios regularizados por alguna de las Moratorias Previsionales."
+  ]
+}

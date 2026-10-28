@@ -1,0 +1,98 @@
+{
+  "tramite": {
+    "slug": "habilitacion-de-ascensores",
+    "nombre": "Habilitación de ascensores",
+    "nombre_busqueda": "habilitar ascensores",
+    "resumen": "Es un trámite presencial para habilitar equipos de elevación mecánica, rampas y montacargas. Requiere turno previo.",
+    "sinonimos": [
+      "habilitación de equipos de elevación"
+    ],
+    "temas": [
+      "obras-y-construccion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060441",
+  "organismo": {
+    "nombre": "Obras Particulares - Municipalidad de La Plata",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés hacer este trámite para habilitar equipos de elevación mecánica, rampas o montacargas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Libro nuevo de “Habilitación, Inspección y Mantenimiento”, con la Sección I completa y rubricada por las personas responsables.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Seguro vigente de responsabilidad civil del inmueble que incluya los equipos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Seguro de la empresa de mantenimiento donde figure el equipo vinculado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta de inspección vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del documento de quien firma como propietario o responsable legal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de número de puerta.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante del pago de la tasa de habilitación.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Llevá los requisitos para hacer el trámite de forma presencial."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://turnos.laplata.gob.ar/misdatos",
+    "plazo": null,
+    "consejos": [
+      "Podés pedir el turno con la opción “Consulta Electromecánica”."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://tramites.laplata.gob.ar/obrasparticulares/habilitacion-ascensores.html",
+      "titulo": "Obras Particulares - Municipalidad de La Plata",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde",
+        "costo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:18:38.260Z"
+    },
+    {
+      "url": "https://cam.laplata.gob.ar/index.html",
+      "titulo": "Centro Administrativo Municipal",
+      "bloques": [
+        "pasos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T14:18:38.260Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa el monto de la tasa de habilitación."
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "tramite": {
+    "slug": "denunciar-un-delito-informatico",
+    "nombre": "Denunciar un delito informático",
+    "nombre_busqueda": "Denunciar un delito informático",
+    "resumen": "Cualquier persona puede realizar la denuncia gratuitamente en la comisaría o oficina receptora de denuncias de su domicilio, o reportar el caso a la Unidad Fiscal Especializada en Ciberdelincuencia por correo.",
+    "sinonimos": [],
+    "temas": [
+      "seguridad-y-denuncias",
+      "denuncias-anonimas-y-policiales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona."
+    ],
+    "requisitos": [
+      {
+        "texto": "Todo el material que tengás disponible para compartir con los investigadores.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Realizá la denuncia en la comisaría o en la oficina receptora de denuncias que corresponda a tu domicilio."
+      },
+      {
+        "texto": "Seguí las instrucciones del investigador para resguardar correctamente la prueba."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Podés reportar el caso a la Unidad Fiscal Especializada en Ciberdelincuencia (UFECI) enviando un correo a [email protected]."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "División Delitos Tecnológicos de la Policía Federal Argentina",
+      "direccion": "Cavia 3350 1° Ciudad Autónoma de Buenos Aires",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/denunciar-un-delito-informatico"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/denunciar-un-delito-informatico",
+      "titulo": "Denunciar un delito informático | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T04:46:36.277Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia de la información no está especificada en el texto."
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "tramite": {
+    "slug": "consultas-tecnicas-reglamentos-tecnicos",
+    "nombre": "Consultas técnicas sobre Reglamentos Técnicos",
+    "nombre_busqueda": "Consultas técnicas Reglamentos Técnicos DNRT",
+    "resumen": "Podés consultar el alcance de los Reglamentos Técnicos vigentes, la documentación requerida y si el producto corresponde a insumos, repuestos o bienes de uso específico.",
+    "sinonimos": [],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Reglamentos Técnicos",
+    "sigla": "DNRT",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Fabricantes e importadores."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener CUIT y clave fiscal nivel 2 en ARCA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contar con Trámites a Distancia (TAD) asociado a ARCA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si vas a realizar el trámite en nombre de una empresa, hacer la delegación de servicios vía ARCA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Completar todos los campos del formulario en carácter de declaración jurada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Adjuntar la documentación obligatoria.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá el trámite de Consultas Técnicas de Reglamentos Técnicos a través de TAD."
+      },
+      {
+        "texto": "Seleccioná el tipo de consulta entre las siguientes opciones: Si el producto está alcanzado, Si la documentación es conforme, Si el producto corresponde a Insumos /Repuestos/ Bienes de uso específico."
+      },
+      {
+        "texto": "Deberás completar todos los campos del formulario en carácter de declaración jurada y adjuntar la documentación obligatoria."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La documentación requerida debe presentarse dentro de CINCO (5) días hábiles administrativos desde la notificación del requerimiento.",
+      "Si no se cumple con el plazo, la consulta será archivada sin más trámite.",
+      "Antes de enviar la consulta te recomendamos revisar previamente: Los reglamentos técnicos y la normativa aplicable, Las preguntas frecuentes, Los modelos de Declaración Jurada de Conformidad sugeridos, Exclusiones, Insumos/Repuestos/bienes de uso específico."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/realizar-consultas-tecnicas-sobre-reglamentos-tecnicos",
+      "titulo": "Realizar consultas técnicas sobre Reglamentos Técnicos | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:05:36.198Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto del trámite es gratis.",
+    "El plazo de respuesta de la consulta no está especificado en el texto."
+  ]
+}

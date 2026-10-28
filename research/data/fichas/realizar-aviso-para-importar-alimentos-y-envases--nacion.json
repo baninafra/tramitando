@@ -1,0 +1,106 @@
+{
+  "tramite": {
+    "slug": "realizar-aviso-para-importar-alimentos-y-envases",
+    "nombre": "Realizar aviso para importar alimentos y envases",
+    "nombre_busqueda": "Aviso de importación alimentos envases SENASA",
+    "resumen": "Para importar alimentos, envases o muestras de países del Anexo III, necesitás completar el formulario en TAD y presentar documentación específica según el tipo de producto.",
+    "sinonimos": [
+      "Aviso de importación alimentos",
+      "Aviso de importación envases",
+      "Importación alimentos SENASA"
+    ],
+    "temas": [
+      "bromatologia-y-alimentos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Importadores de alimentos destinados a la comercialización o para uso exclusivamente industrial del establecimiento (UPEI).",
+      "Quienes importen muestras sin valor comercial.",
+      "Quienes importen envases y utensilios en contacto con alimentos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Completá el formulario en línea.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá copia de factura.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá conocimiento de embarque, carta de porte o guía aérea.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá comprobante de pago del arancel vigente correspondiente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá autorización de comercialización, certificado de libre venta del producto o documento análogo aprobado por la autoridad sanitaria competente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá habilitación municipal.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma Trámites a Distancia (TAD) con tu clave fiscal."
+      },
+      {
+        "texto": "Buscá el trámite 'Aviso de Importación de Alimentos, UPEI, Envases y Muestras'."
+      },
+      {
+        "texto": "Seleccioná el tipo de producto que corresponda: alimentos para comercializar, para uso industrial (UPEI), muestras sin valor comercial o envases y utensilios en contacto con alimentos."
+      },
+      {
+        "texto": "Completá el formulario con los datos requeridos."
+      },
+      {
+        "texto": "Adjuntá la documentación correspondiente."
+      },
+      {
+        "texto": "Realizá el pago del arancel vigente correspondiente."
+      },
+      {
+        "texto": "Finalizá la presentación del trámite en TAD."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "5 días hábiles administrativos",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/realizar-aviso-para-importar-alimentos-y-envases",
+      "titulo": "Realizar aviso para importar alimentos y envases | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:33:55.694Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los montos exactos de los aranceles no están especificados en el texto, solo se mencionan los códigos IC4073 e IC4703 A y B.",
+    "El monto del arancel depende del tipo de producto y del valor FOB, pero no se detallan los valores numéricos en el texto."
+  ]
+}

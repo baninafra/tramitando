@@ -1,0 +1,111 @@
+{
+  "tramite": {
+    "slug": "adhesion-a-factura-electronica",
+    "nombre": "Adhesión a factura electrónica",
+    "nombre_busqueda": "Adherir a factura electrónica General Paz",
+    "resumen": "Para adherirte a la factura electrónica en General Paz, completá un formulario online con tus datos personales, fiscales y de contacto. Después, pagás la tasa correspondiente a tu tipo de contribuyente.",
+    "sinonimos": [
+      "Adherir a factura electrónica",
+      "Alta en factura electrónica"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060343",
+  "organismo": {
+    "nombre": "Municipalidad de General Paz",
+    "sigla": "MGP",
+    "web": "https://municipalidaddegeneralpaz.gob.ar"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Contribuyentes que deseen adherirse al sistema de factura electrónica municipal."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de cuenta (rodado, inmueble o comercio)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Apellido y nombre",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUIT o CUIL",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de teléfono fijo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de celular",
+        "aclaracion": null
+      },
+      {
+        "texto": "Correo electrónico",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario de adhesión a factura electrónica en la web municipal."
+      },
+      {
+        "texto": "Seleccioná el tipo de tasa: rodado, inmueble o comercio."
+      },
+      {
+        "texto": "Ingresá tu número de cuenta, datos personales, dni, cuit/cuil y datos de contacto."
+      },
+      {
+        "texto": "Enviá los datos."
+      },
+      {
+        "texto": "Pagá la tasa por Rapipago, Pago Fácil, Provincia Net, Pagos Link, Mercado Pago, Caja Municipal o transferencia/dépito bancario."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Podés consultar el calendario impositivo 2026 en la web municipal para conocer los vencimientos."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://municipalidaddegeneralpaz.gob.ar/index.php/adhesion-a-factura-electronica/",
+      "titulo": "Adhesión a Factura Electrónica -",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T12:51:53.801Z"
+    },
+    {
+      "url": "https://municipalidaddegeneralpaz.gob.ar/",
+      "titulo": "MGP Sitio Oficial -",
+      "bloques": [
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T12:51:53.801Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa para cada tipo de contribuyente (rodado, inmueble, comercio).",
+    "Si el trámite requiere turno previo.",
+    "El plazo de resolución de la adhesión."
+  ]
+}

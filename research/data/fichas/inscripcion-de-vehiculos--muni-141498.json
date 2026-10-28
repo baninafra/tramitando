@@ -1,0 +1,78 @@
+{
+  "tramite": {
+    "slug": "inscripcion-de-vehiculos",
+    "nombre": "Inscribir vehículo",
+    "nombre_busqueda": "Inscribir vehículo",
+    "resumen": "Para inscribir un vehículo 0km o usado, u/o motocicletas, debes concurrir al palacio municipal entre las 7 y las 13 hs con los documentos requeridos.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141498",
+  "organismo": {
+    "nombre": "Municipalidad de Tancacha",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan un vehículo 0km o usado, u/o motocicletas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia del título",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de la factura de compra",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario D13 (impuesto municipal)",
+        "aclaracion": "Solo para vehículos 0km (convenio provincia, modelos 2014 a 2024) y vehículos modelos 2002 a 2013."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Dirijite al palacio municipal entre las 7 y las 13 hs."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 800000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.tancacha.gob.ar/tramiteEspecifico.html"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.tancacha.gob.ar/tramiteEspecifico.html",
+      "titulo": "Municipalidad de Tancacha",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T12:09:01.475Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horario de atención fuera del rango de 7 a 13 hs.",
+    "Dirección exacta del palacio municipal.",
+    "Si se requiere turno para la inscripción.",
+    "Plazo de atención estimado."
+  ]
+}

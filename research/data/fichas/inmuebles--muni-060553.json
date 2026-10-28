@@ -1,0 +1,125 @@
+{
+  "tramite": {
+    "slug": "tramites-de-inmuebles-final-de-obra-y-conexion-de-servicios",
+    "nombre": "Trámites de inmuebles, final de obra y conexión de servicios",
+    "nombre_busqueda": "inmuebles, final de obra y conexión de agua y cloacas",
+    "resumen": "Podés iniciar trámites de inmuebles por el portal municipal de autogestión. La página también reúne requisitos de final de obra y de conexión a los servicios de agua corriente y cloacas.",
+    "sinonimos": [
+      "trámites de inmuebles",
+      "final de obra",
+      "conexión de agua y cloacas"
+    ],
+    "temas": [
+      "catastro-e-inmuebles",
+      "final-de-obra",
+      "conexion-de-agua-y-cloacas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060553",
+  "organismo": {
+    "nombre": "Municipalidad de Monte Hermoso",
+    "sigla": null,
+    "web": "https://montehermoso.gov.ar"
+  },
+  "contenido": {
+    "quien_puede": [
+      "La página no especifica quiénes pueden realizar estos trámites."
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia de la escritura o del boleto de compraventa del inmueble.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de la primera y segunda página del DNI de cada adquirente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario correspondiente de declaración jurada completado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de presentación espontánea.",
+        "aclaracion": "Para el final de obra."
+      },
+      {
+        "texto": "Planilla adjunta de declaración jurada.",
+        "aclaracion": "Para el final de obra."
+      },
+      {
+        "texto": "Ordenanza 3225/2023 sobre declaración de construcción sin permiso.",
+        "aclaracion": "Para el final de obra."
+      },
+      {
+        "texto": "Nota de regularización de obra sin declarar.",
+        "aclaracion": "Para el final de obra."
+      },
+      {
+        "texto": "Declaración jurada de incorporación de superficie edificada.",
+        "aclaracion": "Para el final de obra."
+      },
+      {
+        "texto": "Formulario 903.",
+        "aclaracion": "Para el final de obra."
+      },
+      {
+        "texto": "Firmá todos los formularios como propietario y profesional.",
+        "aclaracion": "Para el final de obra."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal de autogestión del municipio."
+      },
+      {
+        "texto": "Registrate si todavía no tenés una cuenta; podés consultar el instructivo publicado por el municipio."
+      },
+      {
+        "texto": "Elegí el trámite y completá el formulario online correspondiente."
+      },
+      {
+        "texto": "Cargá en formato digital la documentación que te solicite el formulario."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La documentación solicitada depende del trámite seleccionado. El formulario digital indica qué archivos tenés que cargar.",
+      "El sellado para obtener el número de expediente se paga por Mesa de Entradas."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Centro Cívico Alborada",
+      "direccion": "Nélida Fossatty 250",
+      "localidad": "Monte Hermoso",
+      "horario": null,
+      "fuente_url": "https://montehermoso.gov.ar/sitio/tramites-municipales/inmuebles/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://montehermoso.gov.ar/sitio/tramites-municipales/inmuebles/",
+      "titulo": "Inmuebles - Monte Hermoso sitio oficial",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T15:15:29.417Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La página no especifica quiénes pueden realizar estos trámites.",
+    "No se informa el monto del sellado para obtener el número de expediente.",
+    "La página enumera requisitos para conexiones de agua y cloacas, pero el detalle está en documentos enlazados que no se incluyen en el texto descargado.",
+    "No se indican plazos de resolución."
+  ]
+}

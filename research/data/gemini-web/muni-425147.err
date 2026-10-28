@@ -1,0 +1,40 @@
+[0m
+> build · deepseek-v4.1-flash-free
+[0m
+[0m◈ [0mExa Web Search ""Speluzzi" municipalidad La Pampa página oficial"
+[0m◈ [0mExa Web Search "Municipalidad de Speluzzi La Pampa sitio oficial gob.ar trámites"
+[0m% [0mWebFetch https://www.lapampa.gob.ar/speluzzi.html
+[0m◈ [0mExa Web Search "speluzzi.gob.ar OR speluzzi.gov.ar comisión de fomento"
+[0m◈ [0mExa Web Search "site:lapampa.gob.ar trámites DNI licencia de conducir registro civil"
+[0m◈ [0mExa Web Search "La Pampa guía de trámites oficial sitio gob.ar trámites para personas"
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/
+[0m% [0mWebFetch https://registrocivil.lapampa.gob.ar/
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/?page=2
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/rectificaciones-administrativas-de-actas
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/?perPage=50
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/?page=3
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/?page=4
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/?page=5
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/?page=6
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/?page=7
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/?page=8
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/?page=9
+[0m✗ [0mWebFetch https://speluzzi.lapampa.gob.ar/ failed
+[91m[1mError: [0mTransport error (GET https://speluzzi.lapampa.gob.ar/)
+[0m◈ [0mExa Web Search "licencia de conducir La Pampa trámite oficial lapampa.gob.ar requisitos"
+[0m% [0mWebFetch https://registrocivil.lapampa.gob.ar/nuevo-ejemplar-de-dni.html
+[0m% [0mWebFetch https://registrocivil.lapampa.gob.ar/inscripcion-de-nacimiento.html
+[0m% [0mWebFetch https://registrocivil.lapampa.gob.ar/solicitud-de-partidas.html
+[0m% [0mWebFetch https://registrocivil.lapampa.gob.ar/speluzzi.html
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/autorizacion-para-viajar-con-menores
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/solicitud-de-certificado-de-domicilio
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/certificado-de-adjudicatario
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/tarjeta-social-pampeana
+[0m% [0mWebFetch https://registrocivil.lapampa.gob.ar/pasaporte-mayor-y-menor.html
+[0m% [0mWebFetch https://registrocivil.lapampa.gob.ar/actualizacion-de-14-anos.html
+[0m% [0mWebFetch https://registrocivil.lapampa.gob.ar/inscripcion-de-matrimonio.html
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/tramites/certificado-de-etica-profesional
+[0m% [0mWebFetch https://registrocivil.lapampa.gob.ar/reposicion.html
+[0m% [0mWebFetch https://registrocivil.lapampa.gob.ar/rectificaciones.html
+[0m% [0mWebFetch https://registrocivil.lapampa.gob.ar/identidad-de-genero.html
+[0m% [0mWebFetch https://registrocivil.lapampa.gob.ar/opcion-nacionalidad-argentina.html

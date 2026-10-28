@@ -1,0 +1,71 @@
+{
+  "tramite": {
+    "slug": "cementerio",
+    "nombre": "Servicios en el cementerio",
+    "nombre_busqueda": "Cementerio Tancacha",
+    "resumen": "Para trámites dentro del predio del cementerio se requieren permisos. La municipalidad ofrece terrenos para compra de tumbas con un costo específico.",
+    "sinonimos": [
+      "Cementerio Nuestra Sra del Carmen",
+      "Servicios funerarios Tancacha"
+    ],
+    "temas": [
+      "cementerio-y-servicios-funebres"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141498",
+  "organismo": {
+    "nombre": "Municipalidad de Tancacha",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en realizar trámites dentro del predio del cementerio."
+    ],
+    "requisitos": [
+      {
+        "texto": "Solicitar permisos correspondientes para pintura, refacción o traslados dentro del predio.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Solicitá los permisos correspondientes para cualquier trámite dentro del predio del cementerio."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 750000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.tancacha.gob.ar/cementerio.html"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.tancacha.gob.ar/cementerio.html",
+      "titulo": "Municipalidad de Tancacha - Cementerio de Tancacha",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "costo",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T11:49:13.494Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de las oficinas para trámites.",
+    "Horarios de atención."
+  ]
+}

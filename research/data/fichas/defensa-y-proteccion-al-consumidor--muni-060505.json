@@ -1,0 +1,86 @@
+{
+  "tramite": {
+    "slug": "reclamos-denuncias-mediaciones-consumo-magdalena",
+    "nombre": "Hacer un reclamo de consumo",
+    "nombre_busqueda": "reclamos, denuncias y mediaciones de consumo en Magdalena",
+    "resumen": "La OMIC de Magdalena ofrece consultas y gestiones gratuitas para resolver conflictos de consumo. Podés acercarte a la oficina, llamar o escribir por correo electrónico.",
+    "sinonimos": [
+      "Denunciar un problema de consumo",
+      "Pedir mediación de consumo"
+    ],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060505",
+  "organismo": {
+    "nombre": "Oficina Municipal de Información a los Consumidores",
+    "sigla": "OMIC",
+    "web": "https://magdalena.gob.ar/guia-de-tramites-y-servicios/defensa-y-proteccion-al-consumidor/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés hacer consultas y gestiones sobre conflictos de consumo."
+    ],
+    "requisitos": [
+      {
+        "texto": "La página no indica qué documentación tenés que presentar.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate al Palacio Municipal, a la oficina de Asesoría Letrada, de lunes a viernes de 8 a 13."
+      },
+      {
+        "texto": "Llamá al (2221) 453373, interno 1133, o escribí a omic@magdalena.gob.ar para comunicarte con la oficina."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": true,
+      "monto_centavos": null,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://magdalena.gob.ar/guia-de-tramites-y-servicios/defensa-y-proteccion-al-consumidor/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Oficina Municipal de Información a los Consumidores (OMIC), oficina de Asesoría Letrada",
+      "direccion": "Palacio Municipal",
+      "localidad": "Palacio Municipal",
+      "horario": null,
+      "fuente_url": "https://magdalena.gob.ar/guia-de-tramites-y-servicios/defensa-y-proteccion-al-consumidor/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://magdalena.gob.ar/guia-de-tramites-y-servicios/defensa-y-proteccion-al-consumidor/",
+      "titulo": "Defensa y protección al consumidor : Magdalena",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T15:00:10.696Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La página no especifica qué documentación necesitás para hacer una consulta o gestión.",
+    "La página no informa si hace falta sacar turno.",
+    "La página no indica un plazo para resolver el conflicto."
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "tramite": {
+    "slug": "reemplazo-de-licencia",
+    "nombre": "Reemplazo de Licencia",
+    "nombre_busqueda": "Reemplazo de Licencia",
+    "resumen": "Para obtener un nuevo documento de licencia cuando el anterior se perdió, se expiró o se modificó, se debe presentar el original o una constancia de extravío junto con la solicitud.",
+    "sinonimos": [
+      "Cambio de jurisdicción",
+      "Licencia nueva por extravío"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060182",
+  "organismo": {
+    "nombre": "Municipio de Coronel Rosales",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier conductor que tenga la licencia original o una constancia de extravío emitida por la autoridad competente."
+    ],
+    "requisitos": [
+      {
+        "texto": "Licencia original",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de extravío de licencia",
+        "aclaracion": "Si no tenés la licencia original."
+      },
+      {
+        "texto": "Solicitud de reemplazo",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la licencia original o la constancia de extravío."
+      },
+      {
+        "texto": "Completá la solicitud de reemplazo."
+      },
+      {
+        "texto": "Retirá la licencia reemplazada en la oficina."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mcr.gob.ar/documentos/reemplazo-de-licencia/",
+      "titulo": "Reemplazo de Licencia - MCR",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T22:19:38.197Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina donde se realiza el trámite.",
+    "Horarios de atención de la oficina.",
+    "Si se requiere turno para realizar el trámite.",
+    "Si se puede realizar el trámite por internet.",
+    "Plazo de entrega de la licencia reemplazada.",
+    "Costo del trámite."
+  ]
+}

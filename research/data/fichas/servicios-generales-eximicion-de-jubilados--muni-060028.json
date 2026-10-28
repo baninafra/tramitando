@@ -1,0 +1,109 @@
+{
+  "tramite": {
+    "slug": "servicios-generales-eximicion-de-jubilados",
+    "nombre": "Eximición de tasas por jubilación",
+    "nombre_busqueda": "Exención de tasas jubilados servicios generales",
+    "resumen": "Los jubilados que cumplan requisitos socioeconómicos pueden solicitar la exención total o parcial del pago de tasas municipales por servicios generales.",
+    "sinonimos": [
+      "Exención de tasas jubilados",
+      "Libre de tasas jubilados"
+    ],
+    "temas": [
+      "adultos-mayores",
+      "jubilaciones-y-pensiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060028",
+  "organismo": {
+    "nombre": "Municipio de Almirante Brown",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Jubilados que cumplan ciertos requisitos socioeconómicos."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Haber jubilatorio o pensión no exceda el mínimo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Único inmueble.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ingresos mensuales menor que doble del haber.",
+        "aclaracion": null
+      },
+      {
+        "texto": "+55 años o invalidez.",
+        "aclaracion": null
+      },
+      {
+        "texto": "No percibir haberes de otros países.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el DNI."
+      },
+      {
+        "texto": "Mostrá el haber jubilatorio o pensión."
+      },
+      {
+        "texto": "Indicá que tenés único inmueble."
+      },
+      {
+        "texto": "Aclará que tus ingresos mensuales son menores que el doble del haber."
+      },
+      {
+        "texto": "Indicá que tenés más de 55 años o tenés invalidez."
+      },
+      {
+        "texto": "Aclará que no percibís haberes de otros países."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Impuestos",
+      "direccion": "Rosales 1312, PB",
+      "localidad": "Rosales 1312, PB",
+      "horario": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/servicios-generales-eximicion-de-jubilados/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.brown.gob.ar/tramites/servicios-generales-eximicion-de-jubilados/",
+      "titulo": "Servicios Generales – Eximición De Jubilados",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien",
+        "donde",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T19:14:43.240Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere verificar si el trámite se puede realizar online.",
+    "Se requiere verificar si se necesita sacar turno.",
+    "Se requiere verificar si hay plazos de respuesta o vencimiento.",
+    "Se requiere verificar si hay costos asociados al trámite."
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "tramite": {
+    "slug": "consulta-y-liquidacion-de-tasas-municipales-y-vencimientos",
+    "nombre": "Consultar vencimientos de tasas municipales",
+    "nombre_busqueda": "cronograma de vencimientos municipales de Merlo",
+    "resumen": "Consultá las fechas de vencimiento de distintas tasas municipales de Merlo para 2026. Las fechas pueden pasar al primer día hábil siguiente si coinciden con un feriado.",
+    "sinonimos": [
+      "cronograma de vencimientos municipales",
+      "vencimientos de tasas de Merlo"
+    ],
+    "temas": [
+      "boletas-y-vencimientos",
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060539",
+  "organismo": {
+    "nombre": "Municipalidad de Merlo",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "La página permite consultar fechas de vencimiento de tasas municipales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Identificá la tasa que querés consultar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para las tasas generales, tené a mano la terminación de la partida.",
+        "aclaracion": "Si consultás tasas generales."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al cronograma de vencimientos del sitio web de la Municipalidad de Merlo."
+      },
+      {
+        "texto": "Buscá la tasa y la cuota o el mes que querés consultar."
+      },
+      {
+        "texto": "Para las tasas generales, ubicá la fila correspondiente a la terminación de tu partida."
+      },
+      {
+        "texto": "Consultá la fecha del primer y, cuando corresponda, del segundo vencimiento."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si un vencimiento coincide con un feriado, la fecha pasa al primer día hábil siguiente.",
+      "El cronograma incluye fechas de 2026 y, para algunas cuotas de diciembre, vencimientos en enero de 2027."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.merlo.gob.ar/vencimientos/",
+      "titulo": "Cronograma de Vencimientos | Merlo Buenos Aires",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T15:04:45.899Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La página no informa quiénes pueden hacer la consulta.",
+    "La página no indica si se necesita iniciar un trámite para liquidar las tasas.",
+    "La página no informa montos ni formas de pago.",
+    "La página no indica si se necesita turno."
+  ]
+}

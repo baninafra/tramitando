@@ -1,0 +1,75 @@
+{
+  "tramite": {
+    "slug": "emision-de-factura",
+    "nombre": "Emisión de factura",
+    "nombre_busqueda": "Emisión de factura",
+    "resumen": "La Municipalidad de Patagones emite facturas B para proveedores inscriptos en IVA y facturas C para monotributistas. Las facturaciones a extender se realizan a nombre de la Municipalidad de Carmen de Patagones.",
+    "sinonimos": [
+      "Facturación a extender",
+      "Facturas a extender"
+    ],
+    "temas": [
+      "cuil-y-clave-de-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060602",
+  "organismo": {
+    "nombre": "Dirección de Compras",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Proveedores inscriptos en IVA",
+      "Monotributistas"
+    ],
+    "requisitos": [
+      {
+        "texto": "Orden de Compra",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUIT del proveedor",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://patagones.gob.ar/direccioncompras/emision-factura/",
+      "titulo": "Emisión de Factura - Municipalidad de Patagones",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T16:03:16.196Z"
+    },
+    {
+      "url": "https://patagones.gob.ar/direccioncompras/",
+      "titulo": "Portal de Compras - Municipalidad de Patagones",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T16:03:16.196Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina presencial",
+    "Horarios de atención presencial",
+    "Pasos para realizar el trámite",
+    "Si se requiere turno para el trámite",
+    "Plazo de emisión de la factura",
+    "Costo de emisión de la factura",
+    "Ubicación de oficinas para el trámite"
+  ]
+}

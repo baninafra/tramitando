@@ -1,0 +1,94 @@
+{
+  "tramite": {
+    "slug": "atencion-y-asesoramiento-en-discapacidad-y-adultos-mayores",
+    "nombre": "Atención y asesoramiento en discapacidad y adultos mayores",
+    "nombre_busqueda": "Atención y asesoramiento discapacidad adultos mayores",
+    "resumen": "El Departamento de Discapacidad y Personas Adultas Mayores ofrece asesoramiento, asistencia en trámites de transporte, eximición de tasas y acceso a beneficios para personas con discapacidad y adultos mayores.",
+    "sinonimos": [
+      "Atención discapacidad y adultos mayores",
+      "Asesoramiento discapacidad Baradero"
+    ],
+    "temas": [
+      "discapacidad-y-accesibilidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060070",
+  "organismo": {
+    "nombre": "Municipio de Baradero",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas con discapacidad.",
+      "Adultos mayores."
+    ],
+    "requisitos": [
+      {
+        "texto": "Cédula Única de Discapacidad (CUD) o documento equivalente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del CUD (no original).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitud de legalización de copias (si se necesita).",
+        "aclaracion": "Se realiza en la oficina con 72 horas anticipación."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Ingresá a la plataforma de MiArgentina o descargá la app."
+      },
+      {
+        "texto": "Creá tu cuenta y validá tu identidad."
+      },
+      {
+        "texto": "Ingresá a la sección Mis Trámites y hacé clic en Solicitar Símbolo Internacional de Acceso."
+      },
+      {
+        "texto": "Completá el formulario con los datos del CUD y la patente del vehículo."
+      },
+      {
+        "texto": "Envíá la solicitud y recibí el Símbolo Internacional de Acceso digital o impreso."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si necesitás copias legalizadas, traélas a la oficina con 72 horas anticipación.",
+      "Para pedir pasajes multimodales, pedí con 72 horas de anticipación mínimo."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Departamento de Discapacidad y Personas Adultas Mayores",
+      "direccion": "Santa Maria de Oro 450",
+      "localidad": "Baradero",
+      "horario": null,
+      "fuente_url": "https://baradero.gob.ar/discapacidad-y-adultos-mayores/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://baradero.gob.ar/discapacidad-y-adultos-mayores/",
+      "titulo": "Discapacidad y Adultos Mayores – Municipio de Baradero",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T21:29:11.744Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere confirmar si se necesita turno para la atención presencial.",
+    "Se requiere confirmar el plazo de atención para la legalización de copias."
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "tramite": {
+    "slug": "declarar-objetos-del-equipaje-en-viajes-al-exterior",
+    "nombre": "Declarar objetos del equipaje en viajes al exterior",
+    "nombre_busqueda": "Declarar objetos del equipaje en viajes al exterior",
+    "resumen": "Confeccioná la declaración de bienes de uso personal en tu equipaje al regresar al país, previo haberlos exhibido al salir ante el servicio aduanero.",
+    "sinonimos": [],
+    "temas": [
+      "migraciones-y-extranjeria",
+      "viajar-con-menores-o-mascotas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración Federal de Ingresos Públicos",
+    "sigla": "AFIP",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A cualquier viajero que transporte bienes como parte de su equipaje, para que no le sea exigido el pago de los tributos que gravan la importación para consumo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario OM 121 completo y firmado ante el servicio aduanero.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al servicio Sistema para la declaración de objetos y/o vehículos de ARCA."
+      },
+      {
+        "texto": "Elegí la opción Realizar declaración."
+      },
+      {
+        "texto": "Completá los campos requeridos y hacé clic en Buscar."
+      },
+      {
+        "texto": "Cargá la información solicitada y presioná en Continuar."
+      },
+      {
+        "texto": "Completá los campos en Datos de salida y en Carga de objetos."
+      },
+      {
+        "texto": "Hacé clic en Generar formulario."
+      },
+      {
+        "texto": "Ingresá con el código de ingreso por Internet que te mostrará el sistema para consultar el formulario, realizar las modificaciones que correspondan e imprimirlo con la opción F.121."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/declarar-objetos-del-equipaje-en-viajes-al-exterior",
+      "titulo": "Declarar objetos del equipaje en viajes al exterior | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T05:55:54.281Z"
+    },
+    {
+      "url": "https://serviciosweb.afip.gob.ar/DIA/EXTAPP/P121/P121.WebApp/formularios/E121_ppal.aspx",
+      "titulo": "AFIP - Administración Federal",
+      "bloques": [
+        "pasos"
+      ],
+      "consultada_en": "2026-10-26T05:55:54.281Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica el plazo de tiempo para completar el trámite ni para la exhibición previa de los bienes."
+  ]
+}

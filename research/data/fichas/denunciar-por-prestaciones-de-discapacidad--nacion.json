@@ -1,0 +1,113 @@
+{
+  "tramite": {
+    "slug": "denunciar-por-prestaciones-de-discapacidad",
+    "nombre": "Denunciar por prestaciones de discapacidad",
+    "nombre_busqueda": "Denunciar por prestaciones de discapacidad",
+    "resumen": "Podés realizar una denuncia por problemas en la prestación médica de personas con discapacidad ante la Superintendencia de Servicios de Salud. El trámite es gratuito y se inicia generando un expediente presencial o por TAD.",
+    "sinonimos": [],
+    "temas": [
+      "discapacidad-y-accesibilidad",
+      "prestaciones-medicas-e-incluir-salud"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Servicios de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Beneficiarios de Agentes del Seguro (Obras Sociales Nacionales o Entidades de Medicina Prepaga)."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de Denuncia completo y firmado por el titular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del DNI grupo familiar (de ambos lados).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditación del vínculo entre la persona titular con la persona y la persona con discapacidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Credencial de la Obra Social / Entidad de Medicina Prepaga de la persona titular y de la persona con discapacidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado Único de Discapacidad completo donde conste el diagnóstico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Breve resumen de historia clínica actualizado con letra legible.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Orden médica de la prestación objeto del reclamo emitida por médico especialista de cartilla de su Obra Social o de Hospital Público con letra legible.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que corresponda al régimen (Último recibo de sueldo, factura, último pago, formulario 575 AFIP, último recibo de haberes, último pago de cuota).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Descargá, imprimí y completá el Formulario de Denuncia."
+      },
+      {
+        "texto": "Presentá el expediente en la Superintendencia de Servicios de Salud."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La Superintendencia podrá solicitarte información extra si la considera necesaria para la atención de tu caso."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central",
+      "direccion": "Bartolomé Mitre 434 - Planta Baja - CABA - C1036AAH",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/denunciar-por-prestaciones-de-discapacidad"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/denunciar-por-prestaciones-de-discapacidad",
+      "titulo": "Denunciar por prestaciones de discapacidad | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T04:36:20.186Z"
+    },
+    {
+      "url": "https://turnos.argentina.gob.ar/turnos/seleccionTurno/3024",
+      "titulo": "Sistema Nacional de Turnos",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T04:36:20.186Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia de la Resolución 951/2025 que estipula los plazos y sanciones.",
+    "El plazo exacto de respuesta o resolución de la denuncia.",
+    "La URL específica para solicitar el turno en línea."
+  ]
+}

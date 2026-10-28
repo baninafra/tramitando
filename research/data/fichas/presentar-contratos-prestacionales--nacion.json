@@ -1,0 +1,93 @@
+{
+  "tramite": {
+    "slug": "presentar-contratos-prestacionales",
+    "nombre": "Presentar contratos prestacionales",
+    "nombre_busqueda": "Presentar contratos prestacionales",
+    "resumen": "Trámite gratuito en línea para Obras Sociales Nacionales que deben presentar sus contratos médicos asistenciales y farmacéuticos con prestadores o redes prestacionales.",
+    "sinonimos": [
+      "Contratos prestacionales",
+      "Contratos médicos asistenciales",
+      "Contratos Farmacias/Droguerías"
+    ],
+    "temas": [
+      "trabajo-y-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Servicios de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Obras Sociales Nacionales inscriptas en la Superintendencia de Servicios de Salud",
+      "Usuarios ARCA de la entidad o apoderados"
+    ],
+    "requisitos": [
+      {
+        "texto": "Modelo de nota – Contratos Prestacionales",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Autoridades (Acta del Directorio/Autoridades)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cuerpo de contrato firmado por las partes",
+        "aclaracion": null
+      },
+      {
+        "texto": "Anexos mencionados en el contrato",
+        "aclaracion": null
+      },
+      {
+        "texto": "Inscripción en el Registro Nacional de Prestadores (vigente)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Seguro de mala praxis (vigente)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar mediante la plataforma de Trámites A Distancia con usuario apoderado de la Entidad."
+      },
+      {
+        "texto": "Cargar la documentación obligatoria solicitada."
+      },
+      {
+        "texto": "Hacer clic en Confirmar Trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El inicio del expediente puede estar realizado por la persona física sin omitir la selección como apoderado de la entidad que representa ante ARCA (Ex AFIP)."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/presentar-contratos-prestacionales",
+      "titulo": "Presentar contratos prestacionales | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T00:37:51.351Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia de la resolución marco normativa no está especificada en el texto."
+  ]
+}

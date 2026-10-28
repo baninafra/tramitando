@@ -1,0 +1,116 @@
+{
+  "tramite": {
+    "slug": "inscripcion-renaclab",
+    "nombre": "Inscribirse en el RENACLAB",
+    "nombre_busqueda": "Inscribirse en el Registro Nacional de Certificadoras y Laboratorios de Ensayo",
+    "resumen": "Registro nacional para certificadoras y laboratorios de ensayo y calibración que centraliza información sobre proveedores de servicios de evaluación de la conformidad disponibles en el país.",
+    "sinonimos": [
+      "Inscripción RENACLAB",
+      "Registro Nacional de Certificadoras y Laboratorios de Ensayo y Calibración"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Certificadoras, laboratorios de calibración y ensayo, organismos de inspección, proveedores de ensayos de aptitud y de materiales de referencia, tanto públicos, privados, universitarios, como laboratorios internos de instalaciones industriales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Solicitud de inscripción o actualización y Declaraciones Juradas con firma con firma holográfica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Experiencia técnica comprobada: Declaración Jurada de experiencia técnica firmada el Director técnico que acredita que la entidad cuenta con al menos 25 servicios efectivamente realizados.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Listado de servicios ofrecidos: presentado en una lista detallada con información específica sobre los servicios brindados.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para entidades privadas: Estatuto social inscripto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para entidades privadas: Acta de designación de autoridades inscripta o poder.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para entidades privadas: Nombramiento del Director Técnico (si aplica).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para entidades privadas: Permiso o habilitación vigente o en trámite emitido por autoridad competente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para entidades públicas o universidades: Instrumento legal que acredite su creación (ley, decreto, resolución, otros).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para entidades públicas o universidades: Designación de autoridades.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para entidades públicas o universidades: Nombramiento del Director Técnico (si aplica).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD con CUIT de la entidad a inscribir y clave fiscal de nivel 3."
+      },
+      {
+        "texto": "Seleccionar el tipo de personería (pública o privada)."
+      },
+      {
+        "texto": "Completar la información solicitada, incluyendo acreditaciones y servicios ofrecidos."
+      },
+      {
+        "texto": "Completar el formulario Datos de Evaluación de la Conformidad de manera adicional para cada sede."
+      },
+      {
+        "texto": "Adjuntar la documentación requerida."
+      },
+      {
+        "texto": "Recibir una notificación de TAD confirmando la recepción."
+      },
+      {
+        "texto": "El trámite finaliza al aprobarse la inscripción y será notificada por TAD."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribirse-en-el-registro-nacional-de-certificadoras-y-laboratorios-de-ensayo",
+      "titulo": "Inscribirse en el Registro Nacional de Certificadoras y Laboratorios de Ensayo y Calibración (RENACLAB) | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T17:28:38.938Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo estipulado para la configuración del silencio administrativo es de 60 días hábiles después de haber acreditado el cumplimiento de las condiciones previstas para el otorgamiento de la autorización administrativa."
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "tramite": {
+    "slug": "licencia-de-conducir",
+    "nombre": "Licencia de Conducir",
+    "nombre_busqueda": "Sacar licencia de conducir",
+    "resumen": "Para obtener tu licencia de conducir por primera vez, necesitás tener domicilio en Villa Parque Santa Ana, estar habilitado en el REPAT y rendir un examen médico en el Dispensario municipal.",
+    "sinonimos": [
+      "Obtener carnet de conducir",
+      "Sacar carnet de conducir"
+    ],
+    "temas": [
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141410",
+  "organismo": {
+    "nombre": "Municipio de Villa Parque Santa Ana",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas mayores de 18 años que quieran obtener su licencia de conducir por primera vez.",
+      "Personas que tengan domicilio actualizado en Villa Parque Santa Ana."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener domicilio actualizado en Villa Parque Santa Ana.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estar habilitado en el Registro Provincial de Antecedentes de Tránsito de la Provincia de Córdoba (REPAT).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Realizar el examen de revisión médica en el Dispensario.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Disponer de vehículo para rendir el examen práctico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener último ejemplar del DNI físico con domicilio en la localidad.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Revisá el manual para poder sacar tu licencia de conducir."
+      },
+      {
+        "texto": "Acercate a la Municipalidad para verificar si no contás con multas o inhabilitación en el REPAT."
+      },
+      {
+        "texto": "Realizá el examen médico en el Dispensario."
+      },
+      {
+        "texto": "Presentate en la Municipalidad con toda la documentación."
+      },
+      {
+        "texto": "Completá los exámenes teórico y práctico de manejo."
+      },
+      {
+        "texto": "Aboná el trámite en la caja municipal."
+      },
+      {
+        "texto": "Una vez aprobados todos los exámenes, te entregaremos tu nueva licencia."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Tené en cuenta que los días de lluvia no se realizan las pruebas prácticas.",
+      "Los carnets que se otorguen por tres, cuatro o por cinco años tendrán vigencia total por el periodo otorgado, sin obligación de renovación anual."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Municipalidad Villa Parque Santa Ana",
+      "direccion": "C. 4, X5101 Santa Ana, Córdoba, Argentina",
+      "localidad": "Santa Ana",
+      "horario": null,
+      "fuente_url": "https://villaparquesantaana.gob.ar/guia-de-tramites/licencia-de-conducir/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://villaparquesantaana.gob.ar/guia-de-tramites/licencia-de-conducir/",
+      "titulo": "Licencia de Conducir – Municipio de Villa Parque Santa Ana",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T09:06:23.055Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo exacto para la entrega de la licencia no se especifica en el texto.",
+    "La fecha de vigencia de la licencia no se especifica en el texto."
+  ]
+}

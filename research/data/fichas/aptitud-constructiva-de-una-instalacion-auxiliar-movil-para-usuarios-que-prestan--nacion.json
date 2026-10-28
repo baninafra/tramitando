@@ -1,0 +1,108 @@
+{
+  "tramite": {
+    "slug": "aptitud-constructiva-instalacion-auxiliar-movil-prospeccion-sismografica",
+    "nombre": "Aptitud constructiva de una instalación auxiliar móvil para prospección sismográfica",
+    "nombre_busqueda": "aptitud constructiva instalación auxiliar móvil prospección sismográfica",
+    "resumen": "Trámite ante la ANMaC para verificar la aptitud constructiva de una instalación auxiliar móvil que usan quienes prestan servicio de prospección sismográfica.",
+    "sinonimos": [
+      "habilitación de instalación auxiliar móvil",
+      "aptitud constructiva de polvorín móvil",
+      "verificación técnica de instalación para explosivos"
+    ],
+    "temas": [
+      "obras-y-construccion"
+    ],
+    "temas_propuestos": [
+      {
+        "slug": "explosivos-y-materiales-controlados",
+        "nombre": "Explosivos y materiales controlados",
+        "padre": null
+      }
+    ]
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Agencia Nacional de Materiales Controlados",
+    "sigla": "ANMaC",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Usuarios que prestan servicio de prospección sismográfica y necesitan habilitar una instalación auxiliar móvil."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de solicitud que identifique la instalación sobre la que pedís la verificación técnica (Disp. RENAR 081/05).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración jurada con los tipos de explosivos a almacenar, la capacidad máxima requerida y las medidas de seguridad contra incendio adoptadas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano de distribución interno del polvorín con la altura y el ancho de las estibas, la distancia entre ellas y la distancia a las paredes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotografías firmadas por el representante legal o el titular, que muestren el interior y el exterior de las instalaciones.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que acredite el carácter en que tenés la instalación que querés habilitar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ficha de Datos Técnicos (FDT) N° F5.",
+        "aclaracion": "Se puede descargar en la página del trámite."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La constancia de aptitud constructiva solo vale si mantenés la inscripción anual como Usuario de Explosivos en el rubro específico.",
+      "El vencimiento de la constancia nunca puede superar los cinco años.",
+      "Las certificaciones y habilitaciones del RENAR son intransferibles: no se pueden ceder ni alquilar parcialmente.",
+      "Si la instalación que vas a ceder o alquilar ya tiene habilitación o aptitud constructiva a favor del locador o cedente, esa persona tiene que pedir la baja y presentar el instrumento de transferencia junto con la documentación que entregó la ANMaC."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "Arancel",
+      "gratis": false,
+      "monto_centavos": 20000,
+      "vigente_desde": null,
+      "nota": "Se abona con estampillas.",
+      "fuente_url": "https://www.argentina.gob.ar/servicio/aptitud-constructiva-de-una-instalacion-auxiliar-movil-para-usuarios-que-prestan-servicio"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/aptitud-constructiva-de-una-instalacion-auxiliar-movil-para-usuarios-que-prestan-servicio",
+      "titulo": "Aptitud constructiva de una instalación auxiliar móvil para usuarios que prestan servicio de prospección sismográfica.",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:37:00.270Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se indica cuánto tarda el trámite.",
+    "No se indica desde cuándo rige el arancel de $200.00.",
+    "No se aclara si hace falta sacar turno.",
+    "No se informan direcciones ni horarios de los Centros de Atención de ANMaC.",
+    "No se aclara si el trámite se puede iniciar por internet."
+  ]
+}

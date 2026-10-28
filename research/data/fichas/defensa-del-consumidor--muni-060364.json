@@ -1,0 +1,116 @@
+{
+  "tramite": {
+    "slug": "defensa-del-consumidor",
+    "nombre": "Defensa del Consumidor: Presentación de reclamos y denuncias",
+    "nombre_busqueda": "Reclamos defensa del consumidor",
+    "resumen": "La Dirección de Defensa e Información al Consumidor atiende en el tercer piso del nuevo edificio municipal para asesorar y realizar reclamos de forma gratuita. Se pueden presentar denuncias ante organismos correspondientes y descargar formularios.",
+    "sinonimos": [
+      "Reclamos al consumidor",
+      "Denuncias defensa del consumidor"
+    ],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060364",
+  "organismo": {
+    "nombre": "Dirección de Defensa e Información al Consumidor",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier usuario que necesite asesorarse o realizar reclamos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia o impresión del comprobante del número de reclamo ante la distribuidora y/o algún medio de comunicación con la empresa de donde surja la constancia del reclamo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de factura objetada y factura de anteriores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el servicio no está a su nombre, deberá presentar una fotocopia del título de propiedad o del contrato de alquiler, o de un servicio a su nombre, o del DNI donde conste el domicilio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de teléfono celular/particular o correo electrónico para contactarse.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI (Original y copia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia o número de trámite ante el ENRE.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Captura de pantalla de la conversación con la empresa (si no hay respuesta satisfactoria en Facebook Messenger) e impresión de la misma.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Efectuar el reclamo a la empresa a través de la página oficial de Facebook de Edenor enviando un mensaje por privado a través de Facebook Messenger."
+      },
+      {
+        "texto": "Ingresar a la página del ENRE en Argentina.gob.ar, sección Gestión de Reclamos/Formularios Online/Formulario para atención de usuarios y completar el formulario que aparece en pantalla."
+      },
+      {
+        "texto": "Comunicarse con el ENRE al 011 5199 0950 opción 1, donde recibirá las indicaciones para continuar con el proceso de reclamo."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentarse en el tercer piso del nuevo edificio municipal (Int. Garraham 226) de lunes a viernes de 8 a 14 horas para asesorarse y realizar los reclamos."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "nuevo edificio municipal",
+      "direccion": "Int. Garraham 226",
+      "localidad": "Int. Garraham 226",
+      "horario": null,
+      "fuente_url": "https://generalrodriguez.gob.ar/tramites/defensa-del-consumidor"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://generalrodriguez.gob.ar/tramites/defensa-del-consumidor",
+      "titulo": "Defensa del consumidor - Trámites | Municipalidad de General Rodriguez",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:06:39.125Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/enre/gestion-de-reclamos/formularios-online/formulario-atencion-usuarios",
+      "titulo": "Para reclamar por otras deficiencias en el servicio de EDENOR / EDESUR | Argentina.gob.ar",
+      "bloques": [
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T14:06:39.125Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se especifica que el trámite es totalmente gratuito, pero no se indica un monto exacto en centavos.",
+    "No se especifica el plazo exacto para la resolución del reclamo ante la Municipalidad."
+  ]
+}

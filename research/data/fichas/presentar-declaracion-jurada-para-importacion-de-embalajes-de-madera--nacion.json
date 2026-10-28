@@ -1,0 +1,114 @@
+{
+  "tramite": {
+    "slug": "presentar-declaracion-jurada-para-importacion-de-embalajes-de-madera",
+    "nombre": "Presentar declaración jurada para importación de embalajes de madera",
+    "nombre_busqueda": "declaracion jurada embalajes madera importacion",
+    "resumen": "Para ingresar mercaderías en embalajes de madera al país, necesitás solicitar una autorización ante el Senasa mediante una declaración jurada. El trámite se puede hacer en línea o presencialmente, previa adhesión a los servicios de ARCA.",
+    "sinonimos": [
+      "autorizacion embalajes madera senasa",
+      "declaracion jurada madera importacion"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Importador de mercaderías acondicionadas en embalajes de madera."
+    ],
+    "requisitos": [
+      {
+        "texto": "Estar registrado en la ARCA como despachante de Aduana / Agente de Transporte Aduanero (ATA) / Importador.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Realizar la adhesión, delegación y aceptación del SIG Embalajes a través de la página de la ARCA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para la gestión online, tener domicilio electrónico declarado en el sistema SIGTrámites.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para la gestión presencial, completar el formulario Declaración jurada de embalajes de madera por duplicado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para la gestión presencial, tener el embalaje descortezado, libre de insectos y/o signos de actividad biológica, tratado y certificado en concordancia con la NIMF N° 15.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Accedé al Sistema Integrado de Gestión (SIG) de Embalajes de Madera de Importación mediante la plataforma de ARCA - SIG Embalajes o por TAD."
+      },
+      {
+        "texto": "Indicá la información solicitada en el sistema online Sig Embalajes previo a la llegada del embalaje."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el formulario Declaración jurada de embalajes de madera por duplicado en la oficina del Senasa autorizada y asociada al punto de ingreso de la mercadería al país."
+      },
+      {
+        "texto": "Aboná el arancel correspondiente en la oficina del Senasa."
+      },
+      {
+        "texto": "Recibí las boletas para el pago de arancel."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La declaración jurada tiene vigencia de 15 días corridos a partir de la generación de la boleta de pago, aún cuando no haya sido realizado el pago.",
+      "Antes de esa fecha límite de arribo el trámite tiene que estar liberado o con el turno de inspección pedido en el sistema.",
+      "Si la DDJJ queda retenida por inspección, tenés que solicitar un turno, por sistema, en la solapa turnos/consulta."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Protección Vegetal",
+      "direccion": "Av. Paseo Colón N° 367, Piso 6° contrafrente, C1063ACD, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/presentar-declaracion-jurada-para-importacion-de-embalajes-de-madera"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/presentar-declaracion-jurada-para-importacion-de-embalajes-de-madera",
+      "titulo": "Presentar declaración jurada para importación de embalajes de madera | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T01:01:03.554Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T01:01:03.554Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel a abonar."
+  ]
+}

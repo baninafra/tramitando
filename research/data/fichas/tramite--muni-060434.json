@@ -1,0 +1,77 @@
+{
+  "tramite": {
+    "slug": "presentacion-de-comprobantes-de-pago-por-transferencia",
+    "nombre": "Presentación de comprobantes de pago por transferencia",
+    "nombre_busqueda": "Presentación de comprobantes de pago por transferencia",
+    "resumen": "Solicitud para acreditar el pago de tributos comerciales y publicidad mediante transferencia bancaria.",
+    "sinonimos": [],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "tasa-inmobiliaria-y-servicios",
+      "tasa-de-comercio-e-industria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060434",
+  "organismo": {
+    "nombre": "Agencia Municipal de Ingresos Públicos",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Solicitante de la acreditación"
+    ],
+    "requisitos": [
+      {
+        "texto": "Comprobante de pago por transferencia",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal de trámites web."
+      },
+      {
+        "texto": "Buscá el trámite correspondiente."
+      },
+      {
+        "texto": "Completá los datos requeridos."
+      },
+      {
+        "texto": "Adjuntá el comprobante de pago por transferencia."
+      },
+      {
+        "texto": "Realizá el pago de la tasa correspondiente."
+      },
+      {
+        "texto": "Recibí el comprobante de pago."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://tramitesweb.lanus.gob.ar/tramites/272/presentacion-de-comprobantes-de-pago-por-transferencia",
+      "titulo": "Presentación de Comprobantes de Pago por Transferencia",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T14:23:08.181Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa no se especifica en el texto.",
+    "El plazo de resolución no se especifica en el texto.",
+    "La dirección de las oficinas no se especifica en el texto."
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "tramite": {
+    "slug": "obtener-prorroga-de-residencia-transitoria-como-estudiante",
+    "nombre": "Obtener prórroga de residencia transitoria como estudiante",
+    "nombre_busqueda": "Prorroga residencia transitoria estudiante",
+    "resumen": "Se otorga una residencia transitoria de hasta 365 días para cursar estudios o realizar actividades vinculadas al conocimiento. El trámite es semipresencial y requiere acreditar identidad, domicilio y la condición de estudiante según tu categoría.",
+    "sinonimos": [
+      "Extensión de residencia transitoria estudiante",
+      "Residencia transitoria estudiante"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria",
+      "residencias-temporarias-y-permanentes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Migraciones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas extranjeras que hayan obtenido una residencia transitoria en la categoría de estudiante y deseen extender su permanencia."
+    ],
+    "requisitos": [
+      {
+        "texto": "Pasaporte válido y vigente (todas las nacionalidades).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Nacionalidad emitido por autoridad Consular (solo si se presenta en lugar del pasaporte).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Antecedentes Penales Argentinos emitido por el Registro Nacional de Reincidencia (solo para mayores de 16 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado que acredite fehacientemente que no registra condenas anteriores ni procesos penales en trámite, emitido por las autoridades competentes de los países donde haya residido por un plazo superior a un año, durante el transcurso de los últimos tres años (solo para mayores de 16 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de Inscripción Electrónica según tu categoría.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Convenio internacional o carta de aceptación según tu categoría.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Partida de nacimiento legalizada (para menores de 18 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización de alguno de sus padres, quien deberá presentarse al momento de realizar el trámite con DNI vigente (para menores de 18 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Instrumento público de designación de tutor sobre el menor (si los padres no residan en el territorio nacional).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación de documentación con firma certificada por el Ministerio de Educación, funcionario Migratorio o escribano público.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Legalización del Consulado Argentino o Apostillada de la Convención de la Haya para documentación expedida en el exterior.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Legalización del Ministerio de Relaciones Exteriores Comercio Internacional y Culto para documentación expedida por representaciones consulares en el territorio nacional (excepto MERCOSUR).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Traducción al castellano por un traductor público nacional y legalización por el Colegio de Traductores (si la documentación está en idioma extranjero).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación original.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá tu trámite a distancia ingresando en el sistema RaDEX."
+      },
+      {
+        "texto": "Registrate como usuario."
+      },
+      {
+        "texto": "Completá el formulario de solicitud."
+      },
+      {
+        "texto": "Aboná las tasas correspondientes."
+      },
+      {
+        "texto": "Adjuntá la documentación y datos requeridos según el tipo de residencia a la que quieras aplicar."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Recibí un email con la fecha de tu cita presencial si cumplís con los requisitos para formalizar tu solicitud."
+      },
+      {
+        "texto": "Presentá la documentación original y los certificados en la cita."
+      },
+      {
+        "texto": "Recibí el Certificado de Antecedentes Penales Argentinos si se tramitó por fuera de RADEX."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://www.argentina.gob.ar/turnos",
+    "plazo": null,
+    "consejos": [
+      "La residencia transitoria se otorga por un plazo máximo de un año, prorrogable.",
+      "Es necesario que te encuentres dentro del territorio de la República Argentina.",
+      "Podés realizar tu trámite con cita preferencial abonando un monto adicional.",
+      "Las tramitaciones ante la Dirección Nacional de Migraciones son personales y sencillas, no se necesita la asistencia de un gestor."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-prorroga-de-residencia-transitoria-como-estudiante",
+      "titulo": "Obtener prórroga de residencia transitoria como estudiante | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T06:44:10.492Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T06:44:10.492Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de las tasas migratorias no se especifica en el texto.",
+    "El plazo exacto de tramitación no se especifica en el texto."
+  ]
+}

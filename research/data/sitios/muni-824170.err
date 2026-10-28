@@ -1,0 +1,3 @@
+ASSERTION FAILED: MemoryExhaustion: Crash intentionally because memory is exhausted.
+failureMode != AllocationFailureMode::Assert
+C:\a\WebKit\WebKit\Source\JavaScriptCore\heap\LocalAllocator.cpp(150) : void *JSC::LocalAllocator::allocateSlowCase(JSC::Heap &, size_t, GCDeferralContext *, AllocationFailureMode)

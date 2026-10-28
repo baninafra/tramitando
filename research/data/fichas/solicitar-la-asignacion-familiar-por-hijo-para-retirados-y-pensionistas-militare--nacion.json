@@ -1,0 +1,173 @@
+{
+  "tramite": {
+    "slug": "solicitar-asignacion-familiar-hijo-retirados-pensionistas-militares",
+    "nombre": "Solicitar la asignación familiar por hijo para retirados y pensionistas militares",
+    "nombre_busqueda": "Solicitar asignación familiar por hijo retirados pensionistas militares",
+    "resumen": "Es un pago mensual para hijos menores de 18 años a cargo de retirados y pensionistas militares. Es gratuito y se cobra hasta cumplir los 18 años del menor.",
+    "sinonimos": [
+      "Asignación familiar por hijo",
+      "Asignación familiar por nieto"
+    ],
+    "temas": [
+      "familia-y-pareja"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Retirados y pensionistas militares beneficiarios del IAF que residan en el país",
+      "Con hijos o nietos menores de 18 años a cargo",
+      "Cuyos haberes estén dentro de los topes vigentes",
+      "Que no se encuentren percibiéndolas por ninguna otra Entidad"
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI de los progenitores y del menor a cargo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Partida de nacimiento del menor a cargo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de CUIT/CUIL de los progenitores y del menor a cargo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta de matrimonio, libreta de familia o certificado de convivencia de los progenitores",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancias de antecedentes laborales de ambos progenitores",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación negativa",
+        "aclaracion": null
+      },
+      {
+        "texto": "Historia laboral",
+        "aclaracion": null
+      },
+      {
+        "texto": "Registro Único de Beneficiarios (RUB)",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUNA",
+        "aclaracion": null
+      },
+      {
+        "texto": "Recibo de haberes si alguno de los progenitores se desempeña en relación de dependencia o percibe un beneficio previsional",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de la categoría en que se está inscripto y ticket del importe abonado si se es monotributista",
+        "aclaracion": null
+      },
+      {
+        "texto": "Información sumaria realizada ante un Juzgado si se trata de hijos extramatrimoniales",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia autenticada de la sentencia judicial emitida por la autoridad competente si hay menores bajo guarda o tenencia",
+        "aclaracion": null
+      },
+      {
+        "texto": "Sentencia de divorcio y autorización al cobro si los padres están separados",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de Autorización de Cobro con firmas certificadas si los padres están separados",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado original extendido por el médico obstetra con fecha probable de parto, firma y sello para asignación por prenatal",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar con CUIL y contraseña al portal eIAF Beneficiarios o a la App eIAF"
+      },
+      {
+        "texto": "Dejar la solicitud en el apartado Sistema Integrado de Consultas"
+      },
+      {
+        "texto": "Recibir indicaciones de personal de Atención al Público para realizar el trámite"
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acercarse con la documentación requerida a la sede central del IAF en Cerrito 572 – CABA o a las Delegaciones del Interior"
+      },
+      {
+        "texto": "Presentar la documentación requerida"
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Para percibir la totalidad de la asignación por prenatal, presentá la documentación antes del 6° mes de gestación",
+      "Con posterioridad al 6° mes, solo se abonarán los meses restantes hasta el nacimiento"
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede central del IAF",
+      "direccion": "Cerrito 572",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-la-asignacion-familiar-por-hijo-para-retirados-y-pensionistas-militares"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-asignacion-familiar-por-hijo-para-retirados-y-pensionistas-militares",
+      "titulo": "Solicitar la asignación familiar por hijo para retirados y pensionistas militares. | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T09:17:56.092Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-el-pago-de-la-asignacion-familiar-por-prenatal-para-retirados-y-pensionistas",
+      "titulo": "Solicitar el pago de la asignación familiar por prenatal para retirados y pensionistas militares. | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T09:17:56.092Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/iaf",
+      "titulo": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares | Argentina.gob.ar",
+      "bloques": [
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T09:17:56.092Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Vigencia exacta",
+    "Plazo de tramitación",
+    "Horarios de atención presencial",
+    "Horarios de atención telefónica",
+    "Vías de contacto específicas"
+  ]
+}

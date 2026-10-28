@@ -1,0 +1,74 @@
+{
+  "tramite": {
+    "slug": "planes-de-pago-municipales",
+    "nombre": "Pagar tasas municipales",
+    "nombre_busqueda": "Pagar tasas Anisacate",
+    "resumen": "Podés pagar tus tasas municipales online con CIDI o en cuotas con CORDOBESA, o recibir tus boletas digitalmente.",
+    "sinonimos": [
+      "Pago de tasas",
+      "Pago de servicios",
+      "Pago municipal online"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "planes-de-pago-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141375",
+  "organismo": {
+    "nombre": "Municipalidad de Anisacate",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier ciudadano que tenga boletas de tasas municipales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de cuenta bancaria",
+        "aclaracion": null
+      },
+      {
+        "texto": "Correo electrónico",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal de pagos de la Municipalidad de Anisacate."
+      },
+      {
+        "texto": "Seleccioná la opción de pago online."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Podés recibir tus boletas de manera digital si adherís al servicio.",
+      "Para gestionar planes de pago, necesitás ingresar a través de CiDi."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://anisacatemunicipio.gob.ar/pagos/",
+      "titulo": "Pagos – Municipalidad de Anisacate",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T07:58:52.972Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica en el texto si el trámite requiere turno para el pago presencial."
+  ]
+}

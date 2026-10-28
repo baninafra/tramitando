@@ -1,0 +1,84 @@
+{
+  "tramite": {
+    "slug": "reclamos-y-asesoramiento-al-consumidor",
+    "nombre": "Reclamos y asesoramiento al consumidor",
+    "nombre_busqueda": "OMIC de General La Madrid",
+    "resumen": "La OMIC brinda información, asesoramiento y recibe reclamos sobre temas de consumo. La atención es directa y gratuita.",
+    "sinonimos": [
+      "OMIC",
+      "Oficina Municipal de Información al Consumidor"
+    ],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060322",
+  "organismo": {
+    "nombre": "Oficina Municipal de Información al Consumidor",
+    "sigla": "OMIC",
+    "web": "https://www.lamadrid.gob.ar/omic/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Todos los ciudadanos pueden pedir información sobre problemas que los afecten como consumidores."
+    ],
+    "requisitos": [
+      {
+        "texto": "Factura que acredite la relación de consumo.",
+        "aclaracion": "Para presentar un reclamo."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a la OMIC para consultar o recibir asesoramiento."
+      },
+      {
+        "texto": "Presentá la factura que acredite la relación de consumo para iniciar un reclamo."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": true,
+      "monto_centavos": null,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.lamadrid.gob.ar/omic/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "OMIC",
+      "direccion": "San Martín 831",
+      "localidad": "General La Madrid",
+      "horario": null,
+      "fuente_url": "https://www.lamadrid.gob.ar/omic/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.lamadrid.gob.ar/omic/",
+      "titulo": "OMIC – Municipalidad de General La Madrid",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T12:47:11.333Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se indica si hace falta turno.",
+    "No se especifica si los reclamos se pueden completar por internet."
+  ]
+}

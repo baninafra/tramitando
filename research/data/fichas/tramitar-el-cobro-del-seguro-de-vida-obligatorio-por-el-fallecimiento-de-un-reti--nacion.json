@@ -1,0 +1,111 @@
+{
+  "tramite": {
+    "slug": "cobro-seguro-vida-obligatorio-retirado",
+    "nombre": "Cobro del seguro de vida obligatorio por el fallecimiento de un retirado",
+    "nombre_busqueda": "cobro seguro vida obligatorio retirado fallecido",
+    "resumen": "Los familiares o beneficiarios pueden gestionar el cobro del Seguro de Vida Obligatorio ante el IAF si el titular era un retirado militar con código de descuento 177. El trámite es gratuito y requiere documentación específica que varía según el caso.",
+    "sinonimos": [
+      "cobro seguro vida obligatoria militar",
+      "beneficiario seguro vida retirado fallecido"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones",
+      "pensiones-por-fallecimiento"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Familiares o beneficiarios a quienes les corresponda el cobro del Seguro de Vida Obligatorio por el fallecimiento del titular."
+    ],
+    "requisitos": [
+      {
+        "texto": "Partida de defunción del titular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del/de los solicitante/s.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Talón Original de Designación que oportunamente fuera remitido al retirado militar, con la correspondiente certificación de la Caja de Ahorro y Seguro.",
+        "aclaracion": "Si sos beneficiario del Seguro nombrado en vida por el titular."
+      },
+      {
+        "texto": "Partida de matrimonio actualizada con fecha posterior a la de fallecimiento del titular.",
+        "aclaracion": "Si sos la esposa del fallecido."
+      },
+      {
+        "texto": "Partida de defunción de la esposa.",
+        "aclaracion": "Si son herederos del titular y la esposa se encuentra fallecida."
+      },
+      {
+        "texto": "Libreta de Familia.",
+        "aclaracion": "Si son herederos del titular y la esposa se encuentra fallecida."
+      },
+      {
+        "texto": "Acta de nacimiento de cada uno de los hijos.",
+        "aclaracion": "Si son herederos del titular y la esposa se encuentra fallecida."
+      },
+      {
+        "texto": "Oficio Judicial que se desprende de la Declaratoria de Herederos del causante, debidamente certificado por el Juzgado interviniente.",
+        "aclaracion": "Opcional para simplificar la documentación detallada en los puntos anteriores."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate con la documentación requerida a la sede central del IAF, Cerrito 572 – CABA o las Delegaciones del Interior, en el horario de 08:00 a 13:00 horas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El plazo para tramitar el cobro del SVO es de 10 (diez) años a partir de la fecha de fallecimiento del titular."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede central del IAF",
+      "direccion": "Cerrito 572",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/tramitar-el-cobro-del-seguro-de-vida-obligatorio-por-el-fallecimiento-de-un-retirado"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tramitar-el-cobro-del-seguro-de-vida-obligatorio-por-el-fallecimiento-de-un-retirado",
+      "titulo": "Tramitar el cobro del Seguro de Vida Obligatorio por el fallecimiento de un retirado militar. | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T17:48:56.160Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/iaf",
+      "titulo": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T17:48:56.160Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia del trámite.",
+    "Si el trámite se puede realizar completamente por internet."
+  ]
+}

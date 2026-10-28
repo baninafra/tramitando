@@ -1,0 +1,120 @@
+{
+  "tramite": {
+    "slug": "rubrica-de-libro-de-farmacia",
+    "nombre": "Rubrica de libro de farmacia",
+    "nombre_busqueda": "rubrica libro farmacia",
+    "resumen": "El trámite consiste en solicitar la rubrica de los Libros de Establecimientos Farmacéuticos. Es gratuito y se realiza presencialmente en el Ministerio de Salud.",
+    "sinonimos": [],
+    "temas": [
+      "medicamentos-y-farmacia-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Director del establecimiento"
+    ],
+    "requisitos": [
+      {
+        "texto": "Solicitar turno",
+        "aclaracion": null
+      },
+      {
+        "texto": "Libro anterior",
+        "aclaracion": null
+      },
+      {
+        "texto": "Libro a rubricar",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de no ser el Director Técnico quien se presente, el tercero debe presentarse con autorización firmada por aquel",
+        "aclaracion": null
+      },
+      {
+        "texto": "Disposición de habilitación",
+        "aclaracion": null
+      },
+      {
+        "texto": "Disposición por la que se nombra el Director Técnico actual",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de no poseerla, indicar el número de expediente en el que consta el inicio del trámite",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de robo y/o extravío, presentar denuncia policial (original y copia)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Entrá en Mi Argentina o creá tu cuenta y solicitá turno en línea"
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "El día del turno presentate con la documentación en el Ministerio de Salud, en Lima 340, piso 7 (oficina 6) Ala Moreno"
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://turnos.argentina.gob.ar/turnos/seleccionTurno/454",
+    "plazo": null,
+    "consejos": [
+      "Por motivo de la pandemia del Coronavirus (COVID-19), quedan suspendidos todos los turnos durante el período de aislamiento social, preventivo y obligatorio"
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Ministerio de Salud",
+      "direccion": "Lima 340",
+      "localidad": "Lima 340",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/rubrica-de-libro-de-farmacia"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/rubrica-de-libro-de-farmacia",
+      "titulo": "Rúbrica de libro de farmacia | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T04:07:26.752Z"
+    },
+    {
+      "url": "https://turnos.argentina.gob.ar/turnos/seleccionTurno/454",
+      "titulo": "Sistema Nacional de Turnos",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T04:07:26.752Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T04:07:26.752Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite",
+    "El plazo de espera para la resolución"
+  ]
+}

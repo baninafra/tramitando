@@ -1,0 +1,90 @@
+{
+  "tramite": {
+    "slug": "sistema-de-atencion-y-reclamos-ciudadanos-cuari",
+    "nombre": "Sistema de Atención y Reclamos Ciudadanos (CUARI)",
+    "nombre_busqueda": "CUARI",
+    "resumen": "Es el sistema oficial para presentar reclamos, sugerencias y denuncias ante el municipio de Marcos Paz. Se puede hacer por internet o presencialmente.",
+    "sinonimos": [
+      "CUARI Marcos Paz",
+      "Reclamos Marcos Paz",
+      "Denuncias Marcos Paz"
+    ],
+    "temas": [
+      "gobierno-y-participacion",
+      "mesa-de-entradas-y-expedientes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060525",
+  "organismo": {
+    "nombre": "Municipio de Marcos Paz",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier ciudadano",
+      "Cualquier persona natural o jurídica"
+    ],
+    "requisitos": [
+      {
+        "texto": "Identificación personal",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio web oficial del CUARI."
+      },
+      {
+        "texto": "Seleccioná el tipo de trámite (reclamo, sugerencia o denuncia)."
+      },
+      {
+        "texto": "Completá los datos solicitados en los formularios."
+      },
+      {
+        "texto": "Adjuntá los documentos si los tenés."
+      },
+      {
+        "texto": "Revisá los datos y enviá el formulario."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acudí a la oficina de atención ciudadana."
+      },
+      {
+        "texto": "Presentá tu identificación personal."
+      },
+      {
+        "texto": "Explicá el motivo de tu reclamo o denuncia."
+      },
+      {
+        "texto": "Recibí el comprobante de presentación."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.marcospazdigital.gob.ar/cuari",
+      "titulo": "Marcos Paz Digital",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T15:42:05.564Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere especificar si se necesita sacar turno para el trámite presencial.",
+    "Se requiere especificar el plazo de respuesta o resolución del reclamo."
+  ]
+}

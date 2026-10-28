@@ -1,0 +1,60 @@
+{
+  "tramite": {
+    "slug": "centro-de-consultas-y-asistencia",
+    "nombre": "Centro de Consultas y Asistencia",
+    "nombre_busqueda": "Centro de Consultas y Asistencia Pinamar",
+    "resumen": "Servicio para resolver dudas y reclamos de la Municipalidad de Pinamar vía WhatsApp o presencialmente.",
+    "sinonimos": [],
+    "temas": [
+      "gobierno-y-participacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060644",
+  "organismo": {
+    "nombre": "Municipalidad de Pinamar",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier ciudadano que tenga dudas o reclamos con la Municipalidad de Pinamar."
+    ],
+    "requisitos": [
+      {
+        "texto": "Consulta o reclamo escrito.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate al Centro de Consultas y Asistencia."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://pinamar.gob.ar/cca/",
+      "titulo": "Centro de Consultas y Asistencia – Municipalidad de Pinamar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T16:34:25.990Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta del Centro de Consultas y Asistencia.",
+    "Horarios de atención.",
+    "Si se requiere turno para consultas presenciales."
+  ]
+}

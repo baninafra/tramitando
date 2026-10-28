@@ -1,0 +1,95 @@
+{
+  "tramite": {
+    "slug": "cambiar-el-uso-de-un-automotor",
+    "nombre": "Cambiar el uso de un automotor",
+    "nombre_busqueda": "Cambiar uso automotor",
+    "resumen": "Este trámite te permite modificar el uso destinado al automotor, por ejemplo, de particular a taxi o remís. Lo realiza el titular, condómino, apoderado o el comprador.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias",
+      "cedula-del-vehiculo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro de la Propiedad Automotor",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Al dueño/a, su apoderado/a o el comprador/a del vehículo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario Tipo 02.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título y cédula del automotor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de autoridad competente de cada jurisdicción.",
+        "aclaracion": "En la Ciudad Autónoma de Buenos Aires se requiere el certificado de SACTA S.A o escritura de transferencia de licencia para el caso de taxímetros."
+      },
+      {
+        "texto": "Documento identificatorio.",
+        "aclaracion": "Si sos argentino: DNI (LC o LE si tenés más de 75 años). Si sos extranjero sin residencia: pasaporte; con residencia permanente: DNI; de países limítrofes: dni, ci, ci del país de origen o pasaporte. La constancia de Documento en trámite no acredita identidad. En el caso en que vos seas el represen…"
+      },
+      {
+        "texto": "Formulario 59.",
+        "aclaracion": "Sólo en caso de que otra persona distinta del titular presente la solicitud. En este caso, la firma tiene que haber sido certificada ante escribano público o en el Registro en fecha anterior a la de la presentación."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá la Solicitud electrónica, para complementar luego el trámite de manera presencial en el Registro."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación en el Registro donde está radicado el vehículo."
+      },
+      {
+        "texto": "Si no abonaste en línea, pagá allí los aranceles."
+      },
+      {
+        "texto": "Retirá el título y la cédula con la inscripción del nuevo uso al día siguiente."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/cambiar-el-uso-de-un-automotor",
+      "titulo": "Cambiar el uso de un automotor | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T04:41:46.058Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T04:41:46.058Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No está especificado si se requiere turno para este trámite.",
+    "No se indica un plazo de tiempo para la resolución del trámite."
+  ]
+}

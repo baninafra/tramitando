@@ -1,0 +1,165 @@
+{
+  "tramite": {
+    "slug": "otras-habilitaciones-municipales",
+    "nombre": "Otras habilitaciones municipales",
+    "nombre_busqueda": "Otras habilitaciones municipales",
+    "resumen": "Trámite para obtener habilitaciones municipales como criadero porcino o registro de marcas de productores apícolas. Requiere documentación específica según la actividad y presentación presencial.",
+    "sinonimos": [
+      "Habilitaciones municipales",
+      "Habilitaciones de criadero",
+      "Registro apícola municipal"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas dedicadas a la obra pública habilitadas por su Estatuto",
+      "Empresas unipersonales",
+      "Sociedades comerciales nacionales o extranjeras",
+      "Cooperativas",
+      "Uniones transitorias de empresas (UTE)",
+      "Profesionales legalmente capacitados para contratar"
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota dirigida al Intendente, solicitando la aprobación del emprendimiento productivo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que acredite la tenencia de la tierra (escritura propietaria, contrato de arrendamiento, contrato de aparcería, comodato u otro documento relacionado a la tenencia de la tierra)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Especificación de la nomenclatura catastral",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de CUIT (AFIP)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación pertinente para sociedades u otras figuras asociativas",
+        "aclaracion": null
+      },
+      {
+        "texto": "Croquis detallado del establecimiento",
+        "aclaracion": null
+      },
+      {
+        "texto": "Memoria descriptiva con razas, cantidades por categorías, procedencia, instalaciones, provisión de agua, desagües o conducción/tratamiento de efluentes",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de un plan sanitario, rubricado por un profesional",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de control de plagas",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informe de factibilidad productiva del INTA",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cumplimentar la Declaración Jurada con el detalle de ubicación de los apiarios y cantidad de colmenas en cada uno, certificando la ruralidad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar certificado de idoneidad del titular o del responsable técnico de los apiarios",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de DNI del o los titulares del registro de Marcas de Productores Apícolas o escritura constitutiva en caso de ser personería jurídica",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación en la oficina de Catastro (Bahía Blanca) o la oficina que cada municipio determine para la certificación de ruralidad de los apiarios"
+      },
+      {
+        "texto": "Bajá las planillas para ambos registros desde la página web www.maa.gba.gov.ar ingresando por el link Programa Miel Buenos Aires"
+      },
+      {
+        "texto": "Efectuá las Declaraciones Juradas en la cantidad de municipios que se hallen comprometidos"
+      },
+      {
+        "texto": "Presentá el certificado de idoneidad del titular o del responsable técnico de los apiarios"
+      },
+      {
+        "texto": "Generá la boleta de pago desde la página web www.maa.gba.gov.ar ingresando a Tasas y Pagos, Registro de Establecimiento Apícola"
+      },
+      {
+        "texto": "Generá la boleta de pago del timbrado habilitante desde la página web www.maa.gba.gov.ar ingresando a Tasas y Pagos"
+      },
+      {
+        "texto": "Pagá la tasa correspondiente por la inscripción o renovación del Registro Provincial de Productores Apícolas cada 5 años"
+      },
+      {
+        "texto": "Pagá el timbrado habilitante del trámite"
+      },
+      {
+        "texto": "Presentá la documentación en el Registro de Licitadores que funciona en la Secretaría de Infraestructura"
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1490000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/habilitaciones/otras/"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 200000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/habilitaciones/otras/"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/tramites/habilitaciones/otras/",
+      "titulo": "Otras Habilitaciones | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T14:51:42.054Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El horario de atención del Registro de Licitadores es de lunes a viernes de 8:00 hs a 14:00 hs",
+    "El horario de atención de la oficina de Catastro no se especifica en el texto",
+    "La dirección exacta de la oficina de Catastro no se especifica en el texto"
+  ]
+}

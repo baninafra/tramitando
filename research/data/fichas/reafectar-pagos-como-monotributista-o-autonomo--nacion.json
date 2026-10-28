@@ -1,0 +1,100 @@
+{
+  "tramite": {
+    "slug": "reafectar-pagos-como-monotributista-o-autonomo",
+    "nombre": "Reafectar pagos como monotributista o autónomo",
+    "nombre_busqueda": "Reafectar pagos monotributo",
+    "resumen": "Te explicamos cómo reafectar un saldo a tu favor, asignándolo a otro período, en caso de hayas pagado de más en tu cuota mensual como monotributista o autónomo.",
+    "sinonimos": [
+      "Reimputar pago monotributo",
+      "Reafectar saldo a favor monotributo"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo",
+      "monotributo-social-y-general"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración Nacional de Administración de la Contraloría y Administración",
+    "sigla": "ARCA",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Monotributistas y autónomos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Clave fiscal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario 399 completo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio web de ARCA con tu clave fiscal."
+      },
+      {
+        "texto": "Seleccioná al servicio CCMA Cuenta Corriente para Contribuyentes Monotributistas y Autónomos."
+      },
+      {
+        "texto": "Posicionate sobre el ítem Cuenta corriente."
+      },
+      {
+        "texto": "Seleccioná Recálculo de deuda a fecha."
+      },
+      {
+        "texto": "Completá los datos solicitados en el recuadro Recálculo de deuda a fecha, entre los que se encuentran Período desde y Período hasta."
+      },
+      {
+        "texto": "Elegí la opción Cálculo de deuda."
+      },
+      {
+        "texto": "Presioná el botón Reafectar y completá los campos: Pago destino, Período, Impuesto, Concepto, Subconcepto e Importe."
+      },
+      {
+        "texto": "Si quedara un remanente para imputar a otras obligaciones presioná la opción Agregar y completá los datos."
+      },
+      {
+        "texto": "Presioná el botón Confirmar cambios."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reafectar-pagos-como-monotributista-o-autonomo",
+      "titulo": "Reafectar pagos como monotributista o autónomo | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:29:43.270Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T02:29:43.270Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Exclusivamente para el pago de períodos previos a julio de 2004"
+  ]
+}

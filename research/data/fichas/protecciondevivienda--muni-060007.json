@@ -1,0 +1,109 @@
+{
+  "tramite": {
+    "slug": "proteccion-de-la-vivienda",
+    "nombre": "Protección de la vivienda",
+    "nombre_busqueda": "Afectación protección de la vivienda",
+    "resumen": "Trámite para afectar un inmueble al Régimen de Protección de la Vivienda, requiriendo que al menos uno de los beneficiarios habite efectivamente el lugar.",
+    "sinonimos": [
+      "Afectación protección de la vivienda",
+      "Régimen de protección de la vivienda"
+    ],
+    "temas": [
+      "vivienda-y-servicios-del-hogar"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060007",
+  "organismo": {
+    "nombre": "Municipalidad de Adolfo Alsina",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "La persona que afecta al régimen se denomina constituyente.",
+      "El titular registral debe designar beneficiarios.",
+      "Si la vivienda está registrada a nombre de varias personas (condóminos), todos deben proceder a la afectación en forma conjunta.",
+      "Una persona sin familia puede afectar al Régimen, designándose a sí mismo como beneficiario.",
+      "Si existiera usufructo sobre el inmueble, el usufructuario deberá dar su consentimiento."
+    ],
+    "requisitos": [
+      {
+        "texto": "Título o títulos de propiedad (original/es y fotocopia/s)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento de identidad del o de los titulares de dominio (original/es y fotocopia/s)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de Documento de identidad de beneficiarios",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de CUIT, CUIL o CDI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento que acredite el vínculo entre titular y beneficiarios (original/es y fotocopia/s)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poderes para afectar (en caso de existir)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Concurrir al Registro de la Propiedad con la documentación requerida."
+      },
+      {
+        "texto": "Realizar la declaración jurada del titular registral al momento de la afectación para cumplir con el requisito de habitación efectiva."
+      },
+      {
+        "texto": "Recibir la nota de registración."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Palacio Municipal de Adolfo Alsina",
+      "direccion": "Calle 5 Nro. 630 entre 44 y 45",
+      "localidad": "La Plata",
+      "horario": null,
+      "fuente_url": "https://www.adolfoalsina.gov.ar/protecciondevivienda/"
+    },
+    {
+      "nombre": "Dirección de Regularización Dominial",
+      "direccion": "Pellegrini y Rivadavia",
+      "localidad": "Carhué",
+      "horario": null,
+      "fuente_url": "https://www.adolfoalsina.gov.ar/protecciondevivienda/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.adolfoalsina.gov.ar/protecciondevivienda/",
+      "titulo": "Protección de la vivienda - Municipalidad de Adolfo Alsina",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-27T18:55:50.946Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto del trámite no se especifica en el texto, aunque se indica que es gratuito en Sede administrativa.",
+    "La fecha de vigencia del trámite no se especifica en el texto."
+  ]
+}

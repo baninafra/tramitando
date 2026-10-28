@@ -1,0 +1,93 @@
+{
+  "tramite": {
+    "slug": "prefactibilidad-localizacion-usos",
+    "nombre": "Prefactibilidad de localización de usos",
+    "nombre_busqueda": "prefactibilidad de localización de usos",
+    "resumen": "Evaluá de forma preliminar si un uso puede localizarse en un lugar. El trámite es presencial.",
+    "sinonimos": [],
+    "temas": [
+      "numeracion-y-uso-de-suelo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060441",
+  "organismo": {
+    "nombre": "Municipalidad de La Plata",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes necesiten evaluar de forma preliminar la factibilidad de localización de un uso."
+    ],
+    "requisitos": [
+      {
+        "texto": "Planilla de inicio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Memoria descriptiva.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano técnico o croquis con la superficie cubierta afectada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación legal y técnica según el uso.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la planilla de inicio, la memoria descriptiva y el plano técnico o croquis con la superficie cubierta afectada."
+      },
+      {
+        "texto": "Pagá el timbrado vigente al momento de la presentación."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://cam.laplata.gob.ar/index.html",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Centro Administrativo Municipal",
+      "direccion": "Diagonal 80 N° 942 esquina 48",
+      "localidad": "La Plata",
+      "horario": null,
+      "fuente_url": "https://tramites.laplata.gob.ar/planeamiento/ordenamiento-localizacion-usos.html"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://tramites.laplata.gob.ar/planeamiento/ordenamiento-localizacion-usos.html",
+      "titulo": "Planeamiento - Municipalidad de La Plata",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T14:24:02.589Z"
+    },
+    {
+      "url": "https://cam.laplata.gob.ar/index.html",
+      "titulo": "Centro Administrativo Municipal",
+      "bloques": [
+        "donde",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T14:24:02.589Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El timbrado no tiene un monto indicado; está vigente al momento de la presentación según la Ordenanza Impositiva 12682.",
+    "No se indica un plazo de resolución.",
+    "No se indica una fecha exacta de vigencia."
+  ]
+}

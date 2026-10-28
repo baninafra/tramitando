@@ -1,0 +1,72 @@
+{
+  "tramite": {
+    "slug": "solicitud-permiso-poda-extraccion-arbolado-urbano",
+    "nombre": "Solicitar permiso de poda o extracción de arbolado urbano",
+    "nombre_busqueda": "Permiso para podar o extraer un árbol",
+    "resumen": "Si querés podar un árbol por tu cuenta, tenés que pedir permiso y hacerlo con podadores habilitados. Si autorizan la extracción, como propietario frentista tenés que reponer el ejemplar.",
+    "sinonimos": [
+      "Permiso de poda",
+      "Permiso de extracción de árboles"
+    ],
+    "temas": [
+      "poda-y-arbolado"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060466",
+  "organismo": {
+    "nombre": "Municipalidad de Lezama",
+    "sigla": null,
+    "web": "https://lezama.gov.ar/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés solicitar permiso si querés hacer la poda de manera particular."
+    ],
+    "requisitos": [
+      {
+        "texto": "Hacé la poda con un podador habilitado.",
+        "aclaracion": "Si realizás la poda de manera particular."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Solicitá permiso al municipio para realizar la poda de manera particular."
+      },
+      {
+        "texto": "Hacé la poda con un podador habilitado."
+      },
+      {
+        "texto": "Reponé el ejemplar si te autorizan la extracción y sos propietario frentista."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La solicitud de poda o extracción se justifica por decaimiento irrecuperable, fin del ciclo biológico, riesgo de caída o desprendimiento de ramas con posibles daños, o porque la especie no sea apta para el arbolado público urbano."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://lezama.gov.ar/forestacion/",
+      "titulo": "Municipalidad de Lezama",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:42:46.655Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa el canal ni cómo presentar la solicitud de permiso.",
+    "No se informa el costo del trámite.",
+    "No se informa el plazo de resolución ni si hace falta turno."
+  ]
+}

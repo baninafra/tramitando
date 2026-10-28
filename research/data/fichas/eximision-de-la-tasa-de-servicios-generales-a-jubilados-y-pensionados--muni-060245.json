@@ -1,0 +1,90 @@
+{
+  "tramite": {
+    "slug": "eximicion-tasa-servicios-generales-jubilados",
+    "nombre": "Eximición de la Tasa de Servicios Generales a jubilados y pensionados",
+    "nombre_busqueda": "Exención tasa servicios generales jubilados",
+    "resumen": "Trámite gratuito para jubilados y pensionados que exime la Tasa de Servicios Generales. Se realiza en el mostrador de Catastro con documentos específicos.",
+    "sinonimos": [
+      "Exención tasa servicios generales jubilados",
+      "Exención tasa servicios generales pensionados"
+    ],
+    "temas": [
+      "tasa-inmobiliaria-y-servicios",
+      "adultos-mayores"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060245",
+  "organismo": {
+    "nombre": "Municipalidad de Ensenada",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Los Contribuyentes interesados o un representante autorizado."
+    ],
+    "requisitos": [
+      {
+        "texto": "Titular del Dominio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de matrimonio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de recibo de sueldo",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Gastos de Farmacia (de corresponder)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá los documentos en el mostrador de Catastro."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "15 minutos",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Catastro",
+      "direccion": "San Martín y Pte. Perón",
+      "localidad": "San Martín y Pte. Perón",
+      "horario": null,
+      "fuente_url": "https://www.ensenada.gov.ar/eximision-de-la-tasa-de-servicios-generales-a-jubilados-y-pensionados/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.ensenada.gov.ar/eximision-de-la-tasa-de-servicios-generales-a-jubilados-y-pensionados/",
+      "titulo": "EXIMICIÓN DE LA TASA DE SERVICIOS GENERALES A JUBILADOS Y PENSIONADOS – Municipalidad de Ensenada",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T05:46:04.957Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horario de atención: De lunes a viernes de 7:30 a 14:30 horas."
+  ]
+}

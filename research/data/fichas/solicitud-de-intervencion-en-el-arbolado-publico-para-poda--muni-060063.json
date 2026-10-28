@@ -1,0 +1,115 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-intervencion-en-el-arbolado-publico-para-poda",
+    "nombre": "Solicitud de intervención en el arbolado público para poda",
+    "nombre_busqueda": "Solicitud de poda de arbolado publico",
+    "resumen": "Para podar el arbolado de la vereda, el vecino debe elegir un podador habilitado, completar un formulario digital y esperar la inspección técnica y la autorización por escrito de la Dirección de Espacios Públicos.",
+    "sinonimos": [
+      "Autorización de poda",
+      "Permiso para podar arboles publicos"
+    ],
+    "temas": [
+      "poda-y-arbolado"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060063",
+  "organismo": {
+    "nombre": "Municipalidad de Balcarce",
+    "sigla": null,
+    "web": "https://balcarce.gob.ar/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Dueño del inmueble",
+      "Inquilino del inmueble"
+    ],
+    "requisitos": [
+      {
+        "texto": "Lista adjunta de podadores habilitados",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario digital municipal",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos del inmueble y del vecino",
+        "aclaracion": null
+      },
+      {
+        "texto": "Credencial RPU del podador elegido",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Elige un podador de la lista adjunta."
+      },
+      {
+        "texto": "Completá el formulario digital municipal."
+      },
+      {
+        "texto": "Esperá la inspección técnica de la Dirección de Espacios Públicos."
+      },
+      {
+        "texto": "Retirá la Autorización de Poda por escrito."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El podador debe respetar las indicaciones del Acta de inspección.",
+      "No podar sin autorización municipal.",
+      "No realizar extracciones ni corte de raíces.",
+      "No realizar poda severa ni dejar residuos por más de 48 horas.",
+      "Los residuos deben retirarse en un máximo de 48 horas en la Planta de Separación, Clasificación y Tratamiento de RSU, Ruta 55 Km 83, Balcarce."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Planta de Separación, Clasificación y Tratamiento de RSU",
+      "direccion": "Ruta 55 Km 83, Balcarce",
+      "localidad": "Balcarce",
+      "horario": null,
+      "fuente_url": "https://balcarce-app.gob.ar/portal_servicios/servicio/solicitud-de-intervencion-en-el-arbolado-publico-para-poda"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://balcarce-app.gob.ar/portal_servicios/servicio/solicitud-de-intervencion-en-el-arbolado-publico-para-poda",
+      "titulo": "Portal de Servicios | Modernizacion Balcarce",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T21:39:14.596Z"
+    },
+    {
+      "url": "https://balcarce.gob.ar/",
+      "titulo": "MUNICIPALIDAD DE BALCARCE",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T21:39:14.596Z"
+    },
+    {
+      "url": "https://balcarce-app.gob.ar/portal_servicios",
+      "titulo": "Portal de Servicios | Modernizacion Balcarce",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T21:39:14.596Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia de la ordenanza o el plazo para realizar la solicitud no está especificado en el texto.",
+    "El monto del trámite no se indica en el texto, ya que el pago es a convenir con el podador."
+  ]
+}

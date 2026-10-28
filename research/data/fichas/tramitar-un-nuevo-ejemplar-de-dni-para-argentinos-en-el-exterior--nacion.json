@@ -1,0 +1,116 @@
+{
+  "tramite": {
+    "slug": "tramitar-nuevo-ejemplar-dni-argentinos-exterior",
+    "nombre": "Sacar un nuevo ejemplar de DNI para argentinos en el exterior",
+    "nombre_busqueda": "Sacar un nuevo ejemplar de DNI para argentinos en el exterior",
+    "resumen": "Si cambiaste tu domicilio, perdiste el documento, se te venció, necesitás canjearlo, te lo robaron o sufrió deterioro, tenés que tramitar un nuevo ejemplar de DNI en el Consulado Argentino correspondiente por tu domicilio en el exterior.",
+    "sinonimos": [
+      "Renovar DNI en el exterior",
+      "Sacar nuevo DNI en el exterior",
+      "Actualizar DNI en el exterior"
+    ],
+    "temas": [
+      "dni"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Todo argentino residente en el extranjero."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI anterior.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si lo extraviaste, podés presentar copia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de robo, presentá la denuncia policial o consular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "De no poseer lo requerido en el punto anterior, deberás presentar otra documentación identificadora donde consten fotografía y huellas digitales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Residir en la circunscripción de la Representación Consular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si sos menor de edad, debés presentar partida de nacimiento.",
+        "aclaracion": "Si sos menor de edad."
+      },
+      {
+        "texto": "Si solicitás la identificación tardía porque nunca tuviste DNI y sos argentino nativo, tenés que presentar partida de nacimiento original actualizada, emitida dentro de los últimos 6 meses de la fecha de toma del trámite.",
+        "aclaracion": "Si sos menor de edad."
+      },
+      {
+        "texto": "Dos (2) testigos con documento de identidad en original, independientemente de la nacionalidad de ellos para efectuar una información sumaria (requisito indispensable).",
+        "aclaracion": "Si sos menor de edad."
+      },
+      {
+        "texto": "Si la Representación Consular no cuenta con el sistema de toma de trámites digital del Registro Nacional de las Personas, debés presentar además de la documentación detallada anteriormente, dos (2) fotos 4cm x 4cm, de frente, busto superior, fondo blanco, sin anteojos ni sombrero.",
+        "aclaracion": "Si la Representación Consular no cuenta con el sistema de toma de trámites digital del Registro Nacional de las Personas."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate hasta el Consulado correspondiente a tu lugar de residencia con la documentación."
+      },
+      {
+        "texto": "Retirá el DNI en la misma representación, el día que te indiquen."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "Normal",
+      "gratis": false,
+      "monto_centavos": 1500000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/tramitar-un-nuevo-ejemplar-de-dni-para-argentinos-en-el-exterior"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tramitar-un-nuevo-ejemplar-de-dni-para-argentinos-en-el-exterior",
+      "titulo": "Tramitar un nuevo ejemplar de DNI para argentinos en el exterior | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T00:28:51.046Z"
+    },
+    {
+      "url": "https://www.cancilleria.gob.ar/es/representaciones",
+      "titulo": "Embajadas y Consulados | Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T00:28:51.046Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La vigencia del DNI depende de la edad del solicitante. Luego de efectuado el trámite de actualización de mayor, éste tendrá una validez de 15 años.",
+    "El lugar de pago depende de la Representación Consular que te corresponda."
+  ]
+}

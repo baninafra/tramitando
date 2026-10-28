@@ -1,0 +1,100 @@
+{
+  "tramite": {
+    "slug": "solicitar-vouchers-educativos",
+    "nombre": "Solicitar vouchers educativos",
+    "nombre_busqueda": "Solicitar vouchers educativos",
+    "resumen": "Ayuda para acompañar la educación de niños y jóvenes en escuelas privadas con más del 75% de aporte estatal. El trámite es gratuito y se realiza en línea en 15 minutos.",
+    "sinonimos": [
+      "Programa de asistencia vouchers educativos",
+      "Vouchers educativos 2026"
+    ],
+    "temas": [
+      "becas-y-ayudas-estudiantiles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Capital Humano",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Familias argentinas y extranjeras con residencia en el país superior a 2 años",
+      "Adultos responsables registrados en Mi Argentina",
+      "Familias con ingresos familiares no superiores a 7 salarios mínimos vitales y móviles",
+      "Menores a cargo de hasta 18 años que estudien en escuelas de gestión privada con subvención estatal superior al 75%"
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de DNI y número de CUIL de los menores a cargo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombre y dirección de la institución educativa a la que asisten",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tu CBU actualizado en Mi ANSES",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estar registrado en Mi Argentina",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Debes estar registrado en Mi Argentina antes de iniciar el proceso."
+      },
+      {
+        "texto": "Ingresá en argentina.gob.ar/vouchers-educativos."
+      },
+      {
+        "texto": "Completá tus datos personales como adulto responsable."
+      },
+      {
+        "texto": "Respondé la encuesta."
+      },
+      {
+        "texto": "Cargá a cada menor a tu cargo y hacé clic en Finalizar la inscripción."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "15 minutos",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-vouchers-educativos",
+      "titulo": "Solicitar Vouchers Educativos | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-27T16:48:50.057Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/vouchers-educativos",
+      "titulo": "Vouchers Educativos | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T16:48:50.057Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto menciona que la convocatoria 2026 finalizó el 30 de abril, pero no especifica si el trámite sigue abierto o si hay fechas de inicio para nuevas convocatorias."
+  ]
+}

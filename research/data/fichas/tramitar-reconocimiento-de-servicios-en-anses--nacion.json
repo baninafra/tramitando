@@ -1,0 +1,89 @@
+{
+  "tramite": {
+    "slug": "reconocimiento-de-servicios",
+    "nombre": "Reconocimiento de servicios",
+    "nombre_busqueda": "Reconocimiento de servicios ANSES",
+    "resumen": "Es una resolución firmada por ANSES que reconoce los aportes jubilatorios registrados en el ámbito nacional, tanto los declarados por empleadores como los realizados como trabajador independiente.",
+    "sinonimos": [],
+    "temas": [
+      "jubilaciones-y-pensiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración Nacional de la Seguridad Social",
+    "sigla": "ANSES",
+    "web": "https://www.argentina.gob.ar/anses"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Trabajadores en relación de dependencia o independientes que busquen el reconocimiento de sus aportes jubilatorios en el ámbito nacional."
+    ],
+    "requisitos": [
+      {
+        "texto": "Recibos de sueldo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación de servicios emitida por tus empleadores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Telegramas que hayas enviado a lugares de trabajo que ya no estén activos, reclamando por los aportes faltantes.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Obtené tu Clave de la Seguridad Social. Si no tenés clave, podés crearla por internet."
+      },
+      {
+        "texto": "Ingresá en Atención Virtual."
+      },
+      {
+        "texto": "Con tu clave, elegí la opción Solicitar Reconocimiento de Servicios para comenzar tu trámite."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Realizá el trámite en una oficina con turno previo."
+      },
+      {
+        "texto": "Llevá la documentación requerida."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://www.argentina.gob.ar/turnos",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tramitar-reconocimiento-de-servicios-en-anses",
+      "titulo": "Tramitar reconocimiento de servicios en ANSES | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-28T00:57:12.404Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T00:57:12.404Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo de resolución no está especificado en el texto.",
+    "La fecha de vigencia de la resolución no está especificada en el texto."
+  ]
+}

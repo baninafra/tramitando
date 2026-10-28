@@ -1,0 +1,131 @@
+{
+  "tramite": {
+    "slug": "actualizar-dni-14-anos-extranjeros",
+    "nombre": "Actualizar el DNI de 14 años para extranjeros",
+    "nombre_busqueda": "Actualizar DNI 14 años extranjeros",
+    "resumen": "Si naciste en el extranjero, tenés DNI y cumpliste 14 años, tenés que actualizar tu DNI. Con este trámite vas a recibir un nuevo ejemplar de DNI y el Renaper te incorporará al Padrón Electoral de Extranjeros.",
+    "sinonimos": [],
+    "temas": [
+      "dni",
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Renaper",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Si naciste en el extranjero, tenés DNI y cumpliste 14 años.",
+      "Padres y/o madres de menores de 14 años, argentinos o extranjeras con residencia vigente, que hayan tramitado su DNI."
+    ],
+    "requisitos": [
+      {
+        "texto": "Presentarte con el DNI (si lo tenés).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copias certificadas de la partida de nacimiento con o sin oblea, la que deberá contar con sello y firma del oficial público en tinta o extendida con firma digital, sin importar su fecha de expedición.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de nacimiento original con o sin oblea o número manuscrito, con firma del oficial público o extendida digitalmente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI vigente de ambos progenitores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Información sumaria: Otorgada y firmada por funcionario habilitado del Juzgado de Paz.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Información sumaria: Otorgada por la Dirección General o Provincial de Registro del Estado Civil y Capacidad de las Personas o, en su defecto, suscripta por la persona a cargo de la oficina seccional y ratificada mediante acto dispositivo de la citada Dirección General.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En el caso de la provincia de Buenos Aires, delegados o subdelegados del Registro Civil podrán firmarlo, acompañando el escaneo del último ejemplar digital vigente de ambos testigos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Los testigos no podrán ser familiares.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En el caso de la Ciudad Autónoma de Buenos Aires, deberá de estar legalizada por la Cámara de Apelaciones en lo Civil del Poder Judicial de la Nación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Emitidas por el Servicio Penitenciario Federal (boletín público normativo número 582/2015).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Emitido por el Consulado Argentino correspondiente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Elegí el Registro Civil más cercano a tu domicilio o sacá turno para un Centro de Documentación Renaper en la app Mi Argentina."
+      },
+      {
+        "texto": "Guardá la constancia de solicitud de trámite y hacé el seguimiento online con tu ID desde aquí."
+      },
+      {
+        "texto": "Retiralo en la oficina con la constancia de solicitud de trámite."
+      },
+      {
+        "texto": "O, si va el correo a tu domicilio, recibilo vos o alguien mayor de 18 años con la constancia de solicitud de trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La Actualización de 14 años para extranjeros no se podrá tramitar en aeropuertos."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 2000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/actualizar-el-dni-de-14-anos-para-extranjeros"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/actualizar-el-dni-de-14-anos-para-extranjeros",
+      "titulo": "Actualizar el DNI de 14 años para extranjeros | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:16:25.962Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/dni-en-tu-celular",
+      "titulo": "DNI en tu celular | Argentina.gob.ar",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T04:16:25.962Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Vigencia 15 años",
+    "Vigencia Hasta el próximo DNI que tramites"
+  ]
+}

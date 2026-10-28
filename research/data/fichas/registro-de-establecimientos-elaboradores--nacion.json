@@ -1,0 +1,92 @@
+{
+  "tramite": {
+    "slug": "registro-de-establecimientos-elaboradores",
+    "nombre": "Registro de establecimientos elaboradores",
+    "nombre_busqueda": "Registro de establecimientos elaboradores",
+    "resumen": "La inscripción en el Registro de Elaboradores del Instituto Nacional de Vitivinicultura es obligatoria para ejercer actividades vitivinícolas y es definitiva.",
+    "sinonimos": [],
+    "temas": [
+      "emprendedores-y-monotributo",
+      "monotributo-social-y-general"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto Nacional de Vitivinicultura",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas físicas o jurídicas que deseen industrializar uvas para la obtención de vinos, espumantes, vino gasificado y cóctel y para las plantas de fraccionamiento y fábricas de mostos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Escritura en el Registro de la Propiedad o documentación que acredite titularidad o derecho de explotación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de Clave Única de Identificación Tributaria (CUIT).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento nacional de identidad y título habilitante del Técnico Responsable.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditar cumplimiento de Procedimientos Operativos Estandarizados de Saneamiento (POES) y Buenas Prácticas de Manufactura (BPM) conforme lo establecido en el Anexo F de la Resolución 37-2025.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Habilitación Municipal.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar a plataforma TAD."
+      },
+      {
+        "texto": "Adjuntar la documentación solicitada."
+      },
+      {
+        "texto": "Recibir la confirmación en tu correo electrónico."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El INV podrá solicitar otra documentación o antecedente en caso de considerarlo necesario, mediante decisión fundada."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/registro-de-establecimientos-elaboradores",
+      "titulo": "Registro de establecimientos elaboradores | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T03:48:28.740Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T03:48:28.740Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La inscripción se realizará a través de la plataforma Trámites a Distancia (TAD) o la que en el futuro la reemplace."
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "tramite": {
+    "slug": "tramites-construccion-modificacion-buques-embarcaciones-artefactos-navales",
+    "nombre": "Trámites para construcción y modificación de buques, embarcaciones y artefactos navales",
+    "nombre_busqueda": "tramites buques embarcaciones navales",
+    "resumen": "Para iniciar trámites de construcción o modificación de buques, embarcaciones y artefactos navales, necesitás presentar el Formulario de Inicio de Trámite (FIT) junto con los elementos técnicos de juicio ante la División Técnica Naval o la Prefectura más próxima.",
+    "sinonimos": [],
+    "temas": [
+      "obras-y-construccion",
+      "permiso-de-obra-y-planos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Prefectura Naval Argentina",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Propietario",
+      "Armador",
+      "Agente Marítimo",
+      "Apoderado con poder general o especial o autorización del propietario con firma debidamente certificada por escribano público"
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario inicio de trámite (FIT) original",
+        "aclaracion": null
+      },
+      {
+        "texto": "Encomienda profesional original (si la gestión requiere la intervención de un profesional matriculado)",
+        "aclaracion": "Si la gestión requiere la intervención de un profesional matriculado para la presentación de los elementos técnicos de juicio."
+      },
+      {
+        "texto": "Elementos técnicos de juicio originales",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el Formulario inicio de trámite (FIT) original junto con la Encomienda profesional original (si aplica) y los Elementos técnicos de juicio originales."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "24 horas",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "División Técnica Naval",
+      "direccion": "Edificio Guardacostas, Avenida Eduardo Madero 235",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/tramites-para-construccion-y-modificacion-de-buques-embarcaciones-y-artefactos-navales"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tramites-para-construccion-y-modificacion-de-buques-embarcaciones-y-artefactos-navales",
+      "titulo": "Trámites para construcción y modificación de buques, embarcaciones y artefactos navales. | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T00:42:53.224Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si la gestión requiere la intervención de un profesional matriculado, se agregará la respectiva encomienda profesional emitida por el Consejo Profesional de Ingeniería Naval teniéndose en cuenta las incumbencias normadas por el Régimen para la Navegación Marítimo, Fluvial y Lacustre (REGINAVE)."
+  ]
+}

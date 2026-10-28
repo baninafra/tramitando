@@ -1,0 +1,96 @@
+{
+  "tramite": {
+    "slug": "dni-extranjeros",
+    "nombre": "DNI Extranjeros",
+    "nombre_busqueda": "DNI para extranjeros",
+    "resumen": "Trámite para obtener el Documento Nacional de Identidad para extranjeros residentes en el municipio.",
+    "sinonimos": [],
+    "temas": [
+      "migraciones-y-extranjeria",
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060638",
+  "organismo": {
+    "nombre": "Municipalidad del Pilar",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Extranjeros residentes en el municipio."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI anterior deteriorado o constancia de extravío.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Partida de Nacimiento Certificada o Certificado de Nacimiento Original, con o sin oblea, firmado por un Oficial Público.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acompañamiento del padre, madre o representante legal; y su DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado médico que acredite impedimentos físicos para firmar o aportar huellas.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Sacá un turno a través de alguno de los canales de Mi Muni."
+      },
+      {
+        "texto": "Dirigite a nuestras oficinas de Pilar Centro con el turno confirmado y toda la documentación requerida."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://pilar.gov.ar/tramites/dni/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Oficinas de Pilar Centro",
+      "direccion": "Estanislao López 525",
+      "localidad": "Pilar Centro",
+      "horario": null,
+      "fuente_url": "https://pilar.gov.ar/tramites/dni/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://pilar.gov.ar/tramites/dni/",
+      "titulo": "DNI - Municipio Pilar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T09:39:00.029Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere acreditar la residencia del extranjero.",
+    "Se requiere acreditar la nacionalidad del extranjero.",
+    "Se requiere acreditar el domicilio en el municipio.",
+    "Se requiere acreditar la vigencia del permiso de residencia."
+  ]
+}

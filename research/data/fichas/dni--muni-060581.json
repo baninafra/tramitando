@@ -1,0 +1,106 @@
+{
+  "tramite": {
+    "slug": "dni-necochea",
+    "nombre": "Sacar el DNI",
+    "nombre_busqueda": "DNI en Necochea",
+    "resumen": "Hacé el trámite en el Registro Provincial de las Personas de Necochea. Cuando termines, el DNI llegará a tu domicilio.",
+    "sinonimos": [
+      "tramitar el DNI",
+      "DNI en Necochea"
+    ],
+    "temas": [
+      "dni"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060581",
+  "organismo": {
+    "nombre": "Registro Provincial de las Personas",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "La página no especifica quiénes pueden hacer el trámite."
+    ],
+    "requisitos": [
+      {
+        "texto": "Boleta emitida y paga.",
+        "aclaracion": "Si ya tenés la boleta."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Concurrí a primera hora si ya tenés la boleta emitida y paga; te darán un turno según el orden de llegada."
+      },
+      {
+        "texto": "Pedí la boleta y un turno si todavía no la tenés emitida."
+      },
+      {
+        "texto": "Pagá la boleta y volvé para concluir el trámite si te la dieron en el lugar."
+      },
+      {
+        "texto": "Esperá tu turno para que tomen tus datos personales, la foto, la firma y las huellas digitales."
+      },
+      {
+        "texto": "Esperá a que el DNI llegue a tu domicilio."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Registro Provincial de las Personas",
+      "direccion": "Av. 58 Nº 3018, primer piso",
+      "localidad": "Necochea",
+      "horario": null,
+      "fuente_url": "https://necochea.gov.ar/tramites/dni/"
+    },
+    {
+      "nombre": "Cámara de Comercio",
+      "direccion": "Calle 63 Nº 2959",
+      "localidad": "Necochea",
+      "horario": null,
+      "fuente_url": "https://necochea.gov.ar/tramites/dni/"
+    },
+    {
+      "nombre": "Banco Provincia de Buenos Aires (Centro)",
+      "direccion": "Calle 64 Nº 3000",
+      "localidad": "Necochea",
+      "horario": null,
+      "fuente_url": "https://necochea.gov.ar/tramites/dni/"
+    },
+    {
+      "nombre": "Banco Provincia de Buenos Aires (Playa)",
+      "direccion": "Av. 79 Nº 272",
+      "localidad": "Necochea",
+      "horario": null,
+      "fuente_url": "https://necochea.gov.ar/tramites/dni/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://necochea.gov.ar/tramites/dni/",
+      "titulo": "Tramites – DNI – Municipalidad de Necochea",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T15:35:09.519Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La página no especifica quiénes pueden hacer el trámite.",
+    "No informa el monto de la boleta.",
+    "No indica cuánto tarda la entrega del DNI.",
+    "No precisa el horario de atención dentro del rango de 8:00 a 13:00."
+  ]
+}

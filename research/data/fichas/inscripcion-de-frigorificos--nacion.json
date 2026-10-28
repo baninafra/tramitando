@@ -1,0 +1,92 @@
+{
+  "tramite": {
+    "slug": "inscripcion-de-frigorificos",
+    "nombre": "Inscripción de frigoríficos",
+    "nombre_busqueda": "Inscripción de frigoríficos",
+    "resumen": "Permite a personas físicas o jurídicas inscribirse para recibir productos vitivinícolas y prestar servicio de frío a vinos de guarda. El trámite es gratuito y se realiza en línea o presencial.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto Nacional de Vitivinicultura",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Toda persona física o jurídica."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario Nº 1829 'RUBRO I — ESTABLECIMIENTO' del Anexo III de la Resolución C.43.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia digital del plano o croquis del establecimiento, demarcando en color verde el lugar destinado a depósito de vinos y croquis de ubicación demarcando en color rojo el perímetro sujeto a inspección, el cual comprenderá a todos los ámbitos con comunicación directa con los destinados a la guarda d…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia digital de poder especial del representante o apoderado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia digital de escritura o contrato de alquiler.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia digital de la habilitación municipal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La documentación demandada en requisitos es verificada por el personal de inspección para observar la coincidencia entre esta y la realidad física del establecimiento. De no haber una perfecta coincidencia, la documentación es rechazada y el interesado deberá confeccionar una nueva.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma TAD."
+      },
+      {
+        "texto": "Completá datos del solicitante."
+      },
+      {
+        "texto": "Seleccioná la Delegación del INV donde realizás el trámite."
+      },
+      {
+        "texto": "Completá y adjuntá la documentación complementaria."
+      },
+      {
+        "texto": "Hacé click en confirmar el trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscripcion-de-frigorificos",
+      "titulo": "Inscripción de frigoríficos | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T17:42:23.578Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite.",
+    "La información sobre si se requiere turno."
+  ]
+}

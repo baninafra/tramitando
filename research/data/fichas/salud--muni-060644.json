@@ -1,0 +1,149 @@
+{
+  "tramite": {
+    "slug": "salud-municipal",
+    "nombre": "Salud municipal",
+    "nombre_busqueda": "Salud municipal Pinamar",
+    "resumen": "Información sobre centros de salud, turnos médicos, especialidades y servicios de salud en la Municipalidad de Pinamar.",
+    "sinonimos": [
+      "Salud Pinamar",
+      "Turnos salud Pinamar",
+      "Centros de salud Pinamar"
+    ],
+    "temas": [
+      "salud-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060644",
+  "organismo": {
+    "nombre": "Secretaría de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Toda la comunidad",
+      "Personas con discapacidad",
+      "Menores de edad",
+      "Adultos mayores",
+      "Embarazadas",
+      "Personas con adicciones"
+    ],
+    "requisitos": [
+      {
+        "texto": "Orden médica de derivación",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta de nacimiento (para menores)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación de discapacidad (para CUD)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación de fallecimiento (para pensiones por fallecimiento)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercarse a la mesa de admisión del Centro de Salud u Hospital con la orden de derivación."
+      },
+      {
+        "texto": "Completar el formulario de inscripción en la capacitación Luka."
+      },
+      {
+        "texto": "Iniciar trámites de CUD en la oficina de Discapacidad."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Los turnos son programados y se otorgan por orden de llegada.",
+      "Consultar indicaciones con orden médica en el consultorio 5 del Hospital de Pinamar.",
+      "La atención presencial de CAPS Valeria del Mar se realiza los jueves de 8 a 14 h y viernes de 8 a 12 h.",
+      "No se trata de un servicio de guardia."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Hospital de Pinamar",
+      "direccion": "Av. Shaw 255",
+      "localidad": "Pinamar",
+      "horario": null,
+      "fuente_url": "https://pinamar.gob.ar/salud/"
+    },
+    {
+      "nombre": "CAPS Ostende",
+      "direccion": "Av. del Parque y España",
+      "localidad": "Pinamar",
+      "horario": null,
+      "fuente_url": "https://pinamar.gob.ar/salud/"
+    },
+    {
+      "nombre": "CAPS Valeria del Mar",
+      "direccion": "Guanca y El Cano",
+      "localidad": "Pinamar",
+      "horario": null,
+      "fuente_url": "https://pinamar.gob.ar/salud/"
+    },
+    {
+      "nombre": "CAPS Móvil",
+      "direccion": "Víctor Hugo y Anspach",
+      "localidad": "Pinamar",
+      "horario": null,
+      "fuente_url": "https://pinamar.gob.ar/salud/"
+    },
+    {
+      "nombre": "Centro de hidroterapia",
+      "direccion": "Del Cazón 1690",
+      "localidad": "Pinamar",
+      "horario": null,
+      "fuente_url": "https://pinamar.gob.ar/salud/"
+    },
+    {
+      "nombre": "DiabetPin",
+      "direccion": "Av. Del Parque entre Misiones y Central",
+      "localidad": "Pinamar",
+      "horario": null,
+      "fuente_url": "https://pinamar.gob.ar/salud/"
+    },
+    {
+      "nombre": "Zoonosis",
+      "direccion": "Boulevard de Av. Intermédanos",
+      "localidad": "Pinamar",
+      "horario": null,
+      "fuente_url": "https://pinamar.gob.ar/salud/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://pinamar.gob.ar/salud/",
+      "titulo": "Salud – Municipalidad de Pinamar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T16:55:20.537Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se especifica que la capacitación Luka es gratuita, pero no se detalla el costo de otros trámites específicos.",
+    "No se indica el plazo exacto para la obtención de los turnos ni la vigencia de las pensiones."
+  ]
+}

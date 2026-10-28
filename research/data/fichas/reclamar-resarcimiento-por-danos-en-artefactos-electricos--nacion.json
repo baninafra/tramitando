@@ -1,0 +1,139 @@
+{
+  "tramite": {
+    "slug": "reclamar-resarcimiento-por-danos-en-artefactos-electricos",
+    "nombre": "Reclamar resarcimiento por daños en artefactos eléctricos",
+    "nombre_busqueda": "Reclamar resarcimiento por daños en artefactos eléctricos",
+    "resumen": "Reclamá el resarcimiento por daños en artefactos eléctricos causados por oscilaciones de tensión o deficiencias del servicio. Es un trámite gratuito que se realiza presencialmente en la sede del ENReGE o a distancia mediante formulario.",
+    "sinonimos": [
+      "Reclamo por daños en electrodomésticos",
+      "Reparación de artefactos eléctricos por falla de servicio"
+    ],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ente Nacional Regulador del Gas y la Electricidad",
+    "sigla": "ENReGE",
+    "web": "https://www.argentina.gob.ar/enre"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Usuarios de EDENOR y EDESUR"
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia de última factura paga",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de reclamo ante la distribuidora",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de reclamo por daños, debidamente completado y firmado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presupuestos o facturas de reparaciones originales, con membrete, en pesos y detallando: Tipo de artefacto, Marca y modelo, Componentes afectados, Firma y aclaración del técnico interviniente, Descripción del trabajo, Lista de materiales utilizados, Precios de repuestos y honorarios por mano de obra",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de inscripción en AFIP e identificación del servicio técnico",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el artefacto dañado es una computadora: detallá las características de sus componentes (fuente, disco rígido, microprocesador, memoria, placa de video)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el artefacto dañado es un motor de instalación fija: indicá potencia y tipo de tensión",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el servicio no está a tu nombre: presentá una copia del título de propiedad o del contrato de alquiler, o de un servicio a tu nombre, o del DNI donde conste el domicilio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el artefacto resulte irreparable: comprobante de servicio técnico que indique componentes afectados y justifique técnicamente la irreparabilidad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presupuesto o factura de compra de un artefacto similar al dañado",
+        "aclaracion": null
+      },
+      {
+        "texto": "En el caso de lámparas dañadas: presentá la factura de compra de cada lámpara nueva o los tickets de reposición",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario de reclamo por daños en artefactos eléctricos"
+      },
+      {
+        "texto": "Al llegar a la opción Seleccioná el tipo de reclamo a realizar, elegí la opción Daños en artefactos"
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Dirijite a la sede del ENReGE en Suipacha 615, Ciudad Autónoma de Buenos Aires"
+      },
+      {
+        "texto": "Acudí de lunes a viernes de 09:00 a 17:00 horas"
+      },
+      {
+        "texto": "Presentá el turno previo"
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://www.argentina.gob.ar/enre/saca-turno-online",
+    "plazo": null,
+    "consejos": [
+      "No olvides reclamar ante la empresa antes de hacerlo ante el ENReGE",
+      "Si preferís reclamar a distancia, completá el formulario en línea"
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede de atención al usuario del ENReGE",
+      "direccion": "Suipacha 615",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/reclamar-resarcimiento-por-danos-en-artefactos-electricos"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reclamar-resarcimiento-por-danos-en-artefactos-electricos",
+      "titulo": "Reclamar resarcimiento por daños en artefactos eléctricos | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:58:49.367Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/enre/saca-turno-online",
+      "titulo": "Sacá turno por Internet | Argentina.gob.ar",
+      "bloques": [
+        "pasos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T02:58:49.367Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Plazo de respuesta del reclamo",
+    "Horarios de atención presencial específicos por día de la semana"
+  ]
+}

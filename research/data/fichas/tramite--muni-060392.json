@@ -1,0 +1,66 @@
+{
+  "tramite": {
+    "slug": "portal-autogestion-tributaria-y-consulta-de-deuda",
+    "nombre": "Consultar y gestionar trámites tributarios",
+    "nombre_busqueda": "portal de autogestión tributaria",
+    "resumen": "Consultá tu situación tributaria, deuda y saldos, y gestioná declaraciones juradas, pagos y trámites de vehículos desde el portal municipal.",
+    "sinonimos": [
+      "autogestión de ingresos municipales",
+      "consulta de deuda municipal"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060392",
+  "organismo": {
+    "nombre": "Municipalidad de General Villegas",
+    "sigla": null,
+    "web": "https://autogestion.villegas.gob.ar/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Contribuyentes del Municipio de General Villegas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Usá una contraseña de 4 dígitos numéricos.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal de autogestión."
+      },
+      {
+        "texto": "Consultá tu estado de deuda, boletas o saldos, o gestioná las opciones disponibles según el trámite que necesites."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://autogestion.villegas.gob.ar/",
+      "titulo": "Portal de Autogestión de Ingresos Municipales",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T13:42:10.177Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa quiénes pueden usar el portal.",
+    "No se indica si la contraseña es un requisito para todos los trámites.",
+    "No se detallan los pasos para completar cada gestión."
+  ]
+}

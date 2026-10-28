@@ -1,0 +1,91 @@
+{
+  "tramite": {
+    "slug": "registracion-de-armas-de-fuego-recibidas-por-herencia",
+    "nombre": "Registración de armas de fuego recibidas por herencia",
+    "nombre_busqueda": "registracion armas herencia",
+    "resumen": "Permití solicitar la registración de la tenencia de armas de fuego recibidas por herencia, acreditando el vínculo con el causante y abonando la tasa correspondiente.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "RENAR",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A las personas que acrediten su vínculo con una persona fallecida y pretendan registrar a su nombre la tenencia de armas de fuego que se encontraban registradas a nombre del causante."
+    ],
+    "requisitos": [
+      {
+        "texto": "Contar con la condición de Legítimo Usuario vigente en la categoría correspondiente al material cuya tenencia solicita, o iniciar simultáneamente el trámite para obtener dicha condición.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditar el vínculo con el causante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que acredite el fallecimiento y el vínculo invocado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración Jurada sobre armas de fuego recibidas por herencia – Decreto N° 306/26, completa y certificada por Escribano Público, autoridad judicial, autoridad policial con grado de Oficial, entidad bancaria o personal del RENAR.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Descargá la Declaración Jurada sobre armas de fuego recibidas por herencia – Decreto N° 306/26."
+      },
+      {
+        "texto": "Completá el formulario con los datos del causante, del solicitante y del material controlado."
+      },
+      {
+        "texto": "Certificá la Declaración Jurada ante una de las autoridades habilitadas."
+      },
+      {
+        "texto": "Iniciá el trámite y completá la solicitud de registración."
+      },
+      {
+        "texto": "Aboná el monto correspondiente."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/registracion-de-armas-de-fuego-recibidas-por-herencia",
+      "titulo": "Registración de armas de fuego recibidas por herencia | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T03:17:54.782Z"
+    },
+    {
+      "url": "https://mi.renar.gob.ar/gral/aranceles.html",
+      "titulo": "(sin título)",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T03:17:54.782Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia de los aranceles no está especificada en el texto."
+  ]
+}

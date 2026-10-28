@@ -1,0 +1,112 @@
+{
+  "tramite": {
+    "slug": "permiso-de-publicidad-y-propaganda",
+    "nombre": "Permiso de Publicidad y Propaganda",
+    "nombre_busqueda": "Permiso publicidad y propaganda",
+    "resumen": "Trámite para obtener la autorización de publicidad y propaganda en el municipio. Requiere presentar documentación específica según el caso y pagar la tasa correspondiente.",
+    "sinonimos": [
+      "Permiso publicidad",
+      "Permiso propaganda"
+    ],
+    "temas": [
+      "publicidad-y-carteleria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060658",
+  "organismo": {
+    "nombre": "Secretaría de Hacienda",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en realizar actividades de publicidad o propaganda en el municipio."
+    ],
+    "requisitos": [
+      {
+        "texto": "Solicitud de permiso de publicidad y propaganda.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI del solicitante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI del titular del inmueble donde se instalará la publicidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Numeración Domiciliaria.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planos de la obra o instalación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de no tener deuda con el municipio.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la solicitud de permiso de publicidad y propaganda."
+      },
+      {
+        "texto": "Llevá la fotocopia del DNI del solicitante."
+      },
+      {
+        "texto": "Llevá la fotocopia del DNI del titular del inmueble."
+      },
+      {
+        "texto": "Llevá el Certificado de Numeración Domiciliaria."
+      },
+      {
+        "texto": "Llevá los planos de la obra o instalación."
+      },
+      {
+        "texto": "Llevá la constancia de no tener deuda con el municipio."
+      },
+      {
+        "texto": "Pagá la tasa correspondiente."
+      },
+      {
+        "texto": "Recibí el permiso de publicidad y propaganda."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1250000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://mi.quilmes.gov.ar/tramites/102/permiso-de-publicidad-y-propaganda"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mi.quilmes.gov.ar/tramites/102/permiso-de-publicidad-y-propaganda",
+      "titulo": "Permiso de Publicidad y Propaganda",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-28T05:27:39.191Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se especifica que se debe presentar la constancia de no tener deuda con el municipio, pero no se detalla el formato exacto ni si es un certificado específico del municipio o una constancia general.",
+    "No se especifica el plazo de tramitación ni la vigencia del permiso una vez obtenido."
+  ]
+}

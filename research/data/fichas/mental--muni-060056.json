@@ -1,0 +1,138 @@
+{
+  "tramite": {
+    "slug": "certificado-unico-de-discapacidad-discapacidad-mental",
+    "nombre": "Certificado Único de Discapacidad - Discapacidad Mental / Intelectual",
+    "nombre_busqueda": "Certificado Único de Discapacidad mental",
+    "resumen": "Trámite para personas con discapacidad de deficiencia intelectual y mental que requiere presentación presencial y evaluación médica.",
+    "sinonimos": [
+      "CUD discapacidad mental",
+      "Certificado discapacidad intelectual"
+    ],
+    "temas": [
+      "certificado-unico-de-discapacidad",
+      "discapacidad-y-accesibilidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas con discapacidad de deficiencia intelectual y mental.",
+      "Menores de 18 años."
+    ],
+    "requisitos": [
+      {
+        "texto": "Original y fotocopia del DNI con domicilio en Bahía Blanca.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Original y fotocopia del DNI.",
+        "aclaracion": "Si sos menor de 18 años."
+      },
+      {
+        "texto": "Certificado o acta de nacimiento.",
+        "aclaracion": "Si sos menor de 18 años."
+      },
+      {
+        "texto": "Fotocopia del DNI del padre, madre, tutor o curador.",
+        "aclaracion": "Si sos menor de 18 años."
+      },
+      {
+        "texto": "Fotocopia de la resolución judicial.",
+        "aclaracion": "Si hay curatela o tutela."
+      },
+      {
+        "texto": "Planilla de Solicitud de CUD.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del carnet de Obra Social.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planilla según patología correspondiente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Exámenes complementarios informados (neuro-imagens, evaluaciones neurocognitivas etc).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informes complementarios (informes escolares o de otras disciplinas: fonoaudiólogos, psicopedagogos, psicólogos, trabajadores sociales, Scios de estimulación temprana, acompañantes terapéuticos, etc).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Examen e informe de Laboratorio: Dosaje en sangre de drogas anti-epilépticas (sólo si ha recibido dos drogas en monoterapia sin control de las crisis).",
+        "aclaracion": "En caso de epilepsia."
+      },
+      {
+        "texto": "Estudios genéticos y/o antecedentes patológicos pre-peri y postnatales.",
+        "aclaracion": "En caso de enfermedades genéticas."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentarse personalmente en la oficina de Certificación de Discapacidad: Alsina 335 de lunes a viernes de 8:00 a 13:00 horas."
+      },
+      {
+        "texto": "Descargar y completar la planilla de solicitud de CUD y formularios según corresponda el tipo de discapacidad."
+      },
+      {
+        "texto": "Verificar que todos los estudios presentados estén firmados y sellados por médico especialista correspondiente al tipo de discapacidad."
+      },
+      {
+        "texto": "Concurrir a la oficina de Certificación de Discapacidad donde se verificará si la documentación es la correcta."
+      },
+      {
+        "texto": "Obtener el turno para la evaluación que será otorgado por la oficina de certificación de discapacidad en forma telefónica."
+      },
+      {
+        "texto": "Concurrir a la Instancia de Junta Evaluadora en la fecha y horario indicado."
+      },
+      {
+        "texto": "Retirar el CUD o la denegatoria desde la oficina de Certificación de Discapacidad."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Discapacidad",
+      "direccion": "Alsina 335",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/cud/mental/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/tramites/cud/mental/",
+      "titulo": "Discapacidad Mental / Intelectual | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T02:54:24.808Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el monto del trámite.",
+    "No se especifica el plazo de espera."
+  ]
+}

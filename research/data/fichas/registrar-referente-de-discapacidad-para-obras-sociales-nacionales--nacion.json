@@ -1,0 +1,80 @@
+{
+  "tramite": {
+    "slug": "registrar-referente-de-discapacidad-para-obras-sociales-nacionales",
+    "nombre": "Registrar referente de discapacidad para obras sociales nacionales",
+    "nombre_busqueda": "Registrar referente de discapacidad obras sociales",
+    "resumen": "Este trámite permite a las Obras Sociales Nacionales designar un Referente Responsable titular y uno suplente para articular la comunicación con el beneficiario con discapacidad y la Superintendencia de Servicios de Salud.",
+    "sinonimos": [],
+    "temas": [
+      "obra-social-y-prepaga",
+      "discapacidad-y-accesibilidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Servicios de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A las Obras Sociales Nacionales registradas en la Superintendencia de Servicios de Salud."
+    ],
+    "requisitos": [
+      {
+        "texto": "Estar registrado como Usuario SISS.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener RNOS, usuario y contraseña del Sistema Integral de la Seguridad Social.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar al Sistema Integral de la Seguridad Social con el número de RNOS, usuario y contraseña."
+      },
+      {
+        "texto": "Cargar los datos solicitados en la pantalla."
+      },
+      {
+        "texto": "Presionar el botón Guardar situado en la parte inferior."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si no se encuentra registrado como Usuario SISS, hay que ingresar para conocer cómo registrarse."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/registrar-referente-de-discapacidad-para-obras-sociales-nacionales",
+      "titulo": "Registrar referente de discapacidad para Obras Sociales Nacionales | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T03:18:16.950Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T03:18:16.950Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si no se encuentra registrado como Usuario SISS, hay que ingresar para conocer cómo registrarse."
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "tramite": {
+    "slug": "transferir-o-rectificar-rubrica-de-libros",
+    "nombre": "Transferir o rectificar rúbrica de libros",
+    "nombre_busqueda": "transferir o rectificar rúbrica de libros",
+    "resumen": "Podés solicitar este trámite de manera digital a través del sistema TAD, requiriendo usuario y clave fiscal nivel 2 o superior.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Justicia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan habilitado el servicio Trámites a distancia a través de AFIP utilizando clave fiscal nivel 2 o superior."
+    ],
+    "requisitos": [
+      {
+        "texto": "Contar con usuario TAD.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener habilitado el servicio Trámites a distancia a través de AFIP utilizando clave fiscal nivel 2 o superior.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nº Correlativo - CUIT - Denominación actual y tipo de entidad actual.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario IGJ de Transferencia o rectificación de libro.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD."
+      },
+      {
+        "texto": "Seleccioná el trámite 'Rectificación o transferencia de rúbricas'."
+      },
+      {
+        "texto": "Podés elegirla modalidad 'normal' o 'urgente'."
+      },
+      {
+        "texto": "Completá el formulario y realizá el pago."
+      },
+      {
+        "texto": "Guardá tus comprobantes en formato PDF."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/transferir-o-rectificar-rubrica-de-libros",
+      "titulo": "Transferir o rectificar rúbrica de libros | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T00:58:14.562Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica si el trámite requiere turno ni dónde se puede realizar presencialmente."
+  ]
+}

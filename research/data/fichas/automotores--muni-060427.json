@@ -1,0 +1,87 @@
+{
+  "tramite": {
+    "slug": "consulta-y-liquidacion-de-deuda-de-patentes-automotores-y-motovehiculos",
+    "nombre": "Consulta y liquidación de deuda de patentes automotores y motovehículos",
+    "nombre_busqueda": "Consulta deuda patentes automotores La Matanza",
+    "resumen": "Permití consultar y liquidar deudas de patentes de autos y motos en La Matanza mediante el dominio del vehículo y el código verificador.",
+    "sinonimos": [
+      "Pago deuda patente auto",
+      "Liquidación patente moto La Matanza",
+      "Consulta deuda vehiculo automotor"
+    ],
+    "temas": [
+      "patente-automotor-municipal",
+      "boletas-y-vencimientos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060427",
+  "organismo": {
+    "nombre": "Municipalidad de La Matanza",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en consultar o liquidar la deuda de su vehículo automotor o motovehículo registrado en la jurisdicción."
+    ],
+    "requisitos": [
+      {
+        "texto": "Dominio del auto o de la moto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fecha de vencimiento de la deuda.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Código verificador.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio web de Automotores - La Matanza."
+      },
+      {
+        "texto": "Seleccioná el tipo de automotor (Auto o Moto)."
+      },
+      {
+        "texto": "Ingresá el dominio del vehículo."
+      },
+      {
+        "texto": "Ingresá la fecha de vencimiento de la deuda."
+      },
+      {
+        "texto": "Ingresá el código verificador."
+      },
+      {
+        "texto": "Verificá si la deuda está acreditada o si tenés que abonarla."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://automotores.lamatanza.gov.ar/",
+      "titulo": "Automotores - La Matanza",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T14:09:28.989Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos de costos, plazos de atención ni requisitos adicionales para casos especiales (menores, extranjeros, empresas)."
+  ]
+}

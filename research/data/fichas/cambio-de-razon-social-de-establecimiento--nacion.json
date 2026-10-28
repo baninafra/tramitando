@@ -1,0 +1,118 @@
+{
+  "tramite": {
+    "slug": "cambio-de-razon-social-de-establecimiento",
+    "nombre": "Cambio de razón social de establecimiento",
+    "nombre_busqueda": "cambio de razon social establecimiento",
+    "resumen": "Para cambiar la razón social de un establecimiento habilitado (laboratorios, alcoholeras, fabricantes de medicamentos, etc.), se debe presentar una nota de solicitud con datos de las firmas involucradas y certificados de habilitación y buenas prácticas. El trámite es en línea y el costo es el arancel correspondiente al rubro.",
+    "sinonimos": [
+      "modificación de razón social",
+      "cambio de nombre de establecimiento"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo",
+      "monotributo-social-y-general",
+      "cuit-y-clave-fiscal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMAT",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan habilitación en los rubros de laboratorios de especialidades medicinales, laboratorios elaboradores/fraccionadores, alcoholeras, tránsito interjurisdiccional de medicamentos, operador/distribuidor logístico de medicamentos y fabricante/importador de productos médicos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de solicitud de cambio de razón social con tipo societario, nombre de fantasía, fusión o escisión, datos de firmas (nombre, CUIT, legajo, rubro, domicilio), datos de Dirección y Co-dirección Técnica (nombres, tipo/número de documento, matrícula profesional, título habilitante).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Inscripción del instrumento constitutivo del cambio ante la IGJ u organismo jurisdiccional competente, aprobado e inscripto, certificado ante escribano público.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de habilitación del establecimiento para cada rubro solicitado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Buenas Prácticas (Cumplimiento de Buenas Prácticas de Fabricación o Constancia de Cumplimiento de Buenas Prácticas de Distribución, o constancia de inicio de renovación si está vencido).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Disposición de designación para los cargos de Dirección y Co-dirección Técnica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de solicitud con carácter de declaración jurada sobre el mantenimiento de los cargos, indicando cargo, datos personales, matrícula, título, fecha de inicio, domicilio, disposición de designación, contacto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si hay limitación o designación: datos del profesional saliente (cargo, datos, matrícula, título, fecha de cese, domicilio, contacto) y del profesional entrante (cargo, datos, matrícula, título, fecha de inicio, domicilio, contacto).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título del profesional (copia legalizada y certificada ante escribano público).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de libre regencia emitida por la autoridad jurisdiccional correspondiente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración jurada de disponibilidad de matrícula (no ejercer dirección técnica ni desempeño profesional en otro establecimiento habilitado, sin incompatibilidades).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación personal del profesional a designar (copia legible del DNI, antecedentes penales del Registro Nacional de Reincidencia, copia legible de la matrícula).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Antecedentes del profesional a limitar (copia de la disposición de designación previa).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Listado de Certificados inscriptos ante la ANMAT con carácter de declaración jurada (número de inscripción, nombre comercial, nombre genérico, vigencia, condición de comercialización; para productos médicos: número de PM, marca, modelo, vigencia).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Cargar toda la documentación requerida en la plataforma THEMIS."
+      },
+      {
+        "texto": "Realizar el trámite por la plataforma THEMIS si se opta por el régimen descrito en la disposición ANMAT N° 8799/2025 para fabricantes e importadores de productos médicos."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si el documento de la nota de solicitud tiene firmas hológrafas, debe estar perfectamente legible, escaneado a color y certificado ante escribano público.",
+      "Si se encuentra con habilitación en más de un rubro, el trámite se tramita en forma conjunta en un solo expediente."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/cambio-de-razon-social-de-establecimiento",
+      "titulo": "Cambio de razón social de establecimiento | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T15:09:04.718Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite."
+  ]
+}

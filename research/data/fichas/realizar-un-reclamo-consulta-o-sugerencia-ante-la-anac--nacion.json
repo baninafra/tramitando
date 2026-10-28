@@ -1,0 +1,90 @@
+{
+  "tramite": {
+    "slug": "reclamo-consulta-sugerencia-anac",
+    "nombre": "Realizar un reclamo, consulta o sugerencia ante la ANAC",
+    "nombre_busqueda": "reclamo ANAC",
+    "resumen": "Si viajaste en avión y sufriste algún problema, podés comunicarte con el organismo para que revise tu caso. Es un trámite gratuito en línea.",
+    "sinonimos": [
+      "reclamo pasajeros ANAC",
+      "sugerencia ANAC",
+      "consulta ANAC"
+    ],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración Nacional de Aviación Civil",
+    "sigla": "ANAC",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Pasajeros que hayan viajado en vuelos comerciales"
+    ],
+    "requisitos": [
+      {
+        "texto": "Información de contacto del pasajero",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento de identidad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos del vuelo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ticket aéreo",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario de reclamos, consultas o sugerencias."
+      },
+      {
+        "texto": "Acompañá toda la documentación solicitada."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Recibís un correo electrónico de confirmación de recepción del mismo, el cual incluirá tu número de gestión.",
+      "Cualquier información que necesites respecto al mismo, debés responder el correo electrónico recibido."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/realizar-un-reclamo-consulta-o-sugerencia-ante-la-anac",
+      "titulo": "Realizar un reclamo, consulta o sugerencia ante la ANAC | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:39:33.193Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T02:39:33.193Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica un plazo de respuesta ni vigencia de la resolución."
+  ]
+}

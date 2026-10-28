@@ -1,0 +1,79 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-evaluacion-de-rotulo-de-alimentos-en-el-marco-del-programa-de-monitoreo-de-alimentos-importados",
+    "nombre": "Solicitud de evaluación de rótulo de alimentos en el marco del Programa de Monitoreo de Alimentos Importados",
+    "nombre_busqueda": "Solicitud de evaluación de rótulo de alimentos PMI",
+    "resumen": "Este trámite evalúa el rotulado de alimentos y bebidas analcohólicas importadas en cumplimiento del Programa de Monitoreo de Alimentos Importados. Se requiere un rótulo aprobado vigente y el pago del arancel correspondiente.",
+    "sinonimos": [
+      "Evaluación de rótulo alimentos importados",
+      "PMI rótulo alimentos",
+      "Evaluación rótulo alimentos ANMAT"
+    ],
+    "temas": [
+      "bromatologia-y-alimentos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMAT",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas importadoras que tramiten ante el INAL alimentos y bebidas analcohólicas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Rótulo aprobado en el marco del RNPA autorizado y vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago del arancel vigente correspondiente, gestionado previamente a través del Sistema de Pago Electrónico de ANMAT.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá en la plataforma TAD y buscá el trámite: Solicitud de Evaluación de rótulo de alimentos en el marco del Programa de Monitoreo de Alimentos Importados (PMI)."
+      },
+      {
+        "texto": "Completá el formulario y adjuntá la documentación requerida."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-evaluacion-de-rotulo-de-alimentos-en-el-marco-del-programa-de-monitoreo-de",
+      "titulo": "Solicitar la Evaluación de rótulo de alimentos en el marco del Programa de Monitoreo de Alimentos Importados (PMI) | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T09:33:51.118Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T09:33:51.118Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no se especifica en el texto, solo se indica que es arancelado.",
+    "El plazo de resolución del trámite no se especifica en el texto."
+  ]
+}

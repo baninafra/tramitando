@@ -1,0 +1,93 @@
+{
+  "tramite": {
+    "slug": "obtener-un-certificado-para-importar-vehiculos-de-coleccion",
+    "nombre": "Obtener un certificado para importar vehículos de colección",
+    "nombre_busqueda": "Certificado CIVAC importación vehículos colección",
+    "resumen": "Para importar vehículos de colección necesitás el CIVAC, que requiere la AVAC y que el auto tenga más de 30 años y un valor FOB superior a los 12.000 dólares.",
+    "sinonimos": [
+      "Certificado de Importación de Vehículos Automotores Clásicos",
+      "CIVAC",
+      "Certificado para importar autos clásicos"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A todos los interesados en vehículos para colección y/o exposición."
+    ],
+    "requisitos": [
+      {
+        "texto": "El vehículo debe tener un valor FOB superior a los U$S12.000.",
+        "aclaracion": null
+      },
+      {
+        "texto": "El vehículo debe tener un mínimo de 30 años de antigüedad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contar con Trámites a Distancia (TAD) asociado a ARCA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contar con fondos propios.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ingresar a TAD con tu CUIT y clave fiscal nivel 2 o superior.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Completar el formulario de solicitud (Anexo I) y adjuntar las fotos del vehículo y la factura comercial.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Adicionar el formulario complementario en el Anexo III si la marca, modelo y año fueron informados por la Dirección de Importaciones con CIVAC emitidos en Informes Semestrales.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD con tu CUIT y clave fiscal nivel 2 o superior."
+      },
+      {
+        "texto": "Completá el formulario de solicitud (Anexo I) y adjuntá las fotos del vehículo y la factura comercial."
+      },
+      {
+        "texto": "Ingresá en notificaciones recibidas y obtené tu \"Certificado de Importación de Vehículos Automotores Clásicos (CIVAC)\"."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-un-certificado-para-importar-vehiculos-de-coleccion",
+      "titulo": "Obtener un certificado para importar vehículos de colección | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T06:48:40.403Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia exacta del certificado no se especifica en el texto, solo se indica que es de 12 meses desde la emisión."
+  ]
+}

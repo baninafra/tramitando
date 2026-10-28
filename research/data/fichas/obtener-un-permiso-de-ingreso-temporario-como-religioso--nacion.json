@@ -1,0 +1,121 @@
+{
+  "tramite": {
+    "slug": "permiso-de-ingreso-temporario-como-religioso",
+    "nombre": "Permiso de ingreso temporal como religioso",
+    "nombre_busqueda": "permiso ingreso temporal religioso",
+    "resumen": "Extranjeros de cultos reconocidos oficialmente que ingresen al país para desarrollar actividades propias de su culto como miembros del clero, ministros, seminaristas o personal religioso.",
+    "sinonimos": [
+      "permiso ingreso culto",
+      "permiso ingreso religioso"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Migraciones",
+    "sigla": "DNM",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El representante autorizado del culto con poder/designación con facultades suficientes para actuar ante la DNM.",
+      "El apoderado del llamante con poder/designación con facultades suficientes (ante escribano público o funcionario de la DNM)."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI vigente del representante del culto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poder/designación con facultades suficientes para actuar ante la DNM.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poder otorgado por el requirente, con facultades suficientes para actuar ante este DNM (original y copia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI vigente del apoderado (original y copia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de solicitud detallando los motivos de la petición, conteniendo los siguientes datos de ingresante: Nombres y Apellidos, Fecha de Nacimiento, Número de pasaporte, País de nacimiento, Nacionalidad, Estado Civil, Profesión, Nivel de estudios cursados, País y ciudad donde reside, Plazo de permane…",
+        "aclaracion": "La nota de solicitud deberá ser firmada por el Representante del Culto y contar con la certificación de la misma por Escribano Público."
+      },
+      {
+        "texto": "Copia completa y actualizada del pasaporte válido y vigente del ingresante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia emitida por el representante habilitado del culto, certificada por el Ministerio de Relaciones Exteriores Comercio Internacional y Culto, en donde se especifique la actividad o función a desarrollar en la República Argentina, domicilio donde se desarrollará la tarea y si la entidad se ha…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Legalizaciones y traducción pública nacional (de corresponder) de toda documentación emitida en el exterior.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la nota de solicitud con documentación correcta y completa en la Dirección Nacional de Migraciones (Av. Antártida Argentina 1355, CABA) o en las Delegaciones de todo el país."
+      },
+      {
+        "texto": "Durante el período de supervisión de la solicitud presentada, podés seguir el estado de tu trámite."
+      },
+      {
+        "texto": "Una vez resuelto el trámite, debés presentarte en donde hayas iniciado la solicitud a los fines de notificarte del otorgamiento del mismo, y poder informarle al extranjero que puede presentarse ante el Consulado Argentino que le corresponda con el fin de obtener su visa."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La nota de solicitud deberá ser firmada por el Representante del Culto y contar con la certificación de la misma por Escribano Público.",
+      "Si el representante del culto no se presenta, el trámite se puede suscribir en presencia del agente migratorio, quien certificará su firma."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Migraciones",
+      "direccion": "Av. Antártida Argentina 1355, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/obtener-un-permiso-de-ingreso-temporario-como-religioso"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-un-permiso-de-ingreso-temporario-como-religioso",
+      "titulo": "Obtener un permiso de Ingreso Temporario como Religioso | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T06:32:42.120Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T06:32:42.120Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa migratoria no se especifica en el texto, solo se indica que se debe consultar el cuadro tasas migratorias.",
+    "El plazo exacto de tramitación no se especifica en el texto, solo se menciona un período de supervisión."
+  ]
+}

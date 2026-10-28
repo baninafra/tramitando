@@ -1,0 +1,104 @@
+{
+  "tramite": {
+    "slug": "obtener-formulario-digital-motocicletas-0km-seguro-obligatorio-anual",
+    "nombre": "Obtener el formulario digital motocicletas 0km seguro obligatorio anual",
+    "nombre_busqueda": "formulario digital motocicletas 0km seguro obligatorio",
+    "resumen": "Registro legal y digital para motocicletas 0km que salen del concesionario, garantizando el seguro de responsabilidad civil antes del patentamiento.",
+    "sinonimos": [
+      "formulario digital motocicletas 0km",
+      "formulario FD M 0km SOA",
+      "registro digital motocicletas 0km seguro"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Agencia Nacional de Seguridad Vial",
+    "sigla": "ANSV",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Concesionarios y comerciantes de motocicletas 0 km.",
+      "El personal autorizado por el punto de venta."
+    ],
+    "requisitos": [
+      {
+        "texto": "Razón Social y constancia de CUIT del concesionario o comercio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombre y apellido, DNI, sexo y contacto del personal autorizado por el punto de venta.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos del titular de la motocicleta y del seguro.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos de los medios de pago habilitados: tarjetas de crédito o débito, Home Banking (DEBIN, Transferencia Bancaria, Link Pagos), o QR.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Darse de alta ante la ANSV por mail."
+      },
+      {
+        "texto": "Una vez procesada la solicitud, efectuar el alta como punto de venta habilitado para emitir el formulario FD M 0km SOA."
+      },
+      {
+        "texto": "Completar los datos de la Motocicleta vendida, del usuario y del seguro."
+      },
+      {
+        "texto": "Abonar la boleta de pago emitida."
+      },
+      {
+        "texto": "Generar el número de formulario tras el abono."
+      },
+      {
+        "texto": "Incorporar el número de Formulario FD 0km SOA recibido en el trámite de patentamiento de la Motocicleta."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Descargar el archivo Manual del Usuario - Formulario digital para Motocicletas 0 Km para seguir el paso a paso de todo el proceso.",
+      "Enviar la información de alta por mail a: [email protected]",
+      "Iniciar sesión en: https://formulariomotos.seguridadvial.gob.ar/login"
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 100000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/obtene-el-formulario-digital-motocicletas-0km-seguro-obligatorio-anual"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtene-el-formulario-digital-motocicletas-0km-seguro-obligatorio-anual",
+      "titulo": "Obtené el Formulario Digital Motocicletas 0KM - Seguro Obligatorio Anual | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T22:24:31.773Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite."
+  ]
+}

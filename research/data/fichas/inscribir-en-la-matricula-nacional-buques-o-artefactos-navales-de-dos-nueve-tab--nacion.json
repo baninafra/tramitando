@@ -1,0 +1,132 @@
+{
+  "tramite": {
+    "slug": "inscripcion-matricula-nacional-buques-rey",
+    "nombre": "Inscribir en la matrícula nacional buques o artefactos navales de dos a nueve tab y rey",
+    "nombre_busqueda": "Inscribir buques en matrícula nacional",
+    "resumen": "El trámite permite inscribir buques o artefactos navales de dos a nueve toneladas de arqueo bruto y registro especial de yates, construidos en el extranjero, ante la Prefectura Naval Argentina.",
+    "sinonimos": [
+      "Inscripción de yates en matrícula nacional",
+      "Registro de buques menores de nueve toneladas"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Prefectura Naval Argentina",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Propietarios de buques y embarcaciones."
+    ],
+    "requisitos": [
+      {
+        "texto": "Pasavante de navegación otorgado por Cónsul Argentino con destino en el país de donde proviene el buque o artefacto naval, si corresponde.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de despacho a plaza otorgado por la Administración Nacional de Aduanas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado otorgado por el astillero constructor traducido y legalizado, con las formalidades exigidas por la ley del lugar de celebración del acto o factura de compra.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Factura de compra del motor -salvo que sea fuera de borda menor de CUARENTA (40) HP-, con indicación del número de despacho a plaza si fuera importado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de verificación u homologación del buque o artefacto naval emitido por la Prefectura con la firma de un Oficial, debiendo constar en la solicitud el número de expediente por el cual se verificó y que se dio cumplimiento a los recaudos técnicos establecidos por la Ordenanza vigente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Ingresá el expediente ante la Dependencia de la Prefectura Naval Argentina donde tenga su lugar de amarre o en la que corresponda al domicilio del propietario."
+      },
+      {
+        "texto": "La repartición, a través de la Sección Policía de Seguridad de la Navegación, procederá a ingresar el expediente en el sistema informático."
+      },
+      {
+        "texto": "Extender la autorización para navegar por el lapso de SESENTA (60) días conforme artículo 402.0206 del REGINAVE."
+      },
+      {
+        "texto": "Remitir el expediente electrónico directamente al Registro Nacional de Buques."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "30 días hábiles",
+    "consejos": [
+      "El Registro Nacional de Buques tiene 30 días hábiles desde que el trámite ingresa al Organismo y su contestación se hace desde la Dependencia que interviene directamente a la casilla de correo electrónico informada por el propietario en el documento.",
+      "Este trámite se encuentra alcanzado por las consideraciones establecidas en el inciso b del Art. 10 de la Ley N° 19.549, respecto del silencio con sentido positivo. El plazo estipulado para su configuración es de 60 días habiles después de haber acreditado el cumplimiento de las condiciones previst…"
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 655000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-en-la-matricula-nacional-buques-o-artefactos-navales-de-dos-nueve-tab-y-rey"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Policía de Seguridad de la Navegación - Registro Nacional de Buques",
+      "direccion": "Av. Eduardo Madero 235 - CP 1106 (Ciudad Autónoma de Buenos Aires)",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-en-la-matricula-nacional-buques-o-artefactos-navales-de-dos-nueve-tab-y-rey"
+    },
+    {
+      "nombre": "Dirección de Planeamiento - Departamento Contralor Recaudatorio",
+      "direccion": "Av. Eduardo Madero 235 - CP 1106 (Ciudad Autónoma de Buenos Aires)",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-en-la-matricula-nacional-buques-o-artefactos-navales-de-dos-nueve-tab-y-rey"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribir-en-la-matricula-nacional-buques-o-artefactos-navales-de-dos-nueve-tab-y-rey",
+      "titulo": "Inscribir en la matrícula nacional buques o artefactos navales de dos a nueve TAB y REY registro especial de yates cualquiera fuera su tonelaje construidos en el extranjero. | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T23:14:46.260Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/prefecturanaval/gestion-de-pagos",
+      "titulo": "Gestión de pagos | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T23:14:46.260Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T23:14:46.260Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica si el trámite requiere turno ni proporciona un enlace para sacarlo.",
+    "El texto no detalla si hay costos adicionales más allá del arancel mínimo de $6.550 o si varía según el valor de compra del buque."
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "tramite": {
+    "slug": "obtener-la-clave-de-identificacion-cdi",
+    "nombre": "Obtener la clave de identificación CDI",
+    "nombre_busqueda": "obtener clave de identificación cdi",
+    "resumen": "Las personas físicas y las sucesiones indivisas sin CUIT ni CUIL pueden solicitar la CDI para abrir cuentas bancarias o adquirir bienes registrables. El trámite es gratuito y requiere presentar formulario F 663 junto con DNI o pasaporte.",
+    "sinonimos": [
+      "solicitar clave de identificación",
+      "obtener CDI"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ARCA",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas físicas que no posean CUIT ni CUIL.",
+      "Sucesiones indivisas que no posean CUIT ni CUIL.",
+      "Representaciones diplomáticas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario F 663 —Nuevo Modelo— (original y copia), marcando como motivo del trámite Solicitud.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para representaciones diplomáticas: Formulario de DJ 420/J generado por el programa aplicativo denominado Módulo de Inscripción de Personas Jurídicas (MIPJ).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Argentinos nativos o naturalizados: Documento Nacional de Identidad (DNI).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Extranjeros residentes en el país: Documento Nacional de Identidad (DNI) o, de no poseerlo, cédula de identidad, certificado o comprobante con el número de expediente asignado por la Dirección Nacional de Migraciones donde conste el carácter de su residencia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Extranjeros no residentes en el país: pasaporte.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Extranjeros no residentes de países limítrofes: cédula de identidad de sus países de origen.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Extranjeros no residentes que no hayan ingresado al territorio nacional y operen desde el exterior: fotocopia del pasaporte o documento del país de origen, en caso de no poseer pasaporte.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Sucesiones indivisas: Documentación que acredite la condición de administrador de la sucesión.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del certificado de defunción del causante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de la carátula del juicio sucesorio, donde conste el número de expediente, juzgado y secretaría de radicación.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el formulario F 663 —Nuevo Modelo— por duplicado en la dependencia de ARCA que corresponda al domicilio real del solicitante."
+      },
+      {
+        "texto": "Adjuntá original y copia de los documentos indicados anteriormente."
+      },
+      {
+        "texto": "Recibí una copia sellada del formulario o del comprobante emitido por ARCA, con los datos del Sistema Registral y la Clave de Identificación (CDI) asignada."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "De tratarse de personas físicas no residentes en el país y de entidades constituidas fuera del territorio nacional, el plazo se extenderá a 30 días hábiles administrativos."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-la-clave-de-identificacion-cdi",
+      "titulo": "Obtener la clave de identificación - CDI | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T22:29:03.136Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T22:29:03.136Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de la dependencia de ARCA donde se debe presentar el formulario.",
+    "Fecha de vigencia del trámite."
+  ]
+}

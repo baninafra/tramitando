@@ -1,0 +1,99 @@
+{
+  "tramite": {
+    "slug": "solicitar-copia-de-estados-contables-de-aseguradoras-o-reaseguradoras",
+    "nombre": "Solicitar copia de estados contables de aseguradoras o reaseguradoras",
+    "nombre_busqueda": "solicitar copia estados contables aseguradoras",
+    "resumen": "Cualquier ciudadano puede solicitar copia de los estados contables de las aseguradoras y reaseguradoras a la Superintendencia de Seguros de la Nación de forma gratuita y en línea.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Seguros de la Nación",
+    "sigla": "SSN",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier ciudadano."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener usuario de acceso a Trámites a Distancia (TAD).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD."
+      },
+      {
+        "texto": "Acargate al trámite Solicitud de copia de estados contables de aseguradoras o reaseguradoras con clave fiscal."
+      },
+      {
+        "texto": "Indicá el código SSN y el nombre de la compañía."
+      },
+      {
+        "texto": "Indicá el período solicitado."
+      },
+      {
+        "texto": "Indicá el motivo de la solicitud."
+      },
+      {
+        "texto": "Confirmá el trámite."
+      },
+      {
+        "texto": "Firmá desde la pestaña MIS TRÁMITES / Tareas Pendientes."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Los estados contables se presentan a la Superintendencia de Seguros de la Nación con frecuencia trimestral, 45 días después del cierre del trimestre.",
+      "Finalizado el proceso se creará formalmente el trámite con número de expediente. El trámite generado pasa a la SSN. La Superintendencia analizará la solicitud y enviará la copia de los estados contables por intermedio del mismo trámite TAD."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-copia-de-estados-contables-de-aseguradoras-o-reaseguradoras",
+      "titulo": "Solicitar copia de estados contables de aseguradoras o reaseguradoras | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:31:31.054Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T08:31:31.054Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/",
+      "titulo": "Inicio | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T08:31:31.054Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Vigencia exacta del trámite",
+    "Dirección de oficinas para atención presencial",
+    "Horarios de atención presencial",
+    "Contacto telefónico directo para consultas específicas"
+  ]
+}

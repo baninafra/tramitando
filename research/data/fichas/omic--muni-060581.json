@@ -1,0 +1,95 @@
+{
+  "tramite": {
+    "slug": "reclamo-defensa-del-consumidor-necochea",
+    "nombre": "Hacer un reclamo de defensa del consumidor",
+    "nombre_busqueda": "reclamo ante la OMIC de Necochea",
+    "resumen": "Presentá un formulario en la Oficina Municipal de Información al Consumidor (OMIC) con tu DNI y la documentación que respalde el reclamo. La oficina fija una audiencia de conciliación para el mismo día.",
+    "sinonimos": [
+      "reclamo en la OMIC",
+      "reclamo de consumo"
+    ],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060581",
+  "organismo": {
+    "nombre": "Oficina de Defensa del Consumidor",
+    "sigla": "OMIC",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que quieran presentar un reclamo ante la Oficina de Defensa del Consumidor."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que respalde el reclamo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Completá el formulario de reclamo."
+      },
+      {
+        "texto": "Presentá el formulario en la oficina de OMIC."
+      },
+      {
+        "texto": "Llevá tu DNI y la documentación que respalde el reclamo."
+      },
+      {
+        "texto": "Participá de la audiencia de conciliación en la fecha que te informen al presentar el reclamo."
+      },
+      {
+        "texto": "Si no hay acuerdo en la primera audiencia, asistí a la segunda audiencia si te convocan."
+      },
+      {
+        "texto": "Si hay conciliación, firmá el acuerdo."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "La fecha de la audiencia de conciliación se otorga el mismo día en que presentás el reclamo.",
+    "consejos": [
+      "Si no hay acuerdo en la audiencia, la Dirección analizará si hubo una infracción a la Ley de Defensa del Consumidor y, si corresponde, sugerirá sanciones al juez de Faltas.",
+      "Podés recurrir a la Justicia por el mismo motivo, incluso mientras se tramita el reclamo ante la Dirección."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Defensa del Consumidor",
+      "direccion": "Av. 59 N° 2448 PB",
+      "localidad": "Necochea",
+      "horario": null,
+      "fuente_url": "https://necochea.gov.ar/tramites/omic/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://necochea.gov.ar/tramites/omic/",
+      "titulo": "Tramites – OMIC – Municipalidad de Necochea",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T15:34:45.495Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa si necesitás turno.",
+    "No se informa si el trámite tiene costo."
+  ]
+}

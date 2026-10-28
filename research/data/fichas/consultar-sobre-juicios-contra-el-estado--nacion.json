@@ -1,0 +1,112 @@
+{
+  "tramite": {
+    "slug": "consultar-sobre-juicios-contra-el-estado",
+    "nombre": "Consultar sobre juicios contra el estado",
+    "nombre_busqueda": "Consultar estado juicios contra el estado",
+    "resumen": "Podés consultar el estado de un juicio previsional contra el Estado Nacional si sos retirado o pensionista militar con haberes incorrectamente liquidados. El trámite es gratuito y se puede hacer presencialmente, telefónicamente o por SIC.",
+    "sinonimos": [
+      "Consulta estado juicios IAF",
+      "Verificar situación juicio haberes militares"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Retirados y pensionistas militares que tengan iniciado un juicio previsional por incorrecta liquidación de haberes."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del titular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Carátula y número del expediente judicial.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá con tu CUIL y contraseña en el portal eIAF Beneficiarios o en la App eIAF."
+      },
+      {
+        "texto": "Dejanos tu solicitud en el apartado Sistema Integrado de Consultas."
+      },
+      {
+        "texto": "Personal de Atención al Público te indicará los pasos a seguir para realizar el trámite."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate con la documentación requerida a la sede central del IAF en Cerrito 572 – CABA o a las Delegaciones del Interior."
+      },
+      {
+        "texto": "Realizá la consulta en el horario de 08:00 a 13:00 horas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La fecha precisa del pago está supeditada al ingreso físico al IAF de las partidas presupuestarias asignadas por parte de la Tesorería General de la Nación al efecto."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede central del IAF",
+      "direccion": "Cerrito 572",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/consultar-sobre-juicios-contra-el-estado"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consultar-sobre-juicios-contra-el-estado",
+      "titulo": "Consultar sobre Juicios contra el Estado. | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T05:28:23.362Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/iaf",
+      "titulo": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "donde",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T05:28:23.362Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T05:28:23.362Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horario de atención telefónica: 08:00 a 15:00 horas.",
+    "Vías de contacto: Centro de atención telefónica 0810-222-2423.",
+    "Información sobre cómo registrarse en el portal eIAF y la App eIAF."
+  ]
+}

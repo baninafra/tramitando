@@ -1,0 +1,87 @@
+{
+  "tramite": {
+    "slug": "ingresar-mercaderia-sin-derecho-uso-sdu",
+    "nombre": "Ingresar mercadería sin derecho a uso",
+    "nombre_busqueda": "Ingresar mercadería sin derecho a uso",
+    "resumen": "Declará juradamente el ingreso de mercaderías importadas para ensayo o exportación de servicios de ensayo, usando tu CUIT y clave fiscal en Trámites a Distancia.",
+    "sinonimos": [
+      "Ingreso de mercadería Sin Derecho a Uso",
+      "SDU",
+      "Ingreso sin derecho a uso"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Registros Tributarios",
+    "sigla": "DNRT",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes importen productos para ensayo, evaluación de conformidad o exportación de servicios de ensayo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener CUIT y clave fiscal nivel 2 en ARCA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contar con Trámites a Distancia (TAD) asociado a ARCA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si vas en nombre de empresa, hacer la delegación de servicios vía ARCA.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a Trámites a Distancia (TAD) y seleccioná la opción de Ingreso de mercadería Sin Derecho a Uso (SDU)."
+      },
+      {
+        "texto": "Completá el Formulario de Declaración Jurada de Ingreso Sin Derecho a Uso (SDU)."
+      },
+      {
+        "texto": "Adjuntá la Nota del Organismo de Certificación y/o Cronograma de laboratorio de ensayo interviniente, según corresponda."
+      },
+      {
+        "texto": "Para finalizar el trámite, completá el Formulario de Declaración de Finalización Sin Derecho a Uso (SDU) con el Número de expediente de Ingreso de SDU y el N° de Informe de Ensayo o el Certificado, según corresponda."
+      },
+      {
+        "texto": "Si no continuás con la actividad, detallá el motivo de la finalización."
+      },
+      {
+        "texto": "Si la Dirección lo requiera, podés entregar documentación complementaria para acreditar el motivo de la finalización."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Una vez ingresada la mercadería, tenés un plazo de 180 días corridos para informar a la DNRT a través de Trámites a Distancia (TAD) la finalización de la actividad que motivó la solicitud bajo el régimen SDU, adjuntando la documentación que lo respalde."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/ingresar-mercaderia-sin-derecho-uso-sdu",
+      "titulo": "Ingresar mercadería sin derecho a uso (SDU) | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T16:38:00.444Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto del trámite no se especifica en el texto."
+  ]
+}

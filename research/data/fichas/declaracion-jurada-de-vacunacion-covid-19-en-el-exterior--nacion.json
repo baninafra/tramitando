@@ -1,0 +1,82 @@
+{
+  "tramite": {
+    "slug": "declaracion-jurada-de-vacunacion-covid-19-en-el-exterior",
+    "nombre": "Declaración jurada de vacunación COVID-19 en el exterior",
+    "nombre_busqueda": "declaracion jurada vacunacion covid exterior",
+    "resumen": "Si te vacunaste en el extranjero, completá esta declaración jurada gratuita en línea para informar tu esquema al Ministerio de Salud. Es solo un registro, no sustituye el certificado físico del país donde te vacunaste.",
+    "sinonimos": [
+      "declaración jurada vacunación COVID-19",
+      "declaración jurada vacunación COVID-19 en el exterior",
+      "declaración jurada vacunación covid 19"
+    ],
+    "temas": [
+      "vacunacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Salud de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Todas las personas que se aplicaron la vacuna contra el coronavirus en el extranjero.",
+      "Padres o responsables que quieran registrar la vacunación de sus hijos menores de 13 años."
+    ],
+    "requisitos": [
+      {
+        "texto": "Certificado físico de vacunación entregado al momento de la aplicación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cuenta en Mi Argentina con identidad validada.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a tu cuenta en la versión web de MiArgentina."
+      },
+      {
+        "texto": "Accedé a la sección Mis Trámites."
+      },
+      {
+        "texto": "Hacé clic en Declaración Jurada de vacunación COVID-19 en el exterior."
+      },
+      {
+        "texto": "Completá el formulario con los datos que figuran en el certificado."
+      },
+      {
+        "texto": "Si declarás más de una dosis, completá un formulario por cada una."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Se recomienda realizar la declaración desde una PC para poder descargar la constancia, ya que algunos celulares la bloquean.",
+      "Si no podés validar tu identidad en la aplicación, podés buscar el Punto Digital más cercano para generar la validación presencial o comunicarte con la Mesa de Ayuda."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/declaracion-jurada-de-vacunacion-covid-19-en-el-exterior",
+      "titulo": "Declaración jurada de vacunación COVID-19 en el exterior | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T05:42:38.374Z"
+    }
+  ],
+  "sin_confirmar": []
+}

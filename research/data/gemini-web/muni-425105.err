@@ -1,0 +1,28 @@
+[0m
+> build · deepseek-v4.1-flash-free
+[0m
+[0m◈ [0mExa Web Search ""Perú" La Pampa municipio gobierno oficial página web"
+[0m◈ [0mExa Web Search "Municipalidad de Perú La Pampa sitio oficial gob.ar trámites"
+[0m% [0mWebFetch https://www.lapampa.gob.ar/peru.html
+[0m◈ [0mExa Web Search ""municipalidad de Perú" "Guatraché" La Pampa teléfono intendente"
+[0m◈ [0mExa Web Search "portal de trámites lapampa.gob.ar trámites provincia La Pampa"
+[0m◈ [0mExa Web Search "site:lapampa.gob.ar "Perú" comisión de fomento trámites"
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/
+[0m◈ [0mExa Web Search ""comisión de fomento de Perú" La Pampa ordenanza tarifaria trámites"
+[0m✗ [0mWebFetch https://peru.gob.ar failed
+[91m[1mError: [0mTransport error (GET https://peru.gob.ar)
+[0m✗ [0mWebFetch https://www.peru.gob.ar failed
+[91m[1mError: [0mTransport error (GET https://www.peru.gob.ar)
+[0m◈ [0mExa Web Search ""Perú" "La Pampa" municipalidad sitio web oficial gob.ar"
+[0m% [0mWebFetch https://lapampa.gob.ar/municipalidades-y-comisiones-de-fomento.html
+[0m◈ [0mExa Web Search ""Comisión de Fomento de Perú" trámite certificado residencia"
+[0m◈ [0mExa Web Search "La Pampa "guía de trámites" municipales comuna atención al vecino"
+[0m◈ [0mExa Web Search "site:lapampa.gob.ar trámites municipales comisiones de fomento guía"
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/?page=2
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/?page=3
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/?page=4
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/?page=5
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/?page=6
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/?page=7
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/?page=8
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/?page=9

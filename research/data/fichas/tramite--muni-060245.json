@@ -1,0 +1,78 @@
+{
+  "tramite": {
+    "slug": "pagos-tasas-municipales-online",
+    "nombre": "Pago de Tasas Municipales e Impuestos Online",
+    "nombre_busqueda": "Pago tasas municipales online",
+    "resumen": "Consultá tu estado de cuenta, vencimientos y plan de pago de tasas e impuestos municipales desde cualquier lugar. Podés descargar comprobantes y realizar pagos online de forma segura.",
+    "sinonimos": [
+      "Pago deudas municipales",
+      "Consulta deuda tasas",
+      "Calendario vencimientos tasas"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060245",
+  "organismo": {
+    "nombre": "Municipalidad de Ensenada",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier contribuyente que tenga deudas con el municipio."
+    ],
+    "requisitos": [
+      {
+        "texto": "Partida inmobiliaria, patente, legajo o cuenta.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Accedé al sitio web de Tasas Municipales."
+      },
+      {
+        "texto": "Seleccioná la tasa o impuesto a consultar."
+      },
+      {
+        "texto": "Ingresá tu partida inmobiliaria, patente, legajo o cuenta."
+      },
+      {
+        "texto": "Verificá el estado de cuenta, próximas cuotas y plan de pago vigente."
+      },
+      {
+        "texto": "Podés descargar comprobantes emitidos o generar nuevos."
+      },
+      {
+        "texto": "Realizá el pago online de manera segura."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://pagos.ensenada.gov.ar/nuevo_index.php",
+      "titulo": "Tasas Municipales - Municipalidad de Ensenada",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T23:19:10.679Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los montos exactos de las tasas y plazos de vencimiento específicos para cada contribuyente no se detallan en el texto general, solo se indican fechas de vencimiento de cuotas genéricas."
+  ]
+}

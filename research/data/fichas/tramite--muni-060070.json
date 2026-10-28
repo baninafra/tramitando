@@ -1,0 +1,81 @@
+{
+  "tramite": {
+    "slug": "consulta-tributaria-y-emision-de-boletas",
+    "nombre": "Consulta Tributaria y Emisión de Boletas",
+    "nombre_busqueda": "Consulta de deuda Baradero",
+    "resumen": "Consultá el estado de tu deuda tributaria, imprimí comprobantes o pagá tus tasas en línea.",
+    "sinonimos": [
+      "Consulta de deuda",
+      "Estado de cuenta Baradero",
+      "Pago de tasas municipales"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "planes-de-pago-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060070",
+  "organismo": {
+    "nombre": "Municipalidad de Baradero",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que tenga una deuda tributaria o quiera consultar su estado."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI o documento de identidad vigente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio web de Consultas Tributarias."
+      },
+      {
+        "texto": "Ingresá tus datos de identificación."
+      },
+      {
+        "texto": "Consultá el estado de tu cuenta o generá tu comprobante."
+      },
+      {
+        "texto": "Realizá el pago en línea si tenés cuenta."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá el calendario de pagos antes de pagar.",
+      "Guardá el comprobante de pago."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://consultatributaria.baradero.gob.ar/",
+      "titulo": "Consultas Tributarias",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T03:26:16.328Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los montos exactos de las tasas no se especifican en el texto.",
+    "La fecha de vigencia de la consulta no se especifica en el texto.",
+    "Los requisitos específicos para menores o casos especiales no se detallan en el texto."
+  ]
+}

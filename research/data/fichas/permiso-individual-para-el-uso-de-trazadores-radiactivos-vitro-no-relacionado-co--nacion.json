@@ -1,0 +1,149 @@
+{
+  "tramite": {
+    "slug": "permiso-individual-uso-trazadores-radiactivos-vitro",
+    "nombre": "Permiso individual para el uso de trazadores radiactivos vitro",
+    "nombre_busqueda": "Permiso trazadores radiactivos vitro",
+    "resumen": "Obtené, renová o modificá tu permiso para usar trazadores radiactivos vitro en investigación y docencia. El trámite lleva 60 días hábiles y requiere título universitario, curso aprobado y práctica en instalación autorizada.",
+    "sinonimos": [
+      "Permiso ARN trazadores vitro",
+      "Permiso uso radioisótopos investigación"
+    ],
+    "temas": [
+      "salud-y-prevencion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Autoridad Regulatoria Nuclear",
+    "sigla": "ARN",
+    "web": "https://www.argentina.gob.ar/arn"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan título de grado universitario en carrera de 5 años con Ciencias Químicas como parte esencial.",
+      "Quienes estén habilitados para ejercer la profesión en Argentina.",
+      "Quienes posean formación teórica aprobada en curso reconocido por la ARN."
+    ],
+    "requisitos": [
+      {
+        "texto": "Título de grado universitario en carrera de 5 años con Ciencias Químicas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Habilitación para ejercer la profesión en Argentina.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formación teórica aprobada en curso de trazadores radiactivos vitro.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formación práctica de 100 horas en 10 semanas en instalación autorizada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota del preceptor firmada por representante legal e responsable de seguridad radiológica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Currículum Vitae actualizado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotografía tamaño 4x4.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario Solicitud de Permiso Individual impreso en doble faz y completado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI actualizado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia legalizada del título profesional.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia legalizada del certificado de aprobación del curso.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago de la tasa regulatoria.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario Facturación de la Tasa Regulatoria con constancia de CUIL/CUIT.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación requerida por correo postal o personalmente en la sede central de la ARN."
+      },
+      {
+        "texto": "Si es renovación, presentá el formulario firmado, CV de 5 años, constancia de desempeño de 2 años y comprobante de pago."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "60 días hábiles",
+    "consejos": [
+      "El permiso tiene vigencia de 5 años salvo que la ARN especifique menos.",
+      "No debés presentar deudas por pago de tasas anteriores para la emisión del permiso."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede central de la ARN",
+      "direccion": "Av. del Libertador 8250, Oficina 317",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/permiso-individual-para-el-uso-de-trazadores-radiactivos-vitro-no-relacionado-con-el"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/permiso-individual-para-el-uso-de-trazadores-radiactivos-vitro-no-relacionado-con-el",
+      "titulo": "Permiso individual para el uso de trazadores radiactivos vitro no relacionado con el diagnóstico en seres humanos y para investigación y docencia.",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-26T23:58:22.156Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/arn/instalaciones-practicas-y-personal-regulado/datos-de-contacto-para-regulados",
+      "titulo": "Datos de contacto para regulados",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-26T23:58:22.156Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T23:58:22.156Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Valor exacto de la hora regulatoria",
+    "Horarios de atención en oficinas específicas fuera de la sede central",
+    "Métodos alternativos de envío de documentación (GDE)"
+  ]
+}

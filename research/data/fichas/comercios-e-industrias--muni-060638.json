@@ -1,0 +1,117 @@
+{
+  "tramite": {
+    "slug": "habilitacion-comercial",
+    "nombre": "Habilitación de comercios",
+    "nombre_busqueda": "Habilitación de comercios",
+    "resumen": "Trámite para habilitar locales, establecimientos, predios u oficinas destinados a comercios, industrias, educación, salud, recreación y diversión. Requiere verificar la zonificación antes de presentar la solicitud.",
+    "sinonimos": [
+      "Habilitación comercial",
+      "Habilitación de rubro comercial",
+      "Habilitación de emprendimiento comercial"
+    ],
+    "temas": [
+      "comercio-e-industria",
+      "habilitacion-comercial"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060638",
+  "organismo": {
+    "nombre": "Municipalidad del Pilar",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares del comercio",
+      "Solicitantes de la zonificación (Contador/Gestor/Apoderado)"
+    ],
+    "requisitos": [
+      {
+        "texto": "Enviar mail a planeamiento@pilar.gov.ar",
+        "aclaracion": null
+      },
+      {
+        "texto": "Colocar como asunto: ZONIFICACION HABILITACIONES (en letras mayúsculas)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombre y Apellido del titular del comercio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombre y Apellido de solicitante de la zonificacion (Contador/Gestor/Apoderado)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dirección donde va a estar ubicado el comercio a habilitar",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombre de Fantasía",
+        "aclaracion": null
+      },
+      {
+        "texto": "Rubro a Habilitar",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nro de Partida y/o Nomenclatura catastral",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cantidad de mts2 cubiertos, mts 2 descubiertos y mts 2 libres, libres del comercio existente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Imprimir el formulario de zonificación enviado por la Dirección de Planeamiento",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentarse en la Dirección de Habilitaciones (Roca N° 30, Pilar)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Imprimir el formulario de zonificación enviado por la Dirección de Planeamiento y presentarse en la Dirección de Habilitaciones (Roca N° 30, Pilar) para obtener los requisitos específicos del rubro a anexar."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Habilitaciones",
+      "direccion": "Roca N° 30, Pilar",
+      "localidad": "Pilar",
+      "horario": null,
+      "fuente_url": "https://pilar.gov.ar/tramites/comercios-e-industrias/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://pilar.gov.ar/tramites/comercios-e-industrias/",
+      "titulo": "Comercios e Industrias - Municipio Pilar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T03:04:52.723Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se informa de manera presencial en nuestras oficinas de Habilitación Comercial sobre el costo.",
+    "Se informa de manera presencial sobre el costo para anexar rubro.",
+    "Se informa de manera presencial sobre el costo para ampliación o reducción de superficie.",
+    "Se informa de manera presencial sobre el costo para transferencia de comercios.",
+    "Se informa de manera presencial sobre el costo para habilitación de industrias."
+  ]
+}

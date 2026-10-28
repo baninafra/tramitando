@@ -1,0 +1,99 @@
+{
+  "tramite": {
+    "slug": "libreta-sanitaria-laboral-y-estudios",
+    "nombre": "Libreta Sanitaria Laboral y por Estudios",
+    "nombre_busqueda": "Libreta Sanitaria Laboral",
+    "resumen": "Certificado de salud para trabajadores en actividades laborales o estudiantes, que certifica el estado de salud para enfermedades de transmisión alimentaria, infecciosa y/o sexual.",
+    "sinonimos": [
+      "Certificado de Salud Laboral",
+      "Libreta Sanitaria"
+    ],
+    "temas": [
+      "carnet-sanitario"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060539",
+  "organismo": {
+    "nombre": "Hospital Municipal Eva Perón",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Trabajadores en actividades laborales",
+      "Estudiantes"
+    ],
+    "requisitos": [
+      {
+        "texto": "Orden para la extracción de sangre",
+        "aclaracion": null
+      },
+      {
+        "texto": "Placa",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario online en el siguiente enlace libretas.serviciosmerlo.online"
+      },
+      {
+        "texto": "Aboná la tasa correspondiente"
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Dirijite a los consultorios ubicados en Mario Bravo 350 (Teléfono 0220-472-1156) y presentá la orden para la extracción de sangre y la placa (Consultorio Nº 1)"
+      },
+      {
+        "texto": "Asistí a la extracción de sangre en el consultorio Nº 16 del Hospital Eva Perón (Colón 451 / 0220-482-9116 Int. 259)"
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Para Libreta Sanitaria por Estudios llamá al mismo número e interno indicados del Hospital Municipal Eva Perón"
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Consultorio Nº 1",
+      "direccion": "Mario Bravo 350",
+      "localidad": "Mario Bravo 350",
+      "horario": null,
+      "fuente_url": "https://www.merlo.gob.ar/libretasanitaria/"
+    },
+    {
+      "nombre": "Consultorio Nº 16 del Hospital Eva Perón",
+      "direccion": "Colón 451",
+      "localidad": "Colón 451",
+      "horario": null,
+      "fuente_url": "https://www.merlo.gob.ar/libretasanitaria/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.merlo.gob.ar/libretasanitaria/",
+      "titulo": "Libreta Sanitaria Laboral | Merlo Buenos Aires",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T15:14:54.407Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Monto de la tasa",
+    "Vigencia del trámite",
+    "Requisitos específicos para menores de edad",
+    "Requisitos específicos para extranjeros",
+    "Dirección exacta de Mario Bravo 350",
+    "Horarios de atención"
+  ]
+}

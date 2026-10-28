@@ -1,0 +1,110 @@
+{
+  "tramite": {
+    "slug": "certificado-de-patron-de-yate",
+    "nombre": "Certificado de Patrón de Yate",
+    "nombre_busqueda": "Certificado de Patrón de Yate",
+    "resumen": "Obtené el certificado de patrón de yate para conducir embarcaciones deportivas en navegación lacustre, fluvial o marítima, si tenés habilitación de timonel con antigüedad mayor a un año.",
+    "sinonimos": [
+      "Certificado náutico deportivo",
+      "Certificado de patrón de yate a motor o vela"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Prefectura Naval Argentina",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas mayores de 18 años que posean habilitación de timonel de yate con una antigüedad mínima de un año."
+    ],
+    "requisitos": [
+      {
+        "texto": "Habilitación de timonel de yate con antigüedad superior a un año.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Aprobación del examen teórico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del libro de actas debidamente certificada por un miembro de la comisión directiva del club náutico donde conste dicha aprobación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado médico original que acredite aptitud física, psíquica, auditiva y visual para la práctica de navegación deportiva y/o recreativa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dos fotografías color, actualizadas, de frente, fondo celeste, tamaño carnet, sin anteojos salvo que sean recetados para uso permanente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago del arancel.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento Nacional de Identidad (DNI argentino o extranjero nacionalizado), original y fotocopia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de solicitud del certificado náutico deportivo, debidamente conformado en caso de optar por la modalidad presencial.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar a la Plataforma de Trámites a Distancia (TAD)."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentar la documentación en la delegación de la prefectura naval argentina más cercana a tu domicilio."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La validez del examen será de un año a partir de la fecha del último examen aprobado.",
+      "Las habilitaciones tendrán un plazo de vigencia de diez años, expirando en todos los casos cuando el titular cumpla los setenta años.",
+      "A partir de los setenta años tienen una vigencia de tres años.",
+      "A partir de los ochenta años tienen una vigencia de un año.",
+      "El certificado médico tiene una validez máxima de noventa días desde la fecha de su emisión.",
+      "El certificado náutico deportivo digital tiene validez para aguas nacionales e internacionales."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-el-certificado-de-patron-de-yate",
+      "titulo": "Obtener el certificado de Patrón de Yate | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T06:20:17.640Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T06:20:17.640Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no se especifica en el texto, solo se indica que se gestiona al finalizar el trámite.",
+    "La dirección exacta de las delegaciones de la prefectura naval argentina no se especifica en el texto, solo se indica que deben ser las más cercanas al domicilio."
+  ]
+}

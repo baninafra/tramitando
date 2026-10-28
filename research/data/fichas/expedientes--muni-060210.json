@@ -1,0 +1,61 @@
+{
+  "tramite": {
+    "slug": "consulta-y-seguimiento-de-expedientes",
+    "nombre": "Consulta y seguimiento de expedientes",
+    "nombre_busqueda": "Consulta de expedientes",
+    "resumen": "Podés consultar el estado e información de un expediente gestionado en el Municipio mediante su código.",
+    "sinonimos": [],
+    "temas": [
+      "mesa-de-entradas-y-expedientes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060210",
+  "organismo": {
+    "nombre": "Municipalidad de Chacabuco",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Vecinos"
+    ],
+    "requisitos": [
+      {
+        "texto": "Código del expediente",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Consultá el estado e información de un expediente gestionado en el Municipio mediante su código."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://chacabuco.gob.ar/expedientes/",
+      "titulo": "Expedientes | Ciudad de Chacabuco",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T05:00:22.770Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de las oficinas para consultas presenciales",
+    "Horarios de atención",
+    "Vigencia del trámite",
+    "Métodos alternativos de consulta (teléfono, correo)"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "tramite": {
+    "slug": "solicitud-reduccion-tasa-municipal-patrimonio",
+    "nombre": "Solicitar la reducción de la tasa municipal",
+    "nombre_busqueda": "reducción de la tasa municipal por patrimonio",
+    "resumen": "Si sos propietario de un inmueble incluido en el Catálogo de Bienes Patrimoniales a preservar del Decreto 1579/06, podés solicitar una reducción de la tasa por Servicios Urbanos (SUM) por correo electrónico. El trámite es gratuito.",
+    "sinonimos": [
+      "reducción de la tasa SUM",
+      "reducción de tasa por inmueble patrimonial"
+    ],
+    "temas": [
+      "exenciones-y-tasa-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060441",
+  "organismo": {
+    "nombre": "Dirección de Gestión del Patrimonio",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés solicitarlo si sos propietario de un inmueble incluido en el Catálogo de Bienes Patrimoniales a preservar del Decreto 1579/06."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota con el detalle de lo que solicitás.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ubicación de la parcela.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nomenclatura catastral.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de partida.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del título de propiedad.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Redactá una nota dirigida a la Dirección de Gestión del Patrimonio con el detalle de lo que solicitás, la ubicación de la parcela, la nomenclatura catastral y el número de partida."
+      },
+      {
+        "texto": "Adjuntá una copia del título de propiedad."
+      },
+      {
+        "texto": "Enviá la solicitud por correo electrónico a gestiondelpatrimonio@laplata.gob.ar."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si necesitás una reunión presencial, solicitála y coordinála previamente por correo electrónico."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": true,
+      "monto_centavos": null,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://tramites.laplata.gob.ar/planeamiento/patrimonio-solicitud-reduccion.html"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://tramites.laplata.gob.ar/planeamiento/patrimonio-solicitud-reduccion.html",
+      "titulo": "Planeamiento - Municipalidad de La Plata",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:28:24.863Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa un plazo de resolución.",
+    "No se indica si el trámite requiere turno."
+  ]
+}

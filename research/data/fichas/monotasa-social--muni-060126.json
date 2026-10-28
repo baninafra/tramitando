@@ -1,0 +1,101 @@
+{
+  "tramite": {
+    "slug": "exenciones-y-tasa-social",
+    "nombre": "Monotasa Social",
+    "nombre_busqueda": "Monotasa Social Municipal",
+    "resumen": "Beneficio para exonerar la tasa social de servicios públicos municipales. Requiere estar inscripto al Monotributo y no tener deudas.",
+    "sinonimos": [],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "subsidios-a-los-servicios-publicos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060126",
+  "organismo": {
+    "nombre": "Municipalidad de Campana",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes estén inscriptos al Monotributo.",
+      "Quienes no posean deuda en ninguna tasa municipal."
+    ],
+    "requisitos": [
+      {
+        "texto": "Estar inscripto al Monotributo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "No poseer deuda en ninguna tasa municipal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Completar el formulario de inscripción monotasa solicitado por el Municipio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poseer una cuenta bancaria.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Inscribite en el sistema."
+      },
+      {
+        "texto": "Imprimí la documentación requerida."
+      },
+      {
+        "texto": "Firmá la documentación impresa."
+      },
+      {
+        "texto": "Escaneá la documentación firmada."
+      },
+      {
+        "texto": "Envíá el escaneo por mail a tasaspredeterminadas@campana.gov.ar."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá tu DNI titular."
+      },
+      {
+        "texto": "Presentá la Alta Monotributo."
+      },
+      {
+        "texto": "Presentá el CBU firmado por entidad bancaria."
+      },
+      {
+        "texto": "Presentá el Formulario de adhesión al débito directo."
+      },
+      {
+        "texto": "Presentá el Formulario de inscripción."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.campana.gob.ar/monotasa-social/",
+      "titulo": "Monotasa social – Municipalidad de Campana",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T11:08:40.691Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto de la tasa social exonerada no se especifica en el texto.",
+    "La fecha de vigencia del beneficio no se especifica en el texto."
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "tramite": {
+    "slug": "levantamiento-de-pedido-de-secuestro-de-arma",
+    "nombre": "Levantamiento de pedido de secuestro de arma",
+    "nombre_busqueda": "Levantamiento de pedido de secuestro de arma",
+    "resumen": "Solicitá ante ANMaC el levantamiento de un pedido de secuestro de un arma que se encuentra en poder de la justicia o con pedido preventivo.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMaC",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan un arma con pedido de secuestro en poder de la justicia o con pedido preventivo requerido por un legítimo usuario."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formularios Ley 23.283 y 23.412.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Oficio de entrega del material por parte de la autoridad competente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central del organismo",
+      "direccion": "Bartolomé Mitre 1465/9",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/levantamiento-de-pedido-de-secuestro-de-arma"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/levantamiento-de-pedido-de-secuestro-de-arma",
+      "titulo": "Levantamiento de pedido de secuestro de arma | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T05:26:09.132Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T05:26:09.132Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si el trámite se puede realizar por internet.",
+    "Si se requiere sacar turno.",
+    "La dirección completa de las Delegaciones de todo el país."
+  ]
+}

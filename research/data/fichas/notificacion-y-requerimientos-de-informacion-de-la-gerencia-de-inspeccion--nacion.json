@@ -1,0 +1,78 @@
+{
+  "tramite": {
+    "slug": "notificacion-y-requerimientos-de-informacion-de-la-gerencia-de-inspeccion",
+    "nombre": "Notificación y requerimientos de información de la Gerencia de Inspección",
+    "nombre_busqueda": "Notificación y requerimientos de información de la Gerencia de Inspección SSN",
+    "resumen": "Podés realizar aportes de documentación requerida por las inspecciones de la Superintendencia de Seguros de la Nación de forma gratuita y en línea.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Seguros de la Nación",
+    "sigla": "SSN",
+    "web": "https://www.argentina.gob.ar/servicio/notificacion-y-requerimientos-de-informacion-de-la-gerencia-de-inspeccion"
+  },
+  "contenido": {
+    "quien_puede": [
+      "A las personas físicas y/o jurídicas sujetas al ámbito de verificación de la Superintendencia de Seguros de la Nación."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener Usuario en la plataforma TAD",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave fiscal",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal Trámites a Distancia, trámite Notificación y Requerimientos de Información SSN con clave fiscal."
+      },
+      {
+        "texto": "Completá o confirmá los datos de Solicitante y Apoderado."
+      },
+      {
+        "texto": "Adjuntá la documentación requerida para la inspección (Documentación a Presentar)."
+      },
+      {
+        "texto": "Completá los datos de la presentación: Procedimiento de Notificación a Gerencia de Inspección (completá con los datos de la Entidad)."
+      },
+      {
+        "texto": "Confirmá la información, se genera un número de trámite y cualquier notificación se gestionará por TAD y se enviará un correo electrónico a la casilla registrada ante la SSN."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Cualquier notificación a la compañía se gestionará por TAD y se enviará un correo electrónico a la casilla registrada ante la SSN."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/notificacion-y-requerimientos-de-informacion-de-la-gerencia-de-inspeccion",
+      "titulo": "Notificación y requerimientos de información de la Gerencia de Inspección | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T06:15:07.822Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite no está especificada en el texto.",
+    "No se indica si el trámite requiere turno ni cuál es el plazo de respuesta."
+  ]
+}

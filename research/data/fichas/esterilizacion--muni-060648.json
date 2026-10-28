@@ -1,0 +1,137 @@
+{
+  "tramite": {
+    "slug": "esterilizacion",
+    "nombre": "Esterilización",
+    "nombre_busqueda": "castración de mascotas",
+    "resumen": "Podés solicitar un turno para esterilizar a tu mascota en el Centro de Zoonosis. El animal debe estar en buen estado de salud y cumplir con la edad indicada para su especie y sexo.",
+    "sinonimos": [
+      "castración de animales"
+    ],
+    "temas": [
+      "castraciones-y-vacunas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060648",
+  "organismo": {
+    "nombre": "Centro de Zoonosis",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El propietario debe ser mayor de 18 años, sin excepción."
+    ],
+    "requisitos": [
+      {
+        "texto": "El animal debe estar en un estado óptimo de salud.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La hembra no debe estar preñada.",
+        "aclaracion": "Si tu mascota es hembra."
+      },
+      {
+        "texto": "Tu gato macho debe tener 6 meses cumplidos.",
+        "aclaracion": "Si vas a esterilizar un gato macho."
+      },
+      {
+        "texto": "Tu gata debe tener más de 8 meses.",
+        "aclaracion": "Si vas a esterilizar una gata."
+      },
+      {
+        "texto": "Tu perro macho debe tener al menos 6 meses.",
+        "aclaracion": "Si vas a esterilizar un perro macho."
+      },
+      {
+        "texto": "Tu perra debe haber tenido su primer celo.",
+        "aclaracion": "Si vas a esterilizar una perra."
+      },
+      {
+        "texto": "DNI.",
+        "aclaracion": "Para solicitar el turno."
+      },
+      {
+        "texto": "Carnet de control de tu mascota, si lo tenés.",
+        "aclaracion": "Para solicitar el turno."
+      },
+      {
+        "texto": "Constancia de pago.",
+        "aclaracion": "Antes de la cirugía."
+      },
+      {
+        "texto": "DNI y carnet de vacunación.",
+        "aclaracion": "Antes de la cirugía."
+      },
+      {
+        "texto": "Acta de autorización de cirugía firmada por el propietario.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La mascota debe estar en ayuno de sólidos durante 20 horas y de líquidos durante 12 horas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Una manta de abrigo para tu mascota.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Dirigite al Centro de Zoonosis y pedí un turno con el médico veterinario. Llevá tu DNI y el carnet de control de tu mascota, si lo tenés."
+      },
+      {
+        "texto": "Realizá el control de salud de tu mascota en el Centro de Zoonosis."
+      },
+      {
+        "texto": "Pagá el sellado correspondiente en el departamento de Zoonosis/Bromatología."
+      },
+      {
+        "texto": "Presentate en el Centro de Zoonosis con el turno programado, la constancia de pago, tu DNI y el carnet de vacunación."
+      },
+      {
+        "texto": "Firmá el acta de autorización de cirugía."
+      },
+      {
+        "texto": "Llevá a tu mascota con el ayuno indicado y una manta de abrigo."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Se recomienda que tu mascota ya haya tenido su primer celo.",
+      "La anestesia y la cirugía pueden bajar la temperatura corporal del animal; llevá una manta para abrigarlo."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Departamento de Zoonosis/Bromatología",
+      "direccion": "Crisólogo Larralde 241, Municipalidad de Presidente Perón, planta baja",
+      "localidad": "Crisólogo Larralde 241, Municipalidad de Presidente Perón, planta baja",
+      "horario": null,
+      "fuente_url": "https://presidenteperon.gob.ar/zoonosis/esterilizacion/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://presidenteperon.gob.ar/zoonosis/esterilizacion/",
+      "titulo": "Esterilización – Presidente Perón",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T16:34:46.705Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa el monto del sellado.",
+    "No se indica el plazo para obtener el turno ni para realizar la cirugía."
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "tramite": {
+    "slug": "autorizar-importacion-de-alimentos-y-envases",
+    "nombre": "Autorizar importación de alimentos y envases",
+    "nombre_busqueda": "Autorizar importación de alimentos y envases",
+    "resumen": "Este trámite permite solicitar ante el SENASA la autorización para importar alimentos y envases que no hayan sido producidos en los países incluidos en el Anexo III del Decreto Nº 35/2025. Se realiza en línea a través de la plataforma Trámites a Distancia (TAD).",
+    "sinonimos": [
+      "Autorización de ingreso de alimentos",
+      "Autorización de importación de envases"
+    ],
+    "temas": [
+      "bromatologia-y-alimentos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Importadores que no se encuentren comprendidos en el supuesto estipulado en el punto 1 del artículo 4° inciso a) del Anexo II del Decreto N° 2126/1971 y sus modificatorios."
+    ],
+    "requisitos": [
+      {
+        "texto": "Completá el formulario y presentá la documentación adjunta obligatoria.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá una copia de factura (o varias facturas contenidas en un mismo documento).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá el conocimiento de embarque / carta de porte / guía aérea.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá el comprobante de pago del arancel vigente correspondiente, gestionado previamente a través del Sistema de SIGAD de SENASA.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma Trámites a Distancia (TAD) con tu clave fiscal."
+      },
+      {
+        "texto": "Buscá el trámite 'Aviso de Importación de Alimentos, UPEI, Envases y Muestras'."
+      },
+      {
+        "texto": "Seleccioná el tipo de producto que vas a importar."
+      },
+      {
+        "texto": "Completá el formulario con los datos solicitados y adjuntá la documentación correspondiente al tipo de producto."
+      },
+      {
+        "texto": "Realizá el pago del arancel correspondiente, de acuerdo con el trámite."
+      },
+      {
+        "texto": "Presentá la solicitud a través de TAD."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "5 días hábiles administrativos",
+    "consejos": [
+      "Si el SENASA realiza observaciones, el Titular del producto deberá responder en un plazo de 48 horas hábiles administrativas de notificada la observación.",
+      "Los trámites podrán ser observados y, en tal caso, se suspenderán los plazos previstos."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/autorizar-importacion-de-alimentos-y-envases",
+      "titulo": "Autorizar importación de alimentos y envases | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T15:17:41.452Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-26T15:17:41.452Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los montos exactos de los aranceles están diferenciados según el tipo de producto y el valor FOB, pero no se especifican valores numéricos en el texto.",
+    "La fecha de vigencia de la normativa (Decreto 35/2025) no se indica con precisión en el texto."
+  ]
+}

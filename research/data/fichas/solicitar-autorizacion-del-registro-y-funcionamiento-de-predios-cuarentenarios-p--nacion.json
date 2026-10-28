@@ -1,0 +1,153 @@
+{
+  "tramite": {
+    "slug": "solicitud-autorizacion-registro-funcionamiento-predios-cuarentenarios-importacion-animales",
+    "nombre": "Solicitud de autorización para el registro y funcionamiento de predios cuarentenarios de importación de animales",
+    "nombre_busqueda": "autorizacion predios cuarentenarios importacion animales vivos",
+    "resumen": "El trámite permite solicitar la autorización y renovación para el registro y funcionamiento de predios cuarentenarios de importación de porcinos, aves u ovas de salmónidos. Se debe iniciar en la plataforma TAD con Clave Fiscal y adjuntar documentación específica según la especie.",
+    "sinonimos": [
+      "autorizacion registro funcionamiento predios cuarentenarios importacion animales",
+      "autorizacion establecimiento cuarentenario importacion animales vivos"
+    ],
+    "temas": [
+      "animales-y-zoonosis"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas físicas o jurídicas interesadas en registrar o renovar el registro de establecimientos públicos o privados que deseen funcionar como predios cuarentenarios de importación de animales vivos de porcinos, aves u ovas de salmónidos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Planos de acceso, ubicación e instalaciones (Plano del predio 1:100, Plano de la/s Unidad/es de Aislamiento y número, Plano del sistema de efluentes 1:100, Flujograma de salmónidos y/o su material reproductivo solo para salmónidos, Flujograma de los reproductores solo para porcinos, Flujograma del…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Memoria descriptiva constructiva de las instalaciones.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Memoria descriptiva y operativa de bioseguridad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descripción de recolección y disposición final de residuos patógenos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Capacidad del establecimiento para cuarentena aves distintas de las de corral (solo aves).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Procedimientos para la recolección, acopio y disposición final de residuos regulados procedentes del exterior.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado/s de habilitación/es de las Autoridades competentes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de aprobación de eliminación de efluentes de Autoridad competente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado/s de habilitación/es de la empresa de residuos patogénicos regulados procedentes del exterior.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plan de control de plagas (para aves y porcinos).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contrato del veterinario especializado (para aves) o técnico acuícola (para salmónidos).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planes de contingencia que aseguren bienestar (Aves y salmónidos).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Manual de contingencia para enfermedades de declaración obligatoria (Aves y salmónidos).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditación de tenencia del inmueble.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración de domicilio electrónico mediante el sistema SIGTrámites.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Accedé a la plataforma TAD, logueate con clave AFIP y seleccioná el trámite 'Solicitud de Autorización para el registro y funcionamiento de predios cuarentenarios de importación de animales'."
+      },
+      {
+        "texto": "Completá los campos con los datos solicitados y adjuntá la documentación que corresponde según tipo de establecimiento a registrar."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "20 días hábiles contados a partir del día hábil siguiente al de la presentación del pedido, para la inspección y evaluación formal del establecimiento.",
+    "consejos": [
+      "La documentación requerida varía según la especie y está detallada en la normativa siguiente: PCI para Aves: Resolución Senasa Nº 770/2011. PCI para Porcinos: Resolución Senasa Nº 70/11. PCI para ovas de salmónidos: Resolución Senasa Nº 853/2011.",
+      "Una vez otorgada la Autorización, el Senasa le dará de alta en el sistema de gestión.",
+      "Este trámite se operativiza en cada centro regional, en la Oficina Local que corresponda según la ubicación del establecimiento."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Sanidad Animal",
+      "direccion": "Av. Paseo Colón Nº 367, piso 4º frente, C1063ACE, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-autorizacion-del-registro-y-funcionamiento-de-predios-cuarentenarios-para"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-autorizacion-del-registro-y-funcionamiento-de-predios-cuarentenarios-para",
+      "titulo": "Solicitar autorización del registro y funcionamiento de predios cuarentenarios para importación de animales vivos | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo",
+        "consejos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T04:26:00.279Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T04:26:00.279Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T04:26:00.279Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Vigencia 1 años",
+    "Los pagos se informan automáticamente al sistema por todos los medios de pago detallados, excepto Banco Nación, en caso de abonar en dicha entidad o que la boleta no les figure saldada deben presentar la misma junto con el comprobante de pago en la oficina local de su jurisdicción a fin de que dicho pago sea informado manualmente."
+  ]
+}

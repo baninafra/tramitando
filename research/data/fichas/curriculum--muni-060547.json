@@ -1,0 +1,79 @@
+{
+  "tramite": {
+    "slug": "cargar-y-enviar-cv",
+    "nombre": "Cargar y enviar tu currículum",
+    "nombre_busqueda": "Dejar o cargar el currículum para búsquedas laborales",
+    "resumen": "Dejá tu currículum para que la Oficina de Empleo pueda tenerte en cuenta en futuras búsquedas laborales. Podés cargarlo en línea o hacerlo de forma presencial con asistencia de la oficina.",
+    "sinonimos": [
+      "Adjuntar CV",
+      "Dejar el currículum"
+    ],
+    "temas": [
+      "busqueda-de-empleo-y-seguro-de-desempleo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060547",
+  "organismo": {
+    "nombre": "Oficina de Empleo",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés dejar tu currículum para que te tengan en cuenta en futuras búsquedas laborales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Currículum Vitae",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a la Oficina de Empleo para recibir asistencia con la carga de tu currículum."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Empleo",
+      "direccion": "Calle Rojas N° 818",
+      "localidad": "Monte",
+      "horario": "Lunes, miércoles y viernes de 08:00 a 14:00; martes y jueves de 08:00 a 16:00",
+      "fuente_url": "https://monte.gob.ar/empleo/curriculum/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://monte.gob.ar/empleo/curriculum/",
+      "titulo": "Adjuntar CV - Municipalidad de Monte",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T15:10:44.770Z"
+    },
+    {
+      "url": "https://monte.gob.ar/empleo/",
+      "titulo": "Oficina de Empleo - Municipalidad de Monte",
+      "bloques": [
+        "resumen",
+        "pasos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T15:10:44.770Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se indica qué formato de archivo acepta el formulario.",
+    "No se informa un plazo de respuesta ni si necesitás sacar turno."
+  ]
+}

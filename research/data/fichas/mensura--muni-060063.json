@@ -1,0 +1,71 @@
+{
+  "tramite": {
+    "slug": "mensura",
+    "nombre": "Mensura",
+    "nombre_busqueda": "Mensura",
+    "resumen": "Trámite para agrimensores e ingenieros agrimensores que requiere matricula activa y visado del plano de mensura.",
+    "sinonimos": [],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060063",
+  "organismo": {
+    "nombre": "Municipalidad de Balcarce",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Agrimensor",
+      "Ingeniero agrimensor"
+    ],
+    "requisitos": [
+      {
+        "texto": "Poseer matricula activa en el Colegio respectivo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el trámite en la Direccion de Obras Privadas, 2do piso del Palacio Municipal."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Palacio Municipal",
+      "direccion": "Av. del Valle Nº 602",
+      "localidad": "Balcarce",
+      "horario": null,
+      "fuente_url": "https://balcarce-app.gob.ar/portal_servicios/servicio/mensura"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://balcarce-app.gob.ar/portal_servicios/servicio/mensura",
+      "titulo": "Portal de Servicios | Modernizacion Balcarce",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "costo",
+        "donde",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T03:38:40.783Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se indica que el trámite requiere pago, pero no se especifica el monto exacto en el texto.",
+    "No se especifica el plazo de duración del trámite.",
+    "No se especifica si se requiere turno para realizar el trámite."
+  ]
+}

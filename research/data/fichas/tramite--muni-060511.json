@@ -1,0 +1,66 @@
+{
+  "tramite": {
+    "slug": "dni-nuevo-ejemplar-denuncia-extravio",
+    "nombre": "Sacar un nuevo DNI",
+    "nombre_busqueda": "Renovar el DNI por pérdida, robo, deterioro o cambio de domicilio",
+    "resumen": "Podés sacar un nuevo DNI por cambio de domicilio, deterioro, robo, pérdida o una modificación en tu identidad. El DNI también se tramita por primera vez al nacer y se actualiza entre los 5 y los 8 años y a los 14.",
+    "sinonimos": [
+      "Renovar el DNI",
+      "DNI por extravío"
+    ],
+    "temas": [
+      "dni"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060511",
+  "organismo": {
+    "nombre": "Municipalidad de Maipú",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés tramitar el DNI por primera vez para un bebé si sos su padre, madre o tutor.",
+      "Podés renovar el DNI por cambio de domicilio, deterioro, robo, pérdida o una modificación en tu identidad."
+    ],
+    "requisitos": [
+      {
+        "texto": "Partida de nacimiento original.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI vigente, si lo tenés.",
+        "aclaracion": "Si sos mayor de 14 años."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El DNI se actualiza cuando el niño llega a la edad escolar, entre los 5 y los 8 años, y cuando cumple 14."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.maipu-gba.gob.ar/?q=content/dni-nuevo-ejemplar-denuncia-extravio",
+      "titulo": "| Municipalidad de Maipú",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T15:01:49.048Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La página indica que el costo del trámite se debe consultar, pero no informa el monto.",
+    "No se informa cómo iniciar ni completar el trámite, si requiere turno, dónde se realiza ni cuánto tarda.",
+    "No se indica la fecha exacta desde la que rige este trámite."
+  ]
+}

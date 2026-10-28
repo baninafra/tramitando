@@ -1,0 +1,103 @@
+{
+  "tramite": {
+    "slug": "habilitacion-comercial",
+    "nombre": "Habilitación menor",
+    "nombre_busqueda": "Habilitación menor",
+    "resumen": "Trámite para habilitar locales comerciales a pequeña escala (hasta 60 m2) que no sean actividades productivas, industriales o similares. Requiere consulta de zonificación previa y presentación de documentación en la Subsecretaría.",
+    "sinonimos": [
+      "Habilitación menor",
+      "Habilitación comercio menor"
+    ],
+    "temas": [
+      "comercio-e-industria",
+      "habilitacion-comercial"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060126",
+  "organismo": {
+    "nombre": "Municipalidad de Campana",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "La persona que habilite debe ser física y encontrarse inscripta en la AFIP.",
+      "El local a habilitar deberá desarrollar actividad comercial a pequeña escala (hasta 60 m2.).",
+      "El rubro a desarrollar NO debe identificarse con una actividad productiva, industrial o similar.",
+      "Deber ser Monotributista o Contribuyente Menor en AFIP.",
+      "La actividad a desarrollar debe estar permitida en el COUA (Código Ordenamiento Urbano Ambiental) en la zona a habilitar."
+    ],
+    "requisitos": [
+      {
+        "texto": "Consulta de zonificación urbanística a la Subdirección de Planeamiento (completando el Formulario de Solicitud de Consulta de Zonificación y enviarlo como adjunto por mail a planeamiento@campana.gov.ar) a los fines de verificar si la actividad y rubro solicitado que se pretende desarrollar se encue…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia impresa de la consulta de zonificación con su respectiva respuesta y planilla urbanística recibida.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planos o croquis confeccionados por profesional (Arquitecto o Maestro Mayor de Obra matriculado), certificando la aptitud del inmueble para el uso requerido. (Original y fotocopia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento que demuestre posesión legítima en el local - escritura, autorización del propietario, contrato de locación/comodato con sellado de ley . (Original y fotocopia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento Nacional de Identidad del solicitante. (Original y fotocopia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de Inscripción AFIP (Monotributo y/o Responsable Inscripto soloipersonal).",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de iniciar el trámite un apoderado o gestor deberá presentar poder o autorización del titular del comercio acompañado por DNI (original y fotocopia).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Concurrir a la subsecretaría de Habilitaciones, Permisos e Inspección General de lunes a jueves de 8 a 15 o los viernes de 8 a 14 sita en San Martín 262, 1° piso, para presentar la documentación."
+      },
+      {
+        "texto": "Una vez presentada la documentación, completar el Formulario de Habilitación Menor junto a la Declaración Jurada de Activo Fijo, los cuales serán certificados por el personal municipal de la subsecretaría de Habilitaciones, Permisos e Inspección General."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Subsecretaría de Habilitaciones, Permisos e Inspección General",
+      "direccion": "San Martín 262",
+      "localidad": "San Martín 262",
+      "horario": null,
+      "fuente_url": "https://www.campana.gob.ar/habilitaciones/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.campana.gob.ar/habilitaciones/",
+      "titulo": "Habilitaciones – Municipalidad de Campana",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T11:33:11.763Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto de la tasa no se especifica en el texto.",
+    "El plazo de tramitación no se especifica en el texto.",
+    "La vigencia de la habilitación no se especifica en el texto."
+  ]
+}

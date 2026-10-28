@@ -1,0 +1,90 @@
+{
+  "tramite": {
+    "slug": "consulta-estado-de-deuda-y-pago-de-tasas-municipales",
+    "nombre": "Consulta de estado de deuda y pago de tasas municipales",
+    "nombre_busqueda": "Consulta estado de deuda tasas municipales",
+    "resumen": "Permite consultar el estado de las deudas y tasas municipales y realizar pagos a través de diferentes medios y lugares.",
+    "sinonimos": [
+      "Consulta deuda municipal",
+      "Pago tasas municipales",
+      "Estado de deuda Carlos Casares"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "planes-de-pago-municipales",
+      "libre-deuda-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060147",
+  "organismo": {
+    "nombre": "Municipalidad de Carlos Casares",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en consultar o pagar sus deudas y tasas municipales."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI o documento de identidad vigente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio web de la Municipalidad de Carlos Casares."
+      },
+      {
+        "texto": "Buscá el trámite de consulta de estado de deuda y pago de tasas."
+      },
+      {
+        "texto": "Completá los datos de tu cuenta bancaria o tarjeta para el pago."
+      },
+      {
+        "texto": "Confirmá el pago y guardá el comprobante."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acudí al Palacio Municipal."
+      },
+      {
+        "texto": "Presentá tu DNI o documento de identidad."
+      },
+      {
+        "texto": "Consultá el estado de tu deuda con el personal de recaudación."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Guardá el comprobante de pago para tu archivo.",
+      "Consultá si tenés deudas vencidas antes de pagar."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://casares.gob.ar/tramites/consulta-estado-de-deuda/",
+      "titulo": "Consulta Estado de Deuda – Municipalidad de Carlos Casares",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T10:52:46.775Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica los montos exactos de las tasas ni deudas.",
+    "No se indica si se requiere turno para realizar el trámite.",
+    "No se especifica la dirección exacta del Palacio Municipal ni la localidad completa."
+  ]
+}

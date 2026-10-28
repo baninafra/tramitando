@@ -1,0 +1,137 @@
+{
+  "tramite": {
+    "slug": "desafectar-bien-de-familia",
+    "nombre": "Desafectar bien de familia",
+    "nombre_busqueda": "Desafectar bien de familia",
+    "resumen": "Podés desafectar tu hogar del régimen de protección de la vivienda en cualquier momento. El trámite es gratuito y se realiza presencialmente en el Registro de la Propiedad Inmueble de la Ciudad de Buenos Aires.",
+    "sinonimos": [
+      "Dejar de ser bien de familia",
+      "Desafectar afectación a protección de la vivienda"
+    ],
+    "temas": [
+      "vivienda-y-servicios-del-hogar"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro de la Propiedad Inmueble",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Al titular o a los titulares de la vivienda y a quienes tengan su usufructo (si los hay)."
+    ],
+    "requisitos": [
+      {
+        "texto": "Original y copia del DNI del propietario (o de los propietarios) de la vivienda.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si uno de los propietarios o usufructuarios tiene apoderado: original y copia de la escritura del poder y del DNI del apoderado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si uno de los propietarios o usufructuarios es menor de edad y tiene responsable parental: original y copia del acta de nacimiento del menor o de la libreta de matrimonio con registro de su nacimiento y del DNI del adulto responsable.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si alguno de los propietarios está casado: original y copia de su libreta o acta de matrimonio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si alguno está divorciado: original y copia de la sentencia de divorcio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si alguno es viudo: original y copia de su libreta o acta de matrimonio y de la partida de defunción del o de la cónyuge.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si alguno está en unión convivencial: original y copia del acta de unión.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si una o varias personas tienen usufructo sobre la vivienda: original y copia de sus DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Original del acta administrativa o del testimonio notarial de afectación (el registro de la vivienda como bien de familia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si querés que en el título de propiedad quede constancia de la desafectación: original de la escritura, adjudicación, subasta o declaratoria de herederos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si presentás declaratoria de herederos, también deberás presentar original de la escritura a nombre de la persona que falleció.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el título original es digital, cuando vayas personalmente al Registro de la Propiedad Inmueble llevalo copiado en un pendrive tal como fue descargado del sitio del Registro de la Propiedad Inmueble cuando se inscribió la propiedad (en un mismo archivo están la carátula, el título y la constancia…",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate directamente con toda la documentación que les corresponda en la oficina Protección de la Vivienda del Registro de la Propiedad Inmueble."
+      },
+      {
+        "texto": "Elegí la modalidad normal (5 días hábiles) o urgente (48 horas hábiles) y pagá el costo de la modalidad que elegiste."
+      },
+      {
+        "texto": "Recibí un comprobante y la información del día para retirar la constancia de la desafectación."
+      },
+      {
+        "texto": "Pasá a retirar la constancia de desafectación de lunes a viernes en día hábil de 8:00 a 14:00 hs a partir del día que te informaron."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "5 días hábiles",
+    "consejos": [
+      "La modalidad urgente demora 48 horas hábiles.",
+      "Si el título original es digital, asegurate de llevarlo copiado en un pendrive tal como fue descargado del sitio del Registro de la Propiedad Inmueble cuando se inscribió la propiedad, o llevar el título digital impreso completo."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 0,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/hacer-que-tu-casa-deje-de-ser-bien-de-familia"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Protección de la Vivienda del Registro de la Propiedad Inmueble",
+      "direccion": "Av. Belgrano 1130",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/hacer-que-tu-casa-deje-de-ser-bien-de-familia"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/hacer-que-tu-casa-deje-de-ser-bien-de-familia",
+      "titulo": "Hacer que tu casa deje de ser bien de familia | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T16:23:29.099Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere verificar si el trámite se puede realizar en otras provincias o si se necesita sacar turno en la Ciudad Autónoma de Buenos Aires."
+  ]
+}

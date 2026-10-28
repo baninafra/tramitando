@@ -1,0 +1,141 @@
+{
+  "tramite": {
+    "slug": "modificaciones-aprobacion-materias-primas-productos-origen-animal",
+    "nombre": "Solicitar modificaciones en las condiciones de aprobación de materias primas y productos de origen animal",
+    "nombre_busqueda": "modificar registro productos alimentos origen animal",
+    "resumen": "Si tenés un producto alimenticio registrado o estás tramitándolo y necesitás hacer modificaciones en las condiciones de aprobación, ya sea por modificaciones relacionadas con la empresa elaboradora, con el producto o con sus rótulos o dar de baja el Registro tenés que solicitar su aprobación ante el Senasa.",
+    "sinonimos": [
+      "modificación registro productos alimentos",
+      "baja registro productos alimentos",
+      "actualización registro productos alimentos"
+    ],
+    "temas": [
+      "comercio-e-industria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titular de establecimientos elaboradores o importadores de productos alimenticios que deseen modificar registros o trámites relacionados con alimentos, sus materias primas de origen animal para alimentación y aquellas con destino para uso farmacéutico o poterápico."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de Registro Legajo o Número de expediente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de solicitud de actualización (los documentos marcados con * son obligatorios y la documentación a adjuntar, subir un archivo debe estar en formato .pdf)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de solicitud de baja (los documentos marcados con * son obligatorios y la documentación a adjuntar, subir un archivo debe estar en formato .pdf)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a Trámites a Distancia TAD: Actualización al Registro de Productos Alimenticios, Pescados/Mariscos o Caja Master."
+      },
+      {
+        "texto": "Seleccioná Iniciar Trámite."
+      },
+      {
+        "texto": "Encontraremos los datos personales del solicitante y del Apoderado en caso de corresponder, confirmá."
+      },
+      {
+        "texto": "Adjuntá los documentos."
+      },
+      {
+        "texto": "Completá los datos solicitados."
+      },
+      {
+        "texto": "Confirmá el trámite."
+      },
+      {
+        "texto": "Aboná el arancel que corresponda, ver los Medios de pago habilitados – Senasa."
+      },
+      {
+        "texto": "Se habrá generado con éxito dando un número de trámite que debés guardar."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá las Normativas relacionadas con los costos del trámite."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "sede del Centro Regional Metropolitano",
+      "direccion": "Azopardo 1020, piso 2º, C1107ACE, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-modificaciones-en-las-condiciones-de-aprobacion-de-materias-primas-y-productos-de"
+    },
+    {
+      "nombre": "sede Central",
+      "direccion": "Paseo Colón 367 - CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-modificaciones-en-las-condiciones-de-aprobacion-de-materias-primas-y-productos-de"
+    },
+    {
+      "nombre": "Laboratorio Central",
+      "direccion": "Talcahuano 1660 – Martínez, Provincia de Buenos Aires",
+      "localidad": "Martínez",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-modificaciones-en-las-condiciones-de-aprobacion-de-materias-primas-y-productos-de"
+    },
+    {
+      "nombre": "Centro Regional Buenos Aires",
+      "direccion": "Mar de Plata, Provincia de Buenos Aires",
+      "localidad": "Mar de Plata",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-modificaciones-en-las-condiciones-de-aprobacion-de-materias-primas-y-productos-de"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-modificaciones-en-las-condiciones-de-aprobacion-de-materias-primas-y-productos-de",
+      "titulo": "Solicitar modificaciones en las condiciones de aprobación de materias primas y productos de origen animal, incluidos los orgánicos | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T09:57:04.177Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T09:57:04.177Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T09:57:04.177Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no está especificado en el texto, solo se indica que se debe abonar según corresponda.",
+    "El plazo de resolución no está especificado en el texto."
+  ]
+}

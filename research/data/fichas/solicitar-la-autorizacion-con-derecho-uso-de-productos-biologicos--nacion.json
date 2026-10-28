@@ -1,0 +1,81 @@
+{
+  "tramite": {
+    "slug": "solicitar-autorizacion-uso-productos-biologicos",
+    "nombre": "Solicitar autorización con derecho a uso de productos biológicos",
+    "nombre_busqueda": "solicitar autorización uso productos biológicos",
+    "resumen": "Se solicita la autorización para el uso de medicamentos y especialidades medicinales importados de origen biológico y radiofármacos, previa culminación del control de calidad local.",
+    "sinonimos": [
+      "solicitud derecho a uso medicamentos importados",
+      "autorización uso productos biológicos ANMAT"
+    ],
+    "temas": [
+      "salud-y-prevencion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMAT",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "La empresa importadora de medicamentos y especialidades medicinales importadas de uso humano de origen biológico y radiofármacos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de comunicación de control de calidad local.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento de autorización de ingreso al país sin derecho a uso del lote emitido por el sector de Comercio Exterior del INAME.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de análisis de origen.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Especificaciones autorizadas por la ANMAT incluyendo criterios de aceptación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de análisis correspondiente al control de calidad local con fecha y firma de la persona responsable de la empresa.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar a la plataforma TAD."
+      },
+      {
+        "texto": "Completar el Formulario y adjuntar la documentación requerida."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-autorizacion-con-derecho-uso-de-productos-biologicos",
+      "titulo": "Solicitar la autorización con derecho a uso de productos biológicos | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T09:26:15.302Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo estipulado para su configuración es de 60 días hábiles después de haber acreditado el cumplimiento de las condiciones previstas para el otorgamiento de la autorización administrativa."
+  ]
+}

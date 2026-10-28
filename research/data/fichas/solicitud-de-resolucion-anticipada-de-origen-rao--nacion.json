@@ -1,0 +1,82 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-resolucion-anticipada-de-origen-rao",
+    "nombre": "Solicitud de resolución anticipada de origen rao",
+    "nombre_busqueda": "Solicitud de resolución anticipada de origen rao",
+    "resumen": "La Resolución Anticipada de Origen (RAO) permite conocer el trato arancelario de la mercadería antes de importar. No es obligatoria, pero da seguridad jurídica y exime de tramitar la Declaración Jurada de Origen No Preferencial.",
+    "sinonimos": [
+      "RAO",
+      "Resolución Anticipada de Origen",
+      "Origen de las mercaderías"
+    ],
+    "temas": [
+      "legalizaciones-y-apostillados"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Al importador, exportador, productor o cualquier persona que acredite un derecho o interés jurídicamente tutelado o su representante."
+    ],
+    "requisitos": [
+      {
+        "texto": "CUIT",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave fiscal nivel 2 en ARCA",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá en Trámites a Distancia (TAD) con CUIT y Clave Fiscal del importador."
+      },
+      {
+        "texto": "Completá el formulario con los datos solicitados."
+      },
+      {
+        "texto": "Adjuntá la documentación correspondiente."
+      },
+      {
+        "texto": "Confirmá el trámite para que se genere el número de expediente y pueda ser evaluada la información."
+      },
+      {
+        "texto": "La Subsecretaría de Comercio Exterior expedirá el dictado de la Disposición al finalizar el trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La vigencia de tres años de la RAO facilita la planificación comercial y operativa."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitud-de-resolucion-anticipada-de-origen-rao",
+      "titulo": "Solicitud de Resolución Anticipada de Origen (RAO) | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T05:39:28.637Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el monto del trámite.",
+    "No se especifica el plazo de resolución."
+  ]
+}

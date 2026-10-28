@@ -1,0 +1,100 @@
+{
+  "tramite": {
+    "slug": "habilitacion-de-una-drogueria",
+    "nombre": "Habilitación de una droguería",
+    "nombre_busqueda": "Habilitación de una droguería",
+    "resumen": "Es el trámite por el cual se habilitan droguerías. Es gratuito y se realiza en línea a través del TAD.",
+    "sinonimos": [],
+    "temas": [
+      "habilitacion-comercial"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titular del establecimiento o apoderado."
+    ],
+    "requisitos": [
+      {
+        "texto": "Completar formulario de solicitud online en TAD y/o Nota de presentación en conformidad de aceptación de Cargo firmada conjuntamente (TAD) por el Presentante y el Director Técnico ingresante o en su defecto certificar por Banco o Escribano.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título de propiedad, contrato de locación o comodato (según el titular sea propietario, locatario o comodatario del inmueble), con firmas certificadas por Escribano Público de las partes intervinientes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En el caso del contrato de comodato, adjuntar título de propiedad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tanto el contrato de alquiler como el contrato de comodato, tienen que especificar en sus respectivas cláusulas el destino y el plazo del mismo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano del establecimiento con carátula del Ministerio de Salud de la Nación y las siguientes características: a) Escala 1:100. b) Detalle de los ambientes. c) Medidas de los ambientes (Lineales y de superficie). Firma y sello del profesional y apoderado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de la libre regencia del director técnico, solicitado ante el Ministerio de Salud de la Provincia de Buenos Aires.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En el caso de Personas Jurídicas, adjuntar: a) Estatuto Social, debidamente inscripto en IGJ, autenticada por Escribano Público, en el que se indique el objeto. b) Acta de Directorio que designa al Director Técnico autenticada por Escribano Público.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el Establecimiento se encuentra en una propiedad sometida al régimen de propiedad horizontal, se debe adjuntar reglamento de copropiedad indicando destino del Inmueble, correspondiente al establecimiento habilitado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de poseer vehículos: Adjuntar título de propiedad de cada unidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave fiscal nivel 2 o superior de la AFIP o Apoderamiento en trámites a distancia para realizar el registro.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Requerimientos de Planta física: 80m2 depósito 21 m2 recepción expedición 10m2 laboratorio 2 vestuario 2 baños.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al TAD, trámite 'Habilitación de Droguerías', con clave fiscal y CUIT de la persona física o jurídica propietaria del Establecimiento, y seguí los pasos allí indicados."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/habilitacion-de-una-drogueria",
+      "titulo": "Habilitación de una droguería | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T15:50:01.169Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto menciona que se recomienda ingresar a la página desde una CPU a través del Mozilla Firefox o el Google Chrome, no mediante celulares u otros dispositivos móviles porque se han detectado inconvenientes."
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "tramite": {
+    "slug": "tributos-municipales",
+    "nombre": "Tributos municipales",
+    "nombre_busqueda": "pagar tributos municipales en Patagones",
+    "resumen": "Las personas físicas o jurídicas que realicen hechos imponibles en el Partido de Patagones pueden estar obligadas a pagar tasas, derechos y contribuciones. La página describe los principales tributos, sus frecuencias de cobro y los medios y lugares de pago.",
+    "sinonimos": [
+      "tasas municipales",
+      "impuestos municipales"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060602",
+  "organismo": {
+    "nombre": "Municipalidad de Patagones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas físicas o jurídicas que realicen actos u operaciones o estén en situaciones consideradas hechos imponibles según las ordenanzas municipales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Realizá un acto, una operación o encontrate en una situación considerada hecho imponible por las ordenanzas municipales.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Pagá en una caja de la Agencia de Recaudación Municipal, en una caja de las delegaciones municipales, en el Banco de la Provincia de Buenos Aires, en lugares habilitados de Pago Fácil o en cajeros automáticos de la red Link."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La tasa por servicios urbanos se cobra mensualmente según el calendario fiscal.",
+      "La tasa por conservación, reparación y mejorado de la red vial municipal se cobra cada dos meses según el calendario fiscal.",
+      "La tasa por inspección de seguridad e higiene se cobra cada dos meses según el calendario fiscal.",
+      "La tasa por servicio de limpieza y mantenimiento del cementerio se cobra cada tres meses según el calendario fiscal.",
+      "La patente de rodados alcanza a vehículos nuevos o usados radicados en el Partido de Patagones que usen la vía pública y no estén alcanzados por el impuesto provincial o el vigente en otra jurisdicción. Incluye motocicletas, motos, motonetas, ciclomotores, triciclos, motovehículos motorizados, cuat…",
+      "La página informa un beneficio del 5% para quienes adhieran al débito automático de tasas municipales."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Agencia de Recaudación Municipal",
+      "direccion": "Avellaneda 194",
+      "localidad": "Carmen de Patagones",
+      "horario": null,
+      "fuente_url": "https://patagones.gob.ar/tributos-municipales/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://patagones.gob.ar/tributos-municipales/",
+      "titulo": "Tributos Municipales – Municipalidad de Patagones",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T15:43:05.096Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los importes de los tributos no figuran en el texto; se remite a la Ordenanza Tarifaria.",
+    "No se detalla el procedimiento para adherir al débito automático."
+  ]
+}

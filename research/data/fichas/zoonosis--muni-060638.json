@@ -1,0 +1,124 @@
+{
+  "tramite": {
+    "slug": "castracion-de-mascota",
+    "nombre": "Castración de mascota",
+    "nombre_busqueda": "Castración mascota",
+    "resumen": "Trámite gratuito para castrar felinos y caninos mayores de 6 u 8 meses mediante evaluación veterinaria en sedes o quirófano móvil.",
+    "sinonimos": [
+      "Castración animal",
+      "Esterilización mascota"
+    ],
+    "temas": [
+      "animales-y-zoonosis"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060638",
+  "organismo": {
+    "nombre": "Municipalidad del Pilar",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Propietarios de mascotas mayores de 6 meses (felinos hembra) o 8 meses (felinos machos y caninos)."
+    ],
+    "requisitos": [
+      {
+        "texto": "Mascota mayor de 6 meses (felino hembra) o 8 meses (felino macho y canino).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ayuno de 8hs de sólido y 4hs de líquido.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Llevar manta para la recuperación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Concurrir con transportadora o caja de cartón con agujeros y trapos propios para aminorar el estrés.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Collar y correa.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Sacá un turno a través de alguno de nuestros canales de mi Muni."
+      },
+      {
+        "texto": "Con tu turno confirmado y siguiendo todas las indicaciones mencionadas, dirigite con tu mascota a alguna de nuestras sedes o al Quirófano Móvil."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La mascota será castrada mediante evaluación realizada por el veterinario del móvil/sede."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Pilar Centro",
+      "direccion": "Ruta 25 Av. Tratado del Pilar, Local 281",
+      "localidad": "Pilar Centro",
+      "horario": null,
+      "fuente_url": "https://pilar.gov.ar/tramites/zoonosis/"
+    },
+    {
+      "nombre": "Sede Raíces",
+      "direccion": "Raíces, esquina Rivadavia",
+      "localidad": "Presidente Derqui",
+      "horario": null,
+      "fuente_url": "https://pilar.gov.ar/tramites/zoonosis/"
+    },
+    {
+      "nombre": "Sede Independencia",
+      "direccion": "Independencia, esquina Jiménez",
+      "localidad": "Del Viso",
+      "horario": null,
+      "fuente_url": "https://pilar.gov.ar/tramites/zoonosis/"
+    },
+    {
+      "nombre": "Sede Serrano y Alvarez Thomas",
+      "direccion": "Serrano y Alvarez Thomas (Plaza 20 de Agosto)",
+      "localidad": "Villa Rosa",
+      "horario": null,
+      "fuente_url": "https://pilar.gov.ar/tramites/zoonosis/"
+    },
+    {
+      "nombre": "Quirófano Móvil",
+      "direccion": "Quirófano móvil",
+      "localidad": "Quirófano móvil",
+      "horario": null,
+      "fuente_url": "https://pilar.gov.ar/tramites/zoonosis/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://pilar.gov.ar/tramites/zoonosis/",
+      "titulo": "Zoonosis - Municipio Pilar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T16:35:05.699Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite.",
+    "El plazo de espera para obtener el turno.",
+    "Si se puede realizar la castración sin turno en algún caso específico."
+  ]
+}

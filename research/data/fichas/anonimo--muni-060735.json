@@ -1,0 +1,89 @@
+{
+  "tramite": {
+    "slug": "consulta-y-pago-de-tasas-municipales-factura-electronica",
+    "nombre": "Consulta y Pago de Tasas Municipales (Factura Electrónica)",
+    "nombre_busqueda": "Consulta y Pago de Tasas Municipales (Factura Electrónica)",
+    "resumen": "Consultá y pagá tus tasas municipales a través del sistema de facturación electrónica de la Municipalidad de San Antonio de Areco.",
+    "sinonimos": [
+      "Consulta de Tasa",
+      "Pago de Tasas Municipales",
+      "Facturación Electrónica Municipal"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060735",
+  "organismo": {
+    "nombre": "Municipalidad de San Antonio de Areco",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cuit´s asociados a tu usuario"
+    ],
+    "requisitos": [
+      {
+        "texto": "Cuit",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sistema de facturación electrónica."
+      },
+      {
+        "texto": "Seleccioná el filtro correspondiente."
+      },
+      {
+        "texto": "Ingresá los datos requeridos."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://boletas.areco.gob.ar:8008/anonimo/",
+      "titulo": "Cpanel - Facturación Electrónica",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "consejos",
+        "quien",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T10:45:43.115Z"
+    },
+    {
+      "url": "https://boletas.areco.gob.ar:8008/anonimo/index.php",
+      "titulo": "Cpanel - Facturación Electrónica",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T10:45:43.115Z"
+    },
+    {
+      "url": "https://boletas.areco.gob.ar:8008/index.php",
+      "titulo": "Municipalidad de San Antonio de Areco",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T10:45:43.115Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los pasos detallados para consultar y pagar las tasas no se especifican en el texto.",
+    "No se indican montos, plazos ni requisitos adicionales para el pago.",
+    "No se especifica si el trámite requiere turno."
+  ]
+}

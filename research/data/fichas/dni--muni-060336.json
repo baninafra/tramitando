@@ -1,0 +1,68 @@
+{
+  "tramite": {
+    "slug": "nuevo-ejemplar-dni",
+    "nombre": "Sacar un nuevo DNI",
+    "nombre_busqueda": "renovar o sacar un nuevo DNI",
+    "resumen": "Podés sacar el DNI por primera vez y pedir uno nuevo por cambio de domicilio, deterioro, robo, pérdida o una modificación en tu identidad. El documento tiene actualizaciones cuando el niño llega a la edad escolar y a los 14 años.",
+    "sinonimos": [
+      "renovar el DNI",
+      "DNI por extravío"
+    ],
+    "temas": [
+      "dni"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060336",
+  "organismo": {
+    "nombre": "Municipalidad de General Lavalle",
+    "sigla": null,
+    "web": "https://www.generallavalle.gob.ar/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Los padres o tutores pueden tramitar el primer DNI de un bebé.",
+      "Podés pedir un DNI nuevo por cambio de domicilio, deterioro, robo, pérdida o una modificación en tu identidad."
+    ],
+    "requisitos": [
+      {
+        "texto": "Partida de nacimiento original.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI vigente, si lo tenés.",
+        "aclaracion": "Si sos mayor de 14 años."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El DNI tiene una actualización cuando el niño llega a la edad escolar, entre los 5 y los 8 años, y otra a los 14."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.generallavalle.gob.ar/tramites/dni",
+      "titulo": "DNI, Nuevo Ejemplar, Denuncia, Extravío",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T12:48:31.035Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se detallan los pasos para hacer el trámite.",
+    "No se informa si necesitás sacar turno.",
+    "No se informa el costo.",
+    "No se indica dónde se realiza el trámite ni cuánto tarda.",
+    "No se especifica la fecha de vigencia del trámite."
+  ]
+}

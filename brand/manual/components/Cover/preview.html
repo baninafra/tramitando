@@ -1,0 +1,39 @@
+<!-- @dsCard height=300 -->
+<link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  body { margin: 0; background: var(--fondo); }
+  .tapa { position: relative; width: 960px; height: 300px; overflow: hidden; background: var(--fondo); }
+  .tapa svg { position: absolute; inset: 0; }
+  .celeste { fill: var(--celeste); }
+  .claro { fill: var(--celeste-claro); }
+  .suave { fill: var(--celeste-suave); }
+  .tinta { fill: var(--tinta); }
+  .renglon { fill: var(--fondo); }
+  .aro { fill: none; stroke: var(--fondo); stroke-width: 12px; }
+  .texto { position: absolute; left: 48px; bottom: 40px; max-width: 440px; }
+  .nombre { margin: 0; font: 700 72px/0.95 var(--font-sans); letter-spacing: -0.02em; color: var(--tinta); }
+  .bajada { margin: var(--espacio-3) 0 0; font: 400 14px/20px var(--font-sans); color: var(--tinta-2); }
+</style>
+<div class="tapa">
+  <svg width="960" height="300" viewBox="0 0 960 300" aria-hidden="true">
+    <!--
+      bloques: celeste (losa 224×264, el papel), tinta (disco r=72, el sello), celeste-claro (doblez 64), celeste-suave (placa 48×96)
+      disposición: losa alta que sangra por arriba con el sello encimado abajo a la derecha y una placa satélite a la izquierda
+      patrón: motivo literal "papel con renglones" → tres píldoras de renglón caladas en fondo, porque la marca es el papel sellado
+      escalas: espacio-5 (24) a espacio-8 (64), radio-grande 16, radio-pildora para renglones y sello
+    -->
+    <rect class="suave" x="496" y="172" width="48" height="96" rx="16"/>
+    <path class="celeste" d="M576 -16H736L800 48V232a16 16 0 0 1-16 16H592a16 16 0 0 1-16-16Z"/>
+    <path class="claro" d="M736 -16V32a16 16 0 0 0 16 16H800Z"/>
+    <rect class="renglon" x="608" y="80" width="128" height="16" rx="8"/>
+    <rect class="renglon" x="608" y="120" width="96" height="16" rx="8"/>
+    <rect class="renglon" x="608" y="160" width="112" height="16" rx="8"/>
+    <circle class="tinta" cx="808" cy="240" r="72"/>
+    <circle class="aro" cx="808" cy="240" r="78"/>
+    <rect class="celeste" x="896" y="64" width="64" height="64" rx="16"/>
+  </svg>
+  <div class="texto">
+    <p class="nombre">Tramitando</p>
+    <p class="bajada">Tu trámite, claro y sin vueltas.</p>
+  </div>
+</div>

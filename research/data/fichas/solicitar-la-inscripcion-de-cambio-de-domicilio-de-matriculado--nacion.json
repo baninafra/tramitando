@@ -1,0 +1,99 @@
+{
+  "tramite": {
+    "slug": "inscripcion-de-cambio-de-domicilio-de-matriculado",
+    "nombre": "Solicitar la inscripción de cambio de domicilio de matriculado",
+    "nombre_busqueda": "cambio de domicilio matriculado",
+    "resumen": "Para cambiar el domicilio de un matriculado en la Inspección General de Justicia de la Ciudad Autónoma de Buenos Aires, necesitás completar un formulario, abonar la tasa y presentar documentación protocolar y un certificado de antecedentes penales.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Matriculados inscriptos en la Inspección General de Justicia de la Ciudad Autónoma de Buenos Aires."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario denominado Cambio de domicilio de un matriculado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado emitido por el Registro Nacional de Reincidencia y Estadística Carcelaria que acredite la inexistencia de antecedentes penales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia del Archivo General del Poder Judicial sobre pedidos de quiebra contra el interesado o presentación en concurso preventivo del mismo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota con los datos de inscripción y la denuncia del nuevo domicilio con firma certificada por Escribano público.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago de la tasa retributiva de servicios a nombre de quien lo solicita.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario y verificá que contás con todos los requisitos."
+      },
+      {
+        "texto": "Solicitá turno para Mesa General de Entradas."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el formulario del trámite y toda la documentación indicada en la Mesa General de Entradas de la Inspección General de Justicia."
+      },
+      {
+        "texto": "Deberás hacerlo en el horario de 9.30 a 14.00hs. Si optás por el trámite urgente, presentalo, sin turno previo, de 8 a 9hs."
+      },
+      {
+        "texto": "Una vez finalizado el trámite, retiralo por Av. Paseo Colón 285, sector Matrículas (3er. piso), en el horario de 10.00 a 14.00 hs. sin turno."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Inspección General de Justicia",
+      "direccion": "Av. Paseo Colón 285, sector Matrículas (3er. piso)",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-la-inscripcion-de-cambio-de-domicilio-de-matriculado"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-inscripcion-de-cambio-de-domicilio-de-matriculado",
+      "titulo": "Solicitar la inscripción de cambio de domicilio de matriculado | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T10:03:16.791Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto menciona la tasa retributiva de servicios pero no especifica el monto exacto en centavos."
+  ]
+}

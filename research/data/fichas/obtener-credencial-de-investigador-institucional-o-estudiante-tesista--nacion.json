@@ -1,0 +1,91 @@
+{
+  "tramite": {
+    "slug": "obtener-credencial-de-investigador-institucional-o-estudiante-tesista",
+    "nombre": "Obtener credencial de investigador institucional o estudiante tesista",
+    "nombre_busqueda": "credencial investigador tesista BNM",
+    "resumen": "Obtén una credencial personal e intransferible para investigadores y estudiantes de tesis que residan cerca de la Biblioteca Nacional de Maestros. El trámite requiere documentación específica y se realiza presencialmente en Sala Americana.",
+    "sinonimos": [
+      "credencial BNM investigadores",
+      "credencial tesistas Biblioteca Nacional"
+    ],
+    "temas": [
+      "educacion-y-estudios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Biblioteca Nacional de Maestros",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Investigadores que representen a una institución o estudiantes que se encuentren preparando su tesis o trabajo final que residan en un radio no mayor a 200 Km. de la Biblioteca Nacional de Maestros."
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia DNI (anverso y reverso) o Pasaporte en caso de ser extranjero.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de un servicio pago a su nombre o contrato de alquiler.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Carta institucional dirigida a la Directora de la BNM, Lic. Graciela Perrone en la que debe constar: nombre y apellido del interesado, documento que acredite identidad o Pasaporte en caso de ser un investigador extranjero, tema y duración aproximada de la investigación y los datos del tutor de la i…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de solicitud de credencial completo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá toda la documentación solicitada en Sala Americana, Pizzurno 953 1° piso."
+      },
+      {
+        "texto": "Una vez aprobada la solicitud, dirigite a Sala de Lectura para la confección de la credencial."
+      },
+      {
+        "texto": "Retirá la credencial, en ella figuran: los datos personales de la persona asociada, la categoría, una foto del titular y un código de barras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "72 horas hábiles",
+    "consejos": [
+      "La vigencia de la credencial se corresponde con la duración de la investigación."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sala Americana",
+      "direccion": "Pizzurno 953 1° piso",
+      "localidad": "Pizzurno 953 1° piso",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/obtener-credencial-de-investigador-institucional-o-estudiante-tesista"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-credencial-de-investigador-institucional-o-estudiante-tesista",
+      "titulo": "Obtener credencial de investigador institucional o estudiante tesista | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T22:59:25.478Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica si se requiere turno para este trámite."
+  ]
+}

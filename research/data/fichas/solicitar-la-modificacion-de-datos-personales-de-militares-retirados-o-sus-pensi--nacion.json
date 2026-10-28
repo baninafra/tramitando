@@ -1,0 +1,108 @@
+{
+  "tramite": {
+    "slug": "modificacion-datos-personales-militares-retirados",
+    "nombre": "Solicitar la modificación de datos personales de militares retirados o sus pensionistas",
+    "nombre_busqueda": "modificar datos personales militares retirados",
+    "resumen": "Este trámite permite actualizar la base de datos del IAF con nuevos datos de contacto o domicilio de militares retirados y pensionistas. Es gratuito y se puede realizar presencialmente, telefónicamente, por correo o a través del portal eIAF.",
+    "sinonimos": [
+      "modificar datos personales pensionistas militares",
+      "actualizar datos IAF militares",
+      "cambiar domicilio pensionista militar"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Retirados y pensionistas",
+      "Sus apoderados o curadores"
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del titular",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Domicilio (solo si se cambia el domicilio hacia la zona sur del país)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal eIAF Beneficiarios o a la App eIAF con tu CUIL y contraseña."
+      },
+      {
+        "texto": "Dejanos tu solicitud en el apartado Sistema Integrado de Consultas."
+      },
+      {
+        "texto": "Personal de Atención al Público te indicará los pasos a seguir para realizar el trámite."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate con la documentación requerida a la sede central del IAF en Cerrito 572 – CABA o a las Delegaciones del Interior."
+      },
+      {
+        "texto": "Presentá el DNI del titular y el Certificado de Domicilio si es necesario."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si modificaste tu domicilio hacia la zona sur del país, necesitás presentar el Certificado de Domicilio expedido por la Policía.",
+      "El trámite se hará efectivo en la liquidación de haberes inmediata posterior a la presentación de la solicitud, con un plazo aproximado de entre 30 y 45 días según la fecha del mes en que se inicie el trámite."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede central del IAF",
+      "direccion": "Cerrito 572",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-la-modificacion-de-datos-personales-de-militares-retirados-o-sus-pensionistas"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-modificacion-de-datos-personales-de-militares-retirados-o-sus-pensionistas",
+      "titulo": "Solicitar la modificación de datos personales de militares retirados o sus pensionistas. | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T09:39:27.799Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/cambiar-la-zona-de-pago-de-los-haberes-de-retiro-o-pension-militar",
+      "titulo": "Cambiar la Zona de Pago de los haberes de retiro o pensión militar. | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T09:39:27.799Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia del trámite no está especificada en el texto, solo se menciona que debe mantenerse actualizada de acuerdo a las disposiciones vigentes."
+  ]
+}

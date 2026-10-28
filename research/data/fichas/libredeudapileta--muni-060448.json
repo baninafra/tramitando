@@ -1,0 +1,83 @@
+{
+  "tramite": {
+    "slug": "libre-deuda-municipal",
+    "nombre": "Libre de deuda de tasas - Servicios Asistenciales / Colonia de vacaciones",
+    "nombre_busqueda": "Libre de deuda tasas Laprida",
+    "resumen": "Permite descargar boletas de tasas y servicios asistenciales para pagarlas online o en oficina.",
+    "sinonimos": [
+      "Libre de deuda Pileta",
+      "Descarga boleta tasas",
+      "Pago tasas municipales"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "planes-de-pago-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060448",
+  "organismo": {
+    "nombre": "Municipalidad de Laprida",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Vecinos de Laprida",
+      "Habitantes del mundo"
+    ],
+    "requisitos": [
+      {
+        "texto": "Cuit",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Decargue su boleta"
+      },
+      {
+        "texto": "Que boletas puedo descargar"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.laprida.gov.ar/tasas/libredeudapileta",
+      "titulo": "Municipalidad de Laprida",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T08:12:45.909Z"
+    },
+    {
+      "url": "https://www.laprida.gov.ar/home",
+      "titulo": "Municipalidad de Laprida",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T08:12:45.909Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina",
+    "Horarios de atención",
+    "Métodos de pago disponibles",
+    "Vigencia del trámite",
+    "Requisitos para menores",
+    "Requisitos para empresas",
+    "Costos específicos por boleta",
+    "Plazo de pago",
+    "Ubicación de oficinas presenciales"
+  ]
+}

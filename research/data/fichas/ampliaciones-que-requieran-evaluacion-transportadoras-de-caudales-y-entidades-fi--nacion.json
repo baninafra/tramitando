@@ -1,0 +1,82 @@
+{
+  "tramite": {
+    "slug": "ampliar-habilitacion-transportadora-de-caudales-o-entidad-financiera",
+    "nombre": "Ampliar la habilitación de una transportadora de caudales o entidad financiera",
+    "nombre_busqueda": "ampliación transportadora de caudales entidad financiera ANMaC",
+    "resumen": "Si representás a una transportadora de caudales o a una entidad financiera, podés pedir ante ANMaC nuevos ámbitos, más cupos de portación y tenencia o materiales distintos a los acordados.",
+    "sinonimos": [
+      "ampliación de cupos ANMaC",
+      "nuevos ámbitos transportadora de caudales",
+      "ampliación de portación y tenencia"
+    ],
+    "temas": [
+      "seguridad-y-denuncias"
+    ],
+    "temas_propuestos": [
+      {
+        "slug": "armas-y-explosivos",
+        "nombre": "Armas y explosivos",
+        "padre": "seguridad-y-denuncias"
+      }
+    ]
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro Nacional de Armas",
+    "sigla": "ANMaC",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes representan a una transportadora de caudales o a una entidad financiera."
+    ],
+    "requisitos": [
+      {
+        "texto": "Si hacés custodias de mercaderías en tránsito por el territorio nacional, declarás la jurisdicción que solicitás y adjuntás documentación respaldatoria de la actividad.",
+        "aclaracion": "La documentación debe tener las firmas certificadas de los representantes legales de las empresas a las que les prestás el servicio."
+      },
+      {
+        "texto": "Acreditás las razones por las que pedís un tipo de material distinto al acordado originalmente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Completá la solicitud electrónica en miAnmac y presioná \"SOLICITUD\"."
+      },
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La vigencia es de 12 meses.",
+      "Si tenés dudas sobre cómo hacer la solicitud, consultá el manual de solicitudes electrónicas o el instructivo rápido."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/ampliaciones-que-requieran-evaluacion-transportadoras-de-caudales-y-entidades-financieras",
+      "titulo": "Ampliaciones que requieran evaluación Transportadoras de Caudales y Entidades Financieras",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:24:04.142Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se indica el costo del trámite.",
+    "No se indica si hace falta sacar turno.",
+    "No se indica la dirección del Centro de Atención de ANMaC.",
+    "No se indica cuánto tarda la evaluación."
+  ]
+}

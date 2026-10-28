@@ -1,0 +1,72 @@
+{
+  "tramite": {
+    "slug": "generar-usuario-estacionamiento-medido",
+    "nombre": "Generar usuario estacionamiento medido",
+    "nombre_busqueda": "Generar usuario estacionamiento medido",
+    "resumen": "Para pagar la tarifa desde su teléfono sin ir a un punto de venta, el vecino debe descargar la aplicación SEM San Miguel o SEM Mobile y crear su usuario.",
+    "sinonimos": [],
+    "temas": [
+      "estacionamiento-medido"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060760",
+  "organismo": {
+    "nombre": "Municipalidad San Miguel",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Vecinos que quieran utilizar la aplicación de estacionamiento medido."
+    ],
+    "requisitos": [
+      {
+        "texto": "Descargar la Aplicación SEM San Miguel para Android o SEM Mobile para iOS.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Crear el usuario desde la aplicación SEM San Miguel o SEM Mobile."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "15 minutos",
+    "consejos": [
+      "En caso de no lograr hacerlo, o ante cualquier duda o consulta, puede comunicarse al 0800-222-8324 o vía e-mail a atencionalvecino@msm.gov.ar."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Cámara de Comercio Planta Baja",
+      "direccion": "Sarmiento 1663",
+      "localidad": "Sarmiento 1663",
+      "horario": null,
+      "fuente_url": "https://www.msm.gov.ar/guia-tramites/transito-y-transporte/generar-usuario-estacionamiento-medido/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.msm.gov.ar/guia-tramites/transito-y-transporte/generar-usuario-estacionamiento-medido/",
+      "titulo": "Generar usuario- Estacionamiento medido - Municipalidad San Miguel",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T14:24:07.609Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horarios de atención presencial: Lunes a viernes de 8hs a 20hs y sábados de 8hs a 13hs.",
+    "Disponibilidad de la aplicación SEM San Miguel o SEM Mobile en el dispositivo del usuario.",
+    "Vigencia del usuario generado."
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "tramite": {
+    "slug": "consulta-de-deudas",
+    "nombre": "Consultar deudas",
+    "nombre_busqueda": "consulta de deudas municipales",
+    "resumen": "Consultá tus deudas y, si no podés hacerlo por tu cuenta, pedile a la Agencia de Recaudación que gestione la consulta.",
+    "sinonimos": [
+      "consulta de deuda municipal"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "boletas-y-vencimientos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060385",
+  "organismo": {
+    "nombre": "Agencia de Recaudación de la Municipalidad de General Viamonte",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés consultar tus deudas municipales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Si no podés autogestionar la consulta, podés pedirle a la Agencia de Recaudación que la gestione.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Comunicate con la Agencia de Recaudación por teléfono al 02358-442020 o por email a arvi@generalviamonte.gob.ar para pedir que gestione la consulta."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La atención es de 07 a 13 hs.",
+      "Después de pagar, enviá una foto del comprobante por email a arvi@generalviamonte.gob.ar o informá el pago por teléfono."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.generalviamonte.gob.ar/consulta-deudas",
+      "titulo": "Consulta de Deudas | Municipalidad de General Viamonte",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T13:41:09.659Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican los requisitos para hacer la consulta.",
+    "No se indica si la consulta se puede completar por internet.",
+    "No se informa el costo de la consulta."
+  ]
+}

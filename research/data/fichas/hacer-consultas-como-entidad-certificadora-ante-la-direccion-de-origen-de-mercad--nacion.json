@@ -1,0 +1,85 @@
+{
+  "tramite": {
+    "slug": "hacer-consultas-como-entidad-certificadora-ante-la-direccion-de-origen-de-mercaderias",
+    "nombre": "Hacer consultas como entidad certificadora ante la Dirección de Origen de Mercaderías",
+    "nombre_busqueda": "Consultas entidad certificadora origen mercaderías",
+    "resumen": "Si sos una entidad habilitada por la Secretaría de Comercio para emitir certificados de origen y tenés dudas sobre la interpretación de acuerdos o temas relacionados a la certificación de origen de mercaderías, podés realizar una consulta a la Dirección de Origen de Mercaderías.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección de Origen de Mercaderías",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Entidades habilitadas por la Secretaría de Comercio para emitir certificados de origen."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener CUIT y clave fiscal nivel 2 en AFIP.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contar con Trámites a Distancia (TAD) asociado a AFIP.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Figurar en la lista de entidades autorizadas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Adjuntar una nota donde se detalle la consulta, con membrete de la entidad y firmada por un representante de la misma.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD con tu CUIT y clave fiscal."
+      },
+      {
+        "texto": "Escribí en el buscador 'Origen de mercaderías - Consultas entidades certificadoras' y adjuntá la nota detallada con membrete y firma."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/hacer-consultas-como-entidad-certificadora-ante-la-direccion-de-origen-de-mercaderias",
+      "titulo": "Hacer consultas como entidad certificadora ante la Dirección de Origen de Mercaderías | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T16:18:54.779Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/produccion/consulta-hacer-consultas-como-entidad-certificadora-ante-la-direcci%C3%B3n-de-origen-de-mercader%C3%ADas",
+      "titulo": "Envianos tu consulta sobre el trámite de hacer consultas como entidad certificadora ante la Dirección de Origen de Mercaderías | Argentina.gob.ar",
+      "bloques": [
+        "requisitos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T16:18:54.779Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo de respuesta no está especificado en el texto.",
+    "La dirección física de la oficina no se menciona en el texto.",
+    "Si el trámite requiere turno presencial, no se detalla en el texto."
+  ]
+}

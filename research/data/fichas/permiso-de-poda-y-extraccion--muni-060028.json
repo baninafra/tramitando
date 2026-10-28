@@ -1,0 +1,85 @@
+{
+  "tramite": {
+    "slug": "permiso-de-poda-y-extraccion",
+    "nombre": "Permiso de Poda y Extracción",
+    "nombre_busqueda": "Permiso de poda y extracción",
+    "resumen": "Se requiere solicitar un permiso para la poda y extracción del material resultante en la oficina municipal.",
+    "sinonimos": [],
+    "temas": [
+      "poda-y-arbolado"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060028",
+  "organismo": {
+    "nombre": "Municipio de Adrogué",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en solicitar el permiso."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de solicitud",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tasa Municipal",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Completá el formulario de solicitud."
+      },
+      {
+        "texto": "Aboná el timbrado en la Tesorería Municipal."
+      },
+      {
+        "texto": "Presentá el formulario completo, el recibo de pago, el DNI y la Tasa Municipal en la Mesa General de Entradas."
+      },
+      {
+        "texto": "Comunicate con el Municipio una vez realizados los trabajos para solicitar el retiro de ramas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Mesa General de Entradas",
+      "direccion": "Rosales 1312",
+      "localidad": "Adrogué",
+      "horario": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/permiso-de-poda-y-extraccion/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.brown.gob.ar/tramites/permiso-de-poda-y-extraccion/",
+      "titulo": "Permiso de Poda y Extracción",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T19:40:46.678Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa no se indica en el texto.",
+    "No se especifica el plazo de tramitación."
+  ]
+}

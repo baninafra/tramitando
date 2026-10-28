@@ -1,0 +1,84 @@
+{
+  "tramite": {
+    "slug": "cancelar-inscripcion-arca",
+    "nombre": "Cancelar la inscripción en ARCA",
+    "nombre_busqueda": "Cancelar inscripción ARCA",
+    "resumen": "Te guiamos paso a paso para solicitar la cancelación de inscripción ante ARCA en los casos de fallecimiento, ausencia con presunción de fallecimiento o disolución de persona jurídica.",
+    "sinonimos": [],
+    "temas": [
+      "cuil-y-clave-de-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración Federal de Ingresos Nacionales",
+    "sigla": "AFIN",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A los cónyuges o presuntos herederos legítimos de contribuyentes fallecidos.",
+      "A los liquidadores de personas jurídicas disueltas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario 981.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta de defunción del causante (original y copia auténtica), o Declaración judicial de ausencia con presunción de fallecimiento (original y copia auténtica).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acto de disolución de la persona jurídica (constituida o no regularmente) y, en su caso, de su pertinente inscripción registral (original y copia auténtica).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acto de nombramiento del liquidador y su respectiva inscripción registral (original y copia auténtica).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate personalmente a la dependencia ARCA que le correspondía al contribuyente."
+      },
+      {
+        "texto": "Presentá el Formulario 981 junto con la documentación complementaria."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/cancelar-la-inscripcion-en-arca",
+      "titulo": "Cancelar la inscripción en ARCA | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:38:41.500Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T04:38:41.500Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite.",
+    "Si el trámite requiere turno."
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "tramite": {
+    "slug": "solicitar-calibracion-de-dosimetros-para-braquiterapia",
+    "nombre": "Solicitar calibración de dosímetros para braquiterapia",
+    "nombre_busqueda": "Calibración dosímetros braquiterapia",
+    "resumen": "La CNEA realiza la calibración de instrumentos de medición para braquiterapia en hospitales y centros de radioterapia. Es un trámite presencial que requiere completar un formulario y enviarlo por correo.",
+    "sinonimos": [],
+    "temas": [
+      "salud-y-prevencion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Comisión Nacional de Energía Atómica",
+    "sigla": "CNEA",
+    "web": "https://www.argentina.gob.ar/servicio/solicitar-calibracion-de-dosimetros-para-braquiterapia"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Hospitales y Centros de Radioterapia"
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario completo",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Descargá y completá el Formulario de Solicitud de Turno."
+      },
+      {
+        "texto": "Enviá el formulario completado por correo electrónico a [email protected]."
+      },
+      {
+        "texto": "Acordá la visita previamente."
+      },
+      {
+        "texto": "Concurrí al Centro Atómico Ezeiza con tu DNI."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La calibración se realiza in situ, es decir, en el hospital o centro donde se realizan los tratamientos de braquiterapia.",
+      "Nos comunicaremos con vos dentro de los 5 días hábiles para continuar el proceso."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Centro Atómico Ezeiza",
+      "direccion": "Calle Presbítero Juan González y Aragón N°15",
+      "localidad": "Ezeiza",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-calibracion-de-dosimetros-para-braquiterapia"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-calibracion-de-dosimetros-para-braquiterapia",
+      "titulo": "Solicitar Calibración de Dosímetros para Braquiterapia | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:00:37.597Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T08:00:37.597Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo exacto de respuesta no está especificado en el texto, solo se menciona que se comunicarán dentro de los 5 días hábiles para continuar el proceso.",
+    "El monto exacto de la calibración no está especificado en el texto, solo se indica que se cotiza según la calibración solicitada."
+  ]
+}

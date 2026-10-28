@@ -1,0 +1,86 @@
+{
+  "tramite": {
+    "slug": "registro-municipal-deudores-hipotecarios-creditos-uva",
+    "nombre": "Registrarse como deudor hipotecario UVA",
+    "nombre_busqueda": "registro municipal de deudores hipotecarios UVA",
+    "resumen": "Podés solicitar la exención de la tasa ABL para una vivienda asociada a un crédito UVA si está en situación de vulnerabilidad económica. Completá el formulario como declaración jurada.",
+    "sinonimos": [
+      "Registro Municipal de Deudores Hipotecarios de créditos UVA"
+    ],
+    "temas": [
+      "vivienda-y-servicios-del-hogar"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060455",
+  "organismo": {
+    "nombre": "Gobierno Municipal de Las Flores",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Si sos titular o cotitular de un crédito UVA en situación de vulnerabilidad económica."
+    ],
+    "requisitos": [
+      {
+        "texto": "Ser titular o cotitular del crédito UVA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Que el crédito se haya destinado a adquirir, construir o reformar la vivienda.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Que la vivienda sea única, habitual y permanente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario con los datos del titular y, si corresponde, del cotitular."
+      },
+      {
+        "texto": "Ingresá el DNI del titular y, si corresponde, el del cotitular."
+      },
+      {
+        "texto": "Indicá la dirección, el teléfono de contacto y el email."
+      },
+      {
+        "texto": "Elegí la entidad bancaria e ingresá el número de partida del inmueble."
+      },
+      {
+        "texto": "Indicá si tenés boleto de compraventa."
+      },
+      {
+        "texto": "Aceptá enviar el formulario como declaración jurada de los datos ingresados."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://lasflores.gob.ar/abluva/",
+      "titulo": "Registro Municipal de Deudores Hipotecarios de créditos UVA - Las Flores",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:39:20.421Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa si hace falta presentar documentación adicional.",
+    "No se informa si se requiere turno ni cuál es el plazo de resolución.",
+    "No se informa cuánto dura la exención de la tasa ABL."
+  ]
+}

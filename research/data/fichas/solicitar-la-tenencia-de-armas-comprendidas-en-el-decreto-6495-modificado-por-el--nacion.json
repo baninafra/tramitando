@@ -1,0 +1,111 @@
+{
+  "tramite": {
+    "slug": "solicitar-tenencia-de-armas-decreto-6495",
+    "nombre": "Solicitar tenencia de armas del decreto 6495",
+    "nombre_busqueda": "Solicitar tenencia de armas",
+    "resumen": "Este trámite permite incorporar a un legítimo usuario o entidad de tiro armas comprendidas en el Decreto 64/95 modificado por el Decreto 397/2025. Se puede realizar de tres formas: adquisición, transferencia o introducción definitiva.",
+    "sinonimos": [
+      "Solicitar tenencia de armas",
+      "Inscribir armas RENAR"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro Nacional de Armas",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Legítimos usuarios o entidades de tiro."
+    ],
+    "requisitos": [
+      {
+        "texto": "Identificación del material (tipo, marca, modelo, calibre, N° de serie si fuera conocido y CUIM si lo tuviere).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración jurada Anexo I de la Resolución 37/2025.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditación de uso deportivo conforme Art. 2. de la Resolución 37/2025.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DDJJ Sector de guarda tipo G2 acreditación mediante fotografías de las condiciones del seguridad del mismo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotografías del material (fotografías que incluyan vistas generales de ambos laterales y de cada uno de los marcajes y numeración correspondientes a marca, modelo, calibre y número de serie).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Antecedentes Penales. Su fecha de emisión no debe superar los sesenta (60) días corridos al momento que presentes los papeles.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Conformidad del vendedor (para transferencias).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota que explique los motivos por los que se solicita la introducción definitiva (Disp. 883/11) con fecha probable o cierta de viaje, y aduana interviniente (para introducción definitiva de armas).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de RENAR que prefieras."
+      },
+      {
+        "texto": "Retirá la documentación emitida por el RENAR en la delegación en la que iniciaste el trámite."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-tenencia-de-armas-comprendidas-en-el-decreto-6495-modificado-por-el-decreto",
+      "titulo": "Solicitar la tenencia de armas comprendidas en el Decreto 64/95 modificado por el Decreto 397/2025 | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T09:36:50.669Z"
+    },
+    {
+      "url": "https://mi.renar.gob.ar/gral/aranceles.html",
+      "titulo": "(sin título)",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T09:36:50.669Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T09:36:50.669Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia de la credencial de legítimo usuario para que la tenencia sea definitiva.",
+    "El plazo de resolución del trámite.",
+    "La dirección exacta de los centros de atención de RENAR."
+  ]
+}

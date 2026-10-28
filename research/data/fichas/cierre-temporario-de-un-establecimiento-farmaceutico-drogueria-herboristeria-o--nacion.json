@@ -1,0 +1,97 @@
+{
+  "tramite": {
+    "slug": "cierre-temporario-de-un-establecimiento-farmaceutico-drogueria-herboristeria-o",
+    "nombre": "Cierre temporal de un establecimiento farmacéutico, droguería, herboristería o",
+    "nombre_busqueda": "Cierre temporal de un establecimiento farmacéutico",
+    "resumen": "Solicitud de vacaciones para establecimientos farmacéuticos, farmacéuticos, droguerías, herboristerías o biomédicos por un período determinado.",
+    "sinonimos": [],
+    "temas": [
+      "salud-y-prevencion",
+      "medicamentos-y-farmacia-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titular del Establecimiento",
+      "Apoderado"
+    ],
+    "requisitos": [
+      {
+        "texto": "Completar formulario de solicitud online en TAD",
+        "aclaracion": null
+      },
+      {
+        "texto": "Disposición de alta del Director Técnico actual",
+        "aclaracion": null
+      },
+      {
+        "texto": "Disposición de Habilitación del Establecimiento",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solo para Farmacias: En caso de estar Eximida de Turno Obligatorio indicar N° de Disposición o informar N° de Expediente del trámite",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave fiscal nivel 2 o superior de la AFIP o Apoderamiento en trámites a distancia para realizar el registro",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al TAD, trámite 'Solicitud de vacaciones para establecimientos farmacéuticos', con clave fiscal"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Se debe informar a la Autoridad Sanitaria con un tiempo de anticipación aproximado de 30 (treinta) días",
+      "Para hacer el Trámite a Distancia (TAD) se recomienda ingresar a la página desde una CPU a través del Mozilla Firefox o el Google Chrome, no mediante celulares u otros dispositivos móviles porque se han detectado inconvenientes"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/cierre-temporario-de-un-establecimiento-farmaceutico-drogueria-herboristeria-o",
+      "titulo": "Cierre Temporario de un Establecimiento Farmacéutico, Droguería, Herboristería o Comercializador de Productos Biomédicos | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:40:11.819Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T04:40:11.819Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/cdn-cgi/content?id=M5NqHRj4R8YgKuaMiWKkNoB8JdihmU6q9fnab2N1Usk-1792989609.949301-1.2.1.1-21duodXghfSuShhYNNnX9SOElvqVN3ZHuAT13fxXVGByfIvpmHRrfONduW0sexZZ",
+      "titulo": "Mycoremediation: The Fungal Frontier of Environmental Restoration",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T04:40:11.819Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Vigencia del trámite",
+    "Plazo de respuesta de la autoridad sanitaria"
+  ]
+}

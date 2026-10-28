@@ -1,0 +1,61 @@
+{
+  "tramite": {
+    "slug": "pases-multimodal-provincial",
+    "nombre": "Pases multimodal provincial",
+    "nombre_busqueda": "Pases multimodal provincial",
+    "resumen": "Trámite para obtener un pase que permite el uso combinado de diferentes medios de transporte público dentro de la provincia, facilitando la movilidad integrada y beneficiando a usuarios frecuentes con tarifas especiales o descuentos.",
+    "sinonimos": [],
+    "temas": [
+      "transporte-publico-y-viajes",
+      "trenes-y-micros"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060028",
+  "organismo": {
+    "nombre": "Municipio de Almirante Brown",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Usuarios frecuentes de transporte público provincial."
+    ],
+    "requisitos": [
+      {
+        "texto": "Foto DNI (Frente y Reverso)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de discapacidad CUD (Vigente)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.brown.gob.ar/tramites/pases-multimodal-provincial/",
+      "titulo": "Pases Multimodal Provincial",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T01:40:48.435Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos, pasos, plazos, costos ni modalidad de entrega en el texto.",
+    "No se especifica si requiere turno.",
+    "No se especifica el monto del costo."
+  ]
+}

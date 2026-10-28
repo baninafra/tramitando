@@ -1,0 +1,164 @@
+{
+  "tramite": {
+    "slug": "cuil-y-clave-fiscal",
+    "nombre": "Obtener la clave fiscal",
+    "nombre_busqueda": "obtener clave fiscal",
+    "resumen": "Es una contraseña única que te permite operar con ARCA desde cualquier dispositivo. Es gratuita y tiene una vigencia de 365 días.",
+    "sinonimos": [
+      "clave fiscal",
+      "clave ARCA",
+      "contraseña fiscal"
+    ],
+    "temas": [
+      "cuil-y-clave-de-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración de Recursos de la Administración Central",
+    "sigla": "ARCA",
+    "web": "https://www.argentina.gob.ar/servicio/obtener-la-clave-fiscal"
+  },
+  "contenido": {
+    "quien_puede": [
+      "A las personas que interactúan con ARCA.",
+      "Quienes tengan número de CUIT, CUIL o CDI.",
+      "Argentinos nativos o naturalizados.",
+      "Extranjeros con documento de identidad del país de origen, pasaporte o cédula del MERCOSUR.",
+      "Extranjeros con residencia en el país que no posean documento nacional de identidad.",
+      "Personas mayores de edad con DNI argentino en formato tarjeta."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de CUIT, CUIL o CDI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI (para la solicitud de clave fiscal con nivel de seguridad 3 o superior).",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI argentino en formato tarjeta (para nivel de seguridad 3).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Aplicación ARCA móvil con cámara de fotos frontal y acceso a internet (para nivel de seguridad 3).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario 206 – Multinota (para nivel de seguridad 3 presencial).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Turno previo (para nivel de seguridad 3 presencial).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Token instalado en el dispositivo (para nivel de seguridad 4 presencial).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tarjeta de débito y PIN (para nivel de seguridad 4 en cajero automático).",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI y fotocopia (frente y dorso) (para sacar turno presencial).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá normalmente a homebanking y seleccioná Servicios ARCA."
+      },
+      {
+        "texto": "Elegí la opción Crear clave fiscal."
+      },
+      {
+        "texto": "Completá el número de cuit/cuil/cdi y los datos de tu DNI nuevo."
+      },
+      {
+        "texto": "Descargá la aplicación ARCA móvil."
+      },
+      {
+        "texto": "Ingresá al menú Herramientas y seleccioná Solicitud y/o recupero de clave fiscal."
+      },
+      {
+        "texto": "Escané el código de tu DNI y tomá fotografías de tu rostro."
+      },
+      {
+        "texto": "Descargá la app Token y gestioná una clave en el cajero automático con tu tarjeta de débito y PIN."
+      },
+      {
+        "texto": "Colocá el número que brinde el cajero en la app para efectuar la vinculación."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Solicitá un turno."
+      },
+      {
+        "texto": "Presentá en alguna dependencia de ARCA el Formulario 206 – Multinota."
+      },
+      {
+        "texto": "Presentá el original y fotocopia del DNI digital."
+      },
+      {
+        "texto": "Confirmá el turno ingresando el código de seguridad que aparece en pantalla."
+      },
+      {
+        "texto": "Guardá o imprimí el formulario con la información de tu turno."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://www.argentina.gob.ar/turnos",
+    "plazo": null,
+    "consejos": [
+      "La clave fiscal es única e intransferible y no se bloquea ni caduca por falta de uso.",
+      "La vigencia es de 365 días contados desde la obtención o modificación.",
+      "Para el nivel de seguridad 3, necesitás ser mayor de edad y tener DNI argentino en formato tarjeta."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-la-clave-fiscal",
+      "titulo": "Obtener la clave fiscal | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T06:36:46.481Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tramitar-turnos-para-arca",
+      "titulo": "Tramitar turnos para ARCA | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T06:36:46.481Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T06:36:46.481Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo exacto para la obtención de la clave fiscal.",
+    "La dirección específica de las dependencias de ARCA según el domicilio."
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "tramite": {
+    "slug": "certificado-aprobacion-verificacion-cumplimiento-diseno-bulto-transporte-materiales-radiactivos",
+    "nombre": "Certificado de aprobación o de verificación de cumplimiento del diseño de bulto para el transporte de materiales radiac…",
+    "nombre_busqueda": "Certificado de aprobación diseño bulto radiactivo",
+    "resumen": "Este trámite autoriza a la persona humana o jurídica titular de la licencia a utilizar diseños de bultos para el transporte de material radiactivo. Puede ser una solicitud original, renovación, modificación o validación de certificados extranjeros.",
+    "sinonimos": [
+      "Certificado de aprobación bulto radiactivo",
+      "Certificado de verificación diseño bulto"
+    ],
+    "temas": [
+      "transporte-publico-y-viajes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Autoridad Regulatoria Nuclear",
+    "sigla": "ARN",
+    "web": "https://www.argentina.gob.ar/arn"
+  },
+  "contenido": {
+    "quien_puede": [
+      "La persona humana o jurídica titular de la licencia que desee utilizar diseños de bultos para el transporte de material radiactivo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota firmada por el(s) representante(s) legal(es) que describa el trámite, el motivo y el pedido de cotización de la tasa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario Solicitud de certificado de aprobación o de verificación de cumplimiento del diseño de bulto para el transporte de material radiactivo, firmado por el(s) representante(s) legal(es) en original y cumpliendo el Instructivo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informe de seguridad de acuerdo al documento Contenido Básico de los Informes de Seguridad para Aprobación de Bultos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que acredite la capacidad jurídica de la entidad titular y la representatividad legal del firmante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para persona física: Constancia de CUIT/CUIL que extiende ANSES y fotocopia legible del DNI actualizado y vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para persona jurídica: Copia certificada por escribano público en original del estatuto, contrato social u otro documento que indique el nombre de la institución y la facultad del(s) representante(s) legal(es).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para instituciones públicas: Copia certificada en original de la resolución que designa al(s) representante(s) legal(es) y de la norma de creación de la institución.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago de la tasa regulatoria correspondiente junto con el Formulario Facturación de la Tasa Regulatoria.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación requerida en la sede central de la ARN o por correo postal."
+      },
+      {
+        "texto": "Si hay documentación faltante o observaciones, remití la documentación requerida por correo postal o entregala personalmente."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "18 meses",
+    "consejos": [
+      "El trámite lleva 3 meses si se trata de una renovación que no implique modificación de diseño importante para la seguridad.",
+      "Se excluyen de los tiempos las demoras por parte de los usuarios en la presentación de cualquier documentación solicitada.",
+      "Al momento de la emisión del certificado debe estar realizado el pago de la tasa de licenciamiento y estar libre de deudas.",
+      "Cuando se emita el certificado, serás notificado por teléfono, correo electrónico o postal para retirarlo."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede central de la ARN",
+      "direccion": "Av. del Libertador 8250, Oficina 317",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/certificado-de-aprobacion-o-de-verificacion-de-cumplimiento-del-diseno-de-bulto-para-el"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/certificado-de-aprobacion-o-de-verificacion-de-cumplimiento-del-diseno-de-bulto-para-el",
+      "titulo": "Certificado de aprobación o de verificación de cumplimiento del diseño de bulto para el transporte de materiales radiactivos | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T05:12:28.291Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/arn/instalaciones-practicas-y-personal-regulado/datos-de-contacto-para-regulados",
+      "titulo": "Datos de contacto para regulados | Argentina.gob.ar",
+      "bloques": [
+        "donde"
+      ],
+      "consultada_en": "2026-10-26T05:12:28.291Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "donde"
+      ],
+      "consultada_en": "2026-10-26T05:12:28.291Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La vigencia del certificado es de 5 años para los certificados de aprobación y cumplimiento. En el caso de las validaciones, el certificado tendrá la misma vigencia que el emitido por su país de origen, excepto que la ARN especifique un período de validez menor.",
+    "El trámite se puede realizar por correo postal dirigido a la Autoridad Regulatoria Nuclear, Av. del Libertador 8250, C1429BNP, Ciudad Autónoma de Buenos Aires."
+  ]
+}

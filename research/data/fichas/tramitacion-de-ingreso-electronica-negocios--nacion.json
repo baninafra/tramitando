@@ -1,0 +1,92 @@
+{
+  "tramite": {
+    "slug": "ingreso-electronica-negocios",
+    "nombre": "Ingreso electrónico negocios",
+    "nombre_busqueda": "Ingreso electrónico negocios",
+    "resumen": "Permiso para que extranjeros con fines comerciales ingresen a Argentina. Requiere nota de solicitud firmada por autoridad local, pasaporte vigente y fotos.",
+    "sinonimos": [
+      "Ingreso electrónico",
+      "TIE negocios",
+      "Ingreso electrónico empresas"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Seguridad Nacional",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Extranjeros que se dediquen a la realización habitual de negocios o gestiones comerciales o económicas por cuenta, riesgo o capital propio o con una participación en empresas o personas jurídicas que realicen aquella actividad o en representación de estas, y que sean requeridos para tales fines por…",
+      "El Ingresante",
+      "El Requirente debidamente inscripto en el Re.N.U.R.E."
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia de Inscripción en el Re.N.U.R.E.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de solicitud firmada por la autoridad designada para tales fines ante el Re.N.U.R.E., detallando los motivos de la petición, conteniendo los siguientes datos del ingresante: Nombres y Apellidos, Fecha de Nacimiento, Número de pasaporte, País de nacimiento, Nacionalidad, Estado civil, Profesión…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pasaporte válido y vigente del ingresante (Imagen de la/s hoja/s con los datos personales y foto - Formato JPG).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Foto del ingresante (foto formal del rostro, con fondo blanco, debe ser tomada al momento de la carga del trámite, y no la imagen de otra foto - Formato JPG).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Empresarios: Constancia expedida por autoridad competente del país de origen o asiento, certifique la existencia de la empresa de la cual es titular o forma parte el ingresante en el extranjero.",
+        "aclaracion": "Si sos empresario"
+      },
+      {
+        "texto": "Representantes de Empresas Extranjeras: Constancia expedida por la empresa representada que acredite al extranjero en tal carácter.",
+        "aclaracion": "Si sos representante de empresa extranjera"
+      },
+      {
+        "texto": "En caso que la empresa no fuera notoriamente reconocida en la República, se requerirá constancia de su existencia emanada de autoridad competente en la materia del país del que la empresa fuera originaria intervenida por el Consulado Argentino correspondiente.",
+        "aclaracion": "Si la empresa no es notoriamente reconocida en la República"
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá tu trámite a distancia ingresando en Tramitación de Ingreso Electrónico- TIE 24H"
+      },
+      {
+        "texto": "Debes adjuntar la documentación y datos requeridos según el tipo de ingreso que solicites."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tramitacion-de-ingreso-electronica-negocios",
+      "titulo": "Tramitación de Ingreso Electrónica - Negocios | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T18:11:51.124Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa migratoria no se especifica en el texto, solo se indica que se debe consultar el cuadro de tasas migratorias.",
+    "El plazo exacto de vigencia del trámite no se especifica en el texto, solo se menciona '2 meses' en el contexto de residencia transitoria."
+  ]
+}

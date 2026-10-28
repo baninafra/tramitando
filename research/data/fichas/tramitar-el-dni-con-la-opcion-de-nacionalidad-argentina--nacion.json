@@ -1,0 +1,108 @@
+{
+  "tramite": {
+    "slug": "tramitar-dni-nacionalidad-argentina",
+    "nombre": "Sacar el DNI con la opción de nacionalidad argentina",
+    "nombre_busqueda": "Sacar el DNI con la opción de nacionalidad argentina",
+    "resumen": "Si naciste en el exterior y sos hijo de un argentino nativo o por opción, podés optar por la nacionalidad argentina al tramitar tu DNI.",
+    "sinonimos": [],
+    "temas": [
+      "dni"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Renaper",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A los hijos de argentinos nativos o por opción, que hayan nacido en el extranjero."
+    ],
+    "requisitos": [
+      {
+        "texto": "Partida de nacimiento original",
+        "aclaracion": "Apostillada (si el país forma parte del Convenio de La Haya de 1961) o legalizada por el Consulado argentino. Traducida al español, cuando el original no sea en idioma castellano, por un traductor público matriculado, legalizada ante el Colegio Público de Traductores o por el Superior Tribunal de J…"
+      },
+      {
+        "texto": "Partida de nacimiento de alguno de tus padres",
+        "aclaracion": "De la cual surja la ciudadanía argentina certificada por el Registro Civil correspondiente."
+      },
+      {
+        "texto": "Formulario/Acta de opción de nacionalidad aprobado",
+        "aclaracion": "Mediante la Resolución RNP N° 1636/12."
+      },
+      {
+        "texto": "DNI correspondiente",
+        "aclaracion": "Si en nuestro país estás identificado como ciudadano extranjero."
+      },
+      {
+        "texto": "DNI de tu padre, madre o representante legal",
+        "aclaracion": "De nacionalidad argentina, que deberá acompañarte por ser menor de edad. Si es representante legal, deberá presentar la documentación que lo acredite."
+      },
+      {
+        "texto": "Conformidad de uno de tus padres",
+        "aclaracion": "Para que adquieras la nacionalidad argentina como menor de edad. Salvo la oposición o el desacuerdo entre ambas personas, en cuyo caso se exige la decisión judicial con intervención previa del Ministerio Público. Si uno de los padres tuviera el ejercicio exclusivo de la responsabilidad parental de…"
+      },
+      {
+        "texto": "Acta de defunción de progenitores fallecidos",
+        "aclaracion": "Que otorga nacionalidad."
+      },
+      {
+        "texto": "Acreditación del representante legal",
+        "aclaracion": "Oficio judicial o testimonio de tutela del menor. Es otorgado por el juzgado. Debe contar con sello y firma del juez, secretario o funcionario autorizado a extender oficios en cumplimiento de mandas judiciales. Si el menor se encuentra en una institución de cuidado u hogar convivencial, autorizació…"
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Elegí un Registro Civil cercano o sacá turno para un Centro de Documentación Renaper en la app Mi Argentina."
+      },
+      {
+        "texto": "Guardá la constancia de solicitud de trámite y hacé el seguimiento online con tu ID desde aquí."
+      },
+      {
+        "texto": "Retiralo en la oficina con la constancia de solicitud de trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "IMPORTANTE: El trámite DNI con la opción de nacionalidad argentina no se podrá tramitar en aeropuertos."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "En el país",
+      "gratis": false,
+      "monto_centavos": 1000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/tramitar-el-dni-con-la-opcion-de-nacionalidad-argentina"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tramitar-el-dni-con-la-opcion-de-nacionalidad-argentina",
+      "titulo": "Tramitar el DNI con la opción de nacionalidad argentina | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T17:51:32.005Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La vigencia del trámite si sos mayor de 14 años.",
+    "La vigencia del trámite si sos menor de edad."
+  ]
+}

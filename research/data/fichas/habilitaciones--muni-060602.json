@@ -1,0 +1,166 @@
+{
+  "tramite": {
+    "slug": "habilitacion-comercial",
+    "nombre": "Habilitación comercial",
+    "nombre_busqueda": "Habilitación de comercio",
+    "resumen": "Trámite para habilitar locales comerciales, con requisitos que varían según el tipo de actividad y si se trata de una nueva apertura, renovación o baja.",
+    "sinonimos": [
+      "Alta de comercio",
+      "Certificado de habilitación",
+      "Libreta sanitaria"
+    ],
+    "temas": [
+      "habilitacion-comercial"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060602",
+  "organismo": {
+    "nombre": "Municipalidad de Patagones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de comercio que deseen habilitar su local."
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia del DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Foto 4x4",
+        "aclaracion": null
+      },
+      {
+        "texto": "Libreta sanitaria",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de zonificación",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planos aprobados (Obras Públicas)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitud de habilitación",
+        "aclaracion": null
+      },
+      {
+        "texto": "Libre deuda municipal",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de contrato de locación",
+        "aclaracion": "Teniendo las partes domicilio en Patagones. Las firmas deberán ser certificadas ante Escribano Público."
+      },
+      {
+        "texto": "Boleto de compra o venta título de propiedad",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de ocupantes, declaración jurada de ocupación en Juzgado de Paz",
+        "aclaracion": null
+      },
+      {
+        "texto": "Inscripción de ingresos brutos por internet",
+        "aclaracion": null
+      },
+      {
+        "texto": "Inscripción en AFIP (calle Colón 689 de la localidad de Viedma)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración jurada del activo hasta 15.000 por profesional competente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Mayor a 15.000 ante escribano público",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de profesionales, título habilitante",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de anexos o cambios de domicilio, presentar certificado de habilitación anterior",
+        "aclaracion": null
+      },
+      {
+        "texto": "Seguro contra incendios y responsabilidad civil",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de impuesto urbano del local comercial (ARBA)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado antisiniestral de bomberos de policía de la Provincia de Buenos Aires",
+        "aclaracion": "Solo para locales de concurrencia masiva (salón de eventos, boliche, pub, restaurant, bar, gimnasio, etc.). Llamar al encargado de la zona: Miguel García Tel. (291) 5037862."
+      },
+      {
+        "texto": "Nota pedido de renovación (Intendente municipal)",
+        "aclaracion": "Solo para alta de comercio para instituciones."
+      },
+      {
+        "texto": "Acta constitutiva de la institución",
+        "aclaracion": "Solo para alta de comercio para instituciones."
+      },
+      {
+        "texto": "Personería jurídica",
+        "aclaracion": "Solo para alta de comercio para instituciones."
+      },
+      {
+        "texto": "Baja comercial",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota tipo de solicitud de baja comercial",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de habilitación (en caso de extravío, exposición en el registro civil)",
+        "aclaracion": "Solo en caso de fallecimiento, certificado de defunción del titular del comercio."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1080000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://patagones.gob.ar/habilitaciones/"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://patagones.gob.ar/habilitaciones/",
+      "titulo": "Habilitaciones – Municipalidad de Patagones",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T15:46:07.358Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina",
+    "Plazo de tramitación",
+    "Pasos detallados",
+    "Requisitos específicos para casos especiales no detallados en el texto"
+  ]
+}

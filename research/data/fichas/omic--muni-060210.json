@@ -1,0 +1,75 @@
+{
+  "tramite": {
+    "slug": "reclamos-y-denuncias-de-consumidor",
+    "nombre": "Reclamos y denuncias de consumo",
+    "nombre_busqueda": "Reclamos y denuncias de consumo",
+    "resumen": "Podés presentar reclamos y denuncias basados en la Ley Nacional 24.240 de Defensa del Consumidor a través del formulario online.",
+    "sinonimos": [
+      "Denuncias de consumo",
+      "Reclamos de consumo"
+    ],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060210",
+  "organismo": {
+    "nombre": "Oficina Municipal de Información y Atención al Consumidor",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en presentar un reclamo o denuncia."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documentación respaldatoria del reclamo (factura, denuncia, etc.).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario con los datos del reclamante y del denunciado."
+      },
+      {
+        "texto": "Adjuntá la documentación respaldatoria del reclamo (máximo 3 archivos)."
+      },
+      {
+        "texto": "Leé el aviso sobre sanciones por denuncias maliciosas o sin justa causa."
+      },
+      {
+        "texto": "Confirmá que la suma de 14 más 1 es 15 y clicá en Enviar."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://chacabuco.gob.ar/omic/",
+      "titulo": "OMIC | Ciudad de Chacabuco",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T04:44:42.956Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se desconoce si el trámite requiere turno.",
+    "Se desconoce si se puede realizar presencialmente.",
+    "Se desconoce el plazo de respuesta o resolución.",
+    "Se desconoce si hay costos asociados al trámite.",
+    "Se desconoce si se pueden adjuntar más de 3 archivos.",
+    "Se desconoce si se requiere identificación personal en el formulario."
+  ]
+}

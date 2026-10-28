@@ -1,0 +1,460 @@
+---
+// Ficha de trámite: los bloques del documento de definición, siempre en el mismo orden.
+import Checklist from './Checklist.astro';
+import FichaTramite from './FichaTramite.astro';
+import Icono from './Icono.astro';
+import Reporte from './Reporte.astro';
+import Sello from './Sello.astro';
+import { BLOQUES, lugaresDeTramite, type Ficha } from '../lib/data';
+import { formatoFecha, formatoMonto } from '../lib/formato';
+import { nombreDeLugar } from '../lib/seo';
+import { fotoDeLugar } from '../lib/fotos';
+import { logos, type NombreLogo } from './logos';
+
+interface Props { ficha: Ficha }
+const { ficha: f } = Astro.props;
+const v = f.variante;
+
+const lugarPedido = nombreDeLugar(f.pedido);
+const lugarVariante = nombreDeLugar(f.lugarVariante);
+const titulo = lugarPedido ? `${f.tramite.nombre} en ${lugarPedido}` : f.tramite.nombre;
+const chip = f.lugarVariante.municipio
+  ? `Municipio de ${f.lugarVariante.municipio.nombre} · ${f.lugarVariante.provincia?.nombre}`
+  : f.lugarVariante.provincia ? `${f.lugarVariante.provincia.nombre} · ${f.organismo.sigla ?? f.organismo.nombre}` : `Nación · ${f.organismo.sigla ?? f.organismo.nombre}`;
+
+const urlAbsoluta = new URL(f.url, Astro.site).href;
+const textoCompartir = `${titulo}: qué necesitás, cuánto cuesta y dónde se hace.`;
+const enc = encodeURIComponent;
+const opcionesCompartir = [
+  { nombre: 'WhatsApp', logo: 'whatsapp', icono: 'message-circle', url: `https://wa.me/?text=${enc(`${textoCompartir} ${urlAbsoluta}`)}` },
+  { nombre: 'Telegram', logo: 'telegram', icono: 'arrow-up-right', url: `https://t.me/share/url?url=${enc(urlAbsoluta)}&text=${enc(textoCompartir)}` },
+  { nombre: 'Facebook', logo: 'facebook', icono: 'share-2', url: `https://www.facebook.com/sharer/sharer.php?u=${enc(urlAbsoluta)}` },
+  { nombre: 'X', logo: 'x', icono: 'share-2', url: `https://x.com/intent/post?text=${enc(textoCompartir)}&url=${enc(urlAbsoluta)}` },
+  { nombre: 'Correo', logo: null, icono: 'mail', url: `mailto:?subject=${enc(titulo)}&body=${enc(`${textoCompartir}\n${urlAbsoluta}`)}` },
+] as const;
+const urlImprimir = f.url.replace(/^\/tramites\//, '/imprimir/');
+const gratis = v.costos.length > 0 && v.costos.every((c) => c.monto === 0);
+const lugares = await lugaresDeTramite(f.tramite.slug);
+const costoPrincipal = v.costos.length === 0 ? (v.costoNota ? 'Varía' : 'No informado') : gratis ? 'Gratis' : formatoMonto(v.costos[0].monto);
+const costoNota = v.costos.length === 0 ? (v.costoNota ?? '') : gratis ? 'No se paga nada' : v.costos[0].concepto;
+// Si hace falta turno y los pasos "online" hablan del turno, no son una alternativa sino el primer tramo
+// (el modelo los carga así aunque el prompt pida otra cosa).
+// Si los pasos online son sacar turno o pagar antes de ir, no son una alternativa sino el primer tramo,
+// aunque la ficha no tenga cargado que hace falta turno.
+const onlineEsPrevio = Boolean(v.pasos.online && v.pasos.presencial
+  && v.pasos.online.some((p) => /turno|abon|pag[aá]|reserv/i.test(p.texto)));
+const ambasFormas = Boolean(v.pasos.online && v.pasos.presencial) && !onlineEsPrevio;
+const tituloOnline = onlineEsPrevio ? '1. Antes de ir, por internet' : ambasFormas ? 'Opción 1: online' : 'Cómo se hace (online)';
+const tituloPresencial = onlineEsPrevio ? '2. Después, en persona' : ambasFormas ? 'Opción 2: en persona' : 'Cómo se hace (en persona)';
+const variosCostos = v.costos.length > 1;
+const foto = await fotoDeLugar(f.lugarVariante);
+// Donde se hace la parte por internet: el link de turno si hay, si no la página oficial.
+const linkPrevio = v.pasos.turnoUrl ?? v.urlOficial;
+const MAX_OFICINAS = 4;
+const sinBarra = (u?: string) => (u ?? '').replace(/^https?:\/\/(www\.)?/, '').replace(/\/+$/, '').toLowerCase();
+const turnoAparte = Boolean(v.pasos.turnoUrl) && sinBarra(v.pasos.turnoUrl) !== sinBarra(v.urlOficial);
+const turnoTexto = v.pasos.turno || onlineEsPrevio ? 'Hace falta' : 'No hace falta';
+const dondeTexto = f.oficinas.length === 0 ? null : f.oficinas.length === 1 ? f.oficinas[0].nombre : `${f.oficinas.length} oficinas`;
+
+const indice = [
+  ['resumen', 'Resumen'], ...(variosCostos ? [['costo', 'Costos']] : []), ['quien', 'Quién puede hacerlo'],
+  ['requisitos', 'Qué necesitás'], ['pasos', 'Paso a paso'],
+  ...(f.oficinas.length ? [['oficinas', 'Dónde se hace']] : []),
+  ...(v.consejos.length ? [['consejos', 'Tené en cuenta']] : []),
+  ...(f.relacionados.length ? [['relacionados', 'Trámites relacionados']] : []),
+  ['fuentes', 'Fuentes'],
+];
+---
+<div class="contenedor">
+  <nav class="migas" aria-label="Estás en">
+    <ol>
+      <li><a href="/">Inicio</a></li>
+      <li><a href={`/categorias/${f.categoria.slug}`}>{f.categoria.nombre}</a></li>
+      {f.pedido.provincia ? (
+        <>
+          <li><a href={`/tramites/${f.tramite.slug}`}>{f.tramite.nombre}</a></li>
+          <li aria-current="page">{lugarPedido}</li>
+        </>
+      ) : <li aria-current="page">{f.tramite.nombre}</li>}
+    </ol>
+  </nav>
+
+  <header class:list={['ficha-cabecera', { 'con-foto': foto }]} style={foto ? `--foto: url("${foto.url}")` : undefined}>
+    <div class="cabecera-texto">
+      <p class="chip"><a href={`/organismos/${f.organismo.slug}`}>{chip}</a></p>
+      <h1 id="titulo-ficha" class="titulo-ficha">{titulo}</h1>
+      <p class="donde no-imprimir"><Icono nombre="map-pin" /><span>{lugarPedido ? <>Lo estás viendo para <strong>{lugarPedido}</strong></> : <>Versión para <strong>todo el país</strong></>}</span> <a href="/ubicacion" class="btn-texto" data-abrir-ubicacion>Cambiar lugar</a></p>
+      <Sello estado={f.estado} fecha={v.verificacion.fecha} />
+      {f.estado === 'desactualizado' && (
+        <p class="aviso-estado">Esto puede estar desactualizado. Lo verificamos por última vez el {formatoFecha(v.verificacion.fecha)}. Chequeá en la fuente oficial antes de ir y <a href="#reportar" data-abrir-reporte>avisanos si cambió</a>.</p>
+      )}
+      <div class="acciones no-imprimir">
+        <details class="compartir" data-compartir data-titulo={titulo} data-texto={textoCompartir} data-url={urlAbsoluta}>
+          <summary class="btn compartir-boton"><Icono nombre="share-2" />Compartir</summary>
+          <ul class="compartir-menu">
+            {opcionesCompartir.map((o) => (
+              <li><a href={o.url} target="_blank" rel="noopener" class={o.logo ? `app-${o.logo}` : undefined}>{o.logo ? <svg class="logo-app" viewBox="0 0 24 24" aria-hidden="true"><path d={logos[o.logo as NombreLogo]} /></svg> : <Icono nombre={o.icono} />}{o.nombre}<span class="visualmente-oculto"> (se abre en una pestaña nueva)</span></a></li>
+            ))}
+            <li><button type="button" data-copiar><Icono nombre="link" />Copiar link</button></li>
+          </ul>
+        </details>
+      </div>
+    </div>
+    <dl class="resumen-datos datos-arriba" aria-label="Lo principal">
+      <div class="fila"><dt><Icono nombre="banknote" />Cuánto cuesta</dt><dd>{costoPrincipal}</dd></div>
+      <div class="fila"><dt><Icono nombre="hourglass" />Cuánto tarda</dt><dd>{v.plazo.resolucion}</dd></div>
+      <div class="fila"><dt><Icono nombre="calendar" />Turno</dt><dd>{turnoTexto}</dd></div>
+      {dondeTexto && <div class="fila"><dt><Icono nombre="map-pin" />Dónde</dt><dd><a href="#oficinas">{dondeTexto}</a></dd></div>}
+      {v.urlOficial && <a class="btn btn-primario resumen-boton" href={v.urlOficial} target="_blank" rel="noopener"><Icono nombre="external-link" />{v.pasos.turnoUrl && !turnoAparte ? 'Ir a la página oficial y sacar turno' : 'Ir a la página oficial'}<span class="visualmente-oculto"> (se abre en una pestaña nueva)</span></a>}
+      {turnoAparte && <a class="btn btn-secundario resumen-boton" href={v.pasos.turnoUrl} target="_blank" rel="noopener"><Icono nombre="calendar" />Sacar turno<span class="visualmente-oculto"> (se abre en una pestaña nueva)</span></a>}
+    </dl>
+  </header>
+  <div class="ficha-grilla">
+    <article class="ficha" aria-labelledby="titulo-ficha">
+
+      {f.heredada && (
+        <div class="heredada" role="note">
+          <Sello estado="sin-datos" textoSinDatos={f.pedido.municipio ? 'Sin datos de tu municipio' : 'Sin datos de tu provincia'} />
+          <p>Todavía no tenemos datos propios de <strong>{lugarPedido}</strong>. Te mostramos la versión de <a href={f.urlVariante}>{lugarVariante ?? 'Nación'}</a>, que puede tener diferencias.</p>
+          <p><a href="#reportar" data-abrir-reporte>¿Sabés cómo es en {lugarPedido}? Aportá la info</a>.</p>
+        </div>
+      )}
+
+      <div class="aviso-lugar no-imprimir" data-aviso-lugar={JSON.stringify(lugares)} data-actual={f.urlVariante} hidden>
+        <Icono nombre="map-pin" />
+        <p>Hay una ficha para <strong data-aviso-nombre></strong>, donde dijiste que vivís. <a data-aviso-link href="#">Ver la ficha de tu lugar</a></p>
+      </div>
+
+      <section id="resumen" class="bloque" aria-labelledby="t-resumen">
+        <h2 id="t-resumen" class="visualmente-oculto">Resumen</h2>
+        <p class="resumen">{f.tramite.resumen}</p>
+        {v.resumen && <p>{v.resumen}</p>}
+      </section>
+
+      {variosCostos && (
+        <section id="costo" class="bloque" aria-labelledby="t-costo">
+          <h2 id="t-costo">Costos</h2>
+          <ul class="costos">
+            {v.costos.map((c) => (
+              <li>
+                <span class="concepto">{c.concepto}</span>
+                <span class="monto">{c.monto === 0 ? 'Gratis' : formatoMonto(c.monto)}</span>
+                <span class="nota">Rige desde el {formatoFecha(c.vigenteDesde)}</span>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
+
+      <section id="quien" class="bloque" aria-labelledby="t-quien">
+        <h2 id="t-quien">Quién puede hacerlo</h2>
+        <ul class="lista">{v.quienPuede.map((q) => <li>{q}</li>)}</ul>
+      </section>
+
+      <section id="requisitos" class="bloque" aria-labelledby="t-requisitos">
+        <h2 id="t-requisitos">Qué necesitás</h2>
+        <Checklist items={v.requisitos} clave={v.id} />
+        <a class="btn btn-secundario checklist-boton no-imprimir" href={urlImprimir}><Icono nombre="printer" />Descargá el checklist</a>
+      </section>
+
+      <section id="pasos" class="bloque" aria-labelledby="t-pasos">
+        <h2 id="t-pasos">Paso a paso</h2>
+        {v.pasos.turno && !onlineEsPrevio && (
+          <div class="turno">
+            <Icono nombre="calendar" />
+            <div>
+              <h3>Primero: sacá turno</h3>
+              <p>{v.pasos.turno}{v.pasos.turnoUrl && <> <a href={v.pasos.turnoUrl} target="_blank" rel="noopener">Sacalo acá<Icono nombre="external-link" class="mini" /><span class="visualmente-oculto"> (se abre en una pestaña nueva)</span></a></>}</p>
+            </div>
+          </div>
+        )}
+        {ambasFormas && <p class="tinta-2">Lo podés hacer de dos formas:</p>}
+        {onlineEsPrevio && <p class="tinta-2">Primero hacés una parte por internet y después vas en persona.</p>}
+        <div class="pasos">
+          {v.pasos.online && (
+            <div class="forma">
+              <h3><Icono nombre="monitor" />{tituloOnline}</h3>
+              {onlineEsPrevio && linkPrevio && <a class="hacelo-aca" href={linkPrevio} target="_blank" rel="noopener">Hacelo acá<Icono nombre="external-link" class="mini" /><span class="visualmente-oculto"> (se abre en una pestaña nueva)</span></a>}
+              <ol>
+                {v.pasos.online.map((p) => (
+                  <li>{p.texto}{p.enlace && <> <a href={p.enlace.url} target="_blank" rel="noopener">{p.enlace.texto}<Icono nombre="external-link" class="mini" /><span class="visualmente-oculto"> (se abre en una pestaña nueva)</span></a></>}</li>
+                ))}
+              </ol>
+            </div>
+          )}
+          {v.pasos.presencial && (
+            <div class="forma">
+              <h3><Icono nombre="footprints" />{tituloPresencial}</h3>
+              <ol>{v.pasos.presencial.map((p) => <li>{p.texto}</li>)}</ol>
+            </div>
+          )}
+        </div>
+      </section>
+
+      {f.oficinas.length > 0 && (
+        <section id="oficinas" class="bloque" aria-labelledby="t-oficinas">
+          <h2 id="t-oficinas">Dónde se hace</h2>
+          {/* Con muchas oficinas se muestran las primeras y el resto se despliega. */}
+          <ul class="oficinas">
+            {f.oficinas.slice(0, MAX_OFICINAS).map((o) => (
+              <li>
+                <h3>{o.nombre}</h3>
+                <p>{o.direccion}, {o.localidad}</p>
+                {o.horario && <p class="horario"><Icono nombre="clock" />{o.horario}</p>}
+                <a href={o.mapaUrl} target="_blank" rel="noopener"><Icono nombre="map-pin" class="mini" />Ver en el mapa<span class="visualmente-oculto"> (se abre en una pestaña nueva)</span></a>
+              </li>
+            ))}
+          </ul>
+          {f.oficinas.length > MAX_OFICINAS && (
+            <details class="mas-oficinas">
+              <summary>Ver las otras {f.oficinas.length - MAX_OFICINAS} oficinas</summary>
+              <ul class="oficinas">
+                {f.oficinas.slice(MAX_OFICINAS).map((o) => (
+                  <li>
+                <h3>{o.nombre}</h3>
+                <p>{o.direccion}, {o.localidad}</p>
+                {o.horario && <p class="horario"><Icono nombre="clock" />{o.horario}</p>}
+                <a href={o.mapaUrl} target="_blank" rel="noopener"><Icono nombre="map-pin" class="mini" />Ver en el mapa<span class="visualmente-oculto"> (se abre en una pestaña nueva)</span></a>
+              </li>
+                ))}
+              </ul>
+            </details>
+          )}
+          <p><a href={`/organismos/${f.organismo.slug}`}>Ver todas las oficinas de {f.organismo.sigla ?? f.organismo.nombre}</a></p>
+        </section>
+      )}
+
+      {v.consejos.length > 0 && (
+        <section id="consejos" class="bloque" aria-labelledby="t-consejos">
+          <h2 id="t-consejos">Tené en cuenta</h2>
+          <ul class="consejos">{v.consejos.map((c) => <li>{c}</li>)}</ul>
+        </section>
+      )}
+
+      {f.relacionados.length > 0 && (
+        <section id="relacionados" class="bloque no-imprimir" aria-labelledby="t-relacionados">
+          <h2 id="t-relacionados">Trámites relacionados</h2>
+          <ul class="lista-tramites">{f.relacionados.map((t) => <li><FichaTramite tarjeta={t} /></li>)}</ul>
+        </section>
+      )}
+
+      <section id="fuentes" class="bloque" aria-labelledby="t-fuentes">
+        <h2 id="t-fuentes">Fuentes</h2>
+        <ul class="fuentes">
+          {v.fuentes.map((x) => (
+            <li>
+              <a href={x.url} target="_blank" rel="noopener">{x.titulo}<Icono nombre="external-link" class="mini" /><span class="visualmente-oculto"> (se abre en una pestaña nueva)</span></a>
+              <span class="nota">Respalda: {x.respalda.map((b) => BLOQUES[b]).join(', ')} · Verificado el {formatoFecha(x.verificadaEl)}</span>
+            </li>
+          ))}
+        </ul>
+        {foto && <p class="nota">Foto de portada: <a href={foto.credito} target="_blank" rel="noopener">autor y licencia en Wikimedia Commons</a>.</p>}
+        <p class="nota">Próxima revisión de la ficha: {formatoFecha(v.verificacion.proximaRevision)}. <a href="/como-verificamos">Cómo verificamos</a></p>
+      </section>
+
+
+      <section class="bloque no-imprimir" aria-label="Reportar un error">
+        <Reporte tramite={f.tramite.slug} variante={v.id} pagina={f.url} />
+      </section>
+
+    </article>
+
+    <aside class="lateral no-imprimir" aria-labelledby="t-indice">
+      <div class="lateral-pegado">
+      {/* En escritorio lo principal acompaña el scroll junto con el índice. */}
+      <dl class="resumen-datos" aria-label="Lo principal">
+        <div class="fila"><dt><Icono nombre="banknote" />Cuánto cuesta</dt><dd>{costoPrincipal}</dd></div>
+        <div class="fila"><dt><Icono nombre="hourglass" />Cuánto tarda</dt><dd>{v.plazo.resolucion}</dd></div>
+        <div class="fila"><dt><Icono nombre="calendar" />Turno</dt><dd>{turnoTexto}</dd></div>
+        {dondeTexto && <div class="fila"><dt><Icono nombre="map-pin" />Dónde</dt><dd><a href="#oficinas">{dondeTexto}</a></dd></div>}
+        {v.urlOficial && <a class="btn btn-primario resumen-boton" href={v.urlOficial} target="_blank" rel="noopener"><Icono nombre="external-link" />{v.pasos.turnoUrl && !turnoAparte ? 'Ir a la página oficial y sacar turno' : 'Ir a la página oficial'}<span class="visualmente-oculto"> (se abre en una pestaña nueva)</span></a>}
+      {turnoAparte && <a class="btn btn-secundario resumen-boton" href={v.pasos.turnoUrl} target="_blank" rel="noopener"><Icono nombre="calendar" />Sacar turno<span class="visualmente-oculto"> (se abre en una pestaña nueva)</span></a>}
+      </dl>
+      <nav aria-labelledby="t-indice">
+        <p id="t-indice" class="lateral-titulo">En esta ficha</p>
+        <ol>{indice.map(([id, texto]) => <li><a href={`#${id}`}>{texto}</a></li>)}</ol>
+      </nav>
+      </div>
+    </aside>
+  </div>
+</div>
+
+{/* Si la persona guardó una ubicación con ficha propia distinta de la que está viendo, se lo avisamos. */}
+<script>
+  // Índice: si la sección entra en la pantalla, se centra; si es más alta, arranca arriba con margen.
+  document.querySelectorAll<HTMLAnchorElement>('.lateral nav a[href^="#"]').forEach((a) => {
+    a.addEventListener('click', (e) => {
+      const destino = document.getElementById(a.hash.slice(1));
+      if (!destino) return;
+      e.preventDefault();
+      const caja = destino.getBoundingClientRect();
+      const alto = window.innerHeight;
+      const arriba = caja.top + window.scrollY;
+      const y = caja.height < alto * 0.85 ? arriba - (alto - caja.height) / 2 : arriba - 24;
+      const suave = !window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+      window.scrollTo({ top: Math.max(0, y), behavior: suave ? 'smooth' : 'auto' });
+      history.replaceState(null, '', a.hash);
+    });
+  });
+
+  document.querySelectorAll<HTMLDetailsElement>('[data-compartir]').forEach((caja) => {
+    const datos = { title: caja.dataset.titulo, text: caja.dataset.texto, url: caja.dataset.url };
+    caja.querySelector('summary')!.addEventListener('click', (e) => {
+      if (!navigator.share || !matchMedia('(pointer: coarse)').matches) return;
+      e.preventDefault();
+      navigator.share(datos).catch(() => { /* la persona lo cerró */ });
+    });
+    const copiar = caja.querySelector<HTMLButtonElement>('[data-copiar]')!;
+    copiar.addEventListener('click', async () => {
+      try { await navigator.clipboard.writeText(datos.url ?? location.href); copiar.lastChild!.textContent = '¡Copiado!'; }
+      catch { copiar.lastChild!.textContent = 'No se pudo copiar'; }
+      setTimeout(() => { copiar.lastChild!.textContent = 'Copiar link'; caja.open = false; }, 1500);
+    });
+    document.addEventListener('click', (e) => { if (!caja.contains(e.target as Node)) caja.open = false; });
+  });
+
+  const enlaces = [...document.querySelectorAll<HTMLAnchorElement>('.lateral nav a[href^="#"]')];
+  const secciones = enlaces.map((a) => document.getElementById(a.hash.slice(1))).filter((x): x is HTMLElement => Boolean(x));
+  const marcar = () => {
+    const linea = window.innerHeight * 0.35;
+    let actual = secciones[0];
+    for (const sec of secciones) if (sec.getBoundingClientRect().top <= linea) actual = sec;
+    enlaces.forEach((a) => a.toggleAttribute('aria-current', a.hash === `#${actual?.id}`));
+  };
+  window.addEventListener('scroll', marcar, { passive: true });
+  marcar();
+
+  import { leerUbicacion, nombreUbicacion } from '../scripts/ubicacion';
+  const caja = document.querySelector<HTMLElement>('[data-aviso-lugar]');
+  const u = leerUbicacion();
+  if (caja && u) {
+    const lugares: { provincia?: string; municipio?: string; url: string }[] = JSON.parse(caja.dataset.avisoLugar!);
+    const propio =
+      (u.muni && lugares.find((l) => l.provincia === u.prov && l.municipio === u.muni)) ||
+      lugares.find((l) => l.provincia === u.prov && !l.municipio);
+    if (propio && propio.url !== caja.dataset.actual && propio.url !== location.pathname) {
+      caja.querySelector('[data-aviso-nombre]')!.textContent = nombreUbicacion(u);
+      caja.querySelector<HTMLAnchorElement>('[data-aviso-link]')!.href = propio.url;
+      caja.hidden = false;
+    }
+  }
+</script>
+
+<style>
+  .ficha-cabecera { display: grid; gap: var(--espacio-6); padding-block: var(--espacio-5) var(--espacio-7); align-items: center; }
+  .cabecera-texto { display: grid; gap: var(--espacio-4); justify-items: start; }
+  /* Banner: la foto del lugar de fondo, oscurecida hacia la izquierda para que el texto se lea. */
+  .con-foto { position: relative; isolation: isolate; border-radius: 28px; overflow: hidden; margin-block: var(--espacio-3) var(--espacio-6);
+    padding: clamp(28px, 5vw, 64px) clamp(20px, 4vw, 56px); min-height: clamp(320px, 38vw, 460px); align-content: end; color: #fff;
+    background: linear-gradient(90deg, rgba(10, 14, 20, .88) 0%, rgba(10, 14, 20, .65) 45%, rgba(10, 14, 20, .15) 100%), var(--foto) center / cover no-repeat; }
+  @media (max-width: 719px) { .con-foto { background: linear-gradient(0deg, rgba(10, 14, 20, .92) 20%, rgba(10, 14, 20, .35) 100%), var(--foto) center / cover no-repeat; } }
+  .con-foto .titulo-ficha, .con-foto .donde, .con-foto .donde strong { color: #fff; }
+  .con-foto .chip a, .con-foto :global(.verificado) { color: rgba(255, 255, 255, .78); }
+  .con-foto .donde a { color: #B5D5F1; }
+  .con-foto .donde :global(.icono) { color: #B5D5F1; }
+  .titulo-ficha { font: 700 clamp(32px, 4.4vw, 60px)/1.04 var(--font-sans); letter-spacing: -0.03em; max-width: 18ch; }
+  .donde { display: flex; flex-wrap: wrap; align-items: center; gap: var(--espacio-1) var(--espacio-2); }
+  .donde :global(.icono) { color: var(--celeste-tinta); }
+  /* Lo principal en una sola tarjeta: una fila por dato y el botón a la página oficial. */
+  .resumen-datos { margin: 0; border-radius: 22px; background: var(--superficie); padding: var(--espacio-1) var(--espacio-5) var(--espacio-5); display: grid; }
+  .fila { display: grid; grid-template-columns: auto 1fr; gap: var(--espacio-3); align-items: baseline; padding-block: var(--espacio-3); }
+  .fila + .fila { border-top: 1px solid color-mix(in srgb, var(--tinta-2) 18%, transparent); }
+  .fila dt { display: flex; align-items: center; gap: var(--espacio-2); font: var(--t-cuerpo-chico); color: var(--tinta-2); white-space: nowrap; }
+  .fila dt :global(.icono) { width: 18px; height: 18px; color: var(--celeste-tinta); }
+  .fila dd { margin: 0; text-align: right; font: 700 17px/1.3 var(--font-sans); display: grid; justify-items: end; }
+  .resumen-boton { margin-top: var(--espacio-3); justify-content: center; }
+  .dato-nota { font: var(--t-nota); color: var(--tinta-2); }
+  @media (min-width: 880px) { .ficha-cabecera { grid-template-columns: 7fr 5fr; gap: var(--espacio-8); } }
+
+  .ficha-grilla { display: grid; gap: var(--espacio-6); }
+  @media (min-width: 1000px) { .ficha-grilla { grid-template-columns: minmax(0, var(--ancho-texto)) 1fr; gap: var(--espacio-8); } }
+
+  .ficha { display: grid; gap: var(--espacio-6); min-width: 0; }
+  .chip { font: var(--t-nota); }
+  .chip a { color: var(--tinta-2); }
+  /* Todos los botones del mismo ancho y alto. */
+  .acciones { display: flex; flex-wrap: wrap; gap: var(--espacio-2); margin-top: var(--espacio-2); }
+  .acciones .btn { min-height: 52px; padding-inline: var(--espacio-6); }
+  .checklist-boton { justify-self: start; }
+  .compartir { position: relative; }
+  .compartir summary { list-style: none; min-height: 44px; padding-inline: var(--espacio-4); }
+  .compartir-boton { background: rgba(255, 255, 255, .14); color: #fff; backdrop-filter: blur(8px); border: 1px solid rgba(255, 255, 255, .22); }
+  .compartir-boton:hover { background: rgba(255, 255, 255, .24); }
+  :not(.con-foto) > .cabecera-texto .compartir-boton { background: var(--superficie); color: var(--tinta); border-color: transparent; }
+  .compartir summary::-webkit-details-marker { display: none; }
+  .compartir-menu { position: absolute; z-index: 10; top: calc(100% + 6px); left: 0; min-width: 220px; list-style: none; margin: 0; padding: var(--espacio-2);
+    border-radius: 16px; background: var(--superficie); box-shadow: 0 12px 32px rgba(0, 0, 0, .35); display: grid; }
+  .compartir-menu a, .compartir-menu button { display: flex; align-items: center; gap: var(--espacio-3); width: 100%; padding: 10px 12px; border-radius: 10px;
+    border: 0; background: none; color: var(--tinta); font: var(--t-cuerpo-chico); text-decoration: none; cursor: pointer; text-align: left; }
+  .compartir-menu a:hover, .compartir-menu button:hover { background: var(--celeste-suave); }
+  .compartir-menu :global(.icono) { width: 18px; height: 18px; color: var(--celeste-tinta); }
+  .logo-app { width: 18px; height: 18px; fill: currentColor; flex: none; }
+  .app-whatsapp .logo-app { color: #25D366; }
+  .app-telegram .logo-app { color: #26A5E4; }
+  .app-facebook .logo-app { color: #0866FF; }
+  .app-x .logo-app { color: var(--tinta); }
+  .hacelo-aca { display: inline-flex; align-items: center; gap: 4px; font-weight: 600; justify-self: start; }
+  .aviso-estado { border-radius: 16px; background: var(--aviso-fondo); color: var(--tinta); padding: var(--espacio-3) var(--espacio-4); font: var(--t-cuerpo-chico); max-width: 60ch; }
+
+  .heredada { border-radius: 22px; display: grid; gap: var(--espacio-2); background: var(--superficie); padding: var(--espacio-5); justify-items: start; }
+  .aviso-lugar { border-radius: 22px; display: flex; gap: var(--espacio-3); align-items: flex-start; background: var(--celeste-suave); padding: var(--espacio-4) var(--espacio-5); }
+  .aviso-lugar[hidden] { display: none; }
+  .aviso-lugar :global(.icono) { color: var(--celeste-tinta); margin-top: 4px; }
+
+  .bloque { display: grid; gap: var(--espacio-3); scroll-margin-top: var(--espacio-5); }
+  .resumen { font-size: 19px; line-height: 29px; }
+  .tinta-2 { color: var(--tinta-2); }
+  .nota { font: var(--t-nota); color: var(--tinta-suave); }
+  :global(.icono.mini) { width: 16px; height: 16px; display: inline-block; vertical-align: -2px; margin-left: 2px; }
+
+  .costo, .plazo { border-radius: 22px; padding: var(--espacio-5); align-content: start; }
+  .costo { background: var(--celeste-suave); }
+  .costo .nota { color: var(--tinta-2); }
+  .plazo { background: var(--superficie); }
+  .plazo .tinta-2 { color: var(--tinta-2); }
+  .costos { list-style: none; padding: 0; display: grid; gap: var(--espacio-4); }
+  .costos li { display: grid; gap: 2px; }
+  .concepto { font: var(--t-etiqueta); color: var(--tinta-2); }
+  .monto { font: var(--t-monto); font-variant-numeric: tabular-nums; }
+  .medios { font: var(--t-cuerpo-chico); }
+  .plazo-valor { display: flex; gap: var(--espacio-2); align-items: center; font: var(--t-titulo-3); }
+  .plazo-valor :global(.icono) { color: var(--celeste-tinta); }
+  .plazo .tinta-2 { font: var(--t-cuerpo-chico); }
+
+  .lista { padding-left: var(--espacio-5); display: grid; gap: var(--espacio-2); }
+  .turno { display: flex; gap: var(--espacio-3); align-items: flex-start; border-radius: 22px; padding: var(--espacio-4) var(--espacio-5); background: var(--celeste-suave); }
+  .turno > :global(.icono) { margin-top: 3px; color: var(--celeste-tinta); flex: none; }
+  .turno h3 { font: var(--t-titulo-3); margin-bottom: var(--espacio-1); }
+  .pasos { display: grid; gap: var(--espacio-4); }
+  .forma { display: grid; gap: var(--espacio-2); }
+  .pasos h3 { display: flex; gap: var(--espacio-2); align-items: center; font: var(--t-titulo-3); }
+  .pasos h3 :global(.icono) { color: var(--celeste-tinta); }
+  .pasos ol { padding-left: var(--espacio-5); display: grid; gap: var(--espacio-2); }
+
+  .oficinas { list-style: none; padding: 0; display: grid; gap: var(--espacio-3); grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr)); }
+  .oficinas li { border-radius: 22px; display: grid; gap: var(--espacio-2); align-content: start; padding: var(--espacio-5); background: var(--superficie); }
+  .horario { display: flex; gap: var(--espacio-2); align-items: center; color: var(--tinta-2); font: var(--t-cuerpo-chico); }
+  .oficinas a :global(.icono.mini) { margin: 0 4px 0 0; }
+  .mas-oficinas summary { cursor: pointer; font-weight: 600; color: var(--celeste-tinta); padding-block: var(--espacio-2); }
+  .mas-oficinas[open] summary { margin-bottom: var(--espacio-3); }
+
+  .consejos { list-style: none; padding: 0; display: grid; gap: var(--espacio-3); }
+  .consejos li { padding-left: var(--espacio-4); border-left: 3px solid var(--aviso); }
+
+  .fuentes { list-style: none; padding: 0; display: grid; gap: var(--espacio-3); }
+  .fuentes li { display: grid; gap: 2px; padding-left: var(--espacio-4); border-left: 3px solid var(--celeste); }
+
+  .lateral { display: none; }
+  @media (min-width: 1000px) {
+    .lateral { display: block; }
+    .lateral-pegado { position: sticky; top: var(--espacio-5); display: grid; gap: var(--espacio-3); }
+    .lateral nav { padding: var(--espacio-2) 0 0; }
+    .datos-arriba { display: none; }
+    .ficha-cabecera { grid-template-columns: 1fr !important; }
+  }
+  .lateral-titulo { font: var(--t-etiqueta); margin-bottom: var(--espacio-2); }
+  .lateral ol { list-style: none; padding: 0; display: grid; border-left: 2px solid color-mix(in srgb, var(--tinta-2) 18%, transparent); }
+  .lateral nav a { display: block; padding: 5px 0 5px var(--espacio-4); margin-left: -2px; border-left: 2px solid transparent; color: var(--tinta-2); text-decoration: none; font: var(--t-cuerpo-chico); }
+  .lateral nav a[aria-current] { color: var(--tinta); border-left-color: var(--celeste-tinta); font-weight: 600; }
+  .lateral nav a:hover { color: var(--celeste-tinta); }
+</style>

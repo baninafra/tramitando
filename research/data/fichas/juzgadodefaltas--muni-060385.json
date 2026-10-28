@@ -1,0 +1,79 @@
+{
+  "tramite": {
+    "slug": "consultar-y-regularizar-multas",
+    "nombre": "Consultar y regularizar multas",
+    "nombre_busqueda": "consultas y regularización de multas",
+    "resumen": "Consultá multas con el Juzgado de Faltas Municipal por WhatsApp o correo. Si ya pagaste, enviá el comprobante por WhatsApp.",
+    "sinonimos": [
+      "consultar multas",
+      "enviar comprobante de pago de multa"
+    ],
+    "temas": [
+      "juzgado-de-faltas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060385",
+  "organismo": {
+    "nombre": "Juzgado de Faltas Municipal",
+    "sigla": null,
+    "web": "https://www.generalviamonte.gob.ar/juzgadodefaltas"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés consultar multas o enviar el comprobante de una multa que ya pagaste."
+    ],
+    "requisitos": [
+      {
+        "texto": "Comprobante de pago de la multa.",
+        "aclaracion": "Si ya pagaste la multa."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Escribí al WhatsApp 2358 410242 o al correo juzgadodefaltas@generalviamonte.gob.ar para consultar una multa."
+      },
+      {
+        "texto": "Mandá el comprobante al WhatsApp 2358 410242 si ya pagaste la multa."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La atención es de lunes a viernes de 7 a 13."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Juzgado de Faltas Municipal",
+      "direccion": "6 de Agosto 448",
+      "localidad": "6 de Agosto 448",
+      "horario": null,
+      "fuente_url": "https://www.generalviamonte.gob.ar/juzgadodefaltas"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.generalviamonte.gob.ar/juzgadodefaltas",
+      "titulo": "Juzgado de Faltas | Municipalidad de General Viamonte",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde",
+        "consejos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T13:41:49.840Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa quiénes pueden hacer la consulta.",
+    "No se detallan otros requisitos.",
+    "No se informa si hace falta sacar turno.",
+    "No se indica un plazo de respuesta."
+  ]
+}

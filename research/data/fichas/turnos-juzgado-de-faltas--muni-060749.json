@@ -1,0 +1,73 @@
+{
+  "tramite": {
+    "slug": "turnos-juzgado-de-faltas",
+    "nombre": "Turnos Juzgado de Faltas",
+    "nombre_busqueda": "Turnos Juzgado de Faltas",
+    "resumen": "Se gestionan turnos para el juzgamiento de infracciones a normas municipales y faltas provinciales o nacionales. También se tramitan descargos y pagos voluntarios.",
+    "sinonimos": [
+      "Turno Juzgado de Faltas"
+    ],
+    "temas": [
+      "juzgado-de-faltas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060749",
+  "organismo": {
+    "nombre": "Secretaría de Gobierno",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quiénes cometan infracciones a normas municipales dentro del Partido.",
+      "Quiénes cometan faltas establecidas por normas provinciales o nacionales cuya aplicación corresponda al Municipio."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tomar conocimiento de las infracciones que se le imputan.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitar y efectuar el pago voluntario.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar el descargo por escrito.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Solicitar turno haciendo click en el enlace correspondiente para trámites de vehículos."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.sanfernando.gob.ar/municipio/secretarias/secretaria-de-gobierno/turnos-juzgado-de-faltas",
+      "titulo": "San Fernando Municipio - Turnos Juzgado de Faltas",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T01:47:09.986Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica la fecha de vigencia del trámite.",
+    "No se especifica el plazo para realizar el trámite.",
+    "No se especifica si requiere turno presencial.",
+    "No se especifica la dirección de la oficina.",
+    "No se especifica el costo del trámite."
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "tramite": {
+    "slug": "regularizacion-ocupacion-inmuebles-proien",
+    "nombre": "Regularización de ocupación de inmuebles PROIEN",
+    "nombre_busqueda": "Regularización PROIEN",
+    "resumen": "Es el trámite para regularizar la ocupación de un inmueble del Estado Nacional si tenés contrato vencido o sin contrato, siempre que no lo hayas ocupado de manera ilícita. Es gratuito y se hace en línea.",
+    "sinonimos": [
+      "Regularización PROIEN",
+      "Regularización ocupación inmueble PROIEN"
+    ],
+    "temas": [
+      "vivienda-y-servicios-del-hogar"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Agencia de Administración de Bienes del Estado",
+    "sigla": "AABE",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Ocupantes de inmuebles con contratos vencidos (locaciones, permisos, concesiones, convenios, etc.) o sin contratos con el Estado Nacional",
+      "Quienes no hayan sido ocupados a través de un acto ilícito"
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de solicitud manifestando el interés de aplicar al programa (Obligatoria)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del DNI o Estatuto del solicitante",
+        "aclaracion": null
+      },
+      {
+        "texto": "De actuar como representante o apoderado, copia del poder o instrumento que acredite dichas facultades",
+        "aclaracion": null
+      },
+      {
+        "texto": "Facturas de servicios, contrato vencido con el Estado Nacional u otra documentación o antecedente que acrediten la ocupación del inmueble (opcional)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de un croquis de inmueble (Opcional)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Acceder al Sistema de Tramitación a Distancia por medio del sitio web: Sistema de Tramitación a Distancia"
+      },
+      {
+        "texto": "Ingresar su CUIT/CUIL (nivel 3) y buscá el tramite \"Solicitud de ingreso al Programa de Regularización de Ocupación de Inmuebles de Estado Nacional (PROIEN)\""
+      },
+      {
+        "texto": "Completá el formulario y la documentación obligatoria"
+      },
+      {
+        "texto": "Luego de cargada toda la documentación, seleccioná el botón CONFIRMÁ TRÁMITE para finalizar el mismo"
+      },
+      {
+        "texto": "Guardá el Nº de Expediente que el sistema le mostrará, ya que es tu número de tramitación"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Aguardá a que te respondan con los pasos a seguir una vez que enviás la Nota de solicitud por correo electrónico"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/programa-de-regularizacion-de-ocupacion-de-inmuebles-del-estado-nacional-proien",
+      "titulo": "Programa de Regularización de Ocupación de Inmuebles del Estado Nacional (PROIEN) | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T02:17:26.996Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del programa"
+  ]
+}

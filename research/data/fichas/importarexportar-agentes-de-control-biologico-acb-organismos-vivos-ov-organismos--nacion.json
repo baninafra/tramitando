@@ -1,0 +1,120 @@
+{
+  "tramite": {
+    "slug": "importar-exportar-agentes-control-biologico",
+    "nombre": "Importar/Exportar agentes de control biológico",
+    "nombre_busqueda": "Importar agentes de control biológico Senasa",
+    "resumen": "Para importar o exportar agentes de control biológico, organismos vivos o modificados con fines industriales o de investigación, necesitás tramitar un permiso ante el Senasa cumpliendo criterios internacionales.",
+    "sinonimos": [
+      "Importar organismos vivos modificados",
+      "Exportar material biológico"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Importadores comerciales",
+      "Organismos públicos",
+      "Representantes legales",
+      "Investigadores"
+    ],
+    "requisitos": [
+      {
+        "texto": "Digital Formulario de solicitud de importación/exportación de ACB u OB",
+        "aclaracion": null
+      },
+      {
+        "texto": "Material biológico y/o MGM según corresponda",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de solicitud dirigida al Director de la Dirección Nacional de la Protección Vegetal",
+        "aclaracion": null
+      },
+      {
+        "texto": "Firmada por el superior de la Institución Pública / Privada interviniente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Resumen del proyecto de investigación",
+        "aclaracion": null
+      },
+      {
+        "texto": "Permiso de exportación/importación de la Organización Nacional de Protección Vegetal (ONPF) del país de origen/destino",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de pago de arancel correspondiente",
+        "aclaracion": null
+      },
+      {
+        "texto": "En el caso de evaluación de riesgo para la importación de ACB: Solicitud de importación y completar el dossier de la Resolución SAGPyA N° 758/1997",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresa a la plataforma TAD"
+      },
+      {
+        "texto": "Completá el formulario de solicitud de inscripción"
+      },
+      {
+        "texto": "Adjuntá la documentación solicitada"
+      },
+      {
+        "texto": "Aboná el arancel que corresponda"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Área de Bioseguridad Agroambiental",
+      "direccion": "Av. Paseo Colón N° 367, Piso 6° contrafrente, C1063ACD, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/importarexportar-agentes-de-control-biologico-acb-organismos-vivos-ov-organismos-vivos"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/importarexportar-agentes-de-control-biologico-acb-organismos-vivos-ov-organismos-vivos",
+      "titulo": "Importar/Exportar agentes de control biológico (ACB), organismos vivos (OV), organismos vivos modificados (OVM) | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T16:37:51.612Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T16:37:51.612Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no se especifica en el texto, consultá las Normativas relacionadas con los costos del trámite.",
+    "La fecha de vigencia exacta del trámite no se especifica en el texto, solo se menciona la Resolución 96/2026."
+  ]
+}

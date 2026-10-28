@@ -1,0 +1,159 @@
+{
+  "tramite": {
+    "slug": "solicitar-escrituracion-y-regulacion-dominial-de-inmueble",
+    "nombre": "Solicitar escrituración y regulación dominial de inmueble",
+    "nombre_busqueda": "Solicitar escrituración y regulación dominial de inmueble",
+    "resumen": "Trámite para interesados en escriturar inmuebles del Estado Nacional. Se requiere presentar croquis, copia certificada del boleto de compraventa, datos de identificación y documentación específica según el caso (herencia, sociedad, etc.).",
+    "sinonimos": [],
+    "temas": [
+      "catastro-e-inmuebles",
+      "tasa-inmobiliaria-y-servicios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Agencia de Administración de Bienes del Estado",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas físicas",
+      "Personas Jurídicas",
+      "Gobiernos Provinciales",
+      "Gobiernos Municipales"
+    ],
+    "requisitos": [
+      {
+        "texto": "Copia de Documento Nacional de Identidad del Interesado o del Representante",
+        "aclaracion": "Obligatorio"
+      },
+      {
+        "texto": "Partida de nacimiento (que acredite vínculo con titular del boleto o de la operación)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Testimonio de la declaratoria de herederos (con sellos correspondientes según jurisdicción que corresponda)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia Certificada por escribano y legalizada del estatuto o contrato social según corresponda a la razón societaria",
+        "aclaracion": "Obligatorio según corresponda"
+      },
+      {
+        "texto": "Copia Certificada por escribano y legalizada si correspondiere, de la última acta de asamblea de designación de autoridades",
+        "aclaracion": "Obligatorio según corresponda"
+      },
+      {
+        "texto": "Copia Certificada por escribano y legalizada si correspondiere, de vigencia inscripción A.F.I.P.",
+        "aclaracion": "Optativo"
+      },
+      {
+        "texto": "Copia Certificada por escribano y legalizada si correspondiere, de vigencia inscripción Ingreso Brutos",
+        "aclaracion": "Optativo"
+      },
+      {
+        "texto": "Copia Certificada por escribano y legalizada si correspondiere, de vigencia inscripción Impuestos provinciales",
+        "aclaracion": "Optativo"
+      },
+      {
+        "texto": "Certificado de Dominio, o en su defecto negativa de existencia del Registro",
+        "aclaracion": "Obligatorio"
+      },
+      {
+        "texto": "Copia simple de Partida Catastral que contenga el inmueble solicitado, en su defecto respuesta del Catastro de la Jurisdicción que niegue la existencia de la misma",
+        "aclaracion": "Obligatorio"
+      },
+      {
+        "texto": "Croquis del inmueble",
+        "aclaracion": "Obligatorio"
+      },
+      {
+        "texto": "Copia Certificada por escribano con firma legalizada del boleto de compraventa o acto jurídico que da origen al pedido de escrituración",
+        "aclaracion": "Obligatorio"
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Accedé al Sistema de Tramitación a Distancia por medio del sitio web: tramitesadistancia.gob.ar"
+      },
+      {
+        "texto": "Ingresá tu CUIT/CUIL y la Clave Fiscal (Nivel 3)"
+      },
+      {
+        "texto": "Aceptá los Términos y Condiciones de uso de la plataforma"
+      },
+      {
+        "texto": "Seleccioná la opción 'Mis datos' para verificar o editar información personal (email, teléfono, domicilio constituido, sexo)"
+      },
+      {
+        "texto": "Ingresá al Escritorio Único de Trámites a Distancia"
+      },
+      {
+        "texto": "Hacé click en el nombre de usuario y seleccioná 'Mis datos'"
+      },
+      {
+        "texto": "Para editar los datos, hacé click en 'Para editar sus datos ingresa aquí'"
+      },
+      {
+        "texto": "Solo podés cambiar email de contacto, sexo, teléfono de contacto y domicilio constituido"
+      },
+      {
+        "texto": "Si sos apoderado, ingresá con tu propio CUIT y clave fiscal"
+      },
+      {
+        "texto": "Seleccioná quién será el titular que ingresará a la plataforma y realizará los trámites: si el mismo apoderado o la persona que lo apoderó"
+      },
+      {
+        "texto": "Para el inicio de un trámite, seleccioná 'Nuevo trámite'"
+      },
+      {
+        "texto": "Seleccioná de la lista de organismos 'Agencia de Administración de Bienes del Estado'"
+      },
+      {
+        "texto": "Te aparecerá el listado de trámites disponibles de la Agencia"
+      },
+      {
+        "texto": "Hacé click en el botón del trámite correspondiente"
+      },
+      {
+        "texto": "Confirmá tus datos correspondientes"
+      },
+      {
+        "texto": "Completá el formulario y la documentación obligatoria"
+      },
+      {
+        "texto": "Seleccioná el botón CONFIRMÁ TRÁMITE para finalizar el trámite"
+      },
+      {
+        "texto": "El sistema le mostrará el Nº de Expediente y todos los documentos asociados"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-escrituracion-y-regulacion-dominial-de-inmueble",
+      "titulo": "Solicitar Escrituración y Regulación dominial de inmueble | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T09:00:45.782Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto del trámite no se especifica en el texto",
+    "El plazo de resolución no se especifica en el texto",
+    "La vigencia del trámite no se especifica en el texto"
+  ]
+}

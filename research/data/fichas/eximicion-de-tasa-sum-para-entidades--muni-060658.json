@@ -1,0 +1,78 @@
+{
+  "tramite": {
+    "slug": "eximicion-de-tasa-sum-para-entidades",
+    "nombre": "Eximición de tasa SUM para entidades",
+    "nombre_busqueda": "Exención tasa SUM entidades",
+    "resumen": "Permite que las entidades y empresas no paguen la tasa SUM si cumplen ciertos requisitos de actividad económica.",
+    "sinonimos": [
+      "Exención tasa SUM empresas",
+      "Libre de tasa SUM entidades"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "emprendedores-y-monotributo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060658",
+  "organismo": {
+    "nombre": "Secretaría de Hacienda",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Entidades y empresas que realicen actividades económicas reguladas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Presentar el formulario de solicitud de eximición.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Incluir la documentación que acredite la actividad económica.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acudí a la oficina de la Secretaría de Hacienda."
+      },
+      {
+        "texto": "Presentá el formulario de solicitud de eximición."
+      },
+      {
+        "texto": "Entregá la documentación que acredite la actividad económica."
+      },
+      {
+        "texto": "Recibí el comprobante de recepción del trámite."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá con la Secretaría de Hacienda si tu actividad económica está regulada para acceder a la eximición."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mi.quilmes.gov.ar/tramites/28/eximicion-de-tasa-sum-para-entidades",
+      "titulo": "Eximición de tasa SUM para entidades",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T06:33:04.469Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere verificar si existen requisitos específicos adicionales para el tipo de entidad o actividad económica.",
+    "No se especifica el plazo de resolución del trámite."
+  ]
+}

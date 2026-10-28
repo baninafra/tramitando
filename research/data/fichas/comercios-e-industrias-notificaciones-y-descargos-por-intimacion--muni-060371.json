@@ -1,0 +1,94 @@
+{
+  "tramite": {
+    "slug": "comercios-e-industrias-notificaciones-y-descargos-por-intimacion",
+    "nombre": "Notificaciones y descargos por intimación de comercios e industrias no inscriptos",
+    "nombre_busqueda": "Notificaciones y descargos por intimación",
+    "resumen": "Este trámite permite que los comercios e industrias no inscriptos presenten notificaciones y descargos por intimación ante el municipio.",
+    "sinonimos": [],
+    "temas": [
+      "comercio-e-industria",
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060371",
+  "organismo": {
+    "nombre": "Municipalidad de San Martín",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Comercios e industrias no inscriptos"
+    ],
+    "requisitos": [
+      {
+        "texto": "Solicitud de notificaciones y descargos por intimación",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del DNI del titular",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del CUIT",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio web de la Municipalidad de San Martín."
+      },
+      {
+        "texto": "Buscá el trámite de notificaciones y descargos por intimación."
+      },
+      {
+        "texto": "Completá la solicitud con los datos requeridos."
+      },
+      {
+        "texto": "Adjuntá las copias del DNI y del CUIT."
+      },
+      {
+        "texto": "Realizá el pago de la tasa correspondiente."
+      },
+      {
+        "texto": "Recibí el comprobante de pago."
+      },
+      {
+        "texto": "Imprimí la documentación y el comprobante."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 150000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://sanmartin.gob.ar/tramites/comercios-e-industrias-notificaciones-y-descargos-por-intimacion"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://sanmartin.gob.ar/tramites/comercios-e-industrias-notificaciones-y-descargos-por-intimacion",
+      "titulo": "Notificaciones y descargos por intimación de comercios e industrias no inscriptos",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-28T01:44:11.207Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo de resolución no está especificado en el texto."
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "tramite": {
+    "slug": "permiso-de-construccion",
+    "nombre": "Permiso de Construcción",
+    "nombre_busqueda": "Permiso de construcción Bahía Blanca",
+    "resumen": "Solicitud electrónica para expedientes de construcción de obras particulares en el Municipio de Bahía Blanca.",
+    "sinonimos": [
+      "Expediente de Construcción",
+      "Permiso de obra particular"
+    ],
+    "temas": [
+      "obras-y-construccion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona natural o jurídica que realice obras particulares en el ámbito municipal."
+    ],
+    "requisitos": [
+      {
+        "texto": "Planos de la obra.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planilla de solicitud de construcción.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario 903.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario 904.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario 905.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ley 17.622.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ley 11.459.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Accedá a la solicitud de Expediente de Construcción desde MiBahía."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/tramites/obrasparticulares/construccion-con-permiso/",
+      "titulo": "Construcción con Permiso | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T08:41:34.239Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos adicionales, plazos de resolución, costos, direcciones de oficinas ni pasos presenciales en el texto proporcionado."
+  ]
+}

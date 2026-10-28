@@ -1,0 +1,97 @@
+{
+  "tramite": {
+    "slug": "reclamo-mala-atencion-gas",
+    "nombre": "Reclamar mala atención prestadora gas",
+    "nombre_busqueda": "Reclamar mala atención prestadora gas",
+    "resumen": "Si la atención de la empresa de gas fue incorrecta, podés reclamar ante el ENARGAS. Primero hacé el reclamo a la prestadora y, si no responden en 15 días o la respuesta es insatisfactoria, contactate con el Ente.",
+    "sinonimos": [],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ente Nacional Regulador del Gas",
+    "sigla": "ENARGAS",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Clientes y/o usuarios."
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia de haber reclamado a la empresa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descripción del reclamo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Contactate con el ENARGAS personalmente en la Sede Central de Suipacha 636 o en la Sede más próxima a tu domicilio."
+      },
+      {
+        "texto": "Asegurate de ir en días hábiles y en horario de 10 a 16 horas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Conservá siempre el número de tu reclamo ante la prestadora.",
+      "Anotá el número de reclamo y el plazo estimativo para la resolución que te proporcione la prestadora."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central ENARGAS",
+      "direccion": "Suipacha 636",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/reclamar-por-mala-atencion-de-la-prestadora-de-gas"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reclamar-por-mala-atencion-de-la-prestadora-de-gas",
+      "titulo": "Reclamar por mala atención de la prestadora de gas | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:52:04.830Z"
+    },
+    {
+      "url": "https://www.enargas.gov.ar/secciones/oficina-virtual/oficina-virtual.php",
+      "titulo": "Oficina virtual ENARGAS",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T02:52:04.830Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T02:52:04.830Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica si se requiere turno para este trámite.",
+    "El texto no especifica el plazo exacto para la resolución del reclamo ante el ENARGAS."
+  ]
+}

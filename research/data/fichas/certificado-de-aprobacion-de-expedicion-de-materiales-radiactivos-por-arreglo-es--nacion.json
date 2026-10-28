@@ -1,0 +1,130 @@
+{
+  "tramite": {
+    "slug": "certificado-de-aprobacion-de-expedicion-de-materiales-radiactivos-por-arreglo-especial",
+    "nombre": "Certificado de aprobación de expedición de materiales radiactivos por arreglo especial",
+    "nombre_busqueda": "certificado de aprobación expedición materiales radiactivos",
+    "resumen": "Este trámite autoriza a la persona humana o jurídica titular de la licencia a realizar expediciones de material radiactivo por arreglo especial. El proceso implica presentar documentación específica según si se trata de una solicitud original, renovación, modificación o validación, y requiere un pago de tasa regulatoria.",
+    "sinonimos": [
+      "certificado ARN radiactivo",
+      "aprobación expedición radiactivos"
+    ],
+    "temas": [
+      "ambiente-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Autoridad Regulatoria Nuclear",
+    "sigla": "ARN",
+    "web": "https://www.argentina.gob.ar/arn"
+  },
+  "contenido": {
+    "quien_puede": [
+      "La persona humana o jurídica titular de la licencia que desee realizar expediciones de material radiactivo por arreglo especial."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota firmada por el(s) representante(s) legal(es) que describa el trámite, el motivo y el pedido de cotización de la tasa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario Solicitud de certificado de aprobación de expedición de materiales radiactivos por arreglo especial firmado en original.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informe de seguridad de acuerdo al documento Contenido Básico de los Informes de Seguridad para materiales radiactivos en forma especial.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que acredite la capacidad jurídica de la entidad titular y la representatividad legal del firmante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de CUIL/CUIT que extiende ANSES (solo para persona física).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia legible del DNI actualizado y vigente (solo para persona física).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia certificada por escribano público en original del estatuto, contrato social u otro documento que indique el nombre de la institución (solo para persona jurídica).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia certificada en original del Acta de Asamblea de Directorio, poder u otro documento donde se identifique al(s) representante(s) legal(es) (solo para persona jurídica).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia certificada en original de la resolución que designa al(s) representante(s) legal(es) (solo para instituciones públicas).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia certificada en original de la norma de creación de la institución (solo para instituciones públicas).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago de la tasa regulatoria correspondiente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación requerida por correo postal o personalmente en la sede central de la ARN."
+      },
+      {
+        "texto": "Si hay documentación faltante o observaciones, remití la documentación requerida por correo postal o entregala personalmente."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "18 meses",
+    "consejos": [
+      "El trámite lleva 3 meses si se trata de una renovación que no implique modificación de diseño importante para la seguridad.",
+      "Se excluyen de los tiempos las demoras por parte de los usuarios en la presentación de cualquier documentación solicitada.",
+      "Al momento de la emisión del certificado debe estar realizado el pago de la tasa de licenciamiento y estar libre de deudas.",
+      "Cuando se emita el certificado de aprobación, serás notificado por teléfono, correo electrónico o postal para que puedas retirarlo por la ARN.",
+      "Para renovar el certificado, presentá los registros de mantenimiento de los embalajes si no hubo modificaciones de importancia para la seguridad."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede central de la ARN",
+      "direccion": "Av. del Libertador 8250, Oficina 317",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/certificado-de-aprobacion-de-expedicion-de-materiales-radiactivos-por-arreglo-especial"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/certificado-de-aprobacion-de-expedicion-de-materiales-radiactivos-por-arreglo-especial",
+      "titulo": "Certificado de aprobación de expedición de materiales radiactivos por arreglo especial | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T05:02:42.344Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/arn/instalaciones-practicas-y-personal-regulado/datos-de-contacto-para-regulados",
+      "titulo": "Datos de contacto para regulados | Argentina.gob.ar",
+      "bloques": [
+        "donde"
+      ],
+      "consultada_en": "2026-10-26T05:02:42.344Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La vigencia del certificado es de 12 meses, aunque la ARN puede especificar un período de validez menor.",
+    "El pago de la tasa se realiza enviando el Formulario Facturación de la Tasa Regulatoria junto con la constancia de pago por correo postal o electrónico."
+  ]
+}

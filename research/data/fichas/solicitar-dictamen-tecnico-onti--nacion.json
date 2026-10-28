@@ -1,0 +1,103 @@
+{
+  "tramite": {
+    "slug": "solicitud-intervencion-proyecto-tecnologico",
+    "nombre": "Solicitud de intervención para proyecto tecnológico",
+    "nombre_busqueda": "solicitar dictamen tecnico onti",
+    "resumen": "El organismo o entidad requirente debe iniciar un Expediente Electrónico en el sistema GDE para solicitar la intervención de la ONTI sobre un proyecto tecnológico del sector público nacional.",
+    "sinonimos": [
+      "solicitud de dictamen tecnico",
+      "intervencion onti proyecto tecnologico"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Oficina Nacional de Tecnologías de la Información",
+    "sigla": "ONTI",
+    "web": "https://www.argentina.gob.ar/jefatura/innovacion-ciencia-y-tecnologia/tics/onti"
+  },
+  "contenido": {
+    "quien_puede": [
+      "El organismo o entidad requirente que necesite la intervención de la ONTI para un proyecto tecnológico del sector público nacional."
+    ],
+    "requisitos": [
+      {
+        "texto": "Un Documento Electrónico generado mediante el módulo GEDO del tipo FCDTP para la carga del Formulario Descripción Técnica del Proyecto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Un Documento Electrónico generado mediante el sistema GEDO que incorpore como archivo embebido un documento PDF con las Especificaciones Técnicas relacionadas al requerimiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de requerirse bienes o servicios que cuenten con un ETAP, se deberá embeber la Especificación Técnica Estándar (ETE) correspondiente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciar un Expediente Electrónico (EE) bajo el código de trámite SOLI00006 – Solicitud de Intervención para Proyecto Tecnológico dentro del Sistema de Gestión Documental Electrónica (GDE)."
+      },
+      {
+        "texto": "En el campo Motivo Externo, completar con: Solicitud de Intervención para Proyecto Tecnológico."
+      },
+      {
+        "texto": "En el campo Descripción Adicional del Trámite, consignar el nombre del proyecto tecnológico objeto de la solicitud."
+      },
+      {
+        "texto": "Vincular al Expediente Electrónico los siguientes elementos: Un Documento Electrónico del tipo FCDTP para la carga del Formulario Descripción Técnica del Proyecto."
+      },
+      {
+        "texto": "Vincular al Expediente Electrónico un Documento Electrónico del tipo PLIEG con las Especificaciones Técnicas relacionadas al requerimiento."
+      },
+      {
+        "texto": "En caso de requerirse bienes o servicios con ETAP, vincular la ETE correspondiente."
+      },
+      {
+        "texto": "Remitir el Expediente Electrónico mediante el ecosistema GDE a la mesa de entradas de la Dirección de Elaboración de Estándares y Dictámenes Tecnológicos de la ONTI."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "30 días hábiles",
+    "consejos": [
+      "El trámite debe realizarse antes de proceder a la respectiva convocatoria a presentar ofertas y con una antelación de TREINTA (30) días hábiles para permitir su adecuada evaluación.",
+      "Previo examen del cumplimiento de los requisitos de admisibilidad, la Dirección de Elaboración de Estándares y Dictámenes Tecnológicos de la ONTI emitirá el dictamen técnico sobre el requerimiento dentro de un plazo razonable que no excederá los VEINTE (20) días hábiles desde la recepción del Exped…"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-dictamen-tecnico-onti",
+      "titulo": "Solicitar Dictamen Técnico - ONTI | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:27:55.141Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/jefatura/innovacion-ciencia-y-tecnologia/tics/onti",
+      "titulo": "Oficina Nacional de Tecnologías de la Información | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T08:27:55.141Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no menciona si el trámite tiene costo o no.",
+    "El texto no especifica si se requiere turno para realizar el trámite."
+  ]
+}

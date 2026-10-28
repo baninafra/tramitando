@@ -1,0 +1,75 @@
+{
+  "tramite": {
+    "slug": "extraccion-de-plantas",
+    "nombre": "Extracción de plantas",
+    "nombre_busqueda": "Extracción de plantas",
+    "resumen": "Trámite para solicitar la extracción de plantas en espacio público en el Partido de Balcarce. Requiere verificar que la planta pueda ser extraída y realizar el pago correspondiente.",
+    "sinonimos": [],
+    "temas": [
+      "espacios-verdes-y-plazas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060063",
+  "organismo": {
+    "nombre": "Municipalidad de Balcarce",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Residentes del Partido de Balcarce"
+    ],
+    "requisitos": [
+      {
+        "texto": "Verificar que la planta pueda ser extraída",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Dirigite a la Oficina de Espacios Públicos, Ambiente y Servicios Generales."
+      },
+      {
+        "texto": "Realizá el pago del trámite."
+      },
+      {
+        "texto": "Una vez abonado, se realiza la extracción."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Espacios Públicos, Ambiente y Servicios Generales",
+      "direccion": "Av. Favaloro Nº815",
+      "localidad": "Av. Favaloro Nº815",
+      "horario": null,
+      "fuente_url": "https://balcarce-app.gob.ar/portal_servicios/servicio/extraccion-de-plantas"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://balcarce-app.gob.ar/portal_servicios/servicio/extraccion-de-plantas",
+      "titulo": "Portal de Servicios | Modernizacion Balcarce",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T03:16:53.119Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del pago no se especifica en el texto.",
+    "No se indica si el trámite requiere turno.",
+    "No se especifica el plazo de realización del trámite."
+  ]
+}

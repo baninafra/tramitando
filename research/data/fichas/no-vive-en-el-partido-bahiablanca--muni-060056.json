@@ -1,0 +1,128 @@
+{
+  "tramite": {
+    "slug": "inscripcion-contribuyente-no-vive-partido-bahiablanca",
+    "nombre": "Inscripción como Contribuyente si no vive en el partido de Bahía Blanca",
+    "nombre_busqueda": "Inscripción como Contribuyente si no vive en el partido de Bahía Blanca",
+    "resumen": "Si no vive en el Partido de Bahía Blanca pero va a desarrollar actividad comercial en él, debe inscribirse como Contribuyente en la Tasa por Servicios Indirectos y Directos. Se requiere completar formularios, presentar copias de documentos de identidad y de domicilio, y pagar una tasa.",
+    "sinonimos": [
+      "Inscripción extralocal",
+      "Contribuyente no residente en partido",
+      "Alta como contribuyente fuera de partido"
+    ],
+    "temas": [
+      "cuil-y-clave-de-seguridad-social",
+      "tasa-inmobiliaria-y-servicios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas Físicas",
+      "Personas Jurídicas"
+    ],
+    "requisitos": [
+      {
+        "texto": "Completar el Formulario N°1: Imprimir anverso y reverso en la misma hoja de papel. Completar y enviar por duplicado. Requiere firma certificada del responsable por autoridad bancaria o escribano público.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de inscripción en la AFIP.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de la inscripción en ARBA o Convenio Multilateral.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de un servicio (gas, luz, teléfono) que acredite domicilio particular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Completar el Formulario N°2: Este formulario se completa con los datos de las personas físicas con capacidad legal para representar a la sociedad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI de las personas físicas con capacidad legal para representar a la sociedad, que figuran en el Formulario N°2.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del Contrato Social, certificada por Escribano Público.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de la inscripción en la AFIP de la Sociedad y de los integrantes de la misma con capacidad legal para representarla.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia certificada del acta de asamblea vigente que contenga la designación y distribución de los cargos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de un servicio (gas, luz, teléfono) que acredite domicilio real (comercial/fiscal).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Dirigirse al Departamento de Ingresos y Política Fiscal del Municipio de Bahía Blanca."
+      },
+      {
+        "texto": "Presentar los formularios y documentos completos."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 2100000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/contribuyentes/no-vive-en-el-partido-bahiablanca/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Departamento de Ingresos y Política Fiscal",
+      "direccion": "Alsina 65",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/contribuyentes/no-vive-en-el-partido-bahiablanca/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/tramites/contribuyentes/no-vive-en-el-partido-bahiablanca/",
+      "titulo": "No vive en el partido de Bahía Blanca | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "costo",
+        "donde",
+        "plazo",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T20:55:38.172Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se indica que se da el Alta como Contribuyente y se le asigna un número, pero no se especifica el plazo ni el costo exacto en el texto.",
+    "No se especifica si se requiere turno para la atención en la oficina."
+  ]
+}

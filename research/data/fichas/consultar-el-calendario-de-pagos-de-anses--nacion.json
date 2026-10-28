@@ -1,0 +1,92 @@
+{
+  "tramite": {
+    "slug": "calendario-pagos-anses",
+    "nombre": "Consultar el calendario de pagos de ANSES",
+    "nombre_busqueda": "calendario de pagos anses",
+    "resumen": "Podés consultar la fecha de cobro de tus prestaciones de ANSES de forma gratuita en línea usando tu DNI o ingresando a mi ANSES con tu CUIL y Clave de la Seguridad Social.",
+    "sinonimos": [
+      "fecha de cobro anses",
+      "cuando cobro anses"
+    ],
+    "temas": [
+      "pensiones-no-contributivas-vejez",
+      "pensiones-no-contributivas-por-invalidez",
+      "prestaciones-medicas-e-incluir-salud"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración Nacional de Servicios Sociales para Jubilados y Pensionados",
+    "sigla": "anses",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que cobren jubilación y/o pensión.",
+      "Personas que cobren Asignación Familiar o Universal por Hijo.",
+      "Personas que cobren Asignación por Embarazo.",
+      "Personas que cobren Asignación por Prenatal y Asignación por Maternidad.",
+      "Personas que cobren Asignaciones de pago único (matrimonio, adopción y nacimiento).",
+      "Personas que cobren Pensiones No Contributivas.",
+      "Personas que cobren Prestación por Desempleo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Un celular o computadora con acceso a Internet.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de DNI.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá en Calendario de Pagos de ANSES."
+      },
+      {
+        "texto": "Busca tu prestación y revisá cuando cobrás de acuerdo a la terminación de tu DNI."
+      },
+      {
+        "texto": "O ingresá a mi ANSES con tu CUIL y Clave de la Seguridad Social."
+      },
+      {
+        "texto": "Seleccioná Cobros - Consultar fecha y lugar de cobro."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consultar-el-calendario-de-pagos-de-anses",
+      "titulo": "Consultar el calendario de pagos de ANSES | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T05:19:41.354Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T05:19:41.354Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La página oficial no especifica un plazo de tiempo para consultar el calendario.",
+    "La página oficial no especifica si el trámite requiere turno presencial."
+  ]
+}

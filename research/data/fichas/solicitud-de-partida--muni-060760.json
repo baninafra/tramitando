@@ -1,0 +1,76 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-partida",
+    "nombre": "Solicitud de Partida",
+    "nombre_busqueda": "Solicitud de Partida",
+    "resumen": "Llevá tu DNI y presentá vos en ventanilla de Dirección de Catastro para obtener el Número de Partida Municipal de tu vivienda.",
+    "sinonimos": [],
+    "temas": [
+      "catastro-e-inmuebles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060760",
+  "organismo": {
+    "nombre": "Municipalidad San Miguel",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Contribuyente"
+    ],
+    "requisitos": [
+      {
+        "texto": "Presentación de DNI",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en ventanilla de Dirección de Catastro."
+      },
+      {
+        "texto": "Llevá tu DNI."
+      },
+      {
+        "texto": "Recibí el Número de Partida Municipal correspondiente a tu unidad funcional o vivienda."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "Un día",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Catastro",
+      "direccion": "Belgrano 1342, 3er piso, San Miguel",
+      "localidad": "San Miguel",
+      "horario": null,
+      "fuente_url": "https://www.msm.gov.ar/guia-tramites/catastro/solicitud-de-partida/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.msm.gov.ar/guia-tramites/catastro/solicitud-de-partida/",
+      "titulo": "Solicitud de Partida - Municipalidad San Miguel",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T12:58:45.041Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horarios de atención: De Lunes a Viernes de 8:00 a 16:00 hs",
+    "Si el trámite requiere turno, no se especifica en el texto."
+  ]
+}

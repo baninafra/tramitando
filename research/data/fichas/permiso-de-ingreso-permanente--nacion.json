@@ -1,0 +1,167 @@
+{
+  "tramite": {
+    "slug": "permiso-de-ingreso-permanente",
+    "nombre": "Permiso de ingreso permanente",
+    "nombre_busqueda": "Permiso de ingreso permanente",
+    "resumen": "Permiso de ingreso permanente para hijos de argentinos nativos, naturalizados o por opción que hayan nacido en el extranjero.",
+    "sinonimos": [],
+    "temas": [
+      "migraciones-y-extranjeria",
+      "residencias-temporarias-y-permanentes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Migraciones",
+    "sigla": "DNM",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Hijos de argentinos nativos, naturalizados o por opción que hayan nacido en el extranjero.",
+      "El llamante solicitante: progenitor argentino nativo, naturalizado o por opción del ingresante.",
+      "El apoderado del llamante solicitante, con poder suficiente para actuar ante la DNM."
+    ],
+    "requisitos": [
+      {
+        "texto": "Poder otorgado por el requirente, con facultades suficientes para actuar ante la DNM (original y copia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI vigente del apoderado (original y copia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI, con domicilio actualizado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de domicilio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Carta de ciudadanía, en el caso de que el dador de criterio sea argentino naturalizado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que acredite la solvencia económica del llamante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Últimos tres (3) recibos de haberes, en caso de trabajar en relación de dependencia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación contable de ingresos y egresos, correspondiente a los últimos tres meses, legalizada por el Consejo Profesional de Ciencias Económicas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Toda otra documentación que acredite sus ingresos, en caso de ser trabajador autónomo o monotributista.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota que será suscripta ante el agente migratorio al momento de iniciar el trámite, o certificación de firma realizada ante escribano público con su respectiva legalización.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI actualizado, documentación que pruebe el vínculo con el llamante (acta de nacimiento, matrimonio o certificación de unión convivencial), y certificado de domicilio, ya que deberá compartir el mismo domicilio del llamante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de solicitud, con los datos personales de ingresante: Nombre / Apellido / Fecha de nacimiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de pasaporte o documento de identidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "País de nacimiento / Nacionalidad / Estado civil.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Profesión / Nivel de estudios.",
+        "aclaracion": null
+      },
+      {
+        "texto": "País y ciudad donde reside.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Consulado donde visará su pasaporte.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio donde residirán los extranjeros.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Detalle de las prestaciones que tomará a su cargo el solicitante (vivienda, viáticos, etc.).",
+        "aclaracion": null
+      },
+      {
+        "texto": "La nota de solicitud deberá ser suscripta por el llamante o el apoderado del llamante al momento de solicitar el permiso de ingreso, en presencia del agente migratorio, quien certificará su firma.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia completa y actualizada del pasaporte válido y vigente del ingresante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Partida de nacimiento, debidamente legalizada o apostillada por el Consulado Argentino en el país de origen.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de estar redactada en un idioma distinto del español, deberá estar traducida por un traductor público nacional y legalizada por el Colegio de Traductores.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la nota de solicitud con documentación correcta y completa en la Dirección Nacional de Migraciones: Av. Antártida Argentina 1355 - CABA, o en las delegaciones de todo el país."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Migraciones",
+      "direccion": "Av. Antártida Argentina 1355 - CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/permiso-de-ingreso-permanente"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/permiso-de-ingreso-permanente",
+      "titulo": "Permiso de Ingreso Permanente | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T00:03:21.074Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T00:03:21.074Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa migratoria no se especifica en el texto, solo se indica que se debe consultar el cuadro de tasas.",
+    "El plazo de resolución del trámite no se especifica en el texto."
+  ]
+}

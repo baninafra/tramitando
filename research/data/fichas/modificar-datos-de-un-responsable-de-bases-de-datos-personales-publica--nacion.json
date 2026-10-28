@@ -1,0 +1,91 @@
+{
+  "tramite": {
+    "slug": "modificar-datos-de-un-responsable-de-bases-de-datos-personales-publica",
+    "nombre": "Modificar datos de un responsable de bases de datos personales pública",
+    "nombre_busqueda": "Modificar datos responsable base de datos pública",
+    "resumen": "Actualizá los datos de un responsable de bases de datos personales pública en el Registro Nacional de forma gratuita y en línea.",
+    "sinonimos": [],
+    "temas": [
+      "acceso-a-la-informacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Los responsables de bases de datos personales públicas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de registro del responsable de la base de datos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUIT/CUIL del responsable inscripto en el Registro de Responsable de Base de Datos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La denominación del Ente u Organismo registrante tal cual fue registrada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave fiscal nivel 2 o superior de la AFIP o Apoderamiento en Trámites a distancia para realizar el registro.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma Trámites a Distancia con clave fiscal nivel 2 o superior de la AFIP."
+      },
+      {
+        "texto": "Buscá e ingresá en el trámite Modificación de datos Responsable Registro Nacional de Bases de Datos."
+      },
+      {
+        "texto": "Dirigite a iniciar el trámite."
+      },
+      {
+        "texto": "Ingresá el número de registro del responsable."
+      },
+      {
+        "texto": "Modificá los datos necesarios."
+      },
+      {
+        "texto": "Confirmá el trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si necesitás recuperar el número de registro, ingresá a TAD y dirigite a la solapa Notificaciones.",
+      "El correo electrónico informado es el dato válido para cualquier comunicación, así que verificá que esté correctamente informado en el apartado datos del solicitante de Trámites a distancia.",
+      "El dato de CUIT/CUIL no permite modificaciones una vez registrado porque es el utilizado para identificar al responsable de forma unívoca.",
+      "En caso que existan observaciones, el responsable será contactado a través del correo electrónico informado."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/modificar-datos-de-un-responsable-de-bases-de-datos-personales-publica",
+      "titulo": "Modificar datos de un responsable de bases de datos personales pública | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T06:18:21.754Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Vigencia: Con el fin de mantener actualizado el registro, vas a tener que modificar los datos cada vez que se produzca un cambio en la información que declaraste."
+  ]
+}

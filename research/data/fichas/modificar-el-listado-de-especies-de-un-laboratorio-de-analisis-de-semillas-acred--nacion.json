@@ -1,0 +1,98 @@
+{
+  "tramite": {
+    "slug": "modificar-listado-especies-laboratorio-analisis-semillas",
+    "nombre": "Modificar el listado de especies de un laboratorio de análisis de semillas acreditado",
+    "nombre_busqueda": "Modificar listado especies laboratorio semillas",
+    "resumen": "El Responsable Técnico de un laboratorio acreditado puede solicitar la inclusión o baja de especies mediante la carga de formularios y notas de declaración en la mesa de entradas digital, seguido del envío de comprobante de pago y documentación al INASE.",
+    "sinonimos": [],
+    "temas": [
+      "bromatologia-y-alimentos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto Nacional de Semillas",
+    "sigla": "INASE",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Al Responsable Técnico de un laboratorio de análisis de semillas acreditado que requiera modificar el listado de especies."
+    ],
+    "requisitos": [
+      {
+        "texto": "Estar inscripto en el Registro Nacional de Comercio y Fiscalización de Semillas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago del trámite.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Listado de especies.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Listado de equipamiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de declaración del Responsable Técnico informando las modificaciones realizadas en el formulario de modificación del listado de especies, la misma debe incluir el número de inscripto en el RNCyFS.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Descargá, completá y cargá a través de la mesa de entradas digital los Formularios y la nota de declaración, siguiendo los pasos descriptos en el Instructivo Carga de Documentos en TAD."
+      },
+      {
+        "texto": "Una vez realizada la carga, enviá por correo electrónico a [email protected] el número de trámite que le brindará el sistema junto con el comprobante de pago del trámite, de lo contrario no se podrá realizar el seguimiento de la documentación."
+      },
+      {
+        "texto": "De ser aceptada la modificación solicitada, serás notificado formalmente de la misma. En caso de ser rechazada, teniendo en cuenta los motivos de rechazo podrás iniciar el trámite nuevamente desde el punto A."
+      },
+      {
+        "texto": "Exponé al público el nuevo FO 175 Listado de especies."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "30 días",
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 3753300,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/modificar-el-listado-de-especies-de-un-laboratorio-de-analisis-de-semillas-acreditado"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/modificar-el-listado-de-especies-de-un-laboratorio-de-analisis-de-semillas-acreditado",
+      "titulo": "Modificar el listado de especies de un laboratorio de análisis de semillas acreditado | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T06:21:54.936Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de Evaluación de Calidad del INASE",
+    "Email de contacto: [email protected]",
+    "Link de la mesa de entradas digital",
+    "Link del Instructivo Carga de Documentos en TAD",
+    "Vigencia exacta del trámite"
+  ]
+}

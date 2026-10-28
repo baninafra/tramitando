@@ -1,0 +1,82 @@
+{
+  "tramite": {
+    "slug": "planes-de-vivienda-social",
+    "nombre": "Vivienda Social",
+    "nombre_busqueda": "Vivienda Social",
+    "resumen": "Trámite para acceder a la vivienda social mediante evaluación del grupo familiar. Es gratuito y requiere presentación en la Subsecretaria de Vivienda.",
+    "sinonimos": [],
+    "temas": [
+      "planes-de-vivienda-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060063",
+  "organismo": {
+    "nombre": "Municipalidad de Balcarce",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Toda persona física"
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia del DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI del grupo familiar",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos personales",
+        "aclaracion": null
+      },
+      {
+        "texto": "No poseer inmuebles a su nombre",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentarse en Subsecretaria de Vivienda"
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Subsecretaria de Vivienda",
+      "direccion": "Av. Favaloro N 815",
+      "localidad": "Av. Favaloro N 815",
+      "horario": null,
+      "fuente_url": "https://balcarce-app.gob.ar/portal_servicios/servicio/vivienda-social"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://balcarce-app.gob.ar/portal_servicios/servicio/vivienda-social",
+      "titulo": "Portal de Servicios | Modernizacion Balcarce",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "costo",
+        "donde",
+        "consejos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T11:35:15.253Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica si requiere turno",
+    "No se especifica el plazo de espera o duración del trámite",
+    "No se especifica la vigencia desde una fecha concreta"
+  ]
+}

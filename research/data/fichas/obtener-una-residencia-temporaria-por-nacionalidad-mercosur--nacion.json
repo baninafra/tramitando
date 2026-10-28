@@ -1,0 +1,105 @@
+{
+  "tramite": {
+    "slug": "residencia-temporaria-mercosur",
+    "nombre": "Obtener residencia temporaria por nacionalidad Mercosur",
+    "nombre_busqueda": "Residencia temporaria Mercosur",
+    "resumen": "Permite permanecer en el país por dos años a nacionales nativos de países del Mercosur o con nacionalidad de cinco años en Brasil, Paraguay, Uruguay, Bolivia, Chile, Colombia, Ecuador, Perú o Venezuela, Guyana o Surinam.",
+    "sinonimos": [],
+    "temas": [
+      "residencias-temporarias-y-permanentes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Migraciones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Nacionales nativos de Uruguay, Brasil, Paraguay, Bolivia, Chile, Perú, Ecuador, Colombia, Venezuela, Guyana o Surinam.",
+      "Nacionales de países no Mercosur con nacionalidad de al menos cinco años en Brasil, Paraguay, Uruguay, Bolivia, Chile, Colombia, Ecuador, Perú o Venezuela."
+    ],
+    "requisitos": [
+      {
+        "texto": "Pasaporte válido y vigente o documento de viaje del MERCOSUR.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Antecedentes Penales Argentinos (solo para mayores de 16 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de no condenas penales de los países donde haya residido por más de un año en los últimos tres años (solo para mayores de 16 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Partida de nacimiento legalizada o apostillada (para menores de 18 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización de los padres o tutor designado (para menores de 18 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación original.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sistema RaDEX y registrate como usuario."
+      },
+      {
+        "texto": "Completá el formulario de solicitud y aboná las tasas correspondientes."
+      },
+      {
+        "texto": "Adjuntá la documentación y datos requeridos según el tipo de residencia."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate al momento de la cita con la documentación original y el Certificado de Antecedentes Penales Argentinos si aplica."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La residencia se otorga por un plazo máximo de dos años, prorrogable.",
+      "Si tenés cita preferencial, podés abonar un monto adicional."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-una-residencia-temporaria-por-nacionalidad-mercosur",
+      "titulo": "Obtener una residencia temporaria por nacionalidad - Mercosur | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T22:29:37.042Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-26T22:29:37.042Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de las tasas migratorias no está especificado en el texto.",
+    "La fecha de vigencia de la resolución o decreto que regula el trámite no está especificada en el texto."
+  ]
+}

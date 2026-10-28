@@ -1,0 +1,76 @@
+{
+  "tramite": {
+    "slug": "libreta-sanitaria-simple",
+    "nombre": "Libreta Sanitaria Simple",
+    "nombre_busqueda": "Libreta sanitaria simple",
+    "resumen": "Trámite municipal para obtener o renovar la libreta sanitaria mediante atención programada en Centros de Atención Primaria de Salud (CAPS), en modalidad simple y con turno previo.",
+    "sinonimos": [],
+    "temas": [
+      "carnet-sanitario"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060028",
+  "organismo": {
+    "nombre": "Municipio de Almirante Brown",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Trabajadores que requieren certificación sanitaria."
+    ],
+    "requisitos": [
+      {
+        "texto": "Sacar turno.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentarse con DNI.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Aboná el Derecho de Oficina."
+      },
+      {
+        "texto": "Presentate en el CAPS con el turno y tu DNI."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Centro de Atención Primaria de Salud N° 18",
+      "direccion": "Calle Pte. Perón 888",
+      "localidad": "Burzaco",
+      "horario": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/libreta-sanitaria-simple/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.brown.gob.ar/tramites/libreta-sanitaria-simple/",
+      "titulo": "Libreta Sanitaria Simple con Turno En Caps",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T02:01:25.709Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto del Derecho de Oficina no se especifica en el texto.",
+    "La fecha de vigencia del trámite no se especifica en el texto.",
+    "La URL para sacar el turno no se especifica en el texto."
+  ]
+}

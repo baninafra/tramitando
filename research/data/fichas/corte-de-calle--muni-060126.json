@@ -1,0 +1,81 @@
+{
+  "tramite": {
+    "slug": "cortes-y-uso-de-la-via-publica",
+    "nombre": "Solicitud de autorización para corte de calle por eventos u obras",
+    "nombre_busqueda": "Solicitud de corte de calle",
+    "resumen": "Para cortar la calle necesitás iniciar la solicitud en mesa de entradas con una nota que incluya las calles, días y horarios a cortar, presentando la documentación requerida y abonando la tasa correspondiente.",
+    "sinonimos": [
+      "Permiso de corte de calle",
+      "Autorización para cortar calle"
+    ],
+    "temas": [
+      "cortes-y-uso-de-la-via-publica"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060126",
+  "organismo": {
+    "nombre": "Municipalidad de Campana",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Vecinos con domicilio en Campana"
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota solicitando el permiso, calles, días y horarios a cortar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia DNI",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Iniciá la solicitud en mesa de entradas presentando una nota con 72hs. de anticipación."
+      },
+      {
+        "texto": "Solicitá turno para ser atendido aquí."
+      },
+      {
+        "texto": "Aboná la tasa correspondiente vigente al momento de solicitar el corte."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.campana.gob.ar/corte-de-calle/",
+      "titulo": "Corte de calle – Municipalidad de Campana",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-28T09:49:20.288Z"
+    },
+    {
+      "url": "https://www.campana.gob.ar/turnos/",
+      "titulo": "Turnos, reclamos y solicitudes – Municipalidad de Campana",
+      "bloques": [
+        "quien",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T09:49:20.288Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa no se especifica en el texto.",
+    "La fecha de vigencia de la resolución o normativa no se especifica en el texto."
+  ]
+}

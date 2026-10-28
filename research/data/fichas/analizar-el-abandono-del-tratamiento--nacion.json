@@ -1,0 +1,78 @@
+{
+  "tramite": {
+    "slug": "analizar-abandono-tratamiento",
+    "nombre": "Analizar el abandono del tratamiento",
+    "nombre_busqueda": "Analizar abandono tratamiento SRT",
+    "resumen": "Trámite gratuito para trabajadores damnificados que la ART considera que abandonaron el tratamiento médico, destinado a suspender prestaciones dinerarias por negativa injustificada.",
+    "sinonimos": [
+      "Suspensión prestaciones por abandono tratamiento",
+      "Abandono tratamiento SRT"
+    ],
+    "temas": [
+      "salud-y-prevencion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Riesgos del Trabajo",
+    "sigla": "SRT",
+    "web": "https://www.argentina.gob.ar/srt"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Trabajadores damnificados que la ART considera que abandonaron el tratamiento médico."
+    ],
+    "requisitos": [
+      {
+        "texto": "Iniciar el trámite mediante el Sistema de Ventanilla Electrónica (V.E.) establecido por las Resoluciones N°635/2008 y 365/2009.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si hay desacuerdo con lo resuelto con CMJ, completar el Formulario de Apelación dentro de los 5 días hábiles desde que lo recibiste.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si hay desacuerdo con la resolución de CMC, presentar la apelación ante los tribunales de alzada con competencia en lo laboral, excepto en CABA.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá el trámite mediante el Sistema de Ventanilla Electrónica (V.E.)."
+      },
+      {
+        "texto": "Seguí las instrucciones del sistema para completar la solicitud de análisis del abandono del tratamiento."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si estás en desacuerdo con lo resuelto con CMJ, podés apelar completando el Formulario de Apelación dentro de los 5 días hábiles desde que lo recibiste.",
+      "En caso de que estés en desacuerdo con la resolución de CMC, deberás presentar la apelación ante los tribunales de alzada con competencia en lo laboral, excepto en CABA."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/analizar-el-abandono-del-tratamiento",
+      "titulo": "Analizar el abandono del tratamiento | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T14:56:09.523Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La información sobre cómo iniciar el trámite mediante el Sistema de Ventanilla Electrónica (V.E.) no especifica los pasos detallados ni los requisitos técnicos necesarios para acceder al sistema."
+  ]
+}

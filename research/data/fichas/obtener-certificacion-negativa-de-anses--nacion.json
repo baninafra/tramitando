@@ -1,0 +1,68 @@
+{
+  "tramite": {
+    "slug": "obtener-certificacion-negativa-de-anses",
+    "nombre": "Obtener certificación negativa de ANSES",
+    "nombre_busqueda": "Certificación negativa ANSES",
+    "resumen": "Es un comprobante gratuito que certifica que no recibís aportes o prestaciones de ANSES. Tiene una validez de 30 días y se obtiene en línea con tu CUIL.",
+    "sinonimos": [
+      "Certificación negativa ANSES",
+      "Constancia de no recibir prestaciones ANSES"
+    ],
+    "temas": [
+      "cuil-y-clave-de-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración Nacional de Servicios Sociales para Jubilados y Pensionados",
+    "sigla": "ANSES",
+    "web": "https://www.argentina.gob.ar/servicio/obtener-certificacion-negativa-de-anses"
+  },
+  "contenido": {
+    "quien_puede": [
+      "A cualquier persona que la solicite."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tu número de CUIL",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a Certificación negativa de ANSES."
+      },
+      {
+        "texto": "Completá el formulario con tu número de CUIL y el período por el que pedís la certificación."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La certificación negativa obtenida a través de la página web de ANSES no requiere sello o firma de un agente del organismo."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-certificacion-negativa-de-anses",
+      "titulo": "Obtener Certificación Negativa de ANSES | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T00:29:52.015Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el plazo de entrega o tiempo de procesamiento."
+  ]
+}

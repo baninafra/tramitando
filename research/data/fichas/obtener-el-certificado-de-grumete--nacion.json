@@ -1,0 +1,91 @@
+{
+  "tramite": {
+    "slug": "obtener-el-certificado-de-grumete",
+    "nombre": "Obtener el certificado de grumete",
+    "nombre_busqueda": "certificado de grumete",
+    "resumen": "Para navegar en embarcaciones deportivas de hasta 7 metros en el Río de la Plata, necesitás cumplir 18 años, aprobar exámenes y presentar documentación específica en la Prefectura Naval.",
+    "sinonimos": [
+      "certificado náutico deportivo",
+      "certificado de navegación deportiva"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Prefectura Naval Argentina",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personal que haya cumplido los 18 años de edad."
+    ],
+    "requisitos": [
+      {
+        "texto": "Exhibir Documento Nacional de Identidad ó DNI Extranjero (Nacionalizado) y fotocopia del mismo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Programa de examen para categoría grumete, aprobar los correspondientes exámenes y una copia del Libro del Actas donde conste aprobación del examen teórico y práctico, extendida por el Club Náutico donde se realizó.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado médico que acredite aptitud psicofísica y audiovisual para la práctica de la navegación deportiva, donde se consigne nombre completo, DNI, grupo sanguíneo, factor RH y padecimiento de algún tipo de alergia, de corresponder.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DOS (2) fotografías color, actualizadas, de frente, fondo celeste, tamaño carnet, sin anteojos salvo que sean recetados para uso permanente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Gestioná el pago desde la web Gestión de pagos-Pagos de aranceles."
+      },
+      {
+        "texto": "Rendir los Exámenes Teórico-Prácticos."
+      },
+      {
+        "texto": "Finalizá el trámite al realizar el pago del arancel."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación en la Prefectura Jurisdiccional más cercana a tu domicilio."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-el-certificado-de-grumete",
+      "titulo": "Obtener el certificado de Grumete | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T06:16:11.428Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/prefecturanaval/aranceles",
+      "titulo": "Aranceles | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T06:16:11.428Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Consultar: Cuadro Tarifario de Aranceles Acorde valores establecidos, Decreto 2756/75."
+  ]
+}

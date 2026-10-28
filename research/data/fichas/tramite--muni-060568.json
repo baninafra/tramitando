@@ -1,0 +1,76 @@
+{
+  "tramite": {
+    "slug": "generar-planes-de-pago-o-simulaciones",
+    "nombre": "Generar planes de pago o simulaciones",
+    "nombre_busqueda": "generar un plan de pago o una simulación",
+    "resumen": "Si sos gran contribuyente, podés generar un plan de pago o una simulación en forma presencial en la oficina de Grandes Contribuyentes.",
+    "sinonimos": [],
+    "temas": [
+      "planes-de-pago-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060568",
+  "organismo": {
+    "nombre": "Municipio de Morón",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Grandes contribuyentes."
+    ],
+    "requisitos": [
+      {
+        "texto": "Presentá tu DNI o un poder de representación.",
+        "aclaracion": "Si sos persona física."
+      },
+      {
+        "texto": "Presentá un poder de representación y el DNI de quien te representa.",
+        "aclaracion": "Si sos persona jurídica."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en la oficina de Grandes Contribuyentes para generar el plan de pago o la simulación."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La atención es de lunes a viernes, de 8:00 a 14:00."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Grandes Contribuyentes",
+      "direccion": "Planta baja, sector Tasas",
+      "localidad": "Planta baja, sector Tasas",
+      "horario": null,
+      "fuente_url": "https://www.moron.gob.ar/grandes-contribuyentes-generar-de-planes-de-pago-o-simulaciones-de-los-mismos/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.moron.gob.ar/grandes-contribuyentes-generar-de-planes-de-pago-o-simulaciones-de-los-mismos/",
+      "titulo": "GRANDES CONTRIBUYENTES – Generar de planes de pago o simulaciones de los mismos - Municipio de Morón",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde",
+        "consejos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T15:30:28.905Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa si se necesita turno.",
+    "No se informa el costo.",
+    "No se informa el plazo del trámite."
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "tramite": {
+    "slug": "solicitar-traslados-en-ambulancia-o-movil-pami-inssjp",
+    "nombre": "Solicitar traslados en ambulancia o móvil PAMI",
+    "nombre_busqueda": "Solicitar traslados ambulancia PAMI",
+    "resumen": "Podés solicitar traslados programados a PAMI si necesitás realizarte diagnósticos o terapias y no podés movilizarte. El médico tratante debe ordenarlo y llenar el formulario.",
+    "sinonimos": [
+      "Solicitar traslado ambulancia PAMI",
+      "Pedir movilización PAMI"
+    ],
+    "temas": [
+      "cuidados-domiciliarios-y-salud-mental",
+      "discapacidad-y-accesibilidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "PAMI",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Afiliados a PAMI que requieran servicios de diagnósticos y terapéuticos y se encuentren imposibilitadas temporalmente para movilizarse."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento Nacional de Identidad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Credencial de afiliación",
+        "aclaracion": null
+      },
+      {
+        "texto": "Orden de traslado del médico/a tratante",
+        "aclaracion": null
+      },
+      {
+        "texto": "Turno asignado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de Solicitud de Traslado Programado confeccionado por médico/a tratante donde se especificará la condición del traslado y los requerimientos técnicos para el mismo (se excluye CABA y GBA)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Orden de Prestación en caso de traslados de más de 30 km (se excluye CABA y GBA)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio web de Pami."
+      },
+      {
+        "texto": "Hacé clic en el botón Iniciar este trámite web."
+      },
+      {
+        "texto": "Completá los datos."
+      },
+      {
+        "texto": "Hacé clic en el botón Enviar formulario."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-traslados-en-ambulancia-o-movil-pami-inssjp",
+      "titulo": "Solicitar traslados en ambulancia o móvil a PAMI (INSSJP) | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T10:36:13.110Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T10:36:13.110Z"
+    }
+  ],
+  "sin_confirmar": [
+    "¿Cómo se saca el turno?",
+    "¿Dónde se puede realizar el trámite presencial si no es online?",
+    "¿Cuánto tarda en resolverse la solicitud?"
+  ]
+}

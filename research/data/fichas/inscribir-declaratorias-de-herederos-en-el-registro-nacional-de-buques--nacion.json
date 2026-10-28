@@ -1,0 +1,154 @@
+{
+  "tramite": {
+    "slug": "inscripcion-declaratorias-de-herederos-buques",
+    "nombre": "Inscribir declaratorias de herederos en el registro nacional de buques",
+    "nombre_busqueda": "Inscribir declaratorias de herederos buques",
+    "resumen": "Los herederos o abogados deben presentar un oficio judicial con firma digital y abonar un arancel para registrar la declaratoria de herederos en el Registro Nacional de Buques.",
+    "sinonimos": [
+      "Inscripción declaratorias herederos buques",
+      "Registro declaratorias herederos RNBM"
+    ],
+    "temas": [
+      "legalizaciones-y-apostillados"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Prefectura Naval Argentina",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Herederos",
+      "Abogados"
+    ],
+    "requisitos": [
+      {
+        "texto": "Oficio judicial que ajuste al artículo 8º de la Ley Nº 19.170",
+        "aclaracion": null
+      },
+      {
+        "texto": "Original del oficio (preferentemente en soporte electrónico) con firma digital verificable",
+        "aclaracion": null
+      },
+      {
+        "texto": "Oficio firmado por Juez o Secretario proveniente de juzgados de la Provincia de Buenos Aires debe contener Código QR",
+        "aclaracion": null
+      },
+      {
+        "texto": "Orden judicial con lugar y fecha",
+        "aclaracion": null
+      },
+      {
+        "texto": "Carátula de los autos",
+        "aclaracion": null
+      },
+      {
+        "texto": "Juzgado, Secretaría interviniente y su correo electrónico",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombre completo del causante",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombre y número de Matrícula del buque",
+        "aclaracion": null
+      },
+      {
+        "texto": "Trascripción del auto de la declaratoria de herederos o del testamento y el auto de aprobación",
+        "aclaracion": null
+      },
+      {
+        "texto": "Trascripción del documento por el que se efectúe y del auto que apruebe la partición y adjudicación",
+        "aclaracion": null
+      },
+      {
+        "texto": "Transcripción del auto o providencia que ordena el libramiento del oficio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos personales completos de los herederos (Nombre y Apellido, nacionalidad, fecha de nacimiento, DNI, estado civil, nupcias, nombre y apellido de cónyuge, domicilio real incluyendo localidad y provincia, CUIT/CUIL)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Firma del magistrado oficiante (ológrafa o digital) o del Secretario con transcripción del auto que ordena la medida",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el DEOX es firmado por letrado autorizado, Oficio firmado digitalmente por el Juez de la causa",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Comunicarse telefónicamente al Registro Nacional de Buques- Mesa de Entradas al teléfono 4318-7400/7500, internos 2104/06"
+      },
+      {
+        "texto": "Enviar correo electrónico a la casilla rnbumail@prefecturanaval.gob.ar"
+      },
+      {
+        "texto": "Concurrir personalmente de lunes a viernes, en el horario de 8 a 13"
+      },
+      {
+        "texto": "Indicar número de CUIT/CUIL para requerir la liquidación del arancel"
+      },
+      {
+        "texto": "Abonar el arancel equivalente al 1 por mil del valor asignado al buque, con el monto mínimo vigente al momento del pago"
+      },
+      {
+        "texto": "El personal de la División Contralor y Verificación Registral o de la Dependencia del interior del país comprobará la procedencia de lo solicitado y analizará los aspectos formales del documento"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "30 días hábiles",
+    "consejos": [
+      "El trámite lleva 30 días hábiles desde que el Oficio Judicial ingresa al Organismo para su registración",
+      "La contestación se hace directamente al Juzgado interviniente a la casilla de correo electrónico informada en el documento"
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 655000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-declaratorias-de-herederos-en-el-registro-nacional-de-buques"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 262000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-declaratorias-de-herederos-en-el-registro-nacional-de-buques"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribir-declaratorias-de-herederos-en-el-registro-nacional-de-buques",
+      "titulo": "Inscribir declaratorias de herederos en el registro nacional de buques | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T16:48:07.381Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de la oficina",
+    "Horario completo de atención",
+    "Valor asignado al buque para cálculo del arancel",
+    "Fecha de vigencia del arancel mínimo de $ 6.550"
+  ]
+}

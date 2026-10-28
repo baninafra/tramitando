@@ -1,0 +1,112 @@
+{
+  "tramite": {
+    "slug": "certificado-urbanistico",
+    "nombre": "Certificado urbanístico",
+    "nombre_busqueda": "Certificado urbanístico",
+    "resumen": "Permite obtener un certificado de aptitud para la implementación de un conjunto de viviendas de interés social o realizar una nueva urbanización.",
+    "sinonimos": [],
+    "temas": [
+      "obras-y-construccion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060245",
+  "organismo": {
+    "nombre": "Municipalidad de Ensenada",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Entes privados o públicos que deseen levantar un conjunto de viviendas o realizar una nueva urbanización.",
+      "Quienes lleven adelante el proyecto, en forma directa o bien a través de sus apoderados o representantes."
+    ],
+    "requisitos": [
+      {
+        "texto": "Carpeta o informe detallado con la descripción del proyecto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Municipal TV",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el expediente en la Mesa de Entradas."
+      },
+      {
+        "texto": "Realizá el pago del timbrado en la Secretaría de Hacienda."
+      },
+      {
+        "texto": "Recibí el Certificado Urbanístico de Aptitud firmado por personal competente en la Subdirección de Planeamiento."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "Entre 5 y 10 días, dependiendo de los datos con los que se cuente.",
+    "consejos": [
+      "En algunos casos es necesario realizar relevamientos in situ o mediciones detalladas.",
+      "El trámite toma aproximadamente 15 minutos."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 500,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.ensenada.gov.ar/certificado-urbanistico/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Subdirección de Planeamiento",
+      "direccion": "Don Bosco esq. La Merced",
+      "localidad": "Don Bosco esq. La Merced",
+      "horario": null,
+      "fuente_url": "https://www.ensenada.gov.ar/certificado-urbanistico/"
+    },
+    {
+      "nombre": "Secretaría de Hacienda",
+      "direccion": "San Martín esq. Pte. Perón",
+      "localidad": "San Martín esq. Pte. Perón",
+      "horario": null,
+      "fuente_url": "https://www.ensenada.gov.ar/certificado-urbanistico/"
+    },
+    {
+      "nombre": "Mesa de Entradas",
+      "direccion": "Don Bosco esq. La Merced",
+      "localidad": "Don Bosco esq. La Merced",
+      "horario": null,
+      "fuente_url": "https://www.ensenada.gov.ar/certificado-urbanistico/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.ensenada.gov.ar/certificado-urbanistico/",
+      "titulo": "CERTIFICADO URBANÍSTICO – Municipalidad de Ensenada",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T23:18:58.383Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horario de atención de las oficinas.",
+    "Vigencia del trámite.",
+    "Requisitos específicos para casos especiales (menores, extranjeros, etc.)."
+  ]
+}

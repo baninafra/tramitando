@@ -1,0 +1,98 @@
+{
+  "tramite": {
+    "slug": "vacunacion",
+    "nombre": "Vacunación contra el dengue",
+    "nombre_busqueda": "Vacuna dengue Alta Gracia",
+    "resumen": "La vacuna contra el dengue es gratuita para vecinos de 15 a 59 años. Requiere DNI y notificación del CIDI para menores. Se aplica en centros de salud municipales con horarios específicos.",
+    "sinonimos": [
+      "Vacuna contra el dengue",
+      "Vacunación dengue",
+      "Prevención dengue"
+    ],
+    "temas": [
+      "vacunacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141372",
+  "organismo": {
+    "nombre": "Municipalidad de Alta Gracia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Vecinos y vecinas de 15 a 59 años.",
+      "Menores de 4 a 14 años que hayan cursado la enfermedad con internación y reciban aviso por Ciudadano Digital."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Notificación del CIDI.",
+        "aclaracion": "Solo para menores de 4 a 14 años."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Concurrá al Centro de Salud Municipal correspondiente en los horarios establecidos."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Centro de Salud N°1",
+      "direccion": "B° Villa Oviedo",
+      "localidad": "B° Villa Oviedo",
+      "horario": null,
+      "fuente_url": "https://altagracia.gob.ar/subareas/vacunacion/"
+    },
+    {
+      "nombre": "Centro de Salud N°2",
+      "direccion": "B° Córdoba",
+      "localidad": "B° Córdoba",
+      "horario": null,
+      "fuente_url": "https://altagracia.gob.ar/subareas/vacunacion/"
+    },
+    {
+      "nombre": "Centro de Salud N°3",
+      "direccion": "Ramón Carrillo",
+      "localidad": "Ramón Carrillo",
+      "horario": null,
+      "fuente_url": "https://altagracia.gob.ar/subareas/vacunacion/"
+    },
+    {
+      "nombre": "Centro de Salud N°8",
+      "direccion": "B° Parque Virrey",
+      "localidad": "B° Parque Virrey",
+      "horario": null,
+      "fuente_url": "https://altagracia.gob.ar/subareas/vacunacion/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://altagracia.gob.ar/subareas/vacunacion/",
+      "titulo": "Vacunación – Municipalidad de Alta Gracia",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T12:00:00.191Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horarios exactos de atención por centro de salud.",
+    "Ubicación exacta de los centros de salud."
+  ]
+}

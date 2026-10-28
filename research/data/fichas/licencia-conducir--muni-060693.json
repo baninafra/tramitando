@@ -1,0 +1,68 @@
+{
+  "tramite": {
+    "slug": "licencia-de-conducir",
+    "nombre": "Licencia de conducir",
+    "nombre_busqueda": "Licencia de conducir",
+    "resumen": "Para obtener o renovar la licencia de conducir en Roque Pérez, necesitás DNI, constancia de grupo sanguíneo y, si tenés licencia de otra jurisdicción, certificado de legalidad.",
+    "sinonimos": [],
+    "temas": [
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060693",
+  "organismo": {
+    "nombre": "Municipalidad de Roque Pérez",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que cumpla los requisitos de otorgamiento o renovación."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de grupo sanguíneo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Licencia anterior",
+        "aclaracion": "Solo para renovación."
+      },
+      {
+        "texto": "Certificado de legalidad",
+        "aclaracion": "Solo si la licencia es de otra jurisdicción."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.roqueperez.gob.ar/content/licencia-conducir",
+      "titulo": "Licencia de conducir",
+      "bloques": [
+        "quien",
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-28T10:01:13.789Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se especifica que se requiere constancia de grupo sanguíneo para otorgamiento y renovación, pero no se detalla si se debe hacer en el momento del trámite o si hay un plazo previo.",
+    "No se indica si el trámite se realiza en línea o presencialmente.",
+    "No se especifica si se requiere sacar turno para realizar el trámite.",
+    "No se menciona si se puede realizar el trámite en cualquier oficina municipal o si hay una ubicación específica.",
+    "No se indica si se requiere pago de tasas o costos para el trámite."
+  ]
+}

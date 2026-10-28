@@ -1,0 +1,92 @@
+{
+  "tramite": {
+    "slug": "alta-en-seguridad-e-higiene-para-proveedores",
+    "nombre": "Alta en seguridad e higiene para proveedores",
+    "nombre_busqueda": "Alta seguridad e higiene proveedores",
+    "resumen": "Trámite para registrar proveedores en el Régimen General de Seguridad e Higiene (R.G.S.H.) ante la Secretaría de Hacienda.",
+    "sinonimos": [],
+    "temas": [
+      "emprendedores-y-monotributo",
+      "monotributo-social-y-general",
+      "cuil-y-clave-de-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060658",
+  "organismo": {
+    "nombre": "Secretaría de Hacienda",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Proveedores que deseen ingresar al Régimen General de Seguridad e Higiene."
+    ],
+    "requisitos": [
+      {
+        "texto": "Copia del DNI o CUIL del proveedor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del CUIL del proveedor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del certificado de alta en el Régimen General de Seguridad e Higiene.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal de trámites de Mi Quilmes Digital."
+      },
+      {
+        "texto": "Buscá el trámite 'Alta en Seguridad e Higiene para proveedores'."
+      },
+      {
+        "texto": "Completá los datos requeridos y cargá los documentos."
+      },
+      {
+        "texto": "Realizá el pago de la tasa correspondiente."
+      },
+      {
+        "texto": "Recibí el comprobante de pago y la confirmación del trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1250000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://mi.quilmes.gov.ar/tramites/89/alta-en-seguridad-e-higiene-para-proveedores"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mi.quilmes.gov.ar/tramites/89/alta-en-seguridad-e-higiene-para-proveedores",
+      "titulo": "Alta en Seguridad e Higiene para proveedores",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "costo",
+        "quien",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T14:06:41.564Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere verificar si el trámite se puede realizar completamente por internet o si hay pasos presenciales obligatorios.",
+    "Se requiere confirmar el plazo de resolución del trámite.",
+    "Se requiere confirmar si se requiere turno para la presentación de documentos."
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "tramite": {
+    "slug": "adopcion-responsable-de-mascotas",
+    "nombre": "Adopción de mascotas",
+    "nombre_busqueda": "adoptar un perro en La Costa",
+    "resumen": "Comunicate con el área de Cuidado Animal para coordinar un encuentro con el equipo y conocer a los perros en adopción. Todos se entregan con las vacunas al día, castrados y desparasitados.",
+    "sinonimos": [
+      "adoptar una mascota",
+      "adoptar un perro"
+    ],
+    "temas": [
+      "registro-de-mascotas-y-adopcion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060420",
+  "organismo": {
+    "nombre": "Área de Cuidado Animal",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés comunicarte con el área de Cuidado Animal para coordinar un encuentro con el equipo."
+    ],
+    "requisitos": [
+      {
+        "texto": "La página no indica requisitos para adoptar.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Comunicate con el área de Cuidado Animal por teléfono, de lunes a viernes de 9 a 14, para coordinar un encuentro con el equipo."
+      },
+      {
+        "texto": "Coordiná el encuentro con el equipo."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Todos los perros se entregan con las vacunas al día, castrados y desparasitados.",
+      "El equipo ofrece apoyo y seguimiento para brindarte información sobre el cuidado del animal."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://lacosta.gob.ar/adoptatumascota/",
+      "titulo": "La Costa » Adopta tu mascota - La Costa",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:04:33.414Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La página no especifica requisitos, costos, plazos ni si hace falta sacar turno.",
+    "La página no indica una dirección para realizar el encuentro."
+  ]
+}

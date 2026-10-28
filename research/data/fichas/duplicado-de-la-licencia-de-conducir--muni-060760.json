@@ -1,0 +1,139 @@
+{
+  "tramite": {
+    "slug": "duplicado-de-la-licencia-de-conducir",
+    "nombre": "Duplicado de la licencia de conducir",
+    "nombre_busqueda": "Duplicado licencia conducir san miguel",
+    "resumen": "Solicitá un duplicado de la licencia de conducir si la perdés o la roban. Tenés que sacar turno, hacer un control psicofísico y pagar una tasa.",
+    "sinonimos": [
+      "Reemplazo licencia",
+      "Licencia nueva por extravío"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060760",
+  "organismo": {
+    "nombre": "Municipalidad de San Miguel",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Todas las personas con licencia de conducir y DNI con domicilio en San Miguel."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI o comprobante de DNI en trámite con domicilio en San Miguel",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Licencia de Conducir original",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de la Licencia de Conducir",
+        "aclaracion": null
+      },
+      {
+        "texto": "Denuncia de robo o extravío impresa",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Legalidad impreso",
+        "aclaracion": "Si tu licencia fue emitida en CABA o en alguna otra provincia (que no sea Buenos Aires)."
+      },
+      {
+        "texto": "Certificado de Antecedentes Penales impreso",
+        "aclaracion": "Solo si poseías clases profesionales."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Solicitá turno en la web o llamando al 147."
+      },
+      {
+        "texto": "Acercate a la oficina de Licencias de Conducir (Perón 415, Muñiz) en la fecha y 10 minutos antes de la hora asignada."
+      },
+      {
+        "texto": "Registrate con tu número de DNI en el totem ubicado en la recepción."
+      },
+      {
+        "texto": "Retirá el ticket con el código que te otorga."
+      },
+      {
+        "texto": "Iniciá el trámite cuando tu código sea anunciado por pantalla."
+      },
+      {
+        "texto": "Realizá un control psicofísico."
+      },
+      {
+        "texto": "Cargá tus datos biométricos."
+      },
+      {
+        "texto": "Verificá infracciones de tránsito y regularizá las pendientes si las hay."
+      },
+      {
+        "texto": "Retirá la nueva licencia en 30 minutos si aprobás todas las instancias."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": "1 hora y media",
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "Público General",
+      "gratis": false,
+      "monto_centavos": 4880000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.msm.gov.ar/guia-tramites/licencias-conducir/duplicado-de-la-licencia-de-conducir/"
+    },
+    {
+      "modalidad": "Jubilados Mayores de 70",
+      "gratis": false,
+      "monto_centavos": 1831000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.msm.gov.ar/guia-tramites/licencias-conducir/duplicado-de-la-licencia-de-conducir/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Dirección licencias de conducir",
+      "direccion": "Leon Gallardo 415 - Muñiz",
+      "localidad": "Leon Gallardo 415 - Muñiz",
+      "horario": null,
+      "fuente_url": "https://www.msm.gov.ar/guia-tramites/licencias-conducir/duplicado-de-la-licencia-de-conducir/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.msm.gov.ar/guia-tramites/licencias-conducir/duplicado-de-la-licencia-de-conducir/",
+      "titulo": "Duplicado de la Licencia de Conducir - Municipalidad San Miguel",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T13:59:54.180Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el plazo exacto para la renovación de la licencia en caso de robo o extravío.",
+    "No se especifica si se requiere turno online o solo telefónico."
+  ]
+}

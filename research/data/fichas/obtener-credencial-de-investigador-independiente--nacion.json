@@ -1,0 +1,96 @@
+{
+  "tramite": {
+    "slug": "obtener-credencial-de-investigador-independiente",
+    "nombre": "Obtener credencial de investigador independiente",
+    "nombre_busqueda": "Credencial investigador independiente",
+    "resumen": "Es una credencial gratuita que habilita a investigadores independientes a usar la Sala Americana y el servicio de préstamo de libros y videos de la Biblioteca Nacional de Maestros.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Biblioteca Nacional de Maestros",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Investigadores independientes que residan en un radio no mayor a 200 Km. de la Biblioteca Nacional de Maestros."
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia DNI (anverso y reverso) o Pasaporte en caso de ser extranjero.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de un servicio pago a su nombre o contrato de alquiler.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Carta dirigida a la Directora de la BNM, Lic. Graciela Perrone en la que debe constar: nombre y apellido del interesado, documento que acredite identidad o Pasaporte en caso de ser un investigador extranjero, tema y duración aproximada de la investigación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de solicitud de credencial completo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentar toda la documentación solicitada en Sala Americana, Pizzurno 953 1° piso."
+      },
+      {
+        "texto": "Una vez aprobada la solicitud, dirigirse a Sala de Lectura para la confección de la credencial."
+      },
+      {
+        "texto": "Retirar la credencial, en ella figuran: los datos personales de la persona asociada, la categoría, una foto del titular y un código de barras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-credencial-de-investigador-independiente",
+      "titulo": "Obtener credencial de investigador independiente | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T22:56:47.115Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T22:56:47.115Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del servicio pago o contrato de alquiler no se especifica en el texto.",
+    "La fecha de vigencia de la credencial no se especifica en el texto."
+  ]
+}

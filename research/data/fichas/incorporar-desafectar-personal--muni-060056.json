@@ -1,0 +1,116 @@
+{
+  "tramite": {
+    "slug": "transporte-publico-incorporar-desafectar-personal",
+    "nombre": "Incorporar o desafectar personal",
+    "nombre_busqueda": "Incorporar o desafectar personal transporte",
+    "resumen": "Para incorporar o desafectar personal en una empresa de transporte público, se debe presentar documentación específica en la Dirección General de Tránsito y Transporte y abonar un sellado municipal.",
+    "sinonimos": [
+      "Inscripción de choferes",
+      "Baja de choferes transporte",
+      "Registro de personal transporte"
+    ],
+    "temas": [
+      "transporte-publico-y-viajes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El titular del legajo de transporte",
+      "El personal a incorporar o desafectar"
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI (original y fotocopia)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dos fotos carnet",
+        "aclaracion": null
+      },
+      {
+        "texto": "Carnet de conducir habilitante categoría D1 (original y fotocopia)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Alta temprana de ARCA o adhesión al monotributo según régimen acordado con el titular del legajo/registro",
+        "aclaracion": "Esto únicamente para taxis y remises"
+      },
+      {
+        "texto": "Cartón habilitante del conductor o bajas de ARCA",
+        "aclaracion": "Solo para desafectar por el titular del legajo"
+      },
+      {
+        "texto": "Telegrama de renuncia o carta documento de despido",
+        "aclaracion": "Solo para desafectar por el chofer"
+      },
+      {
+        "texto": "Estado de deuda de infracciones del tribunal de faltas (calle Brown y Misiones) o convenio con tribunal de faltas, por DNI",
+        "aclaracion": "Solo para desafectar por el chofer"
+      },
+      {
+        "texto": "Cartón habilitante del conductor/baja de ARCA",
+        "aclaracion": "Solo para desafectar por el chofer"
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Abonar el sellado municipal en las cajas del Municipio, ingresando por Alsina 45, o en la misma Dirección General de Tránsito y Transporte."
+      },
+      {
+        "texto": "El titular del legajo de transporte y el personal a incorporar o desafectar deben presentarse en la Dirección General de Tránsito y Transporte con toda la documentación requerida y el sellado abonado."
+      },
+      {
+        "texto": "El tramite finaliza el mismo día que concurro con la documentación."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección General de Tránsito y Transporte",
+      "direccion": "Av. Cabrera 4118",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/transporte/incorporar-desafectar-personal/"
+    },
+    {
+      "nombre": "Cajas del Municipio",
+      "direccion": "Alsina 45",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/transporte/incorporar-desafectar-personal/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/tramites/transporte/incorporar-desafectar-personal/",
+      "titulo": "Incorporar o desafectar personal | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T02:58:24.760Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del costo no está especificado en el texto."
+  ]
+}

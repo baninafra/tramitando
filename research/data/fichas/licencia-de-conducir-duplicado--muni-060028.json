@@ -1,0 +1,149 @@
+{
+  "tramite": {
+    "slug": "licencia-de-conducir-duplicado",
+    "nombre": "Licencia de Conducir Duplicado",
+    "nombre_busqueda": "Licencia de Conducir Duplicado",
+    "resumen": "Obtención de un duplicado de la licencia de conducir en caso de pérdida, robo o deterioro, permitiendo al conductor mantener su autorización vigente para conducir.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060028",
+  "organismo": {
+    "nombre": "Municipio de Almirante Brown",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Conductores con licencia vigente en Almirante Brown."
+    ],
+    "requisitos": [
+      {
+        "texto": "Último DNI vigente con domicilio en Almirante Brown (original y fotocopia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de no poseerlo: denuncia e imagen impresa de nuevo DNI de la app MI ARGENTINA y constancia de DNI en trámite (original y fotocopia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Licencia de Conducir (original y fotocopia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Antecedentes penales para quienes posean categoría profesional (validez de 30 días desde su fecha de emisión).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Legalidad en el caso de que corresponda (validez de 30 días desde su fecha de emisión).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Sacá un turno por la Web para el trámite de Licencia."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá los documentos y aboná los costos en la Tesorería del municipio."
+      },
+      {
+        "texto": "Retirá la licencia de Conducir Duplicado en la oficina."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://www.brown.gob.ar/tramites/licencia-de-conducir-duplicado/",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "Normal",
+      "gratis": false,
+      "monto_centavos": 3784250,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/licencia-de-conducir-duplicado/"
+    },
+    {
+      "modalidad": "Turno Express",
+      "gratis": false,
+      "monto_centavos": 13623750,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/licencia-de-conducir-duplicado/"
+    },
+    {
+      "modalidad": "Tasa Nacional",
+      "gratis": false,
+      "monto_centavos": 1015000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/licencia-de-conducir-duplicado/"
+    },
+    {
+      "modalidad": "Tasa Provincial",
+      "gratis": false,
+      "monto_centavos": 816750,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/licencia-de-conducir-duplicado/"
+    },
+    {
+      "modalidad": "Tasa Municipal",
+      "gratis": false,
+      "monto_centavos": 1952500,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/licencia-de-conducir-duplicado/"
+    },
+    {
+      "modalidad": "Tasa Municipal Turno Express",
+      "gratis": false,
+      "monto_centavos": 11792000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/licencia-de-conducir-duplicado/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Licencias de Almirante Brown",
+      "direccion": "Junin sur 1246",
+      "localidad": "Burzaco",
+      "horario": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/licencia-de-conducir-duplicado/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.brown.gob.ar/tramites/licencia-de-conducir-duplicado/",
+      "titulo": "Licencia de Conducir Duplicado",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T07:16:20.752Z"
+    },
+    {
+      "url": "https://licenciasba.dppsv.gba.gob.ar/licencias/boletas_cenat_cepat/public/solicitante/new",
+      "titulo": "Licencias BA",
+      "bloques": [
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T07:16:20.752Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Plazo de entrega del trámite.",
+    "Dirección exacta de la oficina de turno (Junin sur 1246, Burzaco)."
+  ]
+}

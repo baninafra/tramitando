@@ -1,0 +1,67 @@
+{
+  "tramite": {
+    "slug": "castraciones-y-vacunas",
+    "nombre": "Castración gratuita de caninos y felinos",
+    "nombre_busqueda": "Castración gratuita mascotas Luján",
+    "resumen": "Solicitud online para inscribirse en turnos de castración gratuita de perros y gatos en el municipio de Luján.",
+    "sinonimos": [
+      "Castración gratuita mascotas",
+      "Turno castración perros gatos Luján"
+    ],
+    "temas": [
+      "animales-y-zoonosis",
+      "castraciones-y-vacunas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060497",
+  "organismo": {
+    "nombre": "Municipalidad de Luján",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares del turno",
+      "Vecinos y vecinas"
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI en mano",
+        "aclaracion": "Excluyente ya que los turnos no son transferibles"
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Complete el formulario con los datos de su mascota y su información personal."
+      },
+      {
+        "texto": "Confirme enviar la información para solicitar un turno."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://sistemas.lujan.gob.ar/turnosZoonosis/formulario/",
+      "titulo": "ZOONOSIS - Formulario para solicitud de castración",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:54:44.879Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos adicionales ni aclaraciones para menores de edad o casos especiales."
+  ]
+}

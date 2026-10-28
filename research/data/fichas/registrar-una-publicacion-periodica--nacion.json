@@ -1,0 +1,110 @@
+{
+  "tramite": {
+    "slug": "registrar-publicacion-periodica",
+    "nombre": "Registrar una publicación periódica",
+    "nombre_busqueda": "Registrar una publicación periódica",
+    "resumen": "Este trámite permite registrar y proteger la autoría de obras incluidas en publicaciones periódicas (revistas, diarios, boletines) que ya circulan públicamente. La inscripción obliga a declarar mensualmente las ediciones publicadas.",
+    "sinonimos": [],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional del Derecho de Autor",
+    "sigla": "DNDA",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Editores/as propietarios de publicaciones en soporte papel o digital."
+    ],
+    "requisitos": [
+      {
+        "texto": "D.N.I.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de trámite y comprobante de tasa abonados por depósito o transferencia bancaria.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Último ejemplar de la publicación, en la que deben figurar impresos los siguientes datos: Título de la publicación, Número de edición y fecha de la Publicación, Propietario: nombre y apellido completo o Razón Social, Director responsable: nombre y apellido completo, Domicilio legal completo: calle…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Debe figurar la leyenda 'Registro DNDA en trámite'.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solo para soporte papel: Pie de imprenta que contenga: nombre y domicilio de la imprenta.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de que el trámite no lo realice el propietario: constancia de apoderado o persona autorizada.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Realizá previamente el trámite de Consulta de título de la publicación."
+      },
+      {
+        "texto": "Ingresá a TAD - Inscripción de Publicación Periódica."
+      },
+      {
+        "texto": "Completá los datos del trámite y subí la documentación obligatoria (comprobante de pago y comprobante de tasa)."
+      },
+      {
+        "texto": "Al finalizar, se te otorgará un número de expediente electrónico y una carátula variable, la cual deberás presentar junto con la última publicación editada."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la carátula variable junto con la última publicación editada, en la Dirección Nacional del Derecho de Autor, Moreno 1230 - Ciudad Autónoma de Buenos Aires, en horario de 9.30 a 14.30 h."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 380000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/registrar-una-publicacion-periodica"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional del Derecho de Autor",
+      "direccion": "Moreno 1230",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/registrar-una-publicacion-periodica"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/registrar-una-publicacion-periodica",
+      "titulo": "Registrar una publicación periódica | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T03:32:11.071Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia exacta (AAAA-MM-DD) no está especificada en el texto, solo se menciona 'Un año, renovable por igual período' y 'En línea'."
+  ]
+}

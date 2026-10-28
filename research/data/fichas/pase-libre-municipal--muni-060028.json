@@ -1,0 +1,71 @@
+{
+  "tramite": {
+    "slug": "pase-libre-municipal",
+    "nombre": "Pase Libre Municipal",
+    "nombre_busqueda": "Pase Libre Municipal",
+    "resumen": "Se otorga un pase gratuito para el transporte público local a personas que cumplen con requisitos sociales, de salud o edad.",
+    "sinonimos": [],
+    "temas": [
+      "transporte-publico-y-viajes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060028",
+  "organismo": {
+    "nombre": "Municipio de Almirante Brown",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que cumplan con determinados requisitos sociales, de salud o edad."
+    ],
+    "requisitos": [
+      {
+        "texto": "Foto DNI (Frente y Reverso)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de discapacidad CUD (Vigente)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Centro de acceso a derechos para personas con discapacidad",
+      "direccion": "Erezcano 1252",
+      "localidad": "Erezcano 1252",
+      "horario": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/pase-libre-municipal/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.brown.gob.ar/tramites/pase-libre-municipal/",
+      "titulo": "Pase Libre Municipal",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T01:29:28.272Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere turno",
+    "Dirección exacta de la oficina presencial",
+    "Vigencia del CUD",
+    "Costo del trámite",
+    "Plazo de entrega",
+    "Pasos detallados para la entrega presencial"
+  ]
+}

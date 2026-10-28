@@ -1,0 +1,129 @@
+{
+  "tramite": {
+    "slug": "solicitar-evaluacion-de-incapacidad-por-parte-del-empleador-no-asegurado",
+    "nombre": "Solicitar evaluación de incapacidad por parte del empleador no asegurado",
+    "nombre_busqueda": "solicitar evaluacion incapacidad empleador no asegurado",
+    "resumen": "Trámite para evaluar secuelas de accidentes laborales o enfermedades profesionales aceptadas por un empleador no asegurado. Es obligatorio el patrocinio letrado en jurisdicciones adheridas a la ley 27.348.",
+    "sinonimos": [
+      "evaluación de incapacidad empleador no asegurado",
+      "solicitud evaluación contingencia laboral"
+    ],
+    "temas": [
+      "trabajo-y-seguridad-social",
+      "conflictos-laborales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Riesgos del Trabajo",
+    "sigla": "SRT",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Trabajadores o sus derechohabientes que consideren tener secuelas producto de un accidente laboral y/o enfermedad profesional denunciada ante su empleador no asegurado (ENA) y aceptada por este."
+    ],
+    "requisitos": [
+      {
+        "texto": "Anexo I del formulario de la Resolución SRT N° 5/26 (Obligatorio) - Completado por computadora.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Escrito (No obligatorio). Si se lo presenta, debe estar firmado por los mismos que firman el formulario.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI anverso y reverso, legible y actualizado del trabajador.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si son derechohabientes: acta de defunción y documentación que acredite identidad y el vínculo invocado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Credencial profesional de la jurisdicción y DNI del abogado (Obligatorio porque es trámite para Jurisdicción Adherida a la Ley 27.348).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que funda la competencia de la comisión médica elegida.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si es por domicilio del DNI: copia del DNI del trabajador.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si es por domicilio de efectiva prestación de servicios/donde presta tareas: Certificado Res. SRT N° 698/17 o Res. SRT N° 11/18, según corresponda.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el domicilio donde habitualmente reporta (domicilio del empleador): Certificado Res. SRT N° 698/17 o Res. SRT N° 11/18, según corresponda.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Recibos de sueldo: Presentar copia de los últimos 12 (doce) recibos de sueldo y dos (liquidaciones /recibos) correspondientes al SAC, anteriores a la PMI o fecha de ocurrencia del siniestro.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave bancaria uniforme (CBU) de la cuenta sueldo perteneciente al trabajador (No obligatorio).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Denuncia (Obligatorio).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estudios médicos / Historia clínica (Obligatorio).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Reuní la documentación."
+      },
+      {
+        "texto": "Iniciá tu expediente de manera virtual a través de la página de ARCA e-Servicios."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "2 años contados a partir del cese de la incapacidad laboral transitoria (ILT).",
+    "consejos": [
+      "La Comisión Médica podrá disponer la necesidad de realizar examen físico o estudios complementarios.",
+      "Recordá que en las provincias adheridas a la Ley 27.348 los trabajadores damnificados o sus derechohabientes deberán contar con representación letrada y acreditarla en el expediente.",
+      "En caso de no contar con uno, podrás solicitarlo ingresando en el enlace indicado en la página.",
+      "Los honorarios profesionales del abogado estarán a cargo de la ART (Art. 37 Res. SRT 298/2017)."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-evaluacion-de-incapacidad-por-parte-del-empleador-no-asegurado",
+      "titulo": "Solicitar evaluación de incapacidad por parte del Empleador No Asegurado | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T09:16:40.037Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/srt/comisionesmedicas/tramites/ausencia-citaciones-comision-medica",
+      "titulo": "Ausencia a citaciones de Comisiones Medicas | Argentina.gob.ar",
+      "bloques": [
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T09:16:40.037Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia exacta del trámite."
+  ]
+}

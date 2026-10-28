@@ -1,0 +1,76 @@
+{
+  "tramite": {
+    "slug": "guia-unica-de-traslado-dut-productores-ganaderos",
+    "nombre": "Guía Única de Traslado (DUT) para Productores Ganaderos",
+    "nombre_busqueda": "DUT ganaderos",
+    "resumen": "Trámite digital que integra los pasos para trasladar la hacienda (Senasa, Ministerio de Agricultura y tasa municipal) en un solo procedimiento, a cargo del productor ganadero.",
+    "sinonimos": [
+      "DUT ganadero",
+      "Traslado de hacienda",
+      "Guía Única de Traslado"
+    ],
+    "temas": [
+      "produccion-rural"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060189",
+  "organismo": {
+    "nombre": "Municipalidad de Coronel Dorrego",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Productores ganaderos"
+    ],
+    "requisitos": [
+      {
+        "texto": "Planilla de solicitud de DUT",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de CBU",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercá la planilla de solicitud de DUT y dos copias de la constancia de CBU en la oficina de Producción."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Producción",
+      "direccion": "Av. Fuertes 630",
+      "localidad": "Coronel Dorrego",
+      "horario": null,
+      "fuente_url": "https://dorrego.gob.ar/mun/direcciones/produccion/menu/tramites/dut.php"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://dorrego.gob.ar/mun/direcciones/produccion/menu/tramites/dut.php",
+      "titulo": "Producción - D.U.T.",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T22:40:49.802Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos de tasas ni plazos de tramitación.",
+    "No se indica si el trámite se puede realizar completamente por internet o solo la entrega presencial.",
+    "No se especifica si se requiere turno para la entrega en la oficina."
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "tramite": {
+    "slug": "patente-motovehiculo-asentamiento",
+    "nombre": "Asentamiento de patente de motovehículo",
+    "nombre_busqueda": "Patente de motovehículo Berisso",
+    "resumen": "Para asentarse la patente de un motovehículo en Berisso, se debe haber realizado previamente el trámite registral en el Registro Automotor y presentar documentación original y fotocopia.",
+    "sinonimos": [
+      "Patentamiento de motovehículo",
+      "Radicación de motovehículo"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060098",
+  "organismo": {
+    "nombre": "Municipalidad de Berisso",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares que posean domicilio en el distrito."
+    ],
+    "requisitos": [
+      {
+        "texto": "Título del rodado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cédula de identificación del motovehículo (Cédula Verde).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento de Identidad (D.N.I., L.E., L.C.).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado que acredite la baja en cuanto al pago de patentes en la municipalidad anterior (solo si la moto fue transferida y el titular anterior debía abonar en otro distrito).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Realizá el trámite de asentamiento del rodado en los registros de la Municipalidad."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Registro Automotor",
+      "direccion": "Calle 4 Nº 4407 esq. 166",
+      "localidad": "Calle 4 Nº 4407 esq. 166",
+      "horario": null,
+      "fuente_url": "https://berisso.gob.ar/pagina/patentes-de-motovehiculos"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://berisso.gob.ar/pagina/patentes-de-motovehiculos",
+      "titulo": "Municipalidad de Berisso - Patentes de Motovehículos",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T11:22:15.731Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el monto de la tasa por Derecho de Patente.",
+    "No se especifica si el trámite requiere turno."
+  ]
+}

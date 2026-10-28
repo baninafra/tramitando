@@ -1,0 +1,60 @@
+{
+  "tramite": {
+    "slug": "reclamos-online",
+    "nombre": "Reclamos online",
+    "nombre_busqueda": "hacer un reclamo online en José C. Paz",
+    "resumen": "Completá el formulario de reclamos online con información correcta para facilitar la comunicación con vos y resolver el reclamo.",
+    "sinonimos": [],
+    "temas": [
+      "reclamos-vecinales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060412",
+  "organismo": {
+    "nombre": "Municipalidad de José C. Paz",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "La página no indica quiénes pueden hacer el reclamo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Completá todos los campos del formulario con información correcta.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá todos los campos del formulario con información correcta para facilitar la comunicación con vos y resolver el reclamo."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://josecpaz.gob.ar/reclamos-online/",
+      "titulo": "Reclamos Online – Municipalidad de José C. Paz",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T13:51:57.862Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Quiénes pueden hacer el reclamo.",
+    "No se especifica si el trámite se completa íntegramente por internet.",
+    "No se informa el costo del trámite."
+  ]
+}

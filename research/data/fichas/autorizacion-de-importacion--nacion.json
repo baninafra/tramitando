@@ -1,0 +1,82 @@
+{
+  "tramite": {
+    "slug": "autorizacion-de-importacion",
+    "nombre": "Autorización de importación",
+    "nombre_busqueda": "Autorización de importación",
+    "resumen": "Solicitá la autorización de importación presentando la Ficha de Datos Técnicos (FDT) N° 6 por duplicado en el Centro de Atención de ANMaC. La ANMaC emitirá una opinión definitiva antes de que el Ministerio de Relaciones Exteriores procese el trámite.",
+    "sinonimos": [],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMaC",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Representante legal o titular del producto."
+    ],
+    "requisitos": [
+      {
+        "texto": "Ficha de Datos Técnicos (FDT) N° 6 por duplicado, suscriptas por el representante legal o titular, con certificación de firma, letra clara de imprenta, sin espacios en blanco ni corrector líquido, identificando la sustancia por nomenclatura y número de CAS, posición arancelaria, nombre químico y nú…",
+        "aclaracion": null
+      },
+      {
+        "texto": "El origen del producto debe corresponder a un Estado Miembro de la Convención sobre la Prohibición del Desarrollo, la Producción, el Almacenamiento y el Empleo de Armas Químicas y Sobre su Destrucción, suscripta en París.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informar la Aduana por la cual el material ingresará al territorio nacional.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Identificar el depósito o instalación de almacenamiento a emplear.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 10000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/autorizacion-de-importacion"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/autorizacion-de-importacion",
+      "titulo": "Autorización de importación. | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:26:32.089Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia del trámite.",
+    "El monto exacto de las estampillas sin la condición de urgencia."
+  ]
+}

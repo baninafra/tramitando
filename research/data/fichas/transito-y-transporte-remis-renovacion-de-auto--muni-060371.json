@@ -1,0 +1,77 @@
+{
+  "tramite": {
+    "slug": "renovacion-de-auto",
+    "nombre": "Renovación de auto",
+    "nombre_busqueda": "Renovación de auto",
+    "resumen": "Para renovar el auto, necesitás el DNI y la patente vigente. El trámite se hace online o presencialmente en la oficina de Transito.",
+    "sinonimos": [
+      "Renovación de patente",
+      "Renovación de vehículo"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "patente-automotor-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060371",
+  "organismo": {
+    "nombre": "Municipalidad de San Martín",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que tenga un vehículo matriculado en el municipio."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del propietario del vehículo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Patente vigente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal de trámites y buscá el trámite de renovación de auto."
+      },
+      {
+        "texto": "Completá los datos de tu DNI y los de tu vehículo."
+      },
+      {
+        "texto": "Realizá el pago de la tasa correspondiente."
+      },
+      {
+        "texto": "Recibí el comprobante de pago y el ticket de renovación."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://sanmartin.gob.ar/tramites/transito-y-transporte-remis-renovacion-de-auto",
+      "titulo": "Renovación de auto",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T13:37:16.543Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa no se especifica en el texto.",
+    "La fecha de vigencia del trámite no se especifica en el texto.",
+    "Si el trámite requiere turno, no se indica en el texto.",
+    "La dirección de la oficina no se especifica en el texto."
+  ]
+}

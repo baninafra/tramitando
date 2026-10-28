@@ -1,0 +1,120 @@
+{
+  "tramite": {
+    "slug": "licencia-reemplazada",
+    "nombre": "Licencia reemplazada",
+    "nombre_busqueda": "Licencia reemplazada",
+    "resumen": "Trámite para cambiar de localidad si tu licencia fue emitida por otro municipio. Requiere DNI, licencia vigente, certificado de legalidad y superar examen psicofísico.",
+    "sinonimos": [],
+    "temas": [
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060763",
+  "organismo": {
+    "nombre": "Municipalidad de San Nicolás de los Arroyos",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan licencia vigente emitida por otro municipio y quieran realizar el cambio de localidad."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI con domicilio en San Nicolás.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Licencia vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de legalidad de la licencia vigente otorgado por el Municipio emisor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "No poseer multas en el Partido de San Nicolás de los Arroyos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Superar examen psicofísico.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Comunicate a través del asistente virtual para comenzar tu trámite."
+      },
+      {
+        "texto": "Ingresá desde el botón inferior derecho que vas a encontrar en la pantalla."
+      },
+      {
+        "texto": "Seleccioná la opción licencia de conducir y luego INICIAR TRÁMITE."
+      },
+      {
+        "texto": "Un operador responderá tu consulta."
+      },
+      {
+        "texto": "En el caso de poseer multas te enviarán las boletas para regularizar tu situación."
+      },
+      {
+        "texto": "Una vez realizado el pago no olvides informarlo ingresando al menú principal del chat, opción INFRACCIONES VEHICULARES y luego INFORMAR PAGO."
+      },
+      {
+        "texto": "Seguí los pasos que te indique el asistente."
+      },
+      {
+        "texto": "Podrás enviar toda la documentación requerida a través del chat."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en el día y horario agendado."
+      },
+      {
+        "texto": "El día de tu turno dirigite a Av. Illia 1130 con DNI original, comprobantes de pago y el resto de la documentación que requiera tu tipo de licencia."
+      },
+      {
+        "texto": "Te entregarán tu licencia."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 3574500,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.sannicolasciudad.gob.ar/tramites/licencia-de-conducir/licencia-reemplazada"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.sannicolasciudad.gob.ar/tramites/licencia-de-conducir/licencia-reemplazada",
+      "titulo": "Licencia reemplazada | Licencia de conducir | Trámites | San Nicolás Ciudad",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T15:32:49.859Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El valor del trámite varía de acuerdo al cambio que necesites realizar.",
+    "El costo puede variar según Ord. Fiscal y Tarifaria vigente.",
+    "No se especifica el plazo exacto de tramitación."
+  ]
+}

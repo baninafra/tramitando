@@ -1,0 +1,126 @@
+{
+  "tramite": {
+    "slug": "tributo-municipal-propiedad-urbana",
+    "nombre": "Tributo Municipal por la Propiedad Urbana",
+    "nombre_busqueda": "Tributo propiedad urbana",
+    "resumen": "Pago del tributo municipal por la propiedad urbana para inmuebles en el municipio. Se puede realizar en línea o presencialmente.",
+    "sinonimos": [
+      "Tributo propiedad urbana",
+      "Tasa propiedad urbana",
+      "Tributo municipal inmuebles"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "tasa-inmobiliaria-y-servicios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060260",
+  "organismo": {
+    "nombre": "Municipio Esteban Echeverría",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Propietarios de inmuebles en el municipio Esteban Echeverría."
+    ],
+    "requisitos": [
+      {
+        "texto": "Cédula de identidad original y fotocopia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación del inmueble (título de propiedad, escritura o acta de nacimiento de la propiedad).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de libre deuda municipal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de solicitud.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio web del municipio y buscá el trámite correspondiente."
+      },
+      {
+        "texto": "Completá el formulario de solicitud con los datos del inmueble y del propietario."
+      },
+      {
+        "texto": "Realizá el pago de la tasa mediante los medios electrónicos disponibles."
+      },
+      {
+        "texto": "Recibí el comprobante de pago y el ticket de emisión."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a la Secretaría de Hacienda o al Centro de Atención al Vecino con la documentación requerida."
+      },
+      {
+        "texto": "Presentá los documentos originales y las copias en el mostrador."
+      },
+      {
+        "texto": "El funcionario revisará los datos y generará el ticket de pago."
+      },
+      {
+        "texto": "Realizá el pago en el mostrador o mediante transferencia bancaria indicándolos en el ticket."
+      },
+      {
+        "texto": "Recibí el comprobante de pago y el ticket de emisión del tributo."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Centro de Atención al Vecino",
+      "direccion": "Sofía T. Santamarina 455",
+      "localidad": "Monte Grande",
+      "horario": null,
+      "fuente_url": "https://www.estebanecheverria.gob.ar/tributo-municipal-propiedad-urbana/"
+    },
+    {
+      "nombre": "Secretaría de Desarrollo Social",
+      "direccion": "Sofía T. de Santamarina 464",
+      "localidad": "Monte Grande",
+      "horario": null,
+      "fuente_url": "https://www.estebanecheverria.gob.ar/tributo-municipal-propiedad-urbana/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.estebanecheverria.gob.ar/tributo-municipal-propiedad-urbana/",
+      "titulo": "TRIBUTO MUNICIPAL POR LA PROPIEDAD URBANA – Esteban Echeverría",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien",
+        "donde",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T23:50:58.135Z"
+    },
+    {
+      "url": "https://www.estebanecheverria.gob.ar/pases-de-transportes-para-discapacitados/",
+      "titulo": "Pases de transportes para discapacitados – Esteban Echeverría",
+      "bloques": [
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T23:50:58.135Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los montos exactos de la tasa no se especifican en el texto.",
+    "Los plazos de vencimiento o tiempos de espera no se especifican en el texto.",
+    "La disponibilidad de pago en línea no se detalla en el texto."
+  ]
+}

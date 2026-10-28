@@ -1,0 +1,114 @@
+{
+  "tramite": {
+    "slug": "habilitacion-comercial",
+    "nombre": "Habilitación comercial",
+    "nombre_busqueda": "Habilitación comercial Puan",
+    "resumen": "Trámite para habilitar, anotar, cambiar domicilio o ampliar dimensiones de un local comercial en el municipio. Requiere documentación específica según el tipo de actividad y estado de la sociedad.",
+    "sinonimos": [
+      "Habilitación de comercio",
+      "Licencia de comercio",
+      "Inscripción de actividad comercial"
+    ],
+    "temas": [
+      "habilitacion-comercial"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060651",
+  "organismo": {
+    "nombre": "Municipalidad de Puan",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas físicas.",
+      "Sociedades irregulares o de hecho.",
+      "Personas jurídicas y de existencia ideal."
+    ],
+    "requisitos": [
+      {
+        "texto": "Presentar las planillas de habilitación, a modo de declaración jurada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago del derecho administrativo de inicio del trámite, según ordenanza impositiva vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del Documento Nacional de identidad.",
+        "aclaracion": "Personas físicas."
+      },
+      {
+        "texto": "Documentación firmada por todos los socios en forma individual, debidamente certificada por Notario Público o Autoridad competente, o en su caso, por el apoderado que acredite representación de la sociedad, designando la persona autorizada para la correspondiente tramitación ante el Municipio.",
+        "aclaracion": "Sociedades irregulares o de hecho."
+      },
+      {
+        "texto": "Copia del Contrato Social, inscripto en la Dirección de Personas Jurídicas.",
+        "aclaracion": "Personas jurídicas y de existencia ideal."
+      },
+      {
+        "texto": "Copia de la solicitud de inscripción.",
+        "aclaracion": "Cuando se tratare de una sociedad en formación."
+      },
+      {
+        "texto": "Presentar un libre de deuda de las Tasas Municipales correspondientes al inmueble (Tasa de Barrido y Limpieza, Cordón Cuneta, Pavimento, Red de Gas, Plan de Viviendas, Cloacas, Alumbrado Público, Red de Agua).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar libre de deuda de tasa de seguridad e higiene, a nombre del solicitante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Justificar en qué carácter (propietario, inquilino, comodatario) hace la solicitud, acompañado con comprobante según corresponda.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar copia del Formulario de Inscripción de Ingresos Brutos, donde debe figurar la actividad que desarrolla.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar plano del local aprobado por la Secretaría de Obras Públicas donde consten las dimensiones del mismo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Matafuegos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de Nº de cilindro, con fecha de fabricación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de vencimiento de Recarga y Prueba Hidráulica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Aptitud Eléctrica, expedido por un técnico matriculado y visado.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.puan.gob.ar/tramites/",
+      "titulo": "tramites – Municipalidad de Puan",
+      "bloques": [
+        "quien",
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-28T03:55:37.392Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos de tasas ni plazos de tramitación en el texto."
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "tramite": {
+    "slug": "planes-de-pago-municipales",
+    "nombre": "Consultar y pagar un plan de pago municipal",
+    "nombre_busqueda": "consulta y pago de planes de pago de tasas municipales",
+    "resumen": "Consultá las cuotas de tu plan de pago y generá una boleta para pagar toda la deuda o una parte. Podés generar una boleta para pagar de forma presencial o en línea.",
+    "sinonimos": [
+      "pagar cuotas de un plan municipal",
+      "consultar deuda de un plan de pago"
+    ],
+    "temas": [
+      "planes-de-pago-municipales",
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060399",
+  "organismo": {
+    "nombre": "Municipalidad de Guaminí",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés consultar y generar boletas para las cuotas de un plan de pago municipal."
+    ],
+    "requisitos": [
+      {
+        "texto": "Ingresá un número de plan de pago de entre 5 y 6 dígitos, sin barras ni guiones.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Completá con ceros al inicio si tu número de plan tiene menos de 5 dígitos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para generar una boleta de pago en línea, cargá apellido, nombre, DNI, género y correo electrónico de quien va a pagar.",
+        "aclaracion": "Si elegís el pago en línea."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Seleccioná todas o algunas de las cuotas adeudadas."
+      },
+      {
+        "texto": "Elegí «Pago On Line»."
+      },
+      {
+        "texto": "Hacé clic en «Generar Boleta On Line»."
+      },
+      {
+        "texto": "Cargá los datos de la persona que va a pagar."
+      },
+      {
+        "texto": "Hacé clic en «Generar»."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Seleccioná todas o algunas de las cuotas adeudadas."
+      },
+      {
+        "texto": "Elegí «Pago Presencial»."
+      },
+      {
+        "texto": "Hacé clic en «Generar Boleta Presencial»."
+      },
+      {
+        "texto": "Confirmá la generación de la boleta."
+      },
+      {
+        "texto": "Descargá e imprimí la boleta para pagar de forma presencial."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Podés generar una boleta por el total de la deuda o por un pago parcial."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://serviciosweb.guamini.gob.ar/tasaspagosydeudas/planespago",
+      "titulo": "Municipalidad de Guaminí",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T13:45:13.570Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa si hace falta turno.",
+    "No se informa el costo del trámite."
+  ]
+}

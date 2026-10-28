@@ -1,0 +1,90 @@
+{
+  "tramite": {
+    "slug": "extraccion-arbolado-publico",
+    "nombre": "Extracción de arbolado público",
+    "nombre_busqueda": "sacar un árbol de la vía pública",
+    "resumen": "Presentá una nota para solicitar la extracción de un árbol del espacio público. Adjuntá fotos del estado del árbol; no se aceptan videos.",
+    "sinonimos": [
+      "reclamo por extracción de árbol"
+    ],
+    "temas": [
+      "poda-y-arbolado"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060441",
+  "organismo": {
+    "nombre": "Dirección General de Arbolado Público",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés iniciar el trámite mediante una nota dirigida a la Dirección General de Arbolado Público."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nombre y apellido completos, número de documento, domicilio real y correo electrónico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descripción detallada de los hechos que motivan la solicitud y, si hace falta, la norma legal que fundamenta el derecho que invocás.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Petición clara y precisa, con el objetivo del trámite.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que respalde tu solicitud.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotos del estado del árbol.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Prepará una nota con tus datos completos, la descripción de los hechos, el objetivo de la solicitud y la documentación que la respalda."
+      },
+      {
+        "texto": "Dirigí la nota a la Dirección General de Arbolado Público."
+      },
+      {
+        "texto": "Adjuntá fotos del estado del árbol; no presentes videos."
+      },
+      {
+        "texto": "Presentá el reclamo."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si necesitás pedir una poda, comunicate con la línea 147 de Atención al Vecino."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://tramites.laplata.gob.ar/mesaentrada/arbolado.html",
+      "titulo": "Mesa General de Entradas - Municipalidad de La Plata",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:22:19.203Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no precisa quiénes pueden iniciar el trámite.",
+    "El texto no informa si el trámite requiere turno.",
+    "El texto no indica dónde presentar el reclamo."
+  ]
+}

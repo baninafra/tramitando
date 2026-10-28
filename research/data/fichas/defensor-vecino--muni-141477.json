@@ -1,0 +1,67 @@
+{
+  "tramite": {
+    "slug": "defensor-vecino",
+    "nombre": "Defensor del Vecino",
+    "nombre_busqueda": "Defensor del Vecino Ciudad de Oliva",
+    "resumen": "El Defensor del Vecino es el organismo encargado de recibir, estudiar y resolver las quejas y reclamos de los vecinos de la Ciudad de Oliva.",
+    "sinonimos": [],
+    "temas": [
+      "defensa-del-consumidor",
+      "seguridad-y-denuncias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141477",
+  "organismo": {
+    "nombre": "Defensor del Vecino",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier vecino de la Ciudad de Oliva que tenga una queja o reclamo."
+    ],
+    "requisitos": [
+      {
+        "texto": "La queja o reclamo escrito.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del DNI del vecino.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acudí a la oficina del Defensor del Vecino."
+      },
+      {
+        "texto": "Presentá la queja o reclamo escrito junto con la copia de tu DNI."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://ciudaddeoliva.gob.ar/defensor-vecino",
+      "titulo": "Ciudad de Oliva",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-26T09:24:56.079Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de la oficina.",
+    "Horarios de atención.",
+    "Plazo de resolución de las quejas."
+  ]
+}

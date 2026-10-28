@@ -1,0 +1,83 @@
+{
+  "tramite": {
+    "slug": "derecho-de-conexion-a-la-red-cloacal",
+    "nombre": "Derecho de conexión a la red cloacal",
+    "nombre_busqueda": "Conexión red cloacal",
+    "resumen": "Trámite para conectar un inmueble a la red cloacal. Quienes acrediten un único ingreso (jubilados o empleados con sueldo mínimo) pueden pagar en 10 cuotas de $70.00. Los eximidos de tasas municipales quedan eximidos del pago.",
+    "sinonimos": [
+      "Conexión cloacal",
+      "Derecho de conexión cloacal"
+    ],
+    "temas": [
+      "vivienda-y-servicios-del-hogar"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060007",
+  "organismo": {
+    "nombre": "Municipalidad de Adolfo Alsina",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes necesiten conectar su inmueble a la red cloacal."
+    ],
+    "requisitos": [
+      {
+        "texto": "Concurrir con los datos catastrales del inmueble.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a la Municipalidad de Adolfo Alsina, en Pellegrini y Rivadavia, Carhué."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "Jubilado o empleado con único ingreso",
+      "gratis": false,
+      "monto_centavos": 700000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.adolfoalsina.gov.ar/obras/conexion-red-cloacal/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Municipalidad de Adolfo Alsina",
+      "direccion": "Pellegrini y Rivadavia, Carhué, Bs. As.",
+      "localidad": "Carhué",
+      "horario": null,
+      "fuente_url": "https://www.adolfoalsina.gov.ar/obras/conexion-red-cloacal/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.adolfoalsina.gov.ar/obras/conexion-red-cloacal/",
+      "titulo": "Derecho de conexión a la red cloacal - Municipalidad de Adolfo Alsina",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T19:20:27.524Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos para quienes no se encajan en los casos de jubilado o empleado con único ingreso.",
+    "No se especifica el plazo de atención.",
+    "No se especifica si se requiere turno."
+  ]
+}

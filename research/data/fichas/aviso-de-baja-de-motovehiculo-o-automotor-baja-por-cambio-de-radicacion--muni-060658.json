@@ -1,0 +1,69 @@
+{
+  "tramite": {
+    "slug": "aviso-de-baja-de-motovehiculo-o-automotor-baja-por-cambio-de-radicacion",
+    "nombre": "Aviso de baja de motovehículo o automotor. Baja por cambio de radicación.",
+    "nombre_busqueda": "Baja de motovehículo por cambio de radicación",
+    "resumen": "Este trámite permite dar de baja un vehículo en el catastro cuando cambia su domicilio. Se requiere el DNI del titular y el documento del vehículo.",
+    "sinonimos": [
+      "Baja de vehículo por cambio de domicilio",
+      "Baja de motovehículo por cambio de radicación"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "cedula-del-vehiculo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060658",
+  "organismo": {
+    "nombre": "Secretaría de Hacienda",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de motovehículos o automotores que cambian de domicilio."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del titular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento del motovehículo o automotor.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el DNI del titular y el documento del motovehículo o automotor."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mi.quilmes.gov.ar/tramites/73/aviso-de-baja-de-motovehiculo-o-automotor-baja-por-cambio-de-radicacion",
+      "titulo": "Aviso de baja de Motovehículo o automotor. Baja por cambio de radicación.",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T12:16:35.587Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos adicionales.",
+    "No se especifican pasos adicionales.",
+    "No se especifica si requiere turno.",
+    "No se especifica el plazo de resolución.",
+    "No se especifica el costo del trámite."
+  ]
+}

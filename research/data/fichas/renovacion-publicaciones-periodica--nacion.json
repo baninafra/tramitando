@@ -1,0 +1,167 @@
+{
+  "tramite": {
+    "slug": "renovacion-publicaciones-periodica",
+    "nombre": "Renovación publicaciones periódicas",
+    "nombre_busqueda": "Renovación publicaciones periódicas",
+    "resumen": "Trámite para renovar la inscripción de revistas, diarios, boletines y publicaciones en internet. Se requiere comprobante de pago de la tasa según tiraje y presentación de documentación en DNDA.",
+    "sinonimos": [
+      "Renovación de inscripción de publicaciones periódicas",
+      "Renovación DNDA publicaciones periódicas"
+    ],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional del Derecho de Autor",
+    "sigla": "DNDA",
+    "web": "https://www.argentina.gob.ar/servicio/renovacion-publicaciones-periodica"
+  },
+  "contenido": {
+    "quien_puede": [
+      "El propietario o quien esté designe."
+    ],
+    "requisitos": [
+      {
+        "texto": "Título de la publicación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de edición y fecha de la publicación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Propietario: nombre y apellido completo o Razón Social.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Director Responsable: nombre y apellido completo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio Legal Completo: Calle y Nº, localidad y provincia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nº de Registro DNDA (en caso de ser primera inscripción o su registro se encuentre vencido, deberá figurar la leyenda Registro DNDA en trámite).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pie de Imprenta que contenga: nombre y domicilio de la imprenta (solo para soporte papel).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD -Renovación Publicaciones Periódica e iniciá el trámite."
+      },
+      {
+        "texto": "Completá los Datos del Trámite."
+      },
+      {
+        "texto": "Subí el comprobante de pago del trámite (valor $3800)."
+      },
+      {
+        "texto": "Subí el comprobante de pago de la tasa según el tiraje de publicación."
+      },
+      {
+        "texto": "Al finalizar, se otorgará un número de Expediente Electrónico y una carátula variable."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la carátula variable junto con la última publicación editada en la Dirección Nacional del Derecho de Autor."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 380000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/renovacion-publicaciones-periodica"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 61700,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/renovacion-publicaciones-periodica"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 102800,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/renovacion-publicaciones-periodica"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 206000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/renovacion-publicaciones-periodica"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1027900,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/renovacion-publicaciones-periodica"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional del Derecho de Autor",
+      "direccion": "Moreno 1230",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/renovacion-publicaciones-periodica"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/renovacion-publicaciones-periodica",
+      "titulo": "Renovación Publicaciones Periódica | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T03:49:09.922Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si el trámite es gratis, monto_centavos: null",
+    "Si el texto no dice el monto, costos vacío y anotar dato faltante en sin_confirmar",
+    "Lo que no está en el texto va a sin_confirmar como una frase corta",
+    "Temas: usá solo slugs de la lista de temas disponibles",
+    "Voz: español rioplatense, de vos, oraciones cortas, sin jerga ni mayúsculas sostenidas",
+    "Fuentes por bloque: cada fuente indica qué bloques respalda",
+    "consultada_en va con la fecha ISO indicada en los datos de la investigación",
+    "pasos_online es solo para cuando el trámite entero se puede hacer por internet",
+    "direccion, localidad y nombre de oficinas: solo si aparecen en el texto",
+    "El campo portal y la jurisdicción ya los conoce el sistema: devolvé el jurisdiccion_id que te pasamos",
+    "vigente_desde es una fecha exacta AAAA-MM-DD o null",
+    "nombre del trámite: cómo lo conoce la gente, con mayúscula inicial y el resto en minúscula",
+    "No te saltees nada de lo que sí dice el texto",
+    "Reescribí con tus palabras, no copies"
+  ]
+}

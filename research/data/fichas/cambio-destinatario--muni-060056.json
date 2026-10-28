@@ -1,0 +1,83 @@
+{
+  "tramite": {
+    "slug": "cambio-de-destinatario-de-la-tasa-por-servicios-publicos",
+    "nombre": "Cambio de destinatario de la tasa por servicios públicos",
+    "nombre_busqueda": "Cambio de destinatario tasa servicios públicos",
+    "resumen": "Para cambiar el lugar de recepción o el nombre de quién recibe la tasa municipal, se debe presentar documentación justificatoria en el Departamento de Catastro.",
+    "sinonimos": [
+      "Cambio de domicilio de la tasa",
+      "Cambio de titularidad de la tasa"
+    ],
+    "temas": [
+      "catastro-e-inmuebles",
+      "tasas-e-impuestos-municipales",
+      "tasa-inmobiliaria-y-servicios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares del dominio de la tasa",
+      "Representantes con poder"
+    ],
+    "requisitos": [
+      {
+        "texto": "Destinatario y domicilio donde recibir la tasa",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título de propiedad, boleto compraventa o poder que justifique la representación",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación requerida en el Departamento de Catastro"
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Departamento de Catastro",
+      "direccion": "Chiclana 453",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/catastro/cambio-destinatario/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/tramites/catastro/cambio-destinatario/",
+      "titulo": "Cambio de destinatario de la Tasa por servicios públicos | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T20:35:05.804Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horario de atención del Departamento de Catastro",
+    "Dirección exacta del Departamento de Catastro",
+    "Teléfono del Departamento de Catastro",
+    "Vigencia del trámite"
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "tramite": {
+    "slug": "permiso-de-obra-y-planos",
+    "nombre": "Permiso de obra y planos",
+    "nombre_busqueda": "Permiso de obra y planos",
+    "resumen": "Trámite para visación de planos previos y definitivos de obras privadas, con asesoramiento y pago de aranceles.",
+    "sinonimos": [
+      "Visación de planos",
+      "Permiso de edificación",
+      "Regularización de obras"
+    ],
+    "temas": [
+      "obras-y-construccion",
+      "permiso-de-obra-y-planos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141421",
+  "organismo": {
+    "nombre": "Municipalidad de Almafuerte",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Arquitectos y profesionales de la construcción",
+      "Comitentes de obras privadas"
+    ],
+    "requisitos": [
+      {
+        "texto": "Plano previo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de conformidad firmada en puño y letra por el comitente y por profesional (firma, aclaración y DNI)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planilla de arbolado (proyecto)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación para acreditar titularidad (boleto de compraventa, escritura etc)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano definitivo sellado por el Colegio de Profesionales",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciar trámite previo en el sistema de visación."
+      },
+      {
+        "texto": "Adjuntar los documentos requeridos."
+      },
+      {
+        "texto": "Descargar documentos y realizar correcciones del plano."
+      },
+      {
+        "texto": "Iniciar trámite definitivo en el sistema de visación."
+      },
+      {
+        "texto": "Adjuntar el plano definitivo sellado."
+      },
+      {
+        "texto": "Descargar el documento y constatar que se realizaron las correcciones detalladas en la previa."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Vender la documentación para acreditar titularidad certificada por Escribanía (que es copia fiel del original) en el área."
+      },
+      {
+        "texto": "Vender el plano previo."
+      },
+      {
+        "texto": "Vender la nota de conformidad."
+      },
+      {
+        "texto": "Vender la planilla de arbolado."
+      },
+      {
+        "texto": "Vender el plano definitivo sellado."
+      },
+      {
+        "texto": "Vender el permiso de edificación (en caso de proyecto)."
+      },
+      {
+        "texto": "Vender los permisos de agua corriente y energía eléctrica (si así lo solicitan)."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "No se recibirán planos definitivos colegiados que no tengan realizadas las correcciones especificadas en la previa."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 295000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://almafuertecba.gob.ar/content/presentacion-planos-obra-en-municipalidad-almafuerte"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Casa Anexa - Oficina Desarrollo Humano",
+      "direccion": "Castelli 398",
+      "localidad": "Almafuerte",
+      "horario": null,
+      "fuente_url": "https://almafuertecba.gob.ar/content/presentacion-planos-obra-en-municipalidad-almafuerte"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://almafuertecba.gob.ar/content/presentacion-planos-obra-en-municipalidad-almafuerte",
+      "titulo": "Presentación de planos de obra en Municipalidad de Almafuerte",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T09:26:39.931Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de la oficina de obras",
+    "Horarios de atención de la oficina de obras",
+    "Plazo de visación previa",
+    "Plazo de visación definitiva"
+  ]
+}

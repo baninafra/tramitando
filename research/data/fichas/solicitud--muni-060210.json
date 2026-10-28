@@ -1,0 +1,77 @@
+{
+  "tramite": {
+    "slug": "declaracion-jurada-tasa-inspeccion-seguridad-higiene",
+    "nombre": "Declaración Jurada de Tasa por Inspección de Seguridad e Higiene",
+    "nombre_busqueda": "Declaración Jurada Inspección Seguridad Higiene",
+    "resumen": "Solicitá la Declaración Jurada de Tasa por Inspección de Seguridad e Higiene ingresando tu CUIT o número de partida en el portal de la Municipalidad de Chacabuco.",
+    "sinonimos": [
+      "Declaración Jurada Inspección Seguridad",
+      "Declaración Jurada Inspección Higiene",
+      "Solicitud Inspección Seguridad Higiene"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "seguridad-y-denuncias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060210",
+  "organismo": {
+    "nombre": "Municipalidad de Chacabuco",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en solicitar la declaración jurada."
+    ],
+    "requisitos": [
+      {
+        "texto": "CUIT o número de partida",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal de trámites de la Municipalidad de Chacabuco."
+      },
+      {
+        "texto": "Seleccioná el trámite de Seguridad e Higiene."
+      },
+      {
+        "texto": "Ingresá tu CUIT o número de partida y el año correspondiente."
+      },
+      {
+        "texto": "Seleccioná el bimestre de la solicitud."
+      },
+      {
+        "texto": "Completá los datos requeridos y generá la declaración jurada."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://tramites.chacabuco.gob.ar/seguridad-higiene/solicitud.php",
+      "titulo": "Seguridad e Higiene - Municipalidad de Chacabuco",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T10:44:10.625Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el monto de la tasa en el texto.",
+    "No se especifica el plazo de respuesta.",
+    "No se especifica si requiere turno."
+  ]
+}

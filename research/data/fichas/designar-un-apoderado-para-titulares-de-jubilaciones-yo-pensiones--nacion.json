@@ -1,0 +1,116 @@
+{
+  "tramite": {
+    "slug": "designar-apoderado-jubilaciones-pensiones",
+    "nombre": "Designar un apoderado para jubilaciones y pensiones",
+    "nombre_busqueda": "Designar apoderado ANSES",
+    "resumen": "Podés designar a familiares, abogados, bancos o entidades para que realicen tus trámites ante ANSES y cobren tus haberes. El trámite es gratuito y se realiza en oficina con turno.",
+    "sinonimos": [
+      "Nombrar representante ANSES",
+      "Designar gestor jubilaciones",
+      "Dar poder a familiar ANSES"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones",
+      "adultos-mayores"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANSES",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Familiares: cónyuge, conviviente previsional, padres, abuelos, bisabuelos, hijos, nietos, bisnietos, tíos, primos, hermanos, sobrinos, yernos, nueras, padrastros, suegros, hijastros, cuñados.",
+      "Tutores o curadores.",
+      "Abogados y gestores registrados en ANSES.",
+      "Representantes diplomáticos o consulares.",
+      "Directores o administradores de hospitales, sanatorios, asilos o establecimientos similares públicos o privados para cobrar por personas internadas en la institución.",
+      "Representantes especiales por tiempo determinado cuando una persona se encuentre imposibilitada para movilizarse.",
+      "Mutuales e instituciones de asistencia social.",
+      "Abogados y procuradores con poder certificado ante escribano."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del titular y de la persona elegida como apoderado (original y copia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta/certificado de matrimonio en original y copia (para cónyuges).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditación de la relación como conviviente previsional (para conviviente previsional).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que demuestre el parentesco (partidas de nacimiento, DNI) (para familiares).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario PS 6.4 - Carta Poder, firmado y sellado por la autoridad bancaria (para bancos).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Sentencia judicial original y copia donde surja su nombramiento como representante legal (para tutor/medida de abrigo).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Sentencia judicial original y copia donde surja su nombramiento como curador y en la que se otorgue autorización para el cobro de jubilaciones o pensiones (para curador/apoyo).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Credencial vigente (para abogados).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Reuní la documentación que corresponde de acuerdo a tu situación y al tipo de poder que quieras solicitar."
+      },
+      {
+        "texto": "Sacá un turno en una oficina de ANSES."
+      },
+      {
+        "texto": "Acercate el día del turno con la documentación."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/designar-un-apoderado-para-titulares-de-jubilaciones-yo-pensiones",
+      "titulo": "Designar un apoderado para titulares de jubilaciones y/o pensiones | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T04:54:50.550Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-turnos-en-anses",
+      "titulo": "Solicitar turnos en ANSES | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T04:54:50.550Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de oficinas de ANSES",
+    "Enlace para sacar turno online"
+  ]
+}

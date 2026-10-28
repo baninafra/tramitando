@@ -1,0 +1,95 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-reba-inicial",
+    "nombre": "Solicitud de ReBA inicial",
+    "nombre_busqueda": "Solicitud de ReBA inicial",
+    "resumen": "Trámite para comercios que vendan bebidas alcohólicas en la provincia de Buenos Aires. Requiere inscripción, habilitación municipal y pago de tasas. Se entrega la licencia ReBA que debe exhibirse visible.",
+    "sinonimos": [
+      "Inscripción ReBA",
+      "Licencia ReBA inicial",
+      "Registro Provincial para la Comercialización de Bebidas Alcohólicas"
+    ],
+    "temas": [
+      "comercio-e-industria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060063",
+  "organismo": {
+    "nombre": "Municipalidad de Balcarce",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Comercios que reúnan los requisitos exigidos por el Decreto 828/04, reglamentario de la Ley 13.178, y sus modificatorias, para la obtención de la Licencia Provincial para la comercialización de Bebidas Alcohólicas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Inscripción ReBA",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia DNI titular o Representante legal en persona juridica",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia Habilitación Municipal",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ingresos brutos",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación en la Dirección de Inspección General."
+      },
+      {
+        "texto": "Recibí el cupón de pago con el canon correspondiente."
+      },
+      {
+        "texto": "Pagá la tasa correspondiente."
+      },
+      {
+        "texto": "Retirá la licencia ReBA."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Inspección General",
+      "direccion": "Calle 23 N° 636",
+      "localidad": "Balcarce",
+      "horario": null,
+      "fuente_url": "https://balcarce-app.gob.ar/portal_servicios/servicio/solicitud-de-reba-inicial"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://balcarce-app.gob.ar/portal_servicios/servicio/solicitud-de-reba-inicial",
+      "titulo": "Portal de Servicios | Modernizacion Balcarce",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T03:08:34.830Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos exactos de los costos en el texto."
+  ]
+}

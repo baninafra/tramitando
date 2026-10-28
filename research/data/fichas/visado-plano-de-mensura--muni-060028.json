@@ -1,0 +1,80 @@
+{
+  "tramite": {
+    "slug": "visado-plano-de-mensura",
+    "nombre": "Visado plano de mensura",
+    "nombre_busqueda": "Visado plano de mensura",
+    "resumen": "El municipio revisa y aprueba el plano de mensura para su inscripción legal y registro catastral.",
+    "sinonimos": [],
+    "temas": [
+      "catastro-e-inmuebles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060028",
+  "organismo": {
+    "nombre": "Municipio de Almirante Brown",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Solicitudes ciudadanas"
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copias de plano",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de inicio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dominio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Timbrados",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Uso del Suelo",
+      "direccion": "Rosales 1312",
+      "localidad": "Adrogué",
+      "horario": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/visado-plano-de-mensura/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.brown.gob.ar/tramites/visado-plano-de-mensura/",
+      "titulo": "Visado Plano de Mensura",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T19:20:59.191Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se especifica que los requisitos pueden cambiar dependiendo del tipo de mensura.",
+    "No se indica si el trámite requiere turno.",
+    "No se especifica el plazo de tramitación.",
+    "No se especifica el costo del trámite."
+  ]
+}

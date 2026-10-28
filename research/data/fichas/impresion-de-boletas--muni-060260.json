@@ -1,0 +1,110 @@
+{
+  "tramite": {
+    "slug": "impresion-de-boletas",
+    "nombre": "Impresión de boletas de tasas e impuestos",
+    "nombre_busqueda": "Impresión de boletas tasas e impuestos",
+    "resumen": "Trámite para obtener la impresión de boletas de tasas e impuestos municipales. Se requiere acudir presencialmente a la oficina de Hacienda con los documentos originales y copias.",
+    "sinonimos": [
+      "Impresión de boletas",
+      "Boletas de tasas e impuestos"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060260",
+  "organismo": {
+    "nombre": "Municipio de Esteban Echeverría",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en obtener la impresión de boletas de tasas e impuestos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Original y fotocopia de DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Original y fotocopia de la boleta a imprimir.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Original y fotocopia de la libreta de automotores o moto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Original y fotocopia de la habilitación comercial.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Original y fotocopia de la libreta sanitaria.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acudí presencialmente a la oficina de Hacienda del Municipio de Esteban Echeverría."
+      },
+      {
+        "texto": "Presentá los documentos originales y sus copias para la impresión de boletas."
+      },
+      {
+        "texto": "Recibí la impresión de las boletas de tasas e impuestos."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Hacienda - Municipio de Esteban Echeverría",
+      "direccion": "Av. Sofía Terrero de Santamarina 455",
+      "localidad": "Monte Grande",
+      "horario": null,
+      "fuente_url": "https://www.estebanecheverria.gob.ar/impresion-de-boletas/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.estebanecheverria.gob.ar/impresion-de-boletas/",
+      "titulo": "IMPRESIÓN DE BOLETAS – Esteban Echeverría",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T11:49:21.190Z"
+    },
+    {
+      "url": "https://www.estebanecheverria.gob.ar/licencia-02-requisitos-por-tramite/",
+      "titulo": "Requisitos por Trámite – Esteban Echeverría",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-28T11:49:21.190Z"
+    },
+    {
+      "url": "https://www.estebanecheverria.gob.ar/pases-de-transportes-para-discapacitados/",
+      "titulo": "Pases de transportes para discapacitados – Esteban Echeverría",
+      "bloques": [
+        "requisitos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T11:49:21.190Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se especifica que el trámite se realiza presencialmente en la oficina de Hacienda, pero no se indica si se requiere turno previo.",
+    "No se especifica el plazo de atención ni el costo del trámite en la información disponible."
+  ]
+}

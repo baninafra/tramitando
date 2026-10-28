@@ -1,0 +1,68 @@
+{
+  "tramite": {
+    "slug": "importacion-de-alcohol",
+    "nombre": "Importación de alcohol",
+    "nombre_busqueda": "Importación de alcohol",
+    "resumen": "Trámite para personas físicas o jurídicas inscriptas ante el INV que deseen importar productos vitivinícolas definidos en la Ley N° 24.566.",
+    "sinonimos": [],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto Nacional de Vitivinicultura",
+    "sigla": "INV",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Toda persona física o jurídica inscripta ante el INV que pretenda importar alguno de los productos vitivinícolas definidos en la Ley N° 24.566 y sus normas complementarias."
+    ],
+    "requisitos": [
+      {
+        "texto": "Copia digital de la nota de solicitud de inscripción.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentar nota de solicitud de inscripción dirigida al Jefe de la Delegación del INV cuya jurisdicción pertenezca a su domicilio."
+      },
+      {
+        "texto": "Ingresá a la plataforma TAD."
+      },
+      {
+        "texto": "Adjuntar la documentación solicitada."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El INV podrá solicitar otra documentación o antecedente en caso de considerarlo necesario, mediante decisión fundada."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/importacion-de-alcohol",
+      "titulo": "Importación de alcohol | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T16:24:54.492Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia de la inscripción no está especificada en el texto.",
+    "El plazo de resolución no está especificado en el texto."
+  ]
+}

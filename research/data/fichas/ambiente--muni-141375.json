@@ -1,0 +1,60 @@
+{
+  "tramite": {
+    "slug": "recoleccion-de-residuos",
+    "nombre": "Recolecta de residuos",
+    "nombre_busqueda": "Recolecta de residuos",
+    "resumen": "Información sobre el reciclaje de pilas y la disposición de residuos en la Municipalidad de Anisacate.",
+    "sinonimos": [],
+    "temas": [
+      "recoleccion-de-residuos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141375",
+  "organismo": {
+    "nombre": "Municipalidad de Anisacate",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que dese reciclar pilas o solicitar semillas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Llevá las pilas en los recipientes preparados para tal fin.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Deposité las pilas en los recipientes preparados para tal fin en DEM Municerca Dispensarios Oficina de Empleo."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Las pilas son la fracción más contaminante de nuestros desechos domésticos."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://anisacatemunicipio.gob.ar/ambiente/",
+      "titulo": "Ambiente – Municipalidad de Anisacate",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T07:57:32.386Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La disponibilidad de semillas para la próxima temporada y su fecha de retiro."
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "tramite": {
+    "slug": "registrar-altas-y-bajas-de-relaciones-laborales",
+    "nombre": "Registrar altas y bajas de relaciones laborales",
+    "nombre_busqueda": "Registrar altas y bajas de relaciones laborales",
+    "resumen": "Si sos empleador en el SIPA, tenés que registrar los datos de cada trabajador que incorpores o desafectes de tu nómina, incluso si se trata de pasantías. El trámite es gratuito y se puede hacer en línea o presencialmente.",
+    "sinonimos": [],
+    "temas": [
+      "trabajo-y-seguridad-social",
+      "aportes-e-historia-laboral"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Argentina.gob.ar",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A empleadores registrados en el SIPA."
+    ],
+    "requisitos": [
+      {
+        "texto": "CUIT",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave fiscal",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave Bancaria Uniforme (C.B.U.)",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del trabajador",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUIL del trabajador",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario 885 A, en caso de hacer el trámite en forma presencial",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Entrá al sitio web de ARCA con clave fiscal al servicio Simplificación Registral."
+      },
+      {
+        "texto": "Ingresá la información requerida, tanto tus datos como empleador como los del trabajador."
+      },
+      {
+        "texto": "Una vez finalizada y aceptada la carga, el sistema te emitirá una constancia o acuse de recibo por duplicado, con un número denominado Registro del trámite para identificarlo."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a la dependencia de ARCA en la que estás inscripto con el formulario 885 - nuevo modelo, por duplicado."
+      },
+      {
+        "texto": "Tramitá la comunicación."
+      },
+      {
+        "texto": "Te entregarán el acuse de recibo con el número de registro del trámite."
+      },
+      {
+        "texto": "Dirigite a la Unidad de Atención Integral (UDAI) de ANSES más cercana a tu domicilio, completá y entregá allí el formulario sobre los datos relativos a los vínculos familiares del trabajador."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si vas a hacer el trámite en forma presencial y el sistema informático no se encontrase operativo, te entregarán una constancia provisoria válida por 2 días hábiles administrativos, pasados los cuales tendrás que volver a la dependencia a retirar el acuse de recibo definitivo."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/registrar-altas-y-bajas-de-relaciones-laborales",
+      "titulo": "Registrar altas y bajas de relaciones laborales | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T02:51:14.447Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T02:51:14.447Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si el sistema informático no se encuentra operativo, tenés que volver a la dependencia a retirar el acuse de recibo definitivo después de 2 días hábiles administrativos."
+  ]
+}

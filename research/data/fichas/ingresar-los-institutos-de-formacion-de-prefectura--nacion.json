@@ -1,0 +1,147 @@
+{
+  "tramite": {
+    "slug": "ingreso-institutos-formacion-prefectura",
+    "nombre": "Ingresar a los Institutos de Formación de Prefectura",
+    "nombre_busqueda": "Inscribirse en los Institutos de Formación de Prefectura",
+    "resumen": "Para formar parte del personal de Oficiales o Suboficiales de Prefectura, se debe completar un formulario online y presentar documentación específica. El trámite es gratuito y la inscripción es voluntaria.",
+    "sinonimos": [
+      "Inscripción a Prefectura",
+      "Ingreso a la Escuela de Cadetes de Prefectura",
+      "Ingreso a la Escuela de Suboficiales de Prefectura"
+    ],
+    "temas": [
+      "educacion-y-estudios",
+      "cursos-y-formacion-laboral"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Prefectura Naval Argentina",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Jóvenes con vocación de servicio que aspiren a profesionalizarse en la función policial vinculada a la custodia del mar argentino, ríos y lagos; la salvaguarda de la vida humana en las aguas y la protección del medio ambiente.",
+      "Argentinos nativos o por opción (excluyendo a los naturalizados).",
+      "Cursos de 17 a 22 años para Oficiales y 17 a 25 años para Suboficiales.",
+      "Personas con título de Nivel Secundario completo o en trámite.",
+      "Personas sin antecedentes penales ni causas judiciales en el Registro Nacional de Reincidencia.",
+      "Personas que no hayan sido dadas de baja por mala conducta o falta de aptitud militar o policial en Fuerzas Armadas, Seguridad o Policial."
+    ],
+    "requisitos": [
+      {
+        "texto": "Solicitud de inscripción completada e impresa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "4 fotos 4x4 a color, ¾ de perfil derecho, fondo celeste, con nombre y apellido escritos con lápiz grafito en el reverso.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopias color del Título y Certificado Analítico de estudios secundarios (o Constancia de Título en Trámite y Constancia de Alumno Regular si aplica).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopias autenticadas de la Partida, Certificado o Acta de Nacimiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopias del certificado de vacuna antitetánica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de antecedentes penales y comprobante del trámite extendido por el Registro Nacional de Reincidencia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de Clave Única de Identificación Laboral (CUIL).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que acredite las condiciones generales de aptitud psicofísica y física establecidas por la Institución.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Registrar en el Portal de Ingreso."
+      },
+      {
+        "texto": "Completar el formulario de inscripción online."
+      },
+      {
+        "texto": "Cargar la documentación de inscripción en formato digital."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentar la documentación física en los Institutos de Formación de la Prefectura."
+      },
+      {
+        "texto": "Rendir los exámenes de selección (intelectual, psicotécnico, entrevista psicológica, médicos, eficiencia física, entrevista personal y ambiental) si se fue convocado."
+      },
+      {
+        "texto": "Incorporarse a la escuela seleccionada si se aprueba la totalidad de los exámenes."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La entrega del folleto informativo es gratuita.",
+      "No existen academias ni gestores que faciliten el trámite; la preparación es personal y voluntaria.",
+      "Los gastos de traslado para rendir los exámenes de ingreso están a cargo del postulante.",
+      "Durante el tiempo entre la inscripción y los exámenes, se debe comunicar de inmediato cualquier cambio de domicilio, teléfono o correo electrónico.",
+      "No se requieren recomendaciones de representantes de poderes públicos ni fuerzas Armadas, Seguridad o Policiales.",
+      "La falsedad de la información o documentación dará lugar a la separación y acciones penales."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Escuelas de Prefectura División Ingreso",
+      "direccion": "Crucero Gral. Belgrano N°302",
+      "localidad": "Ciudad de Zárate",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/ingresar-los-institutos-de-formacion-de-prefectura"
+    },
+    {
+      "nombre": "Dirección de Educación División Ingreso",
+      "direccion": "Avenida Eduardo Madero Nº 235, Oficina 0.24",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": "Lunes-Viernes 08:00am-13:00pm",
+      "fuente_url": "https://www.argentina.gob.ar/servicio/ingresar-los-institutos-de-formacion-de-prefectura"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/ingresar-los-institutos-de-formacion-de-prefectura",
+      "titulo": "Ingresar a los Institutos de Formación de Prefectura | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T16:36:06.728Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T16:36:06.728Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia del trámite.",
+    "El plazo específico para presentar la documentación."
+  ]
+}

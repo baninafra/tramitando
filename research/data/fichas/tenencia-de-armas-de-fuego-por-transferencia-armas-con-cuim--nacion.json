@@ -1,0 +1,100 @@
+{
+  "tramite": {
+    "slug": "tenencia-de-armas-de-fuego-por-transferencia-armas-con-cuim",
+    "nombre": "Transferencia de armas con CUIM",
+    "nombre_busqueda": "Transferencia de armas con CUIM",
+    "resumen": "Permite a legítimos usuarios e integrantes de fuerzas de seguridad transferir la tenencia de un arma registrada entre particulares de forma 100% digital.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Seguridad Nacional",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Usuarios individuales autorizados.",
+      "Integrantes de las Fuerzas Armadas, de Seguridad, Policía o Servicios Penitenciarios."
+    ],
+    "requisitos": [
+      {
+        "texto": "Credencial de Legítimo Usuario de Armas de Fuego.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotografía color del arma completa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotografías en las que se vean claramente la marca y el número de serie del arma.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitud electrónica de autorización de tenencia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formularios Ley 23.283 y 23.412 correspondientes por cada arma y calibre de munición.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma Mi RENAR en el módulo de Credenciales y seleccioná el arma que deseás transferir."
+      },
+      {
+        "texto": "Ingresá el CUIL del usuario comprador y presioná Grabar."
+      },
+      {
+        "texto": "El comprador visualizará el arma pendiente en su listado de tenencias y dispondrá de un plazo máximo de 72 horas para aceptar."
+      },
+      {
+        "texto": "El comprador debe hacer clic en el menú correspondiente al arma y seleccionar Aceptar Transferencia."
+      },
+      {
+        "texto": "El sistema generará un código QR para abonar las tasas correspondientes de forma electrónica."
+      },
+      {
+        "texto": "Una vez efectuado el pago, el comprador debe hacer clic en la opción Obtener Arma."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central del organismo",
+      "direccion": "Bartolomé Mitre 1465/9",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/tenencia-de-armas-de-fuego-por-transferencia-armas-con-cuim"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tenencia-de-armas-de-fuego-por-transferencia-armas-con-cuim",
+      "titulo": "Tenencia de armas de fuego por transferencia (armas con CUIM) | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T17:35:42.872Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de las tasas no se especifica en el texto, solo se menciona que se abonan mediante código QR.",
+    "El plazo exacto para la aceptación de la transferencia no se especifica, solo se menciona un plazo máximo de 72 horas."
+  ]
+}

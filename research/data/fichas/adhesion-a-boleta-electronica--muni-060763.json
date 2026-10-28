@@ -1,0 +1,98 @@
+{
+  "tramite": {
+    "slug": "adhesion-a-boleta-electronica",
+    "nombre": "Adhesión a boleta electrónica",
+    "nombre_busqueda": "Adhesión a boleta electrónica",
+    "resumen": "Unificá todas las tasas que te envía la Municipalidad y recibílas vía email. Antes del vencimiento recibirás el link para pagar y consultar el detalle.",
+    "sinonimos": [],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "tasa-inmobiliaria-y-servicios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060763",
+  "organismo": {
+    "nombre": "Municipalidad de San Nicolás de los Arroyos",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Responsables de pago de más de un inmueble o más de un rodado."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener una cuenta de correo electrónico verificable.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contar con el número de DNI y número de trámite del titular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En el caso de querer ingresar a través de AFIP, contar con número de CUIT y Clave Fiscal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de inmueble, de rodado o de cuenta según la Tasa que se desee adherir.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá tus datos al sistema."
+      },
+      {
+        "texto": "Validá tu identidad a través de ARCA, Anses, Renaper, Mi Argentina o con reconocimiento facial."
+      },
+      {
+        "texto": "Validá tu correo electrónico."
+      },
+      {
+        "texto": "Seleccionando la opción 'Solicitar código' se enviará a tu casilla de mail un código que deberás ingresar en el sistema."
+      },
+      {
+        "texto": "Volvé a seleccionar la opción 'Adhesión a boleta electrónica'."
+      },
+      {
+        "texto": "Seleccioná las tasas que quieras adherir."
+      },
+      {
+        "texto": "Podés incluir todas las tasas municipales que estén a tu nombre."
+      },
+      {
+        "texto": "Antes del vencimiento recibirás el correo electrónico con la boleta."
+      },
+      {
+        "texto": "En un mismo mail recibirás todos las tasas seleccionadas."
+      },
+      {
+        "texto": "Desde ahí podrás realizar el pago online, consultar el detalle de pagos o descargar la boleta para imprimir."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.sannicolasciudad.gob.ar/tramites/pago-de-tasas-inmuebles-y-rodados/adhesion-a-boleta-electronica",
+      "titulo": "Adhesión a boleta electrónica | Pago de tasas | Trámites | San Nicolás Ciudad",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T15:31:37.828Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el monto del trámite."
+  ]
+}

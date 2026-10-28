@@ -1,0 +1,102 @@
+{
+  "tramite": {
+    "slug": "solicitar-certificado-de-transferencia-de-auto-moto-o-maquinaria",
+    "nombre": "Solicitar certificado de transferencia de auto, moto o maquinaria",
+    "nombre_busqueda": "certificado transferencia auto moto",
+    "resumen": "Obtené un certificado con la fecha de transferencia de un titular a otro y los datos del domicilio de ambas partes. Se puede hacer en línea o presencialmente.",
+    "sinonimos": [
+      "certificado transferencia automotor",
+      "certificado transferencia vehiculo"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional del Registro de la Propiedad Automotor",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quien compre o venda un auto, una moto o una maquinaria."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario 02 (si es en el Registro de la radicación) o Formularios 02 y 57 (si es en un Registro Seccional distinto).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento identificatorio de ambas partes: DNI si sos argentino; pasaporte si sos extranjero sin residencia; DNI si sos extranjero con residencia permanente; dni, ci, ci del país de origen o pasaporte si sos de países limítrofes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Un listado por duplicado de al menos las dos partes, quienes deberán firmar y colocar su nombre y apellido, número de documento de identidad y domicilio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si sos representante legal o apoderado, deberás presentar documentos que prueben esa representación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si iniciás la tramitación en línea, te imprimirán los formularios en el Registro.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá la Solicitud electrónica para complementar luego el trámite de manera presencial en el Registro."
+      },
+      {
+        "texto": "De forma opcional, podés abonar en línea."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación en el Registro elegido."
+      },
+      {
+        "texto": "Si no abonaste en línea, pagá allí los aranceles."
+      },
+      {
+        "texto": "Retirá el certificado de transferencia, entre uno y cuatro días más tarde."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-transferencia-de-auto-moto-o-maquinaria",
+      "titulo": "Solicitar certificado de transferencia de auto, moto o maquinaria | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:14:15.308Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tramitar-en-linea-formulario-08-para-transferencia-automotor",
+      "titulo": "Tramitar en línea formulario 08 para transferencia automotor | Argentina.gob.ar",
+      "bloques": [
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:14:15.308Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de los aranceles no se especifica en el texto.",
+    "La fecha de vigencia del trámite no se especifica en el texto."
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "tramite": {
+    "slug": "sacar-la-tenencia-de-chaleco-antibalas",
+    "nombre": "Sacar la tenencia de chaleco antibalas",
+    "nombre_busqueda": "Sacar tenencia chaleco antibalas",
+    "resumen": "Este trámite permite solicitar la tenencia de chaleco antibalas a legítimos usuarios de materiales de usos especiales o de armas de fuego de uso civil condicional.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro Nacional de Armas",
+    "sigla": "RENAR",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Legítimos usuarios de materiales de usos especiales.",
+      "Legítimos usuarios de armas de fuego de uso civil condicional."
+    ],
+    "requisitos": [
+      {
+        "texto": "Inscripción de Usuario Colectivo vigente con autorización para este tipo de material controlado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ser legítimo usuario de materiales de usos especiales o legítimo usuario de armas de fuego de uso civil condicional.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formularios Leyes 23.283 y 23.412.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Una copia de la factura de compra del chaleco con la firma del vendedor certificada.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de RENAR que prefieras."
+      },
+      {
+        "texto": "Retirá la documentación emitida por el RENAR en la delegación en la que iniciaste el trámite o pedí que te la manden por correo."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "10 días hábiles",
+    "consejos": [
+      "Para efectuar la transferencia del chaleco antibala debés presentar los Formularios Leyes 23.283 y 23.412 y la credencial de tenencia emitida."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/sacar-la-tenencia-de-chaleco-antibalas",
+      "titulo": "Sacar la tenencia de chaleco antibalas | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-27T04:19:59.490Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T04:19:59.490Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto en centavos de peso.",
+    "La dirección exacta de las oficinas de RENAR.",
+    "La vigencia específica de los aranceles vigentes."
+  ]
+}

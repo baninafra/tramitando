@@ -1,0 +1,113 @@
+{
+  "tramite": {
+    "slug": "modificar-parque-movil",
+    "nombre": "Modificar parque móvil",
+    "nombre_busqueda": "Modificar parque móvil",
+    "resumen": "Es un trámite gratuito en línea para empresas permisionadas que informaron previamente su parque móvil (Urbano Internacional, Turismo Integrado, etc.) y desean modificar datos como tacógrafo, número de interno, motor o carrocería.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas permisionadas que cuenten con un parque móvil ya informado, de Urbano Internacional, Turismo Integrado, Turismo Triple Frontera, Jurisdicción Internacional, Empresa extranjera."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tacógrafo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de cambio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cambio número de interno o línea",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de cambio de interno",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cambio de línea: sólo para las líneas urbanas de pasajeros",
+        "aclaracion": null
+      },
+      {
+        "texto": "Motor",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de cambio de motor",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título automotor original",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cambio expediente de carrocería",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de cambio de expediente de carrocería",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nuevo certificado de carrocería con el número de expediente",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Presentá la documentación a través de TAD."
+      },
+      {
+        "texto": "La clave fiscal debe ser de nivel 3."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "No requerís la asistencia de un gestor para la realización del trámite, es ágil y sencillo."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/modificar-parque-movil",
+      "titulo": "Modificar parque móvil | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T06:03:36.125Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T06:03:36.125Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Vigencia del trámite",
+    "Plazo de resolución",
+    "Dirección de oficinas"
+  ]
+}

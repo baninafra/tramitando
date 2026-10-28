@@ -1,0 +1,80 @@
+{
+  "tramite": {
+    "slug": "consulta-de-expedientes",
+    "nombre": "Consulta de expedientes",
+    "nombre_busqueda": "Consulta de expedientes",
+    "resumen": "Permití consultar la información de los expedientes de la Municipalidad de Junín a través de la plataforma Gestión Web.",
+    "sinonimos": [],
+    "temas": [
+      "acceso-a-la-informacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060413",
+  "organismo": {
+    "nombre": "Municipalidad de Junín",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas físicas y extranjeros"
+    ],
+    "requisitos": [
+      {
+        "texto": "D.N.I.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Extranjero: D.N.I. Extranjero",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma Gestión Web."
+      },
+      {
+        "texto": "Registráte si no tenés usuario en ARJUN."
+      },
+      {
+        "texto": "Declará bajo juramento que los datos consignados son auténticos."
+      },
+      {
+        "texto": "Aceptá los términos y condiciones."
+      },
+      {
+        "texto": "Recibí el código de verificación por correo electrónico."
+      },
+      {
+        "texto": "Ingresá el código recibido en el formulario."
+      },
+      {
+        "texto": "Aceptá la alta de usuario."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://gestionweb.junin.gob.ar/registro;jsessionid=le8LrTA-48_LtqcpfsvSq0NN9lf3v_lhNfoiUBXU.ubuntuserver",
+      "titulo": "Gestión web",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T13:59:59.257Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos para el acceso a la plataforma Gestión Web más allá de los documentos de identidad mencionados."
+  ]
+}

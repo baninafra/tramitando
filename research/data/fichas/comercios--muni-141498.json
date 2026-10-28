@@ -1,0 +1,81 @@
+{
+  "tramite": {
+    "slug": "inscripcion-de-comercios",
+    "nombre": "Inscripción de comercio",
+    "nombre_busqueda": "Inscribir comercio",
+    "resumen": "Es necesario que registres la alta o baja de tu comercio, también podes realizar un cambio de domicilio o tu declaración jurada mediante el CiDi.",
+    "sinonimos": [
+      "Dar de alta comercio",
+      "Dar de baja comercio",
+      "Cambio de domicilio comercio",
+      "Declaración jurada comercio"
+    ],
+    "temas": [
+      "comercio-e-industria",
+      "habilitacion-comercial"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141498",
+  "organismo": {
+    "nombre": "Municipalidad de Tancacha",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan un comercio para inscribirlo o darlo de baja."
+    ],
+    "requisitos": [
+      {
+        "texto": "Registar la alta o baja del comercio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Realizar un cambio de domicilio si aplica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Realizar la declaración jurada mediante el CiDi si aplica.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Registrá la alta o baja de tu comercio."
+      },
+      {
+        "texto": "Realizá un cambio de domicilio si es necesario."
+      },
+      {
+        "texto": "Realizá tu declaración jurada mediante el CiDi si es necesario."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.tancacha.gob.ar/comercios.html",
+      "titulo": "Comercios",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-26T09:36:41.340Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere verificar si se necesita sacar turno para realizar el trámite.",
+    "Se requiere verificar si hay costos asociados a la inscripción, baja o cambio de domicilio.",
+    "Se requiere verificar la dirección exacta de la oficina donde se debe realizar el trámite.",
+    "Se requiere verificar si se puede realizar el trámite completamente por internet."
+  ]
+}

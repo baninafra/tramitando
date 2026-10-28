@@ -1,0 +1,84 @@
+{
+  "tramite": {
+    "slug": "consulta-reclamo-enrege",
+    "nombre": "Consulta tu reclamo efectuado ante el ENReGE",
+    "nombre_busqueda": "Consulta reclamo ENReGE",
+    "resumen": "Podés consultar el estado de un reclamo realizado ante el ENReGE (o ex ENRE) de forma gratuita en línea, por teléfono o presencialmente.",
+    "sinonimos": [
+      "Consulta reclamo ENReGE",
+      "Estado reclamo ENReGE",
+      "Consulta reclamo ex ENRE"
+    ],
+    "temas": [
+      "gobierno-y-participacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ente Nacional Regulador del Gas y la Electricidad",
+    "sigla": "ENReGE",
+    "web": "https://www.argentina.gob.ar/enre"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Usuarios que ya realizaron un reclamo ante el ENReGE (o ex ENRE)."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de reclamo realizado ante el ENRE.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario online."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Dirigite a Suipacha 615, Ciudad Autónoma de Buenos Aires, de lunes a viernes de 9 a 18."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consulta-tu-reclamo-efectuado-ante-el-enrege-o-ex-enre",
+      "titulo": "Consultá tu reclamo efectuado ante el ENReGE (o ex) ENRE | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T15:15:13.137Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/enre/gestion-de-reclamos/formularios-online/consulta-reclamos",
+      "titulo": "Para consultar el estado de un reclamo | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-26T15:15:13.137Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T15:15:13.137Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horarios de atención telefónica: todos los días, las 24 horas."
+  ]
+}

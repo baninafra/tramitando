@@ -1,0 +1,73 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-pavimentacion",
+    "nombre": "Solicitud de pavimentación",
+    "nombre_busqueda": "Solicitud de pavimentación",
+    "resumen": "Para solicitar la pavimentación de calles o espacios públicos en Quilmes, se requiere presentar documentación técnica y legal ante la Secretaría de Desarrollo Urbano y Obra Pública.",
+    "sinonimos": [],
+    "temas": [
+      "obras-y-construccion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060658",
+  "organismo": {
+    "nombre": "Secretaría de Desarrollo Urbano y Obra Pública",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en la pavimentación de espacios públicos en el municipio."
+    ],
+    "requisitos": [
+      {
+        "texto": "Solicitud de pavimentación",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano de obra",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación de copia de plano",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación legal del inmueble",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la solicitud de pavimentación junto con el plano de obra y la certificación de copia de plano."
+      },
+      {
+        "texto": "Entregá la documentación legal del inmueble correspondiente al espacio a pavimentar."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mi.quilmes.gov.ar/tramites/15/solicitud-de-pavimentacion",
+      "titulo": "Solicitud de pavimentación",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T03:49:33.951Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere verificar si se necesita sacar turno antes de presentar la documentación.",
+    "Se requiere confirmar el plazo de respuesta de la solicitud."
+  ]
+}

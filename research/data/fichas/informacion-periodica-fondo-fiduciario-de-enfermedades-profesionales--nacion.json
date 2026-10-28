@@ -1,0 +1,71 @@
+{
+  "tramite": {
+    "slug": "informacion-periodica-fondo-fiduciario-de-enfermedades-profesionales",
+    "nombre": "Información periódica fondo fiduciario enfermedades profesionales",
+    "nombre_busqueda": "informacion periodica fondo fiduciario enfermedades profesionales",
+    "resumen": "Las entidades que operan en el seguro de Riesgos del Trabajo deben enviar mensualmente un reporte con las imputaciones al Fondo Fiduciario de Enfermedades Profesionales.",
+    "sinonimos": [],
+    "temas": [
+      "trabajo-y-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Seguros de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Las entidades que operen en el seguro de Riesgos del Trabajo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener usuario de acceso a Trámites a Distancia (TAD).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Operar como apoderado de la entidad a la que representas.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD con clave fiscal."
+      },
+      {
+        "texto": "Completá la información periódica."
+      },
+      {
+        "texto": "Confirmá el trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El reporte debe remitirse mensualmente a la SSN, hasta el 5° día hábil posterior al cierre del mes."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/informacion-periodica-fondo-fiduciario-de-enfermedades-profesionales",
+      "titulo": "Información Periódica - Fondo Fiduciario de Enfermedades Profesionales | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-26T16:34:33.567Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia del trámite no se especifica en el texto, solo se indica que es mensual hasta el 5° día hábil posterior al cierre del mes."
+  ]
+}

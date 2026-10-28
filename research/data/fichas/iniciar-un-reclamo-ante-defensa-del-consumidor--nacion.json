@@ -1,0 +1,98 @@
+{
+  "tramite": {
+    "slug": "iniciar-un-reclamo-ante-defensa-del-consumidor",
+    "nombre": "Iniciar un reclamo ante Defensa del Consumidor",
+    "nombre_busqueda": "reclamo defensa del consumidor",
+    "resumen": "Podés iniciar un reclamo gratuito en línea ante Defensa del Consumidor si tenés un problema con un proveedor de bienes o servicios. El sistema te derivará al organismo correspondiente y te asignará un número de reclamo.",
+    "sinonimos": [
+      "reclamo al consumidor",
+      "denuncia defensa del consumidor",
+      "reclamo Ventanilla Federal Única"
+    ],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Defensa del Consumidor",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Consumidores que hayan tenido un problema con algún producto o servicio.",
+      "Personas jurídicas como cooperadoras escolares, asociaciones o fundaciones cuando tienen problemas como consumidoras."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tu número de DNI o Pasaporte.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Un teléfono o dirección de correo electrónico de contacto para recibir la respuesta a tu reclamo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombre y localidad del proveedor del bien o servicio por el cual reclamás.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La información básica de la compra del servicio o producto (provincia donde lo adquiriste y donde lo usaste, datos del proveedor).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a Ventanilla Federal Única de Defensa del Consumidor."
+      },
+      {
+        "texto": "Completá la información solicitada en el formulario con tus datos personales, los datos del reclamo y los datos del proveedor."
+      },
+      {
+        "texto": "Enviá el formulario."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Defensa del Consumidor o la autoridad local se pondrá en contacto a fin de informarte los pasos a seguir.",
+      "El plazo máximo para realizar un reclamo y poder ser tratado por la autoridad administrativa es de tres (3) años desde que se produce el incumplimiento o la infracción por parte del proveedor."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/iniciar-un-reclamo-ante-defensa-del-consumidor",
+      "titulo": "Iniciar un reclamo ante Defensa del Consumidor | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T16:43:12.429Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/defensadelconsumidor/preguntasfrecuentes",
+      "titulo": "Preguntas Frecuentes - Defensa del Consumidor | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T16:43:12.429Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El método más apropiado para dar resolución al conflicto que designará la Ventanilla Federal Única de Defensa del Consumidor."
+  ]
+}

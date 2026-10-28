@@ -1,0 +1,86 @@
+{
+  "tramite": {
+    "slug": "solicitar-modificacion-en-el-registro",
+    "nombre": "Solicitar modificación en el registro",
+    "nombre_busqueda": "modificar inscripción operador ferroviario",
+    "resumen": "Este trámite permite a los operadores ferroviarios modificar su categoría actual u otros datos de interés ante el Registro. La solicitud queda sujeta a evaluación y aprobación por parte de la CNRT.",
+    "sinonimos": [
+      "modificación de inscripción",
+      "cambio de categoría operador"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Comisión Nacional de Regulación del Transporte",
+    "sigla": "CNRT",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Operadores ferroviarios reconocidos como tales ante el Registro."
+    ],
+    "requisitos": [
+      {
+        "texto": "Solicitud de modificación de categoría",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitud de modificación de otros datos",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descargar y completar el Formulario ReNOF N°4",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar el comprobante de pago del servicio solicitado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Según corresponda, adjuntar la documentación detallada en los Requisitos particulares y preguntas frecuentes",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descargar y completar el Formulario ReNOF N°5",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar documentación que acredite la modificación de los datos solicitados",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá la solicitud por TAD"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-modificacion-en-el-registro",
+      "titulo": "Solicitar modificación en el Registro | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T10:08:47.404Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del servicio no se especifica en el texto, solo se indica que se debe ingresar a Gestión Electrónica de Pagos.",
+    "El plazo de resolución o notificación del Acto Administrativo no se especifica en el texto, solo se menciona que será válido a partir de la notificación o en el plazo que esa autoridad estipule."
+  ]
+}

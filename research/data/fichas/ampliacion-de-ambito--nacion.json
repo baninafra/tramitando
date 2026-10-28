@@ -1,0 +1,85 @@
+{
+  "tramite": {
+    "slug": "ampliacion-de-ambito",
+    "nombre": "Ampliación de ámbito",
+    "nombre_busqueda": "Ampliación de ámbito",
+    "resumen": "Solicitud para ampliar el ámbito de operación a otra provincia distinta de la registrada. Requiere declaración jurada, inscripción vigente y seguro de responsabilidad civil.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Seguridad Nacional",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Legítimo Usuario Cinegético que desarrolle la actividad cinegética en la jurisdicción extendida."
+    ],
+    "requisitos": [
+      {
+        "texto": "Declaración Jurada ANEXO II completada en su totalidad con los datos del usuario a registrar y certificada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Inscripción vigente correspondiente a cada jurisdicción extendida por la autoridad provincial o nacional.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditar la contratación de un seguro de responsabilidad civil por riesgos derivados de la actividad cinegética por un monto no inferior a 1000000.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditar el pago de la estampilla digital por el importe de inscripción vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de medidas de seguridad del sector de almacenamiento (obligatorio en inscripción y reinscripción).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 300000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/ampliacion-de-ambito"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/ampliacion-de-ambito",
+      "titulo": "Ampliación de ámbito | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:30:30.889Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Fecha de vigencia del trámite.",
+    "Dirección exacta de las oficinas de atención."
+  ]
+}

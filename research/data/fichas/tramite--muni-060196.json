@@ -1,0 +1,83 @@
+{
+  "tramite": {
+    "slug": "planes-de-pago-municipales",
+    "nombre": "Planes de pago",
+    "nombre_busqueda": "Planes de pago tasas",
+    "resumen": "Consultá los planes de pago para tasas urbanas, viales y de comercios en el sitio oficial.",
+    "sinonimos": [
+      "Pagos de tasas",
+      "Liquidación de tasas"
+    ],
+    "temas": [
+      "planes-de-pago-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060196",
+  "organismo": {
+    "nombre": "Municipio de Coronel Pringles",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en pagar tasas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Datos del deudor y del bien gravado.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal de tasas."
+      },
+      {
+        "texto": "Buscá el plan de pago correspondiente."
+      },
+      {
+        "texto": "Completá los datos requeridos."
+      },
+      {
+        "texto": "Realizá el pago por los medios habilitados."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "http://tasas.coronelpringles.gov.ar/",
+      "titulo": "Municipio de Coronel Pringles - Tasas",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T22:38:20.558Z"
+    },
+    {
+      "url": "https://tasas.coronelpringles.gov.ar/como_pagar",
+      "titulo": "Municipio de Coronel Pringles - Tasas",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T22:38:20.558Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los montos específicos de las tasas no están detallados en el texto.",
+    "No se especifican requisitos adicionales para casos especiales como menores o empresas."
+  ]
+}

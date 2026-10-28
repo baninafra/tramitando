@@ -1,0 +1,107 @@
+{
+  "tramite": {
+    "slug": "matricula-agente-propiedad-industrial",
+    "nombre": "Matrícula de agente de la propiedad industrial",
+    "nombre_busqueda": "Matricula agente propiedad industrial",
+    "resumen": "Solicitá la matrícula en línea desde el portal de trámites una vez aprobado el examen de suficiencia.",
+    "sinonimos": [
+      "Matrícula Agente Propiedad Industrial",
+      "Registro Agente Propiedad Industrial"
+    ],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto Nacional de la Propiedad Industrial",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes hayan aprobado el examen de suficiencia."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener aprobado el examen de suficiencia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ingresar al portal de trámites con sesión ARCA y clave fiscal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descargar el formulario en Word, completarlo y guardarlo en PDF.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Adjuntar el PDF como documentación respaldatoria en el portal de trámites.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Abonar el arancel correspondiente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal de trámites."
+      },
+      {
+        "texto": "Iniciá sesión ARCA con clave fiscal."
+      },
+      {
+        "texto": "Dentro del botón MIS TRÁMITES, seleccioná Autogestión Agentes."
+      },
+      {
+        "texto": "Hacé clic en el botón pagar matrícula agente."
+      },
+      {
+        "texto": "Descargá el formulario en Word, completalo, guardalo en PDF y adjuntalo en Documentación respaldatoria dentro del portal de trámites."
+      },
+      {
+        "texto": "Aguardá que se cargue el PDF y luego seleccioná finalizar."
+      },
+      {
+        "texto": "Aboná el arancel correspondiente."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si aprobaste el examen en ediciones anteriores al año 2025, comunicate con el Sector de Agentes a través de su correo corporativo."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/como-obtener-la-matricula-de-agente-de-la-propiedad-industrial",
+      "titulo": "¿Cómo obtener la matrícula de Agente de la Propiedad Industrial? | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:48:30.952Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T04:48:30.952Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no se especifica en el texto.",
+    "La dirección de la oficina no se especifica en el texto."
+  ]
+}

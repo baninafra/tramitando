@@ -1,0 +1,71 @@
+{
+  "tramite": {
+    "slug": "reportar-certificados-aprobacion-modelo",
+    "nombre": "Reportar certificados de aprobación de modelo",
+    "nombre_busqueda": "reportar certificados de aprobación de modelo",
+    "resumen": "Los organismos de certificación acreditados por el OAA deben reportar los certificados emitidos de aprobación de modelo de instrumentos de medición a través del sistema TAD.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Subsecretaría de Defensa del Consumidor y Lealtad Comercial",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Organismos de Certificación acreditados por el Organismo Argentino de Acreditación (OAA) para los Reglamentos Técnicos y Metrológicos aplicables en el ámbito de la Ley N° 19.511."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener CUIT y clave fiscal nivel 2 o superior en ARCA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estar adherido al servicio de Trámites a Distancia (TAD) y tener condición de apoderado en el sistema.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá el trámite a través de Trámites a Distancia (TAD) ante la Subsecretaría de Defensa del Consumidor y Lealtad Comercial."
+      },
+      {
+        "texto": "Adjuntá el o los Certificados de: Aprobación de Modelo, Aprobación de Modelo con Efecto Limitado, Incorporación de un nuevo miembro a la familia de instrumentos aprobada, Cesión y/o Extensión de Derechos de un Certificado de Aprobación de Modelo."
+      },
+      {
+        "texto": "Completá la planilla de reportes de la sección Descargas con la información detallada."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La Secretaría cuenta con un plazo de 5 días para dar conformidad a este reporte una vez presentada la solicitud."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reportar-los-certificados-de-aprobacion-de-modelo",
+      "titulo": "Reportar los Certificados de Aprobación de Modelo | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T03:51:00.928Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto del trámite no está especificado en el texto.",
+    "La fecha de vigencia exacta no está especificada en el texto."
+  ]
+}

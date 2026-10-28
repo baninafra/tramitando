@@ -1,0 +1,85 @@
+{
+  "tramite": {
+    "slug": "regimen-de-proteccion-a-la-vivienda",
+    "nombre": "Régimen de protección a la vivienda",
+    "nombre_busqueda": "Protección a la vivienda",
+    "resumen": "Este trámite protege la propiedad familiar de acciones judiciales, salvo por deudas fiscales. Solo pueden ser beneficiarios los titulares registrales, cónyuges, ascendientes, descendientes o parientes colaterales dentro del tercer grado que convivan con el constituyente.",
+    "sinonimos": [],
+    "temas": [
+      "vivienda-y-servicios-del-hogar",
+      "planes-de-vivienda-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060063",
+  "organismo": {
+    "nombre": "Dirección de Regularización Dominial",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares registrales del inmueble",
+      "Cónyuges de los titulares",
+      "Ascendientes o descendientes de los titulares",
+      "Parientes colaterales dentro del tercer grado que convivan con el constituyente"
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del/los titular/es de dominio en original y fotocopia simple",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditar el estado civil del/los titular/es",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditar el vínculo del titular con los/as beneficiarios/as (si los hubiere) en original y fotocopia simple",
+        "aclaracion": null
+      },
+      {
+        "texto": "Testimonio /s de dominio inscripto (escritura declaratoria de herederos, adjudicación, subasta, etc.) en original",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación requerida en la Dirección de Regularización Dominial."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Regularización Dominial",
+      "direccion": "Av. del Valle Nº 602",
+      "localidad": "Balcarce",
+      "horario": null,
+      "fuente_url": "https://balcarce-app.gob.ar/portal_servicios/servicio/regimen-de-proteccion-a-la-vivienda"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://balcarce-app.gob.ar/portal_servicios/servicio/regimen-de-proteccion-a-la-vivienda",
+      "titulo": "Portal de Servicios | Modernizacion Balcarce",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T21:31:57.756Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La ley específica que regula este trámite (ley 26.994 art. 244 y siguientes de CC y C) no se especifica en el texto.",
+    "El plazo de tramitación no se indica en el texto.",
+    "La fecha de vigencia del trámite no se especifica en el texto."
+  ]
+}

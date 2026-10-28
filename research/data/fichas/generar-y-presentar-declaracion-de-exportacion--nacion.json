@@ -1,0 +1,67 @@
+{
+  "tramite": {
+    "slug": "generar-y-presentar-declaracion-de-exportacion",
+    "nombre": "Generar y presentar declaración de exportación",
+    "nombre_busqueda": "declaracion de exportacion",
+    "resumen": "El despachante de aduanas genera el Formulario OM-1993-A SIM con los datos de la mercadería y la asigna un número de registro único para su validación en la Aduana.",
+    "sinonimos": [
+      "permiso de embarque",
+      "declaración de exportación"
+    ],
+    "temas": [
+      "comercio-e-industria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A los exportadores."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario OM-1993-A SIM, también conocido como declaración de exportación o permiso de embarque emitido por el Sistema Informático MALVINA de ARCA, firmado por el despachante como declarante.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "El despachante ingresa los datos de la mercadería a través del Sistema Informático MALVINA (SIM) desde su oficina o en las cabinas públicas."
+      },
+      {
+        "texto": "El despachante oficializa la destinación de exportación y el sistema asigna un número de registro único."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El permiso de embarque tiene una validez de 31 días corridos desde que queda registrado, o 45 días corridos en caso de declaración suspensiva de tránsito terrestre."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/generar-y-presentar-declaracion-de-exportacion",
+      "titulo": "Generar y presentar declaración de exportación | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T15:37:41.205Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto del trámite no está especificado en el texto."
+  ]
+}

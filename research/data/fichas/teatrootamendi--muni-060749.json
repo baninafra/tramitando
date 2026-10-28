@@ -1,0 +1,64 @@
+{
+  "tramite": {
+    "slug": "turnos-juzgado-de-faltas",
+    "nombre": "Sacar turno Juzgado de Faltas",
+    "nombre_busqueda": "Turno Juzgado de Faltas San Fernando",
+    "resumen": "Solicitá un turno en línea para conocer infracciones, pagar multas o obtener certificados de libre deuda en el Juzgado de Faltas del Municipio de San Fernando.",
+    "sinonimos": [
+      "Turno Juzgado de Faltas",
+      "Turno multas San Fernando",
+      "Turno infracciones municipales"
+    ],
+    "temas": [
+      "infracciones-y-multas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060749",
+  "organismo": {
+    "nombre": "Juzgado de Faltas del Municipio de San Fernando",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que tenga una infracción imputada o que necesite un certificado de libre deuda."
+    ],
+    "requisitos": [
+      {
+        "texto": "Identificación personal.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Solicitá un turno en línea según el tipo de trámite (Tránsito, Comercios/Inmuebles, Certificado de libre deuda para habilitación, Certificado de libre deuda para plano, Certificado de libre deuda de vehículo)."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.sanfernando.gob.ar/municipio/secretarias/secretaria-de-gobierno/turnos-juzgado-de-faltas",
+      "titulo": "San Fernando Municipio - Turnos Juzgado de Faltas",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T11:09:41.285Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere llevar identificación personal.",
+    "No se especifican los montos de las multas ni los plazos de resolución.",
+    "No se especifica la dirección exacta de las oficinas para trámites presenciales."
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "tramite": {
+    "slug": "reclamar-por-error-de-facturacion",
+    "nombre": "Reclamar por error de facturación",
+    "nombre_busqueda": "Reclamar error factura electricidad",
+    "resumen": "Podés reclamar errores en tu factura de electricidad (EDENOR o EDESUR) si hay consumo muy alto, cambio de tarifa no solicitado o factura no recibida. Es gratis, pero necesitás sacar turno y llevar documentos.",
+    "sinonimos": [
+      "Reclamo factura eléctrica",
+      "Queja factura EDENOR",
+      "Queja factura EDESUR"
+    ],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ente Nacional Regulador del Gas y la Electricidad",
+    "sigla": "ENReGE",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Usuarios de EDENOR y EDESUR."
+    ],
+    "requisitos": [
+      {
+        "texto": "Comprobante del número de reclamo ante la distribuidora.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La factura objetada y facturas anteriores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el servicio no está a tu nombre: copia del título de propiedad o del contrato de alquiler, o de un servicio a tu nombre, o del DNI donde conste el domicilio.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario de reclamo."
+      },
+      {
+        "texto": "En la opción Seleccioná el tipo de reclamo, elegí la opción Facturación."
+      },
+      {
+        "texto": "Subí el tema que mejor sintetice tu reclamo."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Dirijite a la sede de Suipacha 615, Ciudad Autónoma de Buenos Aires."
+      },
+      {
+        "texto": "Pedí turno previo."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "No olvides reclamar ante la empresa antes de hacerlo ante el ENReGE."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede ENReGE",
+      "direccion": "Suipacha 615",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/reclamar-por-error-de-facturacion"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reclamar-por-error-de-facturacion",
+      "titulo": "Reclamar por error de facturación | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:34:23.263Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/enre/gestion-de-reclamos/formularios-online/formulario-atencion-usuarios",
+      "titulo": "Para reclamar por otras deficiencias en el servicio de EDENOR / EDESUR | Argentina.gob.ar",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T02:34:23.263Z"
+    },
+    {
+      "url": "https://turnos.argentina.gob.ar/turnos/seleccionTurno/225",
+      "titulo": "Sistema Nacional de Turnos",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T02:34:23.263Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horario de atención presencial: de lunes a viernes de 09:00 a 17:00.",
+    "Dirección postal de atención: Suipacha 615 C1008AAM - Ciudad Autónoma de Buenos Aires.",
+    "Número de teléfono para reclamos: 0800 345 6000.",
+    "Vigencia del trámite."
+  ]
+}

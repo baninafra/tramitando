@@ -1,0 +1,121 @@
+{
+  "tramite": {
+    "slug": "residencia-transitoria-por-tratamiento-medico",
+    "nombre": "Obtener residencia transitoria por tratamiento médico",
+    "nombre_busqueda": "Residencia transitoria tratamiento médico",
+    "resumen": "Trámite para personas extranjeras que necesitan recibir tratamiento médico en establecimientos sanitarios públicos o privados de la República Argentina.",
+    "sinonimos": [],
+    "temas": [
+      "migraciones-y-extranjeria",
+      "residencias-temporarias-y-permanentes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Migraciones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas extranjeras que sean pacientes bajo tratamiento médico y demuestren la necesidad de ser atendidos en establecimientos sanitarios públicos o privados de la República Argentina.",
+      "En caso de personas menores de edad, discapacitados o enfermos que por la importancia de su patología debieran permanecer con acompañantes, la autorización se otorgará haciéndose extensiva a los familiares directos, representante legal o curador."
+    ],
+    "requisitos": [
+      {
+        "texto": "Pasaporte válido y vigente (todas las nacionalidades) o alguno de los documentos enumerados en el Anexo I del acuerdo sobre documentos de viaje Y de retorno de los estados partes del mercosur Y estados asociados (dc-46-2015-CMC) (solo para nacionales MERCOSUR).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Nacionalidad emitido por autoridad Consular, el cual deberá poseer fotografía de su titular y encontrarse legalizado por el Ministerio de Relaciones Exteriores, Comercio Internacional y Culto de la Nación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Antecedentes Penales Argentinos emitido por el Registro Nacional de Reincidencia (Solo exigible a mayores de 16 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado que acredite fehacientemente que no registra condenas anteriores ni procesos penales en trámite, emitido por las autoridades competentes de los países donde haya residido por un plazo superior a UN (1) año, durante el transcurso de los últimos TRES (3) años (Solo exigible a mayores de 1…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Historia clínica en donde conste la patología y el tratamiento médico a seguir en un establecimiento sanitario dentro de la República Argentina.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el tratamiento fuera llevado a cabo en un hospital público deberá encontrarse suscripta por el director de la institución.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el tratamiento fuera llevado a cabo en una institución privada o ante un médico particular, deberá certificarse la firma del profesional ante el ministerio de salud argentino.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Las personas menores de 18 años deben presentar partida de nacimiento legalizada y contar con la autorización de alguno de sus padres, quien deberá presentarse al momento de realizar el trámite con DNI vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Toda documentación expedida en el extranjero deberá contar con la legalización del Consulado Argentino, sito en el país emisor del documento Ministerio de Relaciones Exteriores Comercio Internacional y Culto, o Apostillada, si el país hubiera ratificado el Convenio de La Haya.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Sin perjuicio de lo dispuesto en los acuerdos o convenciones internacionales vigentes, toda documentación expedida por las representaciones consulares en el territorio nacional, deberá contar con la legalización del Ministerio de Relaciones Exteriores Comercio Internacional y Culto, excepto MERCOSU…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Toda documentación expedida en idioma extranjero deberá contar con la traducción al castellano efectuada por Traductor Público Nacional, Art. 6° Ley 20.305, y legalizada por el Colegio de Traductores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La documentación a presentar deberá ser original.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá tu tramite a distancia ingresando en el sistema RaDEX."
+      },
+      {
+        "texto": "Registrate como usuario, completá el formulario de solicitud y aboná las tasas correspondientes."
+      },
+      {
+        "texto": "Adjuntá la documentación y datos requeridos según el tipo de residencia a la que quieras aplicar."
+      },
+      {
+        "texto": "Si cumplís con los requisitos para formalizar tu solicitud, recibirás un email con la fecha de tu cita presencial."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La residencia transitoria por tratamiento médico se otorga por un plazo máximo de 1 año, prorrogable.",
+      "Las tramitaciones ante la Dirección Nacional de Migraciones son personales y sencillas, no se necesita la asistencia de un gestor.",
+      "Es necesario que te encuentres dentro del territorio de la República Argentina.",
+      "Podés realizar tu trámite con cita preferencial abonando un monto adicional.",
+      "En este caso el Certificado de Antecedentes Penales Argentinos se tramita por fuera de RADEX, siendo obligatoria su presentación el día de la cita."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-una-residencia-transitoria-por-tratamiento-medico",
+      "titulo": "Obtener una residencia transitoria por tratamiento médico | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T22:55:47.164Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de las tasas migratorias no se especifica en el texto, solo se indica que se deben abonar en la plataforma web.",
+    "La fecha de vigencia de la resolución o decreto que regula el trámite no se especifica con precisión en el texto."
+  ]
+}

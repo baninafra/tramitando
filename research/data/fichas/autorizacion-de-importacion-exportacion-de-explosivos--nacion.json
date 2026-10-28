@@ -1,0 +1,126 @@
+{
+  "tramite": {
+    "slug": "autorizacion-de-importacion-exportacion-de-explosivos",
+    "nombre": "Autorización de importación-exportación de explosivos",
+    "nombre_busqueda": "autorizacion importacion exportacion explosivos",
+    "resumen": "Para importar o exportar explosivos necesitás inscripción como importador/exportador, productos registrados y depósitos habilitados. Presentá la documentación completa en el Centro de Atención de ANMaC.",
+    "sinonimos": [
+      "autorizacion importacion explosivos",
+      "autorizacion exportacion explosivos"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMaC",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Solicitantes con inscripción como importador/exportador.",
+      "Solicitantes con productos registrados y depósitos habilitados y vigentes a su nombre."
+    ],
+    "requisitos": [
+      {
+        "texto": "Ficha de Datos Técnicos (FDT) N° 6, por duplicado, suscriptas por el representante legal o titular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación de firma cumplimentada con letra clara de imprenta, sin espacios en blanco y sin corrector líquido.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitud de Autorización de Importación tramitada con antelación a la fecha estimada del embarque.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para exportación: Ficha de Datos Técnicos (FDT) N° 6, por duplicado, suscriptas por el representante legal o titular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación de firma cumplimentada con letra clara de imprenta, sin espacios en blanco y sin corrector líquido.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditación del origen del material mediante factura de compra si fue adquirido a un usuario registrado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia debidamente certificada con la correspondiente legalización de la licencia y/o autorización de importación otorgada por el país de destino.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización de tránsito internacional si lo hubiere.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Traducción al idioma castellano de la documentación confeccionada en idioma extranjero, efectuada por traductor público nacional.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Inscripción vigente a su nombre.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Registro del material vigente a su nombre.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Depósitos vigentes a su nombre.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "180",
+    "consejos": [
+      "La Autorización de Importación tiene vigencia de 180 días corridos, prorrogables por idéntico período, con un máximo autorizado hasta en tres parciales.",
+      "La solicitud de prórroga de Autorización de Importación se puede efectuar presentando las FDT N° 6 por duplicado, sin tachaduras o enmiendas, adjuntando la Autorización original y consignando los motivos.",
+      "La Autorización de Importación puede extenderse hasta en seis parciales si hay grandes volúmenes, debiendo abonar un arancel adicional.",
+      "La Autorización de Exportación tiene vigencia de 120 días corridos, prorrogables por idéntico período.",
+      "La Autorización de Exportación queda agotada una vez cumplido el acto de verificación.",
+      "La Autorización de Exportación puede extenderse hasta en tres parciales si hay grandes volúmenes, debiendo abonar un arancel adicional.",
+      "La solicitud de prórroga de Autorización de Exportación se puede efectuar presentando las FDT N° 6 por duplicado, sin tachaduras o enmiendas, adjuntando la Autorización original y consignando los motivos."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 10000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/autorizacion-de-importacion-exportacion-de-explosivos"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/autorizacion-de-importacion-exportacion-de-explosivos",
+      "titulo": "Autorización de importación-exportación de explosivos | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:27:51.333Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta del Centro de Atención de ANMaC",
+    "Requisitos específicos para menores o casos especiales"
+  ]
+}

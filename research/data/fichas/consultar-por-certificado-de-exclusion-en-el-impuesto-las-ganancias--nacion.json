@@ -1,0 +1,73 @@
+{
+  "tramite": {
+    "slug": "consultar-por-certificado-de-exclusion-en-el-impuesto-las-ganancias",
+    "nombre": "Consultar por certificado de exclusión en el impuesto las ganancias",
+    "nombre_busqueda": "verificar certificado de exclusión impuesto ganancias",
+    "resumen": "Podés consultar la vigencia de los certificados de exención en el Impuesto a las Ganancias emitidos bajo la Resolución General 2681 de forma gratuita y en línea.",
+    "sinonimos": [
+      "verificar vigencia certificado exención ganancias",
+      "consultar certificado exclusión impuesto ganancias"
+    ],
+    "temas": [
+      "cuil-y-clave-de-seguridad-social",
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración Federal de Ingresos Públicos",
+    "sigla": "AFIP",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada"
+    ],
+    "requisitos": [
+      {
+        "texto": "Dispositivo con acceso a Internet",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave Única de Identificación Tributaria - CUIT",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio de ARCA"
+      },
+      {
+        "texto": "Colocá tu número de CUIT"
+      },
+      {
+        "texto": "Cliqueá en el botón Consultar"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consultar-por-certificado-de-exclusion-en-el-impuesto-las-ganancias",
+      "titulo": "Consultar por certificado de exclusión en el Impuesto a las Ganancias | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T15:19:07.243Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia de los certificados no se especifica en el texto."
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "tramite": {
+    "slug": "permiso-de-ingreso-transitorio-para-participantes-de-programas-de-intercambio",
+    "nombre": "Permiso de ingreso transitorio para participantes de programas de intercambio cultural o de voluntariado",
+    "nombre_busqueda": "Permiso de ingreso transitorio intercambio cultural",
+    "resumen": "Permiso para extranjeros inscriptos en programas de intercambio cultural o voluntariado que necesiten ingresar al Territorio Nacional.",
+    "sinonimos": [
+      "Permiso ingreso transitorio intercambio",
+      "Permiso ingreso transitorio voluntariado"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Migraciones",
+    "sigla": "DNM",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Extranjeros inscriptos o requeridos para ingresar al Territorio Nacional como participantes de un programa de intercambio cultural o de voluntariado."
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia de inscripción en Re.N.U.R.E. (original y copia) del requirente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poder otorgado por el requirente con facultades suficientes para actuar ante la DNM (original y copia) del apoderado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI vigente del apoderado (original y copia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción electrónica al programa de intercambio suscripta por el responsable de la entidad organizadora.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia completa y actualizada del pasaporte válido y vigente del ingresante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Convenio Internacional o Carta de aceptación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización de padres o tutores legales y acreditación de designación de representante legal en el Territorio Nacional (para menores).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Legalizaciones y traducción pública nacional de toda documentación emitida en el exterior.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Solicitá turno escribiendo a [email protected]."
+      },
+      {
+        "texto": "Presentá la Nota de Solicitud y la totalidad de la documentación requerida ante el Departamento de Tramitación de Ingresos de la Sede Central de la Dirección Nacional de Migraciones o ante la delegación DNM correspondiente."
+      },
+      {
+        "texto": "Seguí el estado de tu trámite durante el período de supervisión."
+      },
+      {
+        "texto": "Presentate en donde hayas iniciado la solicitud para notificarte del otorgamiento y poder informar al extranjero que puede presentarse ante el Consulado Argentino correspondiente para obtener su visa."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La vigencia del permiso es de un año."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-un-permiso-de-ingreso-transitorio-para-participantes-de-programas-de-intercambio",
+      "titulo": "Obtener un Permiso de Ingreso Transitorio para participantes de programas de Intercambio Cultural o de Voluntariado | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-27T07:00:48.816Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T07:00:48.816Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de las delegaciones DNM según domicilio del requirente.",
+    "Enlace oficial para sacar turno en línea."
+  ]
+}

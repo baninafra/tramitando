@@ -1,0 +1,86 @@
+{
+  "tramite": {
+    "slug": "solicitar-rubrica-de-libros-sanitarios",
+    "nombre": "Solicitar rúbrica de libros sanitarios",
+    "nombre_busqueda": "Solicitar rúbrica de libros sanitarios",
+    "resumen": "Los productores pecuarios deben mantener actualizado el Libro de Registro de Tratamientos de productos veterinarios. El trámite consiste en presentar 10 copias del anexo de la Resolución Senasa N° 666/2011 en las oficinas autorizadas.",
+    "sinonimos": [],
+    "temas": [
+      "carnet-sanitario"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Productor agropecuario"
+    ],
+    "requisitos": [
+      {
+        "texto": "10 (Diez) copias del anexo de la Resolución Senasa N° 666/2011",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a las Oficinas de Senasa autorizadas, de lunes a viernes de 8 a 14 hs."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Sanidad Animal",
+      "direccion": "Av. Paseo Colón Nº 367, piso 4º cfrente, C1063ACD, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-rubrica-de-libros-sanitarios"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-rubrica-de-libros-sanitarios",
+      "titulo": "Solicitar rúbrica de libros sanitarios | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T16:46:55.325Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/centros-regionales",
+      "titulo": "Centros Regionales | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T16:46:55.325Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T16:46:55.325Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horario de atención específico para consultas orientativas no listado en la ficha principal.",
+    "Direcciones de las oficinas regionales autorizadas para el trámite.",
+    "Vigencia de la Resolución Senasa N° 666/2011."
+  ]
+}

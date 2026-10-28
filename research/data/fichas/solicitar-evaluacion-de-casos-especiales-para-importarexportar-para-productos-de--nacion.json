@@ -1,0 +1,122 @@
+{
+  "tramite": {
+    "slug": "solicitar-evaluacion-de-casos-especiales-para-importarexportar-para-productos-de-origen",
+    "nombre": "Solicitar evaluación de casos especiales para importar/exportar para productos de origen",
+    "nombre_busqueda": "solicitar evaluación casos especiales importación exportación productos origen",
+    "resumen": "Si tu envío de productos de origen vegetal no cumple los requisitos fitosanitarios, podés solicitar una evaluación de casos especiales en línea. El Senasa interviene en la certificación y requiere que declare tu domicilio electrónico.",
+    "sinonimos": [
+      "evaluación casos especiales Senasa",
+      "casos especiales importación productos origen"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Importadores comerciales",
+      "Representantes legales",
+      "Despachantes de aduana",
+      "Agentes de transporte aduanero (ATA)",
+      "Particulares",
+      "Organismos públicos"
+    ],
+    "requisitos": [
+      {
+        "texto": "Digital",
+        "aclaracion": "Completá el formulario o nota de solicitud por parte del interesado."
+      },
+      {
+        "texto": "Acta de intervención de la Oficina del Senasa en los Puestos de Control Fronterizos",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de pago de arancel correspondiente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado fitosanitario de origen (CFo)/ documento de tránsito (Guía Aérea, Bill of lading o CRT)",
+        "aclaracion": null
+      },
+      {
+        "texto": "PRE-Afidi (pre autorización fitosanitaria de importación)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Factura comercial",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma TAD."
+      },
+      {
+        "texto": "Completá el formulario de solicitud de evaluación de casos especiales."
+      },
+      {
+        "texto": "Adjuntá la documentación requerida."
+      },
+      {
+        "texto": "Aboná el arancel que corresponda, ver los Medios de pago habilitados – Senasa."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Comercio Exterior Vegetal",
+      "direccion": "Av. Paseo Colón N° 367, Piso 6° contrafrente, C1063ACD, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-evaluacion-de-casos-especiales-para-importarexportar-para-productos-de-origen"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-evaluacion-de-casos-especiales-para-importarexportar-para-productos-de-origen",
+      "titulo": "Solicitar evaluación de casos especiales para importar/exportar para productos de origen vegetal | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T09:11:37.747Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T09:11:37.747Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T09:11:37.747Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no se especifica en el texto, consultá las Normativas relacionadas con los costos del trámite.",
+    "La fecha de vigencia de la nota de autorización no se especifica en el texto, solo se indica que se utiliza por única vez."
+  ]
+}

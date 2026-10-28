@@ -1,0 +1,63 @@
+{
+  "tramite": {
+    "slug": "soy-docente",
+    "nombre": "Soy Docente",
+    "nombre_busqueda": "beneficios para docentes en Morón",
+    "resumen": "Soy Docente es una iniciativa del Municipio de Morón que ofrece descuentos en comercios adheridos. Para acceder a los beneficios, mostrale tu recibo de sueldo.",
+    "sinonimos": [
+      "beneficios para docentes"
+    ],
+    "temas": [
+      "educacion-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060568",
+  "organismo": {
+    "nombre": "Municipio de Morón",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Docentes que tengan un recibo de sueldo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Recibo de sueldo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Mostrá tu recibo de sueldo para acceder a los beneficios en los comercios adheridos."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Los descuentos varían según el comercio y pueden tener condiciones, como días específicos, medios de pago, montos mínimos o restricciones para combinar promociones."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.moron.gob.ar/soy-docente/",
+      "titulo": "Soy Docente - Municipio de Morón",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T15:21:33.960Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa cómo obtener los beneficios ni si se requiere turno."
+  ]
+}

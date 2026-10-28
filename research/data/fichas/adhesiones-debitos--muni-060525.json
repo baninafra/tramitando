@@ -1,0 +1,74 @@
+{
+  "tramite": {
+    "slug": "adhesion-al-debito-automatico",
+    "nombre": "Adhesión al Débito Automático",
+    "nombre_busqueda": "Adhesión al Débito Automático",
+    "resumen": "Permite que los comercios cobren automáticamente desde la cuenta bancaria del usuario mediante un código de barras.",
+    "sinonimos": [
+      "Adhesión a Débito Automático",
+      "Adhesión a Débito Automático en línea"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060525",
+  "organismo": {
+    "nombre": "Municipio de Marcos Paz",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona natural o jurídica que tenga cuenta bancaria en el país."
+    ],
+    "requisitos": [
+      {
+        "texto": "Código de barras de la tarjeta de débito.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del documento de identidad.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio web del comercio."
+      },
+      {
+        "texto": "Escaneá el código de barras de la tarjeta de débito."
+      },
+      {
+        "texto": "Completá los datos de tu cuenta bancaria."
+      },
+      {
+        "texto": "Confirmá la adhesión."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.marcospazdigital.gob.ar/adhesiones-debitos",
+      "titulo": "Marcos Paz Digital",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T15:32:13.021Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el monto de la tasa o costo de la adhesión."
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "tramite": {
+    "slug": "solicitar-reconocimiento-de-servicio-caja-retiros-pfa",
+    "nombre": "Solicitar un reconocimiento de servicio",
+    "nombre_busqueda": "reconocimiento de servicio de la Caja de Retiros PFA",
+    "resumen": "Si aportaste a la Caja de Retiros, Jubilaciones y Pensiones de la Policía Federal y no cobrás un beneficio derivado de esos aportes, podés solicitar un reconocimiento de servicio. Podés iniciar el trámite en la plataforma TAD.",
+    "sinonimos": [
+      "reconocimiento de servicios PFA"
+    ],
+    "temas": [
+      "moratorias-y-reconocimiento-de-aportes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Caja de Retiros, Jubilaciones y Pensiones de la Policía Federal",
+    "sigla": "CRJPPF",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Si aportaste a la Caja de Retiros, Jubilaciones y Pensiones de la Policía Federal y no cobrás ningún beneficio derivado de esos aportes."
+    ],
+    "requisitos": [
+      {
+        "texto": "Foja de servicios original.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación original de sueldos y aportes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI original y copia del anverso y reverso.",
+        "aclaracion": null
+      },
+      {
+        "texto": "CDI, CUIL o CUIT.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia certificada de la resolución del organismo.",
+        "aclaracion": "Si te dieron de baja por cesantía o infracción."
+      },
+      {
+        "texto": "Formulario de solicitud de reconocimiento de servicios.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia autenticada del certificado de defunción.",
+        "aclaracion": "Si falleció la persona titular."
+      },
+      {
+        "texto": "Acta de matrimonio o documentación que acredite el vínculo invocado, en fotocopia autenticada.",
+        "aclaracion": "Si falleció la persona titular y hacés el trámite como cónyuge sobreviviente o por otro vínculo."
+      },
+      {
+        "texto": "Documentación requerida y formulario de reconocimiento de servicios firmado ante una autoridad competente.",
+        "aclaracion": "Si vivís en el interior o exterior del país, o no podés dirigirte al organismo. La autoridad puede ser la Policía Federal Argentina, una policía provincial o un juez de paz."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD para iniciar el trámite. Usá tu usuario y contraseña de Mi Argentina o ingresá por AFIP con tu CUIT y clave fiscal."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Si pertenecés a la Policía Federal Argentina, pedí la foja de servicios y la certificación de sueldos y aportes en el Departamento Central de Policía."
+      },
+      {
+        "texto": "Si sos otro afiliado, pedí la foja de servicios y la certificación de sueldos y aportes en la oficina de Recursos Humanos del organismo donde prestás servicios."
+      },
+      {
+        "texto": "Si vivís en el interior o exterior del país, o no podés dirigirte al organismo, enviá la documentación requerida y el formulario firmado ante una autoridad competente a la CRJPPF."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Departamento Central de Policía",
+      "direccion": "Moreno 1550, 3er piso, oficina 363",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-un-reconocimiento-de-servicio-caja-de-retiros-pfa"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-un-reconocimiento-de-servicio-caja-de-retiros-pfa",
+      "titulo": "Solicitar un reconocimiento de servicio - Caja de Retiros PFA | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T16:24:47.564Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa el costo del trámite.",
+    "No se informa el plazo de resolución."
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "tramite": {
+    "slug": "obtener-certificado-de-embarque-para-pasta-de-mani",
+    "nombre": "Obtener certificado de embarque para pasta de maní",
+    "nombre_busqueda": "certificado embarque pasta maní",
+    "resumen": "Este trámite es para empresas exportadoras de maní a Estados Unidos. Es gratuito, se hace en línea y el certificado se retira físicamente en la Subsecretaría de Mercados Agropecuarios.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Subsecretaría de Mercados Agropecuarios",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas exportadoras de maní a los Estados Unidos de América"
+    ],
+    "requisitos": [
+      {
+        "texto": "Factura o contrato de venta",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Adherí el servicio de trámites a distancia (TAD) en el portal de la AFIP."
+      },
+      {
+        "texto": "Realizá la relación de apoderamiento para la empresa."
+      },
+      {
+        "texto": "Ingresá con CUIT y clave fiscal (Nivel II en adelante)."
+      },
+      {
+        "texto": "Al ingresar a la plataforma, seleccioná persona física o jurídica que represente a la empresa."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Retirá el certificado en Paseo Colón 922, oficina 126."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "5 minutos",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Subsecretaría de Mercados Agropecuarios",
+      "direccion": "Paseo Colón 922, oficina 126",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/obtener-certificado-de-embarque-para-pasta-de-mani"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-certificado-de-embarque-para-pasta-de-mani",
+      "titulo": "Obtener certificado de embarque para pasta de maní | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-26T22:31:38.728Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si se requiere sacar turno, no está especificado en el texto.",
+    "El plazo de 5 minutos se refiere al tiempo del trámite en línea, no al tiempo de espera en la oficina."
+  ]
+}

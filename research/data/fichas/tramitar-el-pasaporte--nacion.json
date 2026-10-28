@@ -1,0 +1,137 @@
+{
+  "tramite": {
+    "slug": "tramitar-el-pasaporte",
+    "nombre": "Sacar el pasaporte",
+    "nombre_busqueda": "tramitar pasaporte argentina",
+    "resumen": "El pasaporte es el documento de viaje con validez internacional necesario para identificarte en el exterior. El trámite lleva 15 minutos y tiene un costo de 100000 centavos.",
+    "sinonimos": [
+      "solicitar pasaporte",
+      "pedir pasaporte",
+      "tramitar pasaporte"
+    ],
+    "temas": [
+      "pasaporte"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Renaper",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A todas las personas que viajen al exterior y a quienes quieran rectificar los datos de su Pasaporte."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI tarjeta vigente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pasaporte anterior",
+        "aclaracion": "Es recomendable pero no obligatorio"
+      },
+      {
+        "texto": "Testimonio judicial de la designación de la/s persona/s que ejerza/n la tutela, la curatela; o en su defecto, la autorización judicial correspondiente",
+        "aclaracion": "Solo para personas incapaces"
+      },
+      {
+        "texto": "DNI de la/s persona/s que ejerza/n la tutela, la curatela, o de la persona autorizada judicialmente",
+        "aclaracion": "Solo para personas incapaces"
+      },
+      {
+        "texto": "Consentimiento expreso de quien ejerza la responsabilidad parental, la tutela o la curatela con la indicación de que su ejercicio no se encuentra limitado para prestarlo",
+        "aclaracion": "Solo para personas incapaces"
+      },
+      {
+        "texto": "Acompañamiento del padre, madre o representante legal; y su DNI vigente",
+        "aclaracion": "Solo para menores de 18 años"
+      },
+      {
+        "texto": "Permiso para tramitar Pasaporte sin presencia de tus padres con certificación de la autoridad pertinente (escribano o juez)",
+        "aclaracion": "Solo para menores de 18 años"
+      },
+      {
+        "texto": "Testimonio judicial, suscripto por el funcionario competente según las leyes aplicables",
+        "aclaracion": "Solo para menores emancipados"
+      },
+      {
+        "texto": "Oficio judicial o testimonio de tutela del menor",
+        "aclaracion": "Solo para menores emancipados"
+      },
+      {
+        "texto": "Oficio judicial o testimonio de guarda provisoria con fines de adopción",
+        "aclaracion": "Solo para menores en un hogar"
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Sacá turno para un Centro de Documentación Renaper en la app Mi Argentina."
+      },
+      {
+        "texto": "Guardá la constancia de solicitud de trámite y hacé el seguimiento online con tu ID desde aquí."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en la oficina elegida con la constancia de turno y el comprobante de pago."
+      },
+      {
+        "texto": "Cuando el correo vaya a tu domicilio, lo podés recibir vos o alguien mayor de 18 años con la constancia de solicitud de trámite."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://mi.argentina.gob.ar/turnos/seleccion-turno/1073",
+    "plazo": "15 minutos",
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 100000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/tramitar-el-pasaporte"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tramitar-el-pasaporte",
+      "titulo": "Tramitar el Pasaporte | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T17:56:52.247Z"
+    },
+    {
+      "url": "https://mi.argentina.gob.ar/turnos/seleccion-turno/1073",
+      "titulo": "Ingresar | Mi Argentina",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T17:56:52.247Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T17:56:52.247Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del pasaporte (10 años para mayores de 18 años y 5 años para menores de 18 años) no tiene una fecha de inicio exacta en el texto, solo se menciona desde la fecha de emisión.",
+    "No se especifican direcciones ni localidades de las oficinas de Registro Civil ni de los Centros de Documentación Renaper."
+  ]
+}

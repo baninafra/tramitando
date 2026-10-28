@@ -1,0 +1,114 @@
+{
+  "tramite": {
+    "slug": "solicitar-autorizacion-importacion-exportacion-material-reproductivo",
+    "nombre": "Solicitar autorización para importar/exportar material reproductivo",
+    "nombre_busqueda": "autorizacion importacion exportacion material reproductivo senasa",
+    "resumen": "Para importar o exportar material reproductivo animal necesitás tramitar el Certificado Veterinario Internacional (CVI) ante el Senasa. El trámite requiere inscripción en el Registro de importadores y exportadores ante la Dirección General de Aduanas y la declaración de un domicilio electrónico.",
+    "sinonimos": [
+      "CVI material reproductivo",
+      "autorizacion importacion semen embriones",
+      "autorizacion exportacion material reproductivo"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Operadores comerciales interesados en exportar/importar material reproductivo animal (semen y/o embriones de diversas especies y huevos fértiles para incubar)."
+    ],
+    "requisitos": [
+      {
+        "texto": "Inscripción vigente en el Registro de importadores y exportadores ante la Dirección General de Aduanas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración de domicilio electrónico mediante el sistema SIGTrámites.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Consultar las exigencias sanitarias de exportación según mercancía y país de destino.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Consultar las exigencias sanitarias de importación.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma Trámites a Distancia -TAD: Exportación. Importación."
+      },
+      {
+        "texto": "Completá el formulario de solicitud de autorización."
+      },
+      {
+        "texto": "Adjuntá la documentación."
+      },
+      {
+        "texto": "Aboná el arancel que corresponda, ver los Medios de pago habilitados – Senasa."
+      },
+      {
+        "texto": "Vas a recibir la confirmación en tu correo electrónico."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a las Oficinas de Senasa autorizadas, de lunes a viernes de 8 a 14."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La solicitud de exportación / importación una vez autorizada tiene una validez de 30 días.",
+      "La vigencia de los certificados veterinarios de exportación varía según el país de destino."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Senasa autorizada",
+      "direccion": "Azopardo N° 1020 piso 1°, C1107ADR, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-autorizacion-para-importarexportar-material-reproductivo"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-autorizacion-para-importarexportar-material-reproductivo",
+      "titulo": "Solicitar autorización para importar/exportar Material reproductivo | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T04:52:21.854Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T04:52:21.854Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no está especificado en el texto, consultar la normativa relacionada con los costos del trámite.",
+    "La fecha de vigencia de la solicitud no está confirmada, el texto indica que la solicitud autorizada tiene una validez de 30 días."
+  ]
+}

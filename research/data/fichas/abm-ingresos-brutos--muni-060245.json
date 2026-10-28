@@ -1,0 +1,106 @@
+{
+  "tramite": {
+    "slug": "abm-ingresos-brutos-descentralizados",
+    "nombre": "ABM Ingresos Brutos descentralizados",
+    "nombre_busqueda": "ABM Ingresos Brutos descentralizados",
+    "resumen": "Trámite para el contribuyente que permite asesoramiento de altas, bajas y modificaciones de datos formales. Se realiza en el mostrador de Descentralización Tributaria y entrega un certificado sellado.",
+    "sinonimos": [
+      "ABM Ingresos Brutos",
+      "Ingresos Brutos Descentralizados",
+      "Formulario R444N"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060245",
+  "organismo": {
+    "nombre": "Descentralización Tributaria",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Contribuyentes",
+      "Contadores",
+      "Gestores"
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario R444N",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario R444I (Pago anticipo)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Enviar archivo por Internet a página Ministerio de Economía de la Pcia. de Bs. As.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia Comprobante de Pago",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de domicilio fiscal",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de Impuesto Inmobiliario",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el formulario R444N y el formulario R444I con el pago anticipado."
+      },
+      {
+        "texto": "Entregá la constancia de Impuesto Inmobiliario y la constancia de domicilio fiscal."
+      },
+      {
+        "texto": "Recibí el certificado con constancia del Contribuyente sellado R444N."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Descentralización Tributaria",
+      "direccion": "San Martín y Pte. Perón",
+      "localidad": "San Martín y Pte. Perón",
+      "horario": null,
+      "fuente_url": "https://www.ensenada.gov.ar/abm-ingresos-brutos/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.ensenada.gov.ar/abm-ingresos-brutos/",
+      "titulo": "ABM INGRESOS BRUTOS – Municipalidad de Ensenada",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-27T23:29:59.423Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el monto exacto en centavos, aunque el trámite es gratuito.",
+    "No se especifica la vigencia exacta del trámite."
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "tramite": {
+    "slug": "licencia-de-conducir",
+    "nombre": "Licencia de conducir",
+    "nombre_busqueda": "Licencia de conducir Bouwer",
+    "resumen": "Para obtener o renovar tu carnet de conducir en Bouwer necesitás cumplir requisitos específicos según tu edad y residencia, presentando documentación médica y aprobando exámenes teóricos.",
+    "sinonimos": [
+      "Carnet de conducir",
+      "Permiso de conducir"
+    ],
+    "temas": [
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141377",
+  "organismo": {
+    "nombre": "Municipalidad de Bouwer",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas mayores de 18 años que residan en Bouwer.",
+      "Personas mayores de 65 años que residan en Bouwer.",
+      "Personas mayores de 75 años que residan en Bouwer.",
+      "Personas menores de 65 años que residan en Bouwer."
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia del DNI donde figure datos filiatorios (nombre, apellido, número de documento), fecha de nacimiento y domicilio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Examen médico psicofísico con certificado de oculista, audiometría, electrocardiograma y test psicológico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de grupo sanguíneo firmado por bioquímico (solo para renovación desde los 65 hasta los 75 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado neurológico (solo para renovación mayores de 75 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "No tener multas de tránsito en la Provincia de Córdoba y en la Municipalidad de Bouwer.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Aprobar el examen teórico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dirigirse al médico clínico autorizado por la Municipalidad de Bouwer (podés sacar turno en el dispensario, teléfono: 4993264).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación original y fotocopia del DNI, los certificados médicos y el certificado de grupo sanguíneo si aplica."
+      },
+      {
+        "texto": "Acudí al médico clínico autorizado por la Municipalidad de Bouwer para realizar el examen teórico y psicofísico."
+      },
+      {
+        "texto": "Retirá la licencia de conducir una vez aprobado el examen."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dispensario",
+      "direccion": "Edif. Municipal",
+      "localidad": "Bouwer",
+      "horario": null,
+      "fuente_url": "https://municipalidaddebouwer.gob.ar/licencia-de-conducir/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://municipalidaddebouwer.gob.ar/licencia-de-conducir/",
+      "titulo": "Licencia de Conducir – Municipalidad de Bouwer",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T09:10:08.236Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto de la tasa o costo del trámite.",
+    "El plazo estimado para la obtención o renovación de la licencia."
+  ]
+}

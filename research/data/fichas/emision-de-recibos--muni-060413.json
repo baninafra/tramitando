@@ -1,0 +1,69 @@
+{
+  "tramite": {
+    "slug": "emision-de-recibos",
+    "nombre": "Emisión de recibos de tasas",
+    "nombre_busqueda": "Recibos de tasas",
+    "resumen": "Para obtener recibos de tasas en la Municipalidad de Junín, necesitás registrarte en Gestión Web Junín con tu DNI y completar el formulario correspondiente.",
+    "sinonimos": [
+      "Recibo de tasas",
+      "Recibo de tasas municipales"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060413",
+  "organismo": {
+    "nombre": "Municipalidad de Junín",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas físicas que tengan un usuario registrado en Gestión Web Junín."
+    ],
+    "requisitos": [
+      {
+        "texto": "D.N.I. original o fotocopia.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a Gestión Web Junín y registrate con tu DNI."
+      },
+      {
+        "texto": "Si ya tenés usuario, iniciá sesión con tu clave."
+      },
+      {
+        "texto": "Buscá el trámite de emisión de recibos de tasas y completá el formulario."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://gestionweb.junin.gob.ar/registro;jsessionid=u-ev9zBw2LG8tEZ3Bix-moY6Gtne_bNQGyr0vDpz.ubuntuserver",
+      "titulo": "Gestión web",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:03:05.593Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos de tasas ni costos asociados al trámite.",
+    "No se especifica el plazo de entrega del recibo.",
+    "No se especifica si se requiere turno para realizar el trámite."
+  ]
+}

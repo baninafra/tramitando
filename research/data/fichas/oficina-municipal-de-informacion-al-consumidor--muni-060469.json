@@ -1,0 +1,96 @@
+{
+  "tramite": {
+    "slug": "reclamos-omic-consumidores",
+    "nombre": "Presentar un reclamo en la OMIC",
+    "nombre_busqueda": "reclamo de consumidores en Lincoln",
+    "resumen": "La OMIC de Lincoln brinda orientación gratuita y tramita reclamos de consumidores y usuarios finales sobre bienes y servicios. No recibe reclamos por suministro de gas, luz o agua.",
+    "sinonimos": [
+      "reclamo de consumo",
+      "reclamo de consumidor"
+    ],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060469",
+  "organismo": {
+    "nombre": "Oficina Municipal de Información al Consumidor de Lincoln",
+    "sigla": "OMIC",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés acudir si sos una persona física o jurídica que compra o usa bienes, productos o servicios como destinataria final.",
+      "No podés acudir como consumidor final si comprás o usás bienes o servicios para integrarlos a una actividad de producción, transformación, comercialización o prestación a terceros."
+    ],
+    "requisitos": [
+      {
+        "texto": "Datos personales, como nombre, apellido, dirección, teléfono y correo electrónico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos de la empresa o el establecimiento reclamado, como nombre comercial, razón social, domicilio y teléfono.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación relacionada con el caso, como tickets, facturas, presupuestos, contratos, recibos o publicidad.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Completá el formulario oficial de reclamo con tus datos, los del comercio, lo ocurrido, lo que pedís y la documentación que respalda tu reclamo."
+      },
+      {
+        "texto": "Presentá el formulario y la documentación en la OMIC."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La OMIC no recibe reclamos por suministro de gas, luz o agua; esos reclamos los recibe la Oficina de la Defensoría del Pueblo."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": true,
+      "monto_centavos": null,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://lincoln.gob.ar/servicios/oficina-municipal-de-informacion-al-consumidor"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Oficina Municipal de Información al Consumidor de Lincoln",
+      "direccion": "Av. Massey 808",
+      "localidad": "Lincoln",
+      "horario": "Lunes a viernes de 7:00 a 13:00",
+      "fuente_url": "https://lincoln.gob.ar/servicios/oficina-municipal-de-informacion-al-consumidor"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://lincoln.gob.ar/servicios/oficina-municipal-de-informacion-al-consumidor",
+      "titulo": "OMIC · Municipalidad de Lincoln",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "consejos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T14:46:35.706Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa si necesitás sacar turno.",
+    "No se informa cuánto tarda la gestión."
+  ]
+}

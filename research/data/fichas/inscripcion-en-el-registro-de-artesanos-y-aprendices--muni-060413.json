@@ -1,0 +1,86 @@
+{
+  "tramite": {
+    "slug": "inscripcion-registro-artesanos-aprendices",
+    "nombre": "Inscripción en el registro de artesanos y aprendices",
+    "nombre_busqueda": "Inscribirse como artesano en Junín",
+    "resumen": "Inscribite en el registro municipal de artesanos de Junín y recibí la constancia en el momento. La constancia te permite participar en ferias locales y regionales.",
+    "sinonimos": [
+      "Registro de artesanos de Junín"
+    ],
+    "temas": [
+      "registro-de-artistas-y-propiedad-intelectual"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060413",
+  "organismo": {
+    "nombre": "Secretaría de Producción",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Artesanos de Junín."
+    ],
+    "requisitos": [
+      {
+        "texto": "Desarrollar una actividad artesanal en la ciudad de Junín.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Completá y firmá la solicitud de inscripción."
+      },
+      {
+        "texto": "Recibí la constancia de inscripción, que te entregan en el momento."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "El trámite demora 20 minutos y la constancia se entrega en el momento.",
+    "consejos": [
+      "La constancia te permite participar en ferias locales y regionales."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": true,
+      "monto_centavos": null,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.junin.gob.ar/content/inscripcion-en-el-registro-de-artesanos-y-aprendices"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Secretaría de Producción",
+      "direccion": "Belgrano 43, 1.º piso",
+      "localidad": "Belgrano 43, 1.º piso",
+      "horario": "De 8:15 a 13:30",
+      "fuente_url": "https://www.junin.gob.ar/content/inscripcion-en-el-registro-de-artesanos-y-aprendices"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.junin.gob.ar/content/inscripcion-en-el-registro-de-artesanos-y-aprendices",
+      "titulo": "Inscripción en el Registro de Artesanos y Aprendices | Gobierno de Junín",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T13:54:36.279Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica si necesitás turno."
+  ]
+}

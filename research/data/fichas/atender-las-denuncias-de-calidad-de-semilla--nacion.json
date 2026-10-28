@@ -1,0 +1,96 @@
+{
+  "tramite": {
+    "slug": "denuncias-calidad-semilla",
+    "nombre": "Atender las denuncias de calidad de semilla",
+    "nombre_busqueda": "denunciar calidad de semilla",
+    "resumen": "Presentá una nota formal firmada ante el INASE si compraste semilla y creés que no tiene la calidad óptima. El trámite es gratuito y se realiza de forma presencial.",
+    "sinonimos": [],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto Nacional de Semillas",
+    "sigla": "INASE",
+    "web": "https://www.argentina.gob.ar/servicio/atender-las-denuncias-de-calidad-de-semilla"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Usuarios de semillas"
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota formal firmada que detalle lugar y fecha, nombre, apellido, tipo y número de documento de identidad y domicilio del denunciante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Los hechos que motivan la denuncia y todas las circunstancias y demás elementos que ayuden a su esclarecimiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En cuanto fuera posible dejar constancia de: nombre y domicilio del vendedor de la semilla, fecha en que fue recibida la semilla, lugar y condiciones de almacenaje, análisis u otras comprobaciones que se practicaron, fecha, lugar y condiciones de siembra, deficiencias que se constataron, cantidad d…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que acredite la compra de semilla.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ejemplares de los rótulos retirados de las bolsas que hayan sido abiertas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Los rótulos adheridos a bolsas cerradas no deben ser removidos ni alterados.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la nota formal firmada con todos los datos requeridos."
+      },
+      {
+        "texto": "Acudí a la Sede Central del INASE en Av. Belgrano 450, PB: Mesa de Entradas, CP: C1092AAR - C.A.B.A o a las sedes del INASE."
+      },
+      {
+        "texto": "Podés enviar la denuncia por Correo postal o mediante el correo electrónico [email protected]."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "10 días",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central del INASE",
+      "direccion": "Av. Belgrano 450, PB: Mesa de Entradas, CP: C1092AAR - C.A.B.A",
+      "localidad": "C.A.B.A",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/atender-las-denuncias-de-calidad-de-semilla"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/atender-las-denuncias-de-calidad-de-semilla",
+      "titulo": "Atender las denuncias de calidad de semilla | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T04:24:18.122Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite no está especificada en el texto.",
+    "No se indica si se requiere turno para realizar el trámite."
+  ]
+}

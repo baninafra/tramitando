@@ -1,0 +1,146 @@
+{
+  "tramite": {
+    "slug": "patentar-tu-invento",
+    "nombre": "Patentar tu invento",
+    "nombre_busqueda": "Patentar invento Argentina",
+    "resumen": "Registrá tu patente de invención en línea para obtener un derecho de propiedad exclusivo por 20 años. El trámite lleva en promedio 5 años y requiere CUIT, Clave fiscal nivel 2 y documentos técnicos.",
+    "sinonimos": [
+      "Solicitar patente de invención",
+      "Registrar invención",
+      "Proteger invención"
+    ],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto Nacional de la Propiedad Industrial",
+    "sigla": "INPI",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A cualquier persona humana o jurídica, sus apoderados o agentes de la propiedad industrial matriculados.",
+      "Solo personas mayores de edad."
+    ],
+    "requisitos": [
+      {
+        "texto": "Ser mayor de edad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poseer CUIT, CUIL o CDI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener Clave fiscal nivel 2 vinculada al servicio del INPI en ARCA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Confeccionar una carátula.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Confeccionar una memoria descriptiva.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Confeccionar un pliego reivindicatorio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Incluir dibujos si corresponder.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Incluir el resumen de la invención a patentar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si sos apoderado: presentar copia del poder firmada por el apoderado declarando bajo juramento que es fiel al original e instrumenta mandato vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si sos persona jurídica: presentar declaración jurada sobre las facultades del firmante detallando los instrumentos societarios con datos de inscripción y expresión de que poseen facultades para realizar este acto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La solicitud no debe contener elementos contrarios a la moral, racistas, discriminatorios o violatorios del orden público.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La solicitud no debe contener declaraciones denigratorias respecto a personas, inventos registrados o solicitudes de terceros.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La solicitud no debe contener elementos extraños a la solicitud, superfluos, experiencias personales o técnicas expresadas en primera persona.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal de trámites con tu clave fiscal."
+      },
+      {
+        "texto": "Adherí el servicio del INPI en tu cuenta de ARCA."
+      },
+      {
+        "texto": "Accedé a patentes / trámites / patente de invención."
+      },
+      {
+        "texto": "Leé el instructivo y mirá el video para evitar errores en la carga de datos."
+      },
+      {
+        "texto": "Completá todos los datos del formulario."
+      },
+      {
+        "texto": "Firmá electrónicamente el formulario."
+      },
+      {
+        "texto": "Generá y pagá el arancel correspondiente."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "5 años",
+    "consejos": [
+      "La patente de invención tiene una vigencia de 20 años.",
+      "Luego de este plazo, la patente de invención pasará a dominio público.",
+      "Todas las novedades o actuaciones del trámite (publicación, observación, concesión, etcétera) se comunican mediante el Boletín de Notificaciones que se publica los días miércoles.",
+      "Se enviarán mensajes de aviso al correo electrónico declarado."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/patentar-tu-invento",
+      "titulo": "Patentar tu invento | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T23:21:34.538Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T23:21:34.538Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de oficinas",
+    "Localidad de oficinas",
+    "Nombre de oficinas"
+  ]
+}

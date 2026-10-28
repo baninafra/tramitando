@@ -1,0 +1,105 @@
+{
+  "tramite": {
+    "slug": "inscripcion-transporte-2",
+    "nombre": "Inscripción Transporte #2",
+    "nombre_busqueda": "Inscripción Transporte #2",
+    "resumen": "Trámite para habilitar a conductores registrados en apps como Uber o Cabify en Anisacate. Se requiere completar una planilla online y enviar documentación por correo o en persona.",
+    "sinonimos": [
+      "Habilitación STPP",
+      "Inscripción remises Anisacate"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141375",
+  "organismo": {
+    "nombre": "Municipalidad de Anisacate",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes estén registrados en una app de transporte (Uber, Cabify, Didi, etc.)"
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia del DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Licencia de conducir vigente B1 en adelante",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cédula verde o azul del vehículo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de seguro vigente con cobertura para uso comercial o transporte de pasajeros",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de CUIL/CUIT",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago del impuesto a la radicación del vehículo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de Revisión Técnica Obligatoria vigente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Registro de antecedentes penales (puede obtenerse online desde el Registro Nacional de Reincidencia)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de no inscripción al registro provincial de personas condenadas por delitos contra la integridad sexual (ley 9680)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá la planilla de inscripción virtual ingresando al siguiente enlace: https://docs.google.com/forms/d/e/1FAIpQLScX-wo3Ud9Yko_xtSEd8GyZgHzV9rrC0OMYmSz70kGBpBUbeg/viewform?usp=preview"
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el DEM o enviá todo por correo electrónico a anisacatecomercio@gmail.com"
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "DEM",
+      "direccion": "Ruta 5 Km 32 Bº Kanmar",
+      "localidad": "Ruta 5 Km 32 Bº Kanmar",
+      "horario": null,
+      "fuente_url": "https://anisacatemunicipio.gob.ar/inscripcion-transporte-2/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://anisacatemunicipio.gob.ar/inscripcion-transporte-2/",
+      "titulo": "Inscripción Transporte #2 – Municipalidad de Anisacate",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T08:05:19.555Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite no está especificada en el texto."
+  ]
+}

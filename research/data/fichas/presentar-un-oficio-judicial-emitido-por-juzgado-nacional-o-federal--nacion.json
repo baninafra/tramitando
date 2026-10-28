@@ -1,0 +1,90 @@
+{
+  "tramite": {
+    "slug": "presentar-un-oficio-judicial-emitido-por-juzgado-nacional-o-federal",
+    "nombre": "Presentar un oficio judicial emitido por juzgado nacional o federal",
+    "nombre_busqueda": "Presentar oficio judicial IGJ",
+    "resumen": "El profesional matriculado debe diligenciar el oficio a través del sistema DEOX y adjuntar el formulario correspondiente. Si el trámite tiene costo, se debe abonar previamente con comprobante.",
+    "sinonimos": [
+      "Presentación de oficios a la Inspección General de Justicia",
+      "Oficio judicial DEOX"
+    ],
+    "temas": [
+      "legalizaciones-y-apostillados"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": "IGJ",
+    "web": "https://www.argentina.gob.ar/servicio/presentar-un-oficio-judicial-emitido-por-juzgado-nacional-o-federal"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Profesionales matriculados/as (Art. 400 CPCCN)"
+    ],
+    "requisitos": [
+      {
+        "texto": "Oficio dirigido a la Inspección General de Justicia, de acuerdo a los requisitos detallados en la Resolución General IGJ 15/2024.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario 'Oficios Judiciales', acompañado por el oficio correspondiente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Deberás acompañar un formulario por cada entidad sobre la que requieras información.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el oficio es exento de pago, acompañalo con el formulario 'Oficios judiciales sin costo (manifestado en el oficio)'.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario y adjuntalo junto al oficio."
+      },
+      {
+        "texto": "En el caso de que el oficio tenga costo, abonalo previamente."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si el oficio es exento de pago, el beneficio de gratuidad debe estar expresado en la transcripción del auto que así lo ordena.",
+      "Las respuestas provistas a oficios judiciales se simplificarán en todos aquellos casos en que se solicite el 'legajo completo' o 'estatuto y modificaciones', remitiendo: el instrumento constitutivo (o reordenamiento estatutario si existiese), última sede social y última designación de autoridades i…"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/presentar-un-oficio-judicial-emitido-por-juzgado-nacional-o-federal",
+      "titulo": "Presentar un oficio judicial emitido por juzgado nacional o federal | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T01:38:30.356Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/formularios-igj",
+      "titulo": "Formularios IGJ | Argentina.gob.ar",
+      "bloques": [
+        "requisitos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T01:38:30.356Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia no está especificada en el texto."
+  ]
+}

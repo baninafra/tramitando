@@ -1,0 +1,102 @@
+{
+  "tramite": {
+    "slug": "planes-de-pago-municipales",
+    "nombre": "Convenios de pago de Tasas Municipales",
+    "nombre_busqueda": "Convenios de pago de tasas",
+    "resumen": "Existen convenios para pagar deudas de tasas municipales mediante planes de pago con anticipo y cuotas. Se requiere presentar documentación específica según el tipo de deuda y el caso (persona o empresa).",
+    "sinonimos": [
+      "Plan de pago tasas",
+      "Convenio pago deudas tasas",
+      "Pago cuotas tasas municipales"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "planes-de-pago-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas naturales y empresas con deudas de tasas municipales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento de Identidad original y copia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estatuto social o acta de asamblea y DNI de la persona que va a realizar el trámite.",
+        "aclaracion": "Solo para empresas."
+      },
+      {
+        "texto": "DNI del apoderado y poder si el trámite lo realiza un tercero.",
+        "aclaracion": "Solo si el trámite lo realiza un apoderado."
+      },
+      {
+        "texto": "Título de propiedad o Boleto de Compra y Venta.",
+        "aclaracion": "Para Tasa por Alumbrado, Limpieza y Conservación de la Vía Pública y Derecho de Construcción."
+      },
+      {
+        "texto": "Contrato de Locación.",
+        "aclaracion": "Para Locaciones de Bienes Municipales."
+      },
+      {
+        "texto": "Documento de Identidad del locatario original y copia.",
+        "aclaracion": "Para Locaciones de Bienes Municipales."
+      },
+      {
+        "texto": "Título de propiedad del automotor y Documento de Identidad del titular original y copia.",
+        "aclaracion": "Para Automotores."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentarse en el área de Servicios Públicos del Departamento de Recaudación en Alsina 43."
+      },
+      {
+        "texto": "Se le informa la deuda y se arma una simulación del plan de pago que consiste en el pago de un porcentaje de la deuda en concepto de anticipo y el resto en cuotas."
+      },
+      {
+        "texto": "Se concreta el Plan de Pago en relación al monto adeudado."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Departamento de Recaudación",
+      "direccion": "Alsina 43",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/tasas/convenios-pago/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/tramites/tasas/convenios-pago/",
+      "titulo": "Convenios de pago de Tasas Municipales | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T20:21:57.333Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos, plazos ni costos en el texto."
+  ]
+}

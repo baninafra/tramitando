@@ -1,0 +1,67 @@
+{
+  "tramite": {
+    "slug": "descarga-del-formulario-de-data-fiscal-municipal",
+    "nombre": "Descarga del Formulario de Data Fiscal Municipal",
+    "nombre_busqueda": "Descarga formulario data fiscal quilmes",
+    "resumen": "Permite descargar el formulario oficial de data fiscal para trámites municipales en Quilmes.",
+    "sinonimos": [
+      "Formulario data fiscal",
+      "Formulario data fiscal municipal"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060658",
+  "organismo": {
+    "nombre": "Secretaría de Hacienda",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en realizar trámites municipales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Acceso a internet.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal de trámites de Mi Quilmes Digital."
+      },
+      {
+        "texto": "Buscá el trámite 'Descarga del Formulario de Data Fiscal Municipal'."
+      },
+      {
+        "texto": "Hacé clic en el enlace para descargar el archivo."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mi.quilmes.gov.ar/tramites/90/descarga-del-formulario-de-data-fiscal-municipal",
+      "titulo": "Descarga del Formulario de Data Fiscal Municipal",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T14:10:53.446Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos adicionales, plazos ni costos en el texto."
+  ]
+}

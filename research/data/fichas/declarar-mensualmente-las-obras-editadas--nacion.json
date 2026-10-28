@@ -1,0 +1,92 @@
+{
+  "tramite": {
+    "slug": "declarar-mensualmente-las-obras-editadas",
+    "nombre": "Declarar mensualmente las obras editadas",
+    "nombre_busqueda": "declarar mensualmente las obras editadas",
+    "resumen": "Trámite obligatorio para todas las editoriales de obras literarias, con o sin inscripción en la DNDA, para declarar las obras editadas cada mes.",
+    "sinonimos": [],
+    "temas": [
+      "marcas-y-derecho-de-autor",
+      "registro-de-artistas-y-propiedad-intelectual"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional del Derecho de Autor",
+    "sigla": "DNDA",
+    "web": "https://www.argentina.gob.ar/servicio/declarar-mensualmente-las-obras-editadas"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Editoriales de obras literarias, estén o no inscriptas en la DNDA."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI o pasaporte.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago del trámite por depósito o transferencia bancaria de $450 al Fondo Cooperador Ley 23.412 DNDA-CAPIF.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD y buscá 'Declaración Jurada de obras editadas'."
+      },
+      {
+        "texto": "Iniciá el trámite."
+      },
+      {
+        "texto": "Subí la documentación obligatoria y complementaria."
+      },
+      {
+        "texto": "Al finalizar, recibí la constancia de trámite efectuado."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La vigencia del trámite es de 30 días."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 45000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/declarar-mensualmente-las-obras-editadas"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/declarar-mensualmente-las-obras-editadas",
+      "titulo": "Declarar mensualmente las obras editadas | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T05:53:29.851Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T05:53:29.851Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de oficinas para atención presencial."
+  ]
+}

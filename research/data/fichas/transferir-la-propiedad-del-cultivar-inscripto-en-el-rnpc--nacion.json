@@ -1,0 +1,83 @@
+{
+  "tramite": {
+    "slug": "transferir-propiedad-cultivar-rnpc",
+    "nombre": "Transferir la propiedad del cultivar inscripto en el RNPC",
+    "nombre_busqueda": "transferir propiedad cultivar RNPC",
+    "resumen": "Este trámite permite asentar en el INASE la transferencia de la titularidad de la propiedad de un cultivar inscripto en el Registro Nacional de la Propiedad de Cultivares (RNPC). Se realiza en línea a través del sistema TAD.",
+    "sinonimos": [
+      "transferencia de cultivar RNPC",
+      "cambio de titularidad cultivar"
+    ],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto Nacional de Semillas",
+    "sigla": "INASE",
+    "web": "https://www.argentina.gob.ar/servicio/transferir-la-propiedad-del-cultivar-inscripto-en-el-rnpc"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Todo titular de la variedad que quiera asentar la transferencia en el RNPC"
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento legal que acredite la transferencia de la propiedad",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD y utilizá para identificarte alguna de las formas que ofrece el sistema."
+      },
+      {
+        "texto": "Completá los campos solicitados e incorporá la documentación requerida."
+      },
+      {
+        "texto": "Cuando termines se generará un número de expediente que les permitirá realizar el seguimiento del mismo."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Se le comunica al solicitante que deberá abonar el arancel correspondiente a la Transferencia del Cultivar.",
+      "Se le comunica al solicitante el acto administrativo correspondiente a la Resolución de transferencia, la cual deberá ser publicada por un día en el Boletín Oficial.",
+      "Se asienta en el Título de Propiedad la transferencia, indicando el nuevo titular.",
+      "El INASE asienta en el Catálogo Nacional de Cultivares el nuevo titular de la variedad."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 47124000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/transferir-la-propiedad-del-cultivar-inscripto-en-el-rnpc"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/transferir-la-propiedad-del-cultivar-inscripto-en-el-rnpc",
+      "titulo": "Transferir la propiedad del cultivar inscripto en el RNPC | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-28T00:55:55.908Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el plazo de duración del trámite.",
+    "No se especifica si se requiere turno para realizar el trámite."
+  ]
+}

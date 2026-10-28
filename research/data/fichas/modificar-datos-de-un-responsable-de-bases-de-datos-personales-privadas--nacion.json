@@ -1,0 +1,85 @@
+{
+  "tramite": {
+    "slug": "modificar-datos-de-un-responsable-de-bases-de-datos-personales-privadas",
+    "nombre": "Modificar datos de un responsable de bases de datos personales privadas",
+    "nombre_busqueda": "Modificar datos responsable bases de datos privadas",
+    "resumen": "Actualizá los datos de tu registro en el Registro Nacional de Bases de Datos Personales si hubo cambios. Es un trámite gratuito que se realiza en línea.",
+    "sinonimos": [
+      "Modificar responsable base de datos",
+      "Actualizar datos responsable privado"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Los responsables de bases de datos personales privadas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de registro del responsable de la base de datos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave fiscal nivel 2 o superior de la AFIP o Apoderamiento en Trámites a distancia.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma Trámites a Distancia con clave fiscal nivel 2 o superior de la AFIP."
+      },
+      {
+        "texto": "Buscá e ingresá en el trámite Modificación de datos Responsable Registro Nacional de Bases de Datos."
+      },
+      {
+        "texto": "Dirigite a iniciar el trámite."
+      },
+      {
+        "texto": "Ingresá el número de registro del responsable."
+      },
+      {
+        "texto": "Modificá los datos necesarios."
+      },
+      {
+        "texto": "Confirmá el trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El correo electrónico informado en el apartado datos del solicitante de Trámites a distancia es el dato válido para cualquier comunicación.",
+      "Verificá que el correo electrónico esté correctamente informado en el apartado datos del solicitante de Trámites a distancia.",
+      "El dato de CUIT/CUIL será el único que no permite modificaciones una vez registrado."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/modificar-datos-de-un-responsable-de-bases-de-datos-personales-privadas",
+      "titulo": "Modificar datos de un responsable de bases de datos personales privadas | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T06:16:34.357Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Vigencia: Con el fin de mantener actualizado el registro, vas a tener que modificar los datos cada vez que se produzca un cambio en la información que declaraste."
+  ]
+}

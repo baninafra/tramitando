@@ -1,0 +1,103 @@
+{
+  "tramite": {
+    "slug": "reclamo-suspension-deliberada-suministro-electrico",
+    "nombre": "Reclamar suspensión deliberada del suministro eléctrico",
+    "nombre_busqueda": "Reclamar suspensión deliberada suministro eléctrico",
+    "resumen": "Reclámate ante el ENReGE si la empresa suspendió el suministro eléctrico sin avisarte o por falta de pago. Es gratis, requiere turno y se hace presencialmente en Suipacha 615.",
+    "sinonimos": [
+      "Reclamo suspensión eléctrica sin aviso",
+      "Suspensión eléctrica por falta de pago"
+    ],
+    "temas": [
+      "vivienda-y-servicios-del-hogar",
+      "subsidios-a-los-servicios-publicos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ente Nacional Regulador del Gas y la Electricidad",
+    "sigla": "ENReGE",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Usuarios de EDENOR y EDESUR."
+    ],
+    "requisitos": [
+      {
+        "texto": "Copia del título de propiedad o contrato de alquiler si el servicio no está a tu nombre.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del DNI donde conste el domicilio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota con las circunstancias de la suspensión del servicio (recomendado).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Llevá los datos y documentos requeridos."
+      },
+      {
+        "texto": "Acudí a la sede del ENReGE en Suipacha 615, Ciudad Autónoma de Buenos Aires."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "No olvides reclamar ante la empresa antes de hacerlo ante el ENReGE."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede del ENReGE",
+      "direccion": "Suipacha 615",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/reclamar-por-suspension-deliberada-del-suministro-electrico"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reclamar-por-suspension-deliberada-del-suministro-electrico",
+      "titulo": "Reclamar por suspensión deliberada del suministro eléctrico | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:44:10.277Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/enre/gestion-de-reclamos/formularios-online/formulario-atencion-usuarios",
+      "titulo": "Para reclamar por otras deficiencias en el servicio de EDENOR / EDESUR | Argentina.gob.ar",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T02:44:10.277Z"
+    },
+    {
+      "url": "https://mi.argentina.gob.ar/turnos/seleccion-turno/234",
+      "titulo": "Ingresar | Mi Argentina",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T02:44:10.277Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Fecha de vigencia del trámite.",
+    "Enlace para sacar turno online.",
+    "Plazo estimado de respuesta."
+  ]
+}

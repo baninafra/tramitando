@@ -1,0 +1,112 @@
+{
+  "tramite": {
+    "slug": "designar-apoderado-cobro-haberes-retiro-pension-militar",
+    "nombre": "Designar un apoderado para el cobro de los haberes de retiro o pensión militar",
+    "nombre_busqueda": "Designar apoderado cobro haberes retiro pension militar",
+    "resumen": "Nombrá a una persona para que cobre tus haberes y realice trámites en el IAF. Es gratuito y se hace presencialmente o por correo postal.",
+    "sinonimos": [
+      "Nombrar apoderado para cobro haberes",
+      "Designar representante cobro pension militar"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones",
+      "cobro-y-prestaciones-pami"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Adultos mayores de 18 años que perciban sus haberes por Banco de la Nación Argentina."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del titular y del apoderado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Último recibo de haberes",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poder Amplio y General (opcional, si se tiene)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate con la documentación requerida junto con tu apoderado a la sede central del IAF en CABA o a las Delegaciones del Interior."
+      },
+      {
+        "texto": "Presentá el DNI del titular y del apoderado."
+      },
+      {
+        "texto": "Si tenés Poder Amplio y General, presentalo junto a los DNIs."
+      },
+      {
+        "texto": "Si el trámite se hace por correo, enviá la copia certificada de la documentación junto al formulario de Acta Poder debidamente certificado al IAF."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "30 a 45 días",
+    "consejos": [
+      "El trámite se hace efectivo en la liquidación de haberes inmediata posterior a la presentación de la documentación.",
+      "El plazo aproximado es de entre 30 y 45 días según la fecha del mes en que se inicie el trámite.",
+      "El Poder tiene vigencia sin cumplimiento de plazo, excepto por revocación, fallecimiento, renuncia, muerte del apoderado, incapacidad o cualquier otra causal dispuesta por la normativa vigente."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede central del IAF",
+      "direccion": "Cerrito 572",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/designar-un-apoderado-para-el-cobro-de-los-haberes-de-retiro-o-pension-militar"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/designar-un-apoderado-para-el-cobro-de-los-haberes-de-retiro-o-pension-militar",
+      "titulo": "Designar un apoderado para el cobro de los haberes de retiro o pensión militar. | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen",
+        "consejos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T04:52:04.589Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/iaf",
+      "titulo": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T04:52:04.589Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T04:52:04.589Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horario de atención presencial: 08:00 a 13:00 horas.",
+    "Direcciones de las Delegaciones del Interior del IAF."
+  ]
+}

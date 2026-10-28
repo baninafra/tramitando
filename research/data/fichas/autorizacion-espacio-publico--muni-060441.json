@@ -1,0 +1,118 @@
+{
+  "tramite": {
+    "slug": "autorizacion-uso-espacio-publico",
+    "nombre": "Autorizar el uso del espacio público",
+    "nombre_busqueda": "permiso para usar el espacio público",
+    "resumen": "Presentá una nota para solicitar autorización de uso del espacio público. Hacelo con 15 días de anticipación al evento.",
+    "sinonimos": [
+      "autorización de uso del espacio público",
+      "permiso para usar el espacio público"
+    ],
+    "temas": [
+      "cortes-y-uso-de-la-via-publica"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060441",
+  "organismo": {
+    "nombre": "Dirección de Uso del Espacio Público",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés presentar una solicitud de autorización para usar el espacio público."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nombre y apellido completos de quien solicita.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de documento de quien solicita.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio real de quien solicita.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Correo electrónico de quien solicita.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descripción detallada de los hechos que motivan la solicitud.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cita de la norma legal que fundamenta el derecho invocado, si hace falta.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Petición clara y precisa que indique el objetivo del trámite.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que respalde el derecho de quien solicita.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Detalles y fotos relacionados con la solicitud. No se aceptan videos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de solicitud dirigida a la Dirección de Uso del Espacio Público.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá una nota con tus datos completos, los detalles y las fotos de la solicitud."
+      },
+      {
+        "texto": "Presentá la solicitud con 15 días de anticipación al evento."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "Presentá la solicitud con 15 días de anticipación al evento.",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Centro Administrativo Municipal",
+      "direccion": "Diagonal 80 N° 942 esquina 48",
+      "localidad": "La Plata",
+      "horario": null,
+      "fuente_url": "https://tramites.laplata.gob.ar/mesaentrada/autorizacion-espacio-publico.html"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://tramites.laplata.gob.ar/mesaentrada/autorizacion-espacio-publico.html",
+      "titulo": "Mesa General de Entradas - Municipalidad de La Plata",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T14:19:26.364Z"
+    },
+    {
+      "url": "https://cam.laplata.gob.ar/index.html",
+      "titulo": "Centro Administrativo Municipal",
+      "bloques": [
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T14:19:26.364Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se indica si la solicitud se presenta en persona o si requiere turno.",
+    "No se informa el costo del trámite."
+  ]
+}

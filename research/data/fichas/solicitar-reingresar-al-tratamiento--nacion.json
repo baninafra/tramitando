@@ -1,0 +1,93 @@
+{
+  "tramite": {
+    "slug": "solicitar-reingresar-al-tratamiento",
+    "nombre": "Solicitar reingresar al tratamiento",
+    "nombre_busqueda": "Solicitar reingreso al tratamiento",
+    "resumen": "Evalúa si es necesario el reingreso al tratamiento con la ART o EA si no habéis obtenido respuesta o si la solicitud fue denegada.",
+    "sinonimos": [],
+    "temas": [
+      "cuidados-domiciliarios-y-salud-mental",
+      "trabajo-y-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Capital Humano",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A las personas que hayan recibido el alta médica por parte de la ART/EA, y que habiendo transcurrido más de 5 días hábiles desde otorgada el alta, hayan solicitado el reingreso a tratamiento y se encuentren en alguno de los siguientes supuestos: No han obtenido respuesta por parte de la ART/EA lueg…"
+    ],
+    "requisitos": [
+      {
+        "texto": "Copia del DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Denegación de solicitud de reingreso a tratamiento o copia de la solicitud de reingreso a tratamiento a la ART/EA en el caso de no haber recibido respuesta.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario Anexo IV de la Resolución SRT Nº 5/26.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que funda la competencia de la comisión médica elegida.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si es por domicilio del DNI: copia del DNI del trabajador.",
+        "aclaracion": "Si es por domicilio del DNI."
+      },
+      {
+        "texto": "Si es por domicilio de efectiva prestación de servicios/donde presta tareas (domicilio donde trabaja): Certificado Res. SRT N° 698/17 o Res. SRT N° 11/18, según corresponda.",
+        "aclaracion": "Si es por domicilio de efectiva prestación de servicios."
+      },
+      {
+        "texto": "Si el domicilio donde habitualmente reporta (domicilio del empleador): Certificado Res. SRT N° 698/17 o Res. SRT N° 11/18, según corresponda.",
+        "aclaracion": "Si el domicilio donde habitualmente reporta es el del empleador."
+      },
+      {
+        "texto": "Toda la documentación médica (Historia clínica, estudios realizados por la ART o medico de obra social o particular) que tengas relacionados con la contingencia.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá tu expediente de manera virtual a través de la página de ARCA e-Servicios."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Iniciá tu expediente de manera presencial en la comisión médica."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-reingresar-al-tratamiento",
+      "titulo": "Solicitar reingresar al tratamiento | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T16:26:52.384Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica el plazo de resolución del trámite.",
+    "El texto no especifica si se requiere turno para iniciar el trámite."
+  ]
+}

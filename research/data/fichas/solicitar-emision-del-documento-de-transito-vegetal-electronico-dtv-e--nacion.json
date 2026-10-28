@@ -1,0 +1,96 @@
+{
+  "tramite": {
+    "slug": "solicitar-emision-del-documento-de-transito-vegetal-electronico-dtv-e",
+    "nombre": "Solicitar emisión del documento de tránsito vegetal electrónico DTV-e",
+    "nombre_busqueda": "Solicitar DTV-e",
+    "resumen": "Para el traslado de productos vegetales específicos, es obligatorio emitir el Documento de Tránsito Vegetal electrónico (DTV-e) mediante el sistema SIGDTV. El trámite es gratuito y se realiza por autogestión.",
+    "sinonimos": [
+      "Emisión DTV-e",
+      "Documento de tránsito vegetal electrónico"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Toda persona que envíe o reciba productos de origen vegetal que hagan tránsito federal, regional y local dentro de la República Argentina."
+    ],
+    "requisitos": [
+      {
+        "texto": "Acceso a internet.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave fiscal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estar debidamente registrado y tener la inscripción al día en el registro del Senasa que corresponda (de productores ─Renspa─, de viveros ─Renfo─, de empaques, de cámaras de frío, de mercados mayoristas, etc.).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener agregado como servicio en la AFIP el sistema SIGDTV.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Registrar un domicilio electrónico.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Emisión: Se tramita por autogestión a través del sistema SIGDTV."
+      },
+      {
+        "texto": "Cierre: Si sos destinatario o destinataria de la carga, tenés la obligación de cerrar el DTV-e en el plazo que corresponda."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El DTV-e tiene un plazo de vigencia y no puede utilizarse una vez vencido. La fecha de vencimiento, asignada por el sistema en el momento de la emisión, figura en el documento.",
+      "El DTV-e deberá acompañar la carga en todo momento, desde que sale del establecimiento de procedencia hasta que llega a su destino.",
+      "Todos los datos deben estar completos al momento de trasladar la mercadería y sin enmiendas de ninguna clase."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Senasa",
+      "direccion": "Av. Paseo Colón N° 367, Piso 7° contrafrente, C1063ACD, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-emision-del-documento-de-transito-vegetal-electronico-dtv-e"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-emision-del-documento-de-transito-vegetal-electronico-dtv-e",
+      "titulo": "Solicitar emisión del documento de tránsito vegetal electrónico (DTV-e) | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T08:56:36.481Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia del trámite."
+  ]
+}

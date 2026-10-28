@@ -1,0 +1,68 @@
+{
+  "tramite": {
+    "slug": "inscripcion-de-hijos-en-la-libreta-de-familia",
+    "nombre": "Inscripción de hijos",
+    "nombre_busqueda": "Inscripción de hijos en la libreta de familia",
+    "resumen": "Se solicita la anotación de hijos en la libreta de familia, al registro civil donde está inscripto el matrimonio, tanto si han nacido en la Provincia de Córdoba, como en otro punto del país.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141498",
+  "organismo": {
+    "nombre": "Municipalidad de Tancacha",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "La persona que realiza la inscripción en la libreta de familia."
+    ],
+    "requisitos": [
+      {
+        "texto": "Libreta de familia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos del acta de nacimiento del hijo que se pretende inscribir en la libreta de familia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI original de la persona que realiza la inscripción en la libreta de familia.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate personalmente en la oficina de registro civil donde está inscripto el matrimonio."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.tancacha.gob.ar/inscripcionHijo.html",
+      "titulo": "Inscripción de hijos en la libreta de familia",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T11:59:50.112Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de la oficina de registro civil donde está inscripto el matrimonio.",
+    "Si el trámite requiere turno o no."
+  ]
+}

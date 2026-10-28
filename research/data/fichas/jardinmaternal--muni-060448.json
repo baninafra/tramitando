@@ -1,0 +1,95 @@
+{
+  "tramite": {
+    "slug": "inscripcion-jardin-maternal-municipal",
+    "nombre": "Inscripción al Jardín Maternal Municipal",
+    "nombre_busqueda": "Inscripción jardín maternal laprida",
+    "resumen": "Para inscribir un niño/a al jardín maternal municipal de Laprida, necesitás presentar documentos del menor y de los padres/tutores, elegir un turno de cursada y pagar la tasa correspondiente.",
+    "sinonimos": [
+      "Inscripción jardín maternal",
+      "Inscripción cuna municipal"
+    ],
+    "temas": [
+      "educacion-y-estudios",
+      "jardines-y-salas-cuna"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060448",
+  "organismo": {
+    "nombre": "Municipalidad de Laprida",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Padres, madres o tutores del niño/a a inscribir."
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia del DNI del menor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de DNI del padre/madre/tutor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Recibo de sueldo del padre/madre/tutor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración jurada de ingresos (para trabajadores autónomos o desocupados).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá los documentos en las instalaciones del jardín maternal."
+      },
+      {
+        "texto": "Optá por un turno de cursada (mañana o tarde) según disponibilidad de bacante."
+      },
+      {
+        "texto": "Pagá la tasa correspondiente."
+      },
+      {
+        "texto": "Recibí la inscripción."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Jardín Maternal Municipal",
+      "direccion": "Av. San Martín 1160",
+      "localidad": "Laprida",
+      "horario": null,
+      "fuente_url": "https://www.laprida.gov.ar/index.php/contenido/p/jardinmaternal"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.laprida.gov.ar/index.php/contenido/p/jardinmaternal",
+      "titulo": "JARDÍN MATERNAL MUNICIPAL",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T07:17:35.017Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa no se indica en el texto.",
+    "La dirección de memoria para el pago no se especifica."
+  ]
+}

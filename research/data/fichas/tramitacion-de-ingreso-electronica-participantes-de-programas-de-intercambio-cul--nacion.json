@@ -1,0 +1,93 @@
+{
+  "tramite": {
+    "slug": "ingreso-electronica-participantes-programas-intercambio-cultural",
+    "nombre": "Ingreso electrónica participantes programas intercambio cultural",
+    "nombre_busqueda": "ingreso electronica intercambio cultural",
+    "resumen": "Trámite para extranjeros inscriptos en programas de intercambio cultural o voluntariado que ingresan a Argentina. Requiere documentación específica y constancia de inscripción electrónica.",
+    "sinonimos": [
+      "ingreso electronica voluntariado",
+      "ingreso electronica intercambio cultural"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Migraciones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El Ingresante",
+      "El Requirente: Entidad organizadora del Programa de Intercambio debidamente inscripta en el Registro Nacional Único de Requirentes (Re.N.U.R.E.).",
+      "El Apoderado del Requirente: Con poder/designación con facultades suficientes (ante escribano público)."
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia de inscripción electrónica al programa de intercambio suscripta por el responsable de la entidad organizadora, que se encuentre registrado ante el Re.N.U.R.E. para tales fines.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pasaporte válido y vigente del ingresante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Foto del ingresante (foto formal del rostro, con fondo blanco, debe ser tomada al momento de la carga del trámite, y no la imagen de otra foto).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Convenio Internacional o Carta de aceptación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado que acredite fehacientemente que no registra condenas anteriores ni procesos penales en trámite, emitido por las autoridades competentes de los países donde haya residido por un plazo superior a UN (1) año, durante el transcurso de los últimos TRES (3) años.",
+        "aclaracion": "Solo exigible a mayores de 16 años."
+      },
+      {
+        "texto": "Autorización de sus padres y acreditar la designación de un representante legal en el Territorio Nacional.",
+        "aclaracion": "Si sos menor de edad."
+      },
+      {
+        "texto": "Toda documentación expedida en el extranjero deberá contar con la legalización del Consulado Argentino, sito en el país emisor del documento, o Apostillada si el país hubiera ratificado el Convenio de La Haya, y su correspondiente traducción al idioma español.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá tu trámite a distancia ingresando en Tramitación de Ingreso Electrónico- TIE 24H."
+      },
+      {
+        "texto": "Debes adjuntar la documentación y datos requeridos según el tipo de ingreso que solicites."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tramitacion-de-ingreso-electronica-participantes-de-programas-de-intercambio-cultural-o-de",
+      "titulo": "Tramitación de Ingreso Electrónica - Participantes de programas de Intercambio Cultural o de Voluntariado | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T18:16:42.218Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del costo no está especificado en el texto, solo se indica referirse al cuadro tasas migratorias.",
+    "El plazo de tramitación no está especificado en el texto."
+  ]
+}

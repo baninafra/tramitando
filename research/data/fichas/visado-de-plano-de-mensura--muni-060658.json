@@ -1,0 +1,67 @@
+{
+  "tramite": {
+    "slug": "visado-de-plano-de-mensura",
+    "nombre": "Visado de plano de mensura",
+    "nombre_busqueda": "Visado plano mensura",
+    "resumen": "Solicita el visado de plano de mensura para obras en Quilmes. Se requiere presentar el plano de obra y el visado de plano de obra previo.",
+    "sinonimos": [
+      "Visado plano obra",
+      "Visado mensura"
+    ],
+    "temas": [
+      "permiso-de-obra-y-planos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060658",
+  "organismo": {
+    "nombre": "Secretaría de Desarrollo Urbano y Obra Pública",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en realizar una obra."
+    ],
+    "requisitos": [
+      {
+        "texto": "Plano de obra.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Visado de plano de obra.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el plano de obra y el visado de plano de obra."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mi.quilmes.gov.ar/tramites/122/visado-de-plano-de-mensura",
+      "titulo": "Visado de plano de mensura",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T08:29:54.707Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se especifica que se requiere visado de plano de obra, pero no se indica si es obligatorio presentar el visado de plano de obra previo como requisito separado o si está incluido en el visado de plano de mensura.",
+    "No se especifica el plazo de tramitación.",
+    "No se especifica si el trámite se realiza online o presencialmente.",
+    "No se especifica si se requiere sacar turno."
+  ]
+}

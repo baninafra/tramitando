@@ -1,0 +1,80 @@
+{
+  "tramite": {
+    "slug": "certificado-de-legalidad",
+    "nombre": "Certificado de Legalidad",
+    "nombre_busqueda": "Certificado de legalidad Quilmes",
+    "resumen": "Documenta que no tenés antecedentes penales ni multas en el municipio. Es necesario para trámites administrativos y judiciales.",
+    "sinonimos": [
+      "Certificado de antecedentes penales",
+      "Certificado de legalidad municipal",
+      "Certificado de antecedentes"
+    ],
+    "temas": [
+      "antecedentes-penales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060658",
+  "organismo": {
+    "nombre": "Agencia de Fiscalización y Control Comunal",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona natural o jurídica que necesite acreditar su legalidad en el municipio."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original y copia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de la CUIT.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si sos menor de edad: acta de nacimiento y documentación del padre o madre.",
+        "aclaracion": "Si sos menor de edad."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá tu DNI original y copia."
+      },
+      {
+        "texto": "Presentá la copia de tu CUIT."
+      },
+      {
+        "texto": "Si sos menor, presentá la acta de nacimiento y documentación del padre o madre."
+      },
+      {
+        "texto": "Recibí el certificado de legalidad."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mi.quilmes.gov.ar/tramites/186/certificado-de-legalidad",
+      "titulo": "Certificado de Legalidad - Mi Quilmes Digital",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T12:06:18.859Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el monto del trámite.",
+    "No se especifica el plazo de emisión.",
+    "No se especifica si se requiere turno."
+  ]
+}

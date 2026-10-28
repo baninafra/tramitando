@@ -1,0 +1,73 @@
+{
+  "tramite": {
+    "slug": "pagar-tasas",
+    "nombre": "Pagar tasas",
+    "nombre_busqueda": "Pagar tasas",
+    "resumen": "Podés pagar tus tasas municipales ingresando por la opción que mejor se adapte a tu situación y continuando la gestión con tu número de partida.",
+    "sinonimos": [],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060770",
+  "organismo": {
+    "nombre": "Municipio de San Vicente",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Vecinos y vecinas del municipio."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de partida.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá por la opción que mejor se adapte a tu situación."
+      },
+      {
+        "texto": "Continá la gestión con tu número de partida."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "http://www.sanvicente.gob.ar/tasas-online.html",
+      "titulo": "Tasas Online | Municipio de San Vicente",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T15:47:40.897Z"
+    },
+    {
+      "url": "http://www.sanvicente.gob.ar/index.html",
+      "titulo": "San Vicente - Municipio",
+      "bloques": [
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T15:47:40.897Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos de tasas.",
+    "No se especifican plazos de pago.",
+    "No se especifican requisitos adicionales para casos especiales."
+  ]
+}

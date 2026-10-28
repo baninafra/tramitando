@@ -1,0 +1,116 @@
+{
+  "tramite": {
+    "slug": "permiso-tramites-simplificados-de-obra",
+    "nombre": "Permiso o trámites simplificados de obra",
+    "nombre_busqueda": "permiso simplificado de obra",
+    "resumen": "Podés pedir un permiso simplificado para ejecutar obras y trabajos incluidos en el artículo 77 de la Ordenanza 10681. El trámite es presencial y requiere turno previo.",
+    "sinonimos": [
+      "permiso simplificado de obra",
+      "trámites simplificados de obra"
+    ],
+    "temas": [
+      "permiso-de-obra-y-planos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060441",
+  "organismo": {
+    "nombre": "Dirección General de Obras Particulares",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés solicitar el permiso para obras y trabajos detallados en el artículo 77 de la Ordenanza 10681."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota del propietario solicitando el permiso simplificado, dirigida al Director General de Obras Particulares.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Monotasa impresa y completa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dos copias del plano municipal para revisión.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Una copia del plano electromecánico para visado.",
+        "aclaracion": "Cuando corresponda, por ejemplo, si hay ascensor, montacargas o rampa vehicular."
+      },
+      {
+        "texto": "Cómputo y presupuesto.",
+        "aclaracion": "Si declarás una refacción o muros."
+      },
+      {
+        "texto": "Una copia del plano de propiedad horizontal y una copia del plano que dio origen a la propiedad horizontal.",
+        "aclaracion": "Si el inmueble está sometido al régimen de propiedad horizontal."
+      },
+      {
+        "texto": "Autorización de los copropietarios.",
+        "aclaracion": "Si el inmueble está sometido al régimen de propiedad horizontal."
+      },
+      {
+        "texto": "Requisitos de Catastro para ingresar la carpeta.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copias finales y la documentación correspondiente que te pidan para concluir el trámite.",
+        "aclaracion": "Después de la revisión."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Sacá un turno con la opción «Consulta Administrativa - Ingreso y Egreso Documentación»."
+      },
+      {
+        "texto": "Presentá la nota del propietario solicitando el permiso simplificado y la documentación requerida."
+      },
+      {
+        "texto": "Pagá el timbrado correspondiente."
+      },
+      {
+        "texto": "Presentá las copias finales y la documentación que te pidan después de la revisión para concluir el trámite."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://turnos.laplata.gob.ar/misdatos",
+    "plazo": null,
+    "consejos": [
+      "El análisis del proyecto puede requerir la intervención de otras dependencias, según la Dirección de Obras Particulares y la legislación o normativa aplicable."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://tramites.laplata.gob.ar/obrasparticulares/permiso-tramites-simplificados.html",
+      "titulo": "Obras Particulares - Municipalidad de La Plata",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:16:22.828Z"
+    },
+    {
+      "url": "https://turnos.laplata.gob.ar/misdatos",
+      "titulo": "Turnos online - Municipalidad de La Plata",
+      "bloques": [
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T14:16:22.828Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa el monto del timbrado.",
+    "No se especifica un plazo para completar el trámite.",
+    "No se indica una fecha exacta de vigencia."
+  ]
+}

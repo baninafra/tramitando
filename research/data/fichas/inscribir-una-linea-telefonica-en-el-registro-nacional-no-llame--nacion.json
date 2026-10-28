@@ -1,0 +1,74 @@
+{
+  "tramite": {
+    "slug": "inscripcion-de-nacimientos",
+    "nombre": "Inscribir una línea telefónica en el Registro Nacional No Llame",
+    "nombre_busqueda": "Inscribir una línea telefónica en el Registro Nacional No Llame",
+    "resumen": "Dejá de recibir llamadas publicitarias inscribiendo tu teléfono fijo o celular en el Registro Nacional No Llame. Es un trámite gratuito y se realiza en línea.",
+    "sinonimos": [],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares y usuarios de líneas telefónicas fijas o de celular."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del titular o usuario de la línea telefónica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Código de área y número del teléfono que querés inscribir.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dirección de correo electrónico.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario de Registro de línea en la página web."
+      },
+      {
+        "texto": "Hacé click en declaración jurada y guardá."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Tené en cuenta que la entrada en vigencia de la inscripción puede demorar hasta 30 días."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribir-una-linea-telefonica-en-el-registro-nacional-no-llame",
+      "titulo": "Inscribir una línea telefónica en el Registro Nacional No Llame | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T17:16:21.475Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La vigencia exacta del registro no se especifica más allá de que dura hasta que decidas dar de baja el teléfono."
+  ]
+}

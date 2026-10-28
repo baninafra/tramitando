@@ -1,0 +1,79 @@
+{
+  "tramite": {
+    "slug": "excepcion-cabotaje-fluvial-maritimo",
+    "nombre": "Solicitar excepción al cabotaje fluvial y marítimo",
+    "nombre_busqueda": "Excepción cabotaje fluvial marítimo",
+    "resumen": "Si necesitás realizar un servicio de cabotaje en buque de bandera extranjera por falta de disponibilidad de buques nacionales, podés solicitar la excepción a la Subsecretaría de Puertos, Vías Navegables y Marina Mercante.",
+    "sinonimos": [
+      "Excepción al cabotaje",
+      "Cabotaje bandera extranjera"
+    ],
+    "temas": [
+      "transporte-publico-y-viajes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Subsecretaría de Puertos, Vías Navegables y Marina Mercante",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cargador, recibidor o usuarios directos que requieran un buque o equipo de bandera extranjera por circunstancias excepcionales."
+    ],
+    "requisitos": [
+      {
+        "texto": "CUIT y Clave Fiscal",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresa a TAD."
+      },
+      {
+        "texto": "Buscá el trámite Pedido de Excepción al Cabotaje Fluvial y Marítimo."
+      },
+      {
+        "texto": "Ingresá con CUIT y clave fiscal."
+      },
+      {
+        "texto": "Seleccioná si es nuevo o renovación."
+      },
+      {
+        "texto": "Si es renovación, necesitás el número de tu Excepción por Disposición."
+      },
+      {
+        "texto": "Completá la información y documentación solicitada."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "10 a 90 días previos a la operación",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/instructivo-para-solicitar-la-excepcion-al-cabotaje-fluvial-y-maritimo-de-bandera",
+      "titulo": "Instructivo para solicitar la excepción al cabotaje fluvial y marítimo de bandera extranjera | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T05:48:01.481Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica si el trámite requiere turno en la página oficial."
+  ]
+}

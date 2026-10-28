@@ -1,0 +1,67 @@
+{
+  "tramite": {
+    "slug": "solicitar-certificacion-de-buenas-practicas-de-manufactura-bpm-en-establecimientos",
+    "nombre": "Solicitar certificación de buenas prácticas de manufactura (BPM)",
+    "nombre_busqueda": "Certificación BPM Senasa",
+    "resumen": "Los establecimientos habilitados por Senasa pueden solicitar la constancia de la implementación de Buenas Prácticas de Manufactura en línea o por correo electrónico.",
+    "sinonimos": [],
+    "temas": [
+      "comercio-e-industria",
+      "habilitacion-comercial"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Todo establecimiento elaborador de alimentos de origen animal habilitado por Senasa."
+    ],
+    "requisitos": [
+      {
+        "texto": "Cumplir con los requisitos sanitarios y de calidad establecidos por el país de destino.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Enviar la solicitud al correo electrónico [email protected]."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "7 días hábiles",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-certificacion-de-buenas-practicas-de-manufactura-bpm-en-establecimientos",
+      "titulo": "Solicitar certificación de buenas prácticas de manufactura (BPM) en establecimientos elaboradores de productos de origen animal | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T07:37:08.895Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T07:37:08.895Z"
+    }
+  ],
+  "sin_confirmar": []
+}

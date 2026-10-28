@@ -1,0 +1,125 @@
+{
+  "tramite": {
+    "slug": "pagar-tasas-municipales-san-vicente",
+    "nombre": "Pagar tasas municipales San Vicente",
+    "nombre_busqueda": "Pagar tasas San Vicente",
+    "resumen": "Regularizá tus tasas municipales con quita del 100% de intereses y multas en planes de 1 o 3 pagos, o con planes de hasta 12 cuotas. Sumá beneficios acumulables como descuentos por buen contribuyente y medios de pago digital.",
+    "sinonimos": [
+      "Regularizar tasas San Vicente",
+      "Pagar recargos San Vicente",
+      "Ordenar deuda AFIS San Vicente"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "planes-de-pago-municipales",
+      "libre-deuda-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060778",
+  "organismo": {
+    "nombre": "Municipio de San Vicente",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Contribuyentes con deuda en el sistema de recibos municipales.",
+      "Vecinos y comerciantes que quieran regularizar tasas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de partida, comercio, dominio o identificador correspondiente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Correo electrónico y teléfono de contacto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Registro en el sistema de cobro municipal (para planes de hasta 12 cuotas).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá desde el botón o escaneá el QR de pago en la página de beneficios."
+      },
+      {
+        "texto": "Seleccioná el tipo de tasa: inmueble, comercio, automotor o cementerio."
+      },
+      {
+        "texto": "Cargá el número de partida, comercio, dominio o identificador que corresponda."
+      },
+      {
+        "texto": "Elegí si querés cancelar al contado o regularizar en 3 pagos."
+      },
+      {
+        "texto": "Presioná Seleccionar imponible para que el sistema muestre la deuda actual total."
+      },
+      {
+        "texto": "Completá un correo electrónico y un teléfono de contacto."
+      },
+      {
+        "texto": "Presioná Generar recibo y pagar."
+      },
+      {
+        "texto": "Ir al pago en 1 o 3 pagos."
+      },
+      {
+        "texto": "Registrate o ingresá al sistema de cobro municipal para planes de hasta 12 cuotas."
+      },
+      {
+        "texto": "Buscá la opción de planes de facilidades de hasta 12 cuotas."
+      },
+      {
+        "texto": "Cargá los datos de la tasa o partida correspondiente."
+      },
+      {
+        "texto": "Revisá la deuda informada y las condiciones del plan."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate al Palacio Municipal para consultar las alternativas disponibles antes de fin de año."
+      },
+      {
+        "texto": "Acercate al Palacio Municipal para recibir asesoramiento presencial antes de fin de año."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.sanvicente.gob.ar/campanas/rentas-2026/beneficios-tasas-municipales.html",
+      "titulo": "Opciones de pago y beneficios para tus tasas municipales | AFIS San Vicente",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T15:51:38.965Z"
+    },
+    {
+      "url": "https://recibos.sanvicente.gob.ar/apex/f?p=204:104",
+      "titulo": "Ingreso Anonimo",
+      "bloques": [
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T15:51:38.965Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto menciona quita del 100% de intereses y multas, pero no especifica el monto exacto en centavos.",
+    "El plazo exacto no se especifica en el texto, solo se menciona 'antes de fin de año' y 'antes del próximo vencimiento'."
+  ]
+}

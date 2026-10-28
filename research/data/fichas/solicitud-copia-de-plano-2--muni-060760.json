@@ -1,0 +1,91 @@
+{
+  "tramite": {
+    "slug": "solicitud-copia-de-plano",
+    "nombre": "Solicitud de Copia de Plano",
+    "nombre_busqueda": "Solicitud de Copia de Plano",
+    "resumen": "Obtén una copia certificada del plano de obra aprobado o registrado de tu propiedad a través del Portal de Trámites.",
+    "sinonimos": [
+      "Copia de Plano",
+      "Obtener Copia de Plano"
+    ],
+    "temas": [
+      "obras-y-construccion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060760",
+  "organismo": {
+    "nombre": "Municipalidad San Miguel",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El titular del dominio sobre el inmueble.",
+      "Quien esté autorizado por el titular del dominio en una nota de solicitud de copia de plano."
+    ],
+    "requisitos": [
+      {
+        "texto": "Poseer previamente un plano aprobado y archivado en el municipio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Completar toda la información obligatoria que se solicita.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener aval para efectuar el pedido.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al link del Portal de Trámites."
+      },
+      {
+        "texto": "Logueate con clave AFIP o con clave ANSES."
+      },
+      {
+        "texto": "Seleccioná 'Copia de Plano' (debe iniciar un trámite por cada Partida)."
+      },
+      {
+        "texto": "Ir a 'Iniciar Trámite' y completá campos obligatorios en 'Caratula', y en 'Documentación Respaldatoria'."
+      },
+      {
+        "texto": "Hacé click en el botón 'Guardar' y luego en 'Confirmar'."
+      },
+      {
+        "texto": "Recibí el sellado que deberá abonar y subir al Portal."
+      },
+      {
+        "texto": "Obtén la copia certificada con código QR o parcelario de Copia de Plano si no se encontrara el plano en los archivos."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "2 a 5 días hábiles desde el momento que el expediente llega a la Dirección de Obras Particulares.",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.msm.gov.ar/guia-tramites/obras-particulares/solicitud-copia-de-plano-2/",
+      "titulo": "Solicitud de Copia de Plano - Municipalidad San Miguel",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T14:41:01.993Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos ni tasas en el texto.",
+    "No se especifican requisitos adicionales para casos especiales como menores o extranjeros."
+  ]
+}

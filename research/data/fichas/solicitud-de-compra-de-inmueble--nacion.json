@@ -1,0 +1,137 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-compra-de-inmueble",
+    "nombre": "Solicitud de compra de inmueble",
+    "nombre_busqueda": "Solicitud de compra de inmueble",
+    "resumen": "Trámite para adquirir inmuebles del Estado Nacional que no sean necesarios para sus funciones, dirigido a ocupantes, linderos, cooperativas y entidades sin fines de lucro.",
+    "sinonimos": [],
+    "temas": [
+      "catastro-e-inmuebles",
+      "vivienda-y-servicios-del-hogar"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Agencia de Administración de Bienes del Estado",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Ocupantes de inmuebles destinados a vivienda, comercio, industria o a la prestación de servicios públicos, cualquiera sea el origen de su título o condición legal, con exclusión de los que detentaren como consecuencia de un acto ilícito penal.",
+      "Propietarios de inmuebles linderos con respecto a predios estatales que encontrándose en zona urbana su configuración catastral no resulte reglamentaria o hallándose situados en zona rural sus dimensiones no resulten aptas para la explotación económica que se desarrolle predominantemente en el luga…",
+      "Cooperativas de vivienda u otras entidades sin fines de lucro, que los adquieran con el objeto de construir viviendas para sus asociados.",
+      "Asociaciones y Fundaciones previstas en el Artículo 33, párrafo segundo, inc. 1) del Código Civil, con destino exclusivo al cumplimiento de sus fines estatutarios.",
+      "Entidades beneficiarias de leyes de fomento con respecto a inmuebles que resulten necesarios para el desarrollo de la actividad legalmente promocionada.",
+      "Organismos provinciales, municipales o del Gobierno de la Ciudad Autónoma de Buenos Aires."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario datos del trámite",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia simple de la Partida Catastral ó Ficha Parcelaria que contenga el inmueble solicitado, o en su defecto respuesta del Catastro de la Jurisdicción que niegue la existencia de la misma",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia simple del Certificado, Asiento o Informe de Dominio emitido por el Registro de la Propiedad Inmueble de la jurisdicción o en su defecto respuesta de este que niegue la existencia de su registración",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotos del inmueble",
+        "aclaracion": null
+      },
+      {
+        "texto": "Foto satelital del inmueble",
+        "aclaracion": null
+      },
+      {
+        "texto": "Croquis del inmueble del ENA sobre el cual se solicita la Venta Directa (Ubicación del inmueble respecto al ejido urbano, polígono delimitado del inmueble ubicado entre calles para facilitar su detección)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Antecedentes de la ocupación (Permisos, Actas, Contratos)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia certificada del Poder para firmar",
+        "aclaracion": "Si sos persona jurídica."
+      },
+      {
+        "texto": "Copia certificada del Acta designación de Autoridades",
+        "aclaracion": "Si sos persona jurídica."
+      },
+      {
+        "texto": "Copia certificada del Estatuto",
+        "aclaracion": "Si sos persona jurídica."
+      },
+      {
+        "texto": "Título de propiedad del inmueble de su propiedad, Certificado de dominio del inmueble de su propiedad",
+        "aclaracion": "Si sos linderos."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Accedé al Sistema de Tramitación a Distancia por medio del sitio web: tramitesadistancia.gob.ar"
+      },
+      {
+        "texto": "Ingresá tu CUIT/CUIL y la Clave Fiscal (Nivel 3)"
+      },
+      {
+        "texto": "Aceptá los Términos y Condiciones de uso de la plataforma"
+      },
+      {
+        "texto": "Ingresá al Escritorio Único de Trámites a Distancia"
+      },
+      {
+        "texto": "Seleccioná la opción Mis datos"
+      },
+      {
+        "texto": "Editá los datos personales si necesitás (email, teléfono, domicilio constituido)"
+      },
+      {
+        "texto": "Ingresá al trámite de Solicitud de Compra de Inmueble"
+      },
+      {
+        "texto": "Confirmá tus datos correspondientes"
+      },
+      {
+        "texto": "Completá el formulario y la documentación obligatoria"
+      },
+      {
+        "texto": "Seleccioná el botón CONFIRMÁ TRÁMITE para finalizar el trámite"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El inmueble, para que pueda ser vendido, no debe tener ningún uso público, ni estar afectado a un proyecto, plan o programa del Estado Nacional, ni ser considerado parte de una reserva estratégica",
+      "El precio que deberá abonar por el inmueble es aquél que oportunamente tase el Tribunal de Tasaciones de la Nación y su pago debe realizarse previo a la escrituración",
+      "Le será requerida la presentación de información que justifique el destino del bien inmueble para el cual solicita la venta directa"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitud-de-compra-de-inmueble",
+      "titulo": "Solicitud de Compra de Inmueble | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T23:56:05.850Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto en centavos de peso que debe abonar por el inmueble",
+    "Si el trámite requiere turno",
+    "La fecha exacta desde la cual está vigente este trámite"
+  ]
+}

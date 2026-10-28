@@ -1,0 +1,105 @@
+{
+  "tramite": {
+    "slug": "reclamar-facturacion-acorde-la-categoria-electrodependiente",
+    "nombre": "Reclamar facturación acorde a la categoría electrodependiente",
+    "nombre_busqueda": "Reclamar facturación electrodependiente",
+    "resumen": "Si sos usuaria o usuario de EDENOR o EDESUR y figurás en el Registro de Electrodependientes por Cuestiones de Salud, podés reclamar la facturación acorde a la categoría tarifaria para usuarios electrodependientes que figuran en el registro habilitado por el Ministerio de Salud de la Nación.",
+    "sinonimos": [],
+    "temas": [
+      "subsidios-a-los-servicios-publicos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ente Nacional Regulador del Gas y la Electricidad",
+    "sigla": "ENReGE",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Únicamente a personas o familiares de personas electrodependientes que sean usuarias de EDENOR o EDESUR.",
+      "Si vivís fuera del AMBA, contactá al ente que regula el servicio eléctrico en tu provincia."
+    ],
+    "requisitos": [
+      {
+        "texto": "Comprobante de inscripción en el Registro de Electrodependientes por Cuestiones de Salud.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de la factura objetada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el servicio no está a tu nombre, debés presentar una copia del título de propiedad o del contrato de alquiler, o de un servicio a tu nombre, o del DNI donde conste el domicilio.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá este formulario."
+      },
+      {
+        "texto": "Cuando llegues a la opción Seleccioná el tipo de reclamo a realizar, elegí la opción Otros - Electrodependientes por Cuestiones de Salud."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "En Suipacha 615, Ciudad Autónoma de Buenos Aires, de lunes a viernes de 09:00 a 17:00 horas."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "No olvides reclamar ante la empresa antes de hacerlo ante el ENReGE."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede del ENReGE",
+      "direccion": "Suipacha 615",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/reclamar-facturacion-acorde-la-categoria-electrodependiente"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reclamar-facturacion-acorde-la-categoria-electrodependiente",
+      "titulo": "Reclamar facturación acorde a la categoría Electrodependiente | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:10:28.732Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/enre/gestion-de-reclamos/formularios-online/formulario-atencion-usuarios",
+      "titulo": "Para reclamar por otras deficiencias en el servicio de EDENOR / EDESUR | Argentina.gob.ar",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T02:10:28.732Z"
+    },
+    {
+      "url": "https://mi.argentina.gob.ar/turnos/seleccion-turno/223",
+      "titulo": "Ingresar | Mi Argentina",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T02:10:28.732Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo de respuesta del reclamo.",
+    "La fecha de vigencia de la resolución que habilita el beneficio."
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "tramite": {
+    "slug": "obtener-la-licencia-agricola",
+    "nombre": "Obtener la licencia agrícola",
+    "nombre_busqueda": "Licencia agrícola cáñamo",
+    "resumen": "Este trámite permite a productores o empresas realizar el cultivo y multiplicación de cáñamo no psicoactivo. Es gratuito y se realiza completamente en línea.",
+    "sinonimos": [
+      "Licencia para cultivo de cáñamo industrial",
+      "Permiso para producción de cáñamo"
+    ],
+    "temas": [
+      "produccion-rural"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas físicas o jurídicas que deseen cultivar cáñamo para la multiplicación de semillas, producción de grano o fibra.",
+      "Grandes productores agrícolas.",
+      "Productores de cáñamo industrial.",
+      "Proyectos públicos de las provincias."
+    ],
+    "requisitos": [
+      {
+        "texto": "Georreferenciación de los cultivos a través del programa Google Earth.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Archivo Excel Proyecto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de antecedentes penales del solicitante o de quien ejerza la representación legal en caso de persona jurídica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estatuto y actas con designación de cargos vigentes en caso de tratarse de una persona jurídica.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a Trámites a Distancia TAD y completá la Solicitud de licencia para la realización de actividades vinculadas al Cáñamo Industrial no psicoactivo."
+      },
+      {
+        "texto": "Adjuntá la documentación solicitada: Certificado de antecedentes penales, Georreferenciación de los cultivos y el archivo Excel Proyecto."
+      },
+      {
+        "texto": "Esperá la notificación de la aprobación o no aprobación de la licencia."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Recordá que si obtenés la licencia, vas a necesitar la Guía de transporte para trasladar la materia prima y/o producción.",
+      "El solicitante debe actualizar la información sobre la superficie cultivable y la georreferenciación y presentar una declaración jurada confirmando que se mantienen las condiciones de la solicitud inicial.",
+      "Si las condiciones han cambiado, se debe solicitar una modificación de la licencia."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 0,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/obtener-la-licencia-agricola"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 500000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/obtener-la-licencia-agricola"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/obtener-la-licencia-agricola"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 2000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/obtener-la-licencia-agricola"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-la-licencia-agricola",
+      "titulo": "Obtener la licencia agrícola | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T22:53:25.346Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T22:53:25.346Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel según resolución (Ver anexo III) se paga previo al dictado de la resolución.",
+    "El comprobante de pago se envía por mail una vez efectuado el pago.",
+    "El link para acceder a TAD (Nunca me registré) no se especifica en el texto.",
+    "La fecha de vigencia de la resolución 1/2024 no se especifica en el texto."
+  ]
+}

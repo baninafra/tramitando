@@ -1,0 +1,151 @@
+{
+  "tramite": {
+    "slug": "solicitar-certificado-de-antecedentes-penales-con-documento-extranjero",
+    "nombre": "Solicitar certificado de antecedentes penales con documento extranjero",
+    "nombre_busqueda": "Certificado de antecedentes penales extranjero",
+    "resumen": "Si sos mayor de 18 años y tenés documento de identidad de tu país, podés solicitar el CAP en sedes habilitadas. El trámite es presencial y tenés que presentarte con el documento original y fotocopia, más el volante de pago impreso.",
+    "sinonimos": [
+      "Certificado de antecedentes penales para extranjeros",
+      "CAP documento extranjero"
+    ],
+    "temas": [
+      "antecedentes-penales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro Nacional de Reincidencia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Extranjeros mayores de 18 años."
+    ],
+    "requisitos": [
+      {
+        "texto": "Original y fotocopia de documento de identidad de tu país, pasaporte o carta de nacionalidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cuenta de correo electrónico a tu nombre para que te enviemos el certificado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de solicitud completo, con firma y aclaración de puño y letra.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Boleta o comprobante de pago impreso.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Ingresá a la turnera del Registro Nacional de Reincidencia, elegí el país donde vas a hacer el trámite y, en el caso de la Argentina, la provincia."
+      },
+      {
+        "texto": "Al final de la página, hacé clic en 'Siguiente'."
+      },
+      {
+        "texto": "Elegí sede, día y hora del turno y la modalidad."
+      },
+      {
+        "texto": "Si hacés el trámite fuera del país, comunicate con la embajada o consulado argentino."
+      },
+      {
+        "texto": "Después de que completes y confirmes el formulario, recibí por correo electrónico un volante de pago."
+      },
+      {
+        "texto": "Imprimí el volante y abonalo en una sucursal de Provincia NET, o elegí la opción de pago electrónico mediante VEP."
+      },
+      {
+        "texto": "El día del turno, presentate en la sede con el documento original y fotocopia, el formulario firmado y el comprobante de pago impreso."
+      },
+      {
+        "texto": "Allí van a tomarte las impresiones digitales."
+      },
+      {
+        "texto": "Pasado el plazo de la modalidad que elegiste, recibí un último correo electrónico con un vínculo para que descargues tu certificado de antecedentes penales."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-antecedentes-penales-con-documento-extranjero",
+    "plazo": null,
+    "consejos": [
+      "La vigencia del certificado es de 5 días hábiles desde que recibiste el certificado.",
+      "Consultá en el organismo donde vas a presentarlo sobre la vigencia.",
+      "Si abonás un día hábil entre las 8 y las 18, el pago se acredita de inmediato.",
+      "La acreditación del pago puede demorar hasta 48 horas hábiles si usás VEP.",
+      "No se aceptan pagos realizados en terminales de autoservicio a ningún número de cuenta."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 850000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-antecedentes-penales-con-documento-extranjero"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 480000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-antecedentes-penales-con-documento-extranjero"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 240000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-antecedentes-penales-con-documento-extranjero"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 100000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-antecedentes-penales-con-documento-extranjero"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-antecedentes-penales-con-documento-extranjero",
+      "titulo": "Solicitar certificado de antecedentes penales con documento extranjero | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:02:47.487Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-antecedentes-penales-con-usuario-de-mi-argentina",
+      "titulo": "Solicitar certificado de antecedentes penales con usuario de Mi Argentina | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:02:47.487Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo exacto de entrega depende de la modalidad elegida y no se especifica en el texto.",
+    "Las direcciones y nombres de las sedes habilitadas no aparecen en el texto."
+  ]
+}

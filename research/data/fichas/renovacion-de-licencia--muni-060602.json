@@ -1,0 +1,108 @@
+{
+  "tramite": {
+    "slug": "renovacion-licencia-conducir",
+    "nombre": "Renovación de licencia",
+    "nombre_busqueda": "renovar la licencia de conducir",
+    "resumen": "Podés renovar tu licencia cuando vence y hasta 90 días corridos después. El trámite incluye exámenes, pagos y la impresión de la licencia.",
+    "sinonimos": [
+      "renovar el registro de conducir"
+    ],
+    "temas": [
+      "licencia-de-conducir",
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060602",
+  "organismo": {
+    "nombre": "Municipalidad de Patagones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés renovar si tu licencia venció o si pasaron hasta 90 días corridos desde su vencimiento."
+    ],
+    "requisitos": [
+      {
+        "texto": "Autorización de ambos padres firmada ante escribano público, en original.",
+        "aclaracion": "Si tenés menos de 17 años."
+      },
+      {
+        "texto": "Último DNI con domicilio en Patagones, en original y copia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Licencia de conducir, en original y copia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de legalidad expedido por el municipio de origen, en original.",
+        "aclaracion": "Si tu licencia no es del partido de Patagones."
+      },
+      {
+        "texto": "Certificado de antecedentes penales, en original.",
+        "aclaracion": "Si tu licencia incluye clases profesionales."
+      },
+      {
+        "texto": "Constancia de CUIL o CUIT.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Pagá las tasas provincial y nacional."
+      },
+      {
+        "texto": "Digitalizá tus datos personales y registrá tu foto, huellas y firma."
+      },
+      {
+        "texto": "Armá el expediente."
+      },
+      {
+        "texto": "Pedí el libre deuda de Deudores Alimentarios en las oficinas de Desarrollo Social."
+      },
+      {
+        "texto": "Pedí el libre deuda al Juzgado de Faltas."
+      },
+      {
+        "texto": "Hacete el examen médico en el turno que te asigne el operador."
+      },
+      {
+        "texto": "Rendí el examen práctico de manejo para la clase que vas a renovar, después del examen médico."
+      },
+      {
+        "texto": "Aboná el sellado del hospital y la tasa municipal."
+      },
+      {
+        "texto": "Entregá el expediente en la oficina."
+      },
+      {
+        "texto": "Esperá la autorización del trámite y la impresión de la licencia."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://patagones.gob.ar/licencia-de-conducir/renovacion-de-licencia/",
+      "titulo": "Renovación de Licencia – Municipalidad de Patagones",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T15:45:54.525Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informan los montos de las tasas provincial, nacional, municipal ni del sellado del hospital.",
+    "No se indica si necesitás turno para el examen médico."
+  ]
+}

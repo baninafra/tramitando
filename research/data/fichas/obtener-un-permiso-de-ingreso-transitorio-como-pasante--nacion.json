@@ -1,0 +1,99 @@
+{
+  "tramite": {
+    "slug": "permiso-de-ingreso-transitorio-como-pasante",
+    "nombre": "Permiso de ingreso transitorio como pasante",
+    "nombre_busqueda": "Permiso de ingreso transitorio pasante",
+    "resumen": "Permiso para extranjeros que ingresan a Argentina para realizar prácticas relacionadas con su estudio o formación bajo convenios internacionales o programas avalados.",
+    "sinonimos": [
+      "Permiso pasante",
+      "Permiso ingreso transitorio"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Migraciones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Extranjeros requeridos para ingresar al territorio nacional a fin de realizar prácticas relacionadas con su estudio, formación y especialización en virtud de un convenio internacional.",
+      "Solicitantes de convenios y/o programas internacionales de pasantías no comprendidos dentro de los supuestos anteriores, que cuenten con el aval del país de origen de los solicitantes, a través de su representación diplomática en la República Argentina y la Dirección Nacional de Migraciones."
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia de inscripción electrónica al curso pretendido suscripta por el responsable de la entidad educativa, que se encuentre registrado ante el Re.N.U.R.E. para tales fines.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia completa y actualizada del pasaporte válido y vigente del ingresante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Convenio Internacional o Carta de Aceptación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En el caso de estudiantes menores: autorización de sus padres (o tutores legales) y acreditar la designación de un representante legal en el territorio nacional.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Toda documentación emitida en el exterior deberá contar con sus respectivas legalizaciones y su correspondiente traducción realizada por traductor público nacional (de corresponder).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Solicitá turno escribiendo a [email protected]."
+      },
+      {
+        "texto": "Presentá la nota de solicitud y la totalidad de la documentación requerida en la Dirección Nacional de Migraciones, Delegaciones del interior del país o en Consulados en el exterior."
+      },
+      {
+        "texto": "Durante el período de supervisión de la solicitud presentada, podés seguir el estado de tu trámite."
+      },
+      {
+        "texto": "Una vez resuelto el trámite, debés presentarte en donde hayas iniciado la solicitud a los fines de notificarte del otorgamiento del mismo, y poder informarle al extranjero que puede presentarse ante el Consulado Argentino que le corresponda con el fin de obtener su visa."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La vigencia del permiso es de un año."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-un-permiso-de-ingreso-transitorio-como-pasante",
+      "titulo": "Obtener un Permiso de Ingreso Transitorio como Pasante | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-27T06:51:26.357Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T06:51:26.357Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa migratoria no está especificado en el texto, solo se indica que se debe consultar el cuadro tasas migratorias.",
+    "La dirección exacta de las oficinas no está especificada en el texto, solo se mencionan la Sede Central, Delegaciones del interior y Consulados en el exterior."
+  ]
+}

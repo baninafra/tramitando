@@ -1,0 +1,105 @@
+{
+  "tramite": {
+    "slug": "solicitar-individualizacion-y-rubrica-de-libros",
+    "nombre": "Solicitar individualización y rúbrica de libros",
+    "nombre_busqueda": "Oblea obligatoria para identificar cada uno de los libros",
+    "resumen": "Este trámite permite obtener ante la Inspección General de Justicia la oblea obligatoria para identificar cada uno de los libros de comercio. Se realiza en línea a través de TAD.",
+    "sinonimos": [
+      "Oblea obligatoria para identificar cada uno de los libros",
+      "Individualización y rúbrica de libros"
+    ],
+    "temas": [
+      "comercio-e-industria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes hayan inscrito su entidad civil o sociedad comercial."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de rúbrica de libros",
+        "aclaracion": null
+      },
+      {
+        "texto": "Servicio Trámites a distancia a través de AFIP habilitado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave fiscal nivel 2 o superior o Mi Argentina",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de Correlativo",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUIT",
+        "aclaracion": null
+      },
+      {
+        "texto": "Denominación y tipo de entidad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Los libros a rubricar",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD y seleccioná el tipo de trámite: podés optar por el trámite común o urgente."
+      },
+      {
+        "texto": "Completá el formulario, verificá tus datos y realizá el pago."
+      },
+      {
+        "texto": "Una vez finalizado el trámite, se enviará una notificación a través de la plataforma TAD."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Seguí el trámite en el buzón de Mis Trámites de TAD.",
+      "Ingresá a la solapa Notificaciones del Buzón Notificaciones para visualizar la notificación.",
+      "Desde la solapa Documentos Externos podés descargar el documento notificado."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-individualizacion-y-rubrica-de-libros",
+      "titulo": "Solicitar individualización y rúbrica de libros | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T09:14:29.839Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T09:14:29.839Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica una fecha exacta de vigencia, solo menciona que está en proceso de actualización de acuerdo a la normativa vigente."
+  ]
+}

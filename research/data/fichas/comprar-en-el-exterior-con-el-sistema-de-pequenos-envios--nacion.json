@@ -1,0 +1,76 @@
+{
+  "tramite": {
+    "slug": "compra-en-el-exterior-con-sistema-de-pequenos-envios",
+    "nombre": "Comprar en el exterior con el sistema de pequeños envíos",
+    "nombre_busqueda": "Comprar en el exterior con el sistema de pequeños envíos",
+    "resumen": "Adquirí productos en el extranjero y los recibí en casa a través del servicio de Courier Internacional, notificando el ingreso en ARCA.",
+    "sinonimos": [],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración de Correcciones Argentinas",
+    "sigla": "ARCA",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada."
+    ],
+    "requisitos": [
+      {
+        "texto": "Medios de pago autorizados para efectuar compras en el exterior (tarjeta de crédito, adhesión a sistema PayPal, DineroMail, Western Union, etc.).",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUIT.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave fiscal de ARCA con nivel de seguridad 3, como mínimo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Entrá al sitio web de ARCA con tu CUIT y Clave Fiscal e ingresá al servicio Envíos Postales Internacionales para notificar que recibiste la mercadería."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/comprar-en-el-exterior-con-el-sistema-de-pequenos-envios",
+      "titulo": "Comprar en el exterior con el sistema de pequeños envíos | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:50:53.545Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T04:50:53.545Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica si el trámite requiere turno ni cuál es la dirección de las oficinas para atención presencial."
+  ]
+}

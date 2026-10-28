@@ -1,0 +1,91 @@
+{
+  "tramite": {
+    "slug": "licencia-de-conducir",
+    "nombre": "Licencia de conducir - Profesional",
+    "nombre_busqueda": "Licencia profesional conducir Laprida",
+    "resumen": "Para renovar la licencia profesional se debe presentar documentación específica, realizar exámenes médicos y teóricos (si aplica), y pagar la tasa correspondiente.",
+    "sinonimos": [
+      "Renovación licencia profesional",
+      "Licencia profesional conducir"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060448",
+  "organismo": {
+    "nombre": "Municipalidad de Laprida",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Los y las interesadas en renovar la licencia de conductor/a."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI o constancia en trámite.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Licencia de conducir o denuncia de extravío, tramitada en el registro provincial de las personas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Libre deuda de impuestos municipales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de antecedentes penales, el mismo se tramita en la pagina (registro nacional de reincidencia) con tarjeta de débito o clave fiscal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Psicofísico vigente, en caso de no tenerlo deberá pedir turno en oficina de licencia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Sellados.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Sacá turno para tramitar tu licencia acá."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://www.laprida.gov.ar/index.php/contenido/p/licenciaprofesional",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de licencias",
+      "direccion": "Av. San Martín 1160",
+      "localidad": "Av. San Martín 1160",
+      "horario": null,
+      "fuente_url": "https://www.laprida.gov.ar/index.php/contenido/p/licenciaprofesional"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.laprida.gov.ar/index.php/contenido/p/licenciaprofesional",
+      "titulo": "Municipalidad de Laprida",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T08:01:13.638Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos de tasas.",
+    "No se especifica el plazo de tramitación."
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "tramite": {
+    "slug": "importar-productos-subproductos-y-alimentos-de-origen-animal",
+    "nombre": "Importar productos, subproductos y alimentos de origen animal",
+    "nombre_busqueda": "importar productos origen animal senasa",
+    "resumen": "Para importar productos de origen animal necesitás solicitar autorización ante el Senasa. El trámite depende del destino de uso de la mercadería y requiere documentación específica.",
+    "sinonimos": [
+      "importación productos animal senasa",
+      "autorización importación origen animal"
+    ],
+    "temas": [
+      "comercio-e-industria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas humanas o jurídicas interesadas en evaluar la posibilidad de importar un producto, subproducto o derivado con componentes de origen animal."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario Solicitud de importación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Monografía descriptiva del producto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Proyecto de rótulo complementario.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota en carácter de declaración jurada (modelo preestablecido).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ficha técnica del producto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Producto que haya ingresado al país y se encuentre registrado.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma TAD."
+      },
+      {
+        "texto": "Completá el formulario de solicitud de inscripción."
+      },
+      {
+        "texto": "Adjuntá la documentación."
+      },
+      {
+        "texto": "Vas a recibir la confirmación en tu correo electrónico."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Estrategia y Análisis de Riesgo",
+      "direccion": "Azopardo N° 1001, 2º piso, C1107AAB, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/importar-productos-subproductos-y-alimentos-de-origen-animal"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/importar-productos-subproductos-y-alimentos-de-origen-animal",
+      "titulo": "Importar productos, subproductos y alimentos de origen animal | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T16:36:38.805Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T16:36:38.805Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "donde"
+      ],
+      "consultada_en": "2026-10-26T16:36:38.805Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no se especifica en el texto, consultá las Normativas relacionadas con los costos del trámite.",
+    "La fecha de vigencia exacta no se especifica en el texto, solo se menciona que las solicitudes quedarán sujetas a la previa inspección del Senasa."
+  ]
+}

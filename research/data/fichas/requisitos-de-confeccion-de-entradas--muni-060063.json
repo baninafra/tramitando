@@ -1,0 +1,107 @@
+{
+  "tramite": {
+    "slug": "requisitos-de-confeccion-de-entradas",
+    "nombre": "Requisitos de confección de entradas",
+    "nombre_busqueda": "Requisitos de confeccion de entradas",
+    "resumen": "Para confeccionar entradas en Balcarce, las personas físicas y jurídicas deben presentar tres cuerpos de entrada con sello habilitante, cumpliendo requisitos específicos de numeración y contenido.",
+    "sinonimos": [],
+    "temas": [
+      "mesa-de-entradas-y-expedientes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060063",
+  "organismo": {
+    "nombre": "Municipalidad de Balcarce",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas físicas y jurídicas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tres cuerpos de entrada (uno para el espectador, otro para el contralor municipal y el restante para el organizador).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Numeración correlativa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Evento a realizar (baile, doma, picada, etc.).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Organizador.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Lugar, hora, fecha y año del evento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si es entidad, sello de la misma.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Precio de la entrada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Escudo del Municipio solo si el mismo es Organizador del evento.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá los talonarios para su sellado en el sector de atención al público del 1º Piso del Palacio Municipal."
+      },
+      {
+        "texto": "Retirá el cupón de pago en el 1º Piso del Palacio Municipal."
+      },
+      {
+        "texto": "Aboná en el sector de cajas ubicado en Planta Baja."
+      },
+      {
+        "texto": "Recibí la autorización de la emisión de entradas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Palacio Municipal",
+      "direccion": "Av. del Valle Nº 602",
+      "localidad": "Balcarce",
+      "horario": null,
+      "fuente_url": "https://balcarce-app.gob.ar/portal_servicios/servicio/requisitos-de-confeccion-de-entradas"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://balcarce-app.gob.ar/portal_servicios/servicio/requisitos-de-confeccion-de-entradas",
+      "titulo": "Portal de Servicios | Modernizacion Balcarce",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T21:28:50.908Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos ni plazos exactos de entrega.",
+    "No se especifica si el trámite requiere turno."
+  ]
+}

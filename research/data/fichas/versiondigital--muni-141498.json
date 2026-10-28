@@ -1,0 +1,81 @@
+{
+  "tramite": {
+    "slug": "dni-version-digital",
+    "nombre": "DNI en versión digital",
+    "nombre_busqueda": "DNI digital",
+    "resumen": "El DNI en tu celular tiene las mismas funciones que el DNI tarjeta, excepto para votar y viajar fuera del país. Es opcional y complementa al DNI físico.",
+    "sinonimos": [
+      "DNI en tu celular",
+      "DNI digital"
+    ],
+    "temas": [
+      "dni"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141498",
+  "organismo": {
+    "nombre": "Municipalidad de Tancacha",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Los ciudadanos argentinos o extranjeros con residencia vigente.",
+      "Los mayores de 14 años que tramiten un nuevo ejemplar de DNI."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener un teléfono celular con sistema operativo Android a partir del 5.0.21, o iOS 11.0 o posterior.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener descargada en el celular la aplicación Mi Argentina.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener una casilla de correo electrónico vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener una cuenta con la identidad validada en la aplicación Mi Argentina.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Crear la cuenta en la aplicación Mi Argentina si no la tenés."
+      },
+      {
+        "texto": "Descargar la aplicación Mi Argentina desde Play Store o App Store si no la tenés."
+      },
+      {
+        "texto": "Acceder al DNI en tu celular."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.tancacha.gob.ar/versionDigital.html",
+      "titulo": "Municipalidad de Tancacha",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "costo",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-26T09:50:36.422Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si no tenés cuenta en Mi Argentina podés crearla."
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "tramite": {
+    "slug": "sistema-de-reclamos",
+    "nombre": "Sistema de reclamos",
+    "nombre_busqueda": "Sistema de reclamos",
+    "resumen": "Hacé un reclamo o consultá los que tenés registrados en el sistema.",
+    "sinonimos": [
+      "Reclamos",
+      "Hacer un reclamo",
+      "Consultar reclamos"
+    ],
+    "temas": [
+      "servicios-urbanos-y-reclamos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060336",
+  "organismo": {
+    "nombre": "General Lavalle",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada."
+    ],
+    "requisitos": [
+      {
+        "texto": "Acceso a internet.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Conexión a la red.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Entrá al sitio web del sistema de reclamos."
+      },
+      {
+        "texto": "Hacé clic en el botón para hacer un reclamo."
+      },
+      {
+        "texto": "Completá los datos del reclamo."
+      },
+      {
+        "texto": "Guardá el reclamo enviado."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.generallavalle.gob.ar/reclamos/",
+      "titulo": "Sistema de reclamos",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T01:11:05.271Z"
+    },
+    {
+      "url": "https://www.generallavalle.gob.ar/reclamos/hacer-reclamo",
+      "titulo": "(sin título)",
+      "bloques": [
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T01:11:05.271Z"
+    },
+    {
+      "url": "https://www.generallavalle.gob.ar/reclamos/consultar-reclamos",
+      "titulo": "(sin título)",
+      "bloques": [
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T01:11:05.271Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de las oficinas para atención presencial.",
+    "Horarios de atención presencial.",
+    "Plazo de respuesta al reclamo.",
+    "Métodos de pago si aplica.",
+    "Documentos específicos para tipos de reclamos particulares."
+  ]
+}

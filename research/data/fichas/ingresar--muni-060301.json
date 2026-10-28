@@ -1,0 +1,80 @@
+{
+  "tramite": {
+    "slug": "declaracion-jurada-tasa-inspeccion-seguridad-higiene",
+    "nombre": "Declaración jurada y liquidación de tasa por inspección de seguridad e higiene",
+    "nombre_busqueda": "pagar tasa inspección seguridad higiene belgrano",
+    "resumen": "Ingresá a la plataforma de la Municipalidad de Belgrano para presentar la declaración jurada y liquidar la tasa por inspección de seguridad e higiene.",
+    "sinonimos": [
+      "Tasa TISH Belgrano",
+      "Inspección de seguridad e higiene"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060301",
+  "organismo": {
+    "nombre": "Municipalidad de Belgrano",
+    "sigla": null,
+    "web": "https://tish.generalbelgrano.gob.ar"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes deben presentar la declaración jurada y pagar la tasa por inspección de seguridad e higiene en el partido de General Belgrano."
+    ],
+    "requisitos": [
+      {
+        "texto": "Correo electrónico",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave de acceso",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la página de la Tasa de Inspección por Seguridad e Higiene de la Municipalidad de Belgrano."
+      },
+      {
+        "texto": "Completá el campo de correo electrónico."
+      },
+      {
+        "texto": "Completá el campo de clave."
+      },
+      {
+        "texto": "Hacé clic en Ingresar."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si no recordás tu clave, usá el enlace 'Olvidé mi Contraseña' en la página de inicio de sesión."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://tish.generalbelgrano.gob.ar/ingresar",
+      "titulo": "TASA DE INSPECCIÓN POR SEGURIDAD E HIGIENE",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T12:45:33.655Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el monto de la tasa.",
+    "No se detallan los requisitos documentales específicos para la declaración jurada más allá del acceso a la plataforma.",
+    "No se indica el plazo de vencimiento o presentación.",
+    "No se especifica si el trámite se completa íntegramente en línea o requiere pasos posteriores."
+  ]
+}

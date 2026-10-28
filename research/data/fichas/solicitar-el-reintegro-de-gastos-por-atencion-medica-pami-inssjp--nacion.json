@@ -1,0 +1,106 @@
+{
+  "tramite": {
+    "slug": "solicitar-reintegro-gastos-atencion-medica-pami-inssjp",
+    "nombre": "Solicitar el reintegro de gastos por atención médica a PAMI",
+    "nombre_busqueda": "Solicitar reintegro gastos médicos PAMI",
+    "resumen": "Si tuviste gastos médicos, podés solicitar un reintegro en PAMI de forma gratuita y en línea. La presentación de la solicitud debe hacerse dentro de los 180 días de generada la prestación.",
+    "sinonimos": [
+      "Reintegro gastos médicos PAMI",
+      "Reembolso atención médica INSSJP"
+    ],
+    "temas": [
+      "prestaciones-medicas-e-incluir-salud"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "PAMI",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "La persona afiliada",
+      "Su apoderado/a",
+      "Su familiar"
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento Nacional de Identidad del titular",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento Nacional de Identidad del familiar/representante (si un tercero hiciese el trámite)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Credencial de afiliación",
+        "aclaracion": null
+      },
+      {
+        "texto": "Factura discriminada del gasto efectuado (original, donde conste nombre, apellido y domicilio de la persona afiliada)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de Solicitud de reintegro de gastos",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación clínica respaldatoria (emitida a nombre de la persona afiliada)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Justificación de la necesidad de atención fuera del sistema (rechazos, falta de complejidad, según el caso)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio web de Pami"
+      },
+      {
+        "texto": "Hacé clic en el botón Iniciar este trámite web"
+      },
+      {
+        "texto": "Completá los datos"
+      },
+      {
+        "texto": "Hacé clic en el botón Enviar formulario"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-el-reintegro-de-gastos-por-atencion-medica-pami-inssjp",
+      "titulo": "Solicitar el reintegro de gastos por atención médica a PAMI (INSSJP) | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:45:55.103Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T08:45:55.103Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo exacto de 180 días no se especifica con fecha de inicio en el texto."
+  ]
+}

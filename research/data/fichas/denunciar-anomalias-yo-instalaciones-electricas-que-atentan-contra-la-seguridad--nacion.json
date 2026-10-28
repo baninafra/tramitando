@@ -1,0 +1,83 @@
+{
+  "tramite": {
+    "slug": "denunciar-anomalias-yo-instalaciones-electricas-que-atentan-contra-la-seguridad",
+    "nombre": "Denunciar anomalías y/o instalaciones eléctricas que atentan contra la seguridad",
+    "nombre_busqueda": "Denunciar anomalías y/o instalaciones eléctricas que atentan contra la seguridad",
+    "resumen": "Podés denunciar anomalías en instalaciones eléctricas que ponen en riesgo la integridad física de las personas o generan contaminación ambiental. El trámite es gratuito y se puede realizar por internet o llamando a la línea gratuita.",
+    "sinonimos": [
+      "Denunciar anomalías eléctricas",
+      "Reportar instalaciones eléctricas inseguras"
+    ],
+    "temas": [
+      "seguridad-y-denuncias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ente Nacional Regulador del Gas y la Electricidad",
+    "sigla": "ENReGE",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Usuarios de EDENOR y EDESUR"
+    ],
+    "requisitos": [
+      {
+        "texto": "Nombre, domicilio (entre qué calles, localidad, barrio, partido, código postal) y número de teléfono del reclamante (propio o de un vecino)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos de la(s) instalación(es) por las que efectúas el reclamo (calle y altura, entre qué calles, localidad, barrio, partido)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario online disponible en la página del servicio."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/denunciar-anomalias-yo-instalaciones-electricas-que-atentan-contra-la-seguridad",
+      "titulo": "Denunciar anomalías y/o instalaciones eléctricas que atentan contra la seguridad | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T15:11:15.775Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/enre/gestion-de-reclamos/formularios-online/reclamo-seguridad-publica",
+      "titulo": "Para denunciar incidentes eléctricos que atentan contra la seguridad pública | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T15:11:15.775Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T15:11:15.775Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica en el texto si se requiere turno para realizar la denuncia.",
+    "No se especifica en el texto el plazo de respuesta o resolución de la denuncia."
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "tramite": {
+    "slug": "certificado-unico-de-discapacidad-discapacidad-auditiva",
+    "nombre": "Certificado Único de Discapacidad - Discapacidad Auditiva",
+    "nombre_busqueda": "Certificado Único de Discapacidad auditiva",
+    "resumen": "Trámite para obtener el Certificado Único de Discapacidad (CUD) por deficiencia auditiva. Requiere documentación médica y personal, evaluación interdisciplinaria y retiro presencial.",
+    "sinonimos": [
+      "CUD auditiva",
+      "Certificado discapacidad auditiva Bahía Blanca"
+    ],
+    "temas": [
+      "certificado-unico-de-discapacidad",
+      "discapacidad-y-accesibilidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas con discapacidad con deficiencia sensorial de origen auditivo.",
+      "Menores de 18 años."
+    ],
+    "requisitos": [
+      {
+        "texto": "Original y fotocopia del DNI con domicilio en Bahía Blanca.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Original y fotocopia del DNI.",
+        "aclaracion": "Si sos menor de 18 años."
+      },
+      {
+        "texto": "Certificado o acta de nacimiento.",
+        "aclaracion": "Si sos menor de 18 años."
+      },
+      {
+        "texto": "Fotocopia del DNI del padre, madre, tutor o curador.",
+        "aclaracion": "Si sos menor de 18 años."
+      },
+      {
+        "texto": "Fotocopia de la resolución judicial.",
+        "aclaracion": "Si sos menor de 18 años y hay curatela o tutela."
+      },
+      {
+        "texto": "Planilla de solicitud de CUD (descargar).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del carnet de Obra Social.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado médico del especialista donde conste: Diagnóstico, estado actual, y secuela que presenta.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Audiometría tonal.",
+        "aclaracion": "En casos de implante coclear con previa desconexión del mismo."
+      },
+      {
+        "texto": "Logoaudiometría.",
+        "aclaracion": "En los casos que es posible su administración."
+      },
+      {
+        "texto": "Estudios electro-fisiológicos (BERA / OEAs / PEAee).",
+        "aclaracion": "En menores de 2 años."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentarse personalmente en la oficina de Certificación de Discapacidad: Alsina 335 de lunes a viernes de 8:00 a 13:00 horas."
+      },
+      {
+        "texto": "Descargar y completar la planilla de solicitud de CUD y formularios según corresponda el tipo de discapacidad."
+      },
+      {
+        "texto": "Verificar que todos los estudios presentados estén firmados y sellados por médico especialista correspondiente al tipo de discapacidad."
+      },
+      {
+        "texto": "Concurrir a la oficina de Certificación de Discapacidad donde se verificará si la documentación es la correcta."
+      },
+      {
+        "texto": "Concurrir a la Junta Evaluadora Interdisciplinaria en la fecha y horario indicado."
+      },
+      {
+        "texto": "Retirar el CUD o la denegatoria desde la oficina de Certificación de Discapacidad."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Discapacidad",
+      "direccion": "Alsina 335",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/cud/auditiva/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/tramites/cud/auditiva/",
+      "titulo": "Discapacidad Auditiva | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T02:51:18.900Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el monto del trámite.",
+    "No se especifica el plazo de tramitación."
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "tramite": {
+    "slug": "autorizacion-de-viaje-al-exterior-para-menores-de-dieciocho-18-anos",
+    "nombre": "Autorización de viaje al exterior para menores de dieciocho años",
+    "nombre_busqueda": "Autorización de viaje al exterior para menores de dieciocho años",
+    "resumen": "Permite que un menor argentino de menos de 18 años viaje solo por el mundo con su pasaporte vigente. Se tramita presencialmente en Renaper o Registro Civil.",
+    "sinonimos": [
+      "Permiso amplio de viaje para menores",
+      "Autorización de salida al exterior para menores"
+    ],
+    "temas": [
+      "viajar-con-menores-o-mascotas",
+      "pasaporte",
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional del Registro Nacional de las Personas",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Ambos progenitores mayores de 18 años, argentinos o extranjeros con residencia.",
+      "El progenitor a cargo si es único.",
+      "Quien ejerce la responsabilidad parental del menor."
+    ],
+    "requisitos": [
+      {
+        "texto": "El menor debe ser argentino nativo o por opción.",
+        "aclaracion": null
+      },
+      {
+        "texto": "El menor debe tener DNI y Pasaporte vigentes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Los progenitores deben ser mayores de 18 años.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Los progenitores deben ser argentinos nativos o por opción, o extranjeros con residencia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Los datos de los progenitores deben estar asentados tal como figuran en la partida de nacimiento del menor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "El menor debe egresar del país con el Pasaporte vigente sobre el cual se le otorgó la autorización.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Consultá la modalidad de turno en el Registro Civil más cercano, dentro de la jurisdicción donde tengas domicilio."
+      },
+      {
+        "texto": "Presentate en la oficina elegida con los requisitos del trámite."
+      },
+      {
+        "texto": "Una vez completado y pagado el trámite, los autorizantes recibirán un comprobante digital de la generación de la autorización de viaje, a los medios de comunicación declarados en el momento de la realización del trámite, donde constarán los datos del trámite realizado y el alcance de la autorización."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": "15 minutos",
+    "consejos": [
+      "La autorización tramitada se otorga sobre un Pasaporte emitido, por lo que si el menor cambia su Pasaporte antes de cumplir los dieciocho años, deben volver a tramitarla.",
+      "La autorización está condicionada a que el menor autorizado egrese del país con el Pasaporte vigente sobre la cual se le otorgó la autorización.",
+      "La vigencia es hasta la mayoría de edad del menor o hasta el vencimiento del plazo de vigencia del Pasaporte del menor (lo que suceda primero)."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 3000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/autorizacion-de-viaje-al-exterior-para-menores-de-dieciocho-18-anos-que-egresen-del-pais"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/autorizacion-de-viaje-al-exterior-para-menores-de-dieciocho-18-anos-que-egresen-del-pais",
+      "titulo": "Autorización de viaje al exterior para menores de dieciocho (18) años que egresen del país con Pasaporte | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:33:36.878Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/interior/dni/centros-de-atencion-renaper",
+      "titulo": "Centros de Documentación Renaper | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T04:33:36.878Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T04:33:36.878Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La modalidad de turno se consulta en el Registro Civil más cercano o se puede presentarse sin turno en un Centro de Documentación Renaper."
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "tramite": {
+    "slug": "emision-de-liquidaciones-de-deuda",
+    "nombre": "Emisión de liquidaciones de deuda",
+    "nombre_busqueda": "Emisión de liquidaciones de deuda",
+    "resumen": "Permite obtener un informe detallado de la deuda de tasas de catastro.",
+    "sinonimos": [],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "catastro-e-inmuebles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060245",
+  "organismo": {
+    "nombre": "Municipalidad de Ensenada",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El Titular o Profesional actuante en el trámite."
+    ],
+    "requisitos": [
+      {
+        "texto": "Estampillado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos de la partida (número) o nomenclatura",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el estampillado y los datos de la partida (número) o nomenclatura en el mostrador de Catastro."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Catastro",
+      "direccion": "San Martín y Pte. Perón",
+      "localidad": "San Martín y Pte. Perón",
+      "horario": null,
+      "fuente_url": "https://www.ensenada.gov.ar/emision-de-liquidaciones-de-deuda/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.ensenada.gov.ar/emision-de-liquidaciones-de-deuda/",
+      "titulo": "EMISIÓN DE LIQUIDACIONES DE DEUDA – Municipalidad de Ensenada",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T23:31:15.877Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto de la tasa no está especificado en el texto, solo se menciona como variable por estampillado.",
+    "No se indica si el trámite se puede realizar online."
+  ]
+}

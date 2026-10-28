@@ -1,0 +1,79 @@
+{
+  "tramite": {
+    "slug": "registrar-un-apoderado",
+    "nombre": "Registrar un apoderado",
+    "nombre_busqueda": "Registrar un apoderado CNRT",
+    "resumen": "Hacé la habilitación de representantes legales y administrativos de las empresas permisionadas ante la CNRT de forma gratuita y en línea.",
+    "sinonimos": [
+      "Registrar representantes administrativos y legales de empresas",
+      "Habilitar apoderados CNRT"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Comisión Nacional de Regulación del Transporte",
+    "sigla": "CNRT",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A todas las empresas que posean un permiso de explotación de servicios de transporte."
+    ],
+    "requisitos": [
+      {
+        "texto": "Solicitud de inscripción en el registro de mandatos",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta poder",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración jurada de solidaridad de multas en el caso de empresa extranjera",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Accedé a TAD a través del enlace oficial."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": "https://www.argentina.gob.ar/turnos",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/registrar-un-apoderado",
+      "titulo": "Registrar un apoderado | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T03:22:54.470Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T03:22:54.470Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica el plazo exacto para la resolución del trámite.",
+    "El texto no detalla si se requiere asistencia presencial alguna vez completado el trámite en línea."
+  ]
+}

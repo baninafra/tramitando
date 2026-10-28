@@ -1,0 +1,97 @@
+{
+  "tramite": {
+    "slug": "ingreso-electronica-estudiantes-ensenanza-no-oficial",
+    "nombre": "Ingreso electrónico estudiantes enseñanza no oficial",
+    "nombre_busqueda": "ingreso electronica estudiantes no oficial",
+    "resumen": "Permiso para ingresar al país a estudiantes de cursos no oficiales o instituciones no reconocidas, con requisitos específicos según edad y nacionalidad.",
+    "sinonimos": [
+      "ingreso electronica estudiantes",
+      "ingreso electronica no oficial",
+      "ingreso electronica cursos no oficiales"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria",
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Seguridad Nacional",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El ingresante",
+      "El Requierente: Entidad educativa debidamente inscripta en el Registro Nacional Único de Requirentes (Re.N.U.R.E.)",
+      "El Apoderado del Requirente: Con poder/designación con facultades suficientes (ante escribano público)"
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia de inscripción electrónica al curso pretendido suscripta por el responsable de la entidad educativa, que se encuentre registrado ante el Re.N.U.R.E. para tales fines.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pasaporte válido y vigente del ingresante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Foto del ingresante (foto formal del rostro, con fondo blanco, debe ser tomada al momento de la carga del trámite, y no la imagen de otra foto).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cuando la permanencia en el país sea de más de 6 meses, presentar Certificado que acredite fehacientemente que no registra condenas anteriores ni procesos penales en trámite, emitido por las autoridades competentes de los países donde haya residido por un plazo superior a UN (1) año, durante el tra…",
+        "aclaracion": "Solo exigible a mayores de 16 años."
+      },
+      {
+        "texto": "En el caso de estudiantes menores, deberán presentar autorización de sus padres o tutores legales y acreditar la designación de un representante legal en el territorio nacional.",
+        "aclaracion": "Si sos menor de edad."
+      },
+      {
+        "texto": "Toda documentación expedida en el extranjero deberá contar con la legalización del Consulado Argentino, sito en el país emisor del documento, o Apostillada si el país hubiera ratificado el Convenio de La Haya, y su correspondiente traducción al idioma español.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá tu trámite a distancia ingresando en Tramitación de Ingreso Electrónico- TIE 24H."
+      },
+      {
+        "texto": "Debes adjuntar la documentación y datos requeridos según el tipo de ingreso que solicites."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tramitacion-de-ingreso-electronica-estudiantes-de-ensenanza-no-oficial",
+      "titulo": "Tramitación de Ingreso Electrónica - Estudiantes de Enseñanza No Oficial | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T18:07:17.926Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T18:07:17.926Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto en centavos de peso no se especifica en el texto, solo se menciona 'Ver cuadro tasas migratorias'.",
+    "El plazo exacto de vigencia del trámite no se especifica en el texto, solo se menciona 'Vigencia 1 años'."
+  ]
+}

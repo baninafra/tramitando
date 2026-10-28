@@ -1,0 +1,110 @@
+{
+  "tramite": {
+    "slug": "traslado-de-una-herboristeria",
+    "nombre": "Traslado de una herboristería",
+    "nombre_busqueda": "traslado herboristería",
+    "resumen": "Autorizá el traslado de una herboristería completando el formulario en TAD o presentando la nota de solicitud. Es un trámite gratuito que requiere documentos específicos como títulos de propiedad, habilitaciones del Ministerio de Salud y planos del establecimiento.",
+    "sinonimos": [
+      "traslado de farmacia, droguería y herboristería",
+      "traslado de distribuidora de productos biomédicos"
+    ],
+    "temas": [
+      "habilitacion-comercial"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El titular del establecimiento.",
+      "El apoderado."
+    ],
+    "requisitos": [
+      {
+        "texto": "Completar formulario de solicitud en TAD.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de presentación en conformidad de aceptación de cargo firmada conjuntamente del Presentante y del Director Técnico ingresante, o en su defecto certificar por banco o escribano.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título de propiedad, contrato de locación o comodato (según el titular sea propietario, locatario o comodatario del inmueble), con firmas certificadas por escribano público de las partes intervinientes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En el caso del contrato de comodato, adjuntar título de propiedad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tanto el contrato de alquiler como el contrato de comodato, tienen que especificar en sus respectivas cláusulas el destino y el plazo del mismo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el establecimiento se encuentra en una propiedad sometida al régimen de propiedad horizontal, se debe adjuntar reglamento de copropiedad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Disposición de Habilitación del Establecimiento otorgada por el Ministerio de Salud de la Nación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Disposición donde consta el alta del Director Técnico actual o número de expediente por donde lo tramita.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano del establecimiento con carátula del Ministerio de Salud de la Nación y las siguientes características: a) Escala 1:100. b) Detalle de los ambientes. c) Medidas de los ambientes (lineales y de superficie). Firma y sello del Profesional y Apoderado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Disposición de habilitación definitiva otorgada por CABA (Lectura de Código QR) o constancia de inicio de trámite.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave fiscal nivel 2 o superior de la AFIP o Apoderamiento en trámites a distancia para realizar el registro.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al TAD con Clave Fiscal y número de CUIT de la persona física o jurídica propietaria del establecimiento."
+      },
+      {
+        "texto": "Seleccioná el trámite 'Traslado de farmacia, droguería, herboristería y distribuidora de productos biomédicos'."
+      },
+      {
+        "texto": "Seguí los pasos indicados."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/traslado-de-una-herboristeria",
+      "titulo": "Traslado de una herboristería | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T06:44:39.397Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La página menciona que se modificará el proceso en TAD según la Resolución Ministerial N° 1938/2025, pero no especifica la fecha exacta de vigencia de esta resolución ni cuándo se aplicará la nueva plataforma.",
+    "No se especifica el plazo de tiempo para completar el trámite ni para la resolución final."
+  ]
+}

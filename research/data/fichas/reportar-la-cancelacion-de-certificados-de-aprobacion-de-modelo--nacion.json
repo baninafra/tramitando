@@ -1,0 +1,80 @@
+{
+  "tramite": {
+    "slug": "reportar-la-cancelacion-de-certificados-de-aprobacion-de-modelo",
+    "nombre": "Reportar la cancelación de certificados de aprobación de modelo",
+    "nombre_busqueda": "Reportar cancelación certificados aprobación modelo",
+    "resumen": "Los organismos de certificación acreditados por el OAA deben reportar la cancelación de certificados de aprobación de modelo de instrumentos de medición a través del sistema TAD.",
+    "sinonimos": [
+      "Reporte de cancelación de certificados de aprobación de modelo",
+      "Cancelación de certificados de aprobación de modelo"
+    ],
+    "temas": [
+      "certificados-personales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Subsecretaría de Defensa del Consumidor y Lealtad Comercial",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Organismos de Certificación acreditados por el Organismo Argentino de Acreditación (OAA) para los Reglamentos Técnicos y Metrológicos aplicables en el ámbito de la Ley N° 19.511."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener CUIT y clave fiscal nivel 2 o superior en ARCA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estar adherido al servicio de Trámites a Distancia (TAD).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener condición de apoderado en el sistema.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá el trámite a través de Trámites a Distancia (TAD) ante la Subsecretaría de Defensa del Consumidor y Lealtad Comercial."
+      },
+      {
+        "texto": "Adjuntá los Certificados de Cancelación de Aprobación de Modelo."
+      },
+      {
+        "texto": "Completá la planilla de reportes de la sección Descargas con la información detallada."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "5 días",
+    "consejos": [
+      "Una vez presentada la solicitud, la Secretaría cuenta con un plazo de 5 días para dar conformidad a este reporte.",
+      "Una vez emitida la conformidad, el Organismo de Certificación podrá notificarle a la firma solicitante del certificado."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reportar-la-cancelacion-de-certificados-de-aprobacion-de-modelo",
+      "titulo": "Reportar la Cancelación de Certificados de Aprobación de Modelo | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T03:45:54.001Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La dirección exacta del portal TAD no se especifica en el texto, solo se menciona acceder a través de TAD.",
+    "El monto de la tasa o costo del trámite no se menciona en el texto."
+  ]
+}

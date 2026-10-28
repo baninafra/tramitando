@@ -1,0 +1,45 @@
+---
+// Anterior / siguiente para listas paginadas. Conserva los parámetros de la URL (por ejemplo, la
+// ubicación elegida) y no muestra números de página para no llenar la pantalla en celular.
+import Icono from './Icono.astro';
+
+interface Props {
+  pagina: number;
+  paginas: number;
+  /** Ruta base sin query string: "/temas/dni". */
+  ruta: string;
+  parametros?: Record<string, string | undefined>;
+}
+const { pagina, paginas, ruta, parametros = {} } = Astro.props;
+
+const url = (numero: number) => {
+  const query = new URLSearchParams();
+  for (const [clave, valor] of Object.entries(parametros)) {
+    if (valor) query.set(clave, valor);
+  }
+  if (numero > 1) query.set('pagina', String(numero));
+  const texto = query.toString();
+  return texto ? `${ruta}?${texto}` : ruta;
+};
+---
+{paginas > 1 && (
+  <nav class="paginacion" aria-label="Páginas de resultados">
+    {pagina > 1 ? (
+      <a class="btn btn-secundario" href={url(pagina - 1)} rel="prev"><Icono nombre="arrow-left" />Anterior</a>
+    ) : (
+      <span class="btn btn-secundario deshabilitado" aria-hidden="true"><Icono nombre="arrow-left" />Anterior</span>
+    )}
+    <span class="estado" role="status">Página {pagina} de {paginas}</span>
+    {pagina < paginas ? (
+      <a class="btn btn-secundario" href={url(pagina + 1)} rel="next">Siguiente<Icono nombre="chevron-right" /></a>
+    ) : (
+      <span class="btn btn-secundario deshabilitado" aria-hidden="true">Siguiente<Icono nombre="chevron-right" /></span>
+    )}
+  </nav>
+)}
+
+<style>
+  .paginacion { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: var(--espacio-3); margin-top: var(--espacio-6); }
+  .estado { font: var(--t-nota); color: var(--tinta-2); }
+  .deshabilitado { opacity: 0.45; cursor: default; }
+</style>

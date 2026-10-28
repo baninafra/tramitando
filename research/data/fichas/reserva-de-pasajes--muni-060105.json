@@ -1,0 +1,97 @@
+{
+  "tramite": {
+    "slug": "reserva-de-pasajes",
+    "nombre": "Reserva de pasajes",
+    "nombre_busqueda": "Reserva de pasajes",
+    "resumen": "Para reservar pasajes en Bolívar, podés hacerlo online en la web de CNRT o presencialmente en la boletería de la Terminal de Ómnibus con tu DNI y Pase Libre Multimodal.",
+    "sinonimos": [],
+    "temas": [
+      "transporte-publico-y-viajes",
+      "trenes-y-micros"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060105",
+  "organismo": {
+    "nombre": "CNRT",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en reservar un pasaje."
+    ],
+    "requisitos": [
+      {
+        "texto": "Pase Libre Multimodal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI original.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Código de Barras.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la web y generá la reserva de tu pasaje en https://reservapasajes.cnrt.gob.ar/web/ingresar."
+      },
+      {
+        "texto": "Completá los datos de tu DNI y Código de Barras."
+      },
+      {
+        "texto": "Seleccioná fecha y lugar de destino."
+      },
+      {
+        "texto": "Una vez realizada la empresa enviará el pasaje de tu correo electrónico declarado."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "En la boletería de la Terminal de Ómnibus, presentando Pase Libre Multimodal y/o CUD, DNI original y fotocopia."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Hacé la reserva 48hs antes de la fecha del viaje."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Boletería de la Terminal de Ómnibus",
+      "direccion": "Terminal de Ómnibus",
+      "localidad": "Terminal de Ómnibus",
+      "horario": null,
+      "fuente_url": "https://www.bolivar.gob.ar/guia-de-tramites/reserva-de-pasajes"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bolivar.gob.ar/guia-de-tramites/reserva-de-pasajes",
+      "titulo": "Reserva de pasajes, Bolívar Municipio",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T11:10:24.347Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos para menores o casos especiales.",
+    "No se especifican costos.",
+    "No se especifica el plazo exacto de vigencia."
+  ]
+}

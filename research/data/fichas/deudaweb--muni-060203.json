@@ -1,0 +1,76 @@
+{
+  "tramite": {
+    "slug": "planes-de-pago-municipales",
+    "nombre": "Consultar y pagar deuda de tasas municipales",
+    "nombre_busqueda": "Pagar deuda tasas municipales Coronel Suarez",
+    "resumen": "Podés consultar tu deuda y pagar tasas municipales desde la web o contactando por teléfono. Se ofrece una moratoria con descuentos en intereses para deudas vencidas al 30 de septiembre de 2026.",
+    "sinonimos": [
+      "Pago de tasas municipales",
+      "Regularizar deuda municipal",
+      "Moratoria tasas municipales"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060203",
+  "organismo": {
+    "nombre": "Municipalidad de Coronel Suárez",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que tenga una deuda municipal vencida."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de cuenta municipal.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá el número de cuenta municipal y el tipo de deuda (inmueble, automotores, cementerio, comercio, rodado/moto, micro créditos, ocupación de espacios públicos o pagos) en el buscador."
+      },
+      {
+        "texto": "Verificá los comprobantes discriminados por tasa del año en curso y deudas anteriores."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Cobranzas",
+      "direccion": "Rivadavia 155",
+      "localidad": "Cnel.Suárez",
+      "horario": null,
+      "fuente_url": "https://modernizacioncs.gob.ar/deudaweb/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://modernizacioncs.gob.ar/deudaweb/",
+      "titulo": "TASAS MUNICIPALES MCS",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T04:37:17.889Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere comunicarse con la Oficina de Cobranzas al teléfono (02926) 429274/9 o vía WhatsApp al 2926412599 para obtener más detalles de la deuda y opciones de pago.",
+    "La moratoria vigente contempla descuentos del 60% en intereses para deudas vencidas al 30 de septiembre de 2026, aplicable al pago contado entre el 1 y el 30 de octubre de 2026.",
+    "El texto no especifica los requisitos ni los pasos para realizar el pago una vez consultada la deuda online."
+  ]
+}

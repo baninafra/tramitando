@@ -1,0 +1,114 @@
+{
+  "tramite": {
+    "slug": "habilitacion-comercial",
+    "nombre": "Habilitación Comercial",
+    "nombre_busqueda": "Habilitación comercial",
+    "resumen": "Para habilitar un comercio en Chascomús, necesitás presentar documentos de identidad, constancia de inscripción en AFIP, título de propiedad o contrato de locación, certificado de radicación y, si sos persona jurídica, contrato social y última acta de asamblea.",
+    "sinonimos": [],
+    "temas": [
+      "habilitacion-comercial"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060218",
+  "organismo": {
+    "nombre": "Municipalidad de Chascomús",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Persona física titular o autorizada a realizar el trámite.",
+      "Persona jurídica."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento de identidad de la persona física titular o autorizada a realizar el trámite.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento de emancipación, si la persona autorizada a realizar el trámite es menor de 21 años.",
+        "aclaracion": "Si sos menor de 21 años."
+      },
+      {
+        "texto": "CUIT - Constancia de inscripción en AFIP.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Libre deuda de deberes alimentarios otorgado por el Ministerio de Justicia y Derechos Humanos de la Provincia de Buenos Aires.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título de propiedad o contrato de locación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de radicación expedido por la Dirección de Obras Privadas y Planeamiento Municipal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contrato social (Estatuto), si sos persona jurídica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Última acta de asamblea debidamente certificada por juez de Paz o escribano público, si sos persona jurídica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poder, en caso que corresponda.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario de solicitud de habilitación en la página de la Municipalidad de Chascomús."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://apps.chascomus.gob.ar/habilitaciones/habilitacionComercial.php",
+      "titulo": "Solicitud de Habilitaciones Comerciales - Municipalidad de Chascomús",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T10:55:58.697Z"
+    },
+    {
+      "url": "https://sibom.slyt.gba.gov.ar/bulletins/8150/contents/1831112",
+      "titulo": "Sistema de Boletín Oficial Municipal | Buenos Aires Provincia",
+      "bloques": [
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T10:55:58.697Z"
+    },
+    {
+      "url": "http://rdam.mjus.gba.gob.ar/",
+      "titulo": "Default Site",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T10:55:58.697Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos de tasas en el texto de las páginas.",
+    "No se especifica el plazo de tramitación en el texto de las páginas.",
+    "No se especifica si se requiere turno en el texto de las páginas."
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "tramite": {
+    "slug": "obra-a-empadronar",
+    "nombre": "Obra a empadronar",
+    "nombre_busqueda": "Obra a empadronar",
+    "resumen": "Es un trámite para declarar una construcción existente realizada sin permiso municipal. Lo realiza un profesional contratado por el propietario.",
+    "sinonimos": [],
+    "temas": [
+      "obras-y-construccion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060245",
+  "organismo": {
+    "nombre": "Municipalidad de Ensenada",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Un profesional (Arquitecto, Maestro Mayor de Obra, Ingeniero, etc.) contratado por el propietario."
+    ],
+    "requisitos": [
+      {
+        "texto": "Carpeta de Obra liberada",
+        "aclaracion": null
+      },
+      {
+        "texto": "Inscripción del profesional",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planilla para liquidar",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dos planillas de estadísticas",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano visado por el Colegio Profesional de competencia",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contrato visado por el Colegio profesional de competencia",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI del propietario y el Profesional",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá toda la documentación y aboná los derechos."
+      },
+      {
+        "texto": "Recibí el Final de Trámite y los planos aprobados."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 250000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.ensenada.gov.ar/obra-a-empadronar/"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 2000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.ensenada.gov.ar/obra-a-empadronar/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Subdirección de Obras Particulares",
+      "direccion": "Don Bosco esq. La Merced",
+      "localidad": "Don Bosco esq. La Merced",
+      "horario": null,
+      "fuente_url": "https://www.ensenada.gov.ar/obra-a-empadronar/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.ensenada.gov.ar/obra-a-empadronar/",
+      "titulo": "OBRA A EMPADRONAR – Municipalidad de Ensenada",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T23:06:24.123Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica requisitos para menores o casos especiales.",
+    "El texto no especifica plazos exactos de entrega del Final de Trámite.",
+    "El texto no especifica si se requiere turno."
+  ]
+}

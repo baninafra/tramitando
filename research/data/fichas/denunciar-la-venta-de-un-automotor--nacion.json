@@ -1,0 +1,127 @@
+{
+  "tramite": {
+    "slug": "denunciar-la-venta-de-un-automotor",
+    "nombre": "Denunciar la venta de un automotor",
+    "nombre_busqueda": "Denunciar venta de auto",
+    "resumen": "Si vendiste un vehículo, debés hacer la denuncia en el Registro donde se encuentra radicado para eximirte de responsabilidad civil y obligar al comprador a transferir el dominio en 30 días.",
+    "sinonimos": [
+      "Denuncia de venta de vehículo",
+      "Reportar venta de auto"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro de la Propiedad Automotor",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Al titular registral (vendedor) de un rodado."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento identificatorio para acreditar identidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de dominio del automotor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Una dirección de correo electrónico vigente del titular registral (vendedor).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombre/s, Apellido/s, Tipo y Número de Documento del comprador.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si fuese una persona jurídica: su razón social y CUIT.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio del comprador de no contar con este, el denunciante deberá consignar la siguiente leyenda: Domicilio del adquirente: desconocido.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Lugar y fecha en que entregaste el vehículo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cualquier otro dato que te parezca de interés (por ejemplo: domicilio del comprador/a).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cualquier constancia que tengas de la venta, en original y fotocopia.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la página web de la DNRPA y buscá allí el trámite llamado Denuncia de Venta."
+      },
+      {
+        "texto": "Realizá la precarga electrónica."
+      },
+      {
+        "texto": "Podes hacer el pago de los aranceles en línea (únicamente para personas humanas y un solo titular) con CBU propio."
+      },
+      {
+        "texto": "Recibirás el certificado de la denuncia de venta ya inscripta en tu correo electrónico."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Realizá la precarga electrónica, reservá turno, y presentate con la documentación ante el registro en los siguientes casos: Persona humana que NO pagó el trámite de forma online, cuando sea más de un Titular, o Personas jurídicas."
+      },
+      {
+        "texto": "Abonar los aranceles y firmar la petición."
+      },
+      {
+        "texto": "Retira el triplicado de la Solicitud Tipo, en el día y horario indicado por el Registro. Este documento certifica que la denuncia de venta se realizó de forma correcta."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": "30 días hábiles",
+    "consejos": [
+      "El trámite lleva 48hs si no existen observaciones.",
+      "La denuncia de venta no pierde vigencia salvo que como vendedor recuperes el rodado por algún motivo.",
+      "Si el comprador y el vendedor van juntos al Registro, pueden hacer directamente la transferencia de la titularidad del vehículo y el vendedor no tiene ninguna necesidad de tramitar la denuncia de venta."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/denunciar-la-venta-de-un-automotor",
+      "titulo": "Denunciar la venta de un automotor | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T15:18:05.733Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-26T15:18:05.733Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los montos exactos de los aranceles varían según la categoría del vehículo y deben buscarse en la página de aranceles.",
+    "La URL específica de la página web de la DNRPA para realizar el trámite no se especifica en el texto."
+  ]
+}

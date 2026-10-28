@@ -1,0 +1,168 @@
+{
+  "tramite": {
+    "slug": "carnet-de-conducir",
+    "nombre": "Carnet de conducir",
+    "nombre_busqueda": "Carnet de conducir",
+    "resumen": "Para obtener o renovar tu carnet de conducir en Alta Gracia, necesitás pasar por una evaluación psicofísica, un examen teórico y un examen práctico. El trámite se realiza en la Sala B. Roldán y tiene costos que varían según el tipo de licencia y si sos jubilado.",
+    "sinonimos": [
+      "Licencia de conducir",
+      "Carnet de conducir",
+      "Permiso de conducir"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141372",
+  "organismo": {
+    "nombre": "Municipalidad de Alta Gracia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que hayan demostrado reunir condiciones, conocimientos y aptitudes para conducir vehículos a motor mediante pruebas de evaluación psicofísica, test teórico y examen práctico.",
+      "Personas mayores de 16 años para clase A-1.",
+      "Personas mayores de 18 años para clase A-2, B-1 y F.",
+      "Personas mayores de 21 años para clase A-3, B-2, C, D-1, D-2, D-3, D-4, E-1, E-2 y G.",
+      "Personas comprendidas entre 21 y 65 años para clases C, D-1, D-2, D-3, D-4, E-1 y E-2.",
+      "Personas con licencia clase B-1 con antigüedad mínima de un año para obtener clases B-2, C, D-1, D-2, D-3, D-4, E-1 y E-2.",
+      "Conductores con discapacidad que deseen obtener la clase F, deberán concurrir con el vehículo adaptado."
+    ],
+    "requisitos": [
+      {
+        "texto": "Concurrir personalmente al Área de Licencias de Conducir.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar documentación personal (DNI, cédula de identidad, etc.).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Realizar evaluación psicofísica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Realizar examen teórico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Realizar examen práctico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para clase F: Concurrir con el vehículo que posea las adaptaciones necesarias.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Dirigite personalmente al Área de Licencias de Conducir en los horarios de atención (días hábiles de 7:00 a 14:00 hs)."
+      },
+      {
+        "texto": "Presentá tu documentación personal."
+      },
+      {
+        "texto": "Realizá la evaluación psicofísica."
+      },
+      {
+        "texto": "Realizá el examen teórico."
+      },
+      {
+        "texto": "Realizá el examen práctico."
+      },
+      {
+        "texto": "Recibí tu carnet de conducir."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá por cualquier duda vía mail al correo electrónico licenciasdeconducir@altagracia.gob.ar detallando tu motivo.",
+      "Llevá tu documento de identidad original y copias si es necesario."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1160000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://altagracia.gob.ar/subareas/carnet-de-conducir/"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 470000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://altagracia.gob.ar/subareas/carnet-de-conducir/"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1180000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://altagracia.gob.ar/subareas/carnet-de-conducir/"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1420000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://altagracia.gob.ar/subareas/carnet-de-conducir/"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 3020000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://altagracia.gob.ar/subareas/carnet-de-conducir/"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1350000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://altagracia.gob.ar/subareas/carnet-de-conducir/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Sala B. Roldán (Ex Bingo)",
+      "direccion": "España 135",
+      "localidad": "Alta Gracia",
+      "horario": null,
+      "fuente_url": "https://altagracia.gob.ar/subareas/carnet-de-conducir/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://altagracia.gob.ar/subareas/carnet-de-conducir/",
+      "titulo": "Carnet de conducir – Municipalidad de Alta Gracia",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T07:52:56.324Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horarios de atención específicos para cada día de la semana.",
+    "Requisitos adicionales para menores de edad o casos especiales no detallados en el texto."
+  ]
+}

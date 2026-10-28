@@ -1,0 +1,65 @@
+{
+  "tramite": {
+    "slug": "consulta-estado-de-tramites",
+    "nombre": "Consulta estado de trámites",
+    "nombre_busqueda": "Consulta estado de trámites",
+    "resumen": "Permite verificar el estado de los trámites realizados en el municipio de Quilmes.",
+    "sinonimos": [],
+    "temas": [
+      "gobierno-y-participacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060658",
+  "organismo": {
+    "nombre": "Municipalidad de Quilmes",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en consultar el estado de sus trámites."
+    ],
+    "requisitos": [
+      {
+        "texto": "Acceso a la plataforma Mi Quilmes Digital.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la página de consulta de estado de trámites."
+      },
+      {
+        "texto": "Seleccioná el trámite que querés consultar."
+      },
+      {
+        "texto": "Verificá el estado actualizado de tu trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mi.quilmes.gov.ar/tramites/223/consulta-estado-de-tramites",
+      "titulo": "Consulta estado de trámites",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T14:55:12.433Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos adicionales más allá del acceso a la plataforma.",
+    "No se indica si el trámite requiere turno."
+  ]
+}

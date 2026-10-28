@@ -1,0 +1,61 @@
+{
+  "tramite": {
+    "slug": "alta-por-cambio-de-radicacion",
+    "nombre": "Alta por cambio de radicación",
+    "nombre_busqueda": "Alta por cambio de radicación",
+    "resumen": "Contribuyentes del tributo deben presentar título del automotor y formulario 13D o baja de municipio para realizar el alta por cambio de radicación en el Registro de la Propiedad del Automotor.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060063",
+  "organismo": {
+    "nombre": "Municipalidad de Balcarce",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Contribuyentes del tributo"
+    ],
+    "requisitos": [
+      {
+        "texto": "Título del automotor",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario 13D o baja de municipio",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://balcarce-app.gob.ar/portal_servicios/servicio/alta-por-cambio-de-radicacion",
+      "titulo": "Portal de Servicios | Modernizacion Balcarce",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T20:50:08.350Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de la oficina",
+    "Horarios de atención",
+    "Requisitos para menores o casos especiales",
+    "Plazo de realización del trámite",
+    "Si se requiere turno y cómo sacarlo"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "tramite": {
+    "slug": "alta-de-motovehiculo",
+    "nombre": "Alta de Moto-Vehículo",
+    "nombre_busqueda": "Alta de moto",
+    "resumen": "Registrar un moto-vehículo en el padrón local, habilitándolo a efectos fiscales y asegurando su correcta identificación en el sistema tributario del municipio.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias",
+      "patente-automotor-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060028",
+  "organismo": {
+    "nombre": "Municipio de Almirante Brown",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Presentación del Titular"
+    ],
+    "requisitos": [
+      {
+        "texto": "Titulo donde figura radicado en Brown.",
+        "aclaracion": null
+      },
+      {
+        "texto": "O informe histórico.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Registro de Deudores",
+      "direccion": "Rosales 1312, Adrogué, Piso Planta Baja, Depto. Registro de Deudores.",
+      "localidad": "Adrogué",
+      "horario": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/alta-de-motovehiculo/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.brown.gob.ar/tramites/alta-de-motovehiculo/",
+      "titulo": "Alta de Moto-Vehículo.",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T01:27:09.742Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere ingresar con legajo y contraseña según la página de seguridad.",
+    "Se requiere verificar si el trámite se puede realizar online o solo presencialmente.",
+    "Se requiere verificar si se requiere turno para la atención.",
+    "Se requiere confirmar el monto de la tasa o si es gratis.",
+    "Se requiere confirmar el plazo de atención.",
+    "Se requiere confirmar si se necesita informe histórico específico o solo el título de radicado."
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "tramite": {
+    "slug": "consulta-deuda-y-emision-comprobantes-tasas-municipales",
+    "nombre": "Consultar deuda y emitir comprobantes de tasas",
+    "nombre_busqueda": "consultar deuda tasas municipales general guido",
+    "resumen": "Podés consultar tu deuda y emitir comprobantes de tasas municipales a través del sistema online del municipio.",
+    "sinonimos": [
+      "consultar deuda municipal",
+      "emitir comprobantes tasas"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060308",
+  "organismo": {
+    "nombre": "Municipio de General Guido",
+    "sigla": null,
+    "web": "https://www.generalguido.gob.ar/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Vecinos con deuda o intereses en tasas municipales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Acceso al sistema online del municipio",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sistema online del municipio."
+      },
+      {
+        "texto": "Consultá tu deuda."
+      },
+      {
+        "texto": "Emití los comprobantes de tasas."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": false,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si tenés dudas o necesitás asistencia, comunicate con la Oficina de Rentas al (02268) 491045 (interno 301) o por correo a ingresosguido@gmail.com."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.generalguido.gob.ar/?q=content/consulta-deuda-y-emision-comprobantes-tasas-municipales",
+      "titulo": "CONSULTA DE DEUDA Y EMISIÓN DE COMPROBANTES DE TASAS MUNICIPALES",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T12:47:18.622Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos documentales específicos para el acceso al sistema.",
+    "No se indica el costo del trámite."
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "tramite": {
+    "slug": "descarga-boletas-vigentes-tasas-municipales",
+    "nombre": "Descargar boletas vigentes de tasas municipales",
+    "nombre_busqueda": "descargar boletas de tasas municipales de Guaminí",
+    "resumen": "Descargá boletas de tasas municipales que estén en período de cobro y todavía no se hayan abonado.",
+    "sinonimos": [
+      "boletas de tasas vigentes"
+    ],
+    "temas": [
+      "boletas-y-vencimientos",
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060399",
+  "organismo": {
+    "nombre": "Municipalidad de Guaminí",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés descargar las tasas que estén en período de cobro y todavía no se hayan abonado."
+    ],
+    "requisitos": [
+      {
+        "texto": "El número de plan de pago debe tener entre 5 y 6 dígitos numéricos, sin barras ni guiones. Si tiene menos de 5 dígitos, completalo con ceros al inicio.",
+        "aclaracion": "Si buscás un plan de pago."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Elegí el tipo de tasa o plan de pago que querés consultar."
+      },
+      {
+        "texto": "Ingresá los datos de la partida o del plan de pago que querés buscar."
+      },
+      {
+        "texto": "Descargá la tasa vigente, si está en período de cobro y todavía no se abonó."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://serviciosweb.guamini.gob.ar/tasasvigentes",
+      "titulo": "Municipalidad de Guaminí",
+      "bloques": [
+        "resumen",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T13:45:43.210Z"
+    },
+    {
+      "url": "https://serviciosweb.guamini.gob.ar/tasasvigentes/planespago",
+      "titulo": "Municipalidad de Guaminí",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T13:45:43.210Z"
+    },
+    {
+      "url": "https://serviciosweb.guamini.gob.ar/",
+      "titulo": "Municipalidad de Guaminí",
+      "bloques": [
+        "quien",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T13:45:43.210Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica quiénes pueden hacer el trámite.",
+    "No se detallan los datos necesarios para buscar una tasa distinta de plan de pago.",
+    "No se informa si el trámite requiere turno."
+  ]
+}

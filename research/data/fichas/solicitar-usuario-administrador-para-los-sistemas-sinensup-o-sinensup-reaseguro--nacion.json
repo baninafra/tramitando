@@ -1,0 +1,102 @@
+{
+  "tramite": {
+    "slug": "solicitar-usuario-administrador-sinensup",
+    "nombre": "Solicitar usuario administrador SINENSUP",
+    "nombre_busqueda": "solicitar usuario administrador sinensup",
+    "resumen": "Las entidades aseguradoras y reaseguradoras pueden solicitar permisos de usuario administrador para los sistemas SINENSUP o SINENSUP REASEGUROS de forma gratuita en línea.",
+    "sinonimos": [
+      "alta o baja de usuario administrador SINENSUP",
+      "solicitud de usuario administrador SINENSUP REASEGURO"
+    ],
+    "temas": [
+      "trabajo-y-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Seguros de la Nación",
+    "sigla": "SSN",
+    "web": "https://www.argentina.gob.ar/servicio/solicitar-usuario-administrador-para-los-sistemas-sinensup-o-sinensup-reaseguro"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Las entidades aseguradoras o reaseguradoras."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener usuario de acceso a Trámites a Distancia (TAD).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Operar como apoderado de la entidad.",
+        "aclaracion": "El rol del apoderado es quien fue designado por el administrador de relaciones de clave fiscal de la entidad como quien gestiona el trámite y la firma digital de la entidad por la que está actuando en nombre."
+      },
+      {
+        "texto": "Indicar el código SSN y el nombre de la compañía.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Indicar si el movimiento solicitado es un alta o una baja.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Indicar el nombre, apellido, CUIT, correo electrónico y teléfono laborales del usuario administrador.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Indicar si ya es usuario de SINENSUP o de SINENSUP REASEGUROS.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD, trámite Solicitud de usuario administrador SINENSUP, con clave fiscal."
+      },
+      {
+        "texto": "Establecé el firmante ingresando el CUIL/CUIT del presidente de la aseguradora o reaseguradora y completando el formulario."
+      },
+      {
+        "texto": "Confirmá el trámite."
+      },
+      {
+        "texto": "Firmá el documento a través de la pestaña MIS TRÁMITES."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 0,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-usuario-administrador-para-los-sistemas-sinensup-o-sinensup-reaseguro"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-usuario-administrador-para-los-sistemas-sinensup-o-sinensup-reaseguro",
+      "titulo": "Solicitar usuario administrador para los sistemas SINENSUP o SINENSUP REASEGURO | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T17:27:42.753Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La dirección exacta de la oficina para consultas no se especifica en el texto, solo se indica el correo electrónico y el número de teléfono."
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "tramite": {
+    "slug": "cambio-de-domicilio-comercial",
+    "nombre": "Cambio de domicilio comercial",
+    "nombre_busqueda": "Cambio de domicilio comercial",
+    "resumen": "El trámite se realiza de manera virtual a través del Portal de Trámites y requiere documentación completa, evaluación técnica y coordinación de inspección.",
+    "sinonimos": [],
+    "temas": [
+      "habilitacion-comercial",
+      "cambios-y-baja-de-habilitacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060760",
+  "organismo": {
+    "nombre": "Municipalidad San Miguel",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titular de comercio ya habilitado que modifique su dirección o número de local."
+    ],
+    "requisitos": [
+      {
+        "texto": "Certificado de Factibilidad Aprobada o Resolución de Radicación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitud de Habilitación (declaración jurada).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de Activos Fijos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estatuto de Sociedad (para personas jurídicas).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poder legal (si aplica).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contrato de Locación o Comodato Timbrado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Escritura o Informe de Dominio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción en AFIP/ARCA con actividad y domicilio comercial actualizados.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción en Ingresos Brutos (si aplica).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano de Obra Aprobado con Destino Comercial.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado o Resolución de Habilitación anterior.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración Jurada Anual de la Tasa de Seguridad e Higiene (últimos 5 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estado de Deuda o Libre Deuda de la Tasa de Seguridad e Higiene.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano e Informe Antisiniestral aprobado por la Dirección General de Bomberos (si aplica para superficies ≥200 m² o rubros de impacto alto).",
+        "aclaracion": "Si sos mayor de 200 m² o sos rubro de impacto alto."
+      },
+      {
+        "texto": "Certificado de Aptitud de Instalaciones Eléctricas (C.A.I.E) (si aplica para superficies ≥200 m² o rubros de impacto alto).",
+        "aclaracion": "Si sos mayor de 200 m² o sos rubro de impacto alto."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Presentá la documentación completa subiendo los archivos requeridos al Portal de Trámites."
+      },
+      {
+        "texto": "Evaluación técnico-administrativa: Se analiza la documentación presentada."
+      },
+      {
+        "texto": "Coordinación de inspección: Se acuerda una Inspección Final con el titular."
+      },
+      {
+        "texto": "Creación de cuentas y liquidaciones: Se crea la cuenta de Seguridad e Higiene o se genera la cuenta comercial según el rubro de impacto."
+      },
+      {
+        "texto": "Pago de Seguridad e Higiene: El titular recibirá la primera boleta de pago en la Ventanilla Única y deberá registrarse en el portal de Autogestión para continuar con los pagos mensuales."
+      },
+      {
+        "texto": "Finalización del trámite: Se obtiene el Certificado de Habilitación una vez realizado el pago inicial (rubros bajo) o después de completar la Resolución de Habilitación (rubros alto)."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "24 horas hábiles para rubros de impacto bajo; 72 horas hábiles aproximadamente para rubros de impacto alto.",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.msm.gov.ar/guia-tramites/habilitaciones/cambio-de-domicilio/",
+      "titulo": "Cambio de domicilio comercial - Municipalidad San Miguel",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T13:37:52.322Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos ni costos en el texto.",
+    "No se especifica el plazo exacto para casos especiales o excepciones."
+  ]
+}

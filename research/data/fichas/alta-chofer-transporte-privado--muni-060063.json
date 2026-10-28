@@ -1,0 +1,104 @@
+{
+  "tramite": {
+    "slug": "alta-chofer-transporte-privado",
+    "nombre": "Alta chofer transporte privado",
+    "nombre_busqueda": "Alta chofer transporte privado",
+    "resumen": "Trámite para dar de alta choferes de transporte privado con licencia D2 o D3. Requiere documentación específica y pago de tasas.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias",
+      "transporte-publico-y-viajes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060063",
+  "organismo": {
+    "nombre": "Municipalidad de Balcarce",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas con licencia de conducir con categoría D2 o D3"
+    ],
+    "requisitos": [
+      {
+        "texto": "Libreta Sanitaria (Inspección General)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Licencia de conducir con categorías D2-D3",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación del Tribunal de Faltas (Dirección de Recursos)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de domicilio (Registro civil)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tarjeta Azul o permiso de escribano",
+        "aclaracion": null
+      },
+      {
+        "texto": "2 fotos carnet 4x4",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación requerida en la Dirección de Inspección General."
+      },
+      {
+        "texto": "Realizá el pago de los valores establecidos en la Ord. Impositiva en la Dirección de Recursos."
+      },
+      {
+        "texto": "Recibí la notificación al solicitante."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Inspección General",
+      "direccion": "Av. San Martin 3646",
+      "localidad": "Balcarce",
+      "horario": null,
+      "fuente_url": "https://balcarce-app.gob.ar/portal_servicios/servicio/alta-chofer-transporte-privado"
+    },
+    {
+      "nombre": "Dirección de Recursos",
+      "direccion": "1er. Piso Palacio Municipal",
+      "localidad": "Balcarce",
+      "horario": null,
+      "fuente_url": "https://balcarce-app.gob.ar/portal_servicios/servicio/alta-chofer-transporte-privado"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://balcarce-app.gob.ar/portal_servicios/servicio/alta-chofer-transporte-privado",
+      "titulo": "Portal de Servicios | Modernizacion Balcarce",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T20:38:23.848Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del pago no se especifica en el texto.",
+    "No se indica si se requiere turno para realizar el trámite."
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "tramite": {
+    "slug": "inscripcion-registro-fabricantes-bienes-capital",
+    "nombre": "Inscribirse en el registro para fabricantes de bienes de capital",
+    "nombre_busqueda": "Inscribirse en el registro para fabricantes de bienes de capital",
+    "resumen": "Registrate para acceder a una reducción de contribuciones patronales y un bono anual de crédito fiscal. El trámite es 100% online y requiere completar formularios y adjuntar certificaciones.",
+    "sinonimos": [
+      "Inscripción en el Registro de Fabricantes de Bienes de Capital",
+      "Registro para fabricantes de bienes de capital"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Economía",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas jurídicas fabricantes de bienes de capital radicadas en territorio nacional.",
+      "Empresas que no sean MiPyMEs y que no hayan percibido beneficio en el marco del Decreto N° 379/01 en los últimos tres años."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener CUIT y Clave Fiscal (nivel 3 o superior).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fabricar bienes de capital comprendidos en el listado oficial.",
+        "aclaracion": null
+      },
+      {
+        "texto": "El establecimiento industrial debe estar radicado en el territorio nacional.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditar que como mínimo el 70% de la facturación total de los últimos 12 meses anteriores a la solicitud corresponde a la venta de bienes fabricados por cuenta propia en el Territorio Nacional, o el promedio de los últimos 36 meses en su defecto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si sos una micro, pequeña o mediana empresa, contar con Certificado PyME.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si no estás inscripta como PYME, el gasto anual en sueldos y contribuciones patronales debe ser superior al 15% de la facturación total, con excepción en algunos sectores que será del 7%.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contar con un mínimo de 5 empleados dedicados a la fabricación de bienes de capital.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estar exento de sanciones en el REPSAL.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Encontrarse en el normal cumplimiento de obligaciones fiscales y previsionales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "No tener deudas gremiales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Adjuntar planillas certificadas firmadas por el Contador en el caso de Certificaciones Contables.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Adjuntar certificaciones del Ingeniero según su criterio profesional.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Descargá las plantillas modelo que están en el área de descargas de esta página y completá la información requerida."
+      },
+      {
+        "texto": "Guardá el archivo según las indicaciones que se encuentran en el tutorial."
+      },
+      {
+        "texto": "Entrá al Verificador de Datos y cargá el archivo."
+      },
+      {
+        "texto": "Si la información que cargaste es correcta, el sistema te va a devolver un código validador."
+      },
+      {
+        "texto": "Ingresa en TAD con tu CUIT y Clave fiscal."
+      },
+      {
+        "texto": "Completá el formulario y adjuntá las planillas y documentación solicitada."
+      },
+      {
+        "texto": "Se va a generar el expediente de inscripción al Registro."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Tené especial atención a la carga de los archivos porque de eso dependerá la celeridad en la prosecución del trámite.",
+      "Consultá el Registro de Beneficiarios y Productos del Régimen de Incentivo para Fabricantes de Bienes de Capital."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribite-en-el-registro-para-fabricantes-de-bienes-de-capital",
+      "titulo": "Inscribite en el Registro para fabricantes de Bienes de Capital | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T17:42:50.219Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-el-bono-anual-de-credito-fiscal-para-fabricantes-de-bienes-de-capital",
+      "titulo": "Solicitar el bono anual de crédito fiscal para Fabricantes de Bienes de Capital | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T17:42:50.219Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite.",
+    "El plazo estimado de resolución del expediente."
+  ]
+}

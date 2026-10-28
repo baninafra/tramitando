@@ -1,0 +1,111 @@
+{
+  "tramite": {
+    "slug": "prorroga-residencia-temporaria-academico",
+    "nombre": "Obtener una prórroga de residencia temporaria como académico",
+    "nombre_busqueda": "prorroga residencia temporaria académico",
+    "resumen": "Extendé tu permanencia en el país si tenés residencia como académico. El trámite es semipresencial: hacé la solicitud online en RaDEX y acudí con tus documentos originales a la Dirección Nacional de Migraciones.",
+    "sinonimos": [
+      "prórroga residencia académica",
+      "extensión residencia temporaria académico"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria",
+      "residencias-temporarias-y-permanentes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Migraciones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas extranjeras que hayan obtenido una residencia temporaria en la categoría de académico y deseen extender su permanencia."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento Nacional de Identidad o Pasaporte válido y vigente (todas las nacionalidades).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Nacionalidad emitido por autoridad Consular, con fotografía y legalizado por el Ministerio de Relaciones Exteriores, Comercio Internacional y Culto de la Nación.",
+        "aclaracion": "Solo para quienes no tengan DNI o Pasaporte."
+      },
+      {
+        "texto": "Certificado de Antecedentes Penales Argentinos emitido por el Registro Nacional de Reincidencia (Solo exigible a mayores de 16 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de la institución recepcionante donde certifique que continúa con el acuerdo académico que diera encuadre a su residencia, legalizada por el organismo competente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación expedida en el extranjero debe estar legalizada por el Consulado Argentino o Apostillada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación expedida por representaciones consulares en el territorio nacional debe estar legalizada por el Ministerio de Relaciones Exteriores, Comercio Internacional y Culto, excepto MERCOSUR.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación en idioma extranjero debe tener traducción al castellano efectuada por Traductor Público Nacional y legalizada por el Colegio de Traductores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La documentación a presentar debe ser original.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá tu trámite a distancia ingresando en el sistema RaDEX."
+      },
+      {
+        "texto": "Registrate como usuario, completá el formulario de solicitud y aboná las tasas correspondientes."
+      },
+      {
+        "texto": "Adjuntá la documentación y datos requeridos según el tipo de residencia a la que quieras aplicar."
+      },
+      {
+        "texto": "Si cumplís con los requisitos para formalizar tu solicitud, recibirás un email con la fecha de tu cita presencial."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acudí al día de la cita con toda la documentación original."
+      },
+      {
+        "texto": "Presentá el Certificado de Antecedentes Penales Argentinos si se tramitó por fuera de RaDEX."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "1 año",
+    "consejos": [
+      "Es necesario que te encuentres dentro del territorio de la República Argentina.",
+      "Podés realizar tu trámite con cita preferencial abonando un monto adicional."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-una-prorroga-de-residencia-temporaria-como-academico",
+      "titulo": "Obtener una prórroga de residencia temporaria como académico | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T06:40:57.500Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los montos exactos de las tasas migratorias no se especifican en el texto, solo se indica que deben abonarse en la plataforma RaDEX.",
+    "La dirección exacta de la oficina de Migraciones no se especifica en el texto, solo se indica que se debe acudir presencialmente."
+  ]
+}

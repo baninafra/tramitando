@@ -1,0 +1,110 @@
+{
+  "tramite": {
+    "slug": "planes-de-pago-municipales",
+    "nombre": "Planes de pago y liquidación de cuotas vencidas",
+    "nombre_busqueda": "Planes de pago tasas vencidas",
+    "resumen": "Se pueden liquidar cuotas de planes de pago y tasas vencidas en la Oficina de Tasas o mediante pago electrónico online. Se ofrecen descuentos por pago contado y planes en cuotas con interés.",
+    "sinonimos": [
+      "Pago de tasas vencidas",
+      "Liquidación de cuotas atrasadas",
+      "Plan de pago tasas municipales"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "planes-de-pago-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060189",
+  "organismo": {
+    "nombre": "Municipalidad de Coronel Dorrego",
+    "sigla": null,
+    "web": "https://dorrego.gob.ar"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Vecinos y contribuyentes de la Municipalidad de Coronel Dorrego."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de partida de la tasa o cuota vencida.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio web www.dorrego.gob.ar."
+      },
+      {
+        "texto": "Seleccioná la tasa a abonar."
+      },
+      {
+        "texto": "Ingresá el número de partida."
+      },
+      {
+        "texto": "Concretá el pago optando por tarjeta de débito, homebanking, Cuenta DNI o QR con billetera virtual."
+      },
+      {
+        "texto": "Obtené el comprobante digital al instante."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a la Oficina de Tasas de la Dirección de Hacienda."
+      },
+      {
+        "texto": "Informate sobre las alternativas de pago vigentes."
+      },
+      {
+        "texto": "Cumplimentá el trámite de liquidación de cuotas o tasas vencidas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Se pueden obtener descuentos sobre los intereses de hasta el 25% por pago contado.",
+      "Se pueden contratar planes de pago en cuotas hasta 24 meses con interés de financiación sobre saldo."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Tasas",
+      "direccion": "Av. Fuertes 630",
+      "localidad": "Coronel Dorrego",
+      "horario": null,
+      "fuente_url": "https://dorrego.gob.ar/mun/direcciones/administracion/menu/hacienda/oficinas.php"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://dorrego.gob.ar/mun/direcciones/administracion/menu/hacienda/oficinas.php",
+      "titulo": "Hacienda - Oficinas",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "donde",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T22:22:00.339Z"
+    },
+    {
+      "url": "https://dorrego.gob.ar/mun/direcciones/mcd/index.php",
+      "titulo": "M.C.D. - Sitio Oficial",
+      "bloques": [
+        "resumen",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T22:22:00.339Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los montos exactos de las tasas y cuotas no se especifican en el texto.",
+    "El plazo de vencimiento de las cuotas no se indica en el texto.",
+    "La vigencia de los descuentos o planes de pago no se especifica en el texto."
+  ]
+}

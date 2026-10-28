@@ -1,0 +1,99 @@
+{
+  "tramite": {
+    "slug": "presentar-medidas-cautelares-y-gravamenes",
+    "nombre": "Presentar medidas cautelares y gravámenes",
+    "nombre_busqueda": "Presentar medidas cautelares y gravámenes",
+    "resumen": "Para registrar medidas cautelares y gravámenes necesitás un oficio o testimonio judicial con firmas ológrafas y legalización. Debes presentar el formulario, toda la documentación y solicitar turno en la Inspección General de Justicia.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan un oficio o testimonio judicial con la transcripción del acto o medida del caso y la orden expresa de su registración, con firmas ológrafas del Juez o Secretario del Tribunal y la legalización pertinente."
+    ],
+    "requisitos": [
+      {
+        "texto": "Oficio o testimonio judicial con transcripción del acto o medida del caso y orden expresa de su registración.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Firmas ológrafas del Juez o Secretario del Tribunal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Legalización pertinente, en su caso.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Individualización de la sociedad y del socio en relación a cuya participación se debe anotar la traba o el levantamiento de la medida.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Indicación del monto (capital, intereses y costas) de la medida.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario del trámite.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación indicada anteriormente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el formulario del trámite y toda la documentación indicada anteriormente en la Mesa General de Entradas de la Inspección General de Justicia."
+      },
+      {
+        "texto": "Solicitá turno."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si sos matriculado/a y realizás la presentación en la sede de tu colegio profesional, tené en cuenta que la atención se realiza con turno previo.",
+      "Los trámites recibidos en los colegios son procesados por IGJ el día hábil inmediato posterior a la fecha de presentación."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Mesa General de Entradas de la Inspección General de Justicia",
+      "direccion": "Av. Paseo Colón 291",
+      "localidad": "Av. Paseo Colón 291",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/presentar-medidas-cautelares-y-gravamenes"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/presentar-medidas-cautelares-y-gravamenes",
+      "titulo": "Presentar medidas cautelares y gravámenes | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T01:09:09.759Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El valor del trámite.",
+    "La dirección exacta de la oficina de colegios profesionales.",
+    "El plazo de atención."
+  ]
+}

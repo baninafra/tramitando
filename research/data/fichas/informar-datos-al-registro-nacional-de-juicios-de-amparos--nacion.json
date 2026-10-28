@@ -1,0 +1,112 @@
+{
+  "tramite": {
+    "slug": "informar-datos-al-registro-nacional-de-juicios-de-amparos",
+    "nombre": "Informar datos al Registro Nacional de Juicios de Amparos",
+    "nombre_busqueda": "informar datos juicios amparos agentes seguro",
+    "resumen": "Los Agentes del Seguro deben remitir información sobre juicios de amparos contra ellos para conformar una base de datos y analizar la judicialización de la salud.",
+    "sinonimos": [],
+    "temas": [
+      "gobierno-y-participacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Servicios de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Agentes del Seguro comprendidos en la Ley Nº 23.660"
+    ],
+    "requisitos": [
+      {
+        "texto": "Contar con los datos que se cargarán en el Registro",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autos",
+        "aclaracion": null
+      },
+      {
+        "texto": "Expediente judicial",
+        "aclaracion": null
+      },
+      {
+        "texto": "Año de inicio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Radicación",
+        "aclaracion": null
+      },
+      {
+        "texto": "Objeto del planteo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Reclamo administrativo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Medida cautelar",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estimación del costo de la prestación reclamada",
+        "aclaracion": null
+      },
+      {
+        "texto": "Medico prescriptor",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estado procesal (en trámite o concluido)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Abogado del actor",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar a la aplicación mediante el usuario y clave de acceso"
+      },
+      {
+        "texto": "Cargar los datos consignados del expediente"
+      },
+      {
+        "texto": "Completar formulario"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La información debe incorporarse dentro de los treinta días corridos de haber tomado conocimiento del proceso, de haber finalizado el proceso o de habérsele notificado la sentencia definitiva en cada instancia.",
+      "La información debe incluirse indicando si ha quedado firme o fue recurrida."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/informar-datos-al-registro-nacional-de-juicios-de-amparos",
+      "titulo": "Informar datos al Registro Nacional de Juicios de Amparos | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-26T16:42:00.288Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia exacta de la resolución que regula este trámite no está especificada en el texto."
+  ]
+}

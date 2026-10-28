@@ -1,0 +1,102 @@
+{
+  "tramite": {
+    "slug": "solicitar-credito-linea-digitalizacion-pyme",
+    "nombre": "Solicitar un crédito de la Línea para la digitalización PyME",
+    "nombre_busqueda": "Solicitar crédito Línea digitalización PyME",
+    "resumen": "Adquirí bienes de capital y licencias de software para adoptar soluciones 4.0 en tu empresa. El monto mínimo es de 3000000 y el máximo de 30000000.",
+    "sinonimos": [],
+    "temas": [
+      "emprendedores-y-monotributo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Economía",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "MiPyMEs de todos los sectores que se encuentren en procesos de transformación digital."
+    ],
+    "requisitos": [
+      {
+        "texto": "Contar con Certificado PyME vigente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar una Declaración Jurada confeccionada por el proveedor oficial si vas a destinar el crédito a adquirir una licencia de software",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Ingresá al Banco Nación Argentina y pedí un turno presencial."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://www.argentina.gob.ar/turnos",
+    "plazo": null,
+    "consejos": [
+      "El plazo de devolución es de 48 a 60 meses, con 6 de gracia sobre el capital."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 30000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-un-credito-de-la-linea-para-la-digitalizacion-pyme"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 3000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-un-credito-de-la-linea-para-la-digitalizacion-pyme"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-un-credito-de-la-linea-para-la-digitalizacion-pyme",
+      "titulo": "Solicitar un crédito de la Línea para la digitalización PyME | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T10:24:47.062Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T10:24:47.062Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto total de la línea es de 1000000000",
+    "La tasa de interés está bonificada por el FONDEP en un 10%",
+    "El plazo de devolución es de 48 a 60 meses, con 6 de gracia sobre el capital",
+    "El monto mínimo es de 3000000 y el máximo de 30000000",
+    "Adquirí bienes de capital y licencias de software para adoptar soluciones 4.0 en tu empresa",
+    "La convocatoria se encuentra cerrada",
+    "El monto total de la línea es de 1000000000",
+    "La tasa de interés está bonificada por el FONDEP en un 10%",
+    "El plazo de devolución es de 48 a 60 meses, con 6 de gracia sobre el capital",
+    "El monto mínimo es de 3000000 y el máximo de 30000000",
+    "Adquirí bienes de capital y licencias de software para adoptar soluciones 4.0 en tu empresa",
+    "La convocatoria se encuentra cerrada"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "tramite": {
+    "slug": "catastro-e-inmuebles",
+    "nombre": "Catastro Municipal",
+    "nombre_busqueda": "Catastro Municipal",
+    "resumen": "Consultá el estado de tus parcelas, sacá planchetas catastrales o hacé cambios de titularidad en la Municipalidad de Campana.",
+    "sinonimos": [
+      "Consulta catastral",
+      "Planeta catastral",
+      "Catastro parcelario"
+    ],
+    "temas": [
+      "catastro-e-inmuebles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060126",
+  "organismo": {
+    "nombre": "Municipalidad de Campana",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Vecinos con domicilio en Campana"
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota firmada por el ingresante solicitando el cambio de titularidad (formato A4) dirigida a la Municipalidad de Campana.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI firmante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Escritura con sello de Ley de la inscripción en el Registro de la Propiedad de la pcia. de Buenos Aires.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de cuenta o adjuntar foto de boleta anterior.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Escritura con sello de Ley de la inscripción en el Registro de la Propiedad de la pcia. de Buenos Aires, ó boleto de compra venta timbrado ó contrato de locación timbrado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La tasa de Barrido y Limpieza debe estar libre de deudas.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la web: https://carto.arba.gov.ar/cartoArba"
+      },
+      {
+        "texto": "Hacé click en y luego ingresá el número de Partido 014 (Campana) y tu número de partida."
+      },
+      {
+        "texto": "Una vez ingresados los datos, se desplegará el mapa donde verás marcada tu partida."
+      },
+      {
+        "texto": "Hacé click sobre el botón de Información"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 751140,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.campana.gob.ar/catastro/"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.campana.gob.ar/catastro/",
+      "titulo": "Catastro – Municipalidad de Campana",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T11:43:46.863Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si el trámite es gratis, monto_centavos: null",
+    "Si no hay costo, costos vacío"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "tramite": {
+    "slug": "verificacion-de-importacion-de-pirotecnia-con-rotulado-etiquetado-o-marcaje",
+    "nombre": "Verificación de importación de pirotecnia con rotulado, etiquetado o marcaje",
+    "nombre_busqueda": "verificacion importacion pirotecnia rotulado",
+    "resumen": "Antes de importar pirotecnia sin rotulado, necesitás presentar una solicitud con antelación de tres días hábiles al arribo, acreditando la imposibilidad de rotular el producto según normas locales.",
+    "sinonimos": [
+      "solicitud de verificacion importacion pirotecnia",
+      "verificacion rotulado pirotecnia"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Agencia Nacional de Medicamentos, Alimentos y Tecnología Médica",
+    "sigla": "ANMaC",
+    "web": "https://www.argentina.gob.ar/anmac"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Importadores de pirotecnia que presenten la solicitud de verificación."
+    ],
+    "requisitos": [
+      {
+        "texto": "Solicitud de verificación de importación con rotulado, etiquetado o marcaje.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Registro del Producto extendido por la ANMaC.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Rótulos o etiquetas acordes a la normativa vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación comprendida en el apartado 3 del Anexo I de la Disp. 162/18.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "Estampillas por embalaje",
+      "gratis": false,
+      "monto_centavos": 100000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/verificacion-de-importacion-de-pirotecnia-con-rotulado-etiquetado-o-marcaje"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/verificacion-de-importacion-de-pirotecnia-con-rotulado-etiquetado-o-marcaje",
+      "titulo": "Verificación de importación de pirotecnia con rotulado, etiquetado o marcaje | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T18:37:58.451Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Requisito de antelación exacta en días hábiles no especificado con precisión mayor a tres días.",
+    "Dirección exacta del Centro de Atención de ANMaC.",
+    "Localidad del Centro de Atención de ANMaC.",
+    "Si el trámite requiere turno y cómo sacarlo.",
+    "Plazo de resolución de la solicitud."
+  ]
+}

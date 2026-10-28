@@ -1,0 +1,176 @@
+{
+  "tramite": {
+    "slug": "certificacion-vegetal-exportacion",
+    "nombre": "Certificación para exportar productos de origen vegetal",
+    "nombre_busqueda": "Certificación fitosanitaria exportación vegetal",
+    "resumen": "Para exportar productos o subproductos de origen vegetal necesitás solicitar el certificado fitosanitario de exportación ante el Senasa. El certificado avalá que el envío cumple con los requisitos fitosanitarios del país de destino y no introduce plagas cuarentenarias.",
+    "sinonimos": [
+      "Certificado fitosanitario de exportación",
+      "Certificación vegetal exportación"
+    ],
+    "temas": [
+      "comercio-e-industria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Exportadores",
+      "Despachantes de aduana",
+      "Agentes de transporte aduanero",
+      "Particulares",
+      "Organismos de investigación"
+    ],
+    "requisitos": [
+      {
+        "texto": "Inscripción vigente en el Registro de Operadores de Comercio Exterior (Exportadores e Importadores) de la AFIP",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitud de trámite de exportación",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitud de certificado fitosanitario",
+        "aclaracion": null
+      },
+      {
+        "texto": "Permiso de Importación o AFIDI (Autorización Fitosanitaria de Importación)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copias del Permiso de embarque (documentación aduanera que respalda el envío)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copias del Certificado del INASE (Instituto Nacional de Semillas) para material de propagación",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copias del Certificado de Flora Silvestre para exportar especies protegidas",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentos oficiales donde consten los requisitos fitosanitarios establecidos por la ONPF del país importador",
+        "aclaracion": null
+      },
+      {
+        "texto": "Boleta de pago de los aranceles correspondientes según al tipo de producto y cantidad a exportar",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración de domicilio electrónico mediante el sistema SIGTrámites",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Accedé al Sistema de Gestión de Certificados para Exportación de Productos de Origen Vegetal (CERT-POV) a través de TAD."
+      },
+      {
+        "texto": "Ingresá a la solapa 'ayuda-rol externo' para descargar los Instructivos para el manejo del sistema."
+      },
+      {
+        "texto": "Completá la solicitud de trámite de exportación y la solicitud de certificado fitosanitario."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a la Dirección de Comercio Exterior, Av. Paseo Colón N° 367 piso 6°, CABA."
+      },
+      {
+        "texto": "Aboná el arancel que corresponda."
+      },
+      {
+        "texto": "Verificá los Medios de pago habilitados en Senasa."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La vigencia del certificado no tiene caducidad, pero depende de la actualización de los requisitos fitosanitarios del país de destino.",
+      "Si tenés un trámite iniciado lo podés consultar de forma rápida y simple."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Comercio Exterior",
+      "direccion": "Av. Paseo Colón N° 367 piso 6°, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/gestionar-la-certificacion-para-exportar-productos-de-origen-vegetal"
+    },
+    {
+      "nombre": "Centro Regional Metropolitano",
+      "direccion": "Azopardo 1020 - CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/gestionar-la-certificacion-para-exportar-productos-de-origen-vegetal"
+    },
+    {
+      "nombre": "Sede Central",
+      "direccion": "Paseo Colón 367 - CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/gestionar-la-certificacion-para-exportar-productos-de-origen-vegetal"
+    },
+    {
+      "nombre": "Laboratorio Central",
+      "direccion": "Talcahuano 1660 – Martínez, Provincia de Buenos Aires",
+      "localidad": "Martínez",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/gestionar-la-certificacion-para-exportar-productos-de-origen-vegetal"
+    },
+    {
+      "nombre": "Centro Regional Buenos Aires",
+      "direccion": "Mar de Plata, Provincia de Buenos Aires",
+      "localidad": "Mar de Plata",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/gestionar-la-certificacion-para-exportar-productos-de-origen-vegetal"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/gestionar-la-certificacion-para-exportar-productos-de-origen-vegetal",
+      "titulo": "Gestionar la certificación para exportar productos de origen vegetal | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T04:57:25.808Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T04:57:25.808Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T04:57:25.808Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no está especificado en el texto, solo se indica que depende del tipo de producto y cantidad.",
+    "La fecha de vigencia de la normativa de medios de pago (4 de enero de 2021) no aplica directamente al trámite actual, por lo que el plazo de vigencia del certificado se deja sin confirmar."
+  ]
+}

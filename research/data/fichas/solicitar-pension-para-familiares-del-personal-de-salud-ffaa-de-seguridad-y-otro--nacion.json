@@ -1,0 +1,119 @@
+{
+  "tramite": {
+    "slug": "solicitar-pension-familiares-personal-salud-fallecidos-covid",
+    "nombre": "Solicitar pensión por fallecimiento de personal de salud",
+    "nombre_busqueda": "Solicitar pensión familiares personal salud fallecido covid",
+    "resumen": "Pago mensual vitalicio para cónyuges, convivientes e hijos de trabajadores esenciales fallecidos por COVID-19 entre marzo y septiembre de 2020. El trámite es gratuito y se realiza en línea desde la cuenta ANSES.",
+    "sinonimos": [
+      "Pensión COVID-19",
+      "Pensión Ley 27.549",
+      "Pensión familiares trabajadores esenciales fallecidos"
+    ],
+    "temas": [
+      "pensiones-por-fallecimiento"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANSES",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cónyuges, convivientes e hijos de trabajadores esenciales fallecidos por COVID-19."
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia del empleador manifestando que se encontraba desempeñando tareas presenciales durante el período 01/03/2020 y el 30/09/2020.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de defunción donde conste que la causa del fallecimiento fue por haber contraído COVID-19.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Partida de matrimonio actualizada (posterior a la fecha de fallecimiento).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Uso de la unión convivencial.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditar cinco años de convivencia anteriores e inmediatos a la fecha del fallecimiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditar haber tenido un hijo en común y reconocido por ambos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Partida de nacimiento de los hijos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de incapacidad para trabajar a la fecha del fallecimiento del causante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de estado comprobado de necesidad ocasionado por la escasez o carencia de recursos personales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de pago por alimentos (art. 663 del CC) si el hijo recibía ese pago a la fecha del fallecimiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUIL y Clave de la Seguridad Social.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá en mi ANSES con tu CUIL y Clave de la Seguridad Social."
+      },
+      {
+        "texto": "Revisá que tus datos personales y vínculos familiares estén correctos."
+      },
+      {
+        "texto": "Ingresá en Atención Virtual, opción Asistencia para inicio de Pensión COVID - Ley 27.549."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-pension-para-familiares-del-personal-de-salud-ffaa-de-seguridad-y-otros",
+      "titulo": "Solicitar pensión para familiares del personal de salud, FF.AA., de seguridad y otros fallecidos por COVID-19 | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T10:12:38.499Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T10:12:38.499Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia del beneficio.",
+    "Si se requiere turno para iniciar el trámite en línea."
+  ]
+}

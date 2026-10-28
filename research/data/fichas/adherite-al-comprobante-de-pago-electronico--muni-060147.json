@@ -1,0 +1,71 @@
+{
+  "tramite": {
+    "slug": "adhesion-al-domicilio-fiscal-electronico",
+    "nombre": "Adhesión al Domicilio Fiscal Electrónico",
+    "nombre_busqueda": "Adherir al Domicilio Fiscal Electrónico",
+    "resumen": "El trámite permite a los escribanos y abogados adherirse al sistema de pago electrónico mediante la presentación de un formulario de oficio.",
+    "sinonimos": [
+      "Adherirte al Domicilio Fiscal Electrónico",
+      "Adherirte al Comprobante de Pago Electrónico"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060147",
+  "organismo": {
+    "nombre": "Municipalidad de Carlos Casares",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Escribanos",
+      "Abogados"
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de Oficio para Escribanos",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Ingresá al Formulario de Oficio para Escribanos haciendo click aquí."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://casares.gob.ar/tramites/adherite-al-comprobante-de-pago-electronico/",
+      "titulo": "Adherite al Comprobante de Pago Electrónico – Municipalidad de Carlos Casares",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T10:56:57.471Z"
+    },
+    {
+      "url": "https://casares.gob.ar/tramites/formulario-de-oficio-de-escribanos/",
+      "titulo": "Formulario de Oficio para Escribanos – Municipalidad de Carlos Casares",
+      "bloques": [
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T10:56:57.471Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos, pasos, costos, plazos ni oficinas en el texto de las páginas dadas."
+  ]
+}

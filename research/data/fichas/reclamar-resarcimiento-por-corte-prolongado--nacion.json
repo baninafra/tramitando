@@ -1,0 +1,113 @@
+{
+  "tramite": {
+    "slug": "reclamar-resarcimiento-por-corte-prolongado",
+    "nombre": "Reclamar resarcimiento por corte prolongado",
+    "nombre_busqueda": "Reclamar resarcimiento por corte prolongado",
+    "resumen": "El ENReGE atiende a usuarios de EDENOR y EDESUR que sufren cortes de suministro eléctrico de 15 horas o más, ofreciendo un trámite gratuito y sin costo.",
+    "sinonimos": [],
+    "temas": [
+      "servicios-urbanos-y-reclamos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ente Nacional Regulador del Gas y la Electricidad",
+    "sigla": "ENReGE",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Usuarios de EDENOR y EDESUR",
+      "Habitantes de las islas del Delta del Paraná (pueden recurrir directamente al ENReGE sin contactar a la distribuidora si el corte se originó en fenómenos climáticos o averías en la red)"
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de identificación según la distribuidora (número de cliente para EDESUR o número de cuenta para EDENOR)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Últimos tres números del medidor, que figura en la parte superior de la factura",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número(s) de reclamo realizado ante la distribuidora",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fecha/s y hora/s de inicio del/los corte/s",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fecha/s y hora/s de finalización del/los corte/s",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario de reclamo disponible en la web del ENReGE"
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Dirijite a la sede del ENReGE en Suipacha 615, Ciudad Autónoma de Buenos Aires, de lunes a viernes de 09:00 a 17:00"
+      },
+      {
+        "texto": "Pedí turno previo antes de dirigirte a la sede"
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si te encontrás sin suministro eléctrico en este momento, realizá el trámite correspondiente para falta de suministro eléctrico antes de reclamar el resarcimiento"
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede del ENReGE",
+      "direccion": "Suipacha 615",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/reclamar-resarcimiento-por-corte-prolongado"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reclamar-resarcimiento-por-corte-prolongado",
+      "titulo": "Reclamar resarcimiento por corte prolongado | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T02:54:24.279Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/enre/gestion-de-reclamos/formularios-online/formulario-atencion-usuarios",
+      "titulo": "Para reclamar por otras deficiencias en el servicio de EDENOR / EDESUR | Argentina.gob.ar",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T02:54:24.279Z"
+    },
+    {
+      "url": "https://www.enre.gov.ar/web/bibliotd.nsf/($PorNroA%C3%B1o2)/3FF84C3D748E250D03258C38005CB695?opendocument",
+      "titulo": "Normativa",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T02:54:24.279Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite",
+    "El plazo de respuesta o resolución del reclamo",
+    "El enlace para sacar turno online"
+  ]
+}

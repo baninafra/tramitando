@@ -1,0 +1,73 @@
+{
+  "tramite": {
+    "slug": "poda-y-arbolado",
+    "nombre": "Solicitud de poda, extracción o corte de raíz",
+    "nombre_busqueda": "Solicitar poda de árbol",
+    "resumen": "Para solicitar la poda, extracción o corte de raíces de un árbol en Bahía Blanca, se debe cumplir con criterios específicos de riesgo o daño a la infraestructura. El trámite se realiza presentando la solicitud en la oficina de Arbolado Urbano.",
+    "sinonimos": [
+      "Solicitud de poda de árbol",
+      "Retiro de árbol",
+      "Corte de raíces urbano"
+    ],
+    "temas": [
+      "poda-y-arbolado"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier vecino o propietario de la propiedad afectada."
+    ],
+    "requisitos": [
+      {
+        "texto": "Solicitud de poda, extracción o corte de raíz.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la solicitud en la oficina de Arbolado Urbano."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Arbolado Urbano",
+      "direccion": "Alsina 65",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/arbolado/solicitud/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/arbolado/solicitud/",
+      "titulo": "Trámites sobre Arbolado Urbano | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T03:15:00.971Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere confirmar si se necesita agendar turno para la solicitud presencial.",
+    "Se requiere confirmar el plazo de respuesta o resolución de la solicitud."
+  ]
+}

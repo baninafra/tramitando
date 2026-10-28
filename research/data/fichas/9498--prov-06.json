@@ -1,0 +1,63 @@
+{
+  "tramite": {
+    "slug": "certificados-personales",
+    "nombre": "Solicitud de certificado de antecedentes personales",
+    "nombre_busqueda": "certificado de antecedentes personales",
+    "resumen": "Es un documento que acredita que no tenés antecedentes penales. Lo podés sacar en la policía.",
+    "sinonimos": [
+      "certificado de antecedentes",
+      "certificado de antecedentes personales"
+    ],
+    "temas": [
+      "certificados-personales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "prov-06",
+  "organismo": {
+    "nombre": "Policía de la Provincia de Buenos Aires",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que necesite acreditar que no tiene antecedentes penales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Llevá tu DNI original.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en la comisaría de tu domicilio o en la de la policía provincial."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://portal.gba.gob.ar/tramite/9498",
+      "titulo": "Portal de Trámites",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-26T01:51:47.127Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el costo del trámite.",
+    "No se indica el plazo de entrega del certificado.",
+    "No se detalla si es obligatorio llevar el DNI original o si sirve copia.",
+    "No se aclara si se puede sacar en cualquier comisaría o solo la de tu domicilio."
+  ]
+}

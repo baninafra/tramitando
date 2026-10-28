@@ -1,0 +1,30 @@
+{
+  "nota": "Sitios oficiales de partida por jurisdicción. El paso 'portales' baja cada sitio, Gemini identifica la guía de trámites entre sus links y el resultado verificado queda en portales.json.",
+  "jurisdicciones": [
+    { "jurisdiccion_id": "nacion", "nombre": "Nación", "sitios": ["https://www.argentina.gob.ar/"] },
+    { "jurisdiccion_id": "prov-02", "nombre": "Ciudad Autónoma de Buenos Aires", "sitios": ["https://buenosaires.gob.ar/"] },
+    { "jurisdiccion_id": "prov-06", "nombre": "Buenos Aires", "sitios": ["https://www.gba.gob.ar/"] },
+    { "jurisdiccion_id": "prov-10", "nombre": "Catamarca", "sitios": ["https://portal.catamarca.gob.ar/"] },
+    { "jurisdiccion_id": "prov-14", "nombre": "Córdoba", "sitios": ["https://www.cba.gov.ar/"] },
+    { "jurisdiccion_id": "prov-18", "nombre": "Corrientes", "sitios": ["https://www.corrientes.gob.ar/"] },
+    { "jurisdiccion_id": "prov-22", "nombre": "Chaco", "sitios": ["https://chaco.gob.ar/"] },
+    { "jurisdiccion_id": "prov-26", "nombre": "Chubut", "sitios": ["https://www.chubut.gov.ar/"] },
+    { "jurisdiccion_id": "prov-30", "nombre": "Entre Ríos", "sitios": ["https://www.entrerios.gov.ar/"] },
+    { "jurisdiccion_id": "prov-34", "nombre": "Formosa", "sitios": ["https://www.formosa.gob.ar/"] },
+    { "jurisdiccion_id": "prov-38", "nombre": "Jujuy", "sitios": ["https://www.jujuy.gob.ar/"] },
+    { "jurisdiccion_id": "prov-42", "nombre": "La Pampa", "sitios": ["https://www.lapampa.gob.ar/"] },
+    { "jurisdiccion_id": "prov-46", "nombre": "La Rioja", "sitios": ["https://www.larioja.gob.ar/"] },
+    { "jurisdiccion_id": "prov-50", "nombre": "Mendoza", "sitios": ["https://www.mendoza.gov.ar/"] },
+    { "jurisdiccion_id": "prov-54", "nombre": "Misiones", "sitios": ["https://misiones.gob.ar/"] },
+    { "jurisdiccion_id": "prov-58", "nombre": "Neuquén", "sitios": ["https://www.neuquen.gob.ar/"] },
+    { "jurisdiccion_id": "prov-62", "nombre": "Río Negro", "sitios": ["https://www.rionegro.gov.ar/"] },
+    { "jurisdiccion_id": "prov-66", "nombre": "Salta", "sitios": ["https://www.salta.gob.ar/"] },
+    { "jurisdiccion_id": "prov-70", "nombre": "San Juan", "sitios": ["https://sisanjuan.gob.ar/"] },
+    { "jurisdiccion_id": "prov-74", "nombre": "San Luis", "sitios": ["https://www.sanluis.gov.ar/"] },
+    { "jurisdiccion_id": "prov-78", "nombre": "Santa Cruz", "sitios": ["https://www.santacruz.gob.ar/"] },
+    { "jurisdiccion_id": "prov-82", "nombre": "Santa Fe", "sitios": ["https://www.santafe.gob.ar/"] },
+    { "jurisdiccion_id": "prov-86", "nombre": "Santiago del Estero", "sitios": ["https://www.sde.gob.ar/"] },
+    { "jurisdiccion_id": "prov-90", "nombre": "Tucumán", "sitios": ["https://www.tucuman.gob.ar/"] },
+    { "jurisdiccion_id": "prov-94", "nombre": "Tierra del Fuego", "sitios": ["https://www.tierradelfuego.gob.ar/"] }
+  ]
+}

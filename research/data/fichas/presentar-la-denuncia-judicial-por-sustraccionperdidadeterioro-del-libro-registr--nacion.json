@@ -1,0 +1,111 @@
+{
+  "tramite": {
+    "slug": "presentar-denuncia-sustraccion-perdida-deterioro-libro-registro-acciones",
+    "nombre": "Presentar la denuncia judicial por sustracción/pérdida/deterioro del libro registro de acciones",
+    "nombre_busqueda": "Denuncia judicial sustracción pérdida deterioro libro registro acciones",
+    "resumen": "Debes presentar una denuncia judicial ante la Inspección General de Justicia si se sustrajo, perdió o deterioró el libro registro de acciones. El trámite se hace presencialmente en la Mesa de Entradas o por sistema DEOX.",
+    "sinonimos": [
+      "Denuncia sustracción libro registro acciones",
+      "Denuncia pérdida libro registro acciones",
+      "Denuncia deterioro libro registro acciones"
+    ],
+    "temas": [
+      "seguridad-y-denuncias",
+      "denuncias-anonimas-y-policiales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": "IGJ",
+    "web": "https://www.argentina.gob.ar/justicia/igj"
+  },
+  "contenido": {
+    "quien_puede": [
+      "La sociedad afectada por la sustracción, pérdida o deterioro del libro registro de acciones."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de presentación (denuncia judicial art. 1876 CCyCN – Sustracción/Pérdida/Deterioro del Libro Registro de Acciones).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Oficio judicial (OFICIOS JUDICIALES) si se usa el sistema DEOX.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago del módulo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de la sentencia que ordena la rúbrica del nuevo libro (si aplica).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Ingresá al sistema Estado de trámites y vistas para solicitar turno."
+      },
+      {
+        "texto": "Presentá el formulario del trámite, su comprobante de pago y la documentación indicada en la Mesa General de Entradas de la Inspección General de Justicia."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://www.argentina.gob.ar/servicio/presentar-la-denuncia-judicial-por-sustraccionperdidadeterioro-del-libro-registro-de",
+    "plazo": null,
+    "consejos": [
+      "Una vez realizada la denuncia, la sociedad deberá presentar una copia ante la Inspección General de Justicia, donde conste la totalidad de los datos de la causa judicial.",
+      "Luego de presentar la copia de la denuncia, deberás solicitar la nueva rúbrica, conforme lo previsto en el Libro X de la RG IGJ Nº 15/2024, junto con la copia de la sentencia que ordena la rúbrica del nuevo libro y la constancia emitida por el Juzgado que acredite que la sentencia está firme."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 60000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/presentar-la-denuncia-judicial-por-sustraccionperdidadeterioro-del-libro-registro-de"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Mesa General de Entradas de la Inspección General de Justicia",
+      "direccion": "Av. Paseo Colón 291",
+      "localidad": "Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/presentar-la-denuncia-judicial-por-sustraccionperdidadeterioro-del-libro-registro-de"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/presentar-la-denuncia-judicial-por-sustraccionperdidadeterioro-del-libro-registro-de",
+      "titulo": "Presentar la denuncia judicial por sustracción/pérdida/deterioro del libro registro de acciones | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T01:17:41.213Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/justicia/igj/calculador-modulos",
+      "titulo": "Calculá el costo de los trámites de IGJ | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T01:17:41.213Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo exacto para realizar el trámite no se especifica en el texto.",
+    "La fecha exacta de vigencia del nuevo valor del módulo se indica como 08/04/2024, pero no se detalla si es permanente o temporal."
+  ]
+}

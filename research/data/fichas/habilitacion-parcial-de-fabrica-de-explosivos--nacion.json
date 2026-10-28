@@ -1,0 +1,127 @@
+{
+  "tramite": {
+    "slug": "habilitacion-comercial",
+    "nombre": "Habilitación parcial de fábrica de explosivos",
+    "nombre_busqueda": "Habilitación parcial fábrica explosivos",
+    "resumen": "Solicitá habilitación parcial de instalaciones para fabricación de explosivos ante ANMaC con documentación técnica y pólizas de seguro.",
+    "sinonimos": [],
+    "temas": [
+      "habilitacion-comercial"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMaC",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Representante legal o titular de la empresa."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de solicitud especificando la petición y las instalaciones.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que se agrega, con firma y aclaración del representante legal o titular, debidamente certificada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopias debidamente certificadas del título de dominio o contrato de alquiler, comodato, etc.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Habilitación municipal con expresa mención del rubro, a nombre del solicitante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ficha de Datos Técnicos (FDT) N° F1, suscripto por el representante legal o titular, con firma debidamente certificada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planos firmados por profesional matriculado y por el solicitante, con firmas certificadas del predio, distribución de edificios y detalles topográficos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planta y corte de los recintos señalando características constructivas y distribución de maquinarias.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotografías intervenidas por el representante legal o titular del interior y exterior de las instalaciones.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Memoria descriptiva de las características constructivas y/o edilicias, firmada por profesional matriculado y por el solicitante, con firmas certificadas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Memoria descriptiva, planimetría e informe de puesta a tierra del Sistema de Protección contra Descargas Atmosféricas, firmada por un profesional matriculado e intervenida por el solicitante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Condiciones de seguridad contra sustracciones a través de la Ficha de Datos Técnicos (FDT) N° F2, suscripta por el representante legal e intervenida por policía jurisdiccional.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ficha de Datos Técnicos (FDT) E2 Anexo, declarando el/los encargado/s del manejo de explosivos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación vigente de los encargados declarados (Certificado de aptitud psicofísica, certificado de antecedentes policiales o judiciales, Curriculum vitae o Título Habilitante).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Póliza de seguro vigente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Las estructuras incorporadas en un establecimiento habilitado deben estar habilitadas.",
+      "La vigencia de la habilitación es de cinco años.",
+      "Las habilitaciones de cualquier tipo de instalación quedarán sujetas a la correspondiente inscripción anual como Usuario de Explosivos.",
+      "En caso de ser instalaciones alquiladas o cedidas, el vencimiento quedará sujeto a los vencimientos contractuales o a los otorgados por las distintas autoridades Nacionales, Provinciales y/o Municipales.",
+      "En ningún caso el vencimiento excederá los cinco (5) años.",
+      "Las habilitaciones de instalaciones quedarán sujetas al cumplimiento de los requisitos técnicos y edificios, previa verificación de los mismos por la autoridad competente."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 20000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/habilitacion-parcial-de-fabrica-de-explosivos"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/habilitacion-parcial-de-fabrica-de-explosivos",
+      "titulo": "Habilitación parcial de fábrica de explosivos | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T16:00:35.326Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si el trámite es gratis, monto_centavos: null. Si el texto no dice el monto, no inventes un costo: dejá el array costos vacío y anotá el dato faltante en sin_confirmar."
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "tramite": {
+    "slug": "traslado-de-un-establecimiento-farmaceutico",
+    "nombre": "Traslado de un establecimiento farmacéutico",
+    "nombre_busqueda": "Traslado de farmacia",
+    "resumen": "Autorizá el traslado de tu establecimiento farmacéutico ingresando al TAD con tu Clave Fiscal y CUIT. Es un trámite gratuito que requiere varios documentos, incluyendo títulos de propiedad, habilitaciones del Ministerio de Salud y planos del local.",
+    "sinonimos": [
+      "Traslado de farmacia",
+      "Traslado de droguería",
+      "Traslado de herboristería"
+    ],
+    "temas": [
+      "habilitacion-comercial"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El titular del establecimiento.",
+      "El apoderado."
+    ],
+    "requisitos": [
+      {
+        "texto": "Completar formulario de solicitud en TAD y/o Nota de presentación en conformidad de aceptación de cargo firmada conjuntamente (TAD) del Presentante y del Director Técnico ingresante o en su defecto certificar por banco o escribano.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título de propiedad, contrato de locación o comodato (según el titular sea propietario, locatario o comodatario del inmueble), con firmas certificadas por Escribano Público de las partes intervinientes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En el caso del contrato de comodato, adjuntar título de propiedad.",
+        "aclaracion": "Si sos comodatario."
+      },
+      {
+        "texto": "Tanto el contrato de alquiler como el contrato de comodato, tienen que especificar en sus respectivas cláusulas el destino y el plazo del mismo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el Establecimiento se encuentra en una propiedad sometida al régimen de propiedad horizontal, se debe adjuntar reglamento de copropiedad.",
+        "aclaracion": "Si sos copropietario."
+      },
+      {
+        "texto": "Disposición de Habilitación del Establecimiento otorgada por el Ministerio de Salud de la Nación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Disposición donde consta el alta del Director Técnico actual o número de expediente por donde lo tramita.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Disposición donde consta el alta del/los auxiliares o número de expediente por donde lo tramita en el caso que los tuviese.",
+        "aclaracion": "Si sos titular de auxiliares."
+      },
+      {
+        "texto": "Plano del establecimiento con carátula del Ministerio de Salud de la Nación y las siguientes características: a) Escala 1:100. b) Detalle de los ambientes. c) Medidas de los ambientes (lineales y de superficie). Firma y sello del Profesional y Apoderado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Disposición de habilitación definitiva otorgado por CABA (Lectura de Código QR) o constancia de inicio de trámite.",
+        "aclaracion": "Si sos titular en CABA."
+      },
+      {
+        "texto": "En el caso de Personas Jurídicas, adjuntar: a) Estatuto Social, debidamente inscripto en IGJ, autenticada por Escribano Público, en el que se indique el objeto. b) Acta de Directorio que designa al Director Técnico autenticada por Escribano Público.",
+        "aclaracion": "Si sos titular de persona jurídica."
+      },
+      {
+        "texto": "Clave fiscal nivel 2 o superior de la AFIP o Apoderamiento en trámites a distancia para realizar el registro.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al TAD con Clave Fiscal y número de CUIT de la persona física o jurídica propietaria del establecimiento."
+      },
+      {
+        "texto": "Seleccioná el trámite 'Traslado de farmacia, droguería, herboristería y distribuidora de productos biomédicos' y seguí los pasos indicados."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Para hacer el Trámite a Distancia (TAD) se recomienda ingresar a la página desde una CPU a través del Mozilla Firefox o el Google Chrome, no mediante celulares u otros dispositivos móviles porque se han detectado inconvenientes."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/traslado-de-un-establecimiento-farmaceutico",
+      "titulo": "Traslado de un establecimiento farmacéutico | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T00:34:28.413Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el plazo de resolución del trámite.",
+    "No se especifica si se requiere turno para iniciar el trámite."
+  ]
+}

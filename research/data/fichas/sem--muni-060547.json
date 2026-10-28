@@ -1,0 +1,197 @@
+{
+  "tramite": {
+    "slug": "estacionamiento-medido-monte",
+    "nombre": "Usar el estacionamiento medido",
+    "nombre_busqueda": "Estacionamiento medido de Monte",
+    "resumen": "Podés iniciar y finalizar el estacionamiento medido desde la app o por Telegram. También podés pedir estacionamiento puntual en un comercio adherido, indicando tu patente y el tiempo de permanencia.",
+    "sinonimos": [
+      "SEM Monte",
+      "estacionamiento puntual"
+    ],
+    "temas": [
+      "estacionamiento-medido"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060547",
+  "organismo": {
+    "nombre": "Municipalidad de Monte",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Conductores que estacionan en las zonas alcanzadas por el sistema."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de celular y compañía telefónica.",
+        "aclaracion": "Si usás la aplicación."
+      },
+      {
+        "texto": "Patente del vehículo.",
+        "aclaracion": "Si pedís estacionamiento puntual."
+      },
+      {
+        "texto": "Tiempo de permanencia.",
+        "aclaracion": "Si pedís estacionamiento puntual."
+      },
+      {
+        "texto": "Crédito para estacionamiento medido.",
+        "aclaracion": "Si usás la aplicación."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Descargá la aplicación SEM Mobile para iOS o SEM Monte para Android, o buscá SEMMonteBot en Telegram."
+      },
+      {
+        "texto": "Registrate en la aplicación con tu número de celular y compañía; recibí la clave por SMS."
+      },
+      {
+        "texto": "Acercate a un punto de venta autorizado y pedí crédito para estacionamiento medido con tu usuario, que es tu número de celular."
+      },
+      {
+        "texto": "Iniciá el estacionamiento desde la aplicación o por Telegram."
+      },
+      {
+        "texto": "Finalizá el estacionamiento desde la aplicación."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Estacioná tu vehículo."
+      },
+      {
+        "texto": "Acercate a un punto de venta adherido y pedí «Estacionamiento Puntual»."
+      },
+      {
+        "texto": "Indicá tu patente y el tiempo que vas a permanecer."
+      },
+      {
+        "texto": "Recibí el comprobante con la patente y la hora límite; no hace falta dejarlo en el vehículo."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El estacionamiento finaliza a las 20:00.",
+      "Si te quedás sin crédito durante un estacionamiento iniciado, no se interrumpe: lo adeudado se cancela con la próxima carga.",
+      "Podés configurar en la aplicación una alerta para que suene durante el estacionamiento. Al cierre de la jornada, el estacionamiento se cierra automáticamente.",
+      "Los inspectores controlan el estacionamiento puntual por sistema."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 10000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://monte.gob.ar/sem/"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 15000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://monte.gob.ar/sem/"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 50000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://monte.gob.ar/sem/"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 343000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://monte.gob.ar/sem/"
+    },
+    {
+      "modalidad": "Dentro de las 72 horas",
+      "gratis": false,
+      "monto_centavos": 171500,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://monte.gob.ar/sem/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Autoservicio La Posta",
+      "direccion": "Avda. Costanera y Las Perdices",
+      "localidad": "Avda. Costanera y Las Perdices",
+      "horario": null,
+      "fuente_url": "https://monte.gob.ar/sem/"
+    },
+    {
+      "nombre": "Las Sirenitas",
+      "direccion": "Avda. Costanera N° 1419",
+      "localidad": "Avda. Costanera N° 1419",
+      "horario": null,
+      "fuente_url": "https://monte.gob.ar/sem/"
+    },
+    {
+      "nombre": "Autoservicio Bati",
+      "direccion": "Alem N° 298",
+      "localidad": "Alem N° 298",
+      "horario": null,
+      "fuente_url": "https://monte.gob.ar/sem/"
+    },
+    {
+      "nombre": "El Pocito de Don Leiva",
+      "direccion": "Rivadavia y Pinazo",
+      "localidad": "Rivadavia y Pinazo",
+      "horario": null,
+      "fuente_url": "https://monte.gob.ar/sem/"
+    },
+    {
+      "nombre": "Maxi Kiosco 1982",
+      "direccion": "Pinazo N° 668",
+      "localidad": "Pinazo N° 668",
+      "horario": null,
+      "fuente_url": "https://monte.gob.ar/sem/"
+    },
+    {
+      "nombre": "A los Papa’s Monte",
+      "direccion": "Avda. Costanera – Costa Laguna",
+      "localidad": "Avda. Costanera – Costa Laguna",
+      "horario": null,
+      "fuente_url": "https://monte.gob.ar/sem/"
+    },
+    {
+      "nombre": "Escorpio",
+      "direccion": "Avda. Costanera – Costa Laguna",
+      "localidad": "Avda. Costanera – Costa Laguna",
+      "horario": null,
+      "fuente_url": "https://monte.gob.ar/sem/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://monte.gob.ar/sem/",
+      "titulo": "SEM - Municipalidad de Monte",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "consejos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T15:12:19.366Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa cuánto tiempo tarda el trámite."
+  ]
+}

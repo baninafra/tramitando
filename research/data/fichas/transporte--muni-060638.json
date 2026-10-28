@@ -1,0 +1,73 @@
+{
+  "tramite": {
+    "slug": "boleto-estudiantil",
+    "nombre": "Boleto Estudiantil",
+    "nombre_busqueda": "Boleto Estudiantil Gratuito",
+    "resumen": "Trámite para obtener el Boleto Estudiantil Gratuito si sos un menor escolarizado o tenés uno a cargo. Se realiza en los Puntos Muni del municipio.",
+    "sinonimos": [
+      "Boleto Estudiantil Gratuito",
+      "Boleto Estudiante Pilar"
+    ],
+    "temas": [
+      "educacion-y-estudios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060638",
+  "organismo": {
+    "nombre": "Municipalidad del Pilar",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Si sos un menor escolarizado.",
+      "Si tenés un menor escolarizado a cargo."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI Físico del Padre/Madre/Tutor y del menor.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Con toda la documentación requerida dirigite a los distintos Punto Muni del municipio."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://pilar.gov.ar/tramites/transporte/",
+      "titulo": "Transporte - Municipio Pilar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "costo",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T16:27:35.162Z"
+    },
+    {
+      "url": "https://pilar.gov.ar/mi-muni/",
+      "titulo": "Mi Muni - Municipio Pilar",
+      "bloques": [
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T16:27:35.162Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de los Puntos Muni",
+    "Horarios de atención específicos por ubicación",
+    "Si se requiere turno para realizar el trámite"
+  ]
+}

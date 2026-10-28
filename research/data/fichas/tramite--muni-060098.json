@@ -1,0 +1,85 @@
+{
+  "tramite": {
+    "slug": "inscripcion-domicilio-fiscal-electronico",
+    "nombre": "Inscripción en Domicilio Fiscal Electrónico",
+    "nombre_busqueda": "Inscripción Domicilio Fiscal Electrónico",
+    "resumen": "El trámite permite la inscripción del domicilio fiscal en el sistema Domicilio Fiscal Electrónico de la Municipalidad de Berisso.",
+    "sinonimos": [],
+    "temas": [
+      "cuil-y-clave-de-seguridad-social",
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060098",
+  "organismo": {
+    "nombre": "Municipalidad de Berisso",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona natural o jurídica que desee inscribir su domicilio fiscal en el sistema Domicilio Fiscal Electrónico."
+    ],
+    "requisitos": [
+      {
+        "texto": "Presentar el documento de identidad original del titular del domicilio fiscal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar el documento de identidad original del representante legal en caso de que el titular sea menor de edad.",
+        "aclaracion": "Si el titular es menor de edad."
+      },
+      {
+        "texto": "Presentar la documentación que acredite la relación de parentesco o vínculo legal entre el titular y el representante, si corresponde.",
+        "aclaracion": "Si hay representante legal."
+      },
+      {
+        "texto": "Presentar la documentación que acredite la titularidad del inmueble o la relación con el domicilio fiscal, si corresponde.",
+        "aclaracion": "Si se trata de un inmueble."
+      },
+      {
+        "texto": "Completar el formulario de inscripción en Domicilio Fiscal Electrónico.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acudí a la oficina de la Municipalidad de Berisso con los documentos requeridos."
+      },
+      {
+        "texto": "Presentá los documentos de identidad y la documentación del inmueble o vínculo legal."
+      },
+      {
+        "texto": "Completá el formulario de inscripción en Domicilio Fiscal Electrónico en la oficina."
+      },
+      {
+        "texto": "Recibí el comprobante de inscripción o el documento de reconocimiento de la inscripción."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://dfe.berisso.gob.ar/",
+      "titulo": "Domicilio Fiscal Electrónico",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T10:57:43.233Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica si el trámite requiere la obtención de turno previo.",
+    "No se especifica el plazo de atención del trámite.",
+    "No se especifica si el trámite se puede realizar completamente por internet."
+  ]
+}

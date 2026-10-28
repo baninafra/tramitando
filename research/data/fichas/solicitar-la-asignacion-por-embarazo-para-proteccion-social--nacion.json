@@ -1,0 +1,117 @@
+{
+  "tramite": {
+    "slug": "solicitar-asignacion-embarazo-proteccion-social",
+    "nombre": "Solicitar la asignación por embarazo para protección social",
+    "nombre_busqueda": "Asignación por embarazo ANSES",
+    "resumen": "Beneficio gratuito para acompañar a personas embarazadas que más lo necesitan durante toda la gestación. Se cobra automáticamente si estás inscripta en el Programa SUMAR+, o se solicita con turno en oficina de ANSES.",
+    "sinonimos": [
+      "Asignación por embarazo",
+      "Asignación por embarazo protección social",
+      "Asignación por embarazo ANSES"
+    ],
+    "temas": [
+      "familia-y-pareja"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración Nacional de Seguros Sociales",
+    "sigla": "ANSES",
+    "web": "https://www.argentina.gob.ar/servicio/solicitar-la-asignacion-por-embarazo-para-proteccion-social"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas desocupadas (incluido cónyuge y conviviente).",
+      "Trabajadoras informales (con ingresos inferiores al salario mínimo).",
+      "Monotributistas sociales.",
+      "Trabajadoras y desempleadas de casas particulares registradas.",
+      "Personas inscriptas en programas sociales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener un embarazo de 12 semanas o más.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ser argentina o naturalizada y tener DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si sos extranjera, tener al menos 3 años de residencia en el país.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estar inscripto y cumplir con los controles que establece el Programa SUMAR+ y no tener obra social (excepto monotributistas sociales, personal de casas particulares y desempleadas con cobertura de salud).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar la solicitud con anterioridad al nacimiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si sos monotributista social, personal de casas particulares o desempleada que continúa con cobertura de obra social por 3 meses posteriores al cese laboral, tenés que realizar el trámite exclusivamente en una oficina de ANSES, con turno previo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si estás desocupada o tenés ingresos informales tenés que presentar la constancia de inscripción al Programa SUMAR.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si tenés un apoderado o representante, completá el rubro 3 del formulario.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si tenés registrado un trámite por un embarazo anterior, el mismo debe encontrarse debidamente acreditado (por nacimiento, nacimiento sin vida o interrupción del embarazo).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si no están actualizados tus datos personales y los de tu grupo familiar, presentá las partidas de nacimiento de tus hijos, el certificado de matrimonio o convivencia y los DNI del grupo familiar en la oficina de ANSES sin turno.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Ingresá a mi ANSES y revisá que tus datos personales y los de tu grupo familiar estén actualizados."
+      },
+      {
+        "texto": "Completá el formulario de Solicitud Asignación Asignación por Embarazo."
+      },
+      {
+        "texto": "Solicitá un turno en ANSES para hacer este trámite de forma presencial en una oficina."
+      },
+      {
+        "texto": "Presentate el día del turno con la documentación requerida."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Recordá que tenés hasta 12 meses desde la finalización de tu embarazo para hacer el trámite y cobrar el 20% acumulado.",
+      "Para cobrar el 20% restante, tenés que completar el formulario Formulario PS 2.10 - Acreditación de la Asignación por Embarazo para Protección Social."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-asignacion-por-embarazo-para-proteccion-social",
+      "titulo": "Solicitar la Asignación por Embarazo para Protección Social | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T09:21:14.516Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite.",
+    "El monto exacto de la asignación mensual.",
+    "La URL para solicitar el turno en línea."
+  ]
+}

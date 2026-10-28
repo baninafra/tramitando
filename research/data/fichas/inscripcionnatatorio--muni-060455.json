@@ -1,0 +1,102 @@
+{
+  "tramite": {
+    "slug": "inscripcion-natatorio-municipal-hugo-mauro",
+    "nombre": "Inscripción al natatorio municipal Hugo Mauro",
+    "nombre_busqueda": "inscripción al natatorio de Las Flores",
+    "resumen": "Completá la preinscripción y presentá la planilla médica completa por un médico. La nivelación se hace en el turno que elegís y no asegura un lugar: el ingreso depende de la disponibilidad del grupo.",
+    "sinonimos": [
+      "preinscripción al natatorio municipal"
+    ],
+    "temas": [
+      "deportes-y-cultura-local"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060455",
+  "organismo": {
+    "nombre": "Dirección de Natatorios Municipales, Secretaría de Deportes, Municipalidad de Las Flores",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que quieran inscribirse en el Natatorio Municipal Hugo Mauro."
+    ],
+    "requisitos": [
+      {
+        "texto": "Planilla médica completa por un médico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Malla para la nivelación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ojotas para la nivelación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Gorro para la nivelación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Antiparras para la nivelación.",
+        "aclaracion": "Opcional."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario de preinscripción."
+      },
+      {
+        "texto": "Descargá las planillas médicas que correspondan."
+      },
+      {
+        "texto": "Esperá la notificación de la administración después de completar todos los pasos."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Entregá la planilla médica completa al personal administrativo."
+      },
+      {
+        "texto": "Presentate a la nivelación en el turno en el que querés inscribirte."
+      },
+      {
+        "texto": "Si te asignan un grupo y entrás, hacete una revisación mensual con la enfermera de turno."
+      },
+      {
+        "texto": "Si faltás al turno de nivelación, solicitá otro turno."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La preinscripción no asegura un lugar en el natatorio.",
+      "El ingreso al grupo después de la nivelación depende de la disponibilidad."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://lasflores.gob.ar/inscripcionnatatorio/",
+      "titulo": "Inscripción - Natatorio Municipal Hugo Mauro - Las Flores",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:38:11.499Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa quiénes pueden inscribirse.",
+    "No se informa el plazo de inscripción ni de notificación.",
+    "El formulario figura como no disponible."
+  ]
+}

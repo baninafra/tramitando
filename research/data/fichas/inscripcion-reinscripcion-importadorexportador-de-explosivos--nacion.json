@@ -1,0 +1,147 @@
+{
+  "tramite": {
+    "slug": "inscripcion-reinscripcion-importadorexportador-de-explosivos",
+    "nombre": "Inscripción reinscripción importador/exportador de explosivos",
+    "nombre_busqueda": "Inscripción importador explosivos",
+    "resumen": "Este trámite permite solicitar la inscripción o reinscripción como importador o exportador de explosivos ante ANMaC. Se requiere documentación completa, incluyendo títulos de dominio, antecedentes penales y policiales, y la presentación de formularios específicos.",
+    "sinonimos": [
+      "Inscripción importador explosivos",
+      "Reinscripción importador explosivos"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMaC",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Importadores o exportadores de explosivos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de solicitud especificando la petición que realizás, con indicación del o de los rubros en los que se solicita inscripción, documentación que se agrega, etc., con firma y aclaración del representante legal o titular de la empresa, debidamente certificada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Indicación de los polvorines o depósitos utilizados habilitados por la ANMaC.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La inscripción o reinscripción requiere de la correspondiente habilitación vigente de las instalaciones a nombre del causante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formularios Leyes 23.283 y 23.412 correspondientes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopias certificadas de contrato social o estatutos vigentes y sus modificaciones, con la constancia de su inscripción en el Registro Público de Comercio, la Inspección General de Justicia, el INAC, etc., según el caso.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Instrumentos legales que acrediten la representación de la sociedad, actas de Asamblea y/o Directorio designando las autoridades vigentes, o poder notarial con facultades suficientes, etc.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para personas físicas: Documento Nacional de Identidad del titular, con domicilio actualizado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para personas jurídicas: Documento Nacional de Identidad del representante legal, con domicilio actualizado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ficha de Datos Técnicos (FDT) N° E2, suscripto por el representante legal o titular de la empresa, con firma debidamente certificada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ficha de Datos Técnicos (FDT) E2 Anexo declarando el/los encargados del manejo de explosivos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Antecedentes penales del titular, apoderado y/o representante legal, original, otorgado por el Registro Nacional de Reincidencia dependiente de ministerio de justicia de la nación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Antecedentes Policiales (otorgado por policía de la jurisdicción) o Judiciales del/los encargado/s del manejo de explosivos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de aptitud física y psicológica o psiquiátrica del/los encargado/s del manejo de explosivos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitud de Registro de Firmas y Sellos: Se efectúa a través de los Formularios Leyes N° 23.283 y 23.412 correspondientes por persona.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia certificada de la constancia de inscripción como importador/exportador ante la AFIP-DGA (Dirección General de Aduanas).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Conocé cómo obtener tu Certificado Psicofísico mediante el Sistema Abierto y Federal de Emisión de Certificados Psicofísicos (SiAF)."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central del organismo",
+      "direccion": "Bartolomé Mitre 1465/9",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscripcion-reinscripcion-importadorexportador-de-explosivos"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscripcion-reinscripcion-importadorexportador-de-explosivos",
+      "titulo": "Inscripción-reinscripción importador/exportador de explosivos | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T05:12:28.294Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T05:12:28.294Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica el monto del trámite, por lo que el array costos está vacío.",
+    "El texto no especifica si se requiere turno ni la fecha de vigencia del trámite."
+  ]
+}

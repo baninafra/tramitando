@@ -1,0 +1,73 @@
+{
+  "tramite": {
+    "slug": "constancia-categorizacion-comercios",
+    "nombre": "Constancia de categorización para comercios",
+    "nombre_busqueda": "constancia de categorización del régimen simplificado",
+    "resumen": "La página permite completar el rubro y la cuenta para abrir la constancia de categorización. Indica que necesitás Acrobat Reader para abrirla.",
+    "sinonimos": [],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060490",
+  "organismo": {
+    "nombre": "Municipalidad de Lomas de Zamora",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "La página está dirigida a comercios."
+    ],
+    "requisitos": [
+      {
+        "texto": "Completar el rubro.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Completar la cuenta.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contar con Acrobat Reader para abrir la constancia.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el rubro."
+      },
+      {
+        "texto": "Completá la cuenta."
+      },
+      {
+        "texto": "Abrí la constancia con Acrobat Reader."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://webextra.lomasdezamora.gov.ar/categorizacion/constanciadecategorizacion.aspx",
+      "titulo": "Categorización Comercio",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T14:50:23.820Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica quiénes pueden solicitar la constancia ni qué condiciones deben cumplir los comercios.",
+    "No se informa el costo, el plazo, ni si se requiere turno."
+  ]
+}

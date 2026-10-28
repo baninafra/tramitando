@@ -1,0 +1,87 @@
+{
+  "tramite": {
+    "slug": "certificado-de-duplicado",
+    "nombre": "Certificado de Duplicado",
+    "nombre_busqueda": "Certificado de Duplicado DNDA",
+    "resumen": "Este trámite permite solicitar un certificado Duplicado de las obras ingresadas en la Dirección Nacional del Derecho de Autor (DNDA).",
+    "sinonimos": [
+      "Certificado duplicado DNDA",
+      "Certificado duplicado obras DNDA"
+    ],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional del Derecho de Autor",
+    "sigla": "DNDA",
+    "web": "https://www.argentina.gob.ar/servicio/certificado-de-duplicado"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes ya hayan tramitado el certificado de obras ingresadas en la Dirección Nacional de Derecho de Autor."
+    ],
+    "requisitos": [
+      {
+        "texto": "Comprobante de pago del trámite por depósito o transferencia bancaria.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Información del título, autor y/o número de registro o expediente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD - Certificado Duplicado Derecho de Autor e iniciá el trámite."
+      },
+      {
+        "texto": "Completá los datos personales y del trámite."
+      },
+      {
+        "texto": "Subí la documentación obligatoria y complementaria."
+      },
+      {
+        "texto": "Descargá el certificado de duplicado digital."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si tenés algún error se te enviará una tarea de subsanación."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 150000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/certificado-de-duplicado"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/certificado-de-duplicado",
+      "titulo": "Certificado de Duplicado | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T05:22:59.102Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica el plazo de entrega del certificado."
+  ]
+}

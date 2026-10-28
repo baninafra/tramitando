@@ -1,0 +1,89 @@
+{
+  "tramite": {
+    "slug": "solicitar-la-cancelacion-de-matricula",
+    "nombre": "Solicitar la cancelación de matrícula",
+    "nombre_busqueda": "cancelar matrícula inspección justicia",
+    "resumen": "Para cancelar una matrícula de actividad económica, martillero, corredor o despachante de aduana en la Ciudad Autónoma de Buenos Aires, necesitás el formulario, una nota de cese de actividad firmada y abonar la tasa.",
+    "sinonimos": [
+      "cancelar inscripción de actividad económica",
+      "baja de matrícula IGJ"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Matriculados inscriptos en la Inspección General de Justicia de la Ciudad Autónoma de Buenos Aires."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario denominado Cancelación de matrícula.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de cese de actividad con los datos de inscripción de la matrícula con firma certificada judicial o notarialmente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar copia protocolar de la documentación (debe ser una reducción aproximada al 72% y tener 8 cm de margen izquierdo).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago de la tasa retributiva de servicios a nombre de quien lo solicita.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Completá la documentación y solicitá turno para Mesa General de Entradas."
+      },
+      {
+        "texto": "Presentá el formulario del trámite y toda la documentación indicada en la Mesa General de Entradas de la Inspección General de Justicia."
+      },
+      {
+        "texto": "Retiralo por Av. Paseo Colón 285, sector Matrículas (3er. piso), en el horario de 10.00 a 14.00 hs. sin turno."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Mesa General de Entradas de la Inspección General de Justicia",
+      "direccion": "Av. Paseo Colón 285",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-la-cancelacion-de-matricula"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-cancelacion-de-matricula",
+      "titulo": "Solicitar la cancelación de matrícula | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-27T09:42:16.435Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto indica que los requisitos son aplicables a todas las matrículas (Personas humanas que realizan una actividad económica organizada, Martilleros, Corredores y Despachantes de Aduana), pero no especifica si esto cambia para otros tipos de matrículas fuera de la Ciudad Autónoma de Buenos Aires."
+  ]
+}

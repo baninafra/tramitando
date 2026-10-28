@@ -1,0 +1,91 @@
+{
+  "tramite": {
+    "slug": "tramitar-certificado-unico-de-discapacidad",
+    "nombre": "Tramitar el Certificado Único de Discapacidad",
+    "nombre_busqueda": "CUD de Necochea",
+    "resumen": "El Certificado Único de Discapacidad acredita la discapacidad y tiene validez nacional. El trámite es gratuito y voluntario; se realiza en el Hospital Irurzun de Quequén.",
+    "sinonimos": [
+      "CUD"
+    ],
+    "temas": [
+      "certificado-unico-de-discapacidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060581",
+  "organismo": {
+    "nombre": "Municipalidad de Necochea",
+    "sigla": null,
+    "web": "https://necochea.gov.ar/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "La persona con discapacidad o un familiar directo puede realizar el trámite.",
+      "Pueden acceder personas con patologías motoras, mentales, auditivas, visuales o viscerales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Acreditá domicilio en el distrito de Necochea.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá los estudios correspondientes a la patología específica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Completá el formulario de la patología con tu médico tratante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá el certificado correspondiente si tenés obra social o prepaga.",
+        "aclaracion": "Si tenés obra social o prepaga."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá los estudios correspondientes a la patología específica."
+      },
+      {
+        "texto": "Completá el formulario de la patología con tu médico tratante."
+      },
+      {
+        "texto": "Concurrí al turno para la junta médica."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": true,
+      "monto_centavos": null,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://necochea.gov.ar/tramites/cud/"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://necochea.gov.ar/tramites/cud/",
+      "titulo": "Tramites – CUD – Municipalidad de Necochea",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T15:35:30.855Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa si hace falta sacar turno previamente ni un enlace para solicitarlo; la página indica un teléfono para solicitar turno.",
+    "No se especifican la dirección del Hospital Irurzun ni el plazo del trámite."
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "tramite": {
+    "slug": "solicitud-extraccion-arboles-registro-podadores",
+    "nombre": "Solicitar la extracción de un árbol",
+    "nombre_busqueda": "solicitud de extracción y poda de árboles y registro de podadores",
+    "resumen": "Solicitá la extracción de un árbol con una planilla, copias de tu DNI y de la factura de ABL. La Dirección Forestal inspecciona el domicilio y determina si aprueba la extracción.",
+    "sinonimos": [
+      "solicitud de extracción de árboles",
+      "registro de podadores autorizados"
+    ],
+    "temas": [
+      "poda-y-arbolado"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060280",
+  "organismo": {
+    "nombre": "Municipalidad de General Alvarado",
+    "sigla": null,
+    "web": "https://mga.gov.ar/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés solicitar la extracción de un árbol. La Dirección Forestal evalúa cada caso."
+    ],
+    "requisitos": [
+      {
+        "texto": "Planilla de solicitud completa y timbrada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de tu DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de una factura de ABL.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Descargá e imprimí la planilla de solicitud."
+      },
+      {
+        "texto": "Completá la planilla."
+      },
+      {
+        "texto": "Acercate a Ingresos Públicos del municipio, en el primer piso, de lunes a viernes de 7:00 a 13:00, y pagá el timbrado para crear el expediente."
+      },
+      {
+        "texto": "Presentá en Mesa de Entradas, en la planta baja del municipio, la planilla timbrada y las fotocopias de tu DNI y de la factura de ABL. Te darán un número de expediente para que puedas seguirlo."
+      },
+      {
+        "texto": "Esperá el circuito interno del expediente y la inspección de la Dirección Forestal en el domicilio, que determinará si se aprueba la extracción."
+      },
+      {
+        "texto": "Si aprueban la extracción, contratá por tu cuenta a un podador matriculado por el municipio."
+      },
+      {
+        "texto": "Si contratás un servicio de poda o extracción, asegurate de que el podador lleve las ramas al basurero municipal."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La Municipalidad tiene un Registro Oficial de Podadores creado por la Ordenanza N.º 125/99, con categorías de altura de más de 8 metros y hasta 8 metros. Podés pedir el listado vigente de podadores habilitados en la Dirección Forestal.",
+      "Toda poda dentro del Partido de General Alvarado se evalúa caso por caso por la Dirección Forestal."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Ingresos Públicos del Municipio de General Alvarado",
+      "direccion": "Calle 28 N.º 1084, primer piso",
+      "localidad": "Calle 28 N.º 1084, primer piso",
+      "horario": null,
+      "fuente_url": "https://mga.gov.ar/podadores-arboles/"
+    },
+    {
+      "nombre": "Mesa de Entradas del Municipio de General Alvarado",
+      "direccion": "Planta baja del municipio",
+      "localidad": "Planta baja del municipio",
+      "horario": null,
+      "fuente_url": "https://mga.gov.ar/podadores-arboles/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://mga.gov.ar/podadores-arboles/",
+      "titulo": "Podadores MGA - Municipio Gral Alvarado",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde",
+        "consejos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T12:37:43.914Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa el monto del timbrado.",
+    "No se indica el plazo del trámite.",
+    "No se informa si hace falta sacar turno.",
+    "No se especifica la localidad de las oficinas."
+  ]
+}

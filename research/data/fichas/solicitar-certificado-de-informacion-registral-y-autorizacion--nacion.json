@@ -1,0 +1,78 @@
+{
+  "tramite": {
+    "slug": "solicitar-certificado-de-informacion-registral-y-autorizacion",
+    "nombre": "Solicitar certificado de información registral y autorización",
+    "nombre_busqueda": "solicitar certificado de información registral y autorización",
+    "resumen": "Los sujetos supervisados por la Superintendencia de Seguros de la Nación pueden solicitar un certificado de información registral y de autorización de forma gratuita a través del TAD.",
+    "sinonimos": [],
+    "temas": [
+      "legalizaciones-y-apostillados"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Seguros de la Nación",
+    "sigla": "SSN",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Sujetos supervisados por la SSN"
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener usuario de acceso a TAD",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al TAD Certificado de Información Registral y Autorización"
+      },
+      {
+        "texto": "Completá los datos requeridos"
+      },
+      {
+        "texto": "Confirmá los datos ingresados"
+      },
+      {
+        "texto": "El sistema generará un número de expediente ante la SSN"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El organismo analizará la información presentada y ante una observación se comunicará sobre ello"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-informacion-registral-y-autorizacion",
+      "titulo": "Solicitar Certificado de Información Registral y Autorización | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T07:59:51.584Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T07:59:51.584Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica el plazo exacto de análisis ni entrega del certificado."
+  ]
+}

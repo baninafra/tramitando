@@ -1,0 +1,107 @@
+{
+  "tramite": {
+    "slug": "final-de-obra",
+    "nombre": "Final de obra",
+    "nombre_busqueda": "final de obra",
+    "resumen": "Incorporá la obra finalizada a los padrones municipales y cerrá las actuaciones administrativas del expediente de obra. El trámite es presencial y requiere turno previo.",
+    "sinonimos": [
+      "certificado final de obra"
+    ],
+    "temas": [
+      "final-de-obra"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060441",
+  "organismo": {
+    "nombre": "Obras Particulares - Municipalidad de La Plata",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes solicitan incorporar una obra finalizada a los padrones municipales y cerrar las actuaciones de su expediente de obra."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota del profesional solicitando el final de obra, dirigida al Director General de Obras Particulares.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dos copias del plano según obra, con los grafismos correspondientes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Una copia del plano de electricidad y ascensor o de las instalaciones electromecánicas.",
+        "aclaracion": "Si la obra posee esas instalaciones y corresponde realizar la inspección."
+      },
+      {
+        "texto": "Revalúo definitivo visado por ARBA y Catastro municipal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Libre deuda municipal actualizado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado final de aportes del colegio profesional y previsional (Mixto).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado final de bomberos.",
+        "aclaracion": "Si se solicitó para el permiso de obra."
+      },
+      {
+        "texto": "Timbrado correspondiente a la inspección de obra solicitada.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Sacá un turno previo con la opción «Consulta Administrativa - Ingreso y Egreso Documentación»."
+      },
+      {
+        "texto": "Presentá los requisitos para solicitar el final de obra."
+      },
+      {
+        "texto": "Coordiná la inspección de obra con una de las copias del plano según obra."
+      },
+      {
+        "texto": "Retirá los planos «según obra» y el Certificado Final firmado por el Inspector y el Director."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://turnos.laplata.gob.ar/misdatos",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://tramites.laplata.gob.ar/obrasparticulares/finales-de-obra.html",
+      "titulo": "Obras Particulares - Municipalidad de La Plata",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T14:15:26.776Z"
+    },
+    {
+      "url": "https://turnos.laplata.gob.ar/misdatos",
+      "titulo": "Turnos online - Municipalidad de La Plata",
+      "bloques": [
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T14:15:26.776Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa el monto del timbrado.",
+    "No se indica quién puede iniciar el trámite."
+  ]
+}

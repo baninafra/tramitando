@@ -1,0 +1,83 @@
+{
+  "tramite": {
+    "slug": "consulta-de-estado-de-deuda-y-emision-de-boletas-de-inmuebles",
+    "nombre": "Consulta de estado de deuda y emisión de boletas de inmuebles",
+    "nombre_busqueda": "Consulta deuda inmuebles Dolores",
+    "resumen": "Permite consultar el estado de la deuda de un inmueble y descargar las boletas correspondientes en línea.",
+    "sinonimos": [
+      "Consulta deuda inmueble",
+      "Descargar boletas inmuebles",
+      "Estado cuenta inmueble"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "tasa-inmobiliaria-y-servicios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060238",
+  "organismo": {
+    "nombre": "Municipalidad de Dolores",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en consultar la deuda de un inmueble."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de DNI del propietario o del titular de la deuda.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de folio del inmueble.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio web de la Municipalidad de Dolores."
+      },
+      {
+        "texto": "Acercate al menú de 'Consultas Tributarias'."
+      },
+      {
+        "texto": "Seleccioná la opción 'Consulta de Estado de Cuenta'."
+      },
+      {
+        "texto": "Ingresá tu número de DNI y el folio del inmueble."
+      },
+      {
+        "texto": "Hacé clic en el botón para consultar."
+      },
+      {
+        "texto": "Revisá el estado de la deuda y las boletas emitidas."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://tramites.dolores.gob.ar/consultatributaria/",
+      "titulo": "Consultas Tributarias",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T22:52:50.886Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el monto de la tasa o costo del trámite.",
+    "No se indica si el trámite requiere turno."
+  ]
+}

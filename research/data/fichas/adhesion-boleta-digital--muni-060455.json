@@ -1,0 +1,86 @@
+{
+  "tramite": {
+    "slug": "adhesion-boleta-digital-tasas-municipales",
+    "nombre": "Adhesión a la boleta digital de tasas municipales",
+    "nombre_busqueda": "adherir una tasa municipal a la boleta digital",
+    "resumen": "Completá el formulario para adherir una tasa o impuesto a la boleta digital. Enviá una solicitud por cada impuesto; recibirás un email de confirmación.",
+    "sinonimos": [
+      "boleta digital municipal",
+      "adhesión a boleta digital"
+    ],
+    "temas": [
+      "boletas-y-vencimientos",
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060455",
+  "organismo": {
+    "nombre": "Gobierno Municipal de Las Flores",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés solicitar la adhesión para una tasa o impuesto municipal."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tipo de tasa o impuesto: ABL, Red Vial, Automotor, Motovehículo o Seguridad e Higiene.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de dominio o número de partida.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombre y apellido.",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUIT, CUIL o DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Email y confirmación del email.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario con los datos solicitados."
+      },
+      {
+        "texto": "Enviá una solicitud por cada impuesto que tengas."
+      },
+      {
+        "texto": "Esperá el email de confirmación de la operación."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://lasflores.gob.ar/tramites/tasas/adhesion-boleta-digital/",
+      "titulo": "Adhesión Boleta Digital - Las Flores",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T14:33:13.197Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa si el trámite tiene costo.",
+    "No se informa un plazo de resolución.",
+    "No se indica si hace falta sacar turno."
+  ]
+}

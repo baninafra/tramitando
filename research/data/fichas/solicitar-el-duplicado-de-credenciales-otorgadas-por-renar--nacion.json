@@ -1,0 +1,90 @@
+{
+  "tramite": {
+    "slug": "duplicado-de-credenciales-renar",
+    "nombre": "Solicitar el duplicado de credenciales otorgadas por RENAR",
+    "nombre_busqueda": "duplicado credenciales renar",
+    "resumen": "Si te robaron o extraviaste una credencial de RENAR, podés iniciar la solicitud de duplicado online y presentarla en un Centro de Atención.",
+    "sinonimos": [
+      "duplicado credencial renar",
+      "reemplazo credencial renar"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro Nacional de Armas",
+    "sigla": "RENAR",
+    "web": "https://www.argentina.gob.ar/servicio/solicitar-el-duplicado-de-credenciales-otorgadas-por-renar"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes necesiten tramitar el duplicado de una credencial emitida por RENAR."
+    ],
+    "requisitos": [
+      {
+        "texto": "La solicitud electrónica donde conste el tipo de credencial sobre la que pedís el duplicado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ley 23.283 y 23.412 correspondientes por cada credencial.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La denuncia policial de extravío de la credencial solicitada.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá la solicitud electrónica ingresando a través de la página MiRENAR con usuario y contraseña."
+      },
+      {
+        "texto": "Presioná 'SOLICITUD'."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención RENAR que prefieras."
+      },
+      {
+        "texto": "Retirá la documentación emitida por el RENAR en la delegación en la que iniciaste el trámite o pedí que te la manden por correo."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-el-duplicado-de-credenciales-otorgadas-por-renar",
+      "titulo": "Solicitar el duplicado de credenciales otorgadas por RENAR | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T09:00:09.594Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T09:00:09.594Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel para el envío por correo no se especifica en el texto.",
+    "El plazo de entrega no se especifica en el texto.",
+    "La vigencia de las credenciales duplicadas no se especifica en el texto."
+  ]
+}

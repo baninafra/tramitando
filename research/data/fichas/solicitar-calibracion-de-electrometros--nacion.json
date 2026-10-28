@@ -1,0 +1,101 @@
+{
+  "tramite": {
+    "slug": "solicitar-calibracion-de-electrometros",
+    "nombre": "Solicitar calibración de electrometros",
+    "nombre_busqueda": "Solicitar calibración de electrometros",
+    "resumen": "El CRRD de la CNEA en el Centro Atómico Ezeiza ofrece calibración de electrómetros para hospitales, centros de radioterapia e industrias. Se requiere completar un formulario, sacar turno y llevar el equipamiento con DNI.",
+    "sinonimos": [],
+    "temas": [
+      "salud-y-prevencion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Comisión Nacional de Energía Atómica",
+    "sigla": "CNEA",
+    "web": "https://www.argentina.gob.ar/energia"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Hospitales",
+      "Centros de Radioterapia",
+      "Industrias"
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario completo",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Equipamiento",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Descargá y completá el Formulario de Solicitud de Turno."
+      },
+      {
+        "texto": "Enviá el formulario completado por correo electrónico a [email protected]."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Concurrí al Centro Atómico Ezeiza con el equipamiento y el turno otorgado."
+      },
+      {
+        "texto": "Acordá la visita previamente y concurrid con DNI."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El laboratorio responde a la Norma iram-iso/iec 17025:2017.",
+      "El CRRD forma parte de la Red Internacional de Laboratorios Secundarios de Calibración Dosimétrica (SSDL) del Organismo Internacional de Energía Atómica (OIEA) y la Organización Mundial de la Salud (OMS)."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Centro Atómico Ezeiza",
+      "direccion": "Calle Presbítero Juan González y Aragón N°15, Ezeiza, Pcia. de Buenos Aires",
+      "localidad": "Ezeiza",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-calibracion-de-electrometros"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-calibracion-de-electrometros",
+      "titulo": "Solicitar Calibración de Electrómetros | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T08:02:37.972Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T08:02:37.972Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo de atención no está especificado en el texto.",
+    "El monto exacto de la calibración no está especificado en el texto."
+  ]
+}

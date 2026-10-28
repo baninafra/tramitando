@@ -1,0 +1,112 @@
+{
+  "tramite": {
+    "slug": "visacion-de-mensura",
+    "nombre": "Visación de mensura",
+    "nombre_busqueda": "Visación de mensura",
+    "resumen": "Controla que el plano de mensura respete la normativa vigente y cumple con el requisito de la Provincia de Buenos Aires para la aprobación de planos.",
+    "sinonimos": [],
+    "temas": [
+      "catastro-e-inmuebles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Solicitante de la visación de mensura"
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota dirigida al Sr. Intendente solicitando la visación",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informe de Dominio ó Escritura",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano: 2 copias",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización al Profesional para realizar el trabajo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del D.N.I.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Abonar el Derecho de Oficina en las cajas del Municipio ingresando por Alsina 43"
+      },
+      {
+        "texto": "Presentar una nota dirigida al Sr. Intendente en la Mesa de Entradas del Municipio, Alsina 65, junto con la documentación requerida"
+      },
+      {
+        "texto": "Se construye expediente de visación de mensura que se remite al Departamento Territorial"
+      },
+      {
+        "texto": "Abonar el Derecho de Mensura (Ordenanza 22006/25)"
+      },
+      {
+        "texto": "El trámite culmina con la visación"
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Cajas del Municipio",
+      "direccion": "Alsina 43",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/catastro/visacion-de-mensura/"
+    },
+    {
+      "nombre": "Mesa de Entradas del Municipio",
+      "direccion": "Alsina 65",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/catastro/visacion-de-mensura/"
+    },
+    {
+      "nombre": "Departamento Territorial",
+      "direccion": "Chiclana 453",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/catastro/visacion-de-mensura/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/tramites/catastro/visacion-de-mensura/",
+      "titulo": "Visación de Mensura | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T20:17:41.510Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Monto exacto de los derechos de oficina y de mensura",
+    "Fecha de vigencia del trámite"
+  ]
+}

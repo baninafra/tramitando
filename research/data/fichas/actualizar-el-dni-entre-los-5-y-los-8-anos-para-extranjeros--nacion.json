@@ -1,0 +1,111 @@
+{
+  "tramite": {
+    "slug": "actualizar-dni-extranjeros-5-8-anos",
+    "nombre": "Actualizar el DNI entre los 5 y los 8 años para extranjeros",
+    "nombre_busqueda": "Actualizar DNI niños extranjeros 5 8 años",
+    "resumen": "Si tenés hijos o menores legalmente a cargo entre 5 y 8 años nacidos en el extranjero que ya tienen DNI, podés actualizarlo obligatoriamente. El trámite lleva 15 minutos y cuesta $20.000.",
+    "sinonimos": [
+      "Actualización DNI menores extranjeros 5 8 años",
+      "Renovación DNI niños nacidos en el exterior"
+    ],
+    "temas": [
+      "dni"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Hijos o menores legalmente a cargo entre 5 y 8 años nacidos en el extranjero que viven en Argentina y ya tienen DNI.",
+      "Padres, madres o representantes legales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Acompañamiento del padre, madre o representante legal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del menor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditación del representante legal con oficio judicial o testimonio de tutela del menor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización de representación firmada y sellada por la autoridad competente si el menor está en un hogar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Oficio judicial o testimonio de guarda provisoria con fines de adopción si el menor está en un hogar.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Elegí el Registro Civil más cercano a tu domicilio o sacá turno para un Centro de Documentación Renaper en la app Mi Argentina."
+      },
+      {
+        "texto": "Presentate en la oficina elegida con la constancia de turno y el comprobante de pago, si ya abonaste el trámite."
+      },
+      {
+        "texto": "Guardá la constancia de solicitud de trámite y hacé el seguimiento online con tu ID desde aquí."
+      },
+      {
+        "texto": "Retiralo en la oficina con la constancia de solicitud de trámite o recibilo si va por correo."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://www.argentina.gob.ar/turnos",
+    "plazo": "15 minutos",
+    "consejos": [
+      "La Actualización de 5/8 años para extranjeros no se podrá tramitar en aeropuertos.",
+      "Vigencia hasta la siguiente actualización a los 14 años."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 2000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/actualizar-el-dni-entre-los-5-y-los-8-anos-para-extranjeros"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/actualizar-el-dni-entre-los-5-y-los-8-anos-para-extranjeros",
+      "titulo": "Actualizar el DNI entre los 5 y los 8 años para extranjeros | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:17:49.010Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "pasos"
+      ],
+      "consultada_en": "2026-10-26T04:17:49.010Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de las oficinas de Registro Civil o Centros de Documentación Renaper.",
+    "Vigencia exacta del trámite según resolución vigente."
+  ]
+}

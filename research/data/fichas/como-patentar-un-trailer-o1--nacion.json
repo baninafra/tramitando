@@ -1,0 +1,93 @@
+{
+  "tramite": {
+    "slug": "patente-trailer-o1",
+    "nombre": "Patentá un trailer O1",
+    "nombre_busqueda": "Cómo patentar un trailer O1",
+    "resumen": "Para patentar un trailer O1 necesitás un Certificado de Seguridad Vehicular emitido por la ANSV, que requiere un informe técnico firmado por ingeniero o taller registrado. Luego, iniciás el trámite en el Registro de Propiedad Automotor con la documentación del tractor y tu DNI para retirar las nuevas placas.",
+    "sinonimos": [
+      "Patente de casilla rodante",
+      "Certificado de seguridad vehicular trailer"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro de Propiedad Automotor",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El titular del vehículo deberá dirigirse al registro seccional correspondiente."
+    ],
+    "requisitos": [
+      {
+        "texto": "Informe técnico del tráiler o casilla rodante conforme a la disposición 53/2025, confeccionado y firmado por un ingeniero.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cédula verde del vehículo tractor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del titular del vehículo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a www.dnrpa.gov.ar y buscá el trámite 'Placa de identificación alternativa metálica para tráilers'."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Dirijite al registro seccional correspondiente en el día y horario elegido."
+      },
+      {
+        "texto": "Presentá la documentación requerida: cédula verde del tractor, DNI del titular y el Certificado de Seguridad Vehicular generado en el paso 1."
+      },
+      {
+        "texto": "El registro de propiedad automotor indicará a partir de qué fecha podés retirar las nuevas placas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/como-patentar-un-trailer-o1",
+      "titulo": "Cómo patentar un Trailer O1 | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:49:31.491Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T04:49:31.491Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del pago del certificado de seguridad vehicular no se especifica en el texto.",
+    "El plazo exacto para la emisión del certificado o el retiro de placas no se especifica en el texto.",
+    "La dirección exacta de los talleres de revisión técnica registrados en la ANSV no se especifica en el texto."
+  ]
+}

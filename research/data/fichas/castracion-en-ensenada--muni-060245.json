@@ -1,0 +1,84 @@
+{
+  "tramite": {
+    "slug": "castraciones-y-vacunas",
+    "nombre": "Castración y vacunación antirrábica de mascotas",
+    "nombre_busqueda": "Castración y vacunación antirrábica de mascotas",
+    "resumen": "La Municipalidad de Ensenada realiza castración y vacunación antirrábica de perros y gatos de forma gratuita. Se requiere sacar turno el último lunes de cada mes en el Departamento de Veterinaria.",
+    "sinonimos": [
+      "Castración de mascotas en Ensenada",
+      "Vacunación antirrábica Ensenada"
+    ],
+    "temas": [
+      "animales-y-zoonosis",
+      "castraciones-y-vacunas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060245",
+  "organismo": {
+    "nombre": "Municipalidad de Ensenada",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Dueños de mascotas que sean residentes de Ensenada."
+    ],
+    "requisitos": [
+      {
+        "texto": "Animales de más de 6 meses.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Sacar turno el último lunes de cada mes.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Sacá turno el último lunes de cada mes en el Departamento de Veterinaria."
+      },
+      {
+        "texto": "Acudí al Departamento de Veterinaria (La Merced y Pasaje Cabo Verde) para realizar la castración y la vacunación antirrábica."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La vacunación antirrábica se realiza de lunes a viernes."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Departamento de Veterinaria",
+      "direccion": "La Merced y Pasaje Cabo Verde",
+      "localidad": "La Merced y Pasaje Cabo Verde",
+      "horario": null,
+      "fuente_url": "https://www.ensenada.gov.ar/castracion-en-ensenada/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.ensenada.gov.ar/castracion-en-ensenada/",
+      "titulo": "CASTRACIÓN EN ENSENADA – Municipalidad de Ensenada",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T23:33:44.021Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos adicionales para menores o casos especiales.",
+    "No se especifican plazos de espera o duración del trámite.",
+    "No se especifican costos por caso o modalidad."
+  ]
+}

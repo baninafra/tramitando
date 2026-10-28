@@ -1,0 +1,91 @@
+{
+  "tramite": {
+    "slug": "renovacion-libro-habilitacion-ascensores",
+    "nombre": "Renovación del libro de habilitación de ascensores",
+    "nombre_busqueda": "renovar el libro de ascensores",
+    "resumen": "Renová el libro de Habilitación, Inspección y Mantenimiento de ascensores. El trámite es presencial y requiere turno previo.",
+    "sinonimos": [
+      "renovación del libro de ascensores"
+    ],
+    "temas": [
+      "obras-y-construccion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060441",
+  "organismo": {
+    "nombre": "Municipalidad de La Plata",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes necesiten renovar el libro de Habilitación, Inspección y Mantenimiento de ascensores."
+    ],
+    "requisitos": [
+      {
+        "texto": "Libro agotado o vencido de Habilitación, Inspección y Mantenimiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Libro nuevo de Habilitación, Inspección y Mantenimiento, con la Sección I completa y rubricada por los responsables.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Seguro vigente de responsabilidad civil del inmueble que incluya los equipos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Seguro de la empresa de mantenimiento en el que figuren los equipos vinculados.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta de inspección vigente.",
+        "aclaracion": "Si el libro agotado o vencido no está al día."
+      },
+      {
+        "texto": "Fotocopia del documento del propietario o responsable legal firmante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de número de puerta.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago de la tasa de renovación del libro de ascensores.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Sacá un turno online con la opción Consulta Electromecánica."
+      },
+      {
+        "texto": "Presentá los requisitos para renovar el libro."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://turnos.laplata.gob.ar/misdatos",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://tramites.laplata.gob.ar/obrasparticulares/renovacion-del-libro.html",
+      "titulo": "Obras Particulares - Municipalidad de La Plata",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T14:19:03.929Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto de la tasa no está informado."
+  ]
+}

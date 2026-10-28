@@ -1,0 +1,99 @@
+{
+  "tramite": {
+    "slug": "consulta-descarga-y-pago-tasa-cloacas",
+    "nombre": "Consultar y pagar la tasa de cloacas",
+    "nombre_busqueda": "Tasa por Servicios Sanitarios y Cloacas",
+    "resumen": "Consultá la deuda de la tasa de cloacas por partida, generá una boleta y pagá el total o algunas cuotas. Podés pagar en forma presencial o por internet.",
+    "sinonimos": [
+      "Pago de tasa de cloacas",
+      "Deuda de cloacas"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "tasa-inmobiliaria-y-servicios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060399",
+  "organismo": {
+    "nombre": "Municipalidad de Guaminí",
+    "sigla": null,
+    "web": "https://serviciosweb.guamini.gob.ar/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés consultar la deuda y generar una boleta para pagar la tasa de cloacas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Conocé la partida del inmueble.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ingresá la partida con 8 dígitos numéricos, sin barras ni guiones; si tiene menos dígitos, agregá ceros al inicio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para pagar en línea, completá apellido, nombre, DNI, género y correo electrónico de quien va a realizar el pago.",
+        "aclaracion": "Si pagás en línea."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá la partida y buscá la deuda."
+      },
+      {
+        "texto": "Seleccioná todas las cuotas adeudadas o algunas."
+      },
+      {
+        "texto": "Elegí “Pago On Line” y generá la boleta en línea."
+      },
+      {
+        "texto": "Completá el formulario con los datos de la persona que va a pagar."
+      },
+      {
+        "texto": "Hacé clic en “Generar”."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Ingresá la partida y buscá la deuda."
+      },
+      {
+        "texto": "Seleccioná todas las cuotas adeudadas o algunas."
+      },
+      {
+        "texto": "Elegí “Pago Presencial” y generá la boleta presencial."
+      },
+      {
+        "texto": "Confirmá la generación de la boleta."
+      },
+      {
+        "texto": "Descargá e imprimí la boleta para pagarla en una delegación municipal o boca de cobro de Provincia Net."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://serviciosweb.guamini.gob.ar/tasaspagosydeudas/cloacas",
+      "titulo": "Municipalidad de Guaminí",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T13:43:07.569Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no informa el monto de la tasa."
+  ]
+}

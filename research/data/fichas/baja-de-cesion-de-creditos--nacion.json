@@ -1,0 +1,81 @@
+{
+  "tramite": {
+    "slug": "baja-de-cesion-de-creditos",
+    "nombre": "Baja de cesión de créditos",
+    "nombre_busqueda": "Baja de cesión de créditos",
+    "resumen": "Las entidades financieras que finalicen una cesión de créditos deben presentar la documentación ante la Secretaría de Obras Públicas para dar de baja la cesión.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Secretaría de Obras Públicas",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Entidades financieras que den por finalizada una cesión de créditos"
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de elevación (formulario)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento certificado que acredite la baja de la cesión",
+        "aclaracion": null
+      },
+      {
+        "texto": "Otra documentación",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar a la Plataforma TAD."
+      },
+      {
+        "texto": "Seleccionar iniciar trámite 'Baja de Cesión de Créditos'."
+      },
+      {
+        "texto": "Confirmar los datos precargados o dirigirse a la sección 'Mis Datos' para modificarlos si es necesario."
+      },
+      {
+        "texto": "Completar el formulario."
+      },
+      {
+        "texto": "Adjuntar la documentación requerida."
+      },
+      {
+        "texto": "Confirmar el trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/baja-de-cesion-de-creditos",
+      "titulo": "Baja de Cesión de Créditos | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-26T04:34:01.877Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto del trámite no está especificado en el texto."
+  ]
+}

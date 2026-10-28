@@ -1,0 +1,72 @@
+{
+  "tramite": {
+    "slug": "acceso-la-sala-americana-para-investigadores",
+    "nombre": "Acceso a la Sala Americana para investigadores",
+    "nombre_busqueda": "acceso sala americana investigadores",
+    "resumen": "Permite a investigadores consultar materiales históricos de la Biblioteca Nacional de Maestros en la Sala Americana.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Biblioteca Nacional de Maestros",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Investigadores exclusivamente."
+    ],
+    "requisitos": [
+      {
+        "texto": "Credencial de investigador.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a la Sala Americana, Pizzurno 953, 1° piso."
+      },
+      {
+        "texto": "Realizá la consulta de lunes a viernes de 9 a 17 hs."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sala Americana",
+      "direccion": "Pizzurno 953",
+      "localidad": "Pizzurno 953",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/acceso-la-sala-americana-para-investigadores"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/acceso-la-sala-americana-para-investigadores",
+      "titulo": "Acceso a la Sala Americana para investigadores | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-26T09:22:47.562Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de la localidad de la oficina.",
+    "Horarios de atención específicos por día de la semana."
+  ]
+}

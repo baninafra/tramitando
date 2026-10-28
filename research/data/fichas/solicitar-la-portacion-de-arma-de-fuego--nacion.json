@@ -1,0 +1,128 @@
+{
+  "tramite": {
+    "slug": "solicitud-portacion-arma-fuego",
+    "nombre": "Solicitud de portación de arma de fuego",
+    "nombre_busqueda": "solicitar portacion arma",
+    "resumen": "Para obtener la autorización de portar un arma de fuego cargada, necesitás acreditar antecedentes penales, aptitud psicofísica y idoneidad en el manejo de armas, además de cumplir con la condición de Legítimo Usuario Individual.",
+    "sinonimos": [
+      "autorizacion portacion arma",
+      "solicitud portacion arma de fuego"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro Nacional de Armas",
+    "sigla": "RENAR",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Legítimos Usuarios Individuales de armas de Uso Civil Condicional que tengan registrada la tenencia del arma a su nombre."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de solicitud firmada por el interesado expresando los motivos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Condición vigente de Legítimo Usuario Individual de armas de Uso Civil Condicional.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización de tenencia del arma vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI vigente con domicilio actualizado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de antecedentes penales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informe vigente del Registro Nacional de Reincidencia sin anotaciones.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación de aptitud psicofísica emitida conforme a los mecanismos aprobados por RENAR.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación de idoneidad en el manejo y porte de armas de fuego emitida por instructor habilitado e inscripto ante RENAR.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Reuní la documentación y acreditá el cumplimiento de los requisitos indicados."
+      },
+      {
+        "texto": "Realizá y aprobá la evaluación de idoneidad en el manejo y porte de armas de fuego mediante el Anexo III."
+      },
+      {
+        "texto": "Presentá la documentación correspondiente ante el RENAR."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La certificación de idoneidad tiene una validez de 60 días corridos desde la fecha de realización de la evaluación para su presentación.",
+      "La autorización de portación otorgada tendrá vigencia hasta la fecha de vencimiento de la condición de Legítimo Usuario del titular.",
+      "La renovación de la autorización no es automática y requiere acreditar nuevamente el cumplimiento de la totalidad de los requisitos establecidos."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 90000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-la-portacion-de-arma-de-fuego"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 150000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-la-portacion-de-arma-de-fuego"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-portacion-de-arma-de-fuego",
+      "titulo": "Solicitar la portación de arma de fuego | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T09:56:30.428Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T09:56:30.428Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Fecha de vigencia de la autorización de portación.",
+    "Requisitos específicos para portación múltiple más allá de tener registrada más de un arma corta.",
+    "Procedimiento para obtener turno en RENAR."
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "tramite": {
+    "slug": "activar-haberes-suspendidos-de-personas-jubiladas-y-pensionadas",
+    "nombre": "Activar haberes suspendidos de personas jubiladas y pensionadas",
+    "nombre_busqueda": "Activar haberes suspendidos jubilados pensionados",
+    "resumen": "Si sos jubilado o pensionado y te suspendieron el pago, podés reactivarlo de forma gratuita. Necesitás presentar documentación que justifique la suspensión y el reclamo de haberes.",
+    "sinonimos": [
+      "Reactivar haberes suspendidos",
+      "Activar cobro de haberes suspendidos",
+      "Reanudar haberes suspendidos"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANSES",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas jubiladas y/o pensionadas."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del titular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario Reclamo de haberes (PS 6.236).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que justifique activar la prestación suspendida (certificado de estudios, cese).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario Carta Poder (PS.6.4) para apoderado.",
+        "aclaracion": "Solo si el apoderado no figura en el recibo de cobro."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá en Atención Virtual con tu CUIL y Clave de la Seguridad Social."
+      },
+      {
+        "texto": "Elegí la opción Reclamar un beneficio no cobrado."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Ingresá a una oficina de ANSES con turno previo."
+      },
+      {
+        "texto": "Llevá la documentación requerida."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si estás en el exterior tenés que presentar el reclamo a través de tu apoderado, representante o banco apoderado."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/activar-haberes-suspendidos-de-personas-jubiladas-y-pensionadas",
+      "titulo": "Activar haberes suspendidos de personas jubiladas y pensionadas | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T09:32:26.913Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite."
+  ]
+}

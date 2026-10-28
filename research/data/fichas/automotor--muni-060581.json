@@ -1,0 +1,75 @@
+{
+  "tramite": {
+    "slug": "alta-de-auto",
+    "nombre": "Dar de alta un auto",
+    "nombre_busqueda": "alta de auto en la Municipalidad de Necochea",
+    "resumen": "Registrá un auto en el municipio. La página indica qué documentación necesitás para hacer el trámite.",
+    "sinonimos": [
+      "alta municipal de auto"
+    ],
+    "temas": [
+      "patente-automotor-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060581",
+  "organismo": {
+    "nombre": "Municipalidad de Necochea",
+    "sigla": null,
+    "web": "https://necochea.gov.ar/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "La página no especifica quién puede hacer el trámite."
+    ],
+    "requisitos": [
+      {
+        "texto": "Llevá el título original y una copia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá el formulario F.31.A expedido por el Registro Automotor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá la baja del vehículo de la radicación anterior.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá el formulario F.054 para acreditar que estás habilitado.",
+        "aclaracion": "Si el trámite lo hace un tercero."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación requerida para el alta."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://necochea.gov.ar/tramites/automotor/",
+      "titulo": "Tramites – Automotor – Municipalidad de Necochea",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T15:33:16.841Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La página no indica quiénes pueden hacer el trámite.",
+    "La página no detalla los pasos para realizar el alta.",
+    "La página no informa el costo del alta de auto.",
+    "La página no indica dónde se presenta la documentación para el alta."
+  ]
+}

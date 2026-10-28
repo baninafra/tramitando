@@ -1,0 +1,85 @@
+{
+  "tramite": {
+    "slug": "determinar-el-porcentaje-de-incapacidad",
+    "nombre": "Determinar el porcentaje de incapacidad",
+    "nombre_busqueda": "determinar porcentaje de incapacidad",
+    "resumen": "Trámite gratuito para trabajadores damnificados que la ART o el empleador considera que tienen secuelas incapacitantes, para calcular el porcentaje resultante tras el alta médica.",
+    "sinonimos": [],
+    "temas": [
+      "discapacidad-y-accesibilidad",
+      "pensiones-no-contributivas-por-invalidez"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Riesgos del Trabajo",
+    "sigla": "SRT",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Si tuviste un alta con secuelas, la ART puede iniciar este trámite ante la SRT antes de los 21 días hábiles posteriores al alta médica.",
+      "Deberá iniciarlo tu ART/EA mediante el Sistema de Ventanilla Electrónica (VE)."
+    ],
+    "requisitos": [
+      {
+        "texto": "La ART/EA te solicitará que selecciones una opción de competencia a fin de iniciar el trámite en la comisión médica que te corresponda.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En las provincias adheridas a la ley 27.348 los trabajadores damnificados o sus derechohabientes deberán contar con representación Letrada y acreditarla en el expediente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de no contar con uno, podrás solicitarlo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá el trámite ante la SRT mediante el Sistema de Ventanilla Electrónica (VE) establecido por las Resoluciones SRT 635/2008 y 365/2009."
+      },
+      {
+        "texto": "Seleccioná la opción de competencia correspondiente para iniciar el trámite en la comisión médica que te corresponda."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Recordá que la ART/EA te solicitará que selecciones una opción de competencia a fin de iniciar el trámite en la comisión médica que te corresponda.",
+      "En las provincias adheridas a la ley 27.348 los trabajadores damnificados o sus derechohabientes deberán contar con representación Letrada y acreditarla en el expediente.",
+      "En caso de no contar con uno, podrás solicitarlo."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/determinar-el-porcentaje-de-incapacidad",
+      "titulo": "Determinar el porcentaje de incapacidad | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T15:23:08.944Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/srt/patrocinio-letrado/servicio-patrocinio-letrado",
+      "titulo": "Conocé cómo solicitar el servicio de un letrado | Argentina.gob.ar",
+      "bloques": [
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T15:23:08.944Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica el plazo exacto para la determinación del porcentaje de incapacidad.",
+    "El texto no detalla los pasos presenciales ni si se requiere turno para este trámite específico."
+  ]
+}

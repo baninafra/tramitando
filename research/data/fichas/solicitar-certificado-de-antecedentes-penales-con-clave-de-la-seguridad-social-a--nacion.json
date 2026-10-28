@@ -1,0 +1,126 @@
+{
+  "tramite": {
+    "slug": "solicitar-certificado-de-antecedentes-penales-con-clave-de-la-seguridad-social-anses",
+    "nombre": "Solicitar certificado de antecedentes penales con clave de la Seguridad Social ANSES",
+    "nombre_busqueda": "Certificado de antecedentes penales ANSES",
+    "resumen": "Si tenés DNI argentino y más de 18 años, podés tramitarlo en línea con tu clave de la Seguridad Social. El certificado certifica que no tenés antecedentes penales pendientes.",
+    "sinonimos": [
+      "Certificado de antecedentes penales ANSES",
+      "CAP ANSES"
+    ],
+    "temas": [
+      "documentos-e-identidad",
+      "cuil-y-clave-de-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro Nacional de Reincidencia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas mayores de 18 años con DNI argentino."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento Nacional de Identidad emitido por el Registro Nacional de las Personas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cuenta de correo electrónico a tu nombre.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave de la Seguridad Social (ANSES).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD Reincidencia con tu número de CUIL y tu clave de la Seguridad Social."
+      },
+      {
+        "texto": "Completá el formulario en línea y elegí la modalidad (5 días, 24 horas, 6 horas o exprés)."
+      },
+      {
+        "texto": "Consultá el costo de cada modalidad al final de la página."
+      },
+      {
+        "texto": "Vas a recibir un correo electrónico con los datos para que abones el pago."
+      },
+      {
+        "texto": "Aboná el pago con la forma que elegiste (Banelco, Red Link, BNA+, Cuenta DNI o VEP)."
+      },
+      {
+        "texto": "Si elegiste modalidad presencial (5 días o 24 horas), podés ir en persona a una sede habilitada de Provincia NET con la boleta impresa."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La vigencia del certificado es de 5 días hábiles desde que recibiste el documento.",
+      "Consultá en el organismo donde vas a presentarlo la vigencia.",
+      "Si abonás un día hábil entre las 8 y las 18, el pago se acredita de inmediato.",
+      "La acreditación del pago puede demorar hasta 48 horas hábiles si elegís VEP."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 850000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-antecedentes-penales-con-clave-de-la-seguridad-social-anses"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 480000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-antecedentes-penales-con-clave-de-la-seguridad-social-anses"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 240000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-antecedentes-penales-con-clave-de-la-seguridad-social-anses"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 100000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-antecedentes-penales-con-clave-de-la-seguridad-social-anses"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-antecedentes-penales-con-clave-de-la-seguridad-social-anses",
+      "titulo": "Solicitar certificado de antecedentes penales con clave de la Seguridad Social (ANSES) | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T07:57:51.725Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo de entrega exacto no está especificado en el texto, solo se menciona la vigencia del documento.",
+    "No se especifica si se requiere turno para modalidad presencial."
+  ]
+}

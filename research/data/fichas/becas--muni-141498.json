@@ -1,0 +1,72 @@
+{
+  "tramite": {
+    "slug": "becas-municipales",
+    "nombre": "Becas Municipales",
+    "nombre_busqueda": "Becas estudiantiles Tancacha",
+    "resumen": "Programas de becas para estudiantes de nivel secundario y terciario universitario en la Municipalidad de Tancacha.",
+    "sinonimos": [
+      "Beca Nivel Secundario",
+      "Beca Nivel Terciario Universitario"
+    ],
+    "temas": [
+      "becas-y-ayudas-estudiantiles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141498",
+  "organismo": {
+    "nombre": "Municipalidad de Tancacha",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Estudiantes de nivel secundario y terciario universitario."
+    ],
+    "requisitos": [
+      {
+        "texto": "Solicitar la inscripción.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acudí a la oficina de Becas Estudiantiles para presentar tu solicitud."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.tancacha.gob.ar/becas.html",
+      "titulo": "Becas estudiantiles",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-26T09:30:25.944Z"
+    },
+    {
+      "url": "https://www.tancacha.gob.ar/index.html",
+      "titulo": "Municipalidad de Tancacha",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T09:30:25.944Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los montos de las becas no están especificados en el texto.",
+    "Los plazos de entrega de las becas no están especificados en el texto.",
+    "La dirección exacta de la oficina de becas no está detallada en el texto.",
+    "Si se requiere turno no está indicado en el texto."
+  ]
+}

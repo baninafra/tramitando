@@ -1,0 +1,82 @@
+{
+  "tramite": {
+    "slug": "reclamos-y-denuncias-omic",
+    "nombre": "Reclamos y denuncias ante la OMIC",
+    "nombre_busqueda": "Reclamos y denuncias OMIC",
+    "resumen": "La OMIC brinda asesoramiento y tratamiento de temas relacionados a la defensa del consumidor. Se pueden descargar formularios de denuncia y presentarlos en la oficina.",
+    "sinonimos": [
+      "Defensa del consumidor",
+      "Reclamos al consumidor",
+      "Denuncias al consumidor"
+    ],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060245",
+  "organismo": {
+    "nombre": "Oficina Municipal de Información al Consumidor",
+    "sigla": "OMIC",
+    "web": "https://www.ensenada.gov.ar/oficina-municipal-de-informacion-al-consumidor/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Vecinos y consumidores que necesiten asesoramiento o tratamiento de temas relacionados a la defensa del consumidor."
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia del DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de la Documentación solicitada",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de denuncia completado y firmado",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Ingresá al trámite por Mesa de Entrada."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina Municipal de Información al Consumidor",
+      "direccion": "Calle La Merced Nº503",
+      "localidad": "Ensenada",
+      "horario": null,
+      "fuente_url": "https://www.ensenada.gov.ar/oficina-municipal-de-informacion-al-consumidor/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.ensenada.gov.ar/oficina-municipal-de-informacion-al-consumidor/",
+      "titulo": "Oficina Municipal de Información al Consumidor – Municipalidad de Ensenada",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T05:57:54.928Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos adicionales ni aclaraciones especiales para casos particulares.",
+    "No se indica si el trámite requiere turno.",
+    "No se especifica el plazo de atención.",
+    "No se indica si el trámite se puede realizar completamente por internet."
+  ]
+}

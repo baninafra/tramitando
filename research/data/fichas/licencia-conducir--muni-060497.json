@@ -1,0 +1,141 @@
+{
+  "tramite": {
+    "slug": "licencia-de-conducir-lujan",
+    "nombre": "Tramitar la licencia de conducir",
+    "nombre_busqueda": "licencia de conducir en Luján",
+    "resumen": "Gestioná en el Centro Emisor de Licencias de Luján el otorgamiento, la renovación, el duplicado o la ampliación de tu licencia. El trámite profesional comienza y termina de manera presencial.",
+    "sinonimos": [
+      "sacar el registro de conducir",
+      "renovar la licencia de conducir"
+    ],
+    "temas": [
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060497",
+  "organismo": {
+    "nombre": "Municipalidad de Luján",
+    "sigla": null,
+    "web": "https://www.lujan.gob.ar/licencia_conducir.php"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés tramitar una licencia original si tenés entre 18 y 64 años y domicilio en Luján.",
+      "Si tenés 16 o 17 años, podés tramitarla con autorización de ambos padres ante escribano público."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI con domicilio en Luján.",
+        "aclaracion": "Para licencias originales."
+      },
+      {
+        "texto": "Autorización de ambos padres ante escribano público.",
+        "aclaracion": "Si tenés 16 o 17 años."
+      },
+      {
+        "texto": "Fotocopia del DNI con domicilio en Luján.",
+        "aclaracion": "Para renovación y ampliación profesional."
+      },
+      {
+        "texto": "Fotocopia de la licencia de conducir.",
+        "aclaracion": "Para renovación y ampliación profesional."
+      },
+      {
+        "texto": "Antecedentes penales.",
+        "aclaracion": "Para renovación y ampliación profesional."
+      },
+      {
+        "texto": "Capacitación sobre perspectiva de género.",
+        "aclaracion": "Para la categoría D, antes de iniciar el trámite."
+      },
+      {
+        "texto": "DNI, licencia de conducir y fotocopia de ambos.",
+        "aclaracion": "Presentalos el día del turno."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Asistí al curso obligatorio de Educación Vial si tramitás una licencia original por primera vez. Podés hacerlo presencialmente en el Instituto Mignone o de forma virtual mediante el curso de la ANSV."
+      },
+      {
+        "texto": "Realizá la capacitación sobre perspectiva de género antes de iniciar el trámite si solicitás la categoría D."
+      },
+      {
+        "texto": "Sacá un turno web para la renovación y elegí el grupo, el tipo de trámite, la fecha y el horario."
+      },
+      {
+        "texto": "Presentate en el Centro Emisor de Licencias el día y horario del turno con tu DNI, licencia y fotocopias."
+      },
+      {
+        "texto": "Respetá el horario del turno; podés presentarte desde 30 minutos antes hasta 30 minutos después."
+      },
+      {
+        "texto": "Cancelá el turno si no podés asistir para poder solicitar uno nuevo."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://sistemas.lujan.gov.ar/turnosLicencias/formulario/index.php",
+    "plazo": null,
+    "consejos": [
+      "Si tu licencia venció hace más de 90 días, seleccioná la opción Original en el formulario de turnos.",
+      "Los trámites y turnos son intransferibles.",
+      "Completá el formulario de turno con datos correctos; la información tiene carácter de declaración jurada.",
+      "La licencia física sigue siendo el único documento válido en la Provincia de Buenos Aires."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Centro Emisor de Licencias",
+      "direccion": "Av. España y Belgrano (Estación de Trenes)",
+      "localidad": "Luján",
+      "horario": "De 7:15 a 13:15",
+      "fuente_url": "https://www.lujan.gob.ar/licencia_conducir.php"
+    },
+    {
+      "nombre": "Instituto Mignone",
+      "direccion": "Avellaneda 1389",
+      "localidad": "Luján",
+      "horario": "Martes a las 10:00 y miércoles a las 08:00",
+      "fuente_url": "https://www.lujan.gob.ar/licencia_conducir.php"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.lujan.gob.ar/licencia_conducir.php",
+      "titulo": "Municipalidad de Lujan",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:52:27.670Z"
+    },
+    {
+      "url": "https://sistemas.lujan.gov.ar/turnosLicencias/formulario/index.php",
+      "titulo": "Sistema de TURNOS para Licencias de Conducir - Municipalidad de Luján",
+      "bloques": [
+        "requisitos",
+        "pasos",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:52:27.670Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto de los aranceles no aparece en el texto disponible.",
+    "No se indica el plazo de entrega de la licencia.",
+    "No se informa si hace falta turno para los trámites distintos de la renovación.",
+    "No se detallan los requisitos completos para duplicado y ampliación.",
+    "No se especifica el rango de edad para renovar ni las vigencias actuales por edad y clase.",
+    "No se aclara qué requisitos corresponden a cada modalidad de licencia profesional."
+  ]
+}

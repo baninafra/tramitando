@@ -1,0 +1,101 @@
+{
+  "tramite": {
+    "slug": "turnos-para-licencia-de-conducir",
+    "nombre": "Sacar turno para licencia de conducir",
+    "nombre_busqueda": "Turno licencia conducir Chivilcoy",
+    "resumen": "Para sacar turno de licencia de conducir en Chivilcoy, necesitás tu DNI y podés hacerlo por web o presencial. Los mayores de 70 años no pueden sacar turno online.",
+    "sinonimos": [
+      "Turno licencia conducir",
+      "Turno carnet conducir",
+      "Turno conducir Chivilcoy"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060224",
+  "organismo": {
+    "nombre": "Municipalidad de Chivilcoy",
+    "sigla": null,
+    "web": "https://public.chivilcoy.gob.ar"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que desee tramitar su licencia de conducir."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de documento (DNI)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Apellido y Nombre",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio completo (Calle, número, sección/barrio)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fecha de nacimiento",
+        "aclaracion": null
+      },
+      {
+        "texto": "Sexo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de celular",
+        "aclaracion": null
+      },
+      {
+        "texto": "Email",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio web de la Municipalidad de Chivilcoy."
+      },
+      {
+        "texto": "Buscá la sección de Turnos de Licencias."
+      },
+      {
+        "texto": "Ingresá con tu documento de identidad."
+      },
+      {
+        "texto": "Completá tus datos personales (DNI, apellido, nombre, domicilio, fecha de nacimiento, sexo, celular y email)."
+      },
+      {
+        "texto": "Confirmá la información y sacá el turno."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://public.chivilcoy.gob.ar/transito/",
+      "titulo": "Turnos de Licencias",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T23:02:39.402Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de las oficinas para trámite presencial",
+    "Horarios de atención presencial",
+    "Costo del trámite",
+    "Plazo de espera para obtener la licencia"
+  ]
+}

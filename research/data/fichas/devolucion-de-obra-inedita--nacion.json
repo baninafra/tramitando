@@ -1,0 +1,95 @@
+{
+  "tramite": {
+    "slug": "devolucion-de-obra-inedita",
+    "nombre": "Devolución de obra inédita",
+    "nombre_busqueda": "devolución obra inédita dnca",
+    "resumen": "Solicitá ante la DNDA la devolución de una obra inédita depositada en custodia si sos autor o titular de derechos. El trámite se hace en línea con un costo de $1500.",
+    "sinonimos": [
+      "recuperación de obra inédita",
+      "devolución de manuscrito inédito"
+    ],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional del Derecho de Autor",
+    "sigla": "DNDA",
+    "web": "https://www.argentina.gob.ar/servicio/devolucion-de-obra-inedita"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de las reparticiones de los organismos de la Administración Pública Nacional, conformada por la Administración Central y Organismos Descentralizados, como así también los titulares de las entidades autárquicas y/o entes públicos no estatales.",
+      "En los casos de coautoría, todos los autores deben dar conformidad expresa."
+    ],
+    "requisitos": [
+      {
+        "texto": "Comprobante de pago del trámite por depósito o transferencia bancaria de $1500 al fondo cooperador ley 23.412 DNDA-CAPIF.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del DNI de cada uno de los autores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de Inscripción y/o RL original escaneado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de la documentación que acredite la personería invocada.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD-Devolución de Obra Inédita e iniciá el trámite."
+      },
+      {
+        "texto": "Subí la documentación obligatoria y complementaria."
+      },
+      {
+        "texto": "Al finalizar se otorgará un número de Expediente Electrónico (carátula variable)."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "10 minutos",
+    "consejos": [
+      "Si hay coautoría, necesitás la conformidad expresa de todos los autores.",
+      "Si el autor falleció, necesitás la declaratoria de herederos con acuerdo expreso de todos los sucesores.",
+      "Si hay incapacidad del autor, necesitás el apoyo del curador designado judicialmente con autorización de la autoridad judicial competente."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 150000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/devolucion-de-obra-inedita"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/devolucion-de-obra-inedita",
+      "titulo": "Devolución de Obra Inédita | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T15:24:16.633Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de las oficinas para retirar la obra inédita correspondiente."
+  ]
+}

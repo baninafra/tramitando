@@ -1,0 +1,293 @@
+{
+  "tramite": {
+    "slug": "registro-civil",
+    "nombre": "Registro Civil",
+    "nombre_busqueda": "Registro Civil",
+    "resumen": "Trámite para inscribir nacimientos, actualizar DNI, realizar matrimonios y gestionar pasaportes en la Municipalidad de Almafuerte.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad",
+      "partidas-y-actas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141421",
+  "organismo": {
+    "nombre": "Registro Civil",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Padres o madres solteras.",
+      "Contrayentes para matrimonio.",
+      "Profesionales para presentación de planos de obra."
+    ],
+    "requisitos": [
+      {
+        "texto": "Certificado de nacimiento expedido por el Centro de Salud, sellado y firmado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI de ambos padres (si son casados con libreta de matrimonio).",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI de los padres si no son casados.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta de Nacimiento y comprobante de pago para actualización de DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI y tasa de pago para mayores de edad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI de ambos padres o uno de ellos para actualización de DNI a los 21 años.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentos de los contrayentes con domicilio actualizado, uno con domicilio en Almafuerte.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Partida de nacimiento actualizada y digitalizada (no más de seis meses de expedida).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Partida de nacimiento traducida y apostillada si es extranjero/a.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI para dar consentimiento si hay menores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentos de dos testigos mayores de 18 años.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta de matrimonio digitalizada con el marginal de la sentencia si hay divorciado/a.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta de defunción actualizada, digitalizada y legalizada si hay viudo/a.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de conformidad firmada en puño y letra por el comitente y por profesional.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano Previo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planilla de arbolado (proyecto).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación para acreditar titularidad (boleto de compraventa, escritura etc).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano definitivo sellado por el Colegio de Profesionales.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Solicitar las actas certificadas o legalizadas online si se tilda la opción solo copia digital."
+      },
+      {
+        "texto": "Descargar documentos y planillas de correcciones tras la visación previa."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Solicitar un turno de manera presencial o telefónica al 3571 - 662387."
+      },
+      {
+        "texto": "Vender personalmente para inscribir el nacimiento."
+      },
+      {
+        "texto": "Asistir a la oficina el día y horario acordado, anunciándose en mesa de entrada con certificado de nacimiento."
+      },
+      {
+        "texto": "Presentar DNI de ambos padres o madres solteras con certificado de nacimiento y DNI."
+      },
+      {
+        "texto": "Presentar DNI y tasa de pago para actualización de DNI."
+      },
+      {
+        "texto": "Presentar DNI de ambos padres o uno de ellos, más Acta de Nacimiento y tasa de pago para actualización a los 21 años."
+      },
+      {
+        "texto": "Presentarse los contrayentes con toda la documentación para realizar la solicitud de matrimonio."
+      },
+      {
+        "texto": "Vender los testigos mayores de 18 años."
+      },
+      {
+        "texto": "Vender los padres si hay menores."
+      },
+      {
+        "texto": "Vender la documentación para acreditar titularidad certificada por Escribanía en el área."
+      },
+      {
+        "texto": "Vender el plano definitivo sellado por el Colegio de Profesionales."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La inscripción de nacimiento es sin costo.",
+      "La libreta de matrimonio es sin costo.",
+      "El sellado de acta en día y hora hábil cuesta $ 7000.",
+      "El sellado de acta en día hábil y hora inhábil cuesta $ 22.000.",
+      "El sellado de acta en día inhábil (sábado, domingo y feriados) cuesta $40.000.",
+      "Por cada testigo que exceda el nº legal se paga $ 1000 c/uno.",
+      "La primera actualización de DNI debe realizarse entre los 5 y 8 años cumplidos.",
+      "La segunda actualización de DNI a los 14 años.",
+      "Si la persona tiene 21 años y no realizó la actualización de mayor debe concurrir con DNI ambos padres o de uno de ellos, más Acta de Nacimiento, más la tasa de pago.",
+      "La documentación para acreditar titularidad se pasa digital para ir adelantando la corrección del plano, pero es la única que se debe presentar en forma física en el área, certificada por Escribanía.",
+      "NO se recibirán planos definitivos colegiados que no tengan realizadas las correcciones especificadas en la previa.",
+      "El costo de visación definitiva se calcula dependiendo de los metros cuadrados de la obra a proyectar y/o relevar.",
+      "Se abona $2950 de visación previa (arancel correspondiente al año 2024 de acuerdo a Ordenanza Tarifaria 1891/2023)."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://almafuertecba.gob.ar/registro-civil"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1400000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://almafuertecba.gob.ar/registro-civil"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 260000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://almafuertecba.gob.ar/registro-civil"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 295000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://almafuertecba.gob.ar/registro-civil"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 405000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://almafuertecba.gob.ar/registro-civil"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 700000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://almafuertecba.gob.ar/registro-civil"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 220000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://almafuertecba.gob.ar/registro-civil"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 400000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://almafuertecba.gob.ar/registro-civil"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 100000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://almafuertecba.gob.ar/registro-civil"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 10000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://almafuertecba.gob.ar/registro-civil"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 2000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://almafuertecba.gob.ar/registro-civil"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 2500000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://almafuertecba.gob.ar/registro-civil"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://almafuertecba.gob.ar/registro-civil",
+      "titulo": "Registro Civil | Municipalidad de Almafuerte",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T09:12:22.987Z"
+    },
+    {
+      "url": "https://almafuertecba.gob.ar/content/presentacion-planos-obra-en-municipalidad-almafuerte",
+      "titulo": "PRESENTACION DE PLANOS DE OBRA EN MUNICIPALIDAD DE ALMAFUERTE",
+      "bloques": [
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T09:12:22.987Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de la oficina.",
+    "Horario de atención.",
+    "Vigencia de los documentos.",
+    "Fecha de vigencia de la visación previa."
+  ]
+}

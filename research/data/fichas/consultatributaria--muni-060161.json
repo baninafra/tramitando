@@ -1,0 +1,59 @@
+{
+  "tramite": {
+    "slug": "consulta-y-pago-de-tasas-municipales",
+    "nombre": "Consultar y pagar tasas municipales",
+    "nombre_busqueda": "consultar estado de cuenta y pagar tasas de Carmen de Areco",
+    "resumen": "Consultá el estado de cuenta de tasas municipales y revisá el calendario y los lugares de pago.",
+    "sinonimos": [
+      "Consulta tributaria municipal",
+      "Estado de cuenta municipal"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060161",
+  "organismo": {
+    "nombre": "Municipalidad de Carmen de Areco",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "La página no especifica quiénes pueden hacer la consulta."
+    ],
+    "requisitos": [
+      {
+        "texto": "La página no informa requisitos para consultar el estado de cuenta.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://consultatributaria.carmendeareco.gob.ar/consultatributaria/",
+      "titulo": "Consultas Tributarias",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T12:17:00.378Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Quiénes pueden hacer la consulta.",
+    "Qué datos o requisitos se necesitan.",
+    "Cómo se consulta el estado de cuenta y cómo se realiza el pago.",
+    "Si hay costos y cuáles son los medios de pago."
+  ]
+}

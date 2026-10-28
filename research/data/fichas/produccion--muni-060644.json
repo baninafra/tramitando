@@ -1,0 +1,99 @@
+{
+  "tramite": {
+    "slug": "programa-pupa",
+    "nombre": "Acceder al programa PUPA",
+    "nombre_busqueda": "permiso para elaborar alimentos en Pinamar",
+    "resumen": "El programa PUPA otorga un permiso provisorio de dos años para elaborar alimentos de bajo riesgo desde la cocina del domicilio declarado. Está destinado a pequeños productores que viven y producen en Pinamar.",
+    "sinonimos": [
+      "Pequeñas Unidades Productivas de Alimentos",
+      "permiso PUPA"
+    ],
+    "temas": [
+      "bromatologia-y-alimentos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060644",
+  "organismo": {
+    "nombre": "Dirección de Hacienda y Desarrollo Productivo",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Si sos un pequeño productor local que está empezando a elaborar alimentos, vivís y producís en Pinamar, estás inscripto en el monotributo y contás con un análisis bacteriológico del agua."
+    ],
+    "requisitos": [
+      {
+        "texto": "Estar inscripto en el régimen de monotributo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contar con un análisis bacteriológico del agua.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cumplir con otros requisitos técnicos y sanitarios.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Anotate en la Dirección de Hacienda y Desarrollo Productivo; el formulario online está fuera de funcionamiento."
+      },
+      {
+        "texto": "Recibí la inspección de Bromatología en el domicilio declarado para certificar que sea apto para elaborar alimentos."
+      },
+      {
+        "texto": "Completá la etapa de pago y la emisión del permiso con la Dirección de Comercio."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "El permiso provisorio se otorga por dos años.",
+    "consejos": [
+      "El permiso puede renovarse."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Hacienda y Desarrollo Productivo",
+      "direccion": "Centro de Innovación, Av. Bunge 2100",
+      "localidad": "Centro de Innovación, Av. Bunge 2100",
+      "horario": null,
+      "fuente_url": "https://pinamar.gob.ar/produccion/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://pinamar.gob.ar/produccion/",
+      "titulo": "Desarrollo Productivo y Empleo – Municipalidad de Pinamar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos",
+        "resumen",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T16:29:53.453Z"
+    },
+    {
+      "url": "https://pinamar.gob.ar/formulario-pupa/",
+      "titulo": "Formulario PUPA – Municipalidad de Pinamar",
+      "bloques": [
+        "pasos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T16:29:53.453Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa el monto del pago para obtener el permiso.",
+    "No se detallan los otros requisitos técnicos y sanitarios.",
+    "No se informa si necesitás turno para anotarte."
+  ]
+}

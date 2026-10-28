@@ -1,0 +1,79 @@
+{
+  "tramite": {
+    "slug": "inscripcion-de-proveedores",
+    "nombre": "Inscripción de proveedores",
+    "nombre_busqueda": "Inscripción de proveedores",
+    "resumen": "Es necesario realizar este trámite para formar parte del listado de proveedores del Municipio de San Nicolás. Se completa un formulario online y se cargan documentos como constancia de inscripción ARCA y constancia de CBU.",
+    "sinonimos": [],
+    "temas": [
+      "proveedores-y-compras"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060763",
+  "organismo": {
+    "nombre": "Municipalidad de San Nicolás",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de un comercio o industria que deseen formar parte del listado de proveedores del Municipio de San Nicolás."
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia de Inscripción ARCA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de CBU emitida por el banco.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estatuto o contrato social certificado.",
+        "aclaracion": "En el caso de las sociedades."
+      },
+      {
+        "texto": "Última acta de designación de autoridades certificado.",
+        "aclaracion": "En el caso de las sociedades."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al Portal de Proveedores de la Municipalidad de San Nicolás."
+      },
+      {
+        "texto": "Seleccioná el sistema para el cual te darás de alta como proveedor."
+      },
+      {
+        "texto": "Debes elegir entre Municipalidad de San Nicolás y Aguas de San Nicolás."
+      },
+      {
+        "texto": "Completá el formulario online con tus datos personales y cargá la documentación requerida."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.sannicolasciudad.gob.ar/tramites/proveedores/inscripcion-de-proveedores",
+      "titulo": "Inscripción de proveedores | Proveedores | Trámites | San Nicolás Ciudad",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T15:41:27.684Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el monto del trámite."
+  ]
+}

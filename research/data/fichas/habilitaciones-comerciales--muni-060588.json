@@ -1,0 +1,126 @@
+{
+  "tramite": {
+    "slug": "habilitacion-comercial",
+    "nombre": "Habilitación comercial",
+    "nombre_busqueda": "Habilitación comercial",
+    "resumen": "Trámite para obtener la habilitación comercial en la Municipalidad de 9 de Julio. Requiere presentar documentación específica según el caso y pagar la tasa correspondiente.",
+    "sinonimos": [
+      "Habilitación de comercio",
+      "Permiso de comercio",
+      "Licencia de comercio"
+    ],
+    "temas": [
+      "comercio-e-industria",
+      "habilitacion-comercial"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060588",
+  "organismo": {
+    "nombre": "Municipalidad de 9 de Julio",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresarios y comerciantes que deseen operar en la ciudad."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original y copia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cédula de identidad de la empresa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de domicilio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planilla de pago de tasas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotografías del solicitante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de no tener habilitación vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta de nacimiento.",
+        "aclaracion": "Si sos menor de edad."
+      },
+      {
+        "texto": "DNI del padre, madre o tutor.",
+        "aclaracion": "Si sos menor de edad."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá todos los requisitos en la oficina."
+      },
+      {
+        "texto": "Pagá la tasa correspondiente."
+      },
+      {
+        "texto": "Recibí el comprobante de pago."
+      },
+      {
+        "texto": "Retirá la habilitación comercial en la oficina."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "CEyS Mariano Moreno",
+      "direccion": "Av. Avellaneda 1561",
+      "localidad": "9 de Julio",
+      "horario": null,
+      "fuente_url": "https://www.9dejulio.gob.ar/habilitaciones-comerciales.php"
+    },
+    {
+      "nombre": "Cámara de comercio de 9 de Julio",
+      "direccion": "Av. San Martín 1223",
+      "localidad": "9 de Julio",
+      "horario": null,
+      "fuente_url": "https://www.9dejulio.gob.ar/habilitaciones-comerciales.php"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.9dejulio.gob.ar/habilitaciones-comerciales.php",
+      "titulo": "Municipalidad de 9 de Julio - Habilitaciones Comerciales",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T15:35:12.071Z"
+    },
+    {
+      "url": "https://www.9dejulio.gov.ar/donde-pagar.php",
+      "titulo": "Municipalidad de 9 de Julio - Lugares de pago habilitados",
+      "bloques": [
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T15:35:12.071Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa no se indica en el texto.",
+    "El plazo de tramitación no se especifica.",
+    "Si el trámite requiere turno no se detalla en el texto."
+  ]
+}

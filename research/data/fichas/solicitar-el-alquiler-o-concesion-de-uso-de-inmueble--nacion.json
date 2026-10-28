@@ -1,0 +1,143 @@
+{
+  "tramite": {
+    "slug": "solicitar-alquiler-o-concesion-de-uso-de-inmueble",
+    "nombre": "Solicitar el alquiler o concesión de uso de inmueble",
+    "nombre_busqueda": "alquiler inmueble estado nacional",
+    "resumen": "Para alquilar un inmueble del Estado Nacional a cambio de una contraprestación, necesitás cumplir requisitos específicos según tu condición (ocupante, propietario, asociación, etc.) y presentar documentación obligatoria en el Sistema de Tramitación a Distancia.",
+    "sinonimos": [
+      "alquiler de bienes estatales",
+      "concesión de uso de predio público"
+    ],
+    "temas": [
+      "vivienda-y-servicios-del-hogar"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Agencia de Administración de Bienes del Estado",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Ocupantes de inmuebles destinados a vivienda, cualquiera sea el origen de su título o condición legal, con exclusión de los que detentaren como consecuencia de un acto ilícito penal.",
+      "Propietarios de inmuebles linderos con respecto a predios estatales que encontrándose en zona urbana su configuración catastral no resulte reglamentaria o hallándose en zona rural sus dimensiones no resulten aptas para la explotación económica que se desarrolle predominantemente en el lugar.",
+      "Asociaciones y Fundaciones con destino exclusivo al cumplimiento de sus fines estatutarios.",
+      "Organismos Provinciales, Municipales o Gobierno de la Ciudad Autónoma de Buenos Aires."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI (Obligatorio)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción en AFIP (Obligatorio)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado Fiscal para contratar con el Estado (Obligatorio)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Antecedentes de la ocupación (Permisos, Actas, Contratos) (Obligatorio)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Croquis del inmueble del ENA sobre el cual se solicita la Concesión Directa (Ubicación del inmueble respecto al ejido urbano, polígono delimitado del inmueble ubicado entre calles para facilitar su detección) (Obligatorio)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Foto satelital del inmueble (Obligatorio)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotos del inmueble (Obligatorio)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario sobre Inmueble Solicitado (Obligatorio)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cronograma y descripción de los trabajos de mantenimiento o mejoras que debe introducir en los Bienes afectados a la concesión (Opcional)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación adicional (Opcional)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia certificada del Estatuto (Obligatorio)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia certificada del Acta designación de Autoridades (Obligatorio)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia certificada del Poder para firmar (Obligatorio)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título de propiedad del inmueble de su propiedad (Obligatorio)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Accedé al Sistema de Tramitación a Distancia por medio del sitio web: https://tramitesadistancia.gob.ar/#/inicio"
+      },
+      {
+        "texto": "Ingresá tu CUIT/CUIL y la Clave Fiscal (Nivel 3)."
+      },
+      {
+        "texto": "Aceptá los Términos y Condiciones de uso de la plataforma."
+      },
+      {
+        "texto": "Seleccioná la opción Mis datos y editá los datos personales si necesitás hacerlo (email, teléfono, domicilio constituido)."
+      },
+      {
+        "texto": "Seleccioná la opción Nuevo trámite."
+      },
+      {
+        "texto": "De la lista de organismos, elegí Agencia de Administración de Bienes del Estado."
+      },
+      {
+        "texto": "Seleccioná el trámite correspondiente."
+      },
+      {
+        "texto": "Confirmá tus datos correspondientes."
+      },
+      {
+        "texto": "Completá el formulario y la documentación obligatoria."
+      },
+      {
+        "texto": "Seleccioná el botón CONFIRMÁ TRÁMITE para finalizar el trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-el-alquiler-o-concesion-de-uso-de-inmueble",
+      "titulo": "Solicitar el alquiler o concesión de uso de inmueble | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T08:32:48.087Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto de la contraprestación se fija de acuerdo con lo previsto en el presente Reglamento y en el pliego de bases y condiciones particulares que rija el procedimiento de selección del contratista."
+  ]
+}

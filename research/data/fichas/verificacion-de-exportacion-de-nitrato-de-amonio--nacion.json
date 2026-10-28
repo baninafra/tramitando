@@ -1,0 +1,89 @@
+{
+  "tramite": {
+    "slug": "verificacion-exportacion-nitrato-amonio",
+    "nombre": "Verificación de exportación de nitrato de amonio",
+    "nombre_busqueda": "Verificación exportación nitrato amonio",
+    "resumen": "Este trámite permite solicitar la verificación de exportación de nitrato de amonio antes del ingreso de productos del país. Se requiere presentar documentación técnica, estampillas y copias de autorizaciones ante ANMaC.",
+    "sinonimos": [
+      "Verificación exportación nitrato",
+      "Verificación nitrato amonio"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración Nacional de Medicamentos, Alimentos y Tecnología",
+    "sigla": "ANMaC",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Importadores y exportadores"
+    ],
+    "requisitos": [
+      {
+        "texto": "Ficha de datos técnicos (FDT) N° N7 por duplicado, suscriptas por el representante legal o titular con certificación de firma en imprenta, sin espacios en blanco ni corrector, consignando el número de Autorización de Importación que la ampara.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estampillas por un valor de 100000.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Lista de Empaque (Packing List) indicando los números con los datos técnicos correspondientes dependientes del medio de transporte aéreo, marítimo o terrestre, Nº de contenedores, detalle de la mercadería (bultos, pallets, etc.) contenida en cada uno con su número de código y riesgo principal de Na…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de la Autorización de exportación oportunamente emitida por la ANMaC.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de la habilitación del vehículo para el transporte de sustancias peligrosas (para transporte terrestre).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 10000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/verificacion-de-exportacion-de-nitrato-de-amonio"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/verificacion-de-exportacion-de-nitrato-de-amonio",
+      "titulo": "Verificación de exportación de nitrato de amonio | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T19:11:37.159Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de los Centros de Atención de ANMaC",
+    "Si se requiere turno para realizar el trámite"
+  ]
+}

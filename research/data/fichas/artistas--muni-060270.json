@@ -1,0 +1,85 @@
+{
+  "tramite": {
+    "slug": "inscripcion-registro-artistas-locales-ezeiza",
+    "nombre": "Inscripción al Registro de Artistas Locales de Ezeiza",
+    "nombre_busqueda": "inscribirse en el Registro de Artistas de Ezeiza",
+    "resumen": "El Registro de Artistas Locales de Ezeiza difunde y reconoce a artistas locales y les ofrece oportunidades laborales. Pueden inscribirse artistas y trabajadores de la cultura que residan en Ezeiza.",
+    "sinonimos": [
+      "R.A.L.E.",
+      "Registro de Artistas Locales de Ezeiza"
+    ],
+    "temas": [
+      "registro-de-artistas-y-propiedad-intelectual"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060270",
+  "organismo": {
+    "nombre": "Municipio de Ezeiza",
+    "sigla": null,
+    "web": "https://ezeiza.gob.ar/artistas/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Artistas y trabajadores de la cultura que residan en Ezeiza."
+    ],
+    "requisitos": [
+      {
+        "texto": "Imagen de perfil.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI, frente y dorso.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de domicilio o factura de un servicio público a tu nombre que acredite tu domicilio real.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario con los datos del proyecto, la disciplina, tu nombre y apellido de contacto, email y teléfono."
+      },
+      {
+        "texto": "Agregá una reseña y los enlaces o nombres de usuario de tus redes."
+      },
+      {
+        "texto": "Cargá tu imagen de perfil, el DNI de frente y dorso, y el certificado de domicilio o la factura de servicio público."
+      },
+      {
+        "texto": "Enviá la solicitud. El sitio informa que será revisada a la brevedad."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://ezeiza.gob.ar/artistas/",
+      "titulo": "Artistas - Municipio Ezeiza",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T12:33:48.963Z"
+    },
+    {
+      "url": "https://ezeiza.gob.ar/artistas/formulario_de_inscripcion.php",
+      "titulo": "Artistas - Municipio Ezeiza",
+      "bloques": [
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T12:33:48.963Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se indica cuánto tarda la revisión de la solicitud."
+  ]
+}

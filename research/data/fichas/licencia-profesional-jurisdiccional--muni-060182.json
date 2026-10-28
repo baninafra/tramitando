@@ -1,0 +1,104 @@
+{
+  "tramite": {
+    "slug": "licencia-de-conducir",
+    "nombre": "Licencia de conducir profesional jurisdiccional",
+    "nombre_busqueda": "Licencia de conducir profesional",
+    "resumen": "Trámite para obtener la licencia de conducir profesional en la jurisdicción de Coronel Rosales.",
+    "sinonimos": [
+      "Licencia profesional",
+      "Licencia de conducir profesional"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060182",
+  "organismo": {
+    "nombre": "Municipio de Coronel Rosales",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que cumpla con los requisitos legales para obtener la licencia de conducir profesional."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original y fotocopia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotografías en blanco y negro.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de aptitud física.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de aptitud psíquica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de aptitud moral.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de antecedentes penales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de antecedentes administrativos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de antecedentes en el Registro Nacional de Conductores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de antecedentes en el Registro Nacional de Conductores (si aplica).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá todos los documentos requeridos en la oficina del Municipio."
+      },
+      {
+        "texto": "El funcionario revisará los documentos y los antecedentes."
+      },
+      {
+        "texto": "Si todo está en orden, se emitirá la licencia de conducir profesional."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mcr.gob.ar/documentos/licencia-profesional-jurisdiccional/",
+      "titulo": "Licencia Profesional Jurisdiccional - MCR",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T05:07:57.374Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere confirmar si el trámite se puede realizar online o solo presencialmente.",
+    "Se requiere confirmar si se necesita sacar turno y cómo hacerlo.",
+    "Se requiere confirmar el monto de la tasa o si el trámite es gratuito.",
+    "Se requiere confirmar la dirección exacta de la oficina donde se realiza el trámite.",
+    "Se requiere confirmar el plazo estimado para la emisión de la licencia."
+  ]
+}

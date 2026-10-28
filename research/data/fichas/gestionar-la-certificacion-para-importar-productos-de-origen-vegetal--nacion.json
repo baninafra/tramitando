@@ -1,0 +1,126 @@
+{
+  "tramite": {
+    "slug": "gestionar-la-certificacion-para-importar-productos-de-origen-vegetal",
+    "nombre": "Gestionar la certificación para importar productos de origen vegetal",
+    "nombre_busqueda": "certificacion importacion vegetal senasa",
+    "resumen": "Para importar productos de origen vegetal necesitás verificar el cumplimiento de los requisitos fitosanitarios a través de una verificación documental y física del envío. El trámite contempla la emisión del certificado de importación como resultado de dicha verificación.",
+    "sinonimos": [
+      "certificado de importación senasa",
+      "verificacion fitosanitaria importacion"
+    ],
+    "temas": [
+      "bromatologia-y-alimentos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Importadores",
+      "Despachantes de aduana",
+      "Agente de transporte aduanero",
+      "Personas u organismos de investigación"
+    ],
+    "requisitos": [
+      {
+        "texto": "Inscripción vigente en el Registro de importadores y exportadores ante la Dirección General de Aduanas",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitud importación, tramitada por autogestión a través del Sistema de Gestión para de Productos Vegetales de Importación SIGPV_IMPO",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado fitosanitario de exportación o reexportación (para productos de categoría de riesgo fitosanitario 2 en adelante)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Despacho de importación oficializado por Aduana",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de pago de aranceles",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitud de importación autorizada por el INASE (Instituto Nacional de Semillas) (en caso de tratarse de semillas)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Flora (en el caso de ejemplares vivos, productos, subproductos y derivados de la flora silvestre)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración Jurada de embalajes de madera, maderas de soporte y acomodación (si la mercadería se encuentra acondicionada en embalajes de madera)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al SIGPV_IMPO a través de la página de la ARCA"
+      },
+      {
+        "texto": "Realizá la solicitud de importación a través del sistema SIGPV_IMPO"
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a las oficinas del Senasa autorizadas, de lunes a viernes de 8 a 14, ubicadas en los puntos de ingreso de la mercadería (Puesto de Inspección Fronterizo -PIF)"
+      },
+      {
+        "texto": "Realizá la verificación física del envío"
+      },
+      {
+        "texto": "Recibí el certificado de importación"
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Vigencia 10 días"
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Protección Vegetal",
+      "direccion": "Av. Paseo Colón N° 367, Piso 6° contrafrente, C1063ACD, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/gestionar-la-certificacion-para-importar-productos-de-origen-vegetal"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/gestionar-la-certificacion-para-importar-productos-de-origen-vegetal",
+      "titulo": "Gestionar la certificación para importar productos de origen vegetal | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-26T15:42:57.819Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/centros-regionales",
+      "titulo": "Centros Regionales | Argentina.gob.ar",
+      "bloques": [
+        "pasos"
+      ],
+      "consultada_en": "2026-10-26T15:42:57.819Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite es de 10 días, pero no se especifica la fecha de inicio ni fin exacta en el texto."
+  ]
+}

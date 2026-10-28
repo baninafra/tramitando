@@ -1,0 +1,106 @@
+{
+  "tramite": {
+    "slug": "consulta-intervencion-propiedad-catalogada",
+    "nombre": "Consultar una intervención en una propiedad catalogada",
+    "nombre_busqueda": "consulta de intervención en propiedad catalogada",
+    "resumen": "Pedí asesoramiento profesional sobre proyectos de conservación, restauración, intervención o preservación patrimonial. La consulta se realiza por correo electrónico y no tiene costo.",
+    "sinonimos": [
+      "Consulta de intervención en inmueble catalogado",
+      "Consulta de intervención en zona a preservar"
+    ],
+    "temas": [
+      "obras-y-construccion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060441",
+  "organismo": {
+    "nombre": "Dirección de Gestión del Patrimonio",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés consultar si tu propiedad está catalogada, se encuentra en una zona a preservar o tiene antecedentes constructivos previos al año 1930."
+    ],
+    "requisitos": [
+      {
+        "texto": "Memoria del proyecto con el detalle de lo que solicitás.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ubicación de la parcela.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nomenclatura catastral.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de partida.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del último plano de antecedente, certificado por la División Archivo de la Dirección de Obras Particulares.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Imágenes actuales del exterior y el interior del inmueble.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano municipal del proyecto con la intervención que querés realizar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Imágenes 3D de la propuesta.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Timbrado vigente al momento de presentar la solicitud, según la Ordenanza Impositiva 12682.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Enviá un correo electrónico a gestiondelpatrimonio@laplata.gob.ar con la consulta y la documentación requerida."
+      },
+      {
+        "texto": "Si necesitás una reunión presencial, solicitála y coordinála previamente por correo electrónico."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": true,
+      "monto_centavos": null,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://tramites.laplata.gob.ar/planeamiento/patrimonio-consulta-intervencion.html"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://tramites.laplata.gob.ar/planeamiento/patrimonio-consulta-intervencion.html",
+      "titulo": "Plan Ordenamiento Territorial - Municipalidad de La Plata",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T14:28:41.583Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no precisa el monto del timbrado."
+  ]
+}

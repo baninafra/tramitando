@@ -1,0 +1,79 @@
+{
+  "tramite": {
+    "slug": "cambio-de-titularidad-del-dominio",
+    "nombre": "Cambio de titularidad del dominio",
+    "nombre_busqueda": "Cambio de titularidad del dominio",
+    "resumen": "Actualizá el nombre de quién se recibe la Tasa municipal cuando una propiedad cambia de dueño por venta o sucesión.",
+    "sinonimos": [],
+    "temas": [
+      "catastro-e-inmuebles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cuando una propiedad cambia de dueño por venta o sucesión."
+    ],
+    "requisitos": [
+      {
+        "texto": "Título de propiedad del bien inmueble debidamente registrado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Destinatario y domicilio en donde desea recibir la Tasa.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación requerida en el Departamento de Catastro."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La actualización se realiza ante la presentación de la documentación."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Departamento de Catastro",
+      "direccion": "Chiclana 453",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/catastro/cambio-titularidad/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/tramites/catastro/cambio-titularidad/",
+      "titulo": "Cambio de titularidad del dominio | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T09:08:44.937Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica requisitos adicionales para casos especiales como menores o extranjeros.",
+    "El texto no especifica plazos de espera o tiempos de espera.",
+    "El texto no especifica si se requiere turno para realizar el trámite.",
+    "El texto no especifica si el trámite se puede realizar por internet.",
+    "El texto no especifica si hay costos asociados al trámite."
+  ]
+}

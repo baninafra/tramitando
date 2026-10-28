@@ -1,0 +1,70 @@
+{
+  "tramite": {
+    "slug": "solicitar-permiso-de-incineracion-de-alcoholes",
+    "nombre": "Solicitar permiso de incineración de alcoholes",
+    "nombre_busqueda": "solicitar permiso de incineración de alcoholes",
+    "resumen": "El establecimiento debe solicitar autorización al INV para quemar alcoholes, aceites de fusel u otros derivados de destilación. La inscripción es definitiva y se realiza en línea.",
+    "sinonimos": [],
+    "temas": [
+      "ambiente-municipal",
+      "recoleccion-de-residuos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto Nacional de Vitivinicultura",
+    "sigla": "INV",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Toda persona física o jurídica inscripta ante el INV."
+    ],
+    "requisitos": [
+      {
+        "texto": "Copia digital (foto o escaneada) de la nota de solicitud de incineración.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma TAD."
+      },
+      {
+        "texto": "Presentar nota de solicitud de inscripción dirigida al Jefe de la Delegación del INV cuya jurisdicción pertenezca a su domicilio."
+      },
+      {
+        "texto": "Adjuntar la documentación solicitada."
+      },
+      {
+        "texto": "Recibirás la confirmación en tu correo electrónico."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-permiso-de-incineracion-de-alcoholes",
+      "titulo": "Solicitar permiso de incineración de alcoholes | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T10:19:58.066Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La inscripción es definitiva."
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "tramite": {
+    "slug": "solicitar-habilitacion-zonas-especiales",
+    "nombre": "Solicitar la habilitación de zonas especiales",
+    "nombre_busqueda": "solicitar habilitación zonas especiales",
+    "resumen": "Para ser titular de dominios especiales (.org.ar, .mil.ar, .gob.ar, etc.) necesitás solicitar la habilitación y cumplir con ciertos requisitos según la zona.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes quieran ser titulares de estos dominios."
+    ],
+    "requisitos": [
+      {
+        "texto": "Estar registrado en la plataforma de Trámites a Distancia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar una copia del Estatuto / Contrato Social (para .org.ar).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar la constancia de inscripción correspondiente (para .bet.ar).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD."
+      },
+      {
+        "texto": "Completá la documentación solicitada."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-habilitacion-de-zonas-especiales",
+      "titulo": "Solicitar la habilitación de zonas especiales | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T09:46:35.538Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Consultá los aranceles correspondientes a cada trámite."
+  ]
+}

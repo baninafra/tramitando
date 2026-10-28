@@ -1,0 +1,92 @@
+{
+  "tramite": {
+    "slug": "ampliar-operaciones-de-tratamiento",
+    "nombre": "Ampliar operaciones de tratamiento",
+    "nombre_busqueda": "ampliar operaciones de tratamiento de residuos peligrosos",
+    "resumen": "Solicitá en línea la ampliación de las operaciones de tratamiento de residuos peligrosos. Necesitás usuario de TAD y un representante técnico.",
+    "sinonimos": [
+      "Ampliación de tratamiento de residuos peligrosos",
+      "Ampliar la planta de tratamiento de residuos peligrosos"
+    ],
+    "temas": [
+      "comercio-e-industria"
+    ],
+    "temas_propuestos": [
+      {
+        "slug": "ambiente-y-residuos",
+        "nombre": "Ambiente y residuos",
+        "padre": null
+      },
+      {
+        "slug": "residuos-peligrosos",
+        "nombre": "Residuos peligrosos",
+        "padre": "ambiente-y-residuos"
+      }
+    ]
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Coordinación de Residuos Peligrosos",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Operadores de residuos peligrosos que necesiten ampliar sus operaciones de tratamiento."
+    ],
+    "requisitos": [
+      {
+        "texto": "Contar con usuario de acceso a Trámites a Distancia (TAD).",
+        "aclaracion": "Podés consultar las formas de acceso en el instructivo oficial."
+      },
+      {
+        "texto": "Tener un representante técnico que firme en forma conjunta los documentos que lo exijan.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al trámite en línea desde el portal oficial."
+      },
+      {
+        "texto": "Completá la solicitud de ampliación de las operaciones de tratamiento."
+      },
+      {
+        "texto": "Verificá que todos tus datos estén correctamente cargados antes de finalizar."
+      },
+      {
+        "texto": "Pagá las tasas que debas acreditar mediante la Plataforma e-Recauda."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": false,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El trámite se hace en línea, sin turno.",
+      "Ante cualquier duda podés consultar el instructivo para la ampliación de las operaciones de tratamiento."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/ampliar-operaciones-de-tratamiento",
+      "titulo": "Ampliar operaciones de tratamiento | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:25:45.760Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa el monto de las tasas.",
+    "No se indica cuánto tarda el trámite.",
+    "No se detallan oficinas de atención presencial.",
+    "No se indica la vigencia de la habilitación."
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "tramite": {
+    "slug": "talleres-tecnologicos",
+    "nombre": "Talleres tecnológicos",
+    "nombre_busqueda": "Talleres tecnológicos",
+    "resumen": "Financiamiento para talleres tecnológicos presenciales que involucren universidades, instituciones de ciencia y tecnología y empresas industriales argentinas.",
+    "sinonimos": [],
+    "temas": [
+      "emprendedores-y-monotributo",
+      "cursos-y-formacion-laboral"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Agencia I+D+i",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Universidades",
+      "Instituciones de ciencia y tecnología",
+      "Empresas industriales radicadas en Argentina"
+    ],
+    "requisitos": [
+      {
+        "texto": "Implicar la participación de al menos 2 universidades y/o instituciones de ciencia y tecnología",
+        "aclaracion": null
+      },
+      {
+        "texto": "Implicar la participación de 5 empresas industriales radicadas en Argentina",
+        "aclaracion": null
+      },
+      {
+        "texto": "Asumir el rol de organizadora del taller",
+        "aclaracion": "Alguna de las universidades o instituciones de ciencia y tecnología sin fines de lucro participantes"
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Leer las bases y descargar todos los formularios"
+      },
+      {
+        "texto": "Completar todos los formularios requeridos en las bases y reunir toda la documentación que corresponda"
+      },
+      {
+        "texto": "Cargar el proyecto y adjuntar toda la documentación a presentar (formularios, documentación respaldatoria, documentación anexa, etc.) en el Sistema de Gestión de Proyectos - SGP"
+      },
+      {
+        "texto": "Descargar el reporte que se genera al finalizar la carga"
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 140000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/talleres-tecnologicos"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/talleres-tecnologicos",
+      "titulo": "Talleres Tecnológicos | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "costo",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T17:49:21.111Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos",
+    "No se indica plazo",
+    "No se indica dirección de oficinas",
+    "No se indica modalidad de pago",
+    "No se indica si requiere turno",
+    "No se indica vigencia desde fecha exacta"
+  ]
+}

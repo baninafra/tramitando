@@ -1,0 +1,109 @@
+{
+  "tramite": {
+    "slug": "reclamos-telefonica-fija",
+    "nombre": "Reclamar por errores de facturación en la telefonía fija",
+    "nombre_busqueda": "Reclamar errores factura telefonía fija",
+    "resumen": "Si recibiste la factura con errores o cargos injustificados y la empresa no atendió tu reclamo, podés solicitar la intervención del ENACOM.",
+    "sinonimos": [
+      "Reclamo ENACOM telefonía fija",
+      "Intervención ENACOM factura",
+      "Queja factura teléfono fijo"
+    ],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ente Nacional de Comunicaciones",
+    "sigla": "ENACOM",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de la línea.",
+      "Apoderados.",
+      "Usuarios del servicio."
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia del documento de identidad (DNI, Pasaporte).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poder ante escribano público o carta poder con firma certificada por entidad bancaria o policial (si sos apoderado).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del contrato de alquiler o comodato del inmueble y su documento de identidad (si sos usuario del servicio).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia completa de las facturas cuestionadas (frente y reverso).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fecha y número de reclamo otorgado por la empresa prestadora del servicio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Otra documentación que creas de interés.",
+        "aclaracion": null
+      },
+      {
+        "texto": "F37a - Formulario general para iniciar reclamos sobre servicios de telefonía fija y/o nota firmada por quien se presente, identificando el error con el detalle del reclamo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de la factura del período y de los dos vencimientos inmediatamente anteriores (si reclamás por la no aplicación de descuentos bajo consumo / jubilados).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación en la Oficina de Atención al Público correspondiente a tu domicilio."
+      },
+      {
+        "texto": "Envialá por correo postal al Apartado Especial 114."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Hacé el reclamo ante la empresa prestadora hasta 60 días corridos de la fecha de primer vencimiento de la factura.",
+      "Si no te responden dentro de los siguientes 15 días hábiles o no considerás satisfecho tu pedido, podés solicitar la intervención del ENACOM dentro de los 30 días contados a partir de la respuesta o vencido el plazo para contestar."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reclamar-por-errores-de-facturacion-en-la-telefonia-fija",
+      "titulo": "Reclamar por errores de facturación en la telefonía fija | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:38:40.221Z"
+    },
+    {
+      "url": "https://www.enacom.gob.ar/centrosatencion/c_1",
+      "titulo": "Centros de Atención",
+      "bloques": [
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T02:38:40.221Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de la oficina de atención al público correspondiente al domicilio del usuario.",
+    "Costo del trámite."
+  ]
+}

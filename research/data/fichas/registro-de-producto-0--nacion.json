@@ -1,0 +1,164 @@
+{
+  "tramite": {
+    "slug": "registro-de-producto-0",
+    "nombre": "Registro de producto",
+    "nombre_busqueda": "Registro de producto pirotecnia",
+    "resumen": "Trámite para registrar artificios pirotécnicos ante la ANMaC, requiriendo documentación técnica y pago de aranceles.",
+    "sinonimos": [],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMaC",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Fabricantes e importadores de artificios pirotécnicos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de solicitud.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Identificación del solicitante, acreditando su inscripción vigente como fabricante o importador de artificios pirotécnicos (Disp. 077/05).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fábrica que lo produce o producirá.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Grupo, Clase y Tipo en que pretende sea incluido.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Denominación del artificio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En el caso de los artificios de uso festivo, que corresponda con las denominaciones incluídas en el Glosario de Artificios Pirotécnicos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Designación o nombre de fantasía.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Marca con que se comercializará el material.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dibujo a escala del producto y corte del mismo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Peso bruto del artificio o material.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Peso total y composición cualitativa de las sustancias que integran la materia pirotécnica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Peso total y composición de las sustancias explosivas que integran la materia pirotécnica de aquellos artificios de efectos audibles.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos de las etiquetas de identificación y lugar donde irán colocadas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descripción de la forma de utilización y efectos producidos, así como las medidas de seguridad necesarias para su uso.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Antecedentes bibliográficos y otros que pudieran resultar de interés a los fines del registro.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Detalle del acondicionamiento y embalaje.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotografías o croquis de los envases y los productos individuales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Usos y aplicaciones.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Memoria descriptiva del proceso de producción.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ficha de Datos Técnicos R1 debidamente cumplimentada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formularios Leyes N° 23.283 y 23.412 correspondientes.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El registro provisorio tiene una validez de 120 días desde la verificación del material, una vez ingresado al país.",
+      "El registro provisorio caducará automáticamente con el otorgamiento de registro definitivo.",
+      "El registro provisorio podrá ser prorrogado por única vez por otros 120 días contados desde la fecha de vencimiento anterior, si no se ha requerido la registración definitiva durante el período de vigencia.",
+      "La solicitud de prórroga debe ser integrada con los Formularios Leyes N° 23.283 y 23.412 correspondientes y estar debidamente fundada.",
+      "Los productos registrados provisoriamente no podrán ser comercializados sino hasta tanto alcancen su registración definitiva.",
+      "El costo de los ensayos periciales que perciba la entidad autorizada se encontrará a cargo del solicitante."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 10000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/registro-de-producto-0"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 100000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/registro-de-producto-0"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/registro-de-producto-0",
+      "titulo": "Registro de producto | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T03:30:00.233Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La vigencia del registro provisorio se cuenta desde la verificación del material, una vez ingresado al país (Disp. 222/08).",
+    "El plazo de validez del registro definitivo no se especifica en el texto."
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "tramite": {
+    "slug": "cobro-y-prestaciones-pami",
+    "nombre": "Solicitar el cobro de haberes devengados de jubilaciones y pensiones",
+    "nombre_busqueda": "cobro haberes devengados jubilados pensiones",
+    "resumen": "Si sos familiar de una persona jubilada o pensionada fallecida, podés solicitar el pago de los haberes devengados hasta dos años después del fallecimiento. El trámite es gratuito y se realiza presencialmente en oficinas de ANSES.",
+    "sinonimos": [
+      "cobro haberes devengados fallecido",
+      "pago haberes devengados jubilados",
+      "cobro haberes devengados pensiones"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración Nacional de Seguros Sociales",
+    "sigla": "ANSES",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Parientes por consanguinidad o personas que acrediten haber abonado los gastos de la última enfermedad.",
+      "El orden de prioridad es: personas con derecho a pensión, si no se liquidaron con primer pago, herederos legales.",
+      "Los herederos pueden solicitar el pago de los haberes devengados hasta dos años después del fallecimiento del jubilado o pensionado."
+    ],
+    "requisitos": [
+      {
+        "texto": "Partida de defunción del titular fallecido.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario PS. 6.76.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Información Bancaria de ANSES, de no existir información de los haberes impagos en el sistema.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del solicitante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si es pariente por consanguinidad, debe presentarse además con dos testigos y con: Formulario PS.6.253 'Solicitud de Haberes devengados'.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario PS.6.258 'Información Sumaria S' del solicitante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario PS. 6.259 'Información Sumaria T' (de cada testigo).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si los testigos no pueden asistir el día del turno, se pueden presentar los formularios certificados por autoridad policial o ante el Juzgado de Paz competente (Provincia de Buenos Aires); ante el Registro Civil (Ciudad Autónoma de Buenos Aires); o ante los Tribunales del Fuero Civil de Paz (restan…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Partidas que acrediten el vínculo con la persona fallecida (original y fotocopia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si hay otros herederos con derecho al cobro, además de los solicitantes, deben llevar: El DNI o copia debe estar certificada por autoridad competente, residan o no en el exterior.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario PS.6.254 'Declaración Jurada de Herederos no Solicitante', con firma autenticada por autoridad competente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si no es heredero y acredita gastos de enfermedad debe presentar además: Formulario PS. 6.255 'Declaración Jurada De No Herederos Solicitantes'.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario PS. 6.256 'Caución Juratoria - Solicitante No Heredero'.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificados del médico que atendió a la persona antes de su fallecimiento, con firma autenticada por el Colegio Médico de la jurisdicción correspondiente o por la autoridad de la institución de salud en los que consten medicación y estudios prescriptos con las facturas abonadas por el solicitante.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Reuní toda la documentación necesaria según corresponda."
+      },
+      {
+        "texto": "Solicitá un turno en ANSES."
+      },
+      {
+        "texto": "Presentate el día del turno con la documentación y dos testigos (o los Formularios PS. 6.259, completos y firmados ante autoridad competente)."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-el-cobro-de-haberes-devengados-de-jubilaciones-y-pensiones",
+      "titulo": "Solicitar el cobro de haberes devengados de jubilaciones y pensiones | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:38:04.337Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto de los haberes devengados determina la manera de solicitarlos: si el dinero a cobrar fuera igual o menor a una jubilación mínima (más el importe correspondiente de aguinaldo) se podrá solicitar el pago sin necesidad de iniciar la sucesión. Si los importes fueran superiores a una jubilación mínima, para solicitar el cobro de la totalidad deberá iniciar la sucesión y hacerlo a través de un oficio judicial.",
+    "La fecha de vigencia del plazo de dos años no está especificada en el texto."
+  ]
+}

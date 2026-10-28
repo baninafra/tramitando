@@ -1,0 +1,107 @@
+{
+  "tramite": {
+    "slug": "renovar-el-deposito-de-obra-inedita-musica-o-letra",
+    "nombre": "Renovar el depósito de obra inédita música o letra",
+    "nombre_busqueda": "Renovar depósito obra inédita música letra",
+    "resumen": "Este trámite permite renovar la custodia de una letra o música de una obra inédita por otros tres años. Es un trámite en línea que requiere pagar una tasa y subir documentación del autor o titular.",
+    "sinonimos": [
+      "Renovación depósito obra inédita",
+      "Renovar depósito DNDA"
+    ],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional del Derecho de Autor",
+    "sigla": "DNDA",
+    "web": "https://www.argentina.gob.ar/servicio/renovar-el-deposito-de-obra-inedita-musica-o-letra"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Autores y/o titulares de la letra o música de una obra inédita",
+      "Si el autor es menor de edad, sus representantes legales",
+      "Si el autor falleció, sus herederos o apoderados"
+    ],
+    "requisitos": [
+      {
+        "texto": "Comprobante de pago del trámite por depósito o transferencia bancaria de 550000 al Fondo Cooperador Ley 23.412 DNDA-SADAIC",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos de los autores, coordinadores y/o titulares: nombre completo, número de cuil/cuit/cdi (en caso de ser extranjero), pasaporte, nacionalidad, estado civil, e-mail, teléfono, domicilio y porcentaje de titularidad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si no sos el autor o titular: estar apoderado a través de la plataforma TAD",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el autor es menor de edad: documentación que acredite vínculo, copia del DNI y constancia de CUIT, CUIL o CDI (en caso de ser extranjero) del menor",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si es autor fallecido: certificado de defunción",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD - Renovación de obra inédita música o letra e iniciá el trámite"
+      },
+      {
+        "texto": "Subí la documentación obligatoria y complementaria"
+      },
+      {
+        "texto": "Completá los datos de la obra a renovar"
+      },
+      {
+        "texto": "El sistema te otorgará un número de Expediente Electrónico con dos carátulas: carátula de expediente y carátula variable"
+      },
+      {
+        "texto": "Si tenés algún error se te enviará una tarea de subsanación; caso contrario, se te otorgará la constancia de renovación del depósito en custodia vía TAD"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "15 minutos",
+    "consejos": [
+      "Podés renovar el depósito por otros 3 años, dentro de los treinta días posteriores al vencimiento",
+      "Si no lo renovás, la obra se destruye (Decreto 972/2024)",
+      "La vigencia del depósito es de 3 años"
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 550000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/renovar-el-deposito-de-obra-inedita-musica-o-letra"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/renovar-el-deposito-de-obra-inedita-musica-o-letra",
+      "titulo": "Renovar el depósito de obra inédita música o letra | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T04:07:11.387Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia exacta del depósito no se especifica en el texto, solo se menciona que es de 3 años y que se puede renovar dentro de los treinta días posteriores al vencimiento"
+  ]
+}

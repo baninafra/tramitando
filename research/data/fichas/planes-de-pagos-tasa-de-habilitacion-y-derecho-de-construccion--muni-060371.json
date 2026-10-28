@@ -1,0 +1,91 @@
+{
+  "tramite": {
+    "slug": "planes-de-pagos-tasa-de-habilitacion-y-derecho-de-construccion",
+    "nombre": "Planes de pagos - Tasa de habilitación y derecho de construcción",
+    "nombre_busqueda": "Planes de pagos habilitación construcción",
+    "resumen": "Es para pagar la tasa de habilitación y el derecho de construcción de forma fraccionada. Se usa si no tenés los fondos para el monto total.",
+    "sinonimos": [
+      "Pago fraccionado habilitación",
+      "Planes de pago construcción"
+    ],
+    "temas": [
+      "planes-de-pago-municipales",
+      "tasas-e-impuestos-municipales",
+      "obras-y-construccion",
+      "habilitacion-comercial"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060371",
+  "organismo": {
+    "nombre": "Municipalidad de San Martín",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan una obra en construcción o terminada que necesite habilitación y derecho de construcción."
+    ],
+    "requisitos": [
+      {
+        "texto": "Solicitud de planes de pagos",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del DNI del propietario o del titular de la obra",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del título de propiedad o de la escritura de la obra",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del plano de la obra",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del acta de constitución de la empresa constructora, si la obra es de empresa",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a la oficina de la Dirección de Obras y Servicios Públicos."
+      },
+      {
+        "texto": "Presentá la solicitud de planes de pagos junto con los documentos requeridos."
+      },
+      {
+        "texto": "Recibí la documentación y el comprobante de pago del derecho de construcción."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá los montos exactos de la tasa y el derecho de construcción antes de solicitar el plan de pagos."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://sanmartin.gob.ar/tramites/planes-de-pagos-tasa-de-habilitacion-y-derecho-de-construccion",
+      "titulo": "Planes de pagos - Tasa de habilitación y derecho de construcción",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T01:12:39.158Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto de la tasa y el derecho de construcción no está especificado en el texto.",
+    "No se indica si el trámite requiere turno.",
+    "No se especifica el plazo para la aprobación del plan de pagos.",
+    "No se indica si se puede realizar el trámite online."
+  ]
+}

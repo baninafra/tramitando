@@ -1,0 +1,124 @@
+{
+  "tramite": {
+    "slug": "permiso-individual-para-cromatografia-gaseosa",
+    "nombre": "Permiso individual para cromatografía gaseosa",
+    "nombre_busqueda": "Permiso individual para cromatografía gaseosa",
+    "resumen": "Este trámite permite obtener o renovar el permiso individual para el uso de fuentes radiactivas selladas para cromatografía gaseosa en instalaciones Clase II y III. Requiere acreditar estudios secundarios completos y formación teórica-práctica en seguridad radiológica.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Autoridad Regulatoria Nuclear",
+    "sigla": "ARN",
+    "web": "https://www.argentina.gob.ar/arn"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Ser mayor de 21 años.",
+      "Poseer como mínimo estudios secundarios completos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario Solicitud de Permiso Individual para el Uso de Radioisótopos o Radiaciones Ionizantes en Instalaciones Clase II y III, debidamente completado y firmado por el solicitante del permiso e impreso en doble faz.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia legalizada en original de los certificados que acrediten los estudios cursados (secundarios, terciarios, universitarios u otros).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia legalizada en original del certificado del Curso Básico de Seguridad Radiológica de Fuentes Radiactivas para Usos Menores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia legible de DNI actualizado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotografía tamaño 4x4.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago de la tasa regulatoria correspondiente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario Facturación de la Tasa Regulatoria, junto con la constancia de CUIL/CUIT.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación requerida por correo postal dirigida a Licenciamiento de Personal Instalaciones Clase II y III, Autoridad Regulatoria Nuclear, Av. del Libertador 8250, C1429BNP, oficina 317, Ciudad Autónoma de Buenos Aires."
+      },
+      {
+        "texto": "O presentá la documentación requerida personalmente en la sede central de la ARN, Av. del Libertador 8250, Oficina 317, de lunes a viernes de 9 a 15 horas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "60 días hábiles",
+    "consejos": [
+      "La certificación de la aprobación del curso debe ser utilizada para la acreditación dentro de los 3 años de aprobado.",
+      "Pasado ese lapso la certificación de la aprobación del curso carecerá de validez para la tramitación del permiso individual.",
+      "Para renovar el permiso, debés hacerlo con 60 días hábiles de anticipación al vencimiento de tu permiso.",
+      "No debés presentar deudas por pago de tasas anteriores para la emisión del permiso.",
+      "Vigencia de 5 años, excepto que la ARN especifique un período de validez menor."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede central de la ARN",
+      "direccion": "Av. del Libertador 8250, Oficina 317",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/permiso-individual-para-cromatografia-gaseosa"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/permiso-individual-para-cromatografia-gaseosa",
+      "titulo": "Permiso individual para cromatografía gaseosa | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T23:19:09.864Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/arn/instalaciones-practicas-y-personal-regulado/datos-de-contacto-para-regulados",
+      "titulo": "Datos de contacto para regulados | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-26T23:19:09.864Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T23:19:09.864Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El valor exacto de la hora regulatoria no está especificado en el texto.",
+    "La fecha de vigencia del permiso no está especificada en el texto."
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "tramite": {
+    "slug": "proteccion-de-la-vivienda",
+    "nombre": "Protección de la vivienda",
+    "nombre_busqueda": "Protección de la vivienda",
+    "resumen": "Trámite para proteger patrimonialmente al núcleo familiar y resguardar la propiedad de ejecuciones por deudas posteriores a su inscripción como Bien de Familia.",
+    "sinonimos": [],
+    "temas": [
+      "vivienda-y-servicios-del-hogar",
+      "catastro-e-inmuebles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Departamento de Catastro",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de propiedades inscriptas como Bien de Familia."
+    ],
+    "requisitos": [
+      {
+        "texto": "Libreta de familia o acta/certificado de matrimonio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Actas/certificados de nacimiento de los hijos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del título de propiedad original.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación requerida en el Departamento de Catastro los martes y jueves de 8.00 a 12.00 hs."
+      },
+      {
+        "texto": "El Departamento de Catastro remite la documentación al Registro de la Propiedad Inmueble de la Provincia de Buenos Aires."
+      },
+      {
+        "texto": "El trámite culmina con la remisión de la documentación correspondiente del Registro Provincial al Departamento de Catastro del Municipio."
+      },
+      {
+        "texto": "El Departamento de Catastro notifica al solicitante de la inscripción del inmueble y otorga la certificación en el título de propiedad."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Departamento Territorial",
+      "direccion": "Chiclana 453",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/catastro/proteccion-vivienda/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/tramites/catastro/proteccion-vivienda/",
+      "titulo": "Protección de la vivienda | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T20:23:34.026Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se solicita solicitar turno a escrituracionsocialmb@hotmail.com.",
+    "El Departamento de Catastro remite vía web la documentación al Registro de la Propiedad Inmueble de la Provincia de Buenos Aires.",
+    "El trámite culmina con la remisión de la documentación correspondiente del Registro Provincial al Departamento de Catastro del Municipio.",
+    "El Departamento de Catastro notifica al solicitante de la inscripción del inmueble y otorga la certificación en el título de propiedad.",
+    "Horario de atención: martes y jueves de 8.00 a 12.00 hs.",
+    "Dirección: Departamento Territorial, Chiclana 453.",
+    "Teléfono: 291-4594000 (int. 6044).",
+    "Vigencia: no especificada en el texto.",
+    "Turno: no se especifica cómo sacarlo ni cuál es la URL oficial."
+  ]
+}

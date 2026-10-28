@@ -1,0 +1,106 @@
+{
+  "tramite": {
+    "slug": "solicitar-certificado-de-haber-tope-de-general-de-brigada",
+    "nombre": "Solicitar certificado de haber tope de general de brigada",
+    "nombre_busqueda": "certificado haber tope general brigada",
+    "resumen": "Certifica el monto de Haber Tope de General de Brigada para retirados y pensionistas militares que perciben su beneficio a través del IAF. El trámite es gratuito y tarda 10 días.",
+    "sinonimos": [
+      "certificado haber tope general brigada",
+      "certificar haber tope brigada"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Retirados y pensionistas militares que perciban su beneficio a través del IAF."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del titular del beneficio.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate con la documentación requerida a la sede central del IAF, Cerrito 572 – CABA o las Delegaciones del Interior, en el horario de 08:00 a 13:00 horas."
+      },
+      {
+        "texto": "Comunicate a nuestro call center 0810-222-2423 en el horario de 08:00 a 15:00 horas y un operador te indicará cómo completar el trámite."
+      },
+      {
+        "texto": "Enviá la copia de la documentación requerida al Instituto de Ayuda Financiera - Cerrito 572 (C1010AAL) – Ciudad Autónoma de Buenos Aires."
+      },
+      {
+        "texto": "Ingresá con tu CUIL y contraseña en el portal eIAF Beneficiarios o en la App eIAF, dejenos tu solicitud en el apartado Sistema Integrado de Consultas y personal de Atención al Público te indicará los pasos a seguir para realizar el trámite."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "10 días",
+    "consejos": [
+      "El certificado estará listo a los 10 días de ingresada la Solicitud. Podés retirarlo personalmente o pedir envío por correo electrónico."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede central del IAF",
+      "direccion": "Cerrito 572",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-haber-tope-de-general-de-brigada"
+    },
+    {
+      "nombre": "Instituto de Ayuda Financiera",
+      "direccion": "Cerrito 572",
+      "localidad": "C1010AAL",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-haber-tope-de-general-de-brigada"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-haber-tope-de-general-de-brigada",
+      "titulo": "Solicitar certificado de Haber Tope de General de Brigada. | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T07:54:48.053Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/iaf",
+      "titulo": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares | Argentina.gob.ar",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T07:54:48.053Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T07:54:48.053Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si no estas registrado en el portal eIAF Beneficiarios o en la App eIAF, podés conocer cómo hacerlo en el siguiente instructivo: Conocé cómo registrarse"
+  ]
+}

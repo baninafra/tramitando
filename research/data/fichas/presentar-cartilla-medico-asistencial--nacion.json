@@ -1,0 +1,76 @@
+{
+  "tramite": {
+    "slug": "presentar-cartilla-medico-asistencial",
+    "nombre": "Presentar cartilla médico asistencial",
+    "nombre_busqueda": "Presentar cartilla médico asistencial",
+    "resumen": "Este trámite permite a las Obras Sociales Nacionales presentar anualmente la Cartilla Médicoasistencial con el listado de prestaciones, prestadores y normas de acceso. Es un proceso gratuito que se realiza en línea mediante la plataforma Trámites a Distancia.",
+    "sinonimos": [],
+    "temas": [
+      "obra-social-y-prepaga"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Obras Sociales Nacionales enmarcadas en la Ley 23.660 y Ley 23.661"
+    ],
+    "requisitos": [
+      {
+        "texto": "Archivo PDF de prestaciones básicas del Programa Médico Obligatorio acorde al Anexo I (Obligatorio)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Archivo PDF con la guía de procedimientos del Anexo II (Obligatorio)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Archivo Excel con los Anexos III guardado en el formato original y reemplazando XXXXXX por el Nº de RNOS de la OS (Obligatorio)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Archivo PDF con el Anexo IV, incluyendo el instructivo del procedimiento de acceso a la cobertura de discapacidad y el listado de prestadores (Obligatorio)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Descargá los Anexos I, II, III y IV que se encuentran a la derecha de la pantalla y generalos según lo indicado en ¿Qué Necesito?."
+      },
+      {
+        "texto": "Ingresá mediante la plataforma de Trámites A Distancia con usuario apoderado de la Entidad y cargá la documentación solicitada."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La presentación se debe realizar 90 días previos al comienzo del ejercicio económico según la Resolución 2165/2021 - SSSALUD."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/presentar-cartilla-medico-asistencial",
+      "titulo": "Presentar cartilla médico asistencial | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T00:35:49.017Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia del trámite no está especificada en el texto, solo se menciona que se debe realizar 90 días previos al comienzo del ejercicio económico."
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "tramite": {
+    "slug": "descargo-y-pago-de-infracciones-de-tramita-locales-y-de-radar",
+    "nombre": "Descargo y Pago de Infracciones de Tránsito Locales y de Radar",
+    "nombre_busqueda": "Descargo y Pago de Infracciones de Tránsito Locales y de Radar",
+    "resumen": "Para pagar multas o presentar descargos de infracciones de tránsito locales o de radar en Castelli, necesitás concurrir al Juzgado de Faltas con tu documentación y abonar los aranceles correspondientes.",
+    "sinonimos": [
+      "Pago de multas de tránsito Castelli",
+      "Descargo de infracciones radar Castelli"
+    ],
+    "temas": [
+      "infracciones-y-multas",
+      "transito-local"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060168",
+  "organismo": {
+    "nombre": "Juzgado de Faltas",
+    "sigla": null,
+    "web": "https://www.castelli.gob.ar/juzgado-de-faltas/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de infracciones o dueños de vehículos secuestrados.",
+      "Solicitantes de consulta de antecedentes por infracciones de tránsito locales o de ruta."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Carnet de Conducir.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título de conducir.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cédula Verde.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Seguro de responsabilidad civil.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Vehículo con VTV.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ser titular de la infracción.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI y todos los datos posibles de la persona a quien se le hace la exposición.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Correo postal certificado.",
+        "aclaracion": "Solo para enviar descargos por infracción de radar."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Concurrí al Juzgado de Faltas acompañado de tu documentación si tenés infracciones o un vehículo secuestrado."
+      },
+      {
+        "texto": "Si querés consultar antecedentes, dirigite munido de tu cédula verde y DNI."
+      },
+      {
+        "texto": "Si querés realizar una exposición civil, concurrí con tu DNI y brindá todos los datos posibles de la persona a quien se le hace la exposición."
+      },
+      {
+        "texto": "Si querés enviar un descargo por infracción de radar, hacelo por correo postal certificado."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Juzgado de Faltas",
+      "direccion": "Avenida 25 de Mayo 205",
+      "localidad": "Castelli",
+      "horario": null,
+      "fuente_url": "https://www.castelli.gob.ar/juzgado-de-faltas/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.castelli.gob.ar/juzgado-de-faltas/",
+      "titulo": "Juzgado de faltas – Municipalidad de Castelli",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T04:30:15.568Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los aranceles a abonar.",
+    "El plazo para realizar el pago o descargo."
+  ]
+}

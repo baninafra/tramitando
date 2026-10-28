@@ -1,0 +1,106 @@
+{
+  "tramite": {
+    "slug": "inscripcion-proveedor-municipal",
+    "nombre": "Inscripción como proveedor municipal",
+    "nombre_busqueda": "Inscripción como proveedor municipal",
+    "resumen": "Para inscribirse como proveedor en el municipio de Bolívar, necesitás presentar documentación fiscal y de habilitación municipal. El trámite se realiza en la Oficina de Compras.",
+    "sinonimos": [],
+    "temas": [
+      "proveedores-y-compras"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060105",
+  "organismo": {
+    "nombre": "Municipio de Bolívar",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas naturales o jurídicas que deseen prestar servicios al municipio."
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia de la constancia de inscripción en la AFIP.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de la constancia de inscripción en ARBA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Habilitación Municipal si correspondiere.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copias del Contrato Social y sus modificaciones autenticado (para Sociedades).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de Balance de último Ejercicio (para Sociedades).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de Acta de última Asamblea Ordinaria (para Sociedades).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de Nómina de los Administradores, Gerentes, Directores, etc, indicando fecha de terminación de mandato (para Sociedades).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de la inscripción en Personas Jurídicas (para Sociedades).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario 35: autorización de acreditación en cuenta bancaria.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario 33: instructivo para completar el formulario 33.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitud de Alta o Modificación en el Registro de Proveedores.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación original o fotocopiada en la Oficina de Compras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Compras",
+      "direccion": "Av. Belgrano 11 - PB 02314 - 427203/04 Int. 220",
+      "localidad": "Av. Belgrano 11 - PB 02314 - 427203/04 Int. 220",
+      "horario": null,
+      "fuente_url": "https://www.bolivar.gob.ar/guia-de-tramites/inscripcion-proveedor"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bolivar.gob.ar/guia-de-tramites/inscripcion-proveedor",
+      "titulo": "Inscripción como proveedor municipal, Bolívar Municipio",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T11:20:51.918Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se indica que se requiere documentación original o fotocopiada, pero no se especifica si se puede hacer el trámite exclusivamente online o si se requiere turno."
+  ]
+}

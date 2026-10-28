@@ -1,0 +1,102 @@
+{
+  "tramite": {
+    "slug": "certificado-de-vivienda-familiar",
+    "nombre": "Certificado de Vivienda Familiar",
+    "nombre_busqueda": "Certificado de Vivienda Familiar ReNaBaP",
+    "resumen": "Es un documento gratuito para familias en barrios populares que acredita el domicilio legal y permite acceder a servicios públicos y trámites administrativos.",
+    "sinonimos": [
+      "Certificado ReNaBaP",
+      "Certificado de Vivienda (ReNaBaP)"
+    ],
+    "temas": [
+      "vivienda-y-servicios-del-hogar"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANSES",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Familias que residen en un barrio popular y que ya fueron encuestadas en sus viviendas por el Registro Nacional de Barrios Populares (ReNaBaP).",
+      "Las familias que no hayan participado del Relevamiento Nacional de Barrios Populares (ReNaBaP) pueden solicitar ser encuestadas a través de mi ANSES o acercándose presencialmente a una oficina de dicho organismo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Ser encuestado/a en la vivienda.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Que haya una persona mayor de edad en el grupo familiar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contar con Clave Única de Identificación Laboral (CUIL).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a mi ANSES con tu CUIL y tu Clave de la Seguridad Social."
+      },
+      {
+        "texto": "Si no tenés Clave podés generarla en el momento."
+      },
+      {
+        "texto": "En el menú seleccioná 'Programas y beneficios' > 'Certificado de Vivienda (ReNaBaP)' y solicitá tu certificado en 'Acceso al Certificado de Vivienda'."
+      },
+      {
+        "texto": "Imprimí el certificado: una vez solicitado, podés comprobar si el mismo está disponible para su descarga en formato PDF o impresión."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a una oficina de ANSES, sin turno previo, para requerir la impresión del certificado, solicitar ser encuestado para obtener tu certificado, realizar modificaciones de datos si ya tenés el certificado o solicitar la transferencia del Certificado si comprás, vendés o intercambiás una vivienda."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si compras, vendes o intercambias una vivienda con Certificado de Vivienda Familiar, debés solicitar la transferencia del mismo."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-el-certificado-de-vivienda-familiar",
+      "titulo": "Solicitar el Certificado de Vivienda Familiar | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T08:28:40.569Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T08:28:40.569Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/cdn-cgi/content?id=ujVcFxsjH3_5yxAER3B.yYrZ4v_ZcW33EZSOG6S_mHU-1792995219.9071-1.2.1.1-n_P.DiAA2O6.fVkdz24AOcuVtmk6.jJnH8T14bgsiZU63t7xrV6GHdtqg7IJXkRb",
+      "titulo": "Meteorite Research: Unveiling the Secrets of the Cosmos",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T08:28:40.569Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite.",
+    "La dirección exacta de las oficinas de ANSES para la impresión o solicitud presencial."
+  ]
+}

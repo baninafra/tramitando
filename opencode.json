@@ -1,0 +1,13 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "model": "opencode/deepseek-v4.1-flash-free",
+  "instructions": ["AGENTS.md", "docs/arquitectura.md"],
+  "mcp": {
+    "mercadopago": { "type": "remote", "url": "https://mcp.mercadopago.com/mcp", "enabled": false }
+  },
+  "permission": {
+    "edit": "allow",
+    "bash": "allow",
+    "webfetch": "deny"
+  }
+}

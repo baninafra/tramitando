@@ -1,0 +1,170 @@
+{
+  "tramite": {
+    "slug": "habilitacion-de-dragados",
+    "nombre": "Habilitación de dragados",
+    "nombre_busqueda": "Habilitación de dragados",
+    "resumen": "Para autorizar trabajos de dragado, necesitás presentar un esquema documental integral que garantice el control técnico, operativo y ambiental durante todo el ciclo del proyecto.",
+    "sinonimos": [],
+    "temas": [
+      "servicios-urbanos-y-reclamos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Agencia Nacional de Puertos y Navegación",
+    "sigla": "ANPYN",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona humana o jurídica que cuente con DNI y deba realizar un trámite ante la Administración Pública Nacional siempre y cuando el trámite en particular no esté ya disponible en la plataforma TAD con sus requisitos específicos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Empresa a cargo de los trabajos. Incluye contrato con la misma.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Especificaciones técnicas y ambientales para la ejecución de la obra.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Equipamiento a utilizar: tipo de draga o dragas, potencia, producción diaria estimada, modalidad de operación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Relevamiento batimétrico de predragado del área a intervenir, incluyendo no menos de un (1) km aguas arriba y aguas debajo de los extremos de ésta, y desde costa a costa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planos en formato PDF en escala legible y en DWG.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos XYZ reducidos al hidrómetro de referencia del sitio de intervención, el que deberá estar consignado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Altura del río al momento de hacerse el levantamiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Coordenadas geográficas o Gauss- Krüger de los vértices de los sectores a ser dragados.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Delimitación gráfica de los sectores de intervención.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ancho y profundidad a alcanzar en el canal navegable.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Taludes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Volúmenes estimados de dragado, incluyendo el sobredragado técnico, precisando el mismo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Zonas de descarga seleccionadas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plazo estimado para la ejecución de las tareas de dragado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Aviso a la Autoridad Marítima correspondiente de la fecha estimada de inicio de los trabajos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comunicar sobre cualquier modificación que hubiera en relación con la intervención autorizada en los sectores originalmente informados.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Notificar de demoras que se podrían producir por distintos eventos (cuestiones hidrometeorológicas, movilización de la draga o las dragas por paso de convoyes de barcazas, etc.) que modifiquen el plazo estimado de obra.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Concluidos los trabajos, envío del relevamiento final de posdragado, con sus respectivos datos XYZ reducidos al hidrómetro de referencia, cubriendo el mismo tramo que para el de predragado y las áreas de descarga.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planos en formato PDF en escala legible y en DWG.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de la desmovilización de los equipos y limpieza final de obra.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Información del volumen efectivo total removido y volumen descargado en cada área de descarga.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotografías digitales de obra que den cuenta de la ejecución de la obra en sus distintas etapas.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá el trámite en TAD, haciendo click en el botón Iniciar trámite, ubicado del lado derecho de esta página."
+      },
+      {
+        "texto": "Indicá la modalidad de inicio de sesión en tad: anses, arca, dni o MI ARGENTINA."
+      },
+      {
+        "texto": "Completá el formulario con tus datos personales y hacé click en Continuar."
+      },
+      {
+        "texto": "Hacé click en Completar para indicar los datos del trámite."
+      },
+      {
+        "texto": "Indicá el motivo de la presentación."
+      },
+      {
+        "texto": "Donde dice Dependencia dónde presentará la solicitud, buscá la Agencia Nacional de Puertos y Navegación."
+      },
+      {
+        "texto": "En observaciones, colocá el siguiente texto: SE ENVÍA A ANPYN#mec - mesa general de entradas."
+      },
+      {
+        "texto": "Hacé click en Guardar para finalizar este paso."
+      },
+      {
+        "texto": "En Otra documentación, hacé click en Adjuntar para incluir toda la documentación requerida para el inicio del trámite (comenzar con una nota de solicitud)."
+      },
+      {
+        "texto": "Al confirmar la solicitud, se caratula un expediente que será enviado a la mesa de entradas del organismo que haya solicitado el usuario TAD."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/habilitacion-de-dragados",
+      "titulo": "Habilitación de dragados | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T15:48:22.374Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica un plazo de tiempo para la resolución del trámite ni menciona si se requiere turno para la presentación de la solicitud."
+  ]
+}

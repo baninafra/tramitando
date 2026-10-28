@@ -1,0 +1,125 @@
+{
+  "tramite": {
+    "slug": "presentar-formularios-de-opcion-de-cambio",
+    "nombre": "Presentar formularios de opción de cambio",
+    "nombre_busqueda": "Presentar formularios de opción de cambio",
+    "resumen": "Este trámite permite a las Obras Sociales Nacionales presentar semanalmente los formularios de opciones aprobados ante la Superintendencia de Servicios de Salud para asentar altas y bajas en los registros correspondientes.",
+    "sinonimos": [],
+    "temas": [
+      "obra-social-y-prepaga"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Servicios de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Obras Sociales Nacionales inscriptas en la Superintendencia de Servicios de Salud"
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario completo de Opción de Cambio (Resolución Nº 1240/2009 - SSSALUD), rubricado por el beneficiario y con certificación de firma",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de elevación firmada por autoridad reconocida",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de información",
+        "aclaracion": null
+      },
+      {
+        "texto": "Listados de exportación",
+        "aclaracion": null
+      },
+      {
+        "texto": "Recibo provisorio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de recepción de la Cartilla médico-asistencial",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del último recibo de haberes o pago de monotributo o pago de servicio doméstico, según corresponda",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Depositar el archivo en la carpeta normal y habitual del FTP"
+      },
+      {
+        "texto": "Enviar un mail a la casilla [email protected], adjuntando la constancia de exportación que emite el sistema"
+      },
+      {
+        "texto": "Deberán aguardar a que se les remita el recibo provisorio para volver a repetir el procedimiento con una nueva presentación"
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Solicitar turno en línea con usuario de Mi Argentina o creando tu cuenta, para realizar la presentación personal de la documentación solicitada"
+      },
+      {
+        "texto": "Presentar la documentación el día y horario seleccionado en el turno solicitado, en la sede de la Superintendencia (Bartolomé Mitre 434 - Planta Baja - CABA - C1036AAH)"
+      },
+      {
+        "texto": "Cabe recordar que, en virtud de lo dispuesto por el decreto 298/2020, se encuentran suspendidos los plazos administrativos, es decir, la presentación de los formularios físicos aún no tiene fecha de vencimiento. Por ello, solo se aceptarán las presentaciones de los formularios que coincidan exactamente con las que se cargaron previamente por FTP"
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Cabe recordar que, en virtud de lo dispuesto por el decreto 298/2020, se encuentran suspendidos los plazos administrativos, es decir, la presentación de los formularios físicos aún no tiene fecha de vencimiento. Por ello, solo se aceptarán las presentaciones de los formularios que coincidan exactam…"
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede de la Superintendencia",
+      "direccion": "Bartolomé Mitre 434",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/presentar-formularios-de-opcion-de-cambio"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/presentar-formularios-de-opcion-de-cambio",
+      "titulo": "Presentar formularios de Opción de Cambio | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T07:45:35.418Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T07:45:35.418Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La URL del turno no se especifica en el texto, solo se indica que se debe solicitar en línea con usuario de Mi Argentina o creando tu cuenta."
+  ]
+}

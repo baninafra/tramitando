@@ -1,0 +1,86 @@
+{
+  "tramite": {
+    "slug": "determinacion-de-linea-municipal",
+    "nombre": "Determinación de línea municipal",
+    "nombre_busqueda": "Determinación de línea municipal",
+    "resumen": "Trámite para profesionales que deben tomar como referencia la línea municipal al proyectar obras de servicio público. Requiere certificado de deslinde y pago de tasas según la ordenanza vigente.",
+    "sinonimos": [],
+    "temas": [
+      "catastro-e-inmuebles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Profesionales que proyecten una obra de servicio público."
+    ],
+    "requisitos": [
+      {
+        "texto": "Certificado de deslinde y amojonamiento confeccionado por un Agrimensor.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Aboná los conceptos estipulados por el Art. 29 de la Ordenanza Impositiva vigente."
+      },
+      {
+        "texto": "Presentá una nota dirigida al Sr. Intendente en la Mesa de Entradas del Municipio, Alsina 65, junto con la documentación requerida."
+      },
+      {
+        "texto": "Esperá la notificación con el sellado correspondiente para abonar y agregarlo al expediente."
+      },
+      {
+        "texto": "Recibí la notificación al solicitante con el sellado correspondiente."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Departamento Territorial",
+      "direccion": "Chiclana 453",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/catastro/determinacion-linea-municipal/"
+    },
+    {
+      "nombre": "Mesa de Entradas",
+      "direccion": "Alsina 65",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/catastro/determinacion-linea-municipal/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/tramites/catastro/determinacion-linea-municipal/",
+      "titulo": "Determinación línea municipal | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T20:45:40.346Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los montos exactos de las tasas no se especifican en el texto, solo se indica que varían según la obra.",
+    "No se indica si el trámite requiere turno."
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "tramite": {
+    "slug": "boletas-y-vencimientos",
+    "nombre": "Consulta de calendario de vencimientos de tasas",
+    "nombre_busqueda": "Calendario de vencimientos de tasas",
+    "resumen": "Consultá el calendario oficial de vencimientos de las cuotas de las tasas municipales para el mes de octubre 2026.",
+    "sinonimos": [
+      "Calendario de vencimientos de tasas",
+      "Cuotas de tasas vencimiento",
+      "Vencimiento tasas municipales"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "boletas-y-vencimientos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060266",
+  "organismo": {
+    "nombre": "Municipalidad de Exaltación de la Cruz",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Contribuyentes de la Municipalidad de Exaltación de la Cruz"
+    ],
+    "requisitos": [
+      {
+        "texto": "Acceso a la página del calendario de vencimientos",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Acercate al sitio web de la Municipalidad de Exaltación de la Cruz."
+      },
+      {
+        "texto": "Buscate la sección de Calendario de Vencimientos."
+      },
+      {
+        "texto": "Seleccionate el mes de octubre 2026."
+      },
+      {
+        "texto": "Consultate la lista de vencimientos de las cuotas."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.exaltaciondelacruz.gob.ar/?page_id=1167",
+      "titulo": "Calendario de Vencimientos – Exaltación de la Cruz",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T12:57:13.607Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos adicionales más allá del acceso a la página web."
+  ]
+}

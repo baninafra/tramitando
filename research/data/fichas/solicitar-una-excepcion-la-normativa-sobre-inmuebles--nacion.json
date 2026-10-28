@@ -1,0 +1,90 @@
+{
+  "tramite": {
+    "slug": "solicitar-excepcion-normativa-inmuebles",
+    "nombre": "Solicitar una excepción a la normativa sobre inmuebles",
+    "nombre_busqueda": "Excepción normativa inmuebles SSN",
+    "resumen": "Las aseguradoras pueden pedir excepciones a normas de inmuebles ante la Superintendencia de Seguros de la Nación sin costo. El trámite se hace online con clave fiscal y firma digital.",
+    "sinonimos": [
+      "Excepción RGAA inmuebles",
+      "Solicitud excepción normativa aseguradoras"
+    ],
+    "temas": [
+      "catastro-e-inmuebles",
+      "tasa-inmobiliaria-y-servicios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Seguros de la Nación",
+    "sigla": "SSN",
+    "web": "https://www.argentina.gob.ar/servicio/solicitar-una-excepcion-la-normativa-sobre-inmuebles"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Entidades aseguradoras y/o reaseguradoras"
+    ],
+    "requisitos": [
+      {
+        "texto": "Usuario de acceso a Trámites a Distancia (TAD) con clave fiscal",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota con la solicitud de excepción firmada por el presidente o apoderado legal, después del apoderado TAD en AFIP",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación respaldatoria adicional (opcional)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD con clave fiscal y operá como apoderado de la entidad representada."
+      },
+      {
+        "texto": "Completá el formulario de Pedido de Excepción a Normativa sobre Inmuebles."
+      },
+      {
+        "texto": "Adjuntá la documentación respaldatoria si querés agregar algún documento adicional."
+      },
+      {
+        "texto": "Establecé los firmantes del trámite."
+      },
+      {
+        "texto": "Firmá el presidente o apoderado legal y el apoderado TAD en AFIP a través de TAD."
+      },
+      {
+        "texto": "Confirmá el trámite."
+      },
+      {
+        "texto": "Esperá la respuesta del Organismo en el sistema de Gestión Documental Electrónico (GDE) con el Nº de expediente."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-una-excepcion-la-normativa-sobre-inmuebles",
+      "titulo": "Solicitar una excepción a la normativa sobre inmuebles | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T17:04:02.018Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Plazo de respuesta del Organismo",
+    "Dirección de oficinas para consultas presenciales"
+  ]
+}

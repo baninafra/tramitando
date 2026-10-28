@@ -1,0 +1,98 @@
+{
+  "tramite": {
+    "slug": "autorizar-emision-de-comprobantes-clase",
+    "nombre": "Autorizar emisión de comprobantes clase A",
+    "nombre_busqueda": "Autorizar emisión de comprobantes clase A",
+    "resumen": "Para emitir comprobantes clase A debés acreditar requisitos de bienes personales, ganancias o inmuebles. El trámite es gratuito y se realiza presencialmente en la dependencia de ARCA donde estás inscripto.",
+    "sinonimos": [
+      "Autorizar emisión de comprobantes clase A",
+      "Autorizar emisión de comprobantes clase A presencial"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración Federal de Ingresos Públicos",
+    "sigla": "AFIP",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A las personas físicas o jurídicas que, como responsables inscriptos en el IVA, efectúen operaciones con otros responsables inscriptos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Presentación de declaración jurada del impuesto sobre los bienes personales por un importe igual o superior a 305000.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentación de declaración jurada del impuesto a la ganancia mínima presunta por un importe igual o superior a 200000.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Titularidad o participación en la titularidad de bienes inmuebles y/o automotores por un valor igual o superior a 150000.",
+        "aclaracion": "Salvo que los hayas comprado hasta el día 19 de octubre de 2003 inclusive, en cuyo caso el límite se reduce a 50000."
+      },
+      {
+        "texto": "Formulario N° 855 por duplicado (para personas físicas y sucesiones indivisas).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario N° 856 por duplicado (para personas jurídicas).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario N° 856/A por duplicado (para sociedades de personas).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario N° 856/B por duplicado (para otras entidades).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de Clave Bancaria Uniforme (CBU) emitida por la entidad bancaria (para comprobantes A con leyenda).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá en la dependencia de ARCA en la que te encontrás inscripto el o los formularios que se ajustan a tu caso, por duplicado."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/autorizar-emision-de-comprobantes-clase",
+      "titulo": "Autorizar emisión de comprobantes clase A | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T15:14:55.278Z"
+    },
+    {
+      "url": "https://servicioscf.afip.gob.ar/formularios-app/",
+      "titulo": "Formularios | ARCA",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T15:14:55.278Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de la dependencia de ARCA donde se realiza el trámite."
+  ]
+}

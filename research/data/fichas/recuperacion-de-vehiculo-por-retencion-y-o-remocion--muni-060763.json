@@ -1,0 +1,97 @@
+{
+  "tramite": {
+    "slug": "recuperacion-de-vehiculo-por-retencion-y-o-remocion",
+    "nombre": "Recuperación de vehículo por retención y/o remoción",
+    "nombre_busqueda": "Recuperar vehículo retenido",
+    "resumen": "Trámite online para recuperar un vehículo retenido por control de tránsito o removido por mal estacionamiento. Se gestiona vía WhatsApp y se retira en oficina.",
+    "sinonimos": [
+      "Recuperación de vehículo retenido",
+      "Recuperación de vehículo removido"
+    ],
+    "temas": [
+      "juzgado-de-faltas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060763",
+  "organismo": {
+    "nombre": "Juzgado de Faltas",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares del vehículo",
+      "No titulares (con documentación adicional)"
+    ],
+    "requisitos": [
+      {
+        "texto": "Imagen de frente y reverso del DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Imagen de frente y reverso de Licencia de conducir",
+        "aclaracion": null
+      },
+      {
+        "texto": "Imagen de frente y reverso de Tarjeta verde",
+        "aclaracion": null
+      },
+      {
+        "texto": "Imagen de frente y reverso de seguro vigente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario 08 certificado ante Escribano y/o Registro del Automotor",
+        "aclaracion": "Solo si no sos titular"
+      },
+      {
+        "texto": "Imagen DNI del titular",
+        "aclaracion": "Solo si no sos titular"
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Agendá en tu celular el teléfono 336 428 4703."
+      },
+      {
+        "texto": "Escribí un mensaje de WhatsApp con la palabra 'Hola' y seguí las instrucciones."
+      },
+      {
+        "texto": "Seleccioná la opción 'Infracciones vehiculares'."
+      },
+      {
+        "texto": "Seleccioná la opción 'Secuestros' y serás derivado con un operador en línea que te solicitará la documentación pertinente y remitirá boleta de pago."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Dirijite a Corrientes 60 para retirar tu vehículo."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.sannicolasciudad.gob.ar/tramites/juzgado-de-faltas/recuperacion-de-vehiculo-por-retencion-y-o-remocion",
+      "titulo": "Recuperación de vehículo por retención y/o remoción | Juzgado de faltas | Trámites | San Nicolás Ciudad",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T15:09:17.659Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horarios de atención",
+    "Costo del trámite",
+    "Vigencia del trámite"
+  ]
+}

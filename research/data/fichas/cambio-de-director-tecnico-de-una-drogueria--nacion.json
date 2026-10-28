@@ -1,0 +1,79 @@
+{
+  "tramite": {
+    "slug": "cambio-de-director-tecnico-de-una-drogueria",
+    "nombre": "Cambio de director técnico de una droguería",
+    "nombre_busqueda": "cambio de director técnico droguería",
+    "resumen": "Es el trámite por el cual se autoriza el cambio en la Dirección Técnica de una Droguería. Es gratuito y se realiza en línea.",
+    "sinonimos": [],
+    "temas": [
+      "habilitacion-comercial",
+      "cambios-y-baja-de-habilitacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titular del Establecimiento"
+    ],
+    "requisitos": [
+      {
+        "texto": "Completar formulario de solicitud online en TAD",
+        "aclaracion": null
+      },
+      {
+        "texto": "Disposición de Habilitación del Establecimiento",
+        "aclaracion": null
+      },
+      {
+        "texto": "Disposición de alta del Director Técnico actual",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia que acredite el cese en el cargo del Director Técnico saliente (Telegrama de renuncia o despido, Certificado de Defunción, Otros)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de la libre regencia del Director Técnico, solicitado ante el Ministerio de Salud de la Provincia de Buenos Aires o ante la Autoridad Sanitaria de la jurisdicción que corresponda",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar al TAD, con número de CUIT y clave fiscal, y elegí el trámite requerido"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Para hacer el Trámite a Distancia (TAD) se recomienda ingresar a la página desde una CPU a través del Mozilla Firefox o el Google Chrome, no mediante celulares u otros dispositivos móviles porque se han detectado inconvenientes"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/cambio-de-director-tecnico-de-una-drogueria",
+      "titulo": "Cambio de director técnico de una droguería | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:52:55.085Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Vigencia: Hasta que se realice un nuevo cambio de la Dirección Técnica"
+  ]
+}

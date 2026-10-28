@@ -1,0 +1,112 @@
+{
+  "tramite": {
+    "slug": "solicitar-la-pension-no-contributiva-por-invalidez-laboral",
+    "nombre": "Solicitar la pensión no contributiva por invalidez laboral",
+    "nombre_busqueda": "solicitar pension no contributiva invalidez laboral",
+    "resumen": "Esta pensión está destinada a las personas que no pueden trabajar por razones de salud y se encuentran en situación de vulnerabilidad social. Es gratuita y requiere un turno previo.",
+    "sinonimos": [
+      "pensión no contributiva por invalidez",
+      "pensión por invalidez laboral"
+    ],
+    "temas": [
+      "pensiones-no-contributivas-por-invalidez"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANSES",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Ser argentino nativo, o naturalizado, residente en el país.",
+      "Si sos extranjero, deberás acreditar una residencia mínima continuada en el país de 10 años.",
+      "En el caso de solicitantes menores de edad, el requisito se probará mediante la residencia mínima continuada en el país de 3 años por parte de sus padres o tutores.",
+      "Tener menos de 65 años de edad.",
+      "No estar recibiendo una jubilación o pensión.",
+      "Se evaluarán los ingresos de tu grupo familiar si sos menor de edad.",
+      "En ese caso, los ingresos de tu padre, madre o tutor no podrán ser superiores a 4 jubilaciones mínimas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Antes de iniciar este trámite tenés que contar con el Certificado Médico Oficial (CMO) que se obtiene en los hospitales públicos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informe catastral con sello del organismo emisor a tu nombre o de tu cónyuge/conviviente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si tenés menos de 18 años, ese informe debe estar a nombre de tus padres o tutor (este requisito es válido solo si vivís en Santiago del Estero, Santa Cruz, San Luis, La Pampa, Neuquén o Tierra del Fuego).",
+        "aclaracion": null
+      },
+      {
+        "texto": "La Pensión No Contributiva por Invalidez Laboral es incompatible con cualquier tipo de relación laboral, ya sea en relación de dependencia, en forma autónoma o como monotributista del régimen general (podés ser monotributista social).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tené en cuenta que si estás cobrando la Asignación Universal por Hijo o la Asignación por Embarazo, en el caso de que se otorgue esta pensión dejarás de percibirlas y en su lugar podrás cobrar la Asignación Familiar por Hijo o Asignación por Prenatal, según corresponda.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a mi ANSES con tu CUIL y Clave de la Seguridad Social."
+      },
+      {
+        "texto": "Revisá que tus datos personales y los de tu grupo familiar estén actualizados."
+      },
+      {
+        "texto": "Si no tenés clave podés crearla en el momento."
+      },
+      {
+        "texto": "En el menú de mi ANSES seleccioná Solicitud de Prestaciones > Pensión No Contributiva por Invalidez Laboral y seguí los pasos."
+      },
+      {
+        "texto": "Una vez iniciada la pensión podrás realizar el seguimiento y otras gestiones a través de mi ANSES o la app."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Con turno previo, podés presentar la documentación correspondiente en ANSES."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "En marzo de 2025 el Ministerio de Salud junto con la Agencia Nacional de Discapacidad (ANDIS) y PAMI, inició el proceso de auditoría de estas pensiones. Este proceso no aplica para menores y personas auditadas en 2024.",
+      "Si recibiste la carta documento de ANDIS y ya hiciste el control médico en PAMI, podés presentar la documentación correspondiente en ANSES con turno previo."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de ANDIS",
+      "direccion": "Hipólito Yrigoyen 1447",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-la-pension-no-contributiva-por-invalidez-laboral"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-pension-no-contributiva-por-invalidez-laboral",
+      "titulo": "Solicitar la Pensión No Contributiva por Invalidez Laboral | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T09:47:36.766Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto de la prestación equivale al 70% de una jubilación mínima.",
+    "La vigencia exacta no está confirmada en el texto."
+  ]
+}

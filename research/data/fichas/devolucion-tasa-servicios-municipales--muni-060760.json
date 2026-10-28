@@ -1,0 +1,98 @@
+{
+  "tramite": {
+    "slug": "devolucion-tasa-servicios-municipales",
+    "nombre": "Devolución tasa servicios municipales",
+    "nombre_busqueda": "Devolución tasa servicios municipales",
+    "resumen": "Solicitá la devolución de un pago duplicado o equivocado de TSM.",
+    "sinonimos": [],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "tasa-inmobiliaria-y-servicios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060760",
+  "organismo": {
+    "nombre": "Municipalidad San Miguel",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El titular"
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de inmueble",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobantes de pago",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditación de titularidad",
+        "aclaracion": null
+      },
+      {
+        "texto": "CBU",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciar Trámite"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.msm.gov.ar/guia-tramites/economia-finanzas/devolucion-tasa-servicios-municipales/",
+      "titulo": "Devolución Tasa Servicios Municipales - Municipalidad San Miguel",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "costo",
+        "donde",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T13:19:42.532Z"
+    },
+    {
+      "url": "https://www.msm.gov.ar/",
+      "titulo": "Municipalidad San Miguel -",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T13:19:42.532Z"
+    },
+    {
+      "url": "https://digital.msm.gov.ar/",
+      "titulo": "San Miguel Digital | Servicios, trámites y pagos municipales",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T13:19:42.532Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El respaldo legal es la Ordenanza Tarifaria y Fiscal.",
+    "Hay una observación importante que deba tener en cuenta.",
+    "Los feriados no se recolectan reciclables.",
+    "La atención es de lunes a sábados hábiles.",
+    "No se especifica el plazo de resolución.",
+    "No se especifican los horarios de atención digital."
+  ]
+}

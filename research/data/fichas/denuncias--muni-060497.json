@@ -1,0 +1,81 @@
+{
+  "tramite": {
+    "slug": "denuncias-anonimas-y-policiales",
+    "nombre": "Buzón de denuncias anónimas por comercialización de drogas y estupefacientes",
+    "nombre_busqueda": "Denunciar venta de drogas anónima",
+    "resumen": "El buzón permite realizar denuncias anónimas sobre la venta de drogas y estupefacientes en la ciudad de Luján.",
+    "sinonimos": [
+      "Denuncia anónima drogas Luján",
+      "Reportar venta de estupefacientes"
+    ],
+    "temas": [
+      "denuncias-anonimas-y-policiales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060497",
+  "organismo": {
+    "nombre": "Municipalidad de Luján",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que desee realizar una denuncia."
+    ],
+    "requisitos": [
+      {
+        "texto": "Asunto",
+        "aclaracion": null
+      },
+      {
+        "texto": "Teléfono (opcional)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descripción de la denuncia",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Escribí el asunto de la denuncia con al menos 5 caracteres."
+      },
+      {
+        "texto": "Opcionalmente, ingresá tu teléfono."
+      },
+      {
+        "texto": "Escribí la descripción de la denuncia con al menos 20 caracteres."
+      },
+      {
+        "texto": "Confirmá que la información será tratada con estricta confidencialidad."
+      },
+      {
+        "texto": "Hacé clic en Enviar."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.lujan.gob.ar/denuncias.php",
+      "titulo": "Municipalidad de Luján",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T15:09:53.699Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos adicionales ni aclaraciones especiales."
+  ]
+}

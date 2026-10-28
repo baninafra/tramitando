@@ -1,0 +1,110 @@
+{
+  "tramite": {
+    "slug": "certificado-libre-disponibilidad-automotor-instituciones",
+    "nombre": "Certificado de libre disponibilidad del automotor para instituciones",
+    "nombre_busqueda": "Certificado de libre disponibilidad automotor instituciones",
+    "resumen": "Documento para liberar un vehículo con franquicia impositiva adquirido por una institución, tras 30 meses (nacional) o 48 meses (importado), o en caso de robo/hurto/siniestro total.",
+    "sinonimos": [
+      "Certificado Libre Disponibilidad Automotor",
+      "Certificado Libre Disponibilidad Vehículo Instituciones"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Agencia Nacional de Discapacidad",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Instituciones que hayan adquirido un vehículo con franquicia impositiva."
+    ],
+    "requisitos": [
+      {
+        "texto": "Declaración jurada completada online en la plataforma TAD con apoderamiento de la persona física que llevará a cabo el trámite, indicando que actúa en representación de la Institución u Organismo Gubernamental.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota suscripta por la máxima autoridad de la institución u organismo gubernamental, solicitando la libre disponibilidad del automotor y indicando el trámite a realizar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta de designación de la máxima autoridad vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento Nacional de Identidad (anverso y reverso) de la autoridad mencionada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Verificación policial del automotor Formulario 12D realizada exclusivamente por el chofer autorizado a conducir el rodado por Disposición y/o Resolución de la Agencia Nacional de Discapacidad (o a nombre de la Institución/Municipalidad).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título del automotor en el cual conste la leyenda prevista por los artículos 5° y 9° de la Ley N° 19.279.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta de Aprobación de la Rendición de Cuentas del subsidio oportunamente otorgado (en caso de que el vehículo haya sido adquirido con fondos provenientes de la ex CONADIS o del Comité Coordinador de Programas para Personas con Discapacidad, Ley Nº 25.730).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de Inscripción en la inspección general de justicia (igj) en caso de corresponder, actualizada a la fecha de presentación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de robo, hurto o siniestro: Denuncia policial de donde surja el relato de los hechos que lo motivaron.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de robo, hurto o siniestro: Póliza de seguros vigente al momento de producirse el hecho.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de robo, hurto o siniestro: Nota emanada de la compañía aseguradora donde certifique que el siniestro produjo la destrucción total del vehículo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al trámite en la plataforma de Trámites a Distancia (TAD) y seleccioná la opción Iniciar trámite: AFIP (vas a necesitar el CUIT de la institución y la Clave Fiscal)."
+      },
+      {
+        "texto": "Completá los datos y adjuntá la documentación que solicita el TAD."
+      },
+      {
+        "texto": "Recibirás las notificaciones para continuar con el trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "30 días hábiles",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/certificado-de-libre-disponibilidad-del-automotor-para-instituciones",
+      "titulo": "Certificado de Libre Disponibilidad del Automotor para Instituciones | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:38:56.181Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del certificado no tiene fecha de caducidad."
+  ]
+}

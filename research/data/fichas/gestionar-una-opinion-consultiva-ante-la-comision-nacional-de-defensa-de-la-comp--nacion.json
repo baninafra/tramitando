@@ -1,0 +1,125 @@
+{
+  "tramite": {
+    "slug": "gestionar-opinion-consultiva-cndc",
+    "nombre": "Gestionar una opinión consultiva ante la CNDC",
+    "nombre_busqueda": "Opinión consultiva CNDC",
+    "resumen": "Consultá si tu operación económica está exenta de notificación ante la Comisión Nacional de Defensa de la Competencia de forma gratuita y en línea.",
+    "sinonimos": [
+      "Opinión consultiva CNDC",
+      "Consulta CNDC",
+      "Opinión de la CNDC"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Comisión Nacional de Defensa de la Competencia",
+    "sigla": "CNDC",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona física o jurídica que necesite la opinión de la Comisión Nacional de Defensa de la Competencia, respecto de un acto jurídico.",
+      "Ser argentino o extranjero residente en el país.",
+      "Ser mayor de 18 años.",
+      "Tener CUIT y clave fiscal nivel 3 en AFIP.",
+      "Contar con Trámites a Distancia (TAD) asociado a AFIP.",
+      "Constituir domicilio en el radio de la Ciudad Autónoma de Buenos Aires.",
+      "Acreditar representación y/o personería.",
+      "Estar registrado en el Registro Único de la Matriz Productiva (RUMP)."
+    ],
+    "requisitos": [
+      {
+        "texto": "Poderes",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentos de identidad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cuadros, organigramas y/o diagramas de organización",
+        "aclaracion": null
+      },
+      {
+        "texto": "Organigrama pre y post transacción",
+        "aclaracion": null
+      },
+      {
+        "texto": "Empresas intervinientes y empresas bajo control (directo e indirecto) con act. eco. en Argentina",
+        "aclaracion": null
+      },
+      {
+        "texto": "Versión definitiva del documento con la operación, con fecha de cierre",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acuerdos de accionistas suscriptos entre diferentes personas involucradas en la operación",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estados de Resultados/Contables",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD con tu CUIT como apoderado y clave fiscal nivel 3 o superior."
+      },
+      {
+        "texto": "Buscá el trámite Opiniones Consultivas - OPI y completá el formulario con los datos correspondientes."
+      },
+      {
+        "texto": "Adjuntá la documentación solicitada según se te requiera."
+      },
+      {
+        "texto": "Confirmá la iniciación del trámite generando el expediente correspondiente a la operación notificada."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Una vez realizada esta 'opinión consultiva' no podrá apelarse."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/gestionar-una-opinion-consultiva-ante-la-comision-nacional-de-defensa-de-la-competencia",
+      "titulo": "Gestionar una opinión consultiva ante la Comisión Nacional de Defensa de la Competencia | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T15:46:49.869Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T15:46:49.869Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/",
+      "titulo": "Inicio | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T15:46:49.869Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite.",
+    "El plazo de respuesta de la CNDC."
+  ]
+}

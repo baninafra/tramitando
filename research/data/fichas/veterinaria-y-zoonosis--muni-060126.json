@@ -1,0 +1,91 @@
+{
+  "tramite": {
+    "slug": "castraciones-y-vacunas",
+    "nombre": "Castración y vacunación antirrábica",
+    "nombre_busqueda": "Castración y vacunación mascotas Campana",
+    "resumen": "La municipalidad ofrece quirófano móvil para castraciones y vacunas antirrábicas gratuitas. Se requiere DNI con domicilio en Campana y solicitar turno por teléfono.",
+    "sinonimos": [
+      "Castración y vacunación mascotas",
+      "Vacunación antirrábica mascotas",
+      "Quirófano móvil veterinario"
+    ],
+    "temas": [
+      "animales-y-zoonosis",
+      "castraciones-y-vacunas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060126",
+  "organismo": {
+    "nombre": "Municipalidad de Campana",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Vecinos con domicilio en Campana"
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI con domicilio en Campana",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Comunicate al 407403 de lunes a viernes de 9 a 12 para solicitar turno."
+      },
+      {
+        "texto": "Acudí al lugar de atención indicado en el aviso del barrio."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Para vacunación los animales deberán tener más de tres meses."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Zoonosis",
+      "direccion": "Juan B. Alberdi 1380",
+      "localidad": "Juan B. Alberdi 1380",
+      "horario": null,
+      "fuente_url": "https://www.campana.gob.ar/veterinaria-y-zoonosis/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.campana.gob.ar/veterinaria-y-zoonosis/",
+      "titulo": "Veterinaria y Zoonosis – Municipalidad de Campana",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T11:52:25.099Z"
+    },
+    {
+      "url": "https://www.campana.gob.ar/turnos/",
+      "titulo": "Turnos, reclamos y solicitudes – Municipalidad de Campana",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T11:52:25.099Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horarios de atención en el quirófano móvil",
+    "Barrios a los que se traslada el quirófano móvil",
+    "Dirección exacta de atención para quienes no tengan domicilio en Campana"
+  ]
+}

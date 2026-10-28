@@ -1,0 +1,81 @@
+{
+  "tramite": {
+    "slug": "subsidios-a-los-servicios-publicos",
+    "nombre": "Consulta por la prestación del servicio de gas",
+    "nombre_busqueda": "Consulta prestacion servicio gas",
+    "resumen": "Podés consultar al ENARGAS sobre la prestación del servicio de gas de forma gratuita, ya sea en línea, presencialmente o por teléfono.",
+    "sinonimos": [
+      "Consulta ENARGAS gas",
+      "Información prestación servicio gas"
+    ],
+    "temas": [
+      "subsidios-a-los-servicios-publicos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ente Nacional Regulador del Gas",
+    "sigla": "ENARGAS",
+    "web": "https://www.argentina.gob.ar/enargas"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Clientes y usuarios"
+    ],
+    "requisitos": [
+      {
+        "texto": "Cuenta de correo electrónico",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Accedé a la Sede Central en Suipacha 636 o a la Sede más próxima a tu domicilio"
+      },
+      {
+        "texto": "Accedé durante los días hábiles de 10 a 16 h"
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La consulta es todo contacto que no resulte reclamo, es decir que sólo contiene un requerimiento de información o aclaración sobre las condiciones o normas para la prestación del servicio de gas, sus empresas prestadoras o el ENARGAS mismo"
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central",
+      "direccion": "Suipacha 636",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/consulta-por-la-prestacion-del-servicio-de-gas"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consulta-por-la-prestacion-del-servicio-de-gas",
+      "titulo": "Consulta por la prestación del servicio de gas | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T15:09:30.833Z"
+    }
+  ],
+  "sin_confirmar": [
+    "horario telefónico y por fax",
+    "dirección de correo postal",
+    "horario de atención telefónica y por fax",
+    "horario de atención presencial"
+  ]
+}

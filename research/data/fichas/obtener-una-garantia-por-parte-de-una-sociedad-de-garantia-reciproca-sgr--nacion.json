@@ -1,0 +1,84 @@
+{
+  "tramite": {
+    "slug": "obtener-garantia-sgr",
+    "nombre": "Obtener una garantía por parte de una SGR",
+    "nombre_busqueda": "Obtener garantía SGR MiPyME",
+    "resumen": "Si formás parte de una MiPyME, podés solicitar una garantía ante una Sociedad de Garantía Recíproca para mejorar tus condiciones crediticias y acceder a financiamiento con mejores tasas.",
+    "sinonimos": [
+      "Garantía SGR",
+      "Garantía MiPyME",
+      "Garantía Sociedad de Garantía Recíproca"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "MiPyMEs que tengan un Certificado MiPyME vigente."
+    ],
+    "requisitos": [
+      {
+        "texto": "Certificado PyME vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación societaria y contable de tu Sociedad y/o actividad comercial a la que te dediques, presentada vía Legajo Único Financiero y Económico (LUFE).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Comunicate con alguna de las Sociedades de Garantía Recíproca habilitadas y solicitá una garantía."
+      },
+      {
+        "texto": "Presentá el Certificado PyME vigente."
+      },
+      {
+        "texto": "Presentá la documentación societaria y contable de tu Sociedad y/o actividad comercial a la que te dediques, la cual puede ser presentada vía Legajo Único Financiero y Económico (LUFE)."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Recibí la garantía de una SGR y presentala ante entidades financieras, mercado de capitales, organismos públicos y/o proveedores."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-una-garantia-por-parte-de-una-sociedad-de-garantia-reciproca-sgr",
+      "titulo": "Obtener una garantía por parte de una Sociedad de Garantía Recíproca (SGR) | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T07:11:02.871Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T07:11:02.871Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia de la normativa (Ley 24.467, Decreto 699/2018, Resolución 21/21, Resolución 8/2024) no está especificada con precisión en el texto.",
+    "El monto de la garantía o los costos asociados no se mencionan en el texto."
+  ]
+}

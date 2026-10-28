@@ -1,0 +1,16 @@
+<!-- @dsCard group="Estado" height=96 subtitle="Verificado, en revisión, sin datos" -->
+<link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  body { margin: 0; background: var(--fondo); font-family: var(--font-sans); }
+  .fila { display: flex; flex-wrap: wrap; gap: var(--espacio-3); padding: var(--espacio-5); }
+  .sello { display: inline-flex; align-items: center; gap: 6px; font: 500 13px/18px var(--font-sans); padding: var(--espacio-1) var(--espacio-3) var(--espacio-1) var(--espacio-2); border-radius: var(--radio-pildora); border: 1px solid transparent; }
+  .ok { background: var(--verificado-fondo); color: var(--verificado); }
+  .rev { background: var(--aviso-fondo); color: var(--aviso); }
+  .sin { background: var(--superficie); color: var(--tinta-2); border-color: var(--borde); }
+  svg { width: 16px; height: 16px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+</style>
+<div class="fila">
+  <span class="sello ok"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="m8 12 3 3 5-6"/></svg>Verificado el 14/10/2026</span>
+  <span class="sello rev"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M12 7v5l3 2"/></svg>Puede estar desactualizado</span>
+  <span class="sello sin"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 12h8"/></svg>Sin datos de tu municipio</span>
+</div>

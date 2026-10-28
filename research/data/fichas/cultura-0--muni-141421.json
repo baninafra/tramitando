@@ -1,0 +1,114 @@
+{
+  "tramite": {
+    "slug": "visacion-de-planos-de-obra",
+    "nombre": "Visación de planos de obra",
+    "nombre_busqueda": "Visación de planos de obra",
+    "resumen": "Trámite para visación previa y definitiva de planos de obra privada en la Municipalidad de Almafuerte, que requiere presentación de planos, notas de conformidad y pago de aranceles.",
+    "sinonimos": [
+      "Visación de planos",
+      "Visado de planos",
+      "Planos de obra"
+    ],
+    "temas": [
+      "obras-y-construccion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141421",
+  "organismo": {
+    "nombre": "Municipalidad de Almafuerte",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Arquitectos",
+      "Otros profesionales"
+    ],
+    "requisitos": [
+      {
+        "texto": "Plano previo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de conformidad firmada en puño y letra por el comitente y por profesional (firma, aclaración y DNI)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planilla de arbolado (proyecto)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación para acreditar titularidad (boleto de compraventa, escritura etc)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar a la página https://almafuerte.colegio-arquitectos.com.ar/ para el logueo con número de matrícula y contraseña del colegio de arquitectos."
+      },
+      {
+        "texto": "Iniciar trámite previa adjuntando los documentos requeridos."
+      },
+      {
+        "texto": "Descargar los documentos y realizar la corrección del plano."
+      },
+      {
+        "texto": "Enviar el plano previo con referencias de correcciones y una planilla en donde se detallan las correcciones a realizar."
+      },
+      {
+        "texto": "Iniciar trámite definitivo en sistema de visación definitiva adjuntando el plano definitivo sellado por el Colegio de Profesionales."
+      },
+      {
+        "texto": "Descargar el documento y constatar que se hayan realizado todas las correcciones detalladas en la previa."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Vender la documentación para acreditar titularidad certificada por Escribanía (que es copia fiel del original) en forma física en el área."
+      },
+      {
+        "texto": "Vender el plano definitivo sellado por el Colegio de Profesionales."
+      },
+      {
+        "texto": "Vender el permiso de edificación (en caso de proyecto)."
+      },
+      {
+        "texto": "Vender los permisos de agua corriente y energía eléctrica (si así lo solicitan)."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 295000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://almafuertecba.gob.ar/content/presentacion-planos-obra-en-municipalidad-almafuerte"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://almafuertecba.gob.ar/content/presentacion-planos-obra-en-municipalidad-almafuerte",
+      "titulo": "PRESENTACION DE PLANOS DE OBRA EN MUNICIPALIDAD DE ALMAFUERTE",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T09:18:31.595Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La documentación para acreditar titularidad se pasa digital, para ir adelantando la corrección del plano, pero es la única que se debe presentar en forma física en el área, certificada por Escribanía (que es copia fiel del original)",
+    "El costo de visación definitiva se calcula dependiendo de los metros cuadrados de la obra a proyectar y/o relevar."
+  ]
+}

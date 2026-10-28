@@ -1,0 +1,88 @@
+{
+  "tramite": {
+    "slug": "dar-de-baja-casa-matriz",
+    "nombre": "Dar de baja casa matriz",
+    "nombre_busqueda": "Dar de baja casa matriz",
+    "resumen": "Procedimiento para que los titulares de agencias de viajes den de baja sus agencias de viajes de forma online.",
+    "sinonimos": [],
+    "temas": [
+      "monotributo-social-y-general"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de agencias de viajes (persona humana si es unipersonal o representante legal si es persona jurídica)."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario solicitud de baja.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración compromisos pendientes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración Jurada C.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario domicilio constituido (se hace únicamente por TAD).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Rescisión del contrato de franquicia (para franquicias).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contrato donde conste la vigencia vencida (si no tienen la rescisión).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Entrá al trámite en el portal o buscá 'Solicitud de Baja de Casa Matriz' en la página."
+      },
+      {
+        "texto": "Iniciá sesión con AFIP."
+      },
+      {
+        "texto": "Completá los datos que se solicitan en el formulario."
+      },
+      {
+        "texto": "Recibí las notificaciones si hace falta subsanar o completar algo de la documentación que presentaste."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/dar-de-baja-casa-matriz",
+      "titulo": "Dar de Baja Casa Matriz | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T14:59:01.133Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Fecha de vigencia de la resolución o normativa que regula el trámite."
+  ]
+}

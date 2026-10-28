@@ -1,0 +1,92 @@
+{
+  "tramite": {
+    "slug": "boleta-electronica",
+    "nombre": "Adherir tasas a la boleta electrónica",
+    "nombre_busqueda": "boleta electrónica de Lincoln",
+    "resumen": "Completá el formulario para adherir tasas, inmuebles, rodados o convenios de pago a la boleta electrónica. Podés combinar distintos tipos de tasa en una misma solicitud.",
+    "sinonimos": [
+      "adhesión a boleta electrónica"
+    ],
+    "temas": [
+      "boletas-y-vencimientos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060469",
+  "organismo": {
+    "nombre": "Municipalidad de Lincoln",
+    "sigla": null,
+    "web": "https://lincoln.gob.ar/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que quieran adherir tasas, inmuebles, rodados o convenios de pago a la boleta electrónica."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nombre y apellido.",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUIT o CUIL sin guiones.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de celular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Correo electrónico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tipo de tasa que querés adherir.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de inmueble, rodado o dominio, o convenio de pago.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá tus datos personales una sola vez."
+      },
+      {
+        "texto": "Agregá una línea por cada inmueble, rodado, moto o convenio que quieras adherir."
+      },
+      {
+        "texto": "Elegí el tipo de tasa para cada adhesión. Podés combinar distintos tipos de tasa en la misma solicitud."
+      },
+      {
+        "texto": "Enviá la solicitud."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://lincoln.gob.ar/tramites/boleta-electronica",
+      "titulo": "Boleta electrónica · Municipalidad de Lincoln",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T14:45:29.581Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa quiénes pueden hacer el trámite.",
+    "No se indica si tiene costo.",
+    "No se informa el plazo de gestión ni si requiere turno.",
+    "No se indica una fecha exacta de vigencia."
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "tramite": {
+    "slug": "reclamo-por-corte-improcedente-del-servicio-de-gas",
+    "nombre": "Reclamo por corte improcedente del servicio de gas",
+    "nombre_busqueda": "Reclamo corte gas improcedente",
+    "resumen": "Podés reclamar ante el ENARGAS por una interrupción del servicio sin aviso de deuda o cuando la empresa no responde. El trámite es gratuito y permite la rehabilitación inmediata del suministro.",
+    "sinonimos": [
+      "Reclamo ante ENARGAS por corte de gas",
+      "Rehabilitación de suministro de gas"
+    ],
+    "temas": [
+      "servicios-urbanos-y-reclamos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ente Nacional Regulador del Gas",
+    "sigla": "ENARGAS",
+    "web": "https://www.enargas.gov.ar"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Al cliente y/o usuario."
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia del reclamo formulado ante la empresa prestadora.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descripción del reclamo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Efectuá el reclamo ante la empresa prestadora del servicio."
+      },
+      {
+        "texto": "Exigí el número de reclamo correspondiente y el plazo estimativo para la resolución."
+      },
+      {
+        "texto": "Si la empresa no rehabilita el servicio en el día del reclamo, o a más tardar al día siguiente, o no responde luego de 2 días o su respuesta es insatisfactoria, contactate con el ENARGAS."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Personalmente en Sede Central: Suipacha 636 -Ciudad Autónoma de Buenos Aires o en la Sede más próxima a tu domicilio, los días hábiles de 10 a 16 horas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Conservá siempre el número de tu reclamo ante la empresa prestadora."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central ENARGAS",
+      "direccion": "Suipacha 636",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/reclamo-por-corte-improcedente-del-servicio-de-gas"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reclamo-por-corte-improcedente-del-servicio-de-gas",
+      "titulo": "Reclamo por corte improcedente del servicio de gas | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T03:04:03.485Z"
+    },
+    {
+      "url": "https://www.enargas.gov.ar/secciones/oficina-virtual/oficina-virtual.php",
+      "titulo": "Oficina virtual ENARGAS",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T03:04:03.485Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T03:04:03.485Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo exacto para la resolución del reclamo ante el ENARGAS.",
+    "La lista completa de sedes más próximas a cada domicilio."
+  ]
+}

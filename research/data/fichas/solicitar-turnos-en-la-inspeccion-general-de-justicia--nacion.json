@@ -1,0 +1,111 @@
+{
+  "tramite": {
+    "slug": "solicitar-turnos-inspeccion-general-justicia",
+    "nombre": "Sacar turno en la Inspección General de Justicia",
+    "nombre_busqueda": "Sacar turno IGJ",
+    "resumen": "Podés solicitar tu turno en línea a través de la app Mi Argentina o la web, seleccionando el organismo IGJ y el trámite correspondiente.",
+    "sinonimos": [
+      "Turno IGJ",
+      "Reserva turno Inspección General de Justicia"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Tener instalada la app Mi Argentina o ingresar desde la web.",
+      "Contar con usuario y contraseña.",
+      "Tener conexión a internet."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener DNI argentino.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la aplicación o a la web de Mi Argentina con tu usuario y contraseña."
+      },
+      {
+        "texto": "Presioná el botón Turnos."
+      },
+      {
+        "texto": "Buscá el trámite ingresando la denominación del organismo (IGJ)."
+      },
+      {
+        "texto": "Seleccioná el trámite que querés realizando presionando el botón Sacar turno."
+      },
+      {
+        "texto": "Indicá si el turno es para vos o para otra persona y presioná Sacar turno."
+      },
+      {
+        "texto": "Seleccioná la provincia (Capital Federal) y luego la Comuna correspondiente."
+      },
+      {
+        "texto": "Elegí el día y el horario, según disponibilidad."
+      },
+      {
+        "texto": "Presioná Confirmar."
+      },
+      {
+        "texto": "El sistema te mostrará el resumen del turno."
+      },
+      {
+        "texto": "Indicá la cantidad de trámites a presentar."
+      },
+      {
+        "texto": "Verificá que la información de la reserva y tus datos personales sean correctos y presioná Confirmar datos."
+      },
+      {
+        "texto": "Presioná Confirmar turno."
+      },
+      {
+        "texto": "Guardá y/o imprimí la constancia del turno."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Solo se atenderá al titular del turno.",
+      "Presentate el día del turno, con el comprobante y el documento que acredite tu identidad.",
+      "Es importante que, en caso de no poder asistir, canceles tu turno."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-turnos-en-la-inspeccion-general-de-justicia",
+      "titulo": "Solicitar turnos en la Inspección General de Justicia | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T16:57:47.900Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T16:57:47.900Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica si se requiere turno presencial o si el trámite se puede realizar exclusivamente en línea sin necesidad de acudir a una sede."
+  ]
+}

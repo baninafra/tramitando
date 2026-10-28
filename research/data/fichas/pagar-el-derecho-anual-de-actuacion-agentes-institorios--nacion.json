@@ -1,0 +1,112 @@
+{
+  "tramite": {
+    "slug": "pagar-derecho-anual-actuacion-agentes-institorios",
+    "nombre": "Pagar el derecho anual de actuación agentes institorios",
+    "nombre_busqueda": "Pagar derecho anual agentes institorios",
+    "resumen": "Las empresas inscriptas en el Registro de Agentes Institorios deben pagar una suma fija anual antes del 30 de abril. El pago se realiza en eRecauda con una tasa de $210.000.",
+    "sinonimos": [
+      "Pago derecho anual agentes institorios",
+      "Derecho anual actuacion seguros"
+    ],
+    "temas": [
+      "cuil-y-clave-de-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Seguros de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas inscriptas en el Registro de Agentes Institorios de la Superintendencia de Seguros de la Nación."
+    ],
+    "requisitos": [
+      {
+        "texto": "Boleta de Pago generada por el sistema eRecauda.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de matrícula.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de CUIT.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Teléfono de contacto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Correo electrónico de contacto.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá en el sistema eRecauda."
+      },
+      {
+        "texto": "Hacé click en el acceso con o sin clave fiscal, según corresponda."
+      },
+      {
+        "texto": "Generá la boleta de pago para la cual necesitás disponer de los datos del registro."
+      },
+      {
+        "texto": "Imprimí la boleta de pago."
+      },
+      {
+        "texto": "Pagá en una sucursal de cobro habilitada."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "30 de abril del año correspondiente",
+    "consejos": [
+      "Si no pagás en término, deberás abonar el importe vigente al momento del pago con más una multa del 50% de dicho importe.",
+      "Si no abonás antes del 1º de enero del siguiente año, la multa se incrementará al 100%.",
+      "Transcurrido dos años calendario sin que hubieras abonado el derecho de inscripción, con la multa correspondiente, se producirá la caducidad automática de la inscripción en el Registro respectivo."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 21000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/pagar-el-derecho-anual-de-actuacion-agentes-institorios"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/pagar-el-derecho-anual-de-actuacion-agentes-institorios",
+      "titulo": "Pagar el Derecho Anual de Actuación- Agentes Institorios | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T07:24:32.429Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T07:24:32.429Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La vigencia del pago es de 12 meses."
+  ]
+}

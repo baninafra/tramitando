@@ -1,0 +1,150 @@
+{
+  "tramite": {
+    "slug": "licencia-conducir-otorgamiento-primera-vez",
+    "nombre": "Sacar la licencia de conducir por primera vez",
+    "nombre_busqueda": "licencia de conducir por primera vez",
+    "resumen": "Si es tu primera licencia, tenés que hacer un precurso presencial obligatorio y rendir exámenes. También corresponde este trámite si tu licencia venció hace más de un año o si pasaron más de noventa días desde que modificaste sus datos.",
+    "sinonimos": [
+      "otorgamiento de licencia de conducir",
+      "licencia original"
+    ],
+    "temas": [
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060274",
+  "organismo": {
+    "nombre": "Municipalidad de Florencio Varela",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés hacer este trámite si vas a sacar tu licencia por primera vez, si se venció hace más de un año o si pasaron más de noventa días desde una modificación de sus datos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Libre deuda de infracciones municipal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento Nacional de Identidad (DNI) original.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dos copias del DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado del Curso Nacional de Educación Vial online.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización de ambos padres o tutores, firmada ante el Juzgado de Paz o escribano público.",
+        "aclaracion": "Si tenés 16 años y pedís la categoría ciclomotor de 50 cc."
+      },
+      {
+        "texto": "Autorización de tus padres o tutores, firmada ante el Juzgado de Paz o escribano público.",
+        "aclaracion": "Si tenés 17 años y pedís la categoría automotor o motovehículo de hasta 150 cc."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Llamá al 0800-999-1234, opción 2, para pedir fecha para el prec curso presencial obligatorio."
+      },
+      {
+        "texto": "Hacé el prec curso presencial obligatorio."
+      },
+      {
+        "texto": "Recibí el turno para tramitar la licencia al finalizar el prec curso."
+      },
+      {
+        "texto": "Presentá el libre deuda de infracciones municipal."
+      },
+      {
+        "texto": "Presentá el DNI original y dos copias."
+      },
+      {
+        "texto": "Presentá el certificado del Curso Nacional de Educación Vial online."
+      },
+      {
+        "texto": "Pagá los sellados nacional, provincial y municipal, y el libre deuda."
+      },
+      {
+        "texto": "Rendí el examen visual y los exámenes teórico y práctico de conducción."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Tramitá el libre deuda los días previos al turno: tiene una validez de cuarenta y cinco días.",
+      "Si tenés entre 16 y 21 años, para la primera licencia también tenés que hacer un curso obligatorio en la aplicación Mi Argentina.",
+      "Es necesario saber leer y escribir.",
+      "Si tenés 16 años, solo podés obtener la licencia para ciclomotor de 50 cc.",
+      "Si tenés 17 años, podés obtener la licencia para automotor y motovehículo de hasta 150 cc.",
+      "Si sos menor de 21 años, podés obtener licencia para motovehículos de hasta 300 cc si tenés dos años de antigüedad en la categoría A.1.2.",
+      "Para conducir motos de más de 300 cc, tenés que ser mayor de 21 años y tener un año de antigüedad en el manejo de moto."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 5265750,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.varela.gob.ar/licenciasdeconducir/otorgamiento.aspx"
+    },
+    {
+      "modalidad": "Eximidos 1",
+      "gratis": false,
+      "monto_centavos": 2324950,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.varela.gob.ar/licenciasdeconducir/otorgamiento.aspx"
+    },
+    {
+      "modalidad": "Eximidos 2",
+      "gratis": false,
+      "monto_centavos": 1589750,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.varela.gob.ar/licenciasdeconducir/otorgamiento.aspx"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.varela.gob.ar/licenciasdeconducir/otorgamiento.aspx",
+      "titulo": "Florencio Varela",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T12:35:18.786Z"
+    },
+    {
+      "url": "https://www.varela.gob.ar/licenciasdeconducir/turnos.aspx",
+      "titulo": "Florencio Varela",
+      "bloques": [
+        "costo",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T12:35:18.786Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa el enlace para sacar turno por internet.",
+    "No se informa cuánto tarda el trámite.",
+    "No se indica la fecha exacta desde la que rigen los aranceles publicados para 2026.",
+    "No se detallan los montos de los sellados nacional, provincial y municipal ni del libre deuda por separado.",
+    "No se explica qué documentación acredita cada categoría de eximición."
+  ]
+}

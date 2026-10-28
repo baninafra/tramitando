@@ -1,0 +1,81 @@
+{
+  "tramite": {
+    "slug": "denunciar-el-extravio-robo-yo-hurto-de-arma-de-fuego-pedido-de-secuestro",
+    "nombre": "Denunciar el extravío, robo y/o hurto de arma de fuego (pedido de secuestro)",
+    "nombre_busqueda": "Denunciar robo arma de fuego",
+    "resumen": "Si perdiste, te hurtaron o robaron tu arma de fuego, obtené el comprobante de denuncia y la correspondiente alta de secuestro del material denunciado.",
+    "sinonimos": [],
+    "temas": [
+      "seguridad-y-denuncias",
+      "denuncias-anonimas-y-policiales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro Nacional de Armas",
+    "sigla": "RENAR",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A quien le robaron o hurtaron su arma de fuego."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formularios Ley 23.283 y 23.412 correspondientes debidamente cumplimentados y con firmas certificadas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La denuncia policial con los datos correctos del arma (tipo, marca, modelo, calibre, número de serie).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención RENAR que prefieras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central del organismo",
+      "direccion": "Bartolomé Mitre 1465/9",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/denunciar-el-extravio-robo-yo-hurto-de-arma-de-fuego-pedido-de-secuestro"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/denunciar-el-extravio-robo-yo-hurto-de-arma-de-fuego-pedido-de-secuestro",
+      "titulo": "Denunciar el extravío, robo y/o hurto de arma de fuego (pedido de secuestro) | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T15:12:20.001Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T15:12:20.001Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa no se especifica en el texto, solo se indica que hay consulta de aranceles.",
+    "La fecha de vigencia del trámite no se especifica en el texto."
+  ]
+}

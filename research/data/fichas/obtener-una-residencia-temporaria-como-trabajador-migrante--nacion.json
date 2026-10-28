@@ -1,0 +1,129 @@
+{
+  "tramite": {
+    "slug": "residencia-temporaria-trabajador-migrante",
+    "nombre": "Obtener residencia temporaria como trabajador migrante",
+    "nombre_busqueda": "Residencia temporaria trabajador migrante",
+    "resumen": "Trámite para personas extranjeras contratadas como trabajadores bajo relación de dependencia. Se realiza en sistema RaDEX y requiere documentación personal, antecedentes penales y acreditación de domicilio.",
+    "sinonimos": [
+      "Residencia temporaria para trabajadores",
+      "Residencia temporaria migrante"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria",
+      "residencias-temporarias-y-permanentes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Migraciones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas extranjeras que ingresen al país para dedicarse al ejercicio de alguna actividad lícita, remunerada y que sean contratados como trabajadores bajo relación de dependencia."
+    ],
+    "requisitos": [
+      {
+        "texto": "Pasaporte válido y vigente (todas las nacionalidades) o documento de viaje del MERCOSUR legalizado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Antecedentes Penales Argentinos emitido por el Registro Nacional de Reincidencia (Solo exigible a mayores de 16 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado que acredite fehacientemente que no registra condenas anteriores ni procesos penales en trámite, emitidos por las autoridades competentes de los países donde haya residido por un plazo superior a un año, durante el transcurso de los últimos tres años (Solo exigible a mayores de 16 años…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditación de Domicilio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pre-contrato laboral suscripto por las partes, donde se especifiquen: Datos personales de las partes, Tareas a realizar por el extranjero, duración de la jornada laboral, duración de la relación laboral, domicilio donde desarrollará tareas el extranjero, Remuneración a percibir (deberá ajustarse al…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción del empleador ante la Agencia de Recaudación y Control Aduanero (ARCA).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción del empleador en el Registro Registro Único de Requirentes de Extranjeros del Dirección Nacional de Migraciones.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de alta temprana, emitida por la Agencia de Recaudación y Control Aduanero (ARCA) y suscripta por el empleador (deberá presentarse dentro del plazo de treinta días corridos a partir del inicio de la solicitud de residencia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación expedida en el extranjero deberá contar con la legalización del Consulado Argentino, sito en el país emisor del documento, o Apostillada, si el país hubiera ratificado el Convenio de La Haya.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación expedida por las representaciones consulares en el territorio nacional deberá contar con la legalización del Ministerio de Relaciones Exteriores Comercio Internacional y Culto, excepto MERCOSUR.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si estuviera en idioma extranjero debe ser traducida al castellano por un traductor público nacional y legalizada por el Colegio de Traductores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Toda la documentación debe ser original.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá tu trámite a distancia ingresando en el sistema RaDEX."
+      },
+      {
+        "texto": "Registrate como usuario, completá el formulario de solicitud y aboná las tasas correspondientes."
+      },
+      {
+        "texto": "Adjuntá la documentación y datos requeridos según el tipo de residencia a la que quieras aplicar."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Si cumplís con los requisitos para formalizar tu solicitud, recibirás un email con la fecha de tu cita presencial."
+      },
+      {
+        "texto": "El Certificado de Antecedentes Penales Argentinos se tramita por fuera de RADEX, siendo obligatoria su presentación el día de la cita."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-una-residencia-temporaria-como-trabajador-migrante",
+      "titulo": "Obtener una residencia temporaria como trabajador migrante | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-26T22:25:12.538Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T22:25:12.538Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de las tasas migratorias no se especifica en el texto, solo se indica que deben abonarse en el sistema RaDEX.",
+    "El plazo exacto para la presentación de la documentación presencial no se especifica en el texto, solo se menciona la fecha de la cita por email."
+  ]
+}

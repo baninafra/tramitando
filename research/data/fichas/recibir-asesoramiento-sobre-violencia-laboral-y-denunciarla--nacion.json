@@ -1,0 +1,130 @@
+{
+  "tramite": {
+    "slug": "violencia-laboral-e-institucional",
+    "nombre": "Recibir asesoramiento sobre violencia laboral y denunciarla",
+    "nombre_busqueda": "asesoramiento violencia laboral",
+    "resumen": "Podés recibir asesoramiento gratuito y confidencial sobre violencia laboral o denunciarla. Si trabajás en el sector público, la denuncia se registra en la Secretaría de Trabajo, Empleo y Seguridad Social o se presenta ante la Comisión de Igualdad de Oportunidades y Trato (CIOT).",
+    "sinonimos": [
+      "asesoramiento violencia laboral",
+      "denuncia violencia laboral",
+      "violencia laboral CIOT"
+    ],
+    "temas": [
+      "violencia-laboral-e-institucional"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Secretaría de Trabajo, Empleo y Seguridad Social",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Al trabajador y trabajadora que por estar viviendo o ser testigo de una situación de violencia laboral requiera orientación sobre el tema.",
+      "Trabajadoras y trabajadores estatales comprendidos en el Convenio Colectivo de Trabajo General para la Administración Pública Nacional (Decreto 214/2006)."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Recibos de haberes (si tenés).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificados médicos, psicológicos y/o psiquiátricos que acrediten el problema de salud (si contás con ellos).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estar comprendido en el Decreto 214/2006, ya sea que revistes como personal por contrato o de Planta Permanente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Consignar en la denuncia el lugar, la fecha y el organismo donde prestás servicios (si es en papel).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Firmá la denuncia (si es en papel).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Accedé a la Plataforma de Trámites a Distancia (TAD) y cargá tu denuncia completando los campos que se piden."
+      },
+      {
+        "texto": "Comunicate por correo electrónico o por teléfono para acordar un día y horario de entrevista (turno)."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a la delegación CIOT de tu organismo o a CIOT Central (Av.Roque Saenz Peña 511, CABA-Mesa de entradas) y presentá tu denuncia."
+      },
+      {
+        "texto": "Acercate a la Oficina de Asesoramiento sobre Violencia Laboral en CABA."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La denuncia se registra en la Secretaría de Trabajo, Empleo y Seguridad Social como antecedente.",
+      "El empleador tiene 10 días hábiles para hacer una propuesta escrita al respecto.",
+      "La Subsecretaría de Relaciones de Trabajo se comunicará para comprobar si la situación denunciada se resolvió."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "CIOT Central",
+      "direccion": "Av.Roque Saenz Peña 511",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/recibir-asesoramiento-sobre-violencia-laboral-y-denunciarla"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/recibir-asesoramiento-sobre-violencia-laboral-y-denunciarla",
+      "titulo": "Recibir asesoramiento sobre violencia laboral y denunciarla | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:07:17.919Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/presenta-tu-denuncia-de-violencia-laboral",
+      "titulo": "Presentá tu denuncia de violencia laboral | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:07:17.919Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T02:07:17.919Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite.",
+    "El plazo exacto para la resolución de la propuesta del empleador.",
+    "El enlace específico para sacar turno en línea."
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "tramite": {
+    "slug": "solicitar-reconocimiento-laboratorio-rtm",
+    "nombre": "Solicitar el reconocimiento como laboratorio público o privado no acreditado en los RTM",
+    "nombre_busqueda": "Reconocimiento laboratorio RTM",
+    "resumen": "Para integrar un laboratorio acreditado en la OAA al Servicio Nacional de Aplicación de la Ley 19.511, se debe presentar una solicitud en la plataforma TAD con documentación específica y pagar un arancel por unidad de instrumento.",
+    "sinonimos": [
+      "Inscripción laboratorio en RTM",
+      "Acreditación laboratorio Servicio Nacional"
+    ],
+    "temas": [
+      "salud-y-prevencion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Subsecretaría de Defensa del Consumidor y Lealtad Comercial",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Laboratorios públicos o privados previamente acreditados en la OAA en la Norma iram-iso/iec 17025 pero no en los reglamentos técnicos metrológicos en específico."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener CUIT y clave fiscal nivel 2 o superior.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estar adherido al servicio de Trámites a Distancia (TAD) y tener condición de apoderado en el sistema.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitud de reconocimiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que confirme el inicio de la ampliación de su acreditación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de asunción de la responsabilidad civil, comercial, administrativa y penal emergente de las funciones de ensayo o calibración.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de contratación de un seguro de responsabilidad civil con una cobertura por los riesgos de la actividad no menor a CIENTO CINCUENTA (150) Salarios Mínimos, Vitales y Móviles (SMVM), ajustándose dicho monto conforme al Salario Mínimo, Vital y Móvil vigente al mes de diciembre de cada año.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el Laboratorio de ensayo es un organismo público, presentar la declaración correspondiente donde se considere a la dependencia del Estado Nacional del cual el mismo dependa como aseguradora de los riesgos de la actividad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de pago del arancel según lo establecido en la Resolución 22/2025 y sus modificatorias.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Presentá una solicitud de reconocimiento como laboratorio de ensayos a integrarse al Servicio Nacional de Aplicación de la Ley N° 19.511 mediante la plataforma Trámites a Distancia (TAD)."
+      },
+      {
+        "texto": "Subí la documentación requerida: solicitud, constancia de inicio de ampliación, constancia de asunción de responsabilidad civil, comercial, administrativa y penal, constancia de contratación de seguro de responsabilidad civil y constancia de pago del arancel."
+      },
+      {
+        "texto": "Si el laboratorio es público, asegurá que la documentación esté firmada por el representante legal y que la dependencia del Estado Nacional esté acreditada como aseguradora."
+      },
+      {
+        "texto": "Recibida la totalidad de la documentación, la Subsecretaría emitirá el acto del reconocimiento dentro de los diez (10) días hábiles administrativos contados desde la fecha de presentación de la documentación íntegra."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "365 días",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-el-reconocimiento-como-laboratorio-publico-o-privado-no-acreditado-en-los-rtm",
+      "titulo": "Solicitar el reconocimiento como laboratorio público o privado no acreditado en los RTM ante la OAA | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:37:16.769Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no está especificado en el texto, solo se indica que varía según el reglamento técnico y la Resolución 22/2025.",
+    "La fecha de vigencia del trámite no está indicada en el texto, solo se menciona la Resolución 22/2025 y sus modificatorias."
+  ]
+}

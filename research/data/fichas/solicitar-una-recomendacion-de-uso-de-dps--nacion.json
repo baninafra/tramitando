@@ -1,0 +1,94 @@
+{
+  "tramite": {
+    "slug": "solicitar-recomendacion-uso-dps",
+    "nombre": "Solicitar recomendación de uso de DPS",
+    "nombre_busqueda": "Solicitar recomendación de uso de DPS",
+    "resumen": "Para solicitar una Declaración de Propiedades Saludables (DPS) en publicidad o para presentación ante la autoridad sanitaria, necesitás cumplir con requisitos específicos y presentar documentación técnica completa.",
+    "sinonimos": [
+      "Solicitud DPS publicidad",
+      "Recomendación uso DPS RNPA"
+    ],
+    "temas": [
+      "certificados-personales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quien sea titular del producto y solicite la DPS."
+    ],
+    "requisitos": [
+      {
+        "texto": "Certificado de Registro Nacional de Establecimiento (RNE) vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Registro de Autorización de Producto (RNPA) vigente o formulario/declaración jurada del expediente/trámite del producto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Rótulo aprobado por la autoridad sanitaria competente o propuesta de rótulo con la DPS detallando leyendas, gráficas y/o símbolos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Especificación técnica con Composición cuali/cuantitativa del producto (ingredientes en porcentaje y orden decreciente de peso, incluidos aditivos con números INS; en aromatizantes, también números FEMA).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dossier donde se especifique la información conforme al Protocolo de presentación y evaluación científica de declaraciones de propiedades saludables, desarrollando todos los puntos de forma ordenada y completa, respetando los títulos de cada ítem.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma electrónica de Tramites a Distancia (TAD) para la solicitud de autorización de declaraciones de propiedades saludables (DPS)."
+      },
+      {
+        "texto": "Completá el formulario controlado cargando la información general de quien solicita, titular del producto, información del alimento o componente, clasificación de la DPS y alcance de la solicitud."
+      },
+      {
+        "texto": "Adjuntá los documentos requeridos en los campos correspondientes y confirmá el trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-una-recomendacion-de-uso-de-dps",
+      "titulo": "Solicitar una recomendación de uso de DPS | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T17:17:36.956Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/jefatura/innovacion-publica/administrativa/tramites-a-distancia/como-realizar-tus-pagos-en-tad",
+      "titulo": "Como realizar tus pagos en TAD | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T17:17:36.956Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no se especifica en el texto, solo se indica que corresponde al Código 4110.",
+    "El plazo de resolución no se indica en el texto."
+  ]
+}

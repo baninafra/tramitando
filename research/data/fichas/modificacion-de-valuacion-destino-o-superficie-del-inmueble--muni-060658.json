@@ -1,0 +1,87 @@
+{
+  "tramite": {
+    "slug": "modificacion-de-valuacion-destino-o-superficie-del-inmueble",
+    "nombre": "Modificación de valuación, destino o superficie del inmueble",
+    "nombre_busqueda": "Modificación de valuación, destino o superficie del inmueble",
+    "resumen": "Trámite para modificar la valuación, destino o superficie de un inmueble ante el Catastro de Quilmes.",
+    "sinonimos": [],
+    "temas": [
+      "catastro-e-inmuebles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060658",
+  "organismo": {
+    "nombre": "Secretaría de Hacienda",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de inmuebles en el Catastro de Quilmes."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI original del titular del inmueble.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del DNI original.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del DNI original del titular del inmueble.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de domicilio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de domicilio del titular del inmueble.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planos del inmueble.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planos del inmueble del titular.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá los requisitos en la oficina de Catastro."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mi.quilmes.gov.ar/tramites/119/modificacion-de-valuacion-destino-o-superficie-del-inmueble",
+      "titulo": "Modificación de valuación, destino o superficie del inmueble",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T08:19:17.943Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se especifica que el trámite se realiza en la oficina de Catastro, pero no se indica la dirección exacta, localidad ni nombre de la oficina en el texto.",
+    "No se especifica el plazo de resolución del trámite en el texto.",
+    "No se especifica si el trámite requiere turno en el texto."
+  ]
+}

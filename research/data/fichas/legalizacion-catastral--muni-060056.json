@@ -1,0 +1,128 @@
+{
+  "tramite": {
+    "slug": "legalizacion-catastral-de-mejoras",
+    "nombre": "Legalización Catastral de Mejoras",
+    "nombre_busqueda": "Regularizar mejoras catastral",
+    "resumen": "Trámite para regularizar trabajos realizados sin permiso de construcción o sin declarar debidamente ante el catastro.",
+    "sinonimos": [
+      "Regularización de mejoras",
+      "Tramitación de mejoras sin permiso"
+    ],
+    "temas": [
+      "obras-y-construccion",
+      "numeracion-y-uso-de-suelo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes hayan realizado un trabajo sin solicitar el permiso de construcción conforme lo estipulado en el artículo 1.1.1.1. del Código de Edificación.",
+      "Quienes no hayan declarado debidamente este trabajo, y bajo las condiciones fijadas por la Ordenanza número 5613 y 6216."
+    ],
+    "requisitos": [
+      {
+        "texto": "Original y dos fotocopias de croquis escala 1:300.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de Tasación Municipal 903.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de escritura completa, o boleta de compraventa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI: original y fotocopia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Libre deuda municipal, o plan de pagos vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Incluir en notas solicitud de numeración domiciliaria, en caso de no poseerla.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dirección de correo electrónico y número de teléfono.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Abonar sellado correspondiente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Abonar el acto administrativo en las cajas del Municipio, ingresando por Alsina 43."
+      },
+      {
+        "texto": "Presentar una nota dirigida al Sr. Intendente en la Mesa de Entradas del Municipio, Alsina 65, junto con la documentación requerida."
+      },
+      {
+        "texto": "El Departamento de Catastro realiza las correcciones de la documentación presentada, en caso de ser necesario inspecciona e incorpora las mejoras."
+      },
+      {
+        "texto": "Se notifica al solicitante la resolución y se le entrega copia visada."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Horario de atención: 7:45 a 13:00 hs."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Cajas del Municipio",
+      "direccion": "Alsina 43",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/catastro/legalizacion-catastral/"
+    },
+    {
+      "nombre": "Mesa de Entradas del Municipio",
+      "direccion": "Alsina 65",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/catastro/legalizacion-catastral/"
+    },
+    {
+      "nombre": "Departamento de Catastro",
+      "direccion": "Chiclana 453",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/catastro/legalizacion-catastral/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/tramites/catastro/legalizacion-catastral/",
+      "titulo": "Legalización Catastral de Mejoras | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T20:48:29.436Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del sellado correspondiente no se especifica en el texto.",
+    "El plazo de resolución no se especifica en el texto."
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "tramite": {
+    "slug": "inscripcion-a-la-red-laboral",
+    "nombre": "Inscripción a la Red Laboral",
+    "nombre_busqueda": "Inscripción Red Laboral Adolfo Alsina",
+    "resumen": "Es un programa voluntario para conectar trabajadores con oportunidades laborales en el distrito. Se puede sumar tanto como empleador como trabajador.",
+    "sinonimos": [
+      "Red PRO",
+      "Red de Empleo Adolfo Alsina"
+    ],
+    "temas": [
+      "busqueda-de-empleo-y-seguro-de-desempleo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060007",
+  "organismo": {
+    "nombre": "Municipalidad de Adolfo Alsina",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Trabajadores que busquen empleo.",
+      "Empleadores que necesiten cubrir puestos laborales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Completar el formulario de inscripción.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario en la página de la Red Laboral."
+      },
+      {
+        "texto": "Guardá el formulario para enviarlo por correo electrónico."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá a desarrollo@adolfoalsina.gov.ar para más información.",
+      "La situación económica actual dificulta la creación de empleos, así que sumate para detectar oportunidades futuras."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.adolfoalsina.gov.ar/redlaboral/",
+      "titulo": "Red Laboral - Municipalidad de Adolfo Alsina",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T18:59:19.377Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos adicionales ni costos en el texto.",
+    "No se indica si el trámite requiere turno."
+  ]
+}

@@ -1,0 +1,104 @@
+/* Tokens del manual de marca de Tramitando (tokens.json v1). Claro por defecto, oscuro con prefers-color-scheme. */
+:root {
+  color-scheme: light dark;
+
+  --celeste: #6CACE4;
+  --celeste-claro: #B5D5F1;
+  --carbon: #1E2329;
+  --blanco: #FFFFFF;
+
+  --celeste-suave: #EAF4FC;
+  --celeste-tinta: #2C6FA8;
+  --fondo: #FFFFFF;
+  --superficie: #F5F8FB;
+  --superficie-alta: #FFFFFF;
+  --borde: #DCE3EA;
+  --borde-fuerte: #848E9A;
+  --tinta: #1E2329;
+  --tinta-2: #4A535E;
+  --tinta-suave: #67707B;
+  --accion: #1E2329;
+  --on-accion: #FFFFFF;
+  --foco: #2C6FA8;
+  --verificado: #1D6E46;
+  --verificado-fondo: #E6F4EC;
+  --aviso: #8A4F00;
+  --aviso-fondo: #FDF1DE;
+  --error: #B3261E;
+  --error-fondo: #FCE8E6;
+
+  --sombra-tarjeta: 0 1px 2px rgba(30, 35, 41, 0.06), 0 4px 12px rgba(30, 35, 41, 0.06);
+
+  --font-sans: 'Figtree Variable', Figtree, 'Segoe UI', system-ui, -apple-system, sans-serif;
+
+  --espacio-1: 4px;
+  --espacio-2: 8px;
+  --espacio-3: 12px;
+  --espacio-4: 16px;
+  --espacio-5: 24px;
+  --espacio-6: 32px;
+  --espacio-7: 48px;
+  --espacio-8: 64px;
+
+  --radio-chico: 6px;
+  --radio-medio: 10px;
+  --radio-grande: 16px;
+  --radio-pildora: 999px;
+
+  /* Tipografía: tamaño/interlineado. */
+  --t-display: 700 44px/48px var(--font-sans);
+  --t-titulo-1: 700 32px/38px var(--font-sans);
+  --t-titulo-2: 700 24px/30px var(--font-sans);
+  --t-titulo-3: 600 19px/26px var(--font-sans);
+  --t-cuerpo: 400 17px/27px var(--font-sans);
+  --t-cuerpo-chico: 400 15px/22px var(--font-sans);
+  --t-etiqueta: 600 14px/20px var(--font-sans);
+  --t-nota: 500 13px/18px var(--font-sans);
+  --t-monto: 700 28px/32px var(--font-sans);
+
+  --ancho-max: 1320px;
+  --ancho-texto: 720px;
+
+  /* Formas: controles en píldora y paneles bien redondeados, separados por tono. */
+  --r-control: 999px;
+  --r-panel: 28px;
+  --margen: clamp(1rem, 2.6vw, 2.5rem);
+  --separacion: clamp(56px, 7vw, 104px);
+  --t-seccion: 700 clamp(32px, 3.8vw, 56px)/1.04 var(--font-sans);
+  --t-display-xl: 800 clamp(48px, 7vw, 112px)/0.94 var(--font-sans);
+  --suelo-oscuro: #1E2329;
+
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in-out: cubic-bezier(0.76, 0, 0.24, 1);
+  --ease-soft: cubic-bezier(0.33, 1, 0.68, 1);
+  --t-press: 140ms;
+  --t-hover: 180ms;
+  --t-ui: 240ms;
+}
+
+@media screen and (prefers-color-scheme: dark) {
+  :root {
+    --celeste-suave: #1A2E40;
+    --celeste-tinta: #8DC0EC;
+    --fondo: #15191D;
+    --superficie: #1E2329;
+    --superficie-alta: #262C33;
+    --borde: #333B44;
+    --borde-fuerte: #76818D;
+    --tinta: #EEF2F6;
+    --tinta-2: #B4BDC7;
+    --tinta-suave: #8C96A1;
+    --accion: #6CACE4;
+    --on-accion: #1E2329;
+    --foco: #8DC0EC;
+    --verificado: #6BD19E;
+    --verificado-fondo: #173326;
+    --aviso: #F2B866;
+    --aviso-fondo: #3A2A12;
+    --error: #F28B82;
+    --error-fondo: #3B1C1A;
+    --sombra-tarjeta: 0 1px 2px rgba(0, 0, 0, 0.4);
+    --suelo-oscuro: #0F1215;
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-tasacion-judicial",
+    "nombre": "Solicitud de tasación judicial",
+    "nombre_busqueda": "Solicitud de tasación judicial",
+    "resumen": "El Tribunal de Tasaciones de la Nación determina el valor de bienes muebles e inmuebles a requerimiento de autoridad judicial. Se debe completar un formulario, reunir documentación específica y abonar el derecho de tasación.",
+    "sinonimos": [],
+    "temas": [
+      "legalizaciones-y-apostillados"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Tribunal de Tasaciones de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Autoridad judicial que requiera la tasación de bienes muebles o inmuebles."
+    ],
+    "requisitos": [
+      {
+        "texto": "Oficio judicial, proveído judicial o manda judicial que ordene la tasación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario completo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación del bien según tipo de tasación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos suficientes para la correcta identificación del bien objeto de tasación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nexo de contacto.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Seleccioná el tipo de tasación y completá el formulario correspondiente."
+      },
+      {
+        "texto": "Reuní la documentación requerida."
+      },
+      {
+        "texto": "Aboná el derecho de tasación si corresponde."
+      },
+      {
+        "texto": "Presentá la solicitud a través del Sistema DEOX-LEX 100."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la solicitud en formato papel en Av. Julio A. Roca 651 - 5° piso - Oficina 516 (CABA)."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 9178600,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitud-de-tasacion-judicial"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitud-de-tasacion-judicial",
+      "titulo": "Solicitud de Tasación Judicial | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T17:22:35.497Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/obras-publicas/tribunal-de-tasaciones-de-la-nacion/solicitud-de-tasacion-judicial/wizard-tasacion",
+      "titulo": "Wizard Tasación | Argentina.gob.ar",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T17:22:35.497Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T17:22:35.497Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si el trámite se realiza en línea, no se especifica si requiere turno.",
+    "El plazo de resolución no está indicado en el texto.",
+    "La vigencia exacta del derecho de tasación solo se menciona por la resolución 5/2026."
+  ]
+}

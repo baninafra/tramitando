@@ -1,0 +1,92 @@
+{
+  "tramite": {
+    "slug": "obtener-el-certificado-de-tipificacion-de-zonas-francas-ctzf",
+    "nombre": "Obtener el certificado de tipificación de zonas francas ctzf",
+    "nombre_busqueda": "certificado tipificacion zonas francas ctzf",
+    "resumen": "Para importar insumos a zonas francas y transformarlos, necesitás este certificado que se sacá en línea con una declaración jurada y un dictamen técnico.",
+    "sinonimos": [
+      "certificado ctzf",
+      "tipificacion zona franca"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A toda persona humana o jurídica usuaria de una zona franca productiva."
+    ],
+    "requisitos": [
+      {
+        "texto": "Declaración Jurada generada por el sistema de gestión conforme al modelo del Anexo II de la Res 56/2018.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dictamen Técnico realizado por un profesional (INTI, UTN o Ingeniero Matriculado).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Accedé al sistema para comenzar la solicitud."
+      },
+      {
+        "texto": "Ingresá en Alta de usuario si sos nuevo y completá todos los datos requeridos."
+      },
+      {
+        "texto": "El sistema generará una Declaración Jurada con el Código de solicitud del certificado."
+      },
+      {
+        "texto": "Accedé a TAD para iniciar el expediente y adjuntá la Declaración Jurada generada por el sistema."
+      },
+      {
+        "texto": "Durante la tramitación, un analista del área de exportación te notificará para que designes un profesional (INTI, UTN o Ingeniero Matriculado) para realizar el Dictamen Técnico."
+      },
+      {
+        "texto": "Cuando la información solicitada esté correcta, se aprobará y emitirá el Certificado de Tipificación de Zonas Francas (C.T.Z.F.)."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "En caso de inconsistencias o errores, el usuario tendrá que hacer una nueva Declaración Jurada en el sistema de gestión y volver a vincularlo al expediente que se está tramitando."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-el-certificado-de-tipificacion-de-zonas-francas-ctzf",
+      "titulo": "Obtener el Certificado de Tipificación de Zonas Francas (C.T.Z.F.) | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T06:29:47.091Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T06:29:47.091Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite.",
+    "El plazo estimado de tramitación."
+  ]
+}

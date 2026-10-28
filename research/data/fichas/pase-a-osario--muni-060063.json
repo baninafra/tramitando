@@ -1,0 +1,79 @@
+{
+  "tramite": {
+    "slug": "pase-a-osario",
+    "nombre": "Pase a Osario",
+    "nombre_busqueda": "Pase a Osario",
+    "resumen": "Solicita el pase a Osario y/o tierra para familiares directos mayores de 18 años.",
+    "sinonimos": [
+      "Pase a tierra",
+      "Pase a Osario y tierra"
+    ],
+    "temas": [
+      "cementerio-y-servicios-funebres",
+      "inhumaciones-y-traslados"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060063",
+  "organismo": {
+    "nombre": "Municipalidad de Balcarce",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Familiar directo mayor de 18 años"
+    ],
+    "requisitos": [
+      {
+        "texto": "Presentar constancia de vínculo de familiar directo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia DNI",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá los requisitos en el cementerio municipal."
+      },
+      {
+        "texto": "Entregá el pago en el cementerio."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Cementerio municipal",
+      "direccion": "Av. 39 y calle 62",
+      "localidad": "Av. 39 y calle 62",
+      "horario": null,
+      "fuente_url": "https://balcarce-app.gob.ar/portal_servicios/servicio/pase-a-osario"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://balcarce-app.gob.ar/portal_servicios/servicio/pase-a-osario",
+      "titulo": "Portal de Servicios | Modernizacion Balcarce",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "costo",
+        "donde",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T03:47:49.830Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del pago no se especifica en el texto.",
+    "La vigencia del trámite no se especifica en el texto."
+  ]
+}

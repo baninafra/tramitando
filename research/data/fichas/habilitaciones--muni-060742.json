@@ -1,0 +1,174 @@
+{
+  "tramite": {
+    "slug": "habilitaciones",
+    "nombre": "Habilitaciones",
+    "nombre_busqueda": "Habilitaciones",
+    "resumen": "Gestioná los permisos y licencias para comercios, transporte escolar, remis y otros servicios en el municipio de San Cayetano.",
+    "sinonimos": [],
+    "temas": [
+      "habilitacion-comercial",
+      "transporte-publico-y-viajes",
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060742",
+  "organismo": {
+    "nombre": "Municipalidad de San Cayetano",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes deseen obtener habilitaciones en el municipio de San Cayetano."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de solicitud",
+        "aclaracion": null
+      },
+      {
+        "texto": "Croquis del local",
+        "aclaracion": null
+      },
+      {
+        "texto": "Escritura, Boleto de Compraventa o Contrato de Locación (firmas certificadas)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación de Bomberos",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Inscripción sobre los Ingresos Brutos",
+        "aclaracion": null
+      },
+      {
+        "texto": "ARCA",
+        "aclaracion": null
+      },
+      {
+        "texto": "Control de Bromatología (en caso de tener manejo con productos alimenticios)",
+        "aclaracion": "Solo para comercio sanitario con manejo de alimentos"
+      },
+      {
+        "texto": "Libreta Sanitaria (en caso de tener manejo con productos alimenticios)",
+        "aclaracion": "Solo para comercio sanitario con manejo de alimentos"
+      },
+      {
+        "texto": "Inscripción REBA (permiso de venta de alcohol)",
+        "aclaracion": "Está prohibido en polirubro, estación de servicios y kioscos"
+      },
+      {
+        "texto": "Escritura, Boleto de Compraventa o Contrato de Locación",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de CUIT/ CUIL",
+        "aclaracion": null
+      },
+      {
+        "texto": "Detalle de los vehículos, indicando marca modelo, tipo y dominio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Listado de choferes",
+        "aclaracion": null
+      },
+      {
+        "texto": "Línea telefónica",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título Automotor",
+        "aclaracion": null
+      },
+      {
+        "texto": "Seguro",
+        "aclaracion": null
+      },
+      {
+        "texto": "VTV",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cédula Verde",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pago patente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Libreta Sanitaria",
+        "aclaracion": null
+      },
+      {
+        "texto": "Licencia de Conducir",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tarjeta Azul",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Municipalidad de San Cayetano",
+      "direccion": "Av. San Martín 451",
+      "localidad": "San Cayetano",
+      "horario": null,
+      "fuente_url": "https://sancayetano.gob.ar/categoria/tramites/habilitaciones/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://sancayetano.gob.ar/categoria/tramites/habilitaciones/",
+      "titulo": "Habilitaciones - San Cayetano | Municipalidad",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T10:50:55.418Z"
+    },
+    {
+      "url": "https://sancayetano.gob.ar/requisitos-habilitacion-de-comercio-2/",
+      "titulo": "Requisitos habilitación de comercio sanitario - San Cayetano | Municipalidad",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-28T10:50:55.418Z"
+    },
+    {
+      "url": "https://sancayetano.gob.ar/requisitos-para-habilitar-de-remis/",
+      "titulo": "Requisitos para habilitar de remis - San Cayetano | Municipalidad",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-28T10:50:55.418Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos para habilitación de comercio no sanitario",
+    "No se especifican requisitos para habilitación de transporte escolar",
+    "No se especifican costos",
+    "No se especifican plazos",
+    "No se especifican pasos a seguir",
+    "No se especifica si requiere turno",
+    "No se especifica dónde se realiza el trámite presencial",
+    "No se especifica vigencia desde"
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "tramite": {
+    "slug": "exenciones-y-tasa-social",
+    "nombre": "Exención de Impuesto a los Automotores por discapacidad",
+    "nombre_busqueda": "Exención impuesto automotores discapacidad",
+    "resumen": "Trámite para obtener la exención del impuesto municipal a los automotores por discapacidad. Se requiere certificado de discapacidad y título de propiedad del vehículo.",
+    "sinonimos": [
+      "Exención Impuesto Automotores Discapacidad",
+      "Exención Impuesto Automotores Municipalizados"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "patente-automotor-municipal",
+      "discapacidad-y-accesibilidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060742",
+  "organismo": {
+    "nombre": "Municipalidad de San Cayetano",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona",
+      "Familiar directo del titular"
+    ],
+    "requisitos": [
+      {
+        "texto": "Certificado de discapacidad del titular",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título propiedad automotor",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota al intendente solicitando la Eximición",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI",
+        "aclaracion": "En caso de ser familiar directo"
+      },
+      {
+        "texto": "Certificado de discapacidad (hijo/a, cónyuge)",
+        "aclaracion": "En caso de ser familiar directo"
+      },
+      {
+        "texto": "DNI del titular del rodado y DNI del familiar (hijo/a, cónyuge)",
+        "aclaracion": "En caso de ser familiar directo"
+      },
+      {
+        "texto": "Documentación que compruebe la relación entre ambos",
+        "aclaracion": "En caso de ser familiar directo"
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación requerida en la Oficina de Rentas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Rentas",
+      "direccion": "Av. San Martín 451",
+      "localidad": "San Cayetano",
+      "horario": null,
+      "fuente_url": "https://sancayetano.gob.ar/exencion-de-impuesto-a-los-automotores-por-discapacidad/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://sancayetano.gob.ar/exencion-de-impuesto-a-los-automotores-por-discapacidad/",
+      "titulo": "Exención de Impuesto a los Automotores por discapacidad - San Cayetano | Municipalidad",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "donde",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T10:25:19.876Z"
+    },
+    {
+      "url": "https://sancayetano.gob.ar/categoria/tramites/",
+      "titulo": "Trámites - San Cayetano | Municipalidad",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-28T10:25:19.876Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se no especifica el plazo de resolución del trámite.",
+    "Se no especifica si se requiere turno para realizar el trámite."
+  ]
+}

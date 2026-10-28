@@ -1,0 +1,117 @@
+{
+  "tramite": {
+    "slug": "pagar-tasas-municipales",
+    "nombre": "Pagar tasas municipales",
+    "nombre_busqueda": "Pagar tasas municipales 9 de Julio",
+    "resumen": "Aboná las tasas municipales a través de internet, cajeros automáticos o efectivo en sucursales autorizadas.",
+    "sinonimos": [
+      "Pago de tasas",
+      "Abono de tasas municipales"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060588",
+  "organismo": {
+    "nombre": "Municipalidad de 9 de Julio",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que deba abonar tasas municipales"
+    ],
+    "requisitos": [
+      {
+        "texto": "Factura o comprobante de deuda",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá en www.pagomiscuentas.com o en el Home Banking de tu banco."
+      },
+      {
+        "texto": "Seleccioná la opción Pago de Servicios."
+      },
+      {
+        "texto": "Elegí el rubro Impuestos Municipales y la empresa 9 de Julio BA."
+      },
+      {
+        "texto": "Ingresá el Nro. pago electrónico que figura en la factura."
+      },
+      {
+        "texto": "Seleccioná la cuenta a debitar y confirmá el importe."
+      },
+      {
+        "texto": "Guardá el comprobante de pago en tu PC o imprimilo."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Ingresá a una sucursal habilitada con efectivo."
+      },
+      {
+        "texto": "Ingresá tu clave y elegí la opción pagomiscuentas en el menú principal."
+      },
+      {
+        "texto": "Elegí el rubro IMPUESTOS MUNICIPALES y la empresa 9 de julio ba."
+      },
+      {
+        "texto": "Ingresá el nro. pago electronico y confirmá el importe."
+      },
+      {
+        "texto": "Retirá el comprobante de pago."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "CEyS Mariano Moreno",
+      "direccion": "Av. Avellaneda 1561",
+      "localidad": "9 de Julio",
+      "horario": null,
+      "fuente_url": "https://www.9dejulio.gob.ar/omic.php"
+    },
+    {
+      "nombre": "Cámara de comercio de 9 de Julio",
+      "direccion": "Av. San Martín 1223",
+      "localidad": "9 de Julio",
+      "horario": null,
+      "fuente_url": "https://www.9dejulio.gob.ar/omic.php"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.9dejulio.gob.ar/omic.php",
+      "titulo": "Municipalidad de 9 de Julio",
+      "bloques": [
+        "resumen",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T15:39:18.483Z"
+    },
+    {
+      "url": "https://www.9dejulio.gov.ar/donde-pagar.php",
+      "titulo": "Municipalidad de 9 de Julio",
+      "bloques": [
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T15:39:18.483Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los montos exactos de las tasas no se especifican en el texto.",
+    "La vigencia de la resolución que habilita estos pagos no se indica con fecha exacta."
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "tramite": {
+    "slug": "solicitar-busqueda-tendencias-patentamiento",
+    "nombre": "Solicitar una búsqueda sobre tendencias de patentamiento",
+    "nombre_busqueda": "Búsqueda tendencias patentamiento",
+    "resumen": "Este trámite permite obtener estadísticas sobre la evolución de las patentes de invención y modelos de utilidad presentadas en Argentina y el mundo, identificando áreas tecnológicas de mayor avance y solicitantes.",
+    "sinonimos": [
+      "Búsqueda de tendencias de patentamiento",
+      "Estadísticas de patentes",
+      "Análisis de patentes"
+    ],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto Nacional de la Propiedad Industrial",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Emprendedores",
+      "PyMEs",
+      "Empresas",
+      "Universidades",
+      "Centros de I+D+i",
+      "Agentes de la propiedad industrial"
+    ],
+    "requisitos": [
+      {
+        "texto": "Clave fiscal nivel 2 para registrarte en el portal de trámites",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informar la clase y subclase y su grupo principal de la Clasificación Internacional de Patentes, o los datos bibliográficos sobre los cuales realizar la búsqueda",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informar si necesitás una búsqueda realizada sobre documentos nacionales, extranjeros o ambos",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal de trámites con tu clave fiscal"
+      },
+      {
+        "texto": "Seleccioná el módulo información tecnológica / trámites / tendencia de patentamiento"
+      },
+      {
+        "texto": "Completá todos los datos del formulario"
+      },
+      {
+        "texto": "Firmá electrónicamente el formulario"
+      },
+      {
+        "texto": "Generá y pagá el arancel correspondiente"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "15 días",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-una-busqueda-sobre-tendencias-de-patentamiento",
+      "titulo": "Solicitar una búsqueda sobre tendencias de patentamiento | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T17:00:19.234Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no se especifica en el texto, consultá los aranceles vigentes",
+    "No se indica si el trámite requiere turno"
+  ]
+}

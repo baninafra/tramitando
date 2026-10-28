@@ -1,0 +1,66 @@
+{
+  "tramite": {
+    "slug": "adjudicacion-y-pago-de-cuotas-de-viviendas-sociales",
+    "nombre": "Adjudicación y pago de cuotas de Viviendas Sociales",
+    "nombre_busqueda": "Pago cuota vivienda social florencio varela",
+    "resumen": "Es obligatorio pagar la cuota mensual de la vivienda social para cubrir los aportes del Estado y permitir que otras familias sean beneficiarias. Se puede consultar el ID de la cuota ingresando al sistema o realizar el pago online.",
+    "sinonimos": [
+      "Pago cuota vivienda social",
+      "Pago cuota vivienda florencio varela"
+    ],
+    "temas": [
+      "planes-de-vivienda-social",
+      "subsidios-a-los-servicios-publicos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060274",
+  "organismo": {
+    "nombre": "Municipalidad de Florencio Varela",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Familias adjudicatarias de viviendas sociales."
+    ],
+    "requisitos": [
+      {
+        "texto": "ID de la cuota de la vivienda social.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sistema indicado para consultar tu ID."
+      },
+      {
+        "texto": "Seguí el enlace para realizar el pago online."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.varela.gob.ar/tramites/desarrollourbano.aspx",
+      "titulo": "Florencio Varela",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T07:06:18.208Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos ni plazos de pago."
+  ]
+}

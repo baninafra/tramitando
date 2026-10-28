@@ -1,0 +1,87 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-tenencia-de-vehiculos-blindados-transportadoras-de-caudales-y-entidades",
+    "nombre": "Solicitud de tenencia de vehículos blindados",
+    "nombre_busqueda": "Solicitud de tenencia de vehículos blindados",
+    "resumen": "Para solicitar la tenencia de un vehículo blindado debés realizar el trámite ante ANMaC presentando documentación específica y pagando una tasa.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMaC",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Si representas a una empresa transportadora de caudales o a una entidad financiera y querés solicitar la tenencia de un vehículo blindado."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de presentación en papel membrete de la empresa, donde expliques los motivos de la solicitud, con firma y aclaración del representante legal o titular del usuario colectivo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia certificada del título del vehículo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de fabricación del blindaje, con los datos completos del vehículo emitido por el Usuario Comercial interviniente y con el Código de Identificación de Blindaje, con firma certificada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de ser una transferencia entre particulares debés presentar la credencial de tenencia original.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completa la solicitud electrónica ingresando a través de la página miAnmac y presionando SOLICITUD."
+      },
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      },
+      {
+        "texto": "Retirá la documentación emitida por el ANMaC en la delegación en la que iniciaste el trámite o pedí que te la manden por correo."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 10000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitud-de-tenencia-de-vehiculos-blindados-transportadoras-de-caudales-y-entidades"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitud-de-tenencia-de-vehiculos-blindados-transportadoras-de-caudales-y-entidades",
+      "titulo": "Solicitud de Tenencia de vehículos blindados Transportadoras de Caudales y Entidades Financieras | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T17:26:53.796Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de las oficinas de atención",
+    "Plazo de resolución del trámite"
+  ]
+}

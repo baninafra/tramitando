@@ -1,0 +1,177 @@
+{
+  "tramite": {
+    "slug": "habilitacion-industrial",
+    "nombre": "Habilitación Industrial",
+    "nombre_busqueda": "Habilitación Industrial",
+    "resumen": "Trámite para obtener la habilitación de establecimientos industriales, regulado por Ley 11459 y Decreto 973/20. Requiere obtener la Clasificación del Nivel de Complejidad de la Industria (CNCA) en el Ministerio de Ambiente de la Provincia de Buenos Aires antes de iniciar el proceso.",
+    "sinonimos": [],
+    "temas": [
+      "comercio-e-industria",
+      "habilitacion-comercial"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060441",
+  "organismo": {
+    "nombre": "Dirección de Habilitaciones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de la actividad industrial.",
+      "Apoderados con poder certificado si corresponde."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del titular y/o apoderado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estatuto o Contrato Social certificado con inscripción (si es persona jurídica).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contrato de alquiler o comodato con firmas certificadas, o escritura/título de propiedad para acreditar derecho al uso del inmueble.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de libre deuda de deudores alimentarios morosos (DAM).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción ARCA Formulario 522/A – libre deuda previsional.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Domicilio ARBA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano de obra civil aprobado por la Dirección de Obras Particulares.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Foto de fachada (con cortina levantada, si aplica).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario 3-5 de Camuzzi o informe de gasista con firma certificada (si se utiliza gas).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Disposición emitida por el Ministerio de Ambiente de la Provincia de Buenos Aires con la Clasificación del Nivel de Complejidad de la Industria (CNCA).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informe Técnico de Bomberos (vigencia 1 año).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Evaluación de Impacto Ambiental (EIA) y comprobante de retiro de residuos (para categorías 1 y 2).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Aptitud Ambiental (CAA) otorgado por la Secretaría de Ambiente municipal (para categorías 1 y 2).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Aptitud Ambiental (CAA) otorgado por el Ministerio de Ambiente de la Provincia de Buenos Aires (para categoría 3).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Libro de actas nuevo (tamaño oficio, 200 hojas) al momento de retirar la habilitación.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Obtené la Clasificación del Nivel de Complejidad de la Industria (CNCA) en el portal del Ministerio de Ambiente de la Provincia de Buenos Aires."
+      },
+      {
+        "texto": "Ingresá al trámite de habilitación en la Dirección de Habilitaciones."
+      },
+      {
+        "texto": "Presentá la documentación original para que los puedan certificar en la ventanilla."
+      },
+      {
+        "texto": "Retirá la habilitación con el libro de actas nuevo (tamaño oficio, 200 hojas)."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Cuartel Bomberos La Plata",
+      "direccion": "52 e/ 117 y 118",
+      "localidad": "La Plata",
+      "horario": null,
+      "fuente_url": "https://tramites.laplata.gob.ar/comercio/habilitacion-industrias.html"
+    },
+    {
+      "nombre": "Cuartel Bomberos Los Hornos",
+      "direccion": "calle 137 e/ 61 y 62",
+      "localidad": "Los Hornos",
+      "horario": null,
+      "fuente_url": "https://tramites.laplata.gob.ar/comercio/habilitacion-industrias.html"
+    },
+    {
+      "nombre": "Cuartel Bomberos Villa Elisa",
+      "direccion": "49 e/ 6 y 11",
+      "localidad": "Villa Elisa",
+      "horario": null,
+      "fuente_url": "https://tramites.laplata.gob.ar/comercio/habilitacion-industrias.html"
+    },
+    {
+      "nombre": "Cuartel Bomberos Melchor Romero",
+      "direccion": "519 e/ 168 bis y 169 bis",
+      "localidad": "Melchor Romero",
+      "horario": null,
+      "fuente_url": "https://tramites.laplata.gob.ar/comercio/habilitacion-industrias.html"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://tramites.laplata.gob.ar/comercio/habilitacion-industrias.html",
+      "titulo": "Comercio - Municipalidad de La Plata",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T14:46:37.172Z"
+    },
+    {
+      "url": "https://cam.laplata.gob.ar/index.html",
+      "titulo": "Centro Administrativo Municipal",
+      "bloques": [
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T14:46:37.172Z"
+    },
+    {
+      "url": "https://cam.laplata.gob.ar/cam-institucional.html",
+      "titulo": "Centro Administrativo Municipal",
+      "bloques": [
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T14:46:37.172Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Vigencia del trámite.",
+    "Costos del trámite.",
+    "Requisitos específicos para casos especiales no detallados en el texto.",
+    "Plazos de espera o entrega estimados."
+  ]
+}

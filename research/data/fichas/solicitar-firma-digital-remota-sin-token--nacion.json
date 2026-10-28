@@ -1,0 +1,96 @@
+{
+  "tramite": {
+    "slug": "solicitar-firma-digital-remota-sin-token",
+    "nombre": "Solicitar firma digital remota sin token",
+    "nombre_busqueda": "solicitar firma digital remota sin token",
+    "resumen": "Es una solución segura para firmar documentos PDF sin usar token, que dura 30 minutos y es gratuita.",
+    "sinonimos": [
+      "firma digital remota sin token",
+      "certificado firma digital remota sin token"
+    ],
+    "temas": [
+      "firma-digital"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas humanas que tengan acceso a una cuenta de correo electrónico al momento de concurrir a la Autoridad de Registro.",
+      "Quienes tengan un teléfono inteligente con una aplicación instalada para generar el OTP (One Time Password)."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento Nacional de Identidad (DNI) y tener número de CUIL o CUIT.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acceso a una cuenta de correo electrónico al momento de concurrir a la Autoridad de Registro.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Un teléfono inteligente con una aplicación instalada para generar el OTP (One Time Password).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Una vez finalizado el trámite presencial, podés firmar digitalmente a través del FIRMADOR de la Plataforma de Firma Digital Remota (PFDR)."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Sacá un turno en la Autoridad de Registro más cercana o consultá en AR con turnero propio."
+      },
+      {
+        "texto": "El Oficial de Registro te solicitará la documentación requerida, te tomará los datos biométricos y te guiará en el proceso."
+      },
+      {
+        "texto": "Una vez finalizado el trámite, podés firmar digitalmente a través del FIRMADOR de la Plataforma de Firma Digital Remota (PFDR)."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://turnos.argentina.gob.ar/turnos/seleccionTurno/1296",
+    "plazo": "30 minutos",
+    "consejos": [
+      "Si solicitaste un certificado de firma digital en una Autoridad de Registro privada de la AC-Modernización-PFDR, solo podrás gestionar el cambio de clave u OTP en la misma Autoridad de Registro que aprobó tu certificado.",
+      "Para consultas referidas a la AR-MODERNIZACIÓN comunicate con la cuenta [email protected].",
+      "Para el resto de las autoridades de registro comunicate con la que corresponda según el trámite."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-firma-digital-remota-sin-token",
+      "titulo": "Solicitar Firma Digital Remota sin Token | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:57:25.161Z"
+    },
+    {
+      "url": "https://turnos.argentina.gob.ar/turnos/seleccionTurno/1296",
+      "titulo": "Sistema Nacional de Turnos",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T08:57:25.161Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de las oficinas de Autoridad de Registro.",
+    "Lista completa de horarios y días disponibles para cada Autoridad de Registro."
+  ]
+}

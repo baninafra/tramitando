@@ -1,0 +1,89 @@
+{
+  "tramite": {
+    "slug": "defensa-del-consumidor",
+    "nombre": "Reclamos y denuncias de consumidores",
+    "nombre_busqueda": "Reclamos al consumidor La Costa",
+    "resumen": "Recibí reclamos y denuncias de consumidores por la compra de bienes y prestación de servicios, y celebré conciliaciones.",
+    "sinonimos": [
+      "Denuncias al consumidor",
+      "Asesoramiento al consumidor",
+      "Información al consumidor"
+    ],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060420",
+  "organismo": {
+    "nombre": "Oficina Municipal de Información al Consumidor",
+    "sigla": "OMIC",
+    "web": "https://lacosta.gob.ar/oficina-municipal-de-informacion-al-consumidor/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Consumidores/usuarios finales por la compra de bienes y prestación de servicios."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del titular",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario online con tus datos personales y los de la denuncia."
+      },
+      {
+        "texto": "Adjuntá las pruebas que tenés (fotos, facturas, contratos, etc.)."
+      },
+      {
+        "texto": "Revisá tu correo electrónico para verificar si recibiste comunicación del organismo."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "OMIC",
+      "direccion": "Avenida 32 N°365",
+      "localidad": "Santa Teresita",
+      "horario": null,
+      "fuente_url": "https://lacosta.gob.ar/oficina-municipal-de-informacion-al-consumidor/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://lacosta.gob.ar/oficina-municipal-de-informacion-al-consumidor/",
+      "titulo": "La Costa » Información al Consumidor - La Costa",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T14:25:01.663Z"
+    },
+    {
+      "url": "https://lacosta.gob.ar/web/formulario-omic.php",
+      "titulo": "La Costa",
+      "bloques": [
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:25:01.663Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se especifica que se debe revisar el correo electrónico para verificar la comunicación, pero no se indica un plazo exacto ni un número de días.",
+    "No se especifica si el trámite requiere turno ni cuál es la modalidad de solicitud (online o presencial) obligatoria."
+  ]
+}

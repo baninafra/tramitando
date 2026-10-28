@@ -1,0 +1,76 @@
+{
+  "tramite": {
+    "slug": "consultar-cuando-y-donde-cobro-en-anses",
+    "nombre": "Consultar cuándo y dónde cobro en ANSES",
+    "nombre_busqueda": "Consultar fecha y medio de cobro ANSES",
+    "resumen": "Podés consultar en línea tu próxima fecha de cobro y el medio de pago de tu prestación de ANSES de forma gratuita.",
+    "sinonimos": [
+      "Ver calendario de pagos ANSES",
+      "Consultar fecha de haberes ANSES"
+    ],
+    "temas": [
+      "pensiones-no-contributivas-por-invalidez",
+      "pensiones-no-contributivas-vejez"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración Nacional de Seguros Sociales",
+    "sigla": "ANSES",
+    "web": "https://www.argentina.gob.ar/servicio/consultar-cuando-y-donde-cobro-en-anses"
+  },
+  "contenido": {
+    "quien_puede": [
+      "A cualquier persona que cobre una prestación de ANSES."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de DNI",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a Calendario de Pagos."
+      },
+      {
+        "texto": "Consultá tu fecha de cobro de acuerdo a la terminación de tu DNI."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si necesitás conocer tu medio de cobro, el monto a cobrar o imprimir tu recibo de haberes, ingresá a mi ANSES con tu CUIL y Clave de la Seguridad Social, y en la sección Cobros seleccioná Consultar fecha y medio de cobro."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consultar-cuando-y-donde-cobro-en-anses",
+      "titulo": "Consultar cuándo y dónde cobro en ANSES | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T05:15:26.659Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consultar-cuando-y-donde-cobro-en-anses",
+      "titulo": "Consultar cuándo y dónde cobro en ANSES | Argentina.gob.ar",
+      "bloques": [
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T05:15:26.659Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica un plazo de tiempo para la consulta."
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "tramite": {
+    "slug": "tenencia-de-arma-y-tarjeta-de-control-de-consumo-de-municion-usuario-colectivo",
+    "nombre": "Tenencia de arma y tarjeta de control de consumo de munición usuario colectivo",
+    "nombre_busqueda": "Tenencia arma usuario colectivo transportadora",
+    "resumen": "Para empresas transportadoras de caudales o entidades financieras, necesitás solicitar la credencial de tenencia ante ANMaC. Si el arma no está registrada, también debés hacer el reempadronamiento.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMaC",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Representantes de empresas transportadoras de caudales o entidades financieras reconocidas por el BCRA que quieran poseer un arma."
+    ],
+    "requisitos": [
+      {
+        "texto": "Inscripción como Usuario Colectivo en el tipo de material correspondiente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el arma no está registrada en el ANMaC, solicitar su reempadronamiento con el formulario correspondiente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Una fotografía color del arma completa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotografías en las que se encuentren estampados la marca y el número de serie del arma, con un grado de nitidez suficiente que permita observar a simple vista los datos requeridos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La solicitud electrónica de autorización de tenencia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formularios Leyes 23.283 y 23.412 correspondientes por cada arma.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formularios Leyes 23.283 y 23.412 correspondientes, detallando el tipo y calibre de la munición.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá la solicitud electrónica para la credencial de Legítimo Usuario individual de Armas de Fuego."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      },
+      {
+        "texto": "Retirá la documentación emitida por el ANMaC en la delegación en la que iniciaste el trámite o pedí que te la manden por correo."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central del organismo",
+      "direccion": "Bartolomé Mitre 1465/9",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/tenencia-de-arma-y-tarjeta-de-control-de-consumo-de-municion-usuario-colectivo"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tenencia-de-arma-y-tarjeta-de-control-de-consumo-de-municion-usuario-colectivo",
+      "titulo": "Tenencia de arma y tarjeta de control de consumo de munición Usuario Colectivo Transportadora de Caudales y Entidades Financieras | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T17:51:04.600Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/sites/default/files/reempadronamientoarmasfuego_1.pdf",
+      "titulo": "404 - Error | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T17:51:04.600Z"
+    },
+    {
+      "url": "https://mi.renar.gob.ar/gral/aranceles.html",
+      "titulo": "(sin título)",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T17:51:04.600Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa no se especifica en el texto, solo se indica que se consulta en los aranceles vigentes.",
+    "La fecha de vigencia de la credencial de legítimo usuario no se especifica en el texto.",
+    "Si el trámite requiere turno, no se indica en el texto."
+  ]
+}

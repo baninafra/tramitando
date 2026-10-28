@@ -1,0 +1,127 @@
+{
+  "tramite": {
+    "slug": "inscripcion-de-subastas-judiciales-en-buques",
+    "nombre": "Inscribir subastas judiciales en el registro nacional de buques",
+    "nombre_busqueda": "Inscribir subastas judiciales en el registro nacional de buques",
+    "resumen": "El trámite consiste en registrar subastas judiciales de buques en el Registro Nacional de Buques. Requiere un oficio judicial firmado digitalmente y el pago de aranceles basados en el valor del buque.",
+    "sinonimos": [],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Prefectura Naval Argentina",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Abogados"
+    ],
+    "requisitos": [
+      {
+        "texto": "Oficio Judicial que debe ajustarse al artículo 8º de la Ley Nº 19.170 y diligenciarse en soporte electrónico con firma digital verificable",
+        "aclaracion": null
+      },
+      {
+        "texto": "El Oficio Judicial Electrónico (DEOX) debe diligenciarse a través de la Secretaría General –Mesa de Entradas- o por la Dirección de Policía Judicial, Protección Marítima y Puertos de la Prefectura Naval Argentina",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el oficio es de un juzgado de la Provincia de Buenos Aires, debe contener Código QR y diligenciarse al correo rnbumail@prefecturanaval.gob.ar",
+        "aclaracion": null
+      },
+      {
+        "texto": "La orden judicial debe contener los datos personales de adquirente/s (nombre, apellido, nacionalidad, documento cívico, fecha de nacimiento, estado civil, nombre del cónyuge, nupcias, domicilio real completo, cuit/cuil/cdi) o datos de personas jurídicas (razón social, datos de inscripción, domicili…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Proporción de adquisición de cada adquirente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Transcripción de los autos que ordenan la subasta, la aprueban, tienen por pagado el precio, ordenan la entrega de posesión y el libramiento del oficio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombre y número de matrícula del buque",
+        "aclaracion": null
+      },
+      {
+        "texto": "Transcripción de autos de medidas precautorias o cautelares si existen, identificando cada una",
+        "aclaracion": null
+      },
+      {
+        "texto": "Indicación si se ha dado cumplimiento al artículo 1º de la Ley 13.899 según el tonelaje de arqueo total",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el oficio es firmado digitalmente por Juez, no se requiere trascripción de resoluciones judiciales, pero sí constar las órdenes y datos anteriores",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Comunicarse telefónicamente al Registro Nacional de Buques, Mesa de Entradas, al teléfono +5491143187400 o +5491143187500, internos 2104 o 2106"
+      },
+      {
+        "texto": "Enviar correo electrónico a la casilla rnbumail@prefecturanaval.gob.ar"
+      },
+      {
+        "texto": "Concurrir personalmente de lunes a viernes, en el horario de 8 a 13, indicando número de CUIT/CUIL para requerir la liquidación del arancel"
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Una vez abonado el arancel, el personal de la División Contralor y Verificación Registral o de la Dependencia del interior del país comprobará la procedencia de lo solicitado y analizará los aspectos formales del documento"
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "30 días hábiles",
+    "consejos": [
+      "La Tasa Fija Anual por Renovación de Matrícula debe estar abonada a partir de la fecha del decreto de quiebra o de la fecha de la toma posesión por el/la adquirente, según lo ordenado por el Juzgado"
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 2620000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-subastas-judiciales-en-el-registro-nacional-de-buques"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Registro Nacional de Buques",
+      "direccion": "Edificio Guardacostas, Avenida Eduardo Madero 235",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-subastas-judiciales-en-el-registro-nacional-de-buques"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribir-subastas-judiciales-en-el-registro-nacional-de-buques",
+      "titulo": "Inscribir subastas Judiciales en el registro nacional de buques | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-26T17:06:35.263Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel de inscripción debe consultarse en el Cuadro Tarifario de Aranceles por Decreto 1528/07 al momento del pago",
+    "La vigencia del arancel de inscripción depende del decreto de quiebra o de la fecha de toma posesión por el adquirente según lo ordenado por el Juzgado"
+  ]
+}

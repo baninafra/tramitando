@@ -1,0 +1,72 @@
+{
+  "tramite": {
+    "slug": "consulta-y-pago-de-multas-de-transito",
+    "nombre": "Consulta y pago de multas de tránsito",
+    "nombre_busqueda": "consultar y pagar multas de tránsito en Junín",
+    "resumen": "Consultá y pagá multas de tránsito mediante Gestión web Junín. Para usar el portal, necesitás una cuenta.",
+    "sinonimos": [
+      "pagar multas de tránsito",
+      "consultar infracciones de tránsito"
+    ],
+    "temas": [
+      "infracciones-y-multas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060413",
+  "organismo": {
+    "nombre": "Municipalidad de Junín",
+    "sigla": null,
+    "web": "https://www.junin.gob.ar"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas físicas que se registren en Gestión web Junín."
+    ],
+    "requisitos": [
+      {
+        "texto": "Contar con un documento de identidad para registrarte.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.junin.gob.ar/servicio/consulta-de-multas",
+      "titulo": "Consulta y pago de multas de tránsito",
+      "bloques": [
+        "resumen",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T14:03:47.646Z"
+    },
+    {
+      "url": "https://gestionweb.junin.gob.ar/",
+      "titulo": "Gestión web",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T14:03:47.646Z"
+    },
+    {
+      "url": "https://gestionweb.junin.gob.ar/registro;jsessionid=k5MvDl_vete6N2MMRJldwJz4Gi61MIjPuGM0vLLi.ubuntuserver",
+      "titulo": "Gestión web",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T14:03:47.646Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La página de la ficha y los detalles sobre cómo consultar o pagar las multas no están incluidos en el texto descargado.",
+    "No se confirma el costo, los medios de pago, el plazo ni si necesitás turno."
+  ]
+}

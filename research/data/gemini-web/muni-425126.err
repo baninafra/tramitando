@@ -1,0 +1,17 @@
+[0m
+> build · deepseek-v4.1-flash-free
+[0m
+[0m◈ [0mExa Web Search "Relmo La Pampa municipio gob.ar"
+[0m◈ [0mExa Web Search "Municipalidad de Relmo La Pampa sitio oficial trámites"
+[0m% [0mWebFetch https://www.lapampa.gob.ar/relmo.html
+[0m◈ [0mExa Web Search ""Relmo" site:gob.ar trámite municipal"
+[0m◈ [0mExa Web Search "site:lapampa.gob.ar Relmo trámites"
+[0m◈ [0mExa Web Search "La Pampa guía de trámites oficiales sitio gob.ar"
+[0m✗ [0mWebFetch https://relmo.gob.ar failed
+[91m[1mError: [0mTransport error (GET https://relmo.gob.ar)
+[0m◈ [0mExa Web Search ""comisión de fomento de Relmo" trámites habilitación comercio"
+[0m% [0mWebFetch https://portaldetramites.lapampa.gob.ar/
+[0m◈ [0mExa Web Search "Relmo municipalidad facebook trámites tasas municipales"
+[0m✗ [0mWebFetch https://relmo.lapampa.gob.ar failed
+[91m[1mError: [0mTransport error (GET https://relmo.lapampa.gob.ar)
+[0m◈ [0mExa Web Search ""Relmo" "habilitación" OR "licencia de conducir" OR "tasa" municipio"

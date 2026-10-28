@@ -1,0 +1,110 @@
+{
+  "tramite": {
+    "slug": "pagar-tasa-inspeccion-sociedades-capitalizacion-ahorro",
+    "nombre": "Pagar la tasa de inspección de sociedades de capitalización y ahorro",
+    "nombre_busqueda": "Pagar tasa inspección sociedades capitalización ahorro",
+    "resumen": "Las entidades administradoras deben pagar una tasa trimestral equivalente al uno por mil del monto total percibido en concepto de recaudación de cuotas comerciales. El pago se realiza online desde la plataforma TAD.",
+    "sinonimos": [
+      "Pago tasa inspección sociedades",
+      "Tasa IGJ sociedades capitalización"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": "IGJ",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Las sociedades que administran planes de ahorro previo por círculos o grupos cerrados.",
+      "Las sociedades que administran planes de ahorro por sistema abierto.",
+      "Las sociedades que administran planes de capitalización."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario TASA 'sociedades de capitalizacion Y AHORRO' exclusivo para TAD, completado y guardado en PDF.",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUIT y Número Correlativo de la Persona Jurídica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración Jurada conforme Art. 14.2.b del Anexo 'A', Resolución IGJ 08/2015.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del comprobante de pago de la Tasa de Inspección.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá el trámite desde el usuario TAD de la Persona Jurídica."
+      },
+      {
+        "texto": "Completá los datos de identificación de la entidad y del pago de la Tasa de Inspección."
+      },
+      {
+        "texto": "Subí el formulario y el comprobante de pago del trámite."
+      },
+      {
+        "texto": "Adjuntá la copia del comprobante de pago de la Tasa de Inspección."
+      },
+      {
+        "texto": "Adjuntá la Declaración Jurada conforme Art. 14.2.b del Anexo 'A', Resolución IGJ 08/2015."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La tasa de inspección debe abonarse al cierre de cada trimestre: 1° trimestre (enero-febrero-marzo) el 15 de abril; 2° trimestre (abril-mayo-junio) el 15 de julio; 3° trimestre (julio-agosto-setiembre) el 15 de octubre; 4° trimestre (octubre-noviembre-diciembre) el 15 de enero.",
+      "Se aplicará una multa igual a una vez y media la tasa de interés que perciba el Banco de la Nación Argentina en sus operaciones de descuento para documentos comerciales en caso de mora."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1500000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/pagar-la-tasa-de-inspeccion-de-sociedades-de-capitalizacion-y-ahorro"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/pagar-la-tasa-de-inspeccion-de-sociedades-de-capitalizacion-y-ahorro",
+      "titulo": "Pagar la Tasa de Inspección de Sociedades de Capitalización y Ahorro | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T23:15:27.368Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/justicia/igj/calculador-modulos",
+      "titulo": "Calculá el costo de los trámites de IGJ | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T23:15:27.368Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa de inspección para cada caso específico se calcula según el monto total percibido en el trimestre vencido y la normativa vigente.",
+    "La fecha de vigencia exacta del nuevo valor del módulo de $ 1.500 se indica como 08/04/2024, pero la fecha de inicio de la vigencia del nuevo valor para formularios anteriores se menciona como 04/06/2024 según RG IGJ 9/24."
+  ]
+}

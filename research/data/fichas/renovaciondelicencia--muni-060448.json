@@ -1,0 +1,88 @@
+{
+  "tramite": {
+    "slug": "renovar-licencia-de-conducir-laprida",
+    "nombre": "Renovar la licencia de conducir",
+    "nombre_busqueda": "renovar licencia de conducir Laprida",
+    "resumen": "Renovación de la licencia de conducir municipal. Incluye exámenes en la oficina de licencias y la presentación de documentación con turno.",
+    "sinonimos": [
+      "renovación de licencia",
+      "renovar registro de conducir"
+    ],
+    "temas": [
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060448",
+  "organismo": {
+    "nombre": "Municipalidad de Laprida",
+    "sigla": null,
+    "web": "https://laprida.gov.ar"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Vecinos y vecinas que tienen que renovar su licencia de conducir."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI o constancia en trámite.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Licencia de conducir o denuncia de extravío, tramitada en el registro provincial de las personas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Libre deuda de impuestos municipales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Sellados.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Sacá el turno para tramitar tu licencia en la web de turnos del municipio."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Hacé el examen de visión, audición y psicométrico en la oficina de licencias."
+      },
+      {
+        "texto": "Llevá la documentación y los sellados."
+      },
+      {
+        "texto": "Hacé el examen teórico si tenés 65 años o más, o si tenés la licencia vencida por más de tres meses."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://www.laprida.gov.ar/index.php/contenido/p/renovaciondelicencia",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.laprida.gov.ar/index.php/contenido/p/renovaciondelicencia",
+      "titulo": "Municipalidad de Laprida - Renovación de licencia",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T01:10:42.785Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se indica el costo ni el detalle de los sellados.",
+    "No se indica cuánto tarda la renovación.",
+    "No se aclara dónde retirar la licencia nueva.",
+    "No se aclara la validez de la licencia renovada.",
+    "El enlace de turnos se obtiene desde la ficha; no se verifica la URL del turnero."
+  ]
+}

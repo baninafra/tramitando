@@ -1,0 +1,103 @@
+{
+  "tramite": {
+    "slug": "renovar-yo-ampliar-la-licencia-nacional-de-conducir",
+    "nombre": "Renovar y/o ampliar la licencia nacional de conducir",
+    "nombre_busqueda": "Renovar licencia conducir",
+    "resumen": "Podés renovar o ampliar tu licencia nacional de conducir desde la web usando Mi Argentina. La licencia digital se emite automáticamente una vez finalizados los pasos obligatorios.",
+    "sinonimos": [
+      "Renovación de licencia nacional",
+      "Ampliación de licencia nacional"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A todas las personas que tengan una Licencia Nacional de Conducir vigente o vencida, y necesiten renovarla o ampliarla, ya sea para uso particular o profesional."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener usuario activo en la app Mi Argentina",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acceso a internet",
+        "aclaracion": null
+      },
+      {
+        "texto": "Medios de pago digitales",
+        "aclaracion": null
+      },
+      {
+        "texto": "Conocer el tipo de licencia que querés renovar y/o ampliar",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma"
+      },
+      {
+        "texto": "Validá tus datos personales"
+      },
+      {
+        "texto": "Seleccioná el trámite a realizar: renovación y/o ampliación de licencia"
+      },
+      {
+        "texto": "Si elegís la licencia profesional, indicá si es para transporte interjurisdiccional"
+      },
+      {
+        "texto": "Aboná las boletas del trámite elegido a través de las opciones disponibles"
+      },
+      {
+        "texto": "Elegí los prestadores para hacer los cursos y exámenes requeridos según la licencia que estés tramitando"
+      },
+      {
+        "texto": "Finalizado el trámite, tendrás la licencia digital en Mi Argentina"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Para obtener la versión física, tenés que contactarte al Centro Emisor de Licencias correspondiente a la jurisdicción"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/renovar-yo-ampliar-la-licencia-nacional-de-conducir",
+      "titulo": "Renovar y/o ampliar la Licencia Nacional de Conducir | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T03:35:39.591Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T03:35:39.591Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de las boletas no se especifica en el texto",
+    "El plazo de tiempo para completar el trámite no se especifica en el texto",
+    "La fecha de vigencia de la resolución que habilita el trámite no se especifica en el texto"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-habilitacion-de-verificacion-exportacion-fuera-de-horario",
+    "nombre": "Solicitud de habilitación de verificación exportación fuera de horario",
+    "nombre_busqueda": "Habilitación verificación exportación fuera de horario",
+    "resumen": "Permite solicitar la habilitación para realizar verificaciones de exportación fuera del horario normal, plasmada en el acta de verificación.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMaC",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Solicitantes que tengan inscritos, registrados y habilitados depósitos vigentes a su nombre."
+    ],
+    "requisitos": [
+      {
+        "texto": "Agregar este trámite al de Solicitud de Verificación de Exportación.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 5000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitud-de-habilitacion-de-verificacion-exportacion-fuera-de-horario"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitud-de-habilitacion-de-verificacion-exportacion-fuera-de-horario",
+      "titulo": "Solicitud de habilitación de verificación exportación fuera de horario | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "costo",
+        "quien",
+        "consejos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T00:17:33.197Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T00:17:33.197Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de los Centros de Atención de ANMaC.",
+    "Requisitos específicos para sacar turno en línea.",
+    "Plazo de respuesta o programación de la comisión verificadora."
+  ]
+}

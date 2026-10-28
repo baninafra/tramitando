@@ -1,0 +1,154 @@
+{
+  "tramite": {
+    "slug": "certificado-unico-de-discapacidad-motora",
+    "nombre": "Certificado Único de Discapacidad Motora",
+    "nombre_busqueda": "CUD motora",
+    "resumen": "Trámite para personas con discapacidad motora que requiere presentación presencial, estudios médicos específicos y evaluación por una Junta Interdisciplinaria.",
+    "sinonimos": [
+      "CUD motora",
+      "Certificado discapacidad motora"
+    ],
+    "temas": [
+      "certificado-unico-de-discapacidad",
+      "discapacidad-y-accesibilidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas con discapacidad de deficiencia física de origen motora."
+    ],
+    "requisitos": [
+      {
+        "texto": "Original y fotocopia del DNI con domicilio en Bahía Blanca.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Original y fotocopia del DNI, certificado o acta de nacimiento.",
+        "aclaracion": "Si sos menor de 18 años."
+      },
+      {
+        "texto": "Fotocopia del DNI del padre, madre, tutor o curador.",
+        "aclaracion": "Si sos menor de 18 años."
+      },
+      {
+        "texto": "Fotocopia de la resolución judicial.",
+        "aclaracion": "Si hay curatela o tutela."
+      },
+      {
+        "texto": "Planilla de Solicitud de CUD.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del carnet de Obra Social.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado médico o resumen de historia clínica con: Diagnóstico, estado actual y secuela que presenta.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planilla según patología: Miastenia Gravis.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Artritis Reumatoidea – Cuestionario HAQ.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pautas de Desarrollo Madurativas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Esclerosis Múltiple.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Patologías en Columna Vertebral.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informe de Electromiograma.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Radiografías.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ecografías.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tomografía computada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Resonancia Magnética.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Descargá y completá la planilla de solicitud de CUD y formularios según corresponda el tipo de discapacidad."
+      },
+      {
+        "texto": "Presentate personalmente en la oficina de Certificación de Discapacidad: Alsina 335 de lunes a viernes de 8:00 a 13:00 horas."
+      },
+      {
+        "texto": "Concurrí a la oficina de Certificación de Discapacidad donde se verificará si la documentación es la correcta. No es necesario que concurra el titular en este momento, puede hacerlo un tercero."
+      },
+      {
+        "texto": "Solicitá el turno para la evaluación que será otorgado por la oficina de certificación de discapacidad en forma telefónica."
+      },
+      {
+        "texto": "Concurrí en la fecha y horario indicado para la Junta Evaluadora Interdisciplinaria. Si sos incapaz de asistir, concurre otra persona con toda la documentación requerida y un certificado de supervivencia que no debe tener más de 24 horas desde su expedición."
+      },
+      {
+        "texto": "Retirá el CUD o la denegatoria desde la oficina de Certificación de Discapacidad."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Discapacidad",
+      "direccion": "Alsina 335",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/cud/motora/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/tramites/cud/motora/",
+      "titulo": "Discapacidad Motora | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T02:58:08.248Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el monto del trámite.",
+    "No se especifica el plazo de tramitación."
+  ]
+}

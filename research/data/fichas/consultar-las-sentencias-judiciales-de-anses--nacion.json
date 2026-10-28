@@ -1,0 +1,106 @@
+{
+  "tramite": {
+    "slug": "consultar-sentencias-judiciales-anses",
+    "nombre": "Consultar sentencias judiciales de ANSES",
+    "nombre_busqueda": "Consultar sentencias ANSES",
+    "resumen": "Podés consultar el listado de sentencias judiciales que publica mensualmente ANSES si sos jubilado o pensionado y tenés en trámite una nueva liquidación por reajuste de haberes.",
+    "sinonimos": [
+      "Ver sentencias judiciales ANSES",
+      "Consultar lista de sentencias ANSES"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración Nacional de la Seguridad Social",
+    "sigla": "ANSES",
+    "web": "https://www.argentina.gob.ar/anses"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Jubilados y pensionados",
+      "Apoderados de jubilados y pensionados",
+      "Abogados que aguardan sentencia judicial por reajustes en el cobro de sus haberes"
+    ],
+    "requisitos": [
+      {
+        "texto": "Nombre y apellido",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de prestación/beneficio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Mes",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la página de ANSES."
+      },
+      {
+        "texto": "Completá los datos: Nombre y apellido, Número de prestación/beneficio y Mes."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Ingresá a la Dirección General Análisis y Liquidación de Sentencias Judiciales en Alsina 250- PB, CABA."
+      },
+      {
+        "texto": "Completá los datos: Nombre y apellido, Número de prestación/beneficio y Mes."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Las sentencias condenatorias contra la Administración Nacional de la Seguridad Social serán cumplidas dentro del plazo de CIENTO VEINTE (120) días hábiles, contado a partir de la recepción efectiva del expediente administrativo correspondiente.",
+      "Es importante actualizar los datos de contacto en mi ANSES o en cualquier oficina de ANSES para recibir notificaciones por internet y en el domicilio.",
+      "De no haber podido cobrar las sumas retroactivas surgidas por una sentencia de reajuste en el período de pago oportunamente dispuesto, las mismas serán devueltas a la ANSES por la entidad bancaria correspondiente."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección General Análisis y Liquidación de Sentencias Judiciales",
+      "direccion": "Alsina 250- PB",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/consultar-las-sentencias-judiciales-de-anses"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consultar-las-sentencias-judiciales-de-anses",
+      "titulo": "Consultar las sentencias judiciales de ANSES | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-26T05:50:47.210Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T05:50:47.210Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia del trámite no está especificada en el texto.",
+    "El monto exacto de las sumas retroactivas no está especificado en el texto."
+  ]
+}

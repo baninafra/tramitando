@@ -1,0 +1,70 @@
+{
+  "tramite": {
+    "slug": "denuncias-anonimas-y-policiales",
+    "nombre": "Formulario de Denuncias Anónimas",
+    "nombre_busqueda": "Denuncias anónimas MCR",
+    "resumen": "Formulario para realizar denuncias anónimas ante la policía municipal de Coronel Rosales.",
+    "sinonimos": [
+      "Denuncia anónima",
+      "Reporte policial anónimo"
+    ],
+    "temas": [
+      "denuncias-anonimas-y-policiales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060182",
+  "organismo": {
+    "nombre": "Municipio de Coronel Rosales",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que desee realizar una denuncia anónima."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de Denuncias Anónimas",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Accedé al formulario de denuncias anónimas en la página oficial del Municipio de Coronel Rosales."
+      },
+      {
+        "texto": "Completá los datos requeridos en el formulario."
+      },
+      {
+        "texto": "Guardá el formulario para enviarlo."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mcr.gob.ar/documentos/denuncias-anonimas/",
+      "titulo": "DENUNCIAS ANÓNIMAS - MCR",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T22:38:22.835Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica si el trámite es gratuito o tiene costo.",
+    "No se especifica el plazo de respuesta o resolución de la denuncia.",
+    "No se especifica si se requiere turno para presentar la denuncia."
+  ]
+}

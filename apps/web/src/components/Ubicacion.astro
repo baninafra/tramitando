@@ -1,0 +1,115 @@
+---
+// Control de ubicación de la cabecera, en todas las páginas. Sin JS es un enlace a /ubicacion; con JS
+// abre un diálogo. En una ficha (`tramite`), al guardar lleva a la ficha de ese lugar.
+import CamposUbicacion from './CamposUbicacion.astro';
+import Icono from './Icono.astro';
+
+interface Props {
+  /** Slug del trámite si la página es una ficha. */
+  tramite?: string;
+}
+const { tramite } = Astro.props;
+---
+<a class="lugar" href="/ubicacion" data-abrir-ubicacion>
+  <Icono nombre="map-pin" />
+  <span data-lugar-texto>Elegí dónde vivís</span>
+  <svg class="icono flecha-lugar" viewBox="0 0 24 24" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg>
+</a>
+
+<dialog class="dialogo" aria-labelledby="dialogo-ubicacion-titulo" data-dialogo-ubicacion data-tramite={tramite}>
+  <form method="dialog" class="dialogo-form" data-form-ubicacion>
+    <div class="dialogo-cabecera">
+      <h2 id="dialogo-ubicacion-titulo">¿Dónde vivís?</h2>
+      <button type="submit" value="cerrar" class="cerrar" aria-label="Cerrar" formnovalidate><Icono nombre="x" /></button>
+    </div>
+    <p class="bajada">
+      {tramite
+        ? 'Te mostramos la ficha de tu lugar. Si todavía no la tenemos, la de tu provincia o la nacional.'
+        : 'Muchos trámites cambian según la provincia o el municipio. Te mostramos la versión que te toca.'}
+    </p>
+    <CamposUbicacion id="dialogo" />
+    <p class="nota">Se guarda solo en este navegador. No te pedimos cuenta ni datos.</p>
+    <div class="acciones">
+      <button type="submit" value="guardar" class="btn btn-primario">Usar este lugar</button>
+      <button type="submit" value="borrar" class="btn-texto" data-borrar formnovalidate>Borrar mi ubicación</button>
+    </div>
+  </form>
+</dialog>
+
+<script>
+  import { EVENTO, desdeSelects, filtrarMunicipios, guardarUbicacion, leerUbicacion, nombreUbicacion, ponerEnSelects, type UbicacionGuardada } from '../scripts/ubicacion';
+  import { conectarGps } from '../scripts/gps';
+
+  const dialogo = document.querySelector<HTMLDialogElement>('[data-dialogo-ubicacion]');
+  if (dialogo && typeof dialogo.showModal === 'function') {
+    const form = dialogo.querySelector<HTMLFormElement>('[data-form-ubicacion]')!;
+    const prov = form.querySelector<HTMLSelectElement>('[data-prov]')!;
+    const muni = form.querySelector<HTMLSelectElement>('[data-muni]')!;
+    const borrar = form.querySelector<HTMLButtonElement>('[data-borrar]')!;
+    const tramite = dialogo.dataset.tramite;
+    prov.addEventListener('change', () => filtrarMunicipios(prov, muni));
+    conectarGps(form);
+
+    const pintar = (u: UbicacionGuardada | null) => {
+      document.querySelectorAll('[data-lugar-texto]').forEach((t) => (t.textContent = u ? nombreUbicacion(u) : 'Elegí dónde vivís'));
+      borrar.hidden = !u;
+    };
+    pintar(leerUbicacion());
+    document.addEventListener(EVENTO, (e) => pintar((e as CustomEvent).detail));
+
+    document.querySelectorAll<HTMLAnchorElement>('[data-abrir-ubicacion]').forEach((a) =>
+      a.addEventListener('click', (e) => {
+        e.preventDefault();
+        ponerEnSelects(leerUbicacion(), prov, muni);
+        dialogo.returnValue = '';
+        dialogo.showModal();
+        prov.focus();
+      }),
+    );
+
+    dialogo.addEventListener('close', () => {
+      if (dialogo.returnValue === 'borrar') return guardarUbicacion(null);
+      if (dialogo.returnValue !== 'guardar') return;
+      const u = desdeSelects(prov, muni);
+      if (!u) return;
+      guardarUbicacion(u);
+      if (tramite) location.href = ['/tramites', tramite, u.prov, u.muni].filter(Boolean).join('/');
+    });
+    // Clic fuera del contenido cierra sin guardar.
+    dialogo.addEventListener('click', (e) => { if (e.target === dialogo) dialogo.close('cerrar'); });
+  }
+</script>
+
+<style>
+  .lugar {
+    display: inline-flex; align-items: center; gap: var(--espacio-2);
+    min-height: 44px; max-width: 100%; padding: var(--espacio-2) var(--espacio-4) var(--espacio-2) var(--espacio-3);
+    border-radius: var(--r-control); background: var(--superficie);
+    font: 600 15px/20px var(--font-sans); color: var(--tinta); text-decoration: none;
+    transition: background-color var(--t-hover) ease;
+  }
+  .lugar span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .lugar :global(.icono) { width: 18px; height: 18px; color: var(--celeste-tinta); }
+  .lugar .flecha-lugar { color: var(--tinta-2); }
+  @media (hover: hover) { .lugar:hover { background: var(--celeste-suave); } }
+
+  .dialogo {
+    width: min(600px, calc(100% - 2 * var(--espacio-4)));
+    border: 0; padding: 0; color: var(--tinta); background: var(--superficie-alta); border-radius: var(--r-panel);
+    box-shadow: 0 24px 80px rgba(0, 0, 0, 0.3); overflow: visible;
+  }
+  .dialogo::backdrop { background: rgba(21, 25, 29, 0.55); }
+  .dialogo-form { display: grid; gap: var(--espacio-5); padding: var(--espacio-6); }
+  .dialogo-cabecera { display: flex; justify-content: space-between; align-items: center; gap: var(--espacio-4); }
+  .dialogo h2 { font: 700 28px/1.1 var(--font-sans); letter-spacing: -0.02em; }
+  .cerrar { width: 44px; height: 44px; display: grid; place-items: center; border: 0; border-radius: 50%; background: var(--superficie); color: var(--tinta); cursor: pointer; }
+  @media (hover: hover) { .cerrar:hover { background: var(--celeste-suave); } }
+  .bajada { color: var(--tinta-2); }
+  .nota { font: var(--t-nota); color: var(--tinta-2); }
+  .acciones { display: flex; flex-wrap: wrap; gap: var(--espacio-4); align-items: center; }
+  @media (max-width: 479px) { .dialogo-form { padding: var(--espacio-5); } .acciones .btn { flex: 1 1 100%; } }
+  @media (prefers-reduced-motion: no-preference) {
+    .dialogo[open] { animation: dialogo-entra var(--t-ui) var(--ease-out); }
+    @keyframes dialogo-entra { from { opacity: 0; transform: scale(0.97) translateY(-6px); } }
+  }
+</style>

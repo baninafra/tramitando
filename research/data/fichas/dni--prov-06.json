@@ -1,0 +1,81 @@
+{
+  "tramite": {
+    "slug": "dni",
+    "nombre": "DNI nuevo ejemplar",
+    "nombre_busqueda": "DNI nuevo ejemplar",
+    "resumen": "Solicitá un nuevo DNI en línea o presencial. Podés hacerlo desde la app o portal del Gobierno de la Nación.",
+    "sinonimos": [
+      "DNI nuevo",
+      "DNI nuevo ejemplar",
+      "DNI nuevo online",
+      "DNI nuevo presencial"
+    ],
+    "temas": [
+      "dni"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "prov-06",
+  "organismo": {
+    "nombre": "Ministerio de Justicia y Derechos Humanos",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que tenga un DNI anterior o una constancia de extravío del mismo."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI anterior o constancia de extravío del mismo",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal del Gobierno de la Nación o a la app del Gobierno de la Nación."
+      },
+      {
+        "texto": "Buscá el trámite DNI nuevo ejemplar."
+      },
+      {
+        "texto": "Completá los datos y cargá la foto de tu rostro."
+      },
+      {
+        "texto": "Pagá la tasa correspondiente."
+      },
+      {
+        "texto": "Recibí el comprobante de pago."
+      },
+      {
+        "texto": "Guardá el comprobante para presentarlo en la oficina."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://portal.gba.gob.ar/tramite/13194",
+      "titulo": "Portal de Trámites",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T12:02:41.516Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa no se especifica en el texto.",
+    "El plazo de entrega del DNI no se especifica en el texto.",
+    "Si el trámite requiere turno, no se especifica en el texto.",
+    "La dirección de las oficinas no se especifica en el texto."
+  ]
+}

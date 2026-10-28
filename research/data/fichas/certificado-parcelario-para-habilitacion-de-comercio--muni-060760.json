@@ -1,0 +1,122 @@
+{
+  "tramite": {
+    "slug": "certificado-parcelario-habilitacion-comercial",
+    "nombre": "Certificado parcelario de habilitación comercial",
+    "nombre_busqueda": "Certificado parcelario habilitación comercial",
+    "resumen": "Se realiza para habilitaciones nuevas que deberán presentar Plano de Obra Aprobado con Destino Comercial. El trámite se realiza de manera virtual a través del Portal de Trámites.",
+    "sinonimos": [],
+    "temas": [
+      "habilitacion-comercial",
+      "comercio-e-industria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060760",
+  "organismo": {
+    "nombre": "Municipalidad San Miguel",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas físicas mayores de 18 años.",
+      "Personas jurídicas que busquen habilitar un comercio o servicio en el Partido de San Miguel."
+    ],
+    "requisitos": [
+      {
+        "texto": "Certificado de Factibilidad Aprobada o Resolución de Radicación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitud de Habilitación (declaración jurada).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de Activos Fijos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estatuto de Sociedad (para personas jurídicas).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poder legal (si aplica).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contrato de Locación, Comodato Timbrado o Boleto de Compra-Venta.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Escritura o Informe de Dominio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción en AFIP/ARCA con actividad y domicilio comercial actualizados.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción en Ingresos Brutos (si aplica).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano de obra aprobado con destino comercial.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano e Informe Antisiniestral aprobado por la Dirección General de Bomberos.",
+        "aclaracion": "Para superficies comerciales ≥200 m² o rubros de impacto alto."
+      },
+      {
+        "texto": "Certificado de Aptitud de Instalaciones Eléctricas (C.A.I.E).",
+        "aclaracion": "Para superficies comerciales ≥200 m² o rubros de impacto alto."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Presentar la documentación completa: Subir los archivos requeridos al Portal de Trámites."
+      },
+      {
+        "texto": "Evaluación técnico-administrativa: Se analiza la documentación presentada."
+      },
+      {
+        "texto": "Coordinación de inspección: Se acuerda una Inspección Final con el titular."
+      },
+      {
+        "texto": "Creación de cuentas y liquidaciones: Para rubros de impacto bajo, se crea la cuenta de Seguridad e Higiene, y el trámite se deriva al área de Tasas Comerciales para la liquidación inicial. Para rubros de impacto alto, se genera la cuenta comercial y se cobra el Derecho de Habilitación antes de continuar con la Resolución de Habilitación."
+      },
+      {
+        "texto": "Pago de Seguridad e Higiene: El titular recibirá la primera boleta de pago en la Ventanilla Única y deberá registrarse en el portal de Autogestión para continuar con los pagos mensuales."
+      },
+      {
+        "texto": "Finalización del trámite: Para rubros de impacto bajo: El Certificado de Habilitación estará disponible una vez realizado el pago inicial. Para rubros de impacto alto: Después de completar la Resolución de Habilitación, se le informará cuándo retirar el Certificado de Habilitación."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.msm.gov.ar/guia-tramites/habilitaciones/certificado-parcelario-para-habilitacion-de-comercio/",
+      "titulo": "Certificado parcelario de habilitación comercial - Municipalidad San Miguel",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T13:48:30.237Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto en centavos de peso.",
+    "La dirección exacta de la oficina para retirar el certificado en rubros de impacto alto.",
+    "El plazo exacto de validación del trámite."
+  ]
+}

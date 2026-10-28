@@ -1,0 +1,81 @@
+{
+  "tramite": {
+    "slug": "presentar-estados-contables",
+    "nombre": "Presentar estados contables",
+    "nombre_busqueda": "Presentar estados contables",
+    "resumen": "Trámite gratuito en línea para empresas de transporte automotor que prestan servicio público y unidades administrativas. Se requiere presentar documentación específica a través de TAD con clave fiscal de nivel 3.",
+    "sinonimos": [],
+    "temas": [
+      "emprendedores-y-monotributo",
+      "monotributo-social-y-general"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas de transporte automotor que prestan servicio público",
+      "Unidades administrativas que deban presentar sus estados contables anualmente"
+    ],
+    "requisitos": [
+      {
+        "texto": "Informe del contador",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de acta de asamblea aprobando estados contables",
+        "aclaracion": null
+      },
+      {
+        "texto": "Anexo II: Nota demostración patrimonio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informe especial de cumplimiento de patrimonio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Original del balance (solo SPU y SPI)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Presentá la documentación a través de TAD"
+      },
+      {
+        "texto": "Asegurá que la clave fiscal sea de nivel 3"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/presentar-estados-contables",
+      "titulo": "Presentar estados contables | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T07:38:22.522Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Fecha de vigencia del trámite",
+    "Si se requiere turno para la presentación"
+  ]
+}

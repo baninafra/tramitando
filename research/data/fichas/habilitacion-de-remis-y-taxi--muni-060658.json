@@ -1,0 +1,104 @@
+{
+  "tramite": {
+    "slug": "habilitacion-de-remis-y-taxi",
+    "nombre": "Habilitación de remis y taxi",
+    "nombre_busqueda": "Habilitación de taxi y remis",
+    "resumen": "Trámite para obtener la habilitación de taxis y vehículos de servicio público (remis) en el municipio de Quilmes.",
+    "sinonimos": [
+      "Licencia de taxi",
+      "Permiso de taxi Quilmes",
+      "Habilitación de transporte urbano"
+    ],
+    "temas": [
+      "taxis-remises-y-escolares"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060658",
+  "organismo": {
+    "nombre": "Agencia de Ordenamiento Urbano y Vial",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas naturales o jurídicas interesadas en operar taxis o vehículos de servicio público."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original o fotocopia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cédula de identidad de los conductores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de constancia de remisería con respecto a paradas de taxi.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de legalidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de numeración domiciliaria.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación domiciliaria y/o constatación dominial para trámites de habilitación comercial.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Libreta sanitaria vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación del vehículo (matrícula, licencia de circulación, seguro).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pago de tasas correspondientes.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá los requisitos en la oficina de la Agencia de Ordenamiento Urbano y Vial."
+      },
+      {
+        "texto": "Recibí el turno para la atención del trámite."
+      },
+      {
+        "texto": "Acudí al horario indicado para completar la habilitación."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Verificá que todos los documentos estén actualizados antes de ir a la oficina."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mi.quilmes.gov.ar/tramites/159/habilitacion-de-remis-y-taxi",
+      "titulo": "Habilitación de Remis y Taxi",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T14:09:13.077Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se especifica el monto exacto de las tasas en el texto oficial.",
+    "Se especifica el plazo de resolución del trámite.",
+    "Se especifica la dirección exacta de la oficina de atención.",
+    "Se especifica si el trámite se puede realizar completamente por internet."
+  ]
+}

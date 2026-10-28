@@ -1,0 +1,85 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-aprobacion-de-planos-de-obra",
+    "nombre": "Solicitud de aprobación de planos de obra",
+    "nombre_busqueda": "Aprobación de planos obras particulares",
+    "resumen": "Para obtener la aprobación de planos de obra, se deben presentar documentos específicos según el tipo de trámite (general, profesionales, carátulas o catastro) y cumplir con los requisitos de los profesionales de la construcción.",
+    "sinonimos": [
+      "Aprobación de planos particulares",
+      "Solicitud de planos obra nueva",
+      "Solicitud de planos obra subsistente"
+    ],
+    "temas": [
+      "obras-y-construccion",
+      "permiso-de-obra-y-planos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060364",
+  "organismo": {
+    "nombre": "Secretaria de Obras Particulares y Catastro",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Profesionales de la construcción",
+      "Solicitantes de aprobación de planos"
+    ],
+    "requisitos": [
+      {
+        "texto": "1 Foto carnet 4x4",
+        "aclaracion": null
+      },
+      {
+        "texto": "1 Fotocopia de DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "1 Fotocopia de Carnet Profesional Libre Deuda Colegio Profesional",
+        "aclaracion": null
+      },
+      {
+        "texto": "Timbrado, que debe ser solicitado en la Secretaría de Obras Particulares y Catastro",
+        "aclaracion": null
+      },
+      {
+        "texto": "Completar: solicitud de actualización de matriculación de profesionales de la construcción, actualización de datos y constitución de domicilio electrónico",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Secretaria de Obras Particulares y Catastro",
+      "direccion": "Teresa de Calcuta 143",
+      "localidad": "General Rodríguez",
+      "horario": null,
+      "fuente_url": "https://generalrodriguez.gob.ar/tramites/obras-particulares"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://generalrodriguez.gob.ar/tramites/obras-particulares",
+      "titulo": "Secretaria de Obras Particulares y Catastro | Municipalidad de General Rodriguez",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T13:29:17.034Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere verificar si el trámite se puede realizar completamente por internet o si es exclusivamente presencial.",
+    "No se especifica el plazo de resolución de la solicitud.",
+    "No se indica si se requiere sacar turno para la presentación de la solicitud."
+  ]
+}

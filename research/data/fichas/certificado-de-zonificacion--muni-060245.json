@@ -1,0 +1,113 @@
+{
+  "tramite": {
+    "slug": "certificado-de-zonificacion",
+    "nombre": "Certificado de zonificación",
+    "nombre_busqueda": "Certificado de zonificación",
+    "resumen": "Permite obtener un certificado de zonificación para emplazamiento de industrias y grandes superficies. Se entrega firmado por personal competente en menos de 3 días.",
+    "sinonimos": [],
+    "temas": [
+      "vivienda-y-servicios-del-hogar"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060245",
+  "organismo": {
+    "nombre": "Municipalidad de Ensenada",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Ciudadanos particulares y/o empresas",
+      "El interesado y/o apoderado"
+    ],
+    "requisitos": [
+      {
+        "texto": "Tres copias del Plano",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dos copias de la Solicitud",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación Anexa",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario El Municipal TV",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el expediente en la Mesa de Entradas, Don Bosco esq. La Merced."
+      },
+      {
+        "texto": "Recibí el Certificado de Zonificación firmado en la Subdirección de Planeamiento, Don Bosco esq. La Merced."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "15 minutos",
+    "consejos": [
+      "El resultado se notifica y se entrega en no más de 3 días en la Subdirección de Planeamiento.",
+      "Sin determinación de tiempo para el resto de los sectores."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 500,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.ensenada.gov.ar/certificado-de-zonificacion/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Subdirección de Planeamiento",
+      "direccion": "Don Bosco esq. La Merced",
+      "localidad": "Don Bosco esq. La Merced",
+      "horario": null,
+      "fuente_url": "https://www.ensenada.gov.ar/certificado-de-zonificacion/"
+    },
+    {
+      "nombre": "Secretaría de Hacienda",
+      "direccion": "San Martín esq. Pte. Perón",
+      "localidad": "San Martín esq. Pte. Perón",
+      "horario": null,
+      "fuente_url": "https://www.ensenada.gov.ar/certificado-de-zonificacion/"
+    },
+    {
+      "nombre": "Mesa de Entradas",
+      "direccion": "Don Bosco esq. La Merced",
+      "localidad": "Don Bosco esq. La Merced",
+      "horario": null,
+      "fuente_url": "https://www.ensenada.gov.ar/certificado-de-zonificacion/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.ensenada.gov.ar/certificado-de-zonificacion/",
+      "titulo": "CERTIFICADO DE ZONIFICACIÓN – Municipalidad de Ensenada",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T23:15:58.939Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horario de atención de las oficinas",
+    "Vigencia del trámite desde",
+    "Requisitos específicos para casos especiales"
+  ]
+}

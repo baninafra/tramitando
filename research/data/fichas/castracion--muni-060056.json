@@ -1,0 +1,88 @@
+{
+  "tramite": {
+    "slug": "castraciones-y-vacunas",
+    "nombre": "Móviles de castración y vacunación antirrábica",
+    "nombre_busqueda": "Móviles de castración y vacunación antirrábica",
+    "resumen": "Solicitá turnos por teléfono para llevar a los animales a los móviles de castración y vacunación antirrábica ubicados en diferentes puntos del municipio.",
+    "sinonimos": [
+      "Móviles de castración",
+      "Vacunación antirrábica móvil"
+    ],
+    "temas": [
+      "animales-y-zoonosis",
+      "castraciones-y-vacunas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona con el animal a castrar o vacunar."
+    ],
+    "requisitos": [
+      {
+        "texto": "Animal a castrar o vacunar.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Llamá al número indicado para elegir el móvil que más te convenga."
+      },
+      {
+        "texto": "Acudí al móvil seleccionado con el animal en el horario indicado."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Móvil 1",
+      "direccion": "Parque Independencia, Entrando por Balboa y Munilla",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/turnos/castracion/"
+    },
+    {
+      "nombre": "Móvil 2",
+      "direccion": "Vieytes 2700",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/turnos/castracion/"
+    },
+    {
+      "nombre": "Móvil 4",
+      "direccion": "Tarija 1350",
+      "localidad": "Villa Serra",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/turnos/castracion/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/turnos/castracion/",
+      "titulo": "Móviles de Castración | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T20:05:27.793Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos adicionales más allá del animal.",
+    "No se especifican costos."
+  ]
+}

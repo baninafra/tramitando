@@ -1,0 +1,107 @@
+{
+  "tramite": {
+    "slug": "solicitar-un-ismn-para-musica-impresa",
+    "nombre": "Solicitar un ISMN para música impresa",
+    "nombre_busqueda": "pedir un código ISMN para música impresa",
+    "resumen": "Si editás música impresa, podés pedir códigos ISMN para identificar tus publicaciones. La Agencia Nacional ISMN los asigna según tu producción editorial.",
+    "sinonimos": [
+      "pedir un número ISMN"
+    ],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Biblioteca Nacional",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Compositores, editores, productores y distribuidores de música, además de bibliotecas, archivos y centros de documentación especializados en música."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nombre de la editorial.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos del titular de la editorial.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dirección postal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Correo electrónico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Teléfono.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Página web.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cantidad de títulos que editás al año.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate al tercer piso de la Biblioteca Nacional, en Agüero 2502, Ciudad Autónoma de Buenos Aires, de lunes a viernes de 10 a 18, para hacer la solicitud."
+      },
+      {
+        "texto": "Recibí los códigos que la Agencia Nacional ISMN te asigna según tu producción editorial."
+      },
+      {
+        "texto": "Distribuí los códigos entre tus publicaciones."
+      },
+      {
+        "texto": "Enviá a la Agencia Nacional un formulario por cada título para que valide los códigos."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El ISMN identifica publicaciones de música impresa para venta, alquiler, difusión gratuita o ejercicio de derechos de autor."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Agencia Nacional ISMN",
+      "direccion": "Agüero 2502, 3° piso",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-un-ismn-para-musica-impresa"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-un-ismn-para-musica-impresa",
+      "titulo": "Solicitar un ISMN para música impresa | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T16:23:43.013Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa si necesitás sacar turno.",
+    "No se informa el costo del trámite.",
+    "No se informa el plazo de asignación de los códigos."
+  ]
+}

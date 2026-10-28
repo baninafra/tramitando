@@ -1,0 +1,69 @@
+{
+  "tramite": {
+    "slug": "permiso-retiro-poda-arboles-movimiento-suelos",
+    "nombre": "Permiso para retirar o podar árboles y mover suelos",
+    "nombre_busqueda": "permiso de retiro o poda de árboles y movimiento de suelos",
+    "resumen": "Iniciá el trámite desde el Portal Web de Autogestión del municipio. Para empezar, completá el formulario en línea y subí la documentación necesaria en formato digital.",
+    "sinonimos": [
+      "permiso de poda",
+      "permiso para retirar árboles"
+    ],
+    "temas": [
+      "poda-y-arbolado",
+      "ambiente-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060553",
+  "organismo": {
+    "nombre": "Municipalidad de Monte Hermoso",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "La página indica que el trámite está disponible para la ciudadanía."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documentación necesaria para el trámite, en formato digital.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Registrate en el Portal Web de Autogestión si todavía no tenés una cuenta."
+      },
+      {
+        "texto": "Completá el formulario en línea correspondiente."
+      },
+      {
+        "texto": "Subí en formato digital toda la documentación necesaria."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://montehermoso.gov.ar/sitio/tramites-municipales/gestion-ambiental/",
+      "titulo": "Gestión Ambiental - Monte Hermoso sitio oficial",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T15:16:53.008Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se detallan cuáles son los documentos necesarios.",
+    "No se especifica quiénes pueden iniciar el trámite."
+  ]
+}

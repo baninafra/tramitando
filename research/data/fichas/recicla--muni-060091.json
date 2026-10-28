@@ -1,0 +1,100 @@
+{
+  "tramite": {
+    "slug": "recoleccion-de-residuos",
+    "nombre": "Programa de Reciclaje Vecinal",
+    "nombre_busqueda": "Bera Recicla",
+    "resumen": "Programa de separación de residuos sólidos donde los vecinos llevan adelante la clasificación en casa y depositan los materiales en EcoPuntos o en el Edificio Municipal.",
+    "sinonimos": [
+      "Bera Recicla",
+      "Reciclaje en Berazategui",
+      "Separación de residuos"
+    ],
+    "temas": [
+      "recoleccion-de-residuos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060091",
+  "organismo": {
+    "nombre": "Municipalidad de Berazategui",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier vecino de Berazategui."
+    ],
+    "requisitos": [
+      {
+        "texto": "Llevá adelante la separación de los residuos sólidos en tu casa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Colocá los residuos en bolsas, preferiblemente limpias y secas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si sos menor de edad, dejá las bolsas en el cesto de basura si no vas a estar en casa.",
+        "aclaracion": "Menores de edad."
+      },
+      {
+        "texto": "Si llueve, no hace falta sacar las bolsas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Deposité papel, cartón y plástico en el cesto correspondiente del EcoPunto más cercano.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dejé separados papel, cartón y plástico en el Edificio Municipal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Sacá la basura domiciliaria que no sea papel, cartón o plástico embolsada y en la puerta de tu casa.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate al EcoPunto más cercano o al Edificio Municipal (Av. 14 e/ 131 y 131 A)."
+      },
+      {
+        "texto": "Deposité los materiales separados en los contenedores correspondientes."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Edificio Municipal",
+      "direccion": "Av. 14 e/ 131 y 131 A",
+      "localidad": "Av. 14 e/ 131 y 131 A",
+      "horario": null,
+      "fuente_url": "https://berazategui.gob.ar/recicla/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://berazategui.gob.ar/recicla/",
+      "titulo": "Bera Recicla – Municipalidad de Berazategui",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T11:07:10.590Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos ni costos.",
+    "No se especifica plazo de vigencia.",
+    "No se especifica dirección de oficinas además del Edificio Municipal."
+  ]
+}

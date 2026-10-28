@@ -1,0 +1,78 @@
+{
+  "tramite": {
+    "slug": "visita-guiada-biblioteca-nacional",
+    "nombre": "Visita guiada a la Biblioteca Nacional",
+    "nombre_busqueda": "Visita guiada Biblioteca Nacional",
+    "resumen": "Recorrido presencial de dos horas en la Biblioteca Nacional para el público general y grupos educativos, sin costo y sin necesidad de turno.",
+    "sinonimos": [
+      "Visita guiada Biblioteca Nacional",
+      "Recorrido Biblioteca Nacional",
+      "Visita educativa Biblioteca Nacional"
+    ],
+    "temas": [
+      "cultura-deportes-y-turismo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Biblioteca Nacional",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Toda persona interesada en conocer la institución y su historia.",
+      "Instituciones y establecimientos educativos de los niveles inicial, primario, secundario y terciario.",
+      "Grupos de profesores y/o estudiantes de Arquitectura, Diseño Gráfico, Ingeniería u otras carreras relacionadas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Respetar el horario convenido.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acercarse al hall central de la Biblioteca Nacional en los días y horarios indicados.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate al hall central de la Biblioteca Nacional, Agüero 2502, Ciudad de Buenos Aires, en los siguientes días y horario: Lunes a viernes 12 h y sábados 14 y 16 h."
+      },
+      {
+        "texto": "Participá de la visita guiada. El recorrido se inicia con puntualidad con las personas presentes a la hora indicada en el hall de la Biblioteca."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El recorrido dura aproximadamente dos horas.",
+      "Para grupos educativos, el cupo es de 30 alumnos y las visitas son los lunes a viernes a las 10 o a las 14 h.",
+      "Para universidades relacionadas con Arquitectura, Diseño Gráfico, Ingeniería u otras carreras, consultá con el Archivo Patrimonio Histórico Constructivo Edificio."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/realizar-una-visita-guiada-la-biblioteca-nacional",
+      "titulo": "Realizar una visita guiada a la Biblioteca Nacional | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:47:53.997Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horarios específicos para grupos de profesores y estudiantes universitarios.",
+    "Dirección exacta del Archivo Patrimonio Histórico Constructivo Edificio."
+  ]
+}

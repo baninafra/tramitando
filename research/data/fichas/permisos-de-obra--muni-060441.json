@@ -1,0 +1,97 @@
+{
+  "tramite": {
+    "slug": "permisos-de-obra",
+    "nombre": "Permisos de obra",
+    "nombre_busqueda": "permiso municipal para hacer una obra",
+    "resumen": "Pedí autorización municipal para realizar los trabajos comprendidos en el artículo 19 de la Ordenanza 10681. El trámite es presencial y requiere turno previo.",
+    "sinonimos": [
+      "permiso de construcción"
+    ],
+    "temas": [
+      "permiso-de-obra-y-planos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060441",
+  "organismo": {
+    "nombre": "Municipalidad de La Plata",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que necesitan autorización municipal para ejecutar los trabajos comprendidos en el artículo 19 de la Ordenanza 10681."
+    ],
+    "requisitos": [
+      {
+        "texto": "Carpeta de obra con los datos del inmueble, de las personas propietarias y de los profesionales, certificada y liberada por Catastro.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ingreso de Monotasa impreso y completo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Una copia del plano visado por el colegio profesional y el contrato correspondiente o su QR.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dos copias de los planos identificadas con la actuación profesional.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Una copia del plano de PH, una copia del plano que dio origen al PH y la autorización de las personas copropietarias.",
+        "aclaracion": "Si el inmueble está sometido al régimen de propiedad horizontal."
+      },
+      {
+        "texto": "Certificado de servicios de agua y cloacas.",
+        "aclaracion": "Si la construcción está fuera del casco y tiene más de una unidad."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Sacá un turno con la opción «Consulta Administrativa - Ingreso y Egreso Documentación»."
+      },
+      {
+        "texto": "Presentá la carpeta de obra y la documentación requerida."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://turnos.laplata.gob.ar/misdatos",
+    "plazo": null,
+    "consejos": [
+      "El análisis del proyecto puede requerir la intervención de otras dependencias por normativa nacional, provincial o municipal."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://tramites.laplata.gob.ar/obrasparticulares/permisos-de-obra.html",
+      "titulo": "Obras Particulares - Municipalidad de La Plata",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:15:00.923Z"
+    },
+    {
+      "url": "https://turnos.laplata.gob.ar/misdatos",
+      "titulo": "Turnos online - Municipalidad de La Plata",
+      "bloques": [
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T14:15:00.923Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa un costo para el trámite.",
+    "No se indica cuánto tarda el trámite."
+  ]
+}

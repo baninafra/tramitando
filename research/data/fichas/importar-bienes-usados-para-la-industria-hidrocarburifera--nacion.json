@@ -1,0 +1,116 @@
+{
+  "tramite": {
+    "slug": "importar-bienes-usados-industria-hidrocarburifera",
+    "nombre": "Importar bienes usados para la industria hidrocarburifera",
+    "nombre_busqueda": "Importar maquinaria usada industria petrolera",
+    "resumen": "Permite importar máquinas o equipamiento reacondicionados para empresas de servicios hidrocarburíferos, siempre que se cumplan compromisos de compra de bienes nacionales y se obtenga el CIBUIH.",
+    "sinonimos": [
+      "Importación de maquinaria reacondicionada para industria petrolera",
+      "CIBUIH industria hidrocarburifera"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo",
+      "comercio-e-industria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Secretaría de Coordinación de Producción",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Ser una empresa de servicios relacionada directamente a la actividad hidrocarburífera",
+      "Estar inscripto en el registro de empresas petroleras",
+      "Estar adherido al servicio de Trámites a Distancia (TAD)"
+    ],
+    "requisitos": [
+      {
+        "texto": "CUIT",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave fiscal",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planilla de información sobre el bien producido localmente (para productores locales inscriptos en TAD)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD (Trámites a Distancia) con tu CUIT y clave fiscal."
+      },
+      {
+        "texto": "Buscá el trámite en la categoría Ministerio de Producción y completá los pasos del proceso."
+      },
+      {
+        "texto": "Realizá la Acreditación de compra local para CIBUIH."
+      },
+      {
+        "texto": "Realizá la Alta de proveedor local para consulta de CIBUIH."
+      },
+      {
+        "texto": "Realizá la Declaración jurada de provisión local para CIBUIH."
+      },
+      {
+        "texto": "Realizá la Solicitud de CIBUIH adjuntando la plantilla correspondiente."
+      },
+      {
+        "texto": "Imprimí el certificado y presentalo en Aduana."
+      },
+      {
+        "texto": "Presentá una copia del despacho aduanero dentro de los noventa días desde que se despacha la mercadería."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El CIBUIH tiene una vigencia de 120 días hábiles desde su emisión.",
+      "El compromiso de adquisición de bienes nacionales debe hacerse en un plazo de dos años y por un monto igual o superior al de la operación, dependiendo de la relevancia del bien.",
+      "Los compromisos de adquisición deben hacerse efectivos mediante la constitución de garantías ante la Secretaría de Industria."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/importar-bienes-usados-para-la-industria-hidrocarburifera",
+      "titulo": "Importar bienes usados para la industria hidrocarburífera | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T16:30:21.416Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/produccion/consulta-importar-bienes-usados-para-la-industria-hidrocarburifera",
+      "titulo": "Envianos tu consulta sobre el trámite de importar bienes usados para la industria hidrocarburífera | Argentina.gob.ar",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T16:30:21.416Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T16:30:21.416Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del compromiso de adquisición de bienes nacionales depende de la antigüedad del bien y la relevancia del mismo.",
+    "La fecha exacta de vigencia del CIBUIH se calcula desde su emisión (120 días hábiles), pero no se especifica una fecha fija de inicio."
+  ]
+}

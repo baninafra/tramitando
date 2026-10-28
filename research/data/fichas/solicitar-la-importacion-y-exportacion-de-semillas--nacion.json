@@ -1,0 +1,140 @@
+{
+  "tramite": {
+    "slug": "solicitar-la-importacion-y-exportacion-de-semillas",
+    "nombre": "Solicitar la importación y exportación de semillas",
+    "nombre_busqueda": "importar exportar semillas",
+    "resumen": "Para importar o exportar semillas u órganos de propagación vegetal, necesitás tramitar una solicitud ante el INASE que emitirá el certificado correspondiente con las exigencias establecidas.",
+    "sinonimos": [
+      "importación y exportación de semillas",
+      "ingreso y egreso de semillas"
+    ],
+    "temas": [
+      "produccion-rural"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto Nacional de Semillas",
+    "sigla": "INASE",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Operadores comerciales interesados en exportar/importar semillas u otros órganos de propagación.",
+      "Investigadores científicos, genetistas y viveristas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Adjuntar Nota de compromiso de no difusión ni entrega a terceros del material no inscripto en el Catálogo Nacional de Cultivares.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Adjuntar Factura o Packing List.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cumplimentar los requisitos adicionales según especie y normativa (Resolución SAGYP Nº 715/94 para Papa, Resolución INASE Nº 385/97 para Olivo, Resolución INASE Nº 315/97 para Zapallo redondo de tronco variedad, Resolución INASE Nº 256/99 para Forestales, Resolución INASE Nº 305/07 para Colza).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener conocimiento del Instructivo TAD.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener conocimiento del Instructivo para el Sistema de Gestión Online de importación y exportación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener conocimiento del Manual de Usuario para importar y exportar semillas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener acceso a E-Recauda.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener conocimiento del Instructivo de E-Recauda.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Adjuntar el comprobante de pago del VEP en la solicitud de importación/exportación al momento de su presentación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estar inscripto en el Registro Nacional de Comercio y Fiscalización de Semillas (RNCyFS).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresa a la plataforma TAD."
+      },
+      {
+        "texto": "Completá el formulario de solicitud de Importación/exportación."
+      },
+      {
+        "texto": "Adjunta la documentación escaneada y el comprobante de pago del VEP."
+      },
+      {
+        "texto": "Recibí la confirmación en tu correo electrónico."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "96 horas",
+    "consejos": [
+      "El plazo puede variar entre 48 a 96 horas sujeto a acreditación de pago.",
+      "La vigencia del pago es de 60 días corridos desde su aprobación."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 595000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-la-importacion-y-exportacion-de-semillas"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-importacion-y-exportacion-de-semillas",
+      "titulo": "Solicitar la importación y exportación de semillas | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T09:53:53.660Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T09:53:53.660Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/",
+      "titulo": "Inicio | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T09:53:53.660Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Vigencia del trámite no especificada en el texto.",
+    "Dirección de oficinas no especificada en el texto.",
+    "Requisitos adicionales específicos para otras especies no detallados en el texto."
+  ]
+}

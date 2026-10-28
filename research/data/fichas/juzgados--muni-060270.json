@@ -1,0 +1,79 @@
+{
+  "tramite": {
+    "slug": "descargo-y-regularizacion-de-multas",
+    "nombre": "Hacer un descargo o pagar una multa",
+    "nombre_busqueda": "descargo y pago de multas en Ezeiza",
+    "resumen": "En el Juzgado de Faltas de Ezeiza podés consultar por causas de faltas y contravenciones, abonar multas y solicitar una audiencia con el juez para hacer un descargo.",
+    "sinonimos": [
+      "descargo de multa",
+      "pago de multas de tránsito"
+    ],
+    "temas": [
+      "juzgado-de-faltas",
+      "infracciones-y-multas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060270",
+  "organismo": {
+    "nombre": "Juzgado de Faltas Nº 2 de Ezeiza",
+    "sigla": null,
+    "web": "https://www.ezeiza.gob.ar/juzgados.php"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés consultar por causas civiles de faltas y contravenciones dictadas por la Policía o por entidades provinciales o municipales en Ezeiza, como multas viales o de medio ambiente."
+    ],
+    "requisitos": [
+      {
+        "texto": "El texto de la página no especifica qué documentación necesitás.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate al Juzgado de Faltas para recibir atención por tu causa."
+      },
+      {
+        "texto": "Solicitá una audiencia con el juez para hacer tu descargo."
+      },
+      {
+        "texto": "Pagá la multa si corresponde."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Juzgado de Faltas Nº 2 de Ezeiza",
+      "direccion": "Avellaneda 27 (Edificio Amigo Néstor)",
+      "localidad": "Ezeiza",
+      "horario": null,
+      "fuente_url": "https://www.ezeiza.gob.ar/juzgados.php"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.ezeiza.gob.ar/juzgados.php",
+      "titulo": "Juzgados - Ezeiza Municipio",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T12:34:48.693Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La página no detalla los requisitos para hacer el trámite.",
+    "La página no indica si necesitás turno.",
+    "La página no informa el monto de las multas."
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "tramite": {
+    "slug": "solicitar-parque-movil-empresa-transporte",
+    "nombre": "Solicitar el parque móvil de una empresa de transporte automotor",
+    "nombre_busqueda": "Solicitar parque móvil empresa transporte",
+    "resumen": "Se puede solicitar el parque móvil de empresas de Servicio Público Urbano de forma gratuita a través de TAD. Debe ser realizado por una autoridad declarada o un apoderado.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Comisión Nacional de Regulación del Transporte",
+    "sigla": "CNRT",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas de Servicio Público que necesiten información de su Parque Móvil.",
+      "Una autoridad declarada o un apoderado en representación de la empresa."
+    ],
+    "requisitos": [
+      {
+        "texto": "Código de empresa CNRT (número)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tipo de empresa: Servicio Público Urbano",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave fiscal de nivel 3",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Presentá la documentación a través de TAD."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-el-parque-movil-de-una-empresa-de-transporte-automotor",
+      "titulo": "Solicitar el parque móvil de una empresa de transporte automotor | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T08:35:03.370Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T08:35:03.370Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/cdn-cgi/content?id=96.Cabvke6iy1xcIUzndG7hhOzpFuo7dCDCPL3xkCvk-1792995238.3948872-1.2.1.1-UMYV6M9ofLLKiJnMuvwv57jvGEhFvmdCEHuK3GDiqV2vpbhz4_Kb9Qnau2SHu.f1",
+      "titulo": "Diamond Research: Unveiling the Mysteries of the Ancients",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T08:35:03.370Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite no está especificada en el texto.",
+    "No se indica si el trámite requiere turno ni cuál es la dirección de las oficinas."
+  ]
+}

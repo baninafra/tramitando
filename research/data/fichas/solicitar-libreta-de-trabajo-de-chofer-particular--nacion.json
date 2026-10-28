@@ -1,0 +1,70 @@
+{
+  "tramite": {
+    "slug": "solicitar-libreta-de-trabajo-de-chofer-particular",
+    "nombre": "Solicitar libreta de trabajo de chofer particular",
+    "nombre_busqueda": "solicitar libreta trabajo chofer particular",
+    "resumen": "Si trabajás como conductor de automóviles particulares, tenés que solicitar tu Libreta de Trabajo. Es un documento necesario para el control de la jornada, descanso y licencias.",
+    "sinonimos": [],
+    "temas": [
+      "trabajo-y-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Trabajo, Empleo y Seguridad Social",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Todo conductor profesional de automóviles particulares"
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Una vez rubricada por la autoridad local, la libreta tiene 12 meses que deben completarse.",
+      "Los conductores deberán presentar las solicitudes de renovación de las libretas al Ministerio de Trabajo, Empleo y Seguridad Social con suficiente anticipación.",
+      "Las libretas deben ser presentadas por el empleador ante la autoridad laboral local para su rúbrica previo a empezar a completarse."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-libreta-de-trabajo-de-chofer-particular",
+      "titulo": "Solicitar Libreta de Trabajo de chofer particular | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T09:54:47.463Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T09:54:47.463Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se retira con el DNI",
+    "Enviar correo electrónico con los datos solicitados a email@servicio.gob.ar",
+    "Pasarse a retirar por la Dirección de Inspección Federal o la Agencia Territorial más cercana a tu domicilio una vez que la libreta esté lista",
+    "La fecha exacta de vigencia o la fecha de la resolución normativa no está confirmada en el texto."
+  ]
+}

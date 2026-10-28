@@ -1,0 +1,90 @@
+{
+  "tramite": {
+    "slug": "aprobacion-de-planos",
+    "nombre": "Aprobación de Planos",
+    "nombre_busqueda": "Aprobación de Planos",
+    "resumen": "Trámite municipal para revisar y autorizar planos de construcción o remodelación, asegurando cumplimiento de normativas urbanísticas, de seguridad y ambientales.",
+    "sinonimos": [],
+    "temas": [
+      "obras-y-construccion",
+      "permiso-de-obra-y-planos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060028",
+  "organismo": {
+    "nombre": "Municipio de Almirante Brown",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Solicitudes Ciudadanas"
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Carpeta de obra",
+        "aclaracion": null
+      },
+      {
+        "texto": "2 copias de plano",
+        "aclaracion": null
+      },
+      {
+        "texto": "Libre deuda",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pago de anteproyecto",
+        "aclaracion": null
+      },
+      {
+        "texto": "DDJJ de materiales",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado Catastral",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Uso del Suelo",
+      "direccion": "Rosales 1312",
+      "localidad": "Adrogué",
+      "horario": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/aprobacion-de-planos/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.brown.gob.ar/tramites/aprobacion-de-planos/",
+      "titulo": "Aprobación de Planos",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T19:47:29.933Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere verificar si el trámite se puede realizar completamente por internet o solo de forma presencial.",
+    "No se especifica el plazo de resolución del trámite.",
+    "No se especifica si se requiere sacar turno para la atención presencial.",
+    "No se especifica el monto exacto del pago de anteproyecto en centavos."
+  ]
+}

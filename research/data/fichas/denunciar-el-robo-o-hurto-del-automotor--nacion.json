@@ -1,0 +1,105 @@
+{
+  "tramite": {
+    "slug": "denunciar-el-robo-o-hurto-del-automotor",
+    "nombre": "Denunciar el robo o hurto del automotor",
+    "nombre_busqueda": "Denunciar robo o hurto de auto",
+    "resumen": "Si te sustrajeron el vehículo, lo primero que tenés que hacer es la denuncia policial. Luego iniciá el trámite en el Registro de Propiedad del Automotor presentando la documentación correspondiente.",
+    "sinonimos": [
+      "Denuncia robo automotor",
+      "Denuncia hurto vehículo"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro de Propiedad del Automotor",
+    "sigla": "DNRPA",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quien haya sido víctima de robo o hurto de un auto, moto o maquinaria."
+    ],
+    "requisitos": [
+      {
+        "texto": "Denuncia policial o judicial del robo o hurto, presentada por vos como titular o un tercero a cargo del automotor en el momento del hecho.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitud Tipo 04.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título del automotor y cédula de identificación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento identificatorio: DNI (si sos argentino), pasaporte (si sos extranjero sin residencia), DNI (si sos extranjero con residencia permanente), dni, ci, ci del país de origen o pasaporte (si sos de países limítrofes).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si sos el representante legal o apoderado, deberás presentar documentos que prueben esa representación que invocás.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de que el vehículo tenga multas o infracciones de tránsito: Solicitud Tipo 13I.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de prenda sobre el automotor: notificación de lo ocurrido al acreedor prendario, por medio de telegrama o carta documento, o bien a través de su firma certificada en la Solicitud Tipo 04.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Concurrí a la comisaría más cercana al lugar del robo."
+      },
+      {
+        "texto": "Allí te entregarán original y fotocopia de la denuncia, la que también será ingresada en el sistema policial de búsqueda de autos robados."
+      },
+      {
+        "texto": "Llamá a la compañía de seguros."
+      },
+      {
+        "texto": "Completá la Solicitud electrónica."
+      },
+      {
+        "texto": "Complementá luego el trámite de manera presencial en el Registro."
+      },
+      {
+        "texto": "Presentá la documentación en el Registro donde está radicado el vehículo."
+      },
+      {
+        "texto": "Retirá la Constancia de Titularidad y el triplicado de la Solicitud Tipo 04, dos días más tarde."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/denunciar-el-robo-o-hurto-del-automotor",
+      "titulo": "Denunciar el robo o hurto del automotor | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T15:13:14.853Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto del trámite no se especifica en el texto.",
+    "El plazo exacto para la resolución no se especifica en el texto."
+  ]
+}

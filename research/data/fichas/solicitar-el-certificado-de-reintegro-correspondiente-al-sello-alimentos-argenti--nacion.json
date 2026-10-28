@@ -1,0 +1,81 @@
+{
+  "tramite": {
+    "slug": "solicitar-certificado-reintegro-sello-alimentos",
+    "nombre": "Solicitar el certificado de reintegro correspondiente al sello alimentos argentinos o una denominación de origen",
+    "nombre_busqueda": "Certificado reintegro sello alimentos argentinos",
+    "resumen": "Si exportás productos con el Sello Alimentos Argentinos o con Denominación de Origen, podés obtener un reintegro adicional. El trámite se hace en línea en TAD y tiene validez por una sola exportación.",
+    "sinonimos": [
+      "Certificado reintegro sello Alimentos Argentinos",
+      "Reintegro sello Alimentos Argentinos o Denominación de Origen"
+    ],
+    "temas": [
+      "bromatologia-y-alimentos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Economía",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Aquellos productores que cuenten con el derecho de uso del Sello Alimentos Argentinos o su versión en inglés, debidamente autorizados por el Ministerio de Agroindustria.",
+      "Quienes cuenten con una Denominación de Origen o una Indicación Geográfica, debidamente registrada."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de Reintegro para el Sello Alimentos Argentinos una Elección Natural o las Denominaciones de Origen e Indicaciones Geográficas.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Realizar la Solicitud de Certificado de Reintegro correspondiente al Sello Alimentos Argentinos o a una Denominación de Origen o una Indicación Geográfica, a través de la plataforma TAD, de acuerdo a lo establecido mediante el Decreto Nº 1341/16."
+      },
+      {
+        "texto": "Adjuntar la documentación solicitada y anteriormente completada."
+      },
+      {
+        "texto": "Una vez finalizado selecciona continuar."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "24 a 72 horas hábiles",
+    "consejos": [
+      "El trámite tendrá validez solamente para una exportación; por cada embarque se deberá realizar un nuevo trámite.",
+      "El Despachante de Aduana al ingresar al sistema Malvina para declarar la exportación a realizarse, será consultado si el producto que se desea exportar resulta beneficiario del Decreto N° 1341/16 – Resolución 90-E 2017 del Ministerio de Agroindustria, consulta que será respondida positivamente."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-el-certificado-de-reintegro-correspondiente-al-sello-alimentos-argentinos-o-una",
+      "titulo": "Solicitar el Certificado de Reintegro correspondiente al Sello Alimentos Argentinos o a una Denominación de Origen o una Indicación Geográfica | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:26:28.284Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T08:26:28.284Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El portal exacto para acceder a TAD no se especifica en el texto, solo se menciona que se debe acceder a través de la plataforma Trámites a Distancia.",
+    "No se menciona si el trámite requiere turno en la página oficial del trámite, aunque la página de turnos indica que para la mayoría de los turnos se necesita DNI argentino y cuenta en Mi Argentina."
+  ]
+}

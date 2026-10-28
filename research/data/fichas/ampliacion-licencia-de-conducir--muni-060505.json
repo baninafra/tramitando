@@ -1,0 +1,137 @@
+{
+  "tramite": {
+    "slug": "ampliacion-licencia-de-conducir",
+    "nombre": "Ampliación de licencia de conducir",
+    "nombre_busqueda": "Ampliación licencia conducir",
+    "resumen": "Realizá este trámite si querés ampliar tu Licencia de Conducir a otra categoría habilitante. Se requiere aprobar el curso de seguridad vial y presentar documentación específica según el caso.",
+    "sinonimos": [
+      "Ampliación licencia",
+      "Ampliación carnet conducir"
+    ],
+    "temas": [
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060505",
+  "organismo": {
+    "nombre": "Municipalidad de Magdalena",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes deseen ampliar su Licencia de Conducir a otra categoría habilitante."
+    ],
+    "requisitos": [
+      {
+        "texto": "Curso de seguridad vial aprobado",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI o Constancia de DNI en Trámite donde debe constar el domicilio (más copia)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Licencia anterior + copia",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Legalidad Original",
+        "aclaracion": "Si la Licencia Original fue expedida en otra Provincia o no figura en sistema."
+      },
+      {
+        "texto": "Constancia de CUIL",
+        "aclaracion": "Solo si no consta en DNI o Licencia."
+      },
+      {
+        "texto": "Certificado de Antecedentes",
+        "aclaracion": "Solo para categorías profesionales C, D y E."
+      },
+      {
+        "texto": "Examen Práctico",
+        "aclaracion": "Deberá presentar el vehículo correspondiente a la categoría de licencia que solicita habilitación."
+      },
+      {
+        "texto": "Libre Falta Municipal",
+        "aclaracion": "Gestionar en el Juzgado de Faltas."
+      },
+      {
+        "texto": "Apto Psicológico",
+        "aclaracion": "Para licencias jurisdiccionales o interjurisdiccionales."
+      },
+      {
+        "texto": "Certificado de aptitud de conducción de Maquinaria Vial",
+        "aclaracion": "Solo para la categoría E2 Maquinaria Vial."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Accedé al escritorio ciudadano y solicitá los turnos requeridos."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación requerida y el vehículo correspondiente si aplica."
+      },
+      {
+        "texto": "Realizá el examen práctico si es necesario."
+      },
+      {
+        "texto": "Entregá la licencia anterior para su retiro."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://magdalena.gob.ar/detalle-guia-de-tramites-y-servicios/ampliacion-licencia-de-conducir/",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "Ampliación",
+      "gratis": false,
+      "monto_centavos": 3269750,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://magdalena.gob.ar/detalle-guia-de-tramites-y-servicios/ampliacion-licencia-de-conducir/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Juzgado de Faltas",
+      "direccion": "Goenaga e/ Rivadavia y San Martín",
+      "localidad": "Magdalena",
+      "horario": null,
+      "fuente_url": "https://magdalena.gob.ar/detalle-guia-de-tramites-y-servicios/ampliacion-licencia-de-conducir/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://magdalena.gob.ar/detalle-guia-de-tramites-y-servicios/ampliacion-licencia-de-conducir/",
+      "titulo": "Licencia de conducir > Ampliación : Magdalena",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T08:05:25.915Z"
+    },
+    {
+      "url": "https://magdalena.gob.ar/detalle-guia-de-tramites-y-servicios/aranceles/",
+      "titulo": "Aranceles : Magdalena",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-28T08:05:25.915Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo de tramitación no está especificado en el texto.",
+    "La dirección exacta de la oficina de tránsito no está especificada en el texto, solo se menciona el Juzgado de Faltas para la libre falta."
+  ]
+}

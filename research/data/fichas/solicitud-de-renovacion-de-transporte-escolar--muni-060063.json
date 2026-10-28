@@ -1,0 +1,88 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-renovacion-de-transporte-escolar",
+    "nombre": "Solicitud de renovación de transporte escolar",
+    "nombre_busqueda": "Renovación transporte escolar",
+    "resumen": "Este trámite gestiona la renovación de una licencia como transporte escolar privado de pasajeros. Requiere tener toda la documentación y pagos al día, además de una nota dirigida al Sr. Intendente.",
+    "sinonimos": [
+      "Renovación licencia transporte escolar",
+      "Renovación transporte escolar privado"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060063",
+  "organismo": {
+    "nombre": "Municipalidad de Balcarce",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que cumplan con los requisitos y documentación requerida."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener toda la documentación y pagos al día",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota dirigida al Sr. Intendente solicitando la Renovación como Transporte Privado de Pasajeros",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación y pagos al día."
+      },
+      {
+        "texto": "Entregá la nota dirigida al Sr. Intendente solicitando la Renovación como Transporte Privado de Pasajeros."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Inspección General",
+      "direccion": "Av. San Martin 3646",
+      "localidad": "Balcarce",
+      "horario": null,
+      "fuente_url": "https://balcarce-app.gob.ar/portal_servicios/servicio/solicitud-de-renovacion-de-transporte-escolar"
+    },
+    {
+      "nombre": "Dirección de Recursos",
+      "direccion": "1er. Piso Palacio Municipal",
+      "localidad": "Balcarce",
+      "horario": null,
+      "fuente_url": "https://balcarce-app.gob.ar/portal_servicios/servicio/solicitud-de-renovacion-de-transporte-escolar"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://balcarce-app.gob.ar/portal_servicios/servicio/solicitud-de-renovacion-de-transporte-escolar",
+      "titulo": "Portal de Servicios | Modernizacion Balcarce",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "costo",
+        "donde",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T21:49:27.977Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el monto del costo del trámite.",
+    "No se especifica el plazo de tiempo para realizar el trámite.",
+    "No se especifica si se requiere turno para realizar el trámite."
+  ]
+}

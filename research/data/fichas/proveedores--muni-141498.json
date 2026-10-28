@@ -1,0 +1,66 @@
+{
+  "tramite": {
+    "slug": "proveedores-y-compras",
+    "nombre": "Proveedores",
+    "nombre_busqueda": "Proveedores",
+    "resumen": "El municipio puede necesitar tus productos. Debes estar inscripto en el municipio y presentar facturación electrónica con el CUIT correcto.",
+    "sinonimos": [],
+    "temas": [
+      "proveedores-y-compras"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141498",
+  "organismo": {
+    "nombre": "Municipalidad de Tancacha",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes estén inscriptos en el municipio."
+    ],
+    "requisitos": [
+      {
+        "texto": "Presentar su respectiva facturación electrónica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUIT de la municipalidad de tancacha: 30-99905105-3.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Condición frente al iva: sujeto exento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "El importe debe ser exacto del compromiso realizado anteriormente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.tancacha.gob.ar/proveedores.html",
+      "titulo": "Municipalidad de Tancacha",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T09:37:22.295Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de pago por parte de la municipalidad es de miércoles a jueves."
+  ]
+}

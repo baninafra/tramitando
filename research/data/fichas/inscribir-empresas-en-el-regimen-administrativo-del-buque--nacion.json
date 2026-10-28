@@ -1,0 +1,92 @@
+{
+  "tramite": {
+    "slug": "inscripcion-de-empresas-buque",
+    "nombre": "Inscripción de empresas en el régimen administrativo del buque",
+    "nombre_busqueda": "Inscripción empresas régimen buque",
+    "resumen": "El propietario, agente marítimo o apoderado puede realizar la inscripción de la embarcación mediante solicitud escrita ante la Mesa de Estrada General del Edificio Guardacostas.",
+    "sinonimos": [],
+    "temas": [
+      "emprendedores-y-monotributo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Prefectura Naval Argentina",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Propietario, agente marítimo o apoderado con poder general o especial o autorización del propietario con firma debidamente certificada por escribano público."
+    ],
+    "requisitos": [
+      {
+        "texto": "Solicitud y requisitos indicados en los Artículos 3, 5, 6 y 7 del agregado N°1 de la Ordenanza N° 04/25 Tomo 1.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Solicitar por escrito ante la Mesa de Estrada General del Edificio GUARDACOSTAS donde se le asignará un número de expediente que será girado a la División Registro de Empresas para su tramitación."
+      },
+      {
+        "texto": "Buscá el trámite correspondiente a la aprobación de dispositivos y medios de salvamento y adjuntá la documentación requerida."
+      },
+      {
+        "texto": "Ir al tramite."
+      },
+      {
+        "texto": "Solicita la inspección del establecimiento a través de la División Registro de Empresas (Oficina 2135)."
+      },
+      {
+        "texto": "Realiza el seguimiento del trámite desde el panel de TAD."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "45 días",
+    "consejos": [
+      "En caso de requerir documentación faltante o correcciones, se notificará al usuario vía TAD para responder dentro de los 30 días. Si no subsana en dicho término, se procederá al archivo por tiempo de guarda."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Edificio Guardacostas",
+      "direccion": "Avenida Eduardo Madero 235 - CIUDAD AUTONOMA DE BUENOS AIRES",
+      "localidad": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-empresas-en-el-regimen-administrativo-del-buque"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribir-empresas-en-el-regimen-administrativo-del-buque",
+      "titulo": "Inscribir empresas en el Régimen Administrativo del Buque | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-26T23:10:39.979Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/prefecturanaval/aranceles",
+      "titulo": "Aranceles | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T23:10:39.979Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto en centavos de peso no se especifica en el texto, solo se indica consultar el Cuadro Tarifario de Aranceles.",
+    "La fecha de vigencia exacta del trámite no se especifica en el texto, solo se menciona el silencio administrativo de 45 días."
+  ]
+}

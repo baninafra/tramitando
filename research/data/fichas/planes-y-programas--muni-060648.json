@@ -1,0 +1,99 @@
+{
+  "tramite": {
+    "slug": "planes-y-programas",
+    "nombre": "Planes y programas",
+    "nombre_busqueda": "Planes y programas de desarrollo social",
+    "resumen": "El municipio informa sobre programas de asistencia social, alimentaria y de empleo. Para ingresar a los CAI y a la Casa del Niño, se piden fotocopias de documentos y la libreta de vacunas al día.",
+    "sinonimos": [
+      "programas sociales municipales"
+    ],
+    "temas": [
+      "desarrollo-social-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060648",
+  "organismo": {
+    "nombre": "Secretaría de Desarrollo Social",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Si tenés entre 18 y 24 años, vivís en Presidente Perón, no terminaste la primaria o la secundaria y estás desempleado, podés participar del Plan Joven Más y Mejor Trabajo.",
+      "Si tenés un problema de salud, estás embarazada o sos mayor de 60 años y no recibís asistencia ni beneficios sociales, podés recibir el bolsón mensual del Programa ASODI.",
+      "Si sos un niño o una persona adulta con bajo peso o algún grado de desnutrición, podés recibir asistencia del programa Bajo Peso P.r.o.f.o.n.u.",
+      "Si estás embarazada, amamantando o tenés un niño desde los 6 meses hasta el ingreso al primer año de la EGB, podés ser destinataria del Plan Más Vida."
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia del DNI de cada madre o padre.",
+        "aclaracion": "Para ingresar a los CAI o a la Casa del Niño."
+      },
+      {
+        "texto": "Fotocopia del DNI de cada niño o niña que va a ingresar.",
+        "aclaracion": "Para ingresar a los CAI o a la Casa del Niño."
+      },
+      {
+        "texto": "Fotocopia de la libreta de vacunas al día.",
+        "aclaracion": "Para ingresar a los CAI o a la Casa del Niño."
+      },
+      {
+        "texto": "Fotocopia de la partida de nacimiento.",
+        "aclaracion": "Para ingresar a los CAI o a la Casa del Niño."
+      },
+      {
+        "texto": "Carnet de seguimiento.",
+        "aclaracion": "Para el programa Bajo Peso P.r.o.f.o.n.u."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El Programa ASODI entrega un bolsón de mercadería por mes.",
+      "El programa Bajo Peso P.r.o.f.o.n.u. entrega víveres frescos y secos cada 15 días.",
+      "El Plan Más Vida funciona mediante una tarjeta de débito del BAPRO. El Ministerio de Desarrollo Social acredita mensualmente un monto fijo según la cantidad de hijos, destinado a comprar alimentos."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Empleo",
+      "direccion": "Av. Jauretche y calle 12",
+      "localidad": "Presidente Perón",
+      "horario": null,
+      "fuente_url": "https://presidenteperon.gob.ar/secretaria-de-desarrollo-social/planes-y-programas/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://presidenteperon.gob.ar/secretaria-de-desarrollo-social/planes-y-programas/",
+      "titulo": "Planes y Programas – Presidente Perón",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T16:36:29.441Z"
+    },
+    {
+      "url": "https://presidenteperon.gob.ar/secretaria-de-desarrollo-social/oficina-de-empleo/",
+      "titulo": "Oficina de Empleo – Presidente Perón",
+      "bloques": [
+        "resumen",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T16:36:29.441Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se indican los pasos para solicitar o ingresar a los programas.",
+    "No se informa si hace falta sacar turno.",
+    "No se indica el plazo de resolución.",
+    "No se informa el monto de la ayuda económica del Plan Joven Más y Mejor Trabajo ni del Plan Más Vida."
+  ]
+}

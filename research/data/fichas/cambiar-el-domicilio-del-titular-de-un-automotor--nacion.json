@@ -1,0 +1,100 @@
+{
+  "tramite": {
+    "slug": "cambiar-el-domicilio-del-titular-de-un-automotor",
+    "nombre": "Cambiar el domicilio del titular de un automotor",
+    "nombre_busqueda": "cambiar domicilio automotor",
+    "resumen": "Si cambiaste tu domicilio y tenés un auto o moto a tu nombre, debés anotar este cambio en el Registro Automotor. Se puede hacer semipresencialmente o presencialmente.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias",
+      "cedula-del-vehiculo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro de Propiedad Automotor",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quien posea un auto o moto y haya cambiado su domicilio.",
+      "Tu apoderado."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento identificatorio: DNI si sos argentino; pasaporte si sos extranjero sin residencia; DNI si sos extranjero con residencia permanente; dni, ci, ci del país de origen o pasaporte si sos de países limítrofes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título del vehículo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cédula del vehículo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditación del cambio de domicilio a través del DNI o un instrumento que lo certifique (factura de servicio a tu nombre, copia del contrato de locación o escritura, entre otros).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si sos el representante legal o apoderado, documentos que prueben esa representación.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio de la DNRPA y buscá el trámite llamado Cambio de domicilio."
+      },
+      {
+        "texto": "Completá la solicitud electrónica."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación en el Registro donde está radicado el vehículo y pagá allí los aranceles."
+      },
+      {
+        "texto": "Completá los formularios que te entregarán: Solicitud Tipo TP (si sos titular) o Formulario 59 (si sos apoderado/tercero)."
+      },
+      {
+        "texto": "Luego te confirmarán en el Registro si el cambio de domicilio se realizó correctamente."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "En caso de condominio, se requiere la conformidad de los titulares de más del 50% del automotor."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/cambiar-el-domicilio-del-titular-de-un-automotor",
+      "titulo": "Cambiar el domicilio del titular de un automotor | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:39:37.796Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T04:39:37.796Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de los aranceles varía según la categoría del vehículo y no se especifica en el texto.",
+    "La fecha de vigencia del trámite no se especifica en el texto."
+  ]
+}

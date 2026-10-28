@@ -1,0 +1,109 @@
+{
+  "tramite": {
+    "slug": "programa-tu-hogar-en-florentino-ameghino",
+    "nombre": "Programa Tu Hogar en Florentino Ameghino",
+    "nombre_busqueda": "Programa Tu Hogar Ameghino",
+    "resumen": "Es un programa municipal para garantizar el acceso a suelo urbano y vivienda a vecinos del distrito, ofreciendo lotes para viviendas únicas, familiares y de ocupación permanente con infraestructura básica.",
+    "sinonimos": [
+      "Programa Tu Hogar Ameghino",
+      "Programa Tu Hogar Florentino Ameghino"
+    ],
+    "temas": [
+      "vivienda-y-servicios-del-hogar",
+      "planes-de-vivienda-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060277",
+  "organismo": {
+    "nombre": "Municipio Florentino Ameghino",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Ser mayor de edad y ejercer actividad económica comprobable.",
+      "Contar con una antigüedad mínima de 5 años de residencia en el distrito (domicilio o residencia) de uno de los miembros del grupo familiar."
+    ],
+    "requisitos": [
+      {
+        "texto": "Poseer Documento Nacional de Identidad Argentino.",
+        "aclaracion": null
+      },
+      {
+        "texto": "No haber sido adjudicatario de terreno, vivienda o beneficiario de préstamo para la vivienda propia otorgado por entidades bancarias, organismos nacionales, provinciales y/o municipales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "No poseer viviendas o inmuebles con ánimo de obtener dominio (vivienda única).",
+        "aclaracion": null
+      },
+      {
+        "texto": "No poseer bienes patrimoniales cuya razonable realización le posibilite resolver el problema habitacional por otra vía.",
+        "aclaracion": null
+      },
+      {
+        "texto": "No poseer deudas con el Estado Municipal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si sos menor de edad: Presentar acta de nacimiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si sos menor de edad: Presentar DNI del padre o madre o tutor.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Inscribite en el programa a través de la página web oficial del Municipio."
+      },
+      {
+        "texto": "Presentá los requisitos y documentación requerida en la oficina correspondiente."
+      },
+      {
+        "texto": "Realizá el pago de la tasa dentro de los 60 días posteriores al sorteo de la ubicación del lote."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El plazo para iniciar la obra es de tres años a partir de la adjudicación del lote.",
+      "No existe un plazo determinado para finalizar la construcción de la vivienda."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://ameghino.gob.ar/tuhogar/",
+      "titulo": "Tu hogar en Florentino Ameghino – Ameghino",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T13:19:05.963Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/trabajo/consejodelsalario",
+      "titulo": "Consejo Nacional del Empleo, la Productividad y el Salario Mínimo, Vital y Móvil | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-28T13:19:05.963Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de inicio de las inscripciones no está confirmada en el texto actual.",
+    "El monto exacto de la tasa no está especificado en el texto actual."
+  ]
+}

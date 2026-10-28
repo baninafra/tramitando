@@ -1,0 +1,88 @@
+{
+  "tramite": {
+    "slug": "presentar-un-oficio-proveniente-de-juzgados-yo-tribunales-de-la-provincia-de-buenos-aires",
+    "nombre": "Presentar un oficio proveniente de juzgados y/o tribunales de la provincia de buenos aires",
+    "nombre_busqueda": "Presentar un oficio proveniente de juzgados y/o tribunales de la provincia de buenos aires",
+    "resumen": "Para presentar un oficio de juzgados o tribunales de la provincia de buenos aires, deberás hacerlo a través del sistema NYPE. Necesitás el formulario correspondiente y el oficio original, y podés abonar el costo si corresponde.",
+    "sinonimos": [],
+    "temas": [
+      "legalizaciones-y-apostillados"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes necesiten diligenciar oficios provenientes de juzgados o tribunales integrantes del Poder Judicial de la provincia de buenos aires."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario Oficios Judiciales o formulario Oficios reiteratorios.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Oficio correspondiente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Firma de Juez o Secretario.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario y adjuntalo con el oficio."
+      },
+      {
+        "texto": "Ingresá el oficio a través de Presentación y Notificaciones electrónicas de la Suprema Corte de Justicia de la provincia de buenos aires."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 150000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/presentar-un-oficio-proveniente-de-juzgados-yo-tribunales-de-la-provincia-de-buenos-aires"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/presentar-un-oficio-proveniente-de-juzgados-yo-tribunales-de-la-provincia-de-buenos-aires",
+      "titulo": "Presentar un oficio proveniente de juzgados y/o tribunales de la provincia de buenos aires | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T01:45:47.435Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/justicia/igj/calculador-modulos",
+      "titulo": "Calculá el costo de los trámites de IGJ | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T01:45:47.435Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del trámite depende de la cantidad de módulos asignados al oficio específico.",
+    "La fecha de vigencia del nuevo valor del módulo IGJ es 08/04/2024."
+  ]
+}

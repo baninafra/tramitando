@@ -1,0 +1,81 @@
+{
+  "tramite": {
+    "slug": "consulta-liquidacion-y-pago-de-tasas-municipales",
+    "nombre": "Consulta, liquidación y pago de tasas municipales",
+    "nombre_busqueda": "Pago tasas municipales Colón",
+    "resumen": "Permite consultar vencimientos, descargar comprobantes y pagar tasas municipales del municipio de Colón a través del sistema LogRentas.",
+    "sinonimos": [
+      "Pago rentas Colón",
+      "Liquidación tasas municipales",
+      "Consulta deuda municipal"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060175",
+  "organismo": {
+    "nombre": "Municipio de Colón Buenos Aires",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en consultar, descargar comprobantes o pagar tasas municipales."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá tu DNI en el sistema LogRentas."
+      },
+      {
+        "texto": "Consultá el cronograma de vencimientos de las cuotas."
+      },
+      {
+        "texto": "Descargá el comprobante correspondiente."
+      },
+      {
+        "texto": "Realizá el pago de la tasa."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://municipalidadcolonpba.gob.ar/logrentas.php",
+      "titulo": "Municipio de Colón PBA - Tasas municipales",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T05:00:55.245Z"
+    },
+    {
+      "url": "https://municipalidadcolonpba.gob.ar/index.php",
+      "titulo": "Municipio de Colón Buenos Aires",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T05:00:55.245Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los montos exactos de las tasas no se especifican en el texto, solo se listan los vencimientos.",
+    "No se indica si el trámite requiere turno presencial."
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "tramite": {
+    "slug": "solicitar-busqueda-examen-prioritario-patentes",
+    "nombre": "Solicitar búsqueda para el examen prioritario de patentes",
+    "nombre_busqueda": "Solicitar búsqueda PEP patentes",
+    "resumen": "Este trámite genera un informe de antecedentes nacionales e internacionales necesario para acceder al Programa de Examen Prioritario de Patentes (PEP) y acelerar la concesión de patentes de invención.",
+    "sinonimos": [
+      "Búsqueda de antecedentes PEP",
+      "Informe de búsqueda patentes PEP"
+    ],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto Nacional de la Propiedad Industrial",
+    "sigla": "INPI",
+    "web": "https://www.argentina.gob.ar/servicio/solicitar-una-busqueda-para-el-examen-prioritario-de-patentes-pep"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas PyMEs",
+      "Empresas",
+      "Universidades",
+      "Centros de I+D+i",
+      "Agentes de la propiedad industrial"
+    ],
+    "requisitos": [
+      {
+        "texto": "Clave fiscal nivel 2 para registrarte en el portal de trámites.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de solicitud de patente de invención o modelo de utilidad.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal de trámites con tu clave fiscal nivel 2."
+      },
+      {
+        "texto": "Accedé a información tecnológica / examen prioritario de patentes pep."
+      },
+      {
+        "texto": "Completá el desplegable datos del solicitante."
+      },
+      {
+        "texto": "En datos de la búsqueda ingresá el número de solicitud por la que estás pidiendo el PEP."
+      },
+      {
+        "texto": "En DOCUMENTACIÓN RESPALDATORIA no hace falta que adjuntes nada."
+      },
+      {
+        "texto": "Finalizá y firmá el formulario."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "40 días",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-una-busqueda-para-el-examen-prioritario-de-patentes-pep",
+      "titulo": "Solicitar una búsqueda para el Examen Prioritario de Patentes (PEP) | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T16:54:43.334Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina para presentar el informe y el formulario PEP ante la Administración Nacional de Patentes (ANP)."
+  ]
+}

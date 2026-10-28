@@ -1,0 +1,79 @@
+{
+  "tramite": {
+    "slug": "certificado-parcelario-libre-deuda-escribanos",
+    "nombre": "Certificado parcelario libre deuda – Escribanos",
+    "nombre_busqueda": "Certificado parcelario libre deuda",
+    "resumen": "El trámite informa al solicitante la deuda de la TSM. Se realiza online desde el Portal de Trámites de la Municipalidad de San Miguel.",
+    "sinonimos": [],
+    "temas": [
+      "catastro-e-inmuebles",
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060760",
+  "organismo": {
+    "nombre": "Municipalidad San Miguel",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Escribanías"
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario A901 – 903 o el que corresponda al tipo de propiedad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cédula Catastral de ARBA con superficie edificada en parcela (valuación actualizada)",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de unidades funcionales, subdivisiones o unificaciones, los planos deberán contar con vigencia administrativa",
+        "aclaracion": null
+      },
+      {
+        "texto": "El escribano deberá estar registrado en la base de datos del municipio",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar a Portal de Trámites"
+      },
+      {
+        "texto": "Iniciar sesión con clave AFIP/ANSES y seguir los pasos"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "5 días hábiles aproximadamente",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.msm.gov.ar/guia-tramites/catastro/certificado-parcelario-escribanos/",
+      "titulo": "Certificado parcelario libre deuda – Escribanos - Municipalidad San Miguel",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T12:54:41.123Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del costo no se especifica en el texto, solo se menciona que depende de la Ordenanza Tarifaria y Fiscal Vigente.",
+    "La fecha exacta de vigencia del trámite no se especifica en el texto, solo se menciona que depende de la Ordenanza Tarifaria y Fiscal Vigente."
+  ]
+}

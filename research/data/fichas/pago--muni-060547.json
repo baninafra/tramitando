@@ -1,0 +1,73 @@
+{
+  "tramite": {
+    "slug": "pago-tasas-municipales-online-provincia-pagos",
+    "nombre": "Pagar tasas municipales online",
+    "nombre_busqueda": "pagar tasas municipales con Provincia Pagos",
+    "resumen": "Ingresá a la plataforma de Provincia Pagos para consultar y pagar tus tasas municipales.",
+    "sinonimos": [
+      "pago de tasas con Provincia Pagos"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060547",
+  "organismo": {
+    "nombre": "Municipalidad de Monte",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que necesitan consultar o pagar sus tasas municipales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener tasas municipales para consultar o pagar.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma de Provincia Pagos desde el botón «Ingresar a consultar y pagar con Provincia Pagos»."
+      },
+      {
+        "texto": "Consultá y pagá tus tasas en la plataforma."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Palacio Municipal",
+      "direccion": "Calle Laura Giagnacovo N° 636",
+      "localidad": "Monte, Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://monte.gob.ar/tasas/pago/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://monte.gob.ar/tasas/pago/",
+      "titulo": "Pagar con Provincia Pagos - Municipalidad de Monte",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T15:06:18.203Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica quiénes pueden usar la plataforma ni qué datos o documentos necesitás para pagar.",
+    "El texto no informa si el trámite tiene costo ni el monto de las tasas."
+  ]
+}

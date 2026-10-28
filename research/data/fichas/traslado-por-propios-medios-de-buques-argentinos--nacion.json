@@ -1,0 +1,125 @@
+{
+  "tramite": {
+    "slug": "traslado-por-propios-medios-de-buques-argentinos",
+    "nombre": "Traslado por propios medios de buques argentinos",
+    "nombre_busqueda": "Traslado buques argentinos",
+    "resumen": "Autorización para mover buques de matrícula nacional por sus propios medios fuera de la zona de navegación autorizada por su Certificado Nacional de Seguridad de la Navegación.",
+    "sinonimos": [
+      "Traslado buques argentinos",
+      "Autorización traslado propios medios embarcación"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Prefectura Naval Argentina",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Propietario o Titular de la Embarcación",
+      "Agente Marítimo",
+      "Armador",
+      "Persona designada bajo mandato o Poder"
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de solicitud suscripta por el propietario/armador o el agente marítimo/representante legal de la embarcación a ser trasladada o, en su defecto, por su representante legal y/o agencia marítima.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poder notarial o la nominación correspondiente (si el solicitante es un representante o agencia marítima).",
+        "aclaracion": "Si sos menor de edad."
+      },
+      {
+        "texto": "Información general del buque involucrado con sus características principales (dimensiones, calado, tipo y cantidad de carga, desplazamiento, órganos de propulsión y gobierno, potencia de máquinas, número de motores, órganos auxiliares de gobierno, etc.).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Objeto del traslado (ej.: traslado a puerto o astillero para continuar reparaciones o cambio de zona de pesca, etc.), debiéndose aportar nota de autorización de giro u otra documentación que avale que el buque tiene asignado un sitio de amarre en el puerto o turno en el astillero.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Desarrollo del plan de navegación, indicando origen y destino, descripción de las etapas/escalas, tipo de navegación y condiciones hidrometeorológicas que se tendrán en cuenta.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Diagrama de la navegación. Trazado de la derrota proyectada en imágenes de cartas electrónicas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificados estatutarios vigentes incluyéndose situación registral de éstos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de tratarse de una embarcación obligada a tener Certificado Nacional de Seguridad de la Navegación (CNSN), deberá estar vigente para el traslado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotografías actuales del buque.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar Inspección por estado general con alcance de Intermedia por las especialidades: seguridad de equipo, radio y casco \"a flote\".",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago del arancel administrativo de análisis.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Reúna la totalidad de la documentación requerida precedentemente a fin de poder dar curso a la solicitud de Traslado por propios medios."
+      },
+      {
+        "texto": "Abonar el arancel correspondiente \"Cuadro Tarifario de Aranceles\"."
+      },
+      {
+        "texto": "Presente la solicitud en las Dependencias Jurisdiccionales de todo el país."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "12",
+    "consejos": [
+      "Si el Certificado Nacional de Seguridad de la Navegación hubiere caducado o perdido validez y deban trasladarse a astillero a fin de efectuar reparaciones o cumplir inspecciones de renovación, deberá tramitar ante la División Documentación de la Dirección de Policía de Seguridad de la Navegación la…",
+      "En el caso particular de buques que, al finalizar su permanencia en dique, sean puestos a flote y deban navegar hasta el sitio de amarre asignado mediante navegación interior de puerto, la Dependencia Jurisdiccional, sin exceder el ámbito de su competencia operativa (con excepción de los traslados…"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/traslado-por-propios-medios-de-buques-argentinos",
+      "titulo": "Traslado por propios medios de buques argentinos | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T18:35:26.439Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/prefecturanaval/aranceles",
+      "titulo": "Aranceles | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T18:35:26.439Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel administrativo de análisis no está especificado en el texto, solo se indica consultar el Cuadro Tarifario de Aranceles acorde valores establecidos, Decreto 2756/75.",
+    "La vigencia del trámite es Temporaria y de 60 días hábiles administrativos, desde la presentación de la Solicitud ante la PNA."
+  ]
+}

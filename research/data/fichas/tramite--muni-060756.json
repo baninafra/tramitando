@@ -1,0 +1,99 @@
+{
+  "tramite": {
+    "slug": "tramite-electronico-tesi",
+    "nombre": "Trámite Electrónico TESI",
+    "nombre_busqueda": "Tramite electronico TESI San Isidro",
+    "resumen": "Plataforma digital para gestionar trámites municipales con firma electrónica y seguimiento en línea.",
+    "sinonimos": [
+      "TESI San Isidro",
+      "Tramites digitales San Isidro",
+      "Gestión Documental San Isidro"
+    ],
+    "temas": [
+      "gobierno-y-participacion",
+      "acceso-a-la-informacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060756",
+  "organismo": {
+    "nombre": "Municipio de San Isidro",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en realizar trámites digitales."
+    ],
+    "requisitos": [
+      {
+        "texto": "CUIT o Legajo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contraseña",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá con tus datos: CUIT, Legajo o IdTESI."
+      },
+      {
+        "texto": "Introducí tu contraseña."
+      },
+      {
+        "texto": "Accedé al trámite deseado en el panel de usuario."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Guardá tu contraseña en un lugar seguro.",
+      "Revisá el estado de tu trámite en línea en cualquier momento."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://tesi.sanisidro.gob.ar/",
+      "titulo": "TESI San Isidro | TESI · Ingresar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T12:29:56.772Z"
+    },
+    {
+      "url": "https://tesi.sanisidro.gob.ar/forgot-password",
+      "titulo": "TESI San Isidro | TESI · Recuperar contraseña",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T12:29:56.772Z"
+    },
+    {
+      "url": "https://tesi.sanisidro.gob.ar/register",
+      "titulo": "TESI San Isidro | TESI · Crear cuenta",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T12:29:56.772Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos adicionales para trámites específicos.",
+    "No se indican plazos de respuesta ni costos por trámite.",
+    "No se detallan pasos presenciales ni requisitos para menores de edad."
+  ]
+}

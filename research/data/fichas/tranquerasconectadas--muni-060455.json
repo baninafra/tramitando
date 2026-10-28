@@ -1,0 +1,97 @@
+{
+  "tramite": {
+    "slug": "inscripcion-tranqueras-conectadas",
+    "nombre": "Inscripción a Tranqueras Conectadas",
+    "nombre_busqueda": "inscribirse en Tranqueras Conectadas",
+    "resumen": "El programa asigna un número y una chapa identificatoria a tranqueras de establecimientos agropecuarios de Las Flores. Registra sus coordenadas para que los servicios de emergencia puedan llegar al lugar.",
+    "sinonimos": [
+      "Programa Tranqueras Conectadas"
+    ],
+    "temas": [
+      "produccion-rural"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060455",
+  "organismo": {
+    "nombre": "Municipalidad de Las Flores",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas vinculadas con un establecimiento agropecuario del partido de Las Flores."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nombres.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Teléfono.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombre del establecimiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cuartel del establecimiento.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario de inscripción con los campos obligatorios: nombres, teléfono, cuartel y nombre del establecimiento."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Recibí la visita de la Patrulla Rural para el primer acercamiento y completá el formulario de información inicial."
+      },
+      {
+        "texto": "Recibí una segunda visita para la colocación de la placa en la tranquera."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Asuntos Agropecuarios",
+      "direccion": "Av. Manuel V. Paz 1114",
+      "localidad": "Las Flores",
+      "horario": null,
+      "fuente_url": "https://lasflores.gob.ar/tranquerasconectadas/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://lasflores.gob.ar/tranquerasconectadas/",
+      "titulo": "Tranqueras Conectadas - Las Flores",
+      "bloques": [
+        "resumen",
+        "quien",
+        "pasos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T14:38:38.141Z"
+    },
+    {
+      "url": "https://lasflores.gob.ar/ftranquerasconectadas/",
+      "titulo": "FORMULARIO - TRANQUERAS CONECTADAS - Las Flores",
+      "bloques": [
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T14:38:38.141Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa cuánto tarda la inscripción ni si tiene costo.",
+    "No se especifica si la visita presencial requiere turno."
+  ]
+}

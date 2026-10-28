@@ -1,0 +1,98 @@
+{
+  "tramite": {
+    "slug": "fiscalizar-y-certificar-tratamientos-para-exportacion-de-embalajes-de-madera",
+    "nombre": "Fiscalizar y certificar tratamientos para exportación de embalajes de madera",
+    "nombre_busqueda": "Certificar tratamientos madera exportación",
+    "resumen": "Para exportar embalajes de madera necesitás fiscalizar y certificar los tratamientos en los establecimientos habilitados ante el Senasa. El trámite se realiza mensualmente ingresando al SIG-TEM y abonando el arancel correspondiente.",
+    "sinonimos": [
+      "Certificación CATEM madera",
+      "Tratamientos fitosanitarios embalajes"
+    ],
+    "temas": [
+      "comercio-e-industria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares o apoderados de establecimientos habilitados por el Senasa para realizar tratamientos fitosanitarios de embalaje de madera y de madera de acomodación para el comercio de mercaderías para la exportación."
+    ],
+    "requisitos": [
+      {
+        "texto": "Adherir a través de ARCA el Sistema Integrado de Gestión de Tratamiento de Embalajes de Madera (SIG-TEM).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Registrar domicilio electrónico mediante el sistema SIGTrámites.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar al SIG-TEM todos los meses del 1 al 10."
+      },
+      {
+        "texto": "En la solapa liquidaciones imprimir la boleta generada por el propio sistema en función de todo el embalaje certificado el mes anterior."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La vigencia del trámite es mensual."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Protección Vegetal",
+      "direccion": "Av. Paseo Colón N° 367, Piso 6° contrafrente, C1063ACD, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/fiscalizar-y-certificar-tratamientos-para-exportacion-de-embalajes-de-madera"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/fiscalizar-y-certificar-tratamientos-para-exportacion-de-embalajes-de-madera",
+      "titulo": "Fiscalizar y certificar tratamientos para exportación de embalajes de madera | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-26T15:47:48.832Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T15:47:48.832Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/centros-regionales",
+      "titulo": "Centros Regionales | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T15:47:48.832Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no está especificado en el texto.",
+    "La fecha de vigencia de la normativa no está especificada en el texto."
+  ]
+}

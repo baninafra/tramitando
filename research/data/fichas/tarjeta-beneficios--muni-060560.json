@@ -1,0 +1,75 @@
+{
+  "tramite": {
+    "slug": "tarjeta-jubilados",
+    "nombre": "Tarjeta para jubilados",
+    "nombre_busqueda": "tarjeta de beneficios para jubilados de Morón",
+    "resumen": "La tarjeta está destinada a personas adultas mayores de Morón y permite acceder a descuentos en comercios adheridos. Podés retirarla en un centro de jubilados, una UGC o en el Palacio Municipal.",
+    "sinonimos": [
+      "tarjeta beneficios jubilados",
+      "descuentos para jubilados de Morón"
+    ],
+    "temas": [
+      "adultos-mayores"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060560",
+  "organismo": {
+    "nombre": "Municipio de Morón",
+    "sigla": null,
+    "web": "https://www.moron.gob.ar/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas adultas mayores de Morón."
+    ],
+    "requisitos": [
+      {
+        "texto": "Ser una persona adulta mayor de Morón.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Retirá la tarjeta en un centro de jubilados, una Unidad de Gestión Comunitaria (UGC) o en la mesa de atención al público del Palacio Municipal."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá la lista de comercios adheridos para conocer los descuentos disponibles. Los descuentos varían según el comercio y van del 10% al 30%."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Palacio Municipal",
+      "direccion": "Almte. Guillermo Brown 946",
+      "localidad": "Morón",
+      "horario": null,
+      "fuente_url": "https://www.moron.gob.ar/tarjeta-beneficios/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.moron.gob.ar/tarjeta-beneficios/",
+      "titulo": "BENEFICIOS JUBILADOS - Municipio de Morón",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T15:17:17.839Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se detallan otros requisitos para retirar la tarjeta.",
+    "No se informa si necesitás sacar turno.",
+    "No se indica si la tarjeta tiene costo."
+  ]
+}

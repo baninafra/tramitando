@@ -1,0 +1,103 @@
+{
+  "tramite": {
+    "slug": "consulta-descarga-pago-patente-automotor-municipal",
+    "nombre": "Consultar y pagar la patente de automotores",
+    "nombre_busqueda": "consulta y pago de patente municipal de automotores",
+    "resumen": "Consultá la deuda de patente de automotores municipalizados y descargá una boleta para pagarla de forma presencial o en línea. Podés seleccionar todas las cuotas adeudadas o solo algunas.",
+    "sinonimos": [
+      "pagar patente municipal",
+      "consultar deuda de patente"
+    ],
+    "temas": [
+      "patente-automotor-municipal",
+      "boletas-y-vencimientos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060399",
+  "organismo": {
+    "nombre": "Municipalidad de Guaminí",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés consultar y pagar la deuda de patente de automotores municipalizados."
+    ],
+    "requisitos": [
+      {
+        "texto": "Ingresá una patente de entre 6 y 8 caracteres, sin barras ni guiones.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Completá apellido, nombre, DNI, género y correo electrónico de la persona que hará el pago.",
+        "aclaracion": "Si pagás en línea."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá la patente para buscar la deuda."
+      },
+      {
+        "texto": "Seleccioná todas las cuotas adeudadas o algunas."
+      },
+      {
+        "texto": "Elegí «Pago On Line»."
+      },
+      {
+        "texto": "Hacé clic en «Generar Boleta On Line»."
+      },
+      {
+        "texto": "Completá el formulario con los datos de quien hará el pago."
+      },
+      {
+        "texto": "Hacé clic en «Generar»."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Ingresá la patente para buscar la deuda."
+      },
+      {
+        "texto": "Seleccioná todas las cuotas adeudadas o algunas."
+      },
+      {
+        "texto": "Elegí «Pago Presencial»."
+      },
+      {
+        "texto": "Hacé clic en «Generar Boleta Presencial»."
+      },
+      {
+        "texto": "Confirmá la generación de la boleta."
+      },
+      {
+        "texto": "Descargá e imprimí la boleta para pagarla de forma presencial."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Podés pagar en delegaciones municipales o en bocas de cobro de Provincia Net."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://serviciosweb.guamini.gob.ar/tasaspagosydeudas/automotor",
+      "titulo": "Municipalidad de Guaminí",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T13:43:34.042Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no indica el costo del trámite."
+  ]
+}

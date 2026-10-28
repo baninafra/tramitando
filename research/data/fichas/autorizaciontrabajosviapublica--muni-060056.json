@@ -1,0 +1,114 @@
+{
+  "tramite": {
+    "slug": "autorizacion-trabajos-via-publica",
+    "nombre": "Autorización de trabajos en la vía pública",
+    "nombre_busqueda": "Autorización de trabajos en la vía pública",
+    "resumen": "Para obras privadas subterráneas de gas, agua o fibra óptica que no afecten pavimento ni veredas, se debe enviar documentación digitalizada al Departamento Vialidad para generar la autorización.",
+    "sinonimos": [
+      "Permiso de trabajos en la vía pública",
+      "Autorización de obras en la vía pública"
+    ],
+    "temas": [
+      "obras-y-construccion",
+      "servicios-urbanos-y-reclamos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas contratistas de las obras"
+    ],
+    "requisitos": [
+      {
+        "texto": "Formularios de autorización",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitud de proyecto de niveles (en caso que correspondiera)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano de proyecto visado por la empresa prestataria del servicio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Seguro de responsabilidad civil (monto mínimo $75.000.000, debe figurar la Municipalidad de Bahía Blanca dentro de los beneficiarios)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Interferencias con las demás empresas de servicios",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contratos y aportes profesionales por Representación Técnica (visados por los colegios correspondientes)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Ieric",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de libre deuda fiscal municipal",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plan de seguridad aprobado",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Enviar al mail del Departamento Vialidad (tvpvialidad@gmail.com) la documentación en formato digital para generar la Autorización de Trabajos en la Vía Pública."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 75000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.bahia.gob.ar/infraestructura/autorizaciontrabajosviapublica/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Departamento Vialidad",
+      "direccion": "Alsina 65",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/infraestructura/autorizaciontrabajosviapublica/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/infraestructura/autorizaciontrabajosviapublica/",
+      "titulo": "Autorización de Trabajos en la Vía Pública | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T02:46:56.168Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el plazo de tramitación.",
+    "No se especifica si se requiere turno para la presentación de la documentación."
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "tramite": {
+    "slug": "importacion-protocolos-de-emergencia-medica-de-instituciones-sanitarias",
+    "nombre": "Importación protocolos de emergencia médica de instituciones sanitarias",
+    "nombre_busqueda": "Importación Protocolos de Emergencia Médica",
+    "resumen": "Instituciones públicas y privadas que importen medicamentos en emergencia médica deben solicitar el trámite en la plataforma TAD adjuntando el protocolo, factura y nota del director médico.",
+    "sinonimos": [
+      "Importación medicamentos emergencia",
+      "Protocolo emergencia sanitaria"
+    ],
+    "temas": [
+      "urgencias-y-emergencias",
+      "emergencias-medicas-y-policiales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Instituciones públicas y/o privadas que importen medicamentos utilizados dentro de una emergencia médica."
+    ],
+    "requisitos": [
+      {
+        "texto": "Protocolo de Emergencia",
+        "aclaracion": null
+      },
+      {
+        "texto": "Factura",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota del Director Médico de la Institución Sanitaria",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento de transporte",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar a la plataforma electrónica de Tramites a Distancia (TAD), buscar e iniciar el trámite Importación Protocolos de Emergencia Médica en Instituciones Sanitarias."
+      },
+      {
+        "texto": "Adjuntar y/o indicar la información de carácter obligatorio marcada con asteriscos rojos * en el trámite."
+      },
+      {
+        "texto": "Cargar en Datos del Trámite los Datos del Producto: nombre de los productos que se solicitan, nombre del que solicita la importación y país de procedencia de los productos."
+      },
+      {
+        "texto": "En el documento Protocolo de Emergencia indicar de forma detallada el protocolo que se debe aplicar ante la situación de emergencia por el cual se solicita la importación del medicamento."
+      },
+      {
+        "texto": "En el documento Factura adjuntar la factura de compra del producto importado."
+      },
+      {
+        "texto": "En el documento Nota del Director Médico de la Institución Sanitaria indicar en hoja membretada y firmada por un responsable jerárquico de la institución cantidad de producto a importar, nombre comercial, nombre genérico, concentración, forma farmacéutica, presentación, procedencia, Nº de guía de transporte, elaborador del producto, período de tiempo de consumo que cubre el producto importado, lote y vencimiento."
+      },
+      {
+        "texto": "Adjuntar el Documento de transporte."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "De no cumplirse con lo requerido para la importación se denegará el trámite.",
+      "De encontrarse conforme, se emitirá la autorización correspondiente.",
+      "En casos de Emergencia Sanitaria, se autorizará una cantidad estimada y debidamente justificada de unidades para cubrir hasta 1 (UN) año de provisión."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/importacion-protocolos-de-emergencia-medica-de-instituciones-sanitarias",
+      "titulo": "Importación Protocolos de Emergencia Médica de Instituciones Sanitarias. | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T16:26:17.707Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo de resolución del trámite no está especificado en el texto."
+  ]
+}

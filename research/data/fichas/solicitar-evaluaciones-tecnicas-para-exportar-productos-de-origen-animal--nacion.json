@@ -1,0 +1,112 @@
+{
+  "tramite": {
+    "slug": "solicitar-evaluaciones-tecnicas-para-exportar-productos-de-origen-animal",
+    "nombre": "Solicitar evaluaciones técnicas para exportar productos de origen animal",
+    "nombre_busqueda": "solicitar evaluaciones técnicas exportar productos origen animal",
+    "resumen": "La Dirección Nacional de Inocuidad y Calidad Agroalimentaria evalúa la documentación de exportación de productos de origen animal. El trámite se realiza en línea a través del portal ARCA y requiere declarar un domicilio electrónico.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Inocuidad y Calidad Agroalimentaria",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Todo establecimiento elaborador de productos de origen animal habilitado por Senasa que solicite un destino con dichas exigencias."
+    ],
+    "requisitos": [
+      {
+        "texto": "Cumplí con los requisitos sanitarios y de calidad establecidos por el país de destino.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declará tu domicilio electrónico mediante el sistema SIGTrámites.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Inscribite en el Sistema Integrado de Gestión de Certificación Sanitaria (SIGCER).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal de ARCA."
+      },
+      {
+        "texto": "Accedé al Sistema Integrado de Gestión de Certificación Sanitaria (SIGCER)."
+      },
+      {
+        "texto": "Presentá la solicitud de exportación con la evaluación técnica de documentación."
+      },
+      {
+        "texto": "Pagá el arancel correspondiente."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "20 días hábiles",
+    "consejos": [
+      "Consultá las Normativas relacionadas con los costos del trámite.",
+      "Verificá los Medios de pago habilitados en Senasa."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Inocuidad y Calidad Agroalimentaria",
+      "direccion": "Av. Paseo Colón N° 367, Piso 5° Contrafrente, C1063ACD, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-evaluaciones-tecnicas-para-exportar-productos-de-origen-animal"
+    },
+    {
+      "nombre": "Coordinación General de Animales Terrestres",
+      "direccion": "Av. Paseo Colón N° 367, Piso 5° Contrafrente, C1063ACD, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-evaluaciones-tecnicas-para-exportar-productos-de-origen-animal"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-evaluaciones-tecnicas-para-exportar-productos-de-origen-animal",
+      "titulo": "Solicitar evaluaciones técnicas para exportar productos de origen animal | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-27T08:41:49.273Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T08:41:49.273Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T08:41:49.273Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel depende del país de destino y no se especifica en el texto.",
+    "La fecha de vigencia del trámite no se especifica en el texto."
+  ]
+}

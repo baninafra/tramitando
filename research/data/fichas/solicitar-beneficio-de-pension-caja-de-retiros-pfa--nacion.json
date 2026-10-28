@@ -1,0 +1,137 @@
+{
+  "tramite": {
+    "slug": "solicitar-beneficio-de-pension",
+    "nombre": "Solicitar beneficio de pensión",
+    "nombre_busqueda": "Solicitar beneficio de pensión caja de retiros pfa",
+    "resumen": "Beneficio de pensión gratuito para viudas, hijos o padres en condiciones específicas. Se puede iniciar por internet o presencialmente en oficinas de la Policía Federal.",
+    "sinonimos": [
+      "Beneficio de pensión PFA",
+      "Pensión por fallecimiento PFA"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Caja de Retiros, Jubilaciones y Pensiones de la Policía Federal",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Viuda o conviviente que acredite 5 años como mínimo si no hubiese descendencia, o 2 años como mínimo si hubiese descendencia o si no hubiese impedimento legal para contraer nupcias.",
+      "Hijos varones solteros legítimos o adoptivos hasta los 21 años.",
+      "Hijos/as mayores de edad incapacitados definitivamente para el trabajo, siempre que carezcan de recursos suficientes o de otro beneficio previsional más favorable.",
+      "Hijas solteras legítimas o adoptivas hasta los 21 años o hasta los 26 años si cursaren regularmente estudios de nivel terciario o universitario (título oficial).",
+      "Hijas solteras mayores de 50 años, que hayan convivido con el afiliado principal durante los últimos 10 años.",
+      "Madre viuda o padre septuagenario o incapacitado definitivamente para el trabajo, carentes de recursos suficientes o de otro beneficio previsional a cargo del causante.",
+      "Hermanas/os menores de edad y los mayores incapacitados definitivamente para el trabajo, que estuvieran a cargo del causante en el momento del fallecimiento y carezcan de recursos suficientes o de otro beneficio previsional más favorable."
+    ],
+    "requisitos": [
+      {
+        "texto": "Partida de defunción (original y copia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Partida de matrimonio actualizada (original y copia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Partida de nacimiento de los hijos que solicitan pensión (original y copia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento Nacional de Identidad de todos los solicitantes (original y copia – anverso y reverso) y donde conste cambio de domicilio si lo hubiere.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Libreta de matrimonio con la correspondiente inscripción del matrimonio y nacimientos (original y copia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado otorgado por la Policía Federal Argentina o certificado otorgado por el Registro Provincial de las Personas para acreditar domicilio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave de Identificación Tributaria de todos los solicitantes: CDI, CUIL o CUIT.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la Plataforma de Trámites a Distancia (TAD) con tu usuario y contraseña de MiArgentina o con tu CUIT y clave fiscal de AFIP."
+      },
+      {
+        "texto": "Descargá y completá la Declaración Jurada de Pensión y la Solicitud de Pensión que se encuentran al costado derecho de la página."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación requerida en las oficinas indicadas según el estado de afiliación del fallecido."
+      },
+      {
+        "texto": "Recibí la documentación y esperá la resolución de la solicitud."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La impresión del frente y dorso de la Solicitud de Pensión deberá hacerse en la misma hoja, sino no será aceptado.",
+      "Para iniciar los trámites por TAD necesitás ingresar con usuario y contraseña de MiArgentina o por AFIP con CUIT y clave fiscal."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Superintendencia de Bienestar – Policía Federal Argentina",
+      "direccion": "Superintendencia de Bienestar – Policía Federal Argentina Sección Ayuda Mutua Luis Saenz Peña 375 1º piso (C110AAG) – Ciudad Autónoma de Buenos Aires",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-beneficio-de-pension-caja-de-retiros-pfa"
+    },
+    {
+      "nombre": "Sociedad Militar Seguro de Vida",
+      "direccion": "Sociedad Militar Seguro de Vida Córdoba 1674 – PB – C1055AAT – Ciudad Autónoma de Buenos Aires",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-beneficio-de-pension-caja-de-retiros-pfa"
+    },
+    {
+      "nombre": "Caja de Retiros, Jubilaciones y Pensiones de la Policía Federal",
+      "direccion": "Caja de Retiros, Jubilaciones y Pensiones de la Policía Federal Departamento Información Pasivos Sarmiento 1624 – PB – C1042ABF – Ciudad Autónoma de Buenos Aires",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-beneficio-de-pension-caja-de-retiros-pfa"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-beneficio-de-pension-caja-de-retiros-pfa",
+      "titulo": "Solicitar beneficio de pensión - Caja de Retiros PFA | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T07:57:29.275Z"
+    },
+    {
+      "url": "https://turnos.argentina.gob.ar/turnos/seleccionTurno/2292",
+      "titulo": "Sistema Nacional de Turnos",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T07:57:29.275Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica el plazo de resolución del trámite.",
+    "El texto no indica si se requiere turno para la atención presencial."
+  ]
+}

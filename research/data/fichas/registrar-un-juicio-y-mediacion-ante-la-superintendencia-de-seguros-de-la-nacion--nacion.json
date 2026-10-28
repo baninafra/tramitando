@@ -1,0 +1,93 @@
+{
+  "tramite": {
+    "slug": "registrar-juicio-mediacion-ssn",
+    "nombre": "Registrar un juicio y mediación ante la Superintendencia de Seguros de la Nación",
+    "nombre_busqueda": "Registrar juicio y mediación SSN",
+    "resumen": "Las compañías de seguros deben ingresar trimestralmente todos los juicios y mediaciones en las que son parte, actualizándolos diez días después de los Estados Contables Trimestrales.",
+    "sinonimos": [],
+    "temas": [
+      "conflictos-laborales",
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Seguros de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Compañías de seguros autorizadas para operar",
+      "Compañías que posean o no juicios y mediaciones, terminados o activos, ya sea como parte actora, demandante o demandada y/o citada en garantía"
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener un usuario habilitado para ingresar al sistema LOGIN",
+        "aclaracion": null
+      },
+      {
+        "texto": "El usuario Administrador de la entidad debe dar permisos a los usuarios de la misma",
+        "aclaracion": null
+      },
+      {
+        "texto": "Los archivos deben cumplir con la estructura definida en el Manual del Sistema de Juicios y Mediaciones",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar al sistema de Registro de Actuaciones Judiciales (RAJ) a través del enlace http://login.ssn.gob.ar"
+      },
+      {
+        "texto": "Adjuntar los archivos correspondientes en la opción Transferir y procesar"
+      },
+      {
+        "texto": "Verificar que el sistema arroje un código de barras generando un PDF sin errores"
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Imprimir el PDF generado por el sistema"
+      },
+      {
+        "texto": "Presentar el PDF a través de TAD a la SSN"
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La información debe actualizarse trimestralmente y tiene como fecha límite de presentación diez (10) días posteriores al plazo fijado para la presentación de los Estados Contables Trimestrales"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/registrar-un-juicio-y-mediacion-ante-la-superintendencia-de-seguros-de-la-nacion",
+      "titulo": "Registrar un juicio y mediación ante la Superintendencia de Seguros de la Nación | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T02:54:54.964Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T02:54:54.964Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia del trámite",
+    "El monto de los costos si los hubiera",
+    "La dirección exacta de las oficinas para la presentación a través de TAD"
+  ]
+}

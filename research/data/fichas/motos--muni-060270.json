@@ -1,0 +1,114 @@
+{
+  "tramite": {
+    "slug": "permiso-acompanante-moto",
+    "nombre": "Permiso de acompañante de moto",
+    "nombre_busqueda": "solicitar permiso para llevar acompañante en moto",
+    "resumen": "Iniciá sesión o creá una cuenta para solicitar el permiso de acompañante en moto. El formulario distingue si conducís para Didi Moto o Uber Moto.",
+    "sinonimos": [
+      "permiso de acompañante en moto"
+    ],
+    "temas": [
+      "transito-local"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060270",
+  "organismo": {
+    "nombre": "Ezeiza Municipio",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "La página ofrece la solicitud a quienes conducen una moto y permite indicar si trabajás para Didi Moto o Uber Moto."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Apellido y nombre.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Email y celular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Foto del frente y del dorso del DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Foto del frente y del dorso del registro.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de antecedentes penales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave y repetición de clave para crear una cuenta.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá sesión con tu email y contraseña, o creá una cuenta."
+      },
+      {
+        "texto": "Indicá si conducís para Didi Moto o Uber Moto."
+      },
+      {
+        "texto": "Completá tus datos personales y de contacto."
+      },
+      {
+        "texto": "Cargá las fotos del DNI y del registro, de ambos lados, y el certificado de antecedentes penales."
+      },
+      {
+        "texto": "Enviá el formulario."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://ezeiza.gob.ar/motos/",
+      "titulo": "Ezeiza Municipio - Solicitud de permiso de acompañante de moto",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T12:32:33.782Z"
+    },
+    {
+      "url": "https://ezeiza.gob.ar/motos/index.php",
+      "titulo": "Ezeiza Municipio - Solicitud de permiso de acompañante de moto",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T12:32:33.782Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa si hay un costo.",
+    "No se informa si necesitás turno.",
+    "No se informa el plazo de resolución.",
+    "No se indican condiciones de elegibilidad adicionales."
+  ]
+}

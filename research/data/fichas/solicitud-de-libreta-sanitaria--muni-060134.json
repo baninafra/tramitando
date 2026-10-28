@@ -1,0 +1,104 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-libreta-sanitaria",
+    "nombre": "Solicitud de libreta sanitaria",
+    "nombre_busqueda": "Libreta sanitaria",
+    "resumen": "Documento oficial de salud para personas mayores de 18 años que trabajan o comercian, que acredita buenas condiciones físicas y ausencia de enfermedades infectocontagiosas.",
+    "sinonimos": [],
+    "temas": [
+      "carnet-sanitario"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060134",
+  "organismo": {
+    "nombre": "Municipalidad de Cañuelas",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas mayores de 18 años que, por razones laborales o comerciales, deban presentar este documento."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario F-001 descargado e impreso o solicitado en la Mesa de Entradas",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estudios a realizarse: V.D.R.L. – huddleson – machado guerreiro – ppd 2 ut – radiografía de tórax de frente",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Completá los datos solicitados en el formulario F-001."
+      },
+      {
+        "texto": "Aboná la tasa correspondiente en Tesorería del Palacio Municipal."
+      },
+      {
+        "texto": "Presentate en Hospital Ángel Marzetti con el formulario F-001 (previamente abonado) y la fotocopia de DNI."
+      },
+      {
+        "texto": "Realizá los estudios médicos y de rayos X en los horarios indicados."
+      },
+      {
+        "texto": "Presentá los estudios y el formulario F-001 en Belgrano y San Vicente para obtener el apto del médico o médica municipal."
+      }
+    ],
+    "requiere_turno": false,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Tesorería del Palacio Municipal",
+      "direccion": "1° Palacio Municipal",
+      "localidad": "1° Palacio Municipal",
+      "horario": null,
+      "fuente_url": "https://www.canuelas.gov.ar/guia-de-tramites/solicitud-de-libreta-sanitaria"
+    },
+    {
+      "nombre": "Médico/a municipal",
+      "direccion": "Belgrano y San Vicente",
+      "localidad": "Belgrano y San Vicente",
+      "horario": null,
+      "fuente_url": "https://www.canuelas.gov.ar/guia-de-tramites/solicitud-de-libreta-sanitaria"
+    },
+    {
+      "nombre": "Hospital Ángel Marzetti",
+      "direccion": "Hospital Ángel Marzetti",
+      "localidad": "Hospital Ángel Marzetti",
+      "horario": null,
+      "fuente_url": "https://www.canuelas.gov.ar/guia-de-tramites/solicitud-de-libreta-sanitaria"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.canuelas.gov.ar/guia-de-tramites/solicitud-de-libreta-sanitaria",
+      "titulo": "Solicitud de Libreta Sanitaria - Cañuelas - Gobierno Municipal",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T10:38:55.030Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Monto de la tasa",
+    "Plazo de entrega del documento",
+    "Dirección exacta de Hospital Ángel Marzetti",
+    "Horarios exactos de estudios en Hospital Ángel Marzetti"
+  ]
+}

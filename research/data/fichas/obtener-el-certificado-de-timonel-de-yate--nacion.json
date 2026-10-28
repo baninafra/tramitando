@@ -1,0 +1,99 @@
+{
+  "tramite": {
+    "slug": "certificado-de-timonel-de-yate",
+    "nombre": "Certificado de timonel de yate",
+    "nombre_busqueda": "Certificado de timonel de yate",
+    "resumen": "Obtené el certificado náutico deportivo para navegar en embarcaciones deportivas de hasta 20 metros. El trámite requiere DNI, examen teórico y práctico, certificado médico y pago de arancel.",
+    "sinonimos": [
+      "Certificado náutico deportivo",
+      "Certificado de timonel de yate a motor o vela"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Prefectura Naval Argentina",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Mayores de 18 años.",
+      "Mayores de 16 años con autorización de ambos padres o tutores, debidamente certificada por escribano público o autoridad judicial."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento Nacional de Identidad (DNI argentino o extranjero nacionalizado), original y fotocopia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado médico (original) que acredite aptitud física, psíquica, auditiva y visual para la práctica de navegación deportiva y/o recreativa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DOS (2) fotografías color, actualizadas, de frente, fondo celeste, tamaño carnet, sin anteojos salvo que sean recetados para uso permanente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago del arancel.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar el Formulario de Solicitud del Certificado Náutico Deportivo, debidamente conformado en caso de optar por la modalidad presencial.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Aprobar los exámenes teórico y práctico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar copia del libro de actas debidamente certificada por un miembro de la comisión directiva del club náutico donde conste dicha aprobación.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la Plataforma de Trámites a Distancia (TAD)."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación en la delegación de la Prefectura Naval Argentina más cercana a tu domicilio."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-el-certificado-de-timonel-de-yate",
+      "titulo": "Obtener el certificado de Timonel de Yate | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T06:27:30.202Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/prefecturanaval/aranceles",
+      "titulo": "Aranceles | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T06:27:30.202Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no está especificado en el texto, consultar el Cuadro Tarifario de Aranceles.",
+    "El plazo exacto para completar el trámite no está especificado en el texto."
+  ]
+}

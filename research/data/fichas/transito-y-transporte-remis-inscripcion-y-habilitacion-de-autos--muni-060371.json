@@ -1,0 +1,73 @@
+{
+  "tramite": {
+    "slug": "inscripcion-y-habilitacion-de-autos",
+    "nombre": "Inscripción y habilitación de autos",
+    "nombre_busqueda": "Inscripción y habilitación de autos",
+    "resumen": "Para inscribir o habilitar un auto en San Martín, necesitás el DNI del conductor, el título de propiedad y el certificado de inspección técnica. El trámite se hace en la oficina de tránsito.",
+    "sinonimos": [
+      "Inscripción de vehículos",
+      "Habilitación de autos",
+      "Registro de autos"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "patente-automotor-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060371",
+  "organismo": {
+    "nombre": "Municipalidad de San Martín",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Conductores que quieran inscribir o habilitar su vehículo."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del conductor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título de propiedad del vehículo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de inspección técnica.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá los documentos en la oficina de tránsito."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://sanmartin.gob.ar/tramites/transito-y-transporte-remis-inscripcion-y-habilitacion-de-autos",
+      "titulo": "Inscripción y habilitación de autos",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T13:38:26.355Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos de tasas.",
+    "No se especifican plazos de espera.",
+    "No se especifican aclaraciones sobre casos especiales (menores, extranjeros).",
+    "No se especifican direcciones de oficinas."
+  ]
+}

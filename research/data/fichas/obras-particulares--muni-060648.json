@@ -1,0 +1,337 @@
+{
+  "tramite": {
+    "slug": "obras-particulares",
+    "nombre": "Obras particulares",
+    "nombre_busqueda": "Permiso de obra y aprobación de planos",
+    "resumen": "Presentá los planos antes de iniciar una obra nueva o una demolición. La Dirección de Obras Particulares también interviene en ampliaciones, reformas y regularizaciones de obras existentes.",
+    "sinonimos": [
+      "permiso de obra",
+      "aprobación de planos"
+    ],
+    "temas": [
+      "permiso-de-obra-y-planos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060648",
+  "organismo": {
+    "nombre": "Dirección de Obras Particulares",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés iniciar el trámite como propietario de la obra.",
+      "También puede hacerlo un profesional o un gestor autorizado por el profesional."
+    ],
+    "requisitos": [
+      {
+        "texto": "Requerí la intervención de un profesional habilitado por el colegio correspondiente, con incumbencias en construcciones civiles e inscripto en el registro del Partido.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá la documentación del terreno.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá el Libre Deuda de tasas municipales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá el Libre Deuda del Tribunal de Faltas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pagá el timbrado en Tesorería.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Completá la Carpeta Técnica con el tipo de obra, datos de propietarios o adquirentes, CUIT o CUIL y datos del constructor o responsable de la medición e informe técnico, proyectista y director de obra.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Incluí nombre y apellido, CUIT o CUIL, matrícula profesional, número de registro municipal y domicilio real y legal de los profesionales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Incluí los datos del gestor autorizado, si corresponde.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Adjuntá una copia de la documentación de la propiedad, como escritura, boleto de compraventa, cesión de derechos y acciones, cesión de boleto junto con el boleto al que refiere o documentación de derechos posesorios.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Adjuntá el recibo de pago de la carpeta.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá una copia del plano con la carpeta certificada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá los formularios que te suministre la oficina, la planilla de categorización 903, 904 o 905, las planillas de vencimiento del trámite, la declaración jurada y el informe técnico, si corresponde.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá la certificación de numeración domiciliaria emitida por la Dirección de Catastro.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá el original en papel vegetal, con los bordes ribeteados, y al menos cinco copias heliográficas para la aprobación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá el contrato de construcción entre el comitente y el profesional, con el desglose de honorarios y el plano de obra, visados por el colegio correspondiente.",
+        "aclaracion": "Si lo presentás durante la tramitación."
+      },
+      {
+        "texto": "Presentá el original o una copia de la boleta de aportes previsionales de la Ley 19.490, artículos 31 y 32, visada por el colegio correspondiente.",
+        "aclaracion": "Si lo presentás durante la tramitación."
+      },
+      {
+        "texto": "Presentá una certificación de libre deuda previsional emitida por la Caja de Previsión Social para agrimensores, arquitectos, ingenieros y técnicos de la Provincia de Buenos Aires.",
+        "aclaracion": "Si no presentás la boleta de aportes previsionales."
+      },
+      {
+        "texto": "Colocá el cartel de obra con el número de expediente y año, y los datos del profesional actuante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Completá la planilla de Estadística de Edificación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá el instrumento que determine la titularidad, certificado por la Dirección de Catastro.",
+        "aclaracion": "Para completar el expediente de obra."
+      },
+      {
+        "texto": "Presentá la documentación que acredite quiénes firman, como apoderados, socios gerentes o presidentes.",
+        "aclaracion": "Si corresponde."
+      },
+      {
+        "texto": "Presentá una copia del plano para la intervención de la Dirección de Ordenamiento Urbano.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá la planilla de Clasificación de Edificios.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá la documentación profesional intervenida por el colegio correspondiente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá el contrato profesional del proyectista y del director de obra, con vigencia acorde con la envergadura de la obra.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá la planilla anexa con el monto, la fecha de pago y el número de boleta de aporte previsional del profesional.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá una copia del plano visado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá el certificado de desratización.",
+        "aclaracion": "Si hacés una demolición total."
+      },
+      {
+        "texto": "Presentá el contrato o certificado del constructor interviniente.",
+        "aclaracion": "Si corresponde."
+      },
+      {
+        "texto": "Presentá la planilla de tareas faltantes y estado de obra.",
+        "aclaracion": "Si corresponde."
+      },
+      {
+        "texto": "Presentá el plano antecedente.",
+        "aclaracion": "Si corresponde."
+      },
+      {
+        "texto": "Presentá el plano de unificación de parcelas.",
+        "aclaracion": "Si corresponde."
+      },
+      {
+        "texto": "Presentá una copia del plano de arquitectura visado por la Dirección de Planeamiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá una copia del plano de arquitectura visado por la Dirección de Obras Particulares.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá una copia del plano de estructura.",
+        "aclaracion": "Si corresponde."
+      },
+      {
+        "texto": "Presentá el Certificado de Libre Deuda Municipal y su recibo de pago.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá el recibo de pago de los Derechos de Construcción.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá las notas necesarias, selladas según la ordenanza fiscal vigente.",
+        "aclaracion": "Si corresponde."
+      },
+      {
+        "texto": "Presentá cinco copias del plano de arquitectura.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá cinco copias del plano de estructura.",
+        "aclaracion": "Si corresponde."
+      },
+      {
+        "texto": "Presentá el Libre Deuda municipal y del Tribunal de Faltas de titulares y profesionales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá el certificado de número domiciliario expedido por la Dirección de Catastro.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá por duplicado el Formulario de Estadística de Edificación de la Provincia de Buenos Aires.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá la planilla guía controlada por el profesional y completada en los ítems correspondientes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá el plano de instalaciones de prevención contra incendios.",
+        "aclaracion": "Si corresponde."
+      },
+      {
+        "texto": "Presentá la evaluación de impacto ambiental.",
+        "aclaracion": "Si corresponde."
+      },
+      {
+        "texto": "Presentá el certificado de cumplimiento de normas de protección contra incendios.",
+        "aclaracion": "Si corresponde."
+      },
+      {
+        "texto": "Presentá una copia del plano de arquitectura intervenida por la autoridad competente en Electromecánica.",
+        "aclaracion": "Si necesitás acreditar las exigencias edilicias para instalar ascensores, montacargas u otros equipos."
+      },
+      {
+        "texto": "Presentá la constancia de presentación de formularios de avalúo ante la Dirección de Rentas de la Provincia de Buenos Aires.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Conformá el legajo con la documentación del terreno y los Libre Deuda de tasas municipales y del Tribunal de Faltas; pagá el timbrado en Tesorería y retirás la Carpeta Técnica en la Dirección de Catastro."
+      },
+      {
+        "texto": "Completá la Carpeta Técnica con los datos de la obra, la propiedad, los profesionales y, si corresponde, el gestor."
+      },
+      {
+        "texto": "Presentá la Carpeta Técnica en la Dirección de Obras Particulares para certificar el registro del profesional."
+      },
+      {
+        "texto": "Tramitá en la Dirección de Catastro la certificación catastral de la propiedad."
+      },
+      {
+        "texto": "Adjuntá a la Carpeta Técnica una copia de la documentación de la propiedad y el recibo de pago de la carpeta."
+      },
+      {
+        "texto": "Presentá la carpeta certificada y una copia del plano en la Secretaría de Planificación y Medio Ambiente."
+      },
+      {
+        "texto": "Esperá el análisis de los indicadores urbanísticos. Si el plano supera los valores permitidos, ajustalo a las normas para que el trámite pueda continuar."
+      },
+      {
+        "texto": "Completá los formularios que te entregue Obras Particulares y reuní la documentación que se agregue al legajo."
+      },
+      {
+        "texto": "Presentá el legajo para la inspección de obra y la continuación del trámite en la Dirección de Fiscalización."
+      },
+      {
+        "texto": "Atendé las observaciones que surjan en el primer visado y, si hace falta, en el segundo o el tercero."
+      },
+      {
+        "texto": "Esperá el visado final de los indicadores urbanísticos por la Dirección de Ordenamiento Urbano."
+      },
+      {
+        "texto": "Presentá el original en papel vegetal, con los bordes ribeteados, y al menos cinco copias heliográficas cuando no haya observaciones."
+      },
+      {
+        "texto": "Pagá los Derechos de Construcción según el tipo de edificación, las superficies y los contratos de construcción. La liquidación puede reajustarse si modificás el proyecto original o hay diferencias con lo construido."
+      },
+      {
+        "texto": "Presentá el pago al contado o la cancelación del convenio de pago en cuotas para que certifiquen la documentación completa."
+      },
+      {
+        "texto": "Identificá el trámite con el número de expediente y año que te otorgue la oficina de Mesas Generales de Entradas y Salidas."
+      },
+      {
+        "texto": "Colocá el cartel de obra con el número de expediente y año."
+      },
+      {
+        "texto": "Colocá los sellos de aprobación de la Dirección de Ordenamiento Urbano y de Obras Particulares."
+      },
+      {
+        "texto": "Completá la planilla de Estadística de Edificación."
+      },
+      {
+        "texto": "Retirá la documentación aprobada. Solo puede hacerlo el profesional responsable o quien tenga poder o autorización."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Presentá los planos antes de iniciar las obras.",
+      "El profesional es responsable de materializar las obras que se ejecuten.",
+      "El permiso puede corresponder para construir, ampliar, reformar o transformar; modificar vanos de la fachada principal; cambiar estructuras de techos o materiales; desmontar, excavar, terraplenar o rellenar terrenos; demoler; instalar marquesinas, toldos, cerramientos, antenas o estructuras de sopo…",
+      "Los planos deben incluir la intervención del constructor, director de obra y proyectista.",
+      "La Secretaría de Planificación y Medio Ambiente analiza los indicadores urbanísticos. Si el plano supera los valores permitidos, no sigue el trámite hasta que se ajuste a las normas.",
+      "La liquidación de los Derechos de Construcción es condicional y puede reajustarse si se modifica el proyecto original o hay diferencias con lo construido.",
+      "La autoridad puede requerir una evaluación de impacto ambiental según las características constructivas, el uso, la zonificación o la superficie de la obra."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Obras Particulares",
+      "direccion": "Crisólogo Larralde 241",
+      "localidad": "Guernica",
+      "horario": "Lunes a viernes de 8:00 a 14:00",
+      "fuente_url": "https://presidenteperon.gob.ar/obras-particulares/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://presidenteperon.gob.ar/obras-particulares/",
+      "titulo": "Obras Particulares – Presidente Perón",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T16:37:05.909Z"
+    },
+    {
+      "url": "https://presidenteperon.gob.ar/formularios-municipales/",
+      "titulo": "Formularios Municipales – Presidente Perón",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T16:37:05.909Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa el monto del timbrado ni de los Derechos de Construcción.",
+    "No se informa un plazo de resolución.",
+    "No se indica si hace falta sacar turno.",
+    "No se informa una fecha exacta de vigencia de los requisitos y valores."
+  ]
+}

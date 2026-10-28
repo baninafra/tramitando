@@ -1,0 +1,126 @@
+{
+  "tramite": {
+    "slug": "solicitar-prestamo-personal-iaf",
+    "nombre": "Solicitar un préstamo personal en el IAF",
+    "nombre_busqueda": "préstamo personal IAF",
+    "resumen": "Si sos personal militar en actividad, retirado con haber o pensionista del IAF, podés solicitar un préstamo personal en pesos. Podés iniciar el trámite en persona, por el portal eIAF Beneficiarios o por teléfono.",
+    "sinonimos": [
+      "crédito personal del IAF"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares",
+    "sigla": "IAF",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personal militar del cuadro permanente de las Fuerzas Armadas en actividad.",
+      "Personal militar retirado con haber.",
+      "Pensionistas del IAF."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI de quien solicita el préstamo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del codeudor, si corresponde.",
+        "aclaracion": "Si corresponde."
+      },
+      {
+        "texto": "Último recibo de haberes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante actualizado de CBU de una cuenta bancaria exclusivamente a tu nombre, en pesos, con el número de caja de ahorro o cuenta corriente y el número de sucursal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de CUIL.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación de ingresos extendida por el servicio administrativo-financiero de tu Fuerza, según el Decreto 860/09.",
+        "aclaracion": "Si sos personal militar en actividad."
+      },
+      {
+        "texto": "Certificación de ingresos del codeudor.",
+        "aclaracion": "Si sos personal militar en actividad y corresponde."
+      },
+      {
+        "texto": "Firma verificada o certificada en el Contrato de Mutuo.",
+        "aclaracion": "La firma de quien solicita y del codeudor, si corresponde, debe verificarla o certificarla personal autorizado del IAF, el jefe máximo de una unidad militar, una autoridad policial, un escribano público, un juez de paz o una entidad bancaria."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal eIAF Beneficiarios o a la app con tu CUIL y contraseña."
+      },
+      {
+        "texto": "Elegí «Solicitar Préstamo Personal» y contratá el préstamo."
+      },
+      {
+        "texto": "Completá la documentación y enviala al IAF."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Llevá la documentación requerida a la sede central del IAF o a una delegación del interior, de 08:00 a 13:00."
+      },
+      {
+        "texto": "Recibí la preliquidación y el contrato en el momento."
+      },
+      {
+        "texto": "Hacé verificar o certificar la firma en el Contrato de Mutuo."
+      },
+      {
+        "texto": "Entregá la documentación completa al IAF."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "Si hacés el trámite en persona, recibís la preliquidación y el contrato en el momento. Una vez certificada o verificada la firma, el préstamo se acredita dentro de las 24 horas desde que entregás la…",
+    "consejos": [
+      "También podés comunicarte al 0810-222-2423, de 08:00 a 15:00. Un operador te indicará cómo completar el trámite.",
+      "Si la certificación de firma se hace ante escribano público o entidad bancaria, ese es el único costo para el beneficiario."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede central del IAF",
+      "direccion": "Cerrito 572",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-un-prestamo-personal-en-el-iaf"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-un-prestamo-personal-en-el-iaf",
+      "titulo": "Solicitar un préstamo personal en el IAF | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T16:24:17.344Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto del costo por certificación de firma no está indicado.",
+    "No se indica una fecha exacta de vigencia del trámite.",
+    "No se informa si hace falta sacar turno."
+  ]
+}

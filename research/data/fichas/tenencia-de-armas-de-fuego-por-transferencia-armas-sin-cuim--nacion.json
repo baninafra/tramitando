@@ -1,0 +1,99 @@
+{
+  "tramite": {
+    "slug": "tenencia-de-armas-de-fuego-por-transferencia",
+    "nombre": "Tenencia de armas de fuego por transferencia",
+    "nombre_busqueda": "Tenencia de armas sin CUIM",
+    "resumen": "La tenencia es la constancia que habilita a mantener, transportar y usar un arma con fines lícitos. Para obtenerla por transferencia, necesitás tener la credencial de Legítimo Usuario de Armas de Fuego y presentar documentación específica en el RENAR.",
+    "sinonimos": [
+      "Tenencia de armas sin CUIM",
+      "Constancia de tenencia de armas"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro Nacional de Armas",
+    "sigla": "RENAR",
+    "web": "https://www.argentina.gob.ar/servicio/tenencia-de-armas-de-fuego-por-transferencia-armas-sin-cuim"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan previamente la credencial de Legítimo Usuario de Armas de Fuego."
+    ],
+    "requisitos": [
+      {
+        "texto": "Credencial de Legítimo Usuario de Armas de Fuego.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotografía color del arma completa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotografías en las que se vean claramente la marca y el número de serie del arma.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitud electrónica de autorización de tenencia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formularios Ley 23.283 y 23.412 correspondientes por cada arma y calibre de munición.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitud de reempadronamiento (formulario de Reempadronamiento de Armas de Fuego).",
+        "aclaracion": "Si el arma no está registrada en el RENAR y fue fabricada antes del 30 de agosto de 1993."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá la solicitud electrónica para la credencial de Tenencia de Armas de Fuego."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de RENAR que prefieras."
+      },
+      {
+        "texto": "Retirá la documentación emitida por el RENAR en la delegación en la que iniciaste el trámite o pedí que te la manden por correo."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central del organismo",
+      "direccion": "Bartolomé Mitre 1465/9",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/tenencia-de-armas-de-fuego-por-transferencia-armas-sin-cuim"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tenencia-de-armas-de-fuego-por-transferencia-armas-sin-cuim",
+      "titulo": "Tenencia de armas de fuego por transferencia (armas sin CUIM) | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T17:38:00.544Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se especifica que se debe abonar el arancel correspondiente si se solicita el envío de la documentación por correo.",
+    "No se especifica el plazo de tiempo para la emisión de la tenencia.",
+    "No se especifica el monto exacto de los costos."
+  ]
+}

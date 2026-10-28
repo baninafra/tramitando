@@ -1,0 +1,106 @@
+{
+  "tramite": {
+    "slug": "certificado-de-anotaciones-personales-inhibiciones-y-cesiones-de-acciones-y-derechos",
+    "nombre": "Certificado de anotaciones personales",
+    "nombre_busqueda": "Certificado de anotaciones personales",
+    "resumen": "El Registro de la Propiedad Inmueble informa la situación jurídica de una persona o entidad a petición de un escribano público. El certificado es digital y debe ser firmado por el escribano con firma digital.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad",
+      "legalizaciones-y-apostillados"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro de la Propiedad Inmueble",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El Registro, a petición de escribano público."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nombre y apellido completo (si es persona humana).",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI y apellido materno (si se conoce).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Denominación social completa (si es persona jurídica).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio legal (si es persona jurídica).",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUIT y su inscripción legal cuando es necesaria para su existencia (si es persona jurídica).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Una cuenta de email válida.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Una cuenta bancaria para abonar VEPs.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la página web del Registro de la Propiedad Inmueble de Capital Federal."
+      },
+      {
+        "texto": "Ingresá a 'Trámites web para usuario registrados'."
+      },
+      {
+        "texto": "Llená el formulario con los datos requeridos."
+      },
+      {
+        "texto": "Recibí un email con los datos para descargar el Certificado."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Común: dentro de los 4 días hábiles, sin contar el día de su presentación.",
+      "Urgente: dentro de los 2 días hábiles, sin contar el día de su presentación.",
+      "Urgente Exprés: al día hábil siguiente de su presentación."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/certificado-de-anotaciones-personales-inhibiciones-y-cesiones-de-acciones-y-derechos",
+      "titulo": "Certificado de anotaciones personales: inhibiciones y cesiones de acciones y derechos hereditarios | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T04:54:28.099Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T04:54:28.099Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del costo no se especifica en el texto, consultá la tabla de valores o calculá el costo en la calculadora de trámites registrales de acuerdo con los aranceles vigentes y en base a la información introducida.",
+    "La fecha de vigencia exacta no se especifica en el texto, el trámite se realiza según la resolución vigente."
+  ]
+}

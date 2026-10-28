@@ -1,0 +1,96 @@
+{
+  "tramite": {
+    "slug": "cambio-de-obra-social-de-jubilado-o-pensionado",
+    "nombre": "Cambio de obra social de jubilado o pensionado",
+    "nombre_busqueda": "cambiar obra social jubilado pensionado",
+    "resumen": "Un jubilado o pensionado tiene derecho a cambiar, hasta una vez por año, su obra social. El trámite es gratuito y se realiza presentando formularios específicos en Atención Virtual o presencialmente.",
+    "sinonimos": [
+      "cambiar obra social jubilado",
+      "cambiar obra social pensionado"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANSES",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas jubiladas o pensionadas que quieran cambiar de obra social."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario Novedades Opción de Traspaso (PS.5.5) mediante Atención Virtual.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario Derivación de Aportes de Obra Social (PS.5.7) firmado por el empleador.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de Empadronamiento (CODEM) entregada por ANSES.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI y documentación necesaria para iniciar el trámite.",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUIL y Clave de la Seguridad Social.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario Aceptación de la Obra Social para Titulares de Origen y su Grupo Familiar (PS.5.11) si la obra social elegida solo acepta a personas que la hayan tenido durante la actividad laboral.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Revisá si tus datos personales y vínculos familiares están actualizados en mi ANSES."
+      },
+      {
+        "texto": "Con tu CUIL y Clave de la Seguridad Social, ingresá en Atención Virtual."
+      },
+      {
+        "texto": "Elegí la opción Solicitud de cambio de obra social para comenzar tu trámite."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a una oficina con turno previo si presentás el Formulario Aceptación de la Obra Social para Titulares de Origen y su Grupo Familiar (PS.5.11)."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La nueva cobertura estará vigente a partir del primer día del tercer mes."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-el-cambio-de-obra-social-de-jubilado-o-pensionado",
+      "titulo": "Solicitar el cambio de obra social de jubilado o pensionado | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:23:07.060Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia del trámite."
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "tramite": {
+    "slug": "permiso-ingreso-transitorio-tareas",
+    "nombre": "Permiso de ingreso transitorio para tareas",
+    "nombre_busqueda": "Permiso de ingreso transitorio tareas remuneradas",
+    "resumen": "Permiso para extranjeros que ingresan a Argentina a realizar tareas científicas, profesionales, técnicas, religiosas o artísticas por un plazo de hasta un mes.",
+    "sinonimos": [
+      "Permiso ingreso transitorio",
+      "Permiso ingreso transitorio tareas",
+      "Permiso ingreso transitorio actividades científicas"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Migraciones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El REQUIRENTE: Debidamente inscripto en el Re.N.U.R.E.",
+      "El apoderado del requirente: Con poder/designación con facultades suficientes (ante escribano público o funcionario de la Dirección Nacional de Migraciones)."
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia de Inscripción en el Re.N.U.R.E (original y copia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de CUIT.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de Inscripción y último pago impositivo y de IVA, Ingresos Brutos y Ganancias (No deberá presentarlos en caso de tratarse de un Gran Contribuyente Nacional) (original y copia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poder otorgado por el Requirente, con facultades suficientes para actuar ante la Dirección Nacional de Migraciones (original y copia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI vigente del apoderado (original y copia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de solicitud detallando los motivos de la petición, conteniendo los siguientes datos de ingresante: Nombres y Apellidos. Fecha de Nacimiento. Número de pasaporte. País de nacimiento. Nacionalidad. Estado civil. Profesión. Nivel de estudios cursados. País y ciudad donde reside. Plazo de permane…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia completa y actualizada del pasaporte válido y vigente del ingresante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Toda documentación emitida en el exterior deberá contar con sus respectivas legalizaciones y su correspondiente traducción realizada por traductor público nacional (de corresponder).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la Nota de Solicitud y la totalidad de la documentación requerida ante el Departamento de Tramitación de Ingresos de la Sede Central de la Dirección Nacional de Migraciones, o ante la delegación DNM que corresponda según el domicilio del requirente."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Una vez resuelto el trámite, debés presentarte en donde hayas iniciado la solicitud a los fines de notificarte del otorgamiento del mismo, y poder informarle al extranjero que puede presentarse ante el Consulado Argentino que le corresponda con el fin de obtener su visa."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-un-permiso-de-ingreso-transitorio-para-realizar-tareas-remuneradas-o-no-en",
+      "titulo": "Obtener un Permiso de Ingreso Transitorio para realizar tareas remuneradas o no en actividades científicas, profesionales, técnicas, religiosas o artísticas | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-27T07:05:27.572Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T07:05:27.572Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto en centavos de peso no se especifica en el texto, solo se indica que se debe consultar el cuadro de tasas migratorias.",
+    "La fecha exacta de vigencia del trámite no se especifica en el texto, solo se indica que la vigencia es de 1 mes."
+  ]
+}

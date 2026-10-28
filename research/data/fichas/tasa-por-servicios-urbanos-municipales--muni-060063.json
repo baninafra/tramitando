@@ -1,0 +1,64 @@
+{
+  "tramite": {
+    "slug": "tasa-por-servicios-urbanos-municipales",
+    "nombre": "Tasa por Servicios Urbanos Municipales (TSUM)",
+    "nombre_busqueda": "Tasa TSUM Balcarce",
+    "resumen": "Pago mensual o bimestral de la tasa por servicios de barrido, limpieza, recolección de residuos y conservación de la vía pública para contribuyentes del Partido de Balcarce.",
+    "sinonimos": [
+      "Tasa TSUM",
+      "Servicios Urbanos Balcarce"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "servicios-urbanos-y-reclamos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060063",
+  "organismo": {
+    "nombre": "Municipalidad de Balcarce",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Contribuyentes del Partido de Balcarce"
+    ],
+    "requisitos": [
+      {
+        "texto": "Boleta de pago emitida por la Municipalidad o por Aguas de Balcarce S.A.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá el Calendario de vencimiento en el apartado de DESCARGAS para conocer los plazos de pago.",
+      "El cobro se realiza de manera mensual por Aguas de Balcarce S.A. en el periodo de la concesión."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://balcarce-app.gob.ar/portal_servicios/servicio/tasa-por-servicios-urbanos-municipales-tsum",
+      "titulo": "Portal de Servicios | Modernizacion Balcarce",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T11:32:46.586Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos exactos en centavos de peso.",
+    "No se especifican plazos exactos en días ni fechas de vigencia.",
+    "No se especifican requisitos adicionales para casos especiales (menores, extranjeros, etc.)."
+  ]
+}

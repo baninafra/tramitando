@@ -1,0 +1,102 @@
+{
+  "tramite": {
+    "slug": "revocar-o-dar-de-baja-cedula-autorizado-conducir",
+    "nombre": "Revocar o dar de baja la cédula para autorizado a conducir",
+    "nombre_busqueda": "revocar cédula azul autorizado",
+    "resumen": "Podés revocar o dar de baja las autorizaciones que diste para que el vehículo fuera usado por otra persona en línea o personalmente.",
+    "sinonimos": [
+      "dar de baja cédula azul",
+      "revocar autorización vehículo"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional del Registro de la Propiedad del Automotor",
+    "sigla": "DNRPA",
+    "web": "https://www.argentina.gob.ar/servicio/revocar-o-dar-de-baja-la-cedula-para-autorizado-conducir"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quien necesite dejar sin efecto una, varias o todas las autorizaciones que diste para que el vehículo fuera usado por otra persona."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario 02",
+        "aclaracion": null
+      },
+      {
+        "texto": "Las cédulas para autorizado a conducir que vas a revocar o dar de baja",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentos que prueben representación si sos el representante legal o apoderado",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá la Solicitud electrónica."
+      },
+      {
+        "texto": "De forma opcional, podés abonar en línea."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación en el Registro donde está radicado el vehículo."
+      },
+      {
+        "texto": "Aboná los aranceles, si no los pagaste en línea."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si completaste en línea la Solicitud Tipo TP (Trámite Posterior), te la imprimen en el Registro."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/revocar-o-dar-de-baja-la-cedula-para-autorizado-conducir",
+      "titulo": "Revocar o dar de baja la cédula para autorizado a conducir | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T04:05:24.499Z"
+    },
+    {
+      "url": "https://www.dnrpa.gov.ar/portal_dnrpa/aranceles2.php",
+      "titulo": "Registros de la Propiedad Automotor",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T04:05:24.499Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T04:05:24.499Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite."
+  ]
+}

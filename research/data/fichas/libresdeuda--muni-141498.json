@@ -1,0 +1,67 @@
+{
+  "tramite": {
+    "slug": "libre-deuda-municipal",
+    "nombre": "Libre deuda municipal",
+    "nombre_busqueda": "Libre deuda municipal",
+    "resumen": "Para obtener el libre de deuda municipal, se debe presentar el título de propiedad del vehículo y pagar la tasa correspondiente.",
+    "sinonimos": [],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "planes-de-pago-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141498",
+  "organismo": {
+    "nombre": "Municipalidad de Tancacha",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan título de propiedad del vehículo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Título de propiedad del vehículo",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el título de propiedad del vehículo."
+      },
+      {
+        "texto": "Se consulta el estado en sistema."
+      },
+      {
+        "texto": "Se entrega el libre deuda previo pago de tasa correspondiente."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.tancacha.gob.ar/libresDeuda.html",
+      "titulo": "Libres de deudas municipales",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T09:33:51.657Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina",
+    "Horarios de atención",
+    "Métodos de pago aceptados"
+  ]
+}

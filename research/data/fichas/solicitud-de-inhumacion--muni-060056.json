@@ -1,0 +1,98 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-inhumacion",
+    "nombre": "Solicitud de inhumación",
+    "nombre_busqueda": "Solicitud de inhumación cementerio bahía blanca",
+    "resumen": "Para arrendar tierra en el cementerio municipal a los fines de inhumación. Se tramita presencialmente en el cementerio.",
+    "sinonimos": [
+      "Solicitud de tierra nueva",
+      "Inscripción en cementerio"
+    ],
+    "temas": [
+      "cementerio-y-servicios-funebres"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titular responsable del sitio",
+      "Titular con su DNI original"
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original",
+        "aclaracion": null
+      },
+      {
+        "texto": "Partida de defunción",
+        "aclaracion": "Si se requiere ampliar la parcela ya arrendada y el titular falleció."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Dirijite al Cementerio en Pablo Lejarraga 1198."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La persona encargada de tramitar el ingreso del fallecido será titular responsable del sitio."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "Tierra nueva",
+      "gratis": false,
+      "monto_centavos": 7529670,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/cementerio/solicitud-de-inhumacion/"
+    },
+    {
+      "modalidad": "Tierra nueva",
+      "gratis": false,
+      "monto_centavos": 7070110,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/cementerio/solicitud-de-inhumacion/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Cementerio",
+      "direccion": "Pablo Lejarraga 1198",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/cementerio/solicitud-de-inhumacion/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/tramites/cementerio/solicitud-de-inhumacion/",
+      "titulo": "Solicitud de Inhumación | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T20:12:27.904Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se generan planes de pagos para quienes elijan abonar por dos, tres, cuatro o cinco años.",
+    "Cambio de titularidad requiere cedimiento del titular actual.",
+    "Si se quiere ampliar (inhumación de otro fallecido más) la parcela arrendada, se debe presentar el titular con su DNI."
+  ]
+}

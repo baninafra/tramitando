@@ -1,0 +1,95 @@
+{
+  "tramite": {
+    "slug": "solicitar-inscripcion-reinscripcion-de-profesionales",
+    "nombre": "Solicitar inscripción o reinscripción de profesionales",
+    "nombre_busqueda": "Inscripción de profesionales",
+    "resumen": "Trámite para que los prestadores profesionales se registren en el Registro Nacional de Prestadores (RNP) de la Superintendencia de Servicios de Salud para poder contratar con Obras Sociales y Entidades de Medicina Prepaga.",
+    "sinonimos": [
+      "Inscripción de efectores médicos",
+      "Registro de prestadores profesionales"
+    ],
+    "temas": [
+      "salud-y-prevencion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Servicios de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Prestadores Profesionales que deseen contratar con Agentes del Seguro de Salud o Entidades de Medicina Prepaga",
+      "Personas físicas, individualmente o asociadas con otras"
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del prestador",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario del Anexo II (si es incorporación de matrícula o carrera profesional)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma de Trámites A Distancia para iniciar el trámite Inscripción de efectores médicos prestacionales - Profesionales."
+      },
+      {
+        "texto": "Confirmá tus datos y completá el Formulario del Anexo II."
+      },
+      {
+        "texto": "Adjuntá copia del DNI."
+      },
+      {
+        "texto": "Verificá que los datos ingresados sean correctos y hacé clic en Confirmar Trámite."
+      },
+      {
+        "texto": "Descargá el certificado cuando esté listo desde Mis Trámites."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá tu Expediente a partir de los 10 días corridos desde la fecha de inicio.",
+      "La inscripción en el Registro Nacional de Prestadores (RNP) es requisito indispensable para que los prestadores puedan celebrar contrato con los agentes del seguro."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-inscripcion-reinscripcion-de-profesionales",
+      "titulo": "Solicitar inscripción / reinscripción de profesionales | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:57:57.875Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-reimpresion-de-certificado-para-profesionales",
+      "titulo": "Solicitar reimpresión de certificado para profesionales | Argentina.gob.ar",
+      "bloques": [
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T08:57:57.875Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite no está especificada en el texto.",
+    "El plazo de respuesta del trámite no está especificado en el texto."
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "tramite": {
+    "slug": "sacar-la-tenencia-de-repuestos-principales-de-armas-de-fuego",
+    "nombre": "Sacar la tenencia de repuestos principales de armas de fuego",
+    "nombre_busqueda": "Sacar tenencia repuestos armas",
+    "resumen": "Este trámite permite informar los datos del arma en la cual se utilizará un armazón, kit de conversión o repuestos principales de un arma de fuego.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMaC",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes adquieran un armazón, kit de conversión o repuestos principales de un arma de fuego."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formularios",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ley 23.283",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ley 23.412",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá la solicitud electrónica según la categoría del arma (uso civil o uso civil condicional)."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      },
+      {
+        "texto": "Retirá la documentación emitida por el ANMaC en la delegación en la que iniciaste el trámite o pedí que te la manden por correo."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "10 días",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central del organismo",
+      "direccion": "Bartolomé Mitre 1465/9",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/sacar-la-tenencia-de-repuestos-principales-de-armas-de-fuego"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/sacar-la-tenencia-de-repuestos-principales-de-armas-de-fuego",
+      "titulo": "Sacar la tenencia de repuestos principales de armas de fuego | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T04:21:39.944Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto en centavos de peso.",
+    "La URL para sacar turno si aplica."
+  ]
+}

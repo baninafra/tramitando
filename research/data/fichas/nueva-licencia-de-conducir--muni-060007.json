@@ -1,0 +1,98 @@
+{
+  "tramite": {
+    "slug": "nueva-licencia-de-conducir",
+    "nombre": "Nueva Licencia de Conducir",
+    "nombre_busqueda": "Nueva Licencia de Conducir",
+    "resumen": "Para obtener una nueva licencia de conducir en la Municipalidad de Adolfo Alsina necesitás varios documentos, pasar exámenes y pagar tasas. La licencia tiene validez de 5 años, o 1 año si sos menor de 18.",
+    "sinonimos": [
+      "Licencia Nacional de Conducir",
+      "Licencia Provincial de Conducir"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060007",
+  "organismo": {
+    "nombre": "Municipalidad de Adolfo Alsina",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan el domicilio actualizado en el Partido de Adolfo Alsina."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento de Identidad original.",
+        "aclaracion": null
+      },
+      {
+        "texto": "1 copia del documento de identidad, de ambos lados.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de grupo sanguíneo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización expresa de padre y madre o tutor (si sos menor de 18 años).",
+        "aclaracion": "Si sos menor de 18 años."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Rendí el examen teórico."
+      },
+      {
+        "texto": "Rendí el examen de manejo, práctico."
+      },
+      {
+        "texto": "Aboná la tasa Nacional y Provincial."
+      },
+      {
+        "texto": "Tramitá el Libre deuda de infracciones de tránsito en el Juzgado de Faltas."
+      },
+      {
+        "texto": "Traé el apto físico firmado por el médico."
+      },
+      {
+        "texto": "Aboná la tasa municipal para retirarla."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de la Dirección de Emisión de Licencias de Conducir",
+      "direccion": "Rivadavia 1150",
+      "localidad": "Carhué",
+      "horario": null,
+      "fuente_url": "https://www.adolfoalsina.gov.ar/nueva-licencia-de-conducir/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.adolfoalsina.gov.ar/nueva-licencia-de-conducir/",
+      "titulo": "Nueva Licencia de Conducir - Municipalidad de Adolfo Alsina",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T19:02:55.300Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los montos de las tasas no se especifican en el texto.",
+    "El plazo exacto para la obtención de la licencia no se especifica en el texto."
+  ]
+}

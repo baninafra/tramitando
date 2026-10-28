@@ -1,0 +1,96 @@
+{
+  "tramite": {
+    "slug": "sube",
+    "nombre": "Sistema de Uso de Billetes de Transporte",
+    "nombre_busqueda": "Sistema de Uso de Billetes de Transporte",
+    "resumen": "Es el sistema de pago para el transporte público en la ciudad de Quilmes. Permite adquirir billetes para microbuses, trenes y otros servicios de movilidad.",
+    "sinonimos": [
+      "SUTEM Quilmes",
+      "Billetes Quilmes",
+      "Transporte Quilmes"
+    ],
+    "temas": [
+      "tarjeta-sube",
+      "transporte-publico-y-viajes",
+      "trenes-y-micros"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060658",
+  "organismo": {
+    "nombre": "Municipalidad de Quilmes",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que desee utilizar el sistema de transporte público en la ciudad de Quilmes."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original o fotocopia",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cédula de Identidad Nacional (C.I.N.) original o fotocopia",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI de la persona mayor de edad que va a realizar el trámite",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio web oficial de la Municipalidad de Quilmes."
+      },
+      {
+        "texto": "Buscá el trámite llamado 'Sistema de Uso de Billetes de Transporte' o similar en la sección de trámites."
+      },
+      {
+        "texto": "Seguí las instrucciones de la página para completar el formulario de solicitud."
+      },
+      {
+        "texto": "Realizá el pago de la tasa correspondiente si aplica."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acudí a la oficina de la Municipalidad de Quilmes con los documentos requeridos."
+      },
+      {
+        "texto": "Presentá tu documentación ante el funcionario responsable."
+      },
+      {
+        "texto": "Recibí tu tarjeta SUBE o billete correspondiente."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Llevá siempre el documento original para evitar demoras.",
+      "Consultá si hay exenciones de pago para jubilados o pensionados."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mi.quilmes.gov.ar/tramites/339/sube",
+      "titulo": "Mi Quilmes Digital",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T08:20:02.465Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el monto de la tasa en el texto.",
+    "No se indica el plazo de entrega del trámite.",
+    "No se detalla si el trámite requiere turno."
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "tramite": {
+    "slug": "ratificar-acuerdo-espontaneo-casas",
+    "nombre": "Ratificar virtualmente un acuerdo espontáneo entre trabajadores y empleadores de casas",
+    "nombre_busqueda": "ratificar acuerdo espontaneo casas",
+    "resumen": "Permite ratificar a distancia un acuerdo laboral alcanzado entre empleador y trabajador de casas particulares en CABA. Es un trámite gratuito que requiere la firma de las partes y sus abogados, y la presentación de documentación escaneada.",
+    "sinonimos": [
+      "ratificación acuerdo espontaneo casas",
+      "ratificar acuerdo laboral casas particulares"
+    ],
+    "temas": [
+      "personal-de-casas-particulares",
+      "conflictos-laborales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Tribunal de Trabajo para el Personal de Casas Particulares",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empleadores/as y trabajadores/as de casas particulares que hayan llegado a un acuerdo.",
+      "Profesionales del Derecho en CABA que representen al trabajador/a o al empleador en el acuerdo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Usuario TAD o clave fiscal del empleador y los letrados firmantes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI vigente del empleador/a y del trabajador/a.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Credenciales del Colegio Público de Abogados de Capital Federal vigentes de los abogados intervinientes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de titularidad de cuenta bancaria de la trabajador/a (CBU).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acuerdo alcanzado (por TAD o documento siguiendo el modelo propuesto).",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de fallecimiento de alguna parte: Certificado de Defunción y acreditación del vínculo con partidas de nacimiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de renuncias: Telegrama que acredite la misma.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma Trámites a Distancia."
+      },
+      {
+        "texto": "Hacé clic en la opción trámites."
+      },
+      {
+        "texto": "Ingresá a la ARCA con tu usuario y clave fiscal."
+      },
+      {
+        "texto": "Buscá el trámite escribiendo 'ratificación' o el nombre completo."
+      },
+      {
+        "texto": "Hacé clic en iniciar trámite."
+      },
+      {
+        "texto": "Completá los datos del solicitante (debe ser uno de los firmantes del acuerdo)."
+      },
+      {
+        "texto": "Seleccioná quien lo firma (empleador/a, trabajador/a y los abogados)."
+      },
+      {
+        "texto": "Guardá los datos."
+      },
+      {
+        "texto": "Seleccioná el tipo de acuerdo (desvinculación u otro motivo)."
+      },
+      {
+        "texto": "Cargá la documentación del acuerdo."
+      },
+      {
+        "texto": "Confirmá el trámite."
+      },
+      {
+        "texto": "Ingresá a TAD con usuario de AFIP y clave fiscal para firmar la documentación presentada."
+      },
+      {
+        "texto": "Una vez firmados, el sistema te brindará un número de expediente."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Enviar el telegrama que ratifica lo allí acordado al Tribunal de Trabajo para el Personal de Casas Particulares, Av. Callao 124, piso 1."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El funcionario asignado invitará a las partes a conectarse para una reunión virtual mediante un enlace o link enviado a los correos electrónicos o teléfonos móviles informados en el inicio del trámite."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Tribunal de Trabajo para el Personal de Casas Particulares",
+      "direccion": "Av. Callao 124, piso 1",
+      "localidad": "Av. Callao 124, piso 1",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/ratificar-virtualmente-un-acuerdo-espontaneo-entre-trabajadores-y-empleadores-de-casas"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/ratificar-virtualmente-un-acuerdo-espontaneo-entre-trabajadores-y-empleadores-de-casas",
+      "titulo": "Ratificar virtualmente un \"Acuerdo Espontáneo\" entre trabajadores y empleadores de casas particulares de CABA | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:26:30.921Z"
+    },
+    {
+      "url": "https://mi.argentina.gob.ar/turnos/seleccion-turno/398",
+      "titulo": "Ingresar | Mi Argentina",
+      "bloques": [
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T02:26:30.921Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica el plazo exacto de duración del trámite ni el monto exacto en centavos de peso.",
+    "La fecha de vigencia no está indicada en el texto."
+  ]
+}

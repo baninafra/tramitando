@@ -1,0 +1,166 @@
+{
+  "tramite": {
+    "slug": "declaracion-jurada-tasa-seguridad-higiene",
+    "nombre": "Declarar la tasa de seguridad e higiene",
+    "nombre_busqueda": "Declaración jurada y carga de tasa por inspección de seguridad e higiene",
+    "resumen": "Cargá la declaración jurada de la tasa por inspección de seguridad e higiene y elegí el período que querés declarar. Podés declarar el período vigente o períodos anteriores de 2012 a 2024.",
+    "sinonimos": [
+      "Declaración jurada de tasa de higiene",
+      "Carga de tasa de comercio e industria"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "tasa-de-comercio-e-industria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060547",
+  "organismo": {
+    "nombre": "Municipalidad de Monte",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Comercios e industrias que deban declarar la tasa por inspección de seguridad e higiene."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nombre",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUIT",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de comercio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tipo de actividad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Teléfono",
+        "aclaracion": null
+      },
+      {
+        "texto": "Correo electrónico",
+        "aclaracion": null
+      },
+      {
+        "texto": "Base de cálculo de los anticipos de enero a diciembre de 2025",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de partida de los inmuebles donde desarrollás tu actividad",
+        "aclaracion": "Si tenés varios inmuebles, separá los números con /."
+      },
+      {
+        "texto": "Superficie cubierta del establecimiento en metros cuadrados",
+        "aclaracion": null
+      },
+      {
+        "texto": "Información sobre carteles en el frente del establecimiento",
+        "aclaracion": null
+      },
+      {
+        "texto": "Información sobre si los carteles son luminosos",
+        "aclaracion": "Si tenés carteles en el frente."
+      },
+      {
+        "texto": "Información sobre el uso de la acera para colocar carteleras, tableros o pantallas",
+        "aclaracion": null
+      },
+      {
+        "texto": "Información sobre carteles del negocio en rutas, calles o caminos",
+        "aclaracion": null
+      },
+      {
+        "texto": "Información sobre motocicletas para reparto",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de patente de las motocicletas",
+        "aclaracion": "Si tenés motos para reparto."
+      },
+      {
+        "texto": "Información sobre otros vehículos para reparto",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de patente de los otros vehículos",
+        "aclaracion": "Si tenés otros vehículos para reparto."
+      },
+      {
+        "texto": "Inscripción ante AFIP y categoría de responsable inscripto o monotributista",
+        "aclaracion": null
+      },
+      {
+        "texto": "Inscripción de ingresos brutos",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cantidad de empleados",
+        "aclaracion": null
+      },
+      {
+        "texto": "Observaciones",
+        "aclaracion": "Completalas si hace falta."
+      },
+      {
+        "texto": "Aceptación del carácter de declaración jurada",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Elegí el enlace del período que querés declarar: el período vigente o los años previos de 2012 a 2024."
+      },
+      {
+        "texto": "Completá el formulario con tus datos personales, la base de cálculo de los anticipos y la información adicional."
+      },
+      {
+        "texto": "Aceptá el carácter de declaración jurada."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Verificá que ingreses al enlace correspondiente al año que querés declarar para evitar inconsistencias."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Palacio Municipal",
+      "direccion": "Calle Laura Giagnacovo N° 636",
+      "localidad": "Monte, Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://monte.gob.ar/tasahigiene/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://monte.gob.ar/tasahigiene/",
+      "titulo": "Tasa por Inspección de Seguridad e Higiene - Municipalidad de Monte",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen",
+        "consejos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T15:07:35.613Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa si el trámite requiere turno.",
+    "No se informa el plazo para completar o procesar la declaración.",
+    "No se informa el costo de la tasa."
+  ]
+}

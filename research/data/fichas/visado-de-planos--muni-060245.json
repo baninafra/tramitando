@@ -1,0 +1,109 @@
+{
+  "tramite": {
+    "slug": "visado-de-planos",
+    "nombre": "Visado de planos",
+    "nombre_busqueda": "Visado de planos",
+    "resumen": "Trámite para agrimensores que verifica la documentación de mensura, subdivisión y unificación de parcela según la Ley de uso del suelo.",
+    "sinonimos": [],
+    "temas": [
+      "obras-y-construccion",
+      "permiso-de-obra-y-planos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060245",
+  "organismo": {
+    "nombre": "Municipalidad de Ensenada",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Los agrimensores en forma personal"
+    ],
+    "requisitos": [
+      {
+        "texto": "Tres copias del Plano",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dos copias de la Solicitud",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación Anexa",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario El Municipal TV",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el expediente en la Mesa de Entradas, Don Bosco esq. La Merced."
+      },
+      {
+        "texto": "Retirá la copia del plano con firma y sello de visado del Departamento de Catastro."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "20 días",
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 50000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.ensenada.gov.ar/visado-de-planos/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Mesa de Entradas",
+      "direccion": "Don Bosco esq. La Merced",
+      "localidad": "Don Bosco esq. La Merced",
+      "horario": null,
+      "fuente_url": "https://www.ensenada.gov.ar/visado-de-planos/"
+    },
+    {
+      "nombre": "Secretaría de Hacienda",
+      "direccion": "San Martín esq. Pte. Perón",
+      "localidad": "San Martín esq. Pte. Perón",
+      "horario": null,
+      "fuente_url": "https://www.ensenada.gov.ar/visado-de-planos/"
+    },
+    {
+      "nombre": "Subdirección de Planeamiento",
+      "direccion": "Don Bosco esq. La Merced",
+      "localidad": "Don Bosco esq. La Merced",
+      "horario": null,
+      "fuente_url": "https://www.ensenada.gov.ar/visado-de-planos/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.ensenada.gov.ar/visado-de-planos/",
+      "titulo": "VISADO DE PLANOS – Municipalidad de Ensenada",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T23:11:41.571Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite no está especificada en el texto.",
+    "No se indica si el trámite requiere turno."
+  ]
+}

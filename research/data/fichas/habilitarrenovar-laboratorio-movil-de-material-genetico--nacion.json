@@ -1,0 +1,90 @@
+{
+  "tramite": {
+    "slug": "habilitarrenovar-laboratorio-movil-de-material-genetico",
+    "nombre": "Habilitar/Renovar laboratorio móvil de material genético",
+    "nombre_busqueda": "Habilitar laboratorio móvil material genético",
+    "resumen": "Este trámite es para titular de laboratorios móviles de material genético que deben estar habilitados por el Senasa. Se requiere ser parte de un Centro Integral de Inseminación Artificial habilitado.",
+    "sinonimos": [],
+    "temas": [
+      "habilitacion-comercial"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de laboratorios móviles de material genético que sean parte integrante de un Centro Integral de Inseminación Artificial regido por el mismo director técnico y debidamente habilitado."
+    ],
+    "requisitos": [
+      {
+        "texto": "Declarar domicilio electrónico mediante el sistema SIGTrámites.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ser parte integrante de un Centro Integral de Inseminación Artificial regido por el mismo director técnico y debidamente habilitado.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a las oficinas autorizadas del Senasa."
+      },
+      {
+        "texto": "Aboná el arancel que corresponda."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Sanidad Animal",
+      "direccion": "Av. Paseo Colón Nº 367, piso 4º cfrente, C1063ACD, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/habilitarrenovar-laboratorio-movil-de-material-genetico"
+    },
+    {
+      "nombre": "Dirección Nacional de Operaciones",
+      "direccion": "Paseo Colón 367 - Piso 7° - Frente",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/habilitarrenovar-laboratorio-movil-de-material-genetico"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/habilitarrenovar-laboratorio-movil-de-material-genetico",
+      "titulo": "Habilitar/Renovar laboratorio móvil de material genético | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-26T16:18:05.626Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T16:18:05.626Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no se especifica en el texto, solo se indica que hay que abonarlo.",
+    "La fecha de vigencia del trámite no se especifica en el texto, solo se menciona la normativa vigente."
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "tramite": {
+    "slug": "inscripcion-a-colonias-municipales-de-verano",
+    "nombre": "Inscripción a colonias municipales de verano",
+    "nombre_busqueda": "Inscripción colonias verano Berazategui",
+    "resumen": "La Municipalidad de Berazategui ofrece colonias municipales de verano para niños y jóvenes. Se requiere inscripción previa con documentación personal y de la familia.",
+    "sinonimos": [
+      "Colonias municipales Berazategui",
+      "Verano municipal Berazategui"
+    ],
+    "temas": [
+      "juventud"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060091",
+  "organismo": {
+    "nombre": "Municipalidad de Berazategui",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Niños y jóvenes que cumplan los requisitos de edad y residencia establecidos por la normativa municipal vigente."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI o documento de identidad válido del beneficiario.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI o documento de identidad válido de los padres o tutores legales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de domicilio actualizado en la localidad correspondiente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de nacimiento del beneficiario.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de nacimiento de los padres o tutores legales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que acredite la relación familiar entre los beneficiarios y los padres/tutores.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación original y las copias certificadas de todos los requisitos en la oficina de la Municipalidad."
+      },
+      {
+        "texto": "Completá el formulario de inscripción correspondiente."
+      },
+      {
+        "texto": "Recibí el comprobante de inscripción y las instrucciones para la asistencia al evento."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá los horarios de atención y las fechas de inscripción en la página oficial de la Municipalidad.",
+      "Llevá toda la documentación original y sus copias certificadas para evitar demoras."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://berazategui.gob.ar/colonias/",
+      "titulo": "Colonias 2026 – Municipalidad de Berazategui",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T11:01:21.799Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere verificar si la inscripción se realiza exclusivamente en línea o presencialmente según el año.",
+    "Se requiere confirmar si se necesita sacar turno para asistir a la oficina.",
+    "Se requiere confirmar si hay costos asociados a la inscripción o participación.",
+    "Se requiere confirmar los requisitos específicos de edad para cada categoría de beneficiarios.",
+    "Se requiere confirmar si se aceptan documentos de identidad alternativos al DNI."
+  ]
+}

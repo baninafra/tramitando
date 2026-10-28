@@ -1,0 +1,78 @@
+{
+  "tramite": {
+    "slug": "habilitacion-comercial",
+    "nombre": "Habilitación Comercial Simplificada por Declaración Jurada Digital",
+    "nombre_busqueda": "Habilitación comercial simplificada",
+    "resumen": "Tramite la habilitación de tu comercio de hasta 70 m² sin ir a la oficina, cumpliendo requisitos técnicos y declarando juradamente los datos.",
+    "sinonimos": [
+      "Habilitación comercial digital",
+      "Habilitación comercial simplificada"
+    ],
+    "temas": [
+      "habilitacion-comercial"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060280",
+  "organismo": {
+    "nombre": "Municipio General Alvarado",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan un comercio de hasta 70 m² que pertenezca a alguno de los rubros contemplados.",
+      "Quienes no figuren en el Registro de Infractores de Convivencia Ciudadana.",
+      "Quienes no registren deudas de tasas municipales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Croquis del inmueble.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contrato debidamente sellado ante ARBA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancias de inicio de trámite ante ARBA y ARCA.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario de Habilitación Comercial con los datos solicitados."
+      },
+      {
+        "texto": "Aclará la firma en el formulario."
+      },
+      {
+        "texto": "Recibí el correo electrónico de confirmación al finalizar el formulario."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mga.gov.ar/habilitacion-comercial/",
+      "titulo": "Habilitacion Comercial Municipio Gral Alvarado",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T12:30:33.203Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se indica que se debe cumplir el Art. 6º de la Ord. 270/08, pero no se especifica el plazo exacto ni la fecha de vigencia."
+  ]
+}

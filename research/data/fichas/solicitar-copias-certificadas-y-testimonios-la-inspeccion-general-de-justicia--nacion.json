@@ -1,0 +1,82 @@
+{
+  "tramite": {
+    "slug": "solicitar-copias-certificadas-y-testimonios-la-inspeccion-general-de-justicia",
+    "nombre": "Solicitar copias certificadas y testimonios a la Inspección General de Justicia",
+    "nombre_busqueda": "Solicitar copias certificadas y testimonios a la Inspección General de Justicia",
+    "resumen": "Podés solicitar copias simples y certificadas de estatutos, inscripciones y balances de la Inspección General de Justicia a través de la plataforma Trámites a Distancia (TAD). El trámite se resuelve de manera electrónica sin necesidad de concurrir al organismo.",
+    "sinonimos": [
+      "Solicitar copias a la Inspección General de Justicia",
+      "Pedir testimonios a la Inspección General de Justicia"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en obtener copias o testimonios de los expedientes de la Inspección General de Justicia."
+    ],
+    "requisitos": [
+      {
+        "texto": "Acceso a la plataforma Trámites a Distancia (TAD).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de solicitud del trámite 'Copias y Testimonios'.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma Trámites a Distancia (TAD)."
+      },
+      {
+        "texto": "Completá el formulario seleccionando el trámite 'Copias y Testimonios'."
+      },
+      {
+        "texto": "Aboná la solicitud correspondiente."
+      },
+      {
+        "texto": "Recibí las copias, notificaciones y observaciones en la casilla de TAD que habilitaste."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Para solicitar únicamente inscripciones puntuales y aisladas, deberás presentar un formulario por cada trámite a certificar.",
+      "Si el requerimiento supera las 100 fojas, se deberá acompañar nuevos formularios debidamente timbrados (uno cada 100 copias).",
+      "Para solicitar copias de balances, deberás contar con la fecha de cierre de los estados contables.",
+      "Solo se puede solicitar copia de un estado contable por trámite.",
+      "El trámite puede ser realizado mediante procedimiento urgente únicamente para sociedades comerciales con número correlativo mayor a 1.000.000."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-copias-certificadas-y-testimonios-la-inspeccion-general-de-justicia",
+      "titulo": "Solicitar copias certificadas y testimonios a la Inspección General de Justicia | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T07:57:07.909Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite.",
+    "El monto exacto de los costos en centavos de peso."
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "tramite": {
+    "slug": "tasa-servicios-especiales-limpieza-higiene",
+    "nombre": "Tasa por Servicios Especiales de Limpieza e Higiene",
+    "nombre_busqueda": "Tasa servicios especiales limpieza higiene",
+    "resumen": "Trámite para empresas fumigadoras habilitadas en San Miguel que deben presentar declaraciones juradas y abonar el uso de obleas de fumigación.",
+    "sinonimos": [],
+    "temas": [
+      "recoleccion-de-residuos",
+      "ambiente-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060760",
+  "organismo": {
+    "nombre": "Municipalidad San Miguel",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas fumigadoras habilitadas en el partido de San Miguel"
+    ],
+    "requisitos": [
+      {
+        "texto": "La fumigadora debe estar debidamente habilitada para gestionar el pedido de obleas",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar declaración jurada",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que respalde la fumigación realizada",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Presentar la declaración jurada de manera virtual"
+      },
+      {
+        "texto": "Abonar el recibo correspondiente"
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Retirar las obleas de fumigación en la oficina de Sarmiento 1686"
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La devolución de la declaración jurada y la entrega del recibo para abonar son de 30 minutos",
+      "El documento tiene 20 días para poder abonar el recibo",
+      "Luego de abonar, se puede retirar nuevas obleas de fumigación o transporte",
+      "Las fumigaciones deben estar al día para poder solicitar nuevas obleas"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.msm.gov.ar/guia-tramites/habilitaciones/tasa-por-servicios-especiales-de-limpieza-e-higiene/",
+      "titulo": "Tasa por Servicios Especiales de Limpieza e Higiene - Municipalidad San Miguel",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T13:36:58.002Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa no es fijo y varía según la cantidad de fumigaciones realizadas",
+    "La fecha de vigencia del trámite no está especificada en el texto"
+  ]
+}

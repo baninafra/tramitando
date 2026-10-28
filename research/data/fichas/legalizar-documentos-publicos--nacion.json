@@ -1,0 +1,101 @@
+{
+  "tramite": {
+    "slug": "legalizacion-de-documentos-publicos",
+    "nombre": "Legalizar documentos públicos",
+    "nombre_busqueda": "Legalizar documentos",
+    "resumen": "Podés legalizar tus títulos, partidas y certificados a través de la plataforma TAD en 20 días hábiles sin costo.",
+    "sinonimos": [
+      "Legalización de documentos",
+      "Legalizar títulos y certificados"
+    ],
+    "temas": [
+      "legalizaciones-y-apostillados",
+      "educacion-y-estudios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio del Interior",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que tenga acceso a internet y cuente con Clave Fiscal Nivel 2 (o superior).",
+      "No necesitás ser el titular de la documentación ya que el trámite no es personal."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento/s a legalizar original avalado por un Organismo Oficial del Estado, cuyo funcionario tenga la firma registrada en la base de datos de este Ministerio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contar con CUIT y Clave Fiscal Nivel 2 (o superior).",
+        "aclaracion": null
+      },
+      {
+        "texto": "En el caso de ser un tercero quien realice el trámite, también contar con estos mismos requisitos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Una PC con acceso a Internet.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma de Trámites a Distancia con tu CUIT y clave fiscal."
+      },
+      {
+        "texto": "Verificá que tus datos personales sean correctos."
+      },
+      {
+        "texto": "Seleccioná el tipo de documento y completá el formulario del documento a legalizar."
+      },
+      {
+        "texto": "Guardá y adjuntá la documentación a legalizar."
+      },
+      {
+        "texto": "Descargá la legalización una vez que recibás la notificación en TAD y por correo electrónico."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "20 días hábiles",
+    "consejos": [
+      "No es necesario cargar más de un expediente por trámite.",
+      "Si tenés dudas consultá en el Canal Único de Contacto.",
+      "Si tenés una partida con firma digital de cualquier Registro Civil del país ya sea para trámite de ciudadanía o para presentar en el exterior, no hace falta realizar la legalización del Ministerio del Interior, directamente se apostilla en Cancillería.",
+      "Por Resolución Conjunta 1-E/2017 los diplomas, analíticos, programas y planes de estudio de nivel universitario emitidos a partir del 2012 no se legalizan en el Ministerio del Interior.",
+      "Por Resolución Conjunta 1-E/2017 los diplomas y analíticos secundarios y terciarios emitidos a partir del 2010 no se legalizan en el Ministerio del Interior.",
+      "No se legalizan fotocopias ni documentación plastificada.",
+      "El documento a legalizar debe ser legible, estar escaneado a color y en forma completa.",
+      "Recordá que solo se admite 1 documento por expediente y no se permiten múltiples documentos en un único archivo PDF.",
+      "En el caso que se haya cargado con algún error o necesite modificación, te llegará una notificación para que puedas subsanarlo.",
+      "Pasados los 30 días se archivará."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/legalizar-documentos-publicos",
+      "titulo": "Legalizar Documentos Públicos | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T05:18:57.446Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Vigencia: No tiene vencimiento, se realiza por única vez."
+  ]
+}

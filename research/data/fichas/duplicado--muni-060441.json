@@ -1,0 +1,112 @@
+{
+  "tramite": {
+    "slug": "duplicado-de-licencia-de-conducir",
+    "nombre": "Duplicado de licencia de conducir",
+    "nombre_busqueda": "Licencia duplicada La Plata",
+    "resumen": "Para obtener un duplicado de licencia por robo, extravío o deterioro, necesitás presentar tu último DNI vigente, denuncia o exposición de extravío, y los certificados de antecedentes penales si tenés categorías C, D o E. Antes de ir al CEL, debés pagar las boletas de CENAT y CEPAT.",
+    "sinonimos": [
+      "Reposición de licencia",
+      "Licencia nueva por robo",
+      "Licencia por extravío"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060441",
+  "organismo": {
+    "nombre": "Municipalidad de La Plata",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona con domicilio en La Plata que tenga licencia de conducir."
+    ],
+    "requisitos": [
+      {
+        "texto": "Último DNI vigente con domicilio en La Plata (original y copia legible, frente y contrafrente).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de DNI en trámite acompañado de un DNI anterior o DNI digital en Mi Argentina (si no tenés el último DNI vigente).",
+        "aclaracion": "Solo si tenés DNI en trámite por robo o extravío."
+      },
+      {
+        "texto": "Exposición de extravío.",
+        "aclaracion": "Solo si la licencia se extravió."
+      },
+      {
+        "texto": "Denuncia de robo.",
+        "aclaracion": "Solo si la licencia fue robada."
+      },
+      {
+        "texto": "Certificado de antecedentes penales con vigencia de 30 días.",
+        "aclaracion": "Solo si tenés o querés acceder a las categorías profesionales C, D y E."
+      },
+      {
+        "texto": "Comprobantes de pago de los certificados de CENAT y CEPAT.",
+        "aclaracion": "Si tenés infracciones, debés resolverlas en los juzgados antes de continuar."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Solicitá tu turno online en el sistema de turnos de la Municipalidad de La Plata."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Concurrí al Centro Emisor de Licencias (CEL) con el turno, los requisitos y los comprobantes de pago abonados."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://turnos.laplata.gob.ar/misdatos",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://tramites.laplata.gob.ar/licencias/duplicado.html",
+      "titulo": "Licencias - Municipalidad de La Plata",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:32:18.645Z"
+    },
+    {
+      "url": "https://turnos.laplata.gob.ar/misdatos",
+      "titulo": "Turnos online - Municipalidad de La Plata",
+      "bloques": [
+        "pasos",
+        "quien",
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T14:32:18.645Z"
+    },
+    {
+      "url": "https://licenciasba.dppsv.gba.gob.ar/licencias/boletas_cenat_cepat/public/solicitante/new",
+      "titulo": "Licencias BA",
+      "bloques": [
+        "costo",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:32:18.645Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Monto exacto de los timbrados CEPAT y CENAT.",
+    "Dirección exacta del Centro Emisor de Licencias (CEL) en La Plata.",
+    "Plazo exacto para la atención del trámite."
+  ]
+}

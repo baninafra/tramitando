@@ -1,0 +1,97 @@
+{
+  "tramite": {
+    "slug": "modificar-listado-tecnicas-laboratorio-analisis-semillas",
+    "nombre": "Modificar el listado de técnicas de un laboratorio de análisis de semillas acreditado",
+    "nombre_busqueda": "Modificar listado técnicas laboratorio semillas acreditado",
+    "resumen": "El responsable técnico de un laboratorio de análisis de semillas acreditado puede solicitar la inclusión o baja de técnicas mediante la mesa de entradas digital del INASE.",
+    "sinonimos": [],
+    "temas": [
+      "bromatologia-y-alimentos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto Nacional de Semillas",
+    "sigla": "INASE",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Al Responsable técnico de un laboratorio de análisis de semillas acreditado que requiera modificar el listado de técnicas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Estar inscripto en el Registro Nacional de Comercio y Fiscalización de Semillas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago del trámite, en el caso de incluir técnicas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Listado de equipamiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Listado de Técnicas a acreditar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Listado de documentación de inclusión de técnicas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de declaración del Responsable Técnico donde indique la/s técnica/s a dar de baja incluyendo el número de inscripción en el RNCyFS.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Descargá, completá y cargá a través de la mesa de entradas digital el formulario de modificación del listado de técnicas y la documentación según se indica en el CheckList de Inclusión de Técnicas."
+      },
+      {
+        "texto": "Seguí los pasos descriptos en el instructivo Carga de Documentación en TAD."
+      },
+      {
+        "texto": "Una vez realizada la carga enviá por correo electrónico a la Dirección de Evaluación de Calidad del INASE el número de trámite que le brindara el sistema junto con el comprobante de pago del trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "30 días",
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 8025400,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/modificar-el-listado-de-tecnicas-de-un-laboratorio-de-analisis-de-semillas-acreditado"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/modificar-el-listado-de-tecnicas-de-un-laboratorio-de-analisis-de-semillas-acreditado",
+      "titulo": "Modificar el listado de técnicas de un laboratorio de análisis de semillas acreditado | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T05:59:40.811Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La dirección de correo electrónico exacta para enviar la documentación.",
+    "El número de trámite que le brindará el sistema."
+  ]
+}

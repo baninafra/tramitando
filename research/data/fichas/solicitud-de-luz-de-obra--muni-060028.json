@@ -1,0 +1,81 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-luz-de-obra",
+    "nombre": "Solicitud de Luz de Obra",
+    "nombre_busqueda": "Solicitud de Luz de Obra",
+    "resumen": "Trámite para obtener el suministro temporal de energía eléctrica en un sitio de construcción o obra, necesario para la realización de tareas edilicias.",
+    "sinonimos": [],
+    "temas": [
+      "obras-y-construccion",
+      "servicios-urbanos-y-reclamos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060028",
+  "organismo": {
+    "nombre": "Municipio de Almirante Brown",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Solicitudes Ciudadanas"
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de la carátula del plano aprobado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del Certificado de Aptitud de Instalación Eléctrica (CAIE), o Declaración de Conformidad de la Instalación (DCI)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Libre Deuda de la tasa por servicios generales Municipal",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de suministro trifásico, fotocopia de Declaración Jurada de Cargas",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Uso del Suelo",
+      "direccion": "Rosales 1312",
+      "localidad": "Adrogué",
+      "horario": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/solicitud-de-luz-de-obra/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.brown.gob.ar/tramites/solicitud-de-luz-de-obra/",
+      "titulo": "Solicitud de Luz de Obra",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T01:08:10.395Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere confirmación sobre si el trámite se puede realizar por internet o solo presencialmente.",
+    "Se requiere confirmación sobre el plazo de atención del trámite.",
+    "Se requiere confirmación sobre si se requiere turno para la atención en la oficina."
+  ]
+}

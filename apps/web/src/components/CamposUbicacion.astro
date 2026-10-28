@@ -1,0 +1,56 @@
+---
+// Provincia + municipio + "Usar mi ubicación". Lo usan el formulario de la portada, el diálogo de la
+// cabecera y la página /ubicacion. Los selects se llaman prov y muni para que el formulario funcione sin JS.
+import Icono from './Icono.astro';
+import { listarMunicipios, listarProvincias } from '../lib/data';
+
+interface Props {
+  /** Prefijo para los id, único por página. */
+  id: string;
+  /** `en-linea` suma los campos a la grilla del formulario que los contiene. */
+  disposicion?: 'bloque' | 'en-linea';
+  /** false si el botón "Usar mi ubicación" va en otro lugar del formulario. */
+  conGps?: boolean;
+}
+const { id, disposicion = 'bloque', conGps = true } = Astro.props;
+const provincias = await listarProvincias();
+const municipios = await listarMunicipios();
+---
+<div class:list={['campos-ubicacion', disposicion]} data-campos-ubicacion>
+  <div class="campo">
+    <label for={`${id}-prov`}>Provincia</label>
+    <select id={`${id}-prov`} name="prov" class="entrada" data-prov data-selector>
+      <option value="">Elegí tu provincia</option>
+      {provincias.map((p) => <option value={p.slug} data-centro={p.centro && JSON.stringify(p.centro)}>{p.nombre}</option>)}
+    </select>
+  </div>
+  <div class="campo">
+    <label for={`${id}-muni`}>Municipio <span class="opcional">(opcional)</span></label>
+    <select id={`${id}-muni`} name="muni" class="entrada" data-muni data-selector>
+      <option value="">Toda la provincia</option>
+      {provincias.filter((p) => municipios.some((m) => m.provincia === p.slug)).map((p) => (
+        <optgroup label={p.nombre} data-prov={p.slug}>
+          {municipios.filter((m) => m.provincia === p.slug).map((m) => (
+            <option value={m.slug} data-centro={m.centro && JSON.stringify(m.centro)}>{m.nombre}</option>
+          ))}
+        </optgroup>
+      ))}
+    </select>
+  </div>
+  {conGps && (
+    <p class="gps" data-gps hidden>
+      <button type="button" class="btn-texto" data-gps-boton><Icono nombre="map-pin" />Usar mi ubicación</button>
+      <span class="gps-estado" role="status" data-gps-estado></span>
+    </p>
+  )}
+</div>
+
+<style>
+  .campos-ubicacion { display: grid; gap: var(--espacio-4); grid-template-columns: 1fr 1fr; align-items: end; }
+  .campos-ubicacion.en-linea { display: contents; }
+  .gps { grid-column: 1 / -1; display: flex; flex-wrap: wrap; align-items: center; gap: var(--espacio-2) var(--espacio-4); }
+  .gps[hidden] { display: none; }
+  .gps-estado { font: var(--t-cuerpo-chico); color: var(--tinta-2); }
+  .opcional { font-weight: 400; color: var(--tinta-2); }
+  @media (max-width: 479px) { .campos-ubicacion { grid-template-columns: 1fr; } }
+</style>

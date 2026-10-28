@@ -1,0 +1,105 @@
+{
+  "tramite": {
+    "slug": "inscripcion-usuario-colectivo-transportadora-caudales",
+    "nombre": "Solicitar inscripción como usuario colectivo transportadora de caudales y entidad",
+    "nombre_busqueda": "inscripción usuario colectivo transportadora caudales",
+    "resumen": "Este trámite permite a empresas transportadoras de caudales o entidades financieras inscribirse como Legítimos Usuarios Colectivos ante ANMaC. Se requiere presentar documentación específica, pagar una tasa anual y cumplir con condiciones de seguridad vigentes.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMaC",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas transportadoras de caudales o entidades financieras que brinden servicios con armas y materiales controlados."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota en papel oficial de la entidad explicando los motivos de la solicitud, actos y tipo de material que solicitan con firma certificada del representante legal o titular de la empresa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Identificación del Director técnico, jefe de seguridad o responsable del material controlado como legítimo usuario de armas de fuego de uso civil condicional con credencial vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Credencial vigente de Legítimo Usuario o, si no la tiene, DNI más certificado de antecedentes penales del titular del Usuario Colectivo o de los representantes legales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de adecuación de condiciones de seguridad para la guarda de los materiales de acuerdo a la legislación vigente (Resolución 119/18).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia certificada del instrumento constitutivo de la sociedad y sus modificaciones, con la constancia de su inscripción en el Registro Público de Comercio, la Inspección General de Justicia y el INAC según corresponda.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Instrumentos que acrediten la representación legal de la sociedad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Inscripción ante AFIP, constancia actualizada y último pago del tributo correspondiente (Impuesto a las ganancias, IVA y aportes y contribuciones al S.U.S.S.).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado otorgado por el Banco Central de la República Argentina donde se autoriza a funcionar como Entidad Financiera (solo para transportadoras de caudales o entidades financieras).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a solicitud electrónica para dar inicio al trámite de inscripción o reinscripción."
+      },
+      {
+        "texto": "Solicitá el pago de tasa anual que se presenta en el mes inmediato anterior a su vencimiento."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "20 días hábiles",
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 10000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-inscripcion-como-usuario-colectivo-transportadora-de-caudales-y-entidad"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-inscripcion-como-usuario-colectivo-transportadora-de-caudales-y-entidad",
+      "titulo": "Solicitar inscripción como usuario colectivo transportadora de caudales y entidad financiera | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:49:06.708Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si el trámite requiere sacar turno, se debe consultar en la página de turnos del gobierno."
+  ]
+}

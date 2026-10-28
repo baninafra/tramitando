@@ -1,0 +1,155 @@
+{
+  "tramite": {
+    "slug": "tramitar-formulario-08-transferencia-automotor",
+    "nombre": "Tramitar formulario 08 para transferencia automotor",
+    "nombre_busqueda": "Tramitar formulario 08 transferencia automotor",
+    "resumen": "El formulario 08 es requisito indispensable para la transferencia de autos y motos. Se puede hacer en línea o presencialmente, requiriendo que vendedor y comprador concurren al Registro Seccional para certificar sus firmas.",
+    "sinonimos": [
+      "Transferencia automotor en línea",
+      "Formulario 08 transferencia",
+      "Transferencia de dominio automotor"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "cedula-del-vehiculo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional del Registro de la Propiedad Automotor",
+    "sigla": "DNRPA",
+    "web": "https://www.argentina.gob.ar/servicio/tramitar-en-linea-formulario-08-para-transferencia-automotor"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Al comprador y al vendedor del vehículo o sus representantes legales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tienen un 08 en formato papel con una de las firmas certificada con anterioridad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Patente / dominio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de chasis (figura en la cédula titular o en el título).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos personales.",
+        "aclaracion": "Personas físicas."
+      },
+      {
+        "texto": "Datos del cónyuge, si estaba casado en el momento de la compra.",
+        "aclaracion": "Personas físicas."
+      },
+      {
+        "texto": "Datos de los representantes, si el trámite lo va a presentar otra persona.",
+        "aclaracion": "Personas físicas."
+      },
+      {
+        "texto": "Datos de la persona jurídica.",
+        "aclaracion": "Personas jurídicas."
+      },
+      {
+        "texto": "Datos de los representantes.",
+        "aclaracion": "Personas jurídicas."
+      },
+      {
+        "texto": "Documento identificatorio de ambas partes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si sos argentino: DNI.",
+        "aclaracion": "Si sos extranjero sin residencia."
+      },
+      {
+        "texto": "Si sos extranjero sin residencia: pasaporte.",
+        "aclaracion": "Si sos extranjero sin residencia."
+      },
+      {
+        "texto": "Si sos extranjero con residencia permanente: DNI.",
+        "aclaracion": "Si sos extranjero con residencia permanente."
+      },
+      {
+        "texto": "Si sos extranjero de países limítrofes: dni, ci, ci del país de origen o pasaporte.",
+        "aclaracion": "Si sos extranjero de países limítrofes."
+      },
+      {
+        "texto": "Un listado por duplicado de al menos las dos partes, quienes deberán firmar y colocar su nombre y apellido, número de documento de identidad y domicilio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentos que prueben la representación si sos representante legal o apoderado.",
+        "aclaracion": "Si sos representante legal o apoderado."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al enlace de la Dirección Nacional del Registro de la Propiedad Automotor y hacé clic en Siguiente."
+      },
+      {
+        "texto": "Hacé clic en Iniciar o continuar una precarga."
+      },
+      {
+        "texto": "Seleccioná la opción Datos del Vendedor y cargá tus datos."
+      },
+      {
+        "texto": "Aguardá a que la DNRPA te envíe un correo electrónico con el número de precarga asignado al vendedor en el momento en que hizo la carga."
+      },
+      {
+        "texto": "Con ese número a mano, ingresá al enlace de la Dirección Nacional del Registro de la Propiedad Automotor y hacé clic en Siguiente."
+      },
+      {
+        "texto": "Elegí Iniciar o continuar una precarga."
+      },
+      {
+        "texto": "Seleccioná la opción Datos del Comprador y cargá tus datos."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Concurran a certificar la firma en el Registro, en el día y la hora asignados."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://www.argentina.gob.ar/servicio/tramitar-en-linea-formulario-08-para-transferencia-automotor",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tramitar-en-linea-formulario-08-para-transferencia-automotor",
+      "titulo": "Tramitar en línea formulario 08 para transferencia automotor | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T18:16:59.113Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-transferencia-de-auto-moto-o-maquinaria",
+      "titulo": "Solicitar certificado de transferencia de auto, moto o maquinaria | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T18:16:59.113Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica el monto exacto de los aranceles ni los plazos exactos de espera para la carga en línea.",
+    "El texto no indica si el trámite requiere turno para la carga en línea o solo para la certificación presencial."
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "tramite": {
+    "slug": "servicio-de-castracion-de-mascotas",
+    "nombre": "Castrar a tu mascota",
+    "nombre_busqueda": "castración de perros y gatos",
+    "resumen": "Solicitá un turno para castrar perros y gatos de ambos sexos desde los 5 meses. Cuando te asignen el turno, llevá al animal a la Dirección de Bromatología el día indicado y seguí las recomendaciones prequirúrgicas que te comuniquen.",
+    "sinonimos": [
+      "servicio de castración de mascotas"
+    ],
+    "temas": [
+      "castraciones-y-vacunas",
+      "animales-y-zoonosis"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060322",
+  "organismo": {
+    "nombre": "Dirección de Bromatología de la Municipalidad de General La Madrid",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés solicitar la castración de perros y gatos de ambos sexos a partir de los 5 meses."
+    ],
+    "requisitos": [
+      {
+        "texto": "Llevá al animal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Seguí las recomendaciones prequirúrgicas que te comuniquen.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Solicitá un turno en la Dirección de Bromatología, ubicada en Ruta N° 86, Km 281, o por WhatsApp desde el botón de la página."
+      },
+      {
+        "texto": "Presentate en la Dirección de Bromatología el día asignado, con el animal y siguiendo las recomendaciones prequirúrgicas que te comuniquen."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Bromatología",
+      "direccion": "Ruta N° 86, Km 281",
+      "localidad": "Ruta N° 86, Km 281",
+      "horario": null,
+      "fuente_url": "https://www.lamadrid.gob.ar/castraciones/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.lamadrid.gob.ar/castraciones/",
+      "titulo": "Castraciones – Municipalidad de General La Madrid",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T12:46:35.089Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa el costo del servicio.",
+    "No se indica un plazo para completar el trámite.",
+    "No se informa el enlace directo al WhatsApp para solicitar el turno."
+  ]
+}

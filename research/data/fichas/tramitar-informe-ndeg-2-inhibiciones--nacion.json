@@ -1,0 +1,102 @@
+{
+  "tramite": {
+    "slug": "tramitar-informe-ndeg-2-inhibiciones",
+    "nombre": "Tramitar informe ndeg 2 inhibiciones",
+    "nombre_busqueda": "tramitar informe ndeg 2 inhibiciones",
+    "resumen": "Informa si una persona posee alguna inhibición sobre inmuebles de su propiedad. Se puede hacer en línea en CABA o en los Registros de la Propiedad Inmueble del resto del país.",
+    "sinonimos": [
+      "Informe de inhibiciones",
+      "Informe N° 2"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro de la Propiedad Inmueble",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Un profesional: escribano, abogado, procurador, agrimensor, ingeniero, arquitecto, contador público, martillero",
+      "Quien acredite tener interés legítimo a juicio de la Dirección del Registro"
+    ],
+    "requisitos": [
+      {
+        "texto": "Nombre y apellido completo y DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Apellido materno si se conociere",
+        "aclaracion": null
+      },
+      {
+        "texto": "Denominación social completa",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio legal",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUIT",
+        "aclaracion": null
+      },
+      {
+        "texto": "Inscripción legal cuando es necesaria para su existencia",
+        "aclaracion": null
+      },
+      {
+        "texto": "Una cuenta de email válida",
+        "aclaracion": null
+      },
+      {
+        "texto": "Una cuenta bancaria para abonar VEPs",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la página web del Registro de la Propiedad Inmueble de Capital Federal y seleccioná la forma de solicitar el Informe"
+      },
+      {
+        "texto": "Llená el formulario con los datos requeridos"
+      },
+      {
+        "texto": "Recibí un email con los datos para descargar el Informe desde la página web del Registro de la Propiedad Inmueble de Capital Federal, una vez que haya transcurrido el plazo según la modalidad que seleccionaste"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Común: dentro de los 4 días hábiles, sin contar el día de su presentación",
+      "Urgente: dentro de los 2 días hábiles, sin contar el día de su presentación",
+      "Urgente Exprés: al día hábil siguiente de su presentación"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tramitar-informe-ndeg-2-inhibiciones",
+      "titulo": "Tramitar Informe N° 2 - Inhibiciónes | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-27T18:22:28.264Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto del trámite se indica como consultar tabla de valores, no se especifica un valor fijo en el texto.",
+    "La fecha de vigencia no se especifica en el texto, solo se mencionan plazos de entrega según modalidad."
+  ]
+}

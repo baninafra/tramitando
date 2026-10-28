@@ -1,0 +1,115 @@
+{
+  "tramite": {
+    "slug": "diligenciamiento-de-oficios",
+    "nombre": "Diligenciamiento de Oficios",
+    "nombre_busqueda": "Diligenciamiento de Oficios",
+    "resumen": "Se debe abonar la tasa retributiva de servicio en concepto de tramitación y contestación de oficios judiciales. Se puede realizar por transferencia bancaria o enviando el oficio escaneado a casillas oficiales.",
+    "sinonimos": [],
+    "temas": [
+      "legalizaciones-y-apostillados"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060105",
+  "organismo": {
+    "nombre": "Municipio de Bolívar",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Solicitudes de oficios judiciales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Oficio generado desde el portal web de notificaciones y presentaciones electrónicas de la Suprema Corte de Justicia de la Provincia de Buenos Aires.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Oficio suscripto y enviado por organismos oficiales que no tengan domicilio electrónico registrado en el sistema de notificaciones y presentaciones de la SCBA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Oficio cursado a través de casillas oficiales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Oficio en formato papel.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Oficio escaneado en formato PDF con la firma electrónica o digital emitida por funcionario del organismo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Oficio con firma y sello visibles del funcionario de la entidad correspondiente (para organismos sin sistema de firma digital o electrónica).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Enviar el oficio como archivo adjunto escaneado en formato PDF con firma electrónica o digital."
+      },
+      {
+        "texto": "Enviar el oficio como archivo adjunto escaneado en formato PDF con firma y sello visibles del funcionario (si el organismo no tiene firma digital)."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Dirigirse a la Mesa General de Entradas ubicada en Av. Belgrano N° 11."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 502555,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.bolivar.gob.ar/guia-de-tramites/diligenciamiento-oficios"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Mesa General de Entradas",
+      "direccion": "Av. Belgrano N° 11",
+      "localidad": "Av. Belgrano N° 11",
+      "horario": null,
+      "fuente_url": "https://www.bolivar.gob.ar/guia-de-tramites/diligenciamiento-oficios"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bolivar.gob.ar/guia-de-tramites/diligenciamiento-oficios",
+      "titulo": "Diligenciamiento de Oficios, Bolívar Municipio",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T11:13:48.170Z"
+    },
+    {
+      "url": "https://www.bolivar.gob.ar/rentas/",
+      "titulo": "Agencia de Recaudación y Fiscalización, Bolívar Municipio",
+      "bloques": [
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T11:13:48.170Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se debe dar cumplimiento a lo establecido en los artículos 136 y 137 de la Ordenanza Fiscal N° 2938/2024 y el inciso III) del Artículo 12 de la Ordenanza Impositiva N° 2939/2024.",
+    "Se ha habilitado la casilla institucional: 30999058392-demandas-oficios@acuerdo3989.notificaciones para oficios generados desde el portal web de notificaciones y presentaciones electrónicas de la Suprema Corte de Justicia de la Provincia de Buenos Aires según acordada Nº3989.",
+    "Para oficios suscriptos y enviados por organismos oficiales que no tengan domicilio electrónico registrado en el sistema de notificaciones y presentaciones de la SCBA, se debe dirigir al correo: oficiosjudicialeslegales@gmail.com.",
+    "El plazo de tramitación no está especificado en el texto."
+  ]
+}

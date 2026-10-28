@@ -1,0 +1,9 @@
+# Copiá este archivo a .dev.vars para desarrollo local.
+# La web habla con la API por fetch a esta URL mientras corre `astro dev`.
+API_URL=http://localhost:8787
+
+# Clave de prueba de Turnstile (siempre pasa).
+PUBLIC_TURNSTILE_SITE_KEY=1x00000000000000000000AA
+
+# Sin esta variable la web usa la API. Poné 1 para ver solo los datos de ejemplo, sin API.
+# DATOS_EJEMPLO=1

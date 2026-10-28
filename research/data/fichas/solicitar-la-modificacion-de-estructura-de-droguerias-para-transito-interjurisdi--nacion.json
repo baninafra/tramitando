@@ -1,0 +1,96 @@
+{
+  "tramite": {
+    "slug": "modificacion-de-estructura-de-droguerias",
+    "nombre": "Solicitar la modificación de estructura de droguerías",
+    "nombre_busqueda": "modificar estructura droguerías",
+    "resumen": "Para modificar la superficie habilitada o el destino de las áreas de una droguería, se debe gestionar la modificación de la habilitación ante la autoridad sanitaria correspondiente.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Las empresas que modifiquen la superficie habilitada y/o realicen modificaciones en el destino de las áreas aprobadas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de declaración jurada (a completar en el trámite)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Habilitación y certificado de cumplimiento de Buenas Prácticas de Distribución emitidos por ANMAT",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano oficial aprobado por ANMAT de la estructura edilicia según disposición habilitante",
+        "aclaracion": null
+      },
+      {
+        "texto": "Habilitación actualizada (con las modificaciones realizadas) otorgada por la autoridad municipal, cuando corresponda",
+        "aclaracion": null
+      },
+      {
+        "texto": "Habilitación actualizada y del último plano aprobado (con las modificaciones realizadas) otorgada por el autoridad sanitaria jurisdiccional, cuando corresponda",
+        "aclaracion": null
+      },
+      {
+        "texto": "Instrumento legal que acredite el carácter en que la empresa demuestra la tenencia del establecimiento que se habilitará a su nombre",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de libre sanción del titular y de su director técnico otorgada por la autoridad sanitaria local",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nuevo plano para el rubro medicamentos con las modificaciones incorporadas, acotado con nombres de ambientes que definan su destino o uso, firmado por el Director Técnico y el Representante Legal de la firma",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar a la plataforma TAD, con la razón social de la firma solicitante"
+      },
+      {
+        "texto": "Presentar la documentación obligatoria solicitada"
+      },
+      {
+        "texto": "Abonar el arancel a través de e-Recauda"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Este trámite se encuentra alcanzado por las consideraciones establecidas en el inciso b del Art. 10 de la Ley N° 19.549, respecto del silencio con sentido positivo. El plazo estipulado para su configuración es de 60 días hábiles después de haber acreditado el cumplimiento de las condiciones previst…"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-modificacion-de-estructura-de-droguerias-para-transito-interjurisdiccional",
+      "titulo": "Solicitar la modificación de estructura de droguerías para tránsito interjurisdiccional | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T09:41:31.312Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El certificado de BPD se emitirá con la fecha de vencimiento del certificado vigente a cancelar."
+  ]
+}

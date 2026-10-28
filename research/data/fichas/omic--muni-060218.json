@@ -1,0 +1,133 @@
+{
+  "tramite": {
+    "slug": "denuncias-omic",
+    "nombre": "Denuncias ante la OMIC",
+    "nombre_busqueda": "Denunciar ante la OMIC",
+    "resumen": "La Oficina Municipal de Información al Consumidor (OMIC) es un servicio gratuito que media en conflictos entre consumidores y empresas.",
+    "sinonimos": [
+      "OMIC Chascomús",
+      "Defensa del Consumidor Chascomús"
+    ],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060218",
+  "organismo": {
+    "nombre": "Oficina Municipal de Información al Consumidor",
+    "sigla": "OMIC",
+    "web": "http://apps.chascomus.gob.ar/omic/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas consumidoras que quieran realizar un reclamo o denuncia."
+    ],
+    "requisitos": [
+      {
+        "texto": "Apellido y Nombre",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUIT/CUIL",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nro. Documento",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dirección",
+        "aclaracion": null
+      },
+      {
+        "texto": "Provincia",
+        "aclaracion": null
+      },
+      {
+        "texto": "Localidad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fecha Nacimiento",
+        "aclaracion": null
+      },
+      {
+        "texto": "Teléfono Fijo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Celular",
+        "aclaracion": null
+      },
+      {
+        "texto": "Email",
+        "aclaracion": null
+      },
+      {
+        "texto": "Razón Social",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dirección del reclamado",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUIT / CUIL del reclamado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Teléfono del reclamado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nro. Cliente del reclamado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota Explicativa del Reclamo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pretensión del Reclamo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos de otros denunciados",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Complete el formulario de denuncia en la página de la OMIC."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://apps.chascomus.gob.ar/omic/",
+      "titulo": "Home OMIC",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T11:14:50.334Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se recomienda el uso de Chrome para poder visualizar correctamente este sitio web."
+  ]
+}

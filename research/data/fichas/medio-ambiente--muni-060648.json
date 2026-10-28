@@ -1,0 +1,99 @@
+{
+  "tramite": {
+    "slug": "recoleccion-de-residuos",
+    "nombre": "Denunciar contaminación ambiental",
+    "nombre_busqueda": "Denunciar contaminación medio ambiente",
+    "resumen": "Para reportar problemas de contaminación como acumulación de residuos, quemas o olores, se debe presentar una nota firmada con datos del denunciante y del inmueble denunciado en la Secretaría de Medio Ambiente.",
+    "sinonimos": [
+      "Denunciar contaminación",
+      "Reportar residuos en vía pública",
+      "Queja por contaminación"
+    ],
+    "temas": [
+      "ambiente-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060648",
+  "organismo": {
+    "nombre": "Secretaría de Medio Ambiente",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier particular que observe un problema de contaminación."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota dirigida al intendente explicando el objeto de la denuncia (descripción del problema).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de CUIT/CUIL.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de partida del inmueble que ocupa el denunciante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio denunciado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Otros datos que faciliten la denuncia: si es un particular, datos del inmueble denunciado, domicilio, propietario (si conoce los datos).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotografías en soporte papel o digital (si están dentro de las posibilidades del denunciante).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Registro temporal realizado por el denunciante (con hechos y fechas).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Concurrá al primer piso de la Secretaria de Medio Ambiente (Crisólogo Larralde 241 – Guernica) en el horario de 8 a 14 horas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Secretaría de Medio Ambiente",
+      "direccion": "Crisólogo Larralde 241",
+      "localidad": "Guernica",
+      "horario": null,
+      "fuente_url": "https://presidenteperon.gob.ar/medio-ambiente/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://presidenteperon.gob.ar/medio-ambiente/",
+      "titulo": "Medio Ambiente – Presidente Perón",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T03:39:01.816Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el monto de la tasa o costo para realizar la denuncia.",
+    "No se especifica el plazo de respuesta o resolución del expediente."
+  ]
+}

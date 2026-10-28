@@ -1,0 +1,85 @@
+{
+  "tramite": {
+    "slug": "habilitacion-para-consulta-del-registro-nacional-del-personal-de-la-navegacion",
+    "nombre": "Habilitación para consulta del Registro Nacional del Personal de la Navegación",
+    "nombre_busqueda": "Habilitación para consulta del Registro Nacional del Personal de la Navegación",
+    "resumen": "Permite a las Compañías de Navegación, Empresas Armadoras, Agencias Marítimas y Entidades Sindicales consultar si el Personal de la Navegación se encuentra registrado y/o habilitado, así como sus títulos y certificados. El trámite es gratuito y lleva 10 días hábiles.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Prefectura Naval Argentina",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Las Compañías de Navegación, Empresas Armadoras, Agencias Marítimas y Entidades Sindicales podrán designar a una persona para registrarse como usuario."
+    ],
+    "requisitos": [
+      {
+        "texto": "Acta de Designación de Autoridades.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta de Directorio/Asamblea.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poder de Representación (persona designada).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Carnet habilitante.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Solicitá el alta a la dirección jefepnav@prefecturanaval.gob.ar mediante un correo electrónico con dominio oficial."
+      },
+      {
+        "texto": "Indicá tu DNI, apellido y nombres, así como la Compañía de Navegación, Empresa Armadora, Agencia Marítima o Entidad Sindical a la cual representás."
+      },
+      {
+        "texto": "Adjuntá la documentación respaldatoria."
+      },
+      {
+        "texto": "Recibí la notificación en el correo electrónico oficial declarado por el usuario solicitante."
+      },
+      {
+        "texto": "Accedé al portal web: Consulta al Registro Nacional del Personal de la Navegación."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "10 días hábiles",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/habilitacion-para-consulta-del-registro-nacional-del-personal-de-la-navegacion",
+      "titulo": "Habilitación para consulta del Registro Nacional del Personal de la Navegación | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T15:56:30.869Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La vigencia del alta se mantiene mientras el usuario forme parte de la entidad solicitante."
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-transferencia-de-comercio",
+    "nombre": "Solicitud de transferencia de comercio",
+    "nombre_busqueda": "Transferencia de comercio",
+    "resumen": "Trámite para cambiar la titularidad de un establecimiento comercial habilitado en el municipio.",
+    "sinonimos": [
+      "Cambio de titularidad comercial",
+      "Transferencia de establecimiento"
+    ],
+    "temas": [
+      "comercio-e-industria",
+      "habilitacion-comercial",
+      "cambios-y-baja-de-habilitacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060658",
+  "organismo": {
+    "nombre": "Secretaría de Hacienda",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El titular actual del comercio habilitado."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del titular actual.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del nuevo titular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de la habilitación comercial vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de domicilio del nuevo titular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta de constitución de la sociedad o documento que acredite la relación jurídica entre los titulares, si aplica.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá los documentos requeridos en la oficina correspondiente."
+      },
+      {
+        "texto": "El funcionario revisará la documentación y la constancia de domicilio."
+      },
+      {
+        "texto": "Se emitirá el acta de transferencia si todo está en orden."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mi.quilmes.gov.ar/tramites/174/solicitud-de-transferencia-de-comercio",
+      "titulo": "Mi Quilmes Digital",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T05:58:35.233Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere verificar si el trámite se puede realizar completamente por internet o solo requiere presencia física.",
+    "No se especifica el plazo de resolución del trámite.",
+    "No se indican los costos asociados a la transferencia."
+  ]
+}

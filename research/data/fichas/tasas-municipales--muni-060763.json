@@ -1,0 +1,70 @@
+{
+  "tramite": {
+    "slug": "pago-de-tasas-e-impresion-de-boletas",
+    "nombre": "Pago de tasas e impresión de boletas",
+    "nombre_busqueda": "Pago de tasas e impresión de boletas",
+    "resumen": "Podés pagar online tus tasas o reimprimir las boletas referidas a inmuebles, comercios y rodados ingresando tu número de inmueble o contribuyente.",
+    "sinonimos": [
+      "Pago de tasas inmuebles y rodados",
+      "Pago de tasas comercio e industria"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "tasa-inmobiliaria-y-servicios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060763",
+  "organismo": {
+    "nombre": "Municipalidad de San Nicolás de los Arroyos",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de inmuebles, comercios o rodados."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de inmueble o número de contribuyente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá tu número de inmueble o contribuyente."
+      },
+      {
+        "texto": "Seleccioná el trámite correspondiente."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "También podes solicitar un plan de pagos de manera online y adherirte a la boleta electrónica."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.sannicolasciudad.gob.ar/tramites/pago-de-tasas-inmuebles-y-rodados/tasas-municipales",
+      "titulo": "Pago de tasas e impresión de boletas | Pago de tasas | Trámites | San Nicolás Ciudad",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T15:37:19.062Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los montos exactos de las tasas no se especifican en el texto.",
+    "No se indican plazos de vencimiento ni tiempos de respuesta.",
+    "No se detallan requisitos específicos para tipos de contribuyentes distintos (inmuebles vs rodados vs comercio)."
+  ]
+}

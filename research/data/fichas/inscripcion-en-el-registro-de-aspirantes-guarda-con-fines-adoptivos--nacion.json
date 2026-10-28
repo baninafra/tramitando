@@ -1,0 +1,100 @@
+{
+  "tramite": {
+    "slug": "inscripcion-registro-aspirantes-guarda-fines-adoptivos",
+    "nombre": "Inscribirte en el registro de aspirantes a guarda con fines adoptivos",
+    "nombre_busqueda": "adopción inscribirme registro de aspirantes guarda",
+    "resumen": "Si querés adoptar, tenés que inscribirte en el registro de aspirantes a guarda con fines adoptivos que corresponde a tu domicilio. Es gratuito, personal y la inscripción vale para todo el país.",
+    "sinonimos": [
+      "registro de adoptantes",
+      "inscripción para adoptar",
+      "aspirantes a adopción"
+    ],
+    "temas": [
+      "familia-y-pareja"
+    ],
+    "temas_propuestos": [
+      {
+        "slug": "adopcion",
+        "nombre": "Adopción",
+        "padre": "familia-y-pareja"
+      }
+    ]
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Justicia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Matrimonios.",
+      "Integrantes de una unión convivencial.",
+      "Una única persona.",
+      "Personas interesadas en adoptar que todavía no estén inscriptas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Ser mayor de 25 años.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ser argentino o extranjero con cinco años de residencia en el país.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Buscá el registro de aspirantes que corresponde a tu domicilio y comunicate."
+      },
+      {
+        "texto": "Pedí en el registro la lista de documentación que tenés que presentar: puede cambiar según la jurisdicción."
+      },
+      {
+        "texto": "Inscribite en persona en ese registro y presentá la documentación que te pidan."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "El registro que interviene te informa el tiempo del trámite cuando te inscribís.",
+    "consejos": [
+      "La inscripción es gratuita, personal y no necesita intermediarios ni abogados.",
+      "La inscripción es única y vale para todo el país.",
+      "Cada registro provincial puede pedir documentación distinta según sus leyes locales.",
+      "Tenés a disposición un tutorial para aspirantes."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "Inscripción",
+      "gratis": true,
+      "monto_centavos": null,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscripcion-en-el-registro-de-aspirantes-guarda-con-fines-adoptivos"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscripcion-en-el-registro-de-aspirantes-guarda-con-fines-adoptivos",
+      "titulo": "Inscripción en el Registro de Aspirantes a Guarda con Fines Adoptivos | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T00:21:16.752Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La documentación exacta depende de cada registro provincial y no figura en la ficha.",
+    "No se aclara si hace falta sacar turno.",
+    "No se indica si la inscripción vence o hay que renovarla."
+  ]
+}

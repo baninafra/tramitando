@@ -1,0 +1,78 @@
+{
+  "tramite": {
+    "slug": "solicitar-autorizacion-mercaderia-importaciones-temporales",
+    "nombre": "Solicitar autorización de mercadería de importaciones temporales",
+    "nombre_busqueda": "autorizacion mercaderia importaciones temporales",
+    "resumen": "Este trámite permite ingresar mercadería con destino temporal, obligando a su reexportación antes del vencimiento del plazo. Se requiere factura, conocimiento de embarque y pago de arancel.",
+    "sinonimos": [
+      "autorizacion ingreso mercaderia transitoria",
+      "importacion temporal"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMAT",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes deseen importar mercadería con destino temporal."
+    ],
+    "requisitos": [
+      {
+        "texto": "Copia de factura",
+        "aclaracion": null
+      },
+      {
+        "texto": "Conocimiento de embarque / carta de porte / guía aérea",
+        "aclaracion": null
+      },
+      {
+        "texto": "Despacho (provisorio) de importación temporal",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago del arancel vigente correspondiente, gestionado previamente a través del Sistema de Pago Electrónico de ANMAT.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar a la plataforma TAD."
+      },
+      {
+        "texto": "Completar el formulario y adjuntar la documentación requerida."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-autorizacion-de-mercaderia-de-importaciones-temporales",
+      "titulo": "Solicitar la autorización de mercadería de importaciones temporales | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T09:19:42.356Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto menciona acceso a Pago Electrónico y listado de aranceles como información complementaria, pero no detalla los pasos específicos para acceder a esos recursos ni los requisitos adicionales que puedan implicar."
+  ]
+}

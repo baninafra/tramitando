@@ -1,0 +1,128 @@
+{
+  "tramite": {
+    "slug": "autorizar-envases-y-conexos-productos-alimenticios",
+    "nombre": "Autorizar envases y conexos para productos alimenticios",
+    "nombre_busqueda": "Autorizar envases y conexos para establecimientos habilitados por el SENASA",
+    "resumen": "Para elaborar y comercializar envases o conexos destinados a alimentos, necesitás solicitar autorización ante el Registro del SENASA. El trámite se realiza exclusivamente por correo electrónico y requiere declarar un domicilio electrónico.",
+    "sinonimos": [
+      "Autorización de envases y conexos SENASA",
+      "Registro de envases alimenticios",
+      "Inscripción de envases y conexos"
+    ],
+    "temas": [
+      "bromatologia-y-alimentos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Propietario o apoderado debidamente acreditado por la empresa."
+    ],
+    "requisitos": [
+      {
+        "texto": "Declarar domicilio electrónico mediante el sistema SIGTrámites.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar el formulario correspondiente según el tipo de trámite (inscripción, renovación, modificación o informe técnico).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Incluir la documentación técnica requerida según el instructivo específico.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Accedé al micrositio oficial del SENASA."
+      },
+      {
+        "texto": "Inscribime en el sistema SIGTrámites para declarar tu domicilio electrónico."
+      },
+      {
+        "texto": "Seleccioná el trámite correspondiente (inscripción, renovación, modificación o informe técnico)."
+      },
+      {
+        "texto": "Completá el formulario oficial descargable en la sección de descargas."
+      },
+      {
+        "texto": "Adjuntá la documentación técnica solicitada en el instructivo correspondiente."
+      },
+      {
+        "texto": "Envías todo el paquete por correo electrónico a la dirección indicada."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El certificado obtenido tiene validez por 5 años.",
+      "Renová con al menos 120 días corridos previos a la fecha de vencimiento.",
+      "Consultá las normativas relacionadas con los costos del trámite antes de iniciar."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede del Centro Regional Metropolitano",
+      "direccion": "Azopardo N° 1020 piso 2° - C1107ADR - CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/autorizar-envases-y-conexos-para-productos-alimenticios"
+    },
+    {
+      "nombre": "Sede Central",
+      "direccion": "Paseo Colón 367 - CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/autorizar-envases-y-conexos-para-productos-alimenticios"
+    },
+    {
+      "nombre": "Laboratorio Central",
+      "direccion": "Talcahuano 1660 – Martínez, Provincia de Buenos Aires",
+      "localidad": "Martínez",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/autorizar-envases-y-conexos-para-productos-alimenticios"
+    },
+    {
+      "nombre": "Centro Regional Buenos Aires",
+      "direccion": "Mar de Plata, Provincia de Buenos Aires",
+      "localidad": "Mar de Plata",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/autorizar-envases-y-conexos-para-productos-alimenticios"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/autorizar-envases-y-conexos-para-productos-alimenticios",
+      "titulo": "Autorizar envases y conexos para productos alimenticios",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T15:16:15.708Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T15:16:15.708Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia exacta del trámite no está especificada en el texto.",
+    "El monto exacto del arancel debe consultarse en las normativas relacionadas con los costos del trámite."
+  ]
+}

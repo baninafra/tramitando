@@ -1,0 +1,38 @@
+---
+// Sello de estado de verificación. Siempre con ícono y texto: el color solo nunca alcanza.
+import Icono from './Icono.astro';
+import type { EstadoVerificacion } from '../lib/data';
+import { formatoFecha } from '../lib/formato';
+
+interface Props {
+  estado: EstadoVerificacion;
+  fecha?: string;
+  /** Texto para "sin datos", por ejemplo "Sin datos de tu municipio". */
+  textoSinDatos?: string;
+}
+const { estado, fecha, textoSinDatos = 'Sin datos de tu municipio' } = Astro.props;
+---
+{estado === 'verificado' && (
+  <span class="verificado">Verificado el {fecha && formatoFecha(fecha)}</span>
+)}
+{estado === 'desactualizado' && (
+  <span class="sello rev"><Icono nombre="clock" />Puede estar desactualizado</span>
+)}
+{estado === 'sin-datos' && (
+  <span class="sello sin"><Icono nombre="circle-minus" />{textoSinDatos}</span>
+)}
+
+<style>
+  .sello {
+    justify-self: start; align-self: start;
+    display: inline-flex; align-items: center; gap: 6px;
+    font: var(--t-nota);
+    padding: var(--espacio-1) var(--espacio-3) var(--espacio-1) var(--espacio-2);
+    border-radius: var(--radio-pildora);
+  }
+  .sello :global(.icono) { width: 16px; height: 16px; }
+  /* Verificado: solo el texto, sin color ni ícono. */
+  .verificado { justify-self: start; font: var(--t-nota); color: var(--tinta-2); }
+  .rev { background: var(--aviso-fondo); color: var(--aviso); }
+  .sin { background: var(--borde); color: var(--tinta-2); }
+</style>

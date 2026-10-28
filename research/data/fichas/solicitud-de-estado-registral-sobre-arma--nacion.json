@@ -1,0 +1,72 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-estado-registral-sobre-arma",
+    "nombre": "Solicitud de estado registral sobre arma",
+    "nombre_busqueda": "estado registral arma",
+    "resumen": "Solicitá el estado registral de un arma a tu nombre en ANMaC si sos legítimo usuario individual.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMaC",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Legítimo usuario individual"
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia de tus datos completos",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia del material sobre el que querés consultar",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central del organismo",
+      "direccion": "Bartolomé Mitre 1465/9",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitud-de-estado-registral-sobre-arma"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitud-de-estado-registral-sobre-arma",
+      "titulo": "Solicitud de estado registral sobre arma | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T00:06:33.487Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica si se requiere turno",
+    "No se especifica el plazo de respuesta",
+    "No se especifica el costo del trámite"
+  ]
+}

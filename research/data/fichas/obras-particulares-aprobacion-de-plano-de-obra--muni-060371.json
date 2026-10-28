@@ -1,0 +1,54 @@
+{
+  "tramite": {
+    "slug": "aprobacion-plano-obra",
+    "nombre": "Aprobación de plano de obra",
+    "nombre_busqueda": "aprobar un plano de obra",
+    "resumen": "La página descargada no muestra información del trámite.",
+    "sinonimos": [],
+    "temas": [
+      "permiso-de-obra-y-planos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060371",
+  "organismo": {
+    "nombre": "Municipalidad de San Martín",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "La página no indica quiénes pueden hacer este trámite."
+    ],
+    "requisitos": [
+      {
+        "texto": "La página no informa los requisitos.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://sanmartin.gob.ar/tramites/obras-particulares-aprobacion-de-plano-de-obra",
+      "titulo": "Aprobación de Plano de Obra",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T13:31:25.312Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El contenido de la página no se pudo consultar porque solo muestra «Loading...».",
+    "No se informa la fecha de vigencia."
+  ]
+}

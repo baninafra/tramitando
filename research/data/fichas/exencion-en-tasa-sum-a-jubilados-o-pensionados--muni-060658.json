@@ -1,0 +1,69 @@
+{
+  "tramite": {
+    "slug": "exencion-en-tasa-sum-a-jubilados-o-pensionados",
+    "nombre": "Exención en Tasa SUM a Jubilados o Pensionados",
+    "nombre_busqueda": "Exención tasa SUM jubilados pensionados",
+    "resumen": "Permite que jubilados y pensionados no paguen la Tasa SUM. Se requiere DNI y constancia de jubilación o pensión.",
+    "sinonimos": [
+      "Exención tasa SUM jubilados",
+      "Exención tasa SUM pensionados",
+      "Libre de tasa SUM jubilados"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones",
+      "adultos-mayores"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060658",
+  "organismo": {
+    "nombre": "Secretaría de Hacienda",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Jubilados",
+      "Pensionados"
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de jubilación o pensión",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá tu DNI y la constancia de jubilación o pensión."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mi.quilmes.gov.ar/tramites/82/exencion-en-tasa-sum-a-jubilados-o-pensionados",
+      "titulo": "Exención en Tasa SUM a Jubilados o pensionados",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T07:54:49.268Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se desconoce si el trámite se puede realizar completamente por internet.",
+    "Se desconoce si se requiere sacar turno.",
+    "Se desconoce el plazo de atención."
+  ]
+}

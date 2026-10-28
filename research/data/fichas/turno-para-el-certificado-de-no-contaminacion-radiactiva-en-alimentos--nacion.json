@@ -1,0 +1,100 @@
+{
+  "tramite": {
+    "slug": "turno-certificado-no-contaminacion-radiactiva-alimentos",
+    "nombre": "Turno para el certificado de no contaminación radiactiva en alimentos",
+    "nombre_busqueda": "Turno certificado no contaminación radiactiva alimentos",
+    "resumen": "El Laboratorio Metrología de Radioisótopos (LMR) certifica que los alimentos son aptos para el consumo humano mediante análisis de radiación. El trámite es semipresencial y requiere turnos programados para profesionales del comercio internacional.",
+    "sinonimos": [
+      "Certificación radiológica alimentos",
+      "Análisis no contaminación radiactiva",
+      "Certificado aptitud radiológica alimentos"
+    ],
+    "temas": [
+      "bromatologia-y-alimentos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Comisión Nacional de Energía Atómica",
+    "sigla": "CNEA",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Profesionales del comercio internacional: exportadores, importadores, distribuidores, intermediarios y brokers, agentes de aduanas y empresas de logística."
+    ],
+    "requisitos": [
+      {
+        "texto": "Completar el Formulario de Solicitud de Turno Programado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Completar el Modelo de Carta de Solicitud.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar la Constancia de Inscripción de ARCA vigente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el Formulario de Solicitud de Turno."
+      },
+      {
+        "texto": "Completá el Modelo de Carta de Solicitud en el momento que se solicite para cada una de las muestras."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la Constancia de Inscripción de ARCA vigente, si es por primera vez."
+      },
+      {
+        "texto": "El día del turno, enviá las muestras al Centro Atómico Ezeiza (CAE) en Calle Presbítero Juan González y Aragón N° 15, Ezeiza, Pcia. de Buenos Aires, al Edificio Metrología, Laboratorio de Metrología de Radioisótopos (LMR)."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://www.argentina.gob.ar/servicio/turno-para-el-certificado-de-no-contaminacion-radiactiva-en-alimentos",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Centro Atómico Ezeiza (CAE), Edificio Metrología, Laboratorio de Metrología de Radioisótopos (LMR)",
+      "direccion": "Calle Presbítero Juan González y Aragón N° 15",
+      "localidad": "Ezeiza",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/turno-para-el-certificado-de-no-contaminacion-radiactiva-en-alimentos"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/turno-para-el-certificado-de-no-contaminacion-radiactiva-en-alimentos",
+      "titulo": "Turno para el certificado de no contaminación radiactiva en alimentos | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T18:56:49.094Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/cnea/solicitar-turno-programado-cnea-lmr",
+      "titulo": "Solicitar Turno Programado CNEA-LMR | Argentina.gob.ar",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T18:56:49.094Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa no se especifica en el texto, solo se indica que debe abonarse al momento del ingreso.",
+    "El plazo de espera para obtener el certificado no se especifica en el texto."
+  ]
+}

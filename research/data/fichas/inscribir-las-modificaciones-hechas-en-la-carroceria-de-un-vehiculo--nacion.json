@@ -1,0 +1,100 @@
+{
+  "tramite": {
+    "slug": "inscribir-las-modificaciones-hechas-en-la-carroceria-de-un-vehiculo",
+    "nombre": "Inscribir las modificaciones hechas en la carrocería de un vehículo",
+    "nombre_busqueda": "Inscribir modificaciones carrocería vehículo",
+    "resumen": "Si cambiaste la carrocería de tu auto manteniendo los mismos números de motor y chasis, tenés que inscribir esas modificaciones en el Registro donde está radicado el vehículo.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro de Propiedad Automotor",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Al dueño o apoderado del vehículo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Solicitud Tipo 04.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título y cédula del vehículo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario 12: Verificación vehicular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotografía del automotor con la carrocería modificada, visada por la autoridad que realiza la verificación física.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Factura de las partes agregadas a la carrocería.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá la Solicitud electrónica, para complementar luego el trámite de manera presencial en el Registro."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación en el Registro donde está radicado el vehículo."
+      },
+      {
+        "texto": "Si no abonaste en línea, pagá allí los aranceles."
+      },
+      {
+        "texto": "Retirá la documentación con la inscripción de las modificaciones."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribir-las-modificaciones-hechas-en-la-carroceria-de-un-vehiculo",
+      "titulo": "Inscribir las modificaciones hechas en la carrocería de un vehículo | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T16:58:13.089Z"
+    },
+    {
+      "url": "https://www2.jus.gov.ar/dnrpa-site/",
+      "titulo": "Formulario 08 Automotor, Transferencia Digital, Presupuesto Costos, Trámites Online, Turnos | DNRPA",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T16:58:13.089Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T16:58:13.089Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Consultá los aranceles."
+  ]
+}

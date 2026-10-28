@@ -1,0 +1,79 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-certificado-de-legalidad",
+    "nombre": "Solicitud de certificado de legalidad",
+    "nombre_busqueda": "Certificado de legalidad",
+    "resumen": "Quien tenga otorgada una Licencia Nacional de Conducir puede solicitar este trámite presencialmente en la Oficina de Licencia de Conducir.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060063",
+  "organismo": {
+    "nombre": "Municipalidad de Balcarce",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quien tenga otorgada una Licencia Nacional de Conducir"
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Licencia de Conducir",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá tu DNI y tu Licencia de Conducir en la Oficina de Licencia de Conducir."
+      },
+      {
+        "texto": "Aboná el costo del trámite en la oficina."
+      },
+      {
+        "texto": "Retirá el Certificado de Legalidad impreso y firmado."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Licencia de Conducir",
+      "direccion": "Av. San Martin y 129 Nº 3646",
+      "localidad": "Av. San Martin y 129 Nº 3646",
+      "horario": null,
+      "fuente_url": "https://balcarce-app.gob.ar/portal_servicios/servicio/solicitud-de-certificado-de-legalidad"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://balcarce-app.gob.ar/portal_servicios/servicio/solicitud-de-certificado-de-legalidad",
+      "titulo": "Portal de Servicios | Modernizacion Balcarce",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T21:49:27.981Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del pago no se especifica en el texto.",
+    "No se indica si el trámite requiere turno."
+  ]
+}

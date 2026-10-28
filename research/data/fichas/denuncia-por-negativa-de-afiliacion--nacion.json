@@ -1,0 +1,108 @@
+{
+  "tramite": {
+    "slug": "denuncia-por-negativa-de-afiliacion",
+    "nombre": "Denuncia por negativa de afiliación",
+    "nombre_busqueda": "Denuncia negativa afiliación",
+    "resumen": "Podés denunciar a tu Agente del Seguro o Entidad de Medicina Prepaga si tenés un inconveniente con tu afiliación. El trámite es gratuito y se puede hacer en línea o presencialmente.",
+    "sinonimos": [
+      "Denuncia afiliación",
+      "Queja afiliación",
+      "Reclamo afiliación"
+    ],
+    "temas": [
+      "salud-y-prevencion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Servicios de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Beneficiarios de Agentes del Seguro o usuarios de Entidades de Medicina Prepaga."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de Denuncia completo y firmado por el titular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI de la persona titular (de ambos lados).",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del apoderado o gestor (de ambos lados).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del DNI grupo familiar (de ambos lados).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que acredite el vínculo de todo el grupo familiar (partida de nacimiento, certificado de matrimonio o unión convivencial).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que corresponda al régimen de afiliación.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma de Trámites a Distancia para iniciar el trámite con tu usuario de ARCA o de Mi Argentina."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Solicitá el turno en línea con usuario de Mi Argentina o creando tu cuenta."
+      },
+      {
+        "texto": "Acudí a la Delegación más cercana a tu domicilio con la documentación completa."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central",
+      "direccion": "Bartolomé Mitre 434 - Planta Baja - CABA - C1036AAH",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/denuncia-por-negativa-de-afiliacion"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/denuncia-por-negativa-de-afiliacion",
+      "titulo": "Denuncia por negativa de afiliación | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T15:07:04.426Z"
+    },
+    {
+      "url": "https://turnos.argentina.gob.ar/turnos/seleccionTurno/3016",
+      "titulo": "Sistema Nacional de Turnos",
+      "bloques": [
+        "donde"
+      ],
+      "consultada_en": "2026-10-26T15:07:04.426Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite no está especificada en el texto.",
+    "El plazo de resolución del trámite no está especificado en el texto."
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "tramite": {
+    "slug": "consultar-convenios-colectivos-de-trabajo-acuerdos-y-laudos",
+    "nombre": "Consultar convenios colectivos de trabajo, acuerdos y laudos",
+    "nombre_busqueda": "Consultar convenios colectivos de trabajo",
+    "resumen": "Podés consultar de forma gratuita los convenios, acuerdos y laudos vigentes en el Ministerio de Trabajo. No necesitás documentos para buscar en línea.",
+    "sinonimos": [
+      "Consultar CCT",
+      "Ver convenios colectivos",
+      "Buscar acuerdos laborales"
+    ],
+    "temas": [
+      "trabajo-y-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Trabajo",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Trabajadores de las actividades que el Ministerio de Trabajo reconoce."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI argentino (solo para sacar turno en línea, no para consultar)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cuenta en Mi Argentina (solo para sacar turno en línea, no para consultar)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al Buscador de Convenios Colectivos del Ministerio de Trabajo."
+      },
+      {
+        "texto": "Definí el criterio de búsqueda que vas a emplear."
+      },
+      {
+        "texto": "Optá por una consulta básica o avanzada."
+      },
+      {
+        "texto": "Completá los campos de búsqueda según el tipo de consulta."
+      },
+      {
+        "texto": "Seleccioná el documento que buscabas."
+      },
+      {
+        "texto": "Verificá los datos del documento en la ficha que te aparece."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acudí a la Biblioteca del Ministerio de Trabajo, ubicada en 25 de Mayo 637, PB, CABA."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Biblioteca del Ministerio de Trabajo",
+      "direccion": "25 de Mayo 637, PB, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/consultar-convenios-colectivos-de-trabajo-acuerdos-y-laudos"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consultar-convenios-colectivos-de-trabajo-acuerdos-y-laudos",
+      "titulo": "Consultar convenios colectivos de trabajo, acuerdos y laudos | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T15:17:06.234Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si el trámite requiere turno, no se especifica en el texto si se saca por internet o presencialmente.",
+    "No se especifica en el texto si el trámite tiene un plazo de espera o duración."
+  ]
+}

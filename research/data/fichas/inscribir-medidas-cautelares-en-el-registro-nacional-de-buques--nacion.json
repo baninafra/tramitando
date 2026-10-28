@@ -1,0 +1,122 @@
+{
+  "tramite": {
+    "slug": "inscripcion-medidas-cautelares-buques",
+    "nombre": "Inscribir medidas cautelares en el registro nacional de buques",
+    "nombre_busqueda": "Inscribir medidas cautelares buques",
+    "resumen": "Para abogados que deben registrar oficios judiciales de embargo o inhibición en el Registro Nacional de Buques. Se requiere oficio electrónico firmado digitalmente y pago de arancel.",
+    "sinonimos": [
+      "Inscripción de medidas cautelares marítimas",
+      "Registro de embargo buques"
+    ],
+    "temas": [
+      "legalizaciones-y-apostillados"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Prefectura Naval Argentina",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Abogados autorizados."
+    ],
+    "requisitos": [
+      {
+        "texto": "Oficio Judicial ajustado al artículo 8º de la Ley Nº 19.170.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Soporte electrónico con firma digital verificable.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Oficio Judicial Electrónico (DEOX) diligenciado por la Secretaría General –Mesa de Entradas- o por la Dirección de Policía Judicial, Protección Marítima y Puertos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Oficio electrónico (DEO) suscripto por abogado autorizado con oficio firmado digitalmente por Juez o Secretario (con transcripción de auto).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para oficios de la Provincia de Buenos Aires: Código QR para verificación y diligenciado al correo rnbumail@prefecturanaval.gob.ar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Orden judicial con: Lugar, fecha, datos de la carátula, nombre del buque o artefacto naval, número de matrícula (si es extranjero, nombre y bandera), Juzgado y Secretaría con correo electrónico, medida dispuesta, monto de embargo o inhibición (salvo que el Juez indique imposibilidad), firma del mag…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comunicación telefónica previa al Registro Nacional de Buques (Mesa de Entradas) al teléfono 4318-7400/7500, internos 2104/06.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Envío de correo electrónico a la casilla rnbumail@prefecturanaval.gob.ar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Concurrencia personal de lunes a viernes, horario de 8 a 13, indicando número de CUIT/CUIL.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Diligenciar el Oficio Judicial Electrónico (DEOX) o el Oficio electrónico (DEO) con firma digital verificable."
+      },
+      {
+        "texto": "Adjuntar el auto que ordena la medida firmado por el Juez o Secretario (con transcripción del auto) si se usa DEO."
+      },
+      {
+        "texto": "Enviar el documento al correo rnbumail@prefecturanaval.gob.ar o presentarlo en la Mesa de Entradas de la Prefectura Naval Argentina."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Concurrir personalmente a una Dependencia de la Prefectura Naval Argentina de lunes a viernes, entre las 8 y las 13 horas."
+      },
+      {
+        "texto": "Indicar el número de CUIT/CUIL al personal de la División Contralor y Verificación Registral o de la Dependencia correspondiente."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "30 días hábiles",
+    "consejos": [
+      "Consultar el Cuadro Tarifario de Aranceles según el Decreto 1528/07.",
+      "Los aranceles se actualizan anualmente.",
+      "En caso de levantamiento de medidas registradas, deberá acreditarse el pago del arancel por la inscripción si no se hubiera abonado previamente."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 655000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-medidas-cautelares-en-el-registro-nacional-de-buques"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribir-medidas-cautelares-en-el-registro-nacional-de-buques",
+      "titulo": "Inscribir medidas cautelares en el registro nacional de buques | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T16:59:17.411Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horario de atención en dependencias de interior del país no especificado.",
+    "Dirección exacta de las dependencias de la Prefectura Naval Argentina en el interior del país."
+  ]
+}

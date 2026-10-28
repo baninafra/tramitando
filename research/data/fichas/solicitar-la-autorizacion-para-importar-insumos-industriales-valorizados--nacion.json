@@ -1,0 +1,99 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-autorizacion-de-importacion-de-insumos-industriales",
+    "nombre": "Solicitud de autorización de importación de insumos industriales",
+    "nombre_busqueda": "solicitar autorización importación insumos industriales valorizados",
+    "resumen": "Solicitá la autorización anual para importar insumos industriales valorizados antes del embarque. Necesitás tener CUIT, clave fiscal nivel 2 o superior en ARCA y Trámites a Distancia asociado.",
+    "sinonimos": [
+      "autorización importación insumos valorizados",
+      "permiso importar insumos industriales"
+    ],
+    "temas": [
+      "comercio-e-industria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Toda persona humana o jurídica que quiera importar insumos industriales valorizados bajo norma técnica para un proceso productivo o como un producto de uso directo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener CUIT y clave fiscal nivel 2 o superior en ARCA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contar con Trámites a Distancia asociado a ARCA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si vas a realizar el trámite en nombre de una empresa, necesitás realizar la delegación de servicios vía ARCA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar los datos del proveedor, de la empresa usuaria del insumo importado y de los datos del insumo a importar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar documentación contable o contractual, factura, orden de compra, contrato, ficha técnica o nota del proveedor que realizó la valorización.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al trámite Solicitud de Autorización de Importación de Insumos Industriales en TAD, con tu CUIT y clave fiscal."
+      },
+      {
+        "texto": "Definí los firmantes (titular o apoderado y representante técnico)."
+      },
+      {
+        "texto": "Completá la Declaración Jurada."
+      },
+      {
+        "texto": "Cargá los archivos adjuntos solicitados."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Las autorizaciones serán anuales, con vigencia de 365 días corridos a partir de su emisión.",
+      "Lo tendrás que solicitar antes del embarque de la mercadería en el país de origen.",
+      "Tené en cuenta que antes de finalizar con la evaluación, te pueden solicitar que presentes documentación adicional mediante una subsanación que podrás ver en TAD."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-autorizacion-para-importar-insumos-industriales-valorizados",
+      "titulo": "Solicitar la autorización para importar insumos industriales valorizados | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T09:27:19.775Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T09:27:19.775Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si tenés que hacer un trámite, podés sacar turno en línea y ganar tiempo."
+  ]
+}

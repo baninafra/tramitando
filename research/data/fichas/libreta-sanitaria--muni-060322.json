@@ -1,0 +1,95 @@
+{
+  "tramite": {
+    "slug": "libreta-sanitaria",
+    "nombre": "Libreta sanitaria",
+    "nombre_busqueda": "libreta sanitaria",
+    "resumen": "Podés renovar la libreta sanitaria para manipular alimentos. Para hacerlo, presentá la documentación y aboná el derecho correspondiente.",
+    "sinonimos": [],
+    "temas": [
+      "carnet-sanitario"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060322",
+  "organismo": {
+    "nombre": "Municipalidad de General La Madrid",
+    "sigla": null,
+    "web": "https://www.lamadrid.gob.ar/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que necesitan renovar la libreta sanitaria para manipular alimentos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Certificado de buena salud que indique que los estudios realizados demuestran aptitud para manipular alimentos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dos fotos carnet de 4 × 4.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos personales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planilla médica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Recibo del derecho a la libreta sanitaria.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Aboná $300 en la Oficina de Recaudación por el derecho a la libreta sanitaria."
+      },
+      {
+        "texto": "Informá tus datos personales."
+      },
+      {
+        "texto": "Presentá el certificado de buena salud y las dos fotos carnet de 4 × 4."
+      },
+      {
+        "texto": "Entregá la planilla médica en la Mesa de Entrada del Palacio Municipal."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "Renovación",
+      "gratis": false,
+      "monto_centavos": 30000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.lamadrid.gob.ar/libreta-sanitaria/"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.lamadrid.gob.ar/libreta-sanitaria/",
+      "titulo": "Libreta Sanitaria – Municipalidad de General La Madrid",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T12:46:14.311Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La página describe los pasos para la renovación; no confirma si existe un trámite para obtener la libreta por primera vez.",
+    "No se informa el plazo del trámite ni si hace falta sacar turno."
+  ]
+}

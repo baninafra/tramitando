@@ -1,0 +1,104 @@
+{
+  "tramite": {
+    "slug": "inscripcion-coleccionista-armas",
+    "nombre": "Inscripción como coleccionista de armas",
+    "nombre_busqueda": "inscripción coleccionista armas",
+    "resumen": "Para poseer más de 10 armas o 100 cartuchos de colección distintos, necesitás solicitar la inscripción como Legítimo Usuario Coleccionista de Armas de Fuego y/o Municiones.",
+    "sinonimos": [
+      "Coleccionista de armas",
+      "Legítimo Usuario Coleccionista"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMaC",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que posean una colección de más de 10 armas y/o 100 cartuchos de colección de distintos calibres, o 250 entre cartuchos y puntas, o 500 computando cartuchos, puntas y estampas de culote."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario Leyes 23.283 y 23.412 correspondientes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de la Credencial de Legítimo Usuario de Uso Civil Condicional (vigente).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de documento de identidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de domicilio extendido por autoridad policial, si el domicilio real no coincide con el registrado en el documento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Inventario de armas de fuego en original y copia, detallando fusiles, carabinas, escopetas, pistolones, revólveres y otros, ordenados por tipo, con cantidad de fojas y armas, inicializado y cerrado con lugar, fecha y firma.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Inventario de municiones, con un renglón por calibre u objeto de colección, asegurando que carezcan de carga explosiva, detonante e iniciadores.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "30 días",
+    "consejos": [
+      "La inscripción tiene una vigencia de 5 años.",
+      "Si el domicilio real no coincide con el registrado en tu documento, debés efectuar el cambio dentro de los 60 días y dejar constancia en el rubro Observaciones del Formulario Ley."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 2000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-la-inscripcion-como-legitimo-usuario-coleccionista-de-armas-de-fuego-yo"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Sede Central del organismo",
+      "direccion": "Bartolomé Mitre 1465/9",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-la-inscripcion-como-legitimo-usuario-coleccionista-de-armas-de-fuego-yo"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-inscripcion-como-legitimo-usuario-coleccionista-de-armas-de-fuego-yo",
+      "titulo": "Solicitar la inscripción como Legítimo Usuario Coleccionista de Armas de Fuego y/o Municiones | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T09:56:07.183Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Información sobre cómo sacar turno o si es necesario para este trámite específico."
+  ]
+}

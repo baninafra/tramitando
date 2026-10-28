@@ -1,0 +1,161 @@
+{
+  "tramite": {
+    "slug": "licencia-de-conducir-reemplazo",
+    "nombre": "Licencia de Conducir Reemplazo",
+    "nombre_busqueda": "Licencia de Conducir Reemplazo",
+    "resumen": "Trámite municipal para gestionar la emisión de una nueva licencia en reemplazo de la actual debido a cambios en los datos personales o errores en el documento, manteniendo la validez y condiciones de la licencia original.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060028",
+  "organismo": {
+    "nombre": "Municipalidad de Almirante Brown",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes hayan realizado una modificación de datos en su DNI dentro de los 90 días de plazo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Sacar un turno por la Web para el trámite de Licencia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Último DNI vigente con domicilio en Almirante Brown.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Licencia de Conducir.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Antecedentes penales para quienes posean categoría profesional.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Legalidad en el caso de que corresponda.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Sacar un turno por la Web para el trámite de Licencia."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 5549750,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/licencia-de-conducir-reemplazo/"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 2048750,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/licencia-de-conducir-reemplazo/"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 13381750,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/licencia-de-conducir-reemplazo/"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1015000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/licencia-de-conducir-reemplazo/"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 574750,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/licencia-de-conducir-reemplazo/"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 3960000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/licencia-de-conducir-reemplazo/"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 459000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/licencia-de-conducir-reemplazo/"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 11792000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/licencia-de-conducir-reemplazo/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Almirante Brown",
+      "direccion": "JUNIN SUR 1246",
+      "localidad": "BURZACO",
+      "horario": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/licencia-de-conducir-reemplazo/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.brown.gob.ar/tramites/licencia-de-conducir-reemplazo/",
+      "titulo": "Licencia de Conducir Reemplazo",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T07:38:32.904Z"
+    },
+    {
+      "url": "https://licenciasba.dppsv.gba.gob.ar/licencias/boletas_cenat_cepat/public/solicitante/new",
+      "titulo": "Licencias BA",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-28T07:38:32.904Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Plazo de validez de los antecedentes penales y certificado de legalidad (30 días desde emisión).",
+    "Validez de las boletas CENAT y CEPAT (7 días para abonar, 60 días para presentar).",
+    "Fecha de vigencia del trámite.",
+    "Enlace para solicitar turno online."
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "tramite": {
+    "slug": "solicitar-pago-asignacion-familiar-prenatal-retirados-pensionistas",
+    "nombre": "Solicitar el pago de la asignación familiar por prenatal para retirados y pensionistas",
+    "nombre_busqueda": "Asignación familiar prenatal retirados pensionistas",
+    "resumen": "Tramitá el cobro de la asignación por prenatal a través de los haberes del IAF si sos retirado o pensionista militar residente en el país y estás esperando un hijo. Es un trámite gratuito que se realiza de manera presencial, telefónica o por correo postal.",
+    "sinonimos": [
+      "Asignación prenatal IAF",
+      "Asignación familiar prenatal militares",
+      "Asignación prenatal retiros pensionistas"
+    ],
+    "temas": [
+      "familia-y-pareja"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares",
+    "sigla": "IAF",
+    "web": "https://www.argentina.gob.ar/iaf"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Retirados y pensionistas militares beneficiarios del IAF residentes en el país que estén esperando un hijo.",
+      "Cuyos haberes estén dentro de los topes vigentes establecidos para el cobro de las Asignaciones Familiares.",
+      "Que no se encuentren percibiéndolas por ninguna otra entidad."
+    ],
+    "requisitos": [
+      {
+        "texto": "Certificado original extendido por el médico obstetra en el que conste fecha probable de parto, su firma y sello.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si la asignación la tramitas como titular masculino: Acta de matrimonio o certificado de convivencia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI y CUIL de la embarazada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancias de antecedentes laborales de ambos progenitores que deberás solicitar en ANSES: Certificación negativa, Historia laboral, Registro Único de Beneficiarios (RUB), CUNA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si alguno de los progenitores se desempeña en relación de dependencia o percibe un beneficio previsional: Recibo de haberes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si sos monotributista: Constancia de la categoría en que te encontrás inscripto y ticket del importe abonado.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate con la documentación requerida a la sede central del IAF, Cerrito 572 – CABA o las Delegaciones del Interior, en el horario de 08:00 a 13:00 horas."
+      },
+      {
+        "texto": "Comunicate a nuestro call center 0810-222-2423 en el horario de 08:00 a 15:00 horas y un operador te indicará cómo completar el trámite."
+      },
+      {
+        "texto": "Enviá el certificado médico en formato original y la copia de la otra documentación requerida junto al Formulario de Declaración Jurada de Asignaciones Familiares e Ingresos (disponible en descargas) al Instituto de Ayuda Financiera - Div. Salario Familiar - Cerrito 572 (C1010AAL) - Ciudad Autónoma de Buenos Aires."
+      },
+      {
+        "texto": "Si estás registrado en nuestro portal eIAF Beneficiarios o en la App eIAF, ingresá con tu CUIL y contraseña, dejanos tu solicitud en el apartado \"Sistema Integrado de Consultas\" y personal de Atención al Público te indicará los pasos a seguir para realizar el trámite."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Para percibir la totalidad de la asignación, debés presentar la documentación antes del 6° mes de gestación. Con posterioridad a ello, solo se abonarán los meses restantes hasta el nacimiento."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede central del IAF",
+      "direccion": "Cerrito 572",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-el-pago-de-la-asignacion-familiar-por-prenatal-para-retirados-y-pensionistas"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-el-pago-de-la-asignacion-familiar-por-prenatal-para-retirados-y-pensionistas",
+      "titulo": "Solicitar el pago de la asignación familiar por prenatal para retirados y pensionistas militares. | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:26:56.168Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/iaf",
+      "titulo": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T08:26:56.168Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Vigencia desde la presentación del certificado de embarazo y hasta el mes en que se produzca el nacimiento."
+  ]
+}

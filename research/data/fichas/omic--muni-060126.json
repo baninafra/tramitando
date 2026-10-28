@@ -1,0 +1,125 @@
+{
+  "tramite": {
+    "slug": "denuncias-y-reclamos-en-defensa-del-consumidor",
+    "nombre": "Denuncias y reclamos en Defensa del Consumidor",
+    "nombre_busqueda": "Denuncias y reclamos en Defensa del Consumidor",
+    "resumen": "Para radicar una denuncia en la Omic, completá los datos personales, los de la empresa y el hecho en el enlace oficial, adjuntando pruebas en PDF. El asesoramiento es presencial en la oficina de Defensa del Consumidor.",
+    "sinonimos": [
+      "Denuncias al consumidor",
+      "Reclamos Defensa del Consumidor Campana",
+      "Oficina Omic Campana"
+    ],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060126",
+  "organismo": {
+    "nombre": "Oficina Municipal de Defensa del Consumidor",
+    "sigla": "OMIC",
+    "web": "https://www.campana.gob.ar/omic/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Consumidores que quieran denunciar o reclamar.",
+      "Vecinos con domicilio en Campana."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI, cédula de identidad, licencia de conducir o pasaporte original de cada denunciante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Relato claro y preciso de los hechos denunciados y el requerimiento a la empresa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Prueba que acredite el hecho denunciado y la relación de consumo (ticket, factura, contrato, folleto, etc.).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento del denunciante.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la página de la Omic."
+      },
+      {
+        "texto": "Hacé clic en el enlace para ingresar tu denuncia."
+      },
+      {
+        "texto": "Completá los campos de datos personales y datos de la empresa a denunciar."
+      },
+      {
+        "texto": "Relatá en forma concreta y clara el hecho que pretendés denunciar."
+      },
+      {
+        "texto": "Adjuntá la documentación de prueba en formato PDF."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Dirijite a la Oficina de Defensa del Consumidor ubicada en Av. Varela 760 o San Martín 262 1P."
+      },
+      {
+        "texto": "Presentá los documentos originales requeridos."
+      },
+      {
+        "texto": "Hacé el reclamo o denuncia."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La admisibilidad de la denuncia está supeditada a la evaluación del caso por parte de la Dirección de Defensa del Consumidor.",
+      "Para consultas o trámites, podés comunicarse por correo electrónico a omic@campana.gov.ar."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Defensa del Consumidor",
+      "direccion": "Av. Varela 760",
+      "localidad": "Campana",
+      "horario": null,
+      "fuente_url": "https://www.campana.gob.ar/omic/"
+    },
+    {
+      "nombre": "Oficina de Defensa del Consumidor",
+      "direccion": "San Martín 262 1P",
+      "localidad": "Campana",
+      "horario": null,
+      "fuente_url": "https://www.campana.gob.ar/omic/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.campana.gob.ar/omic/",
+      "titulo": "Omic – Municipalidad de Campana",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T11:29:02.373Z"
+    },
+    {
+      "url": "https://www.campana.gob.ar/turnos/",
+      "titulo": "Turnos, reclamos y solicitudes – Municipalidad de Campana",
+      "bloques": [
+        "quien",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T11:29:02.373Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horario de atención presencial: lunes a viernes de 8 a 14.30 h (oficina Varela) y 8 a 15 hs (oficina San Martín).",
+    "Dirección exacta de la oficina en San Martín 262 1P."
+  ]
+}

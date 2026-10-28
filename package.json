@@ -1,0 +1,24 @@
+{
+  "name": "tramitando",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "apps/*",
+    "packages/*",
+    "research"
+  ],
+  "scripts": {
+    "check": "npm run check --workspaces --if-present",
+    "test": "npm test --workspaces --if-present"
+  },
+  "allowScripts": {
+    "esbuild": true,
+    "workerd": true,
+    "sharp": true
+  },
+  "overrides": {
+    "workerd": "1.20261019.1",
+    "miniflare": "5.20261019.2-beta",
+    "wrangler": "4.152.0"
+  }
+}

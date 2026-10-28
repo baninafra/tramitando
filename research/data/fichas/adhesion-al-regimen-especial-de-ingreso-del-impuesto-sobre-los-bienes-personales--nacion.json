@@ -1,0 +1,97 @@
+{
+  "tramite": {
+    "slug": "adhesion-al-regimen-especial-de-ingreso-del-impuesto-sobre-los-bienes-personales-reibp",
+    "nombre": "Adhesión al Régimen Especial de Ingreso del Impuesto sobre los Bienes Personales",
+    "nombre_busqueda": "Adhesión al REIBP",
+    "resumen": "El trámite permite que personas y sucesiones se sumen al Régimen Especial de Ingreso del Impuesto sobre los Bienes Personales de manera voluntaria y consolidada. Es un trámite gratuito que se realiza en línea.",
+    "sinonimos": [
+      "Adhesión al REIBP",
+      "Ingreso al Régimen Especial de Ingreso del Impuesto sobre los Bienes Personales"
+    ],
+    "temas": [
+      "cuil-y-clave-de-seguridad-social",
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas humanas y sucesiones indivisas que sean residentes fiscales en Argentina al 31 de diciembre de 2023.",
+      "Personas humanas que, al 31 de diciembre de 2023, no sean consideradas residentes fiscales a los efectos del Impuesto sobre los Bienes Personales, pero hubieran sido residentes fiscales en Argentina antes de esa fecha."
+    ],
+    "requisitos": [
+      {
+        "texto": "Poseer CUIL o CUIT con estado administrativo 'Activo: sin limitaciones' o 'Limitado por Falta de Inscripción en Impuestos/Regímenes' o 'Limitado por Falta de Presentación de Declaración Jurada' o 'Limitado por Falta de Movimiento y Empleados en Declaración Jurada' o 'Limitado por incumplimiento a l…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener actualizado el código de la actividad desarrollada de acuerdo con el 'Nomenclador de Actividades'.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Haber constituido y mantener actualizado el Domicilio Fiscal Electrónico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declarar y mantener actualizado el domicilio fiscal.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al servicio con clave fiscal 'Régimen especial de ingreso de Bienes Personales (REIBP)'."
+      },
+      {
+        "texto": "En la tarjeta Opción de Adhesión, presioná 'Ingresar' para presentar tu adhesión al régimen especial."
+      },
+      {
+        "texto": "Generá el VEP para abonar el pago inicial."
+      },
+      {
+        "texto": "El sistema mostrará el período fiscal y el pago a realizar. Verificá que ambos datos sean correctos."
+      },
+      {
+        "texto": "Podés consultar los VEP generados."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "15 minutos",
+    "consejos": [
+      "La adhesión al REIBP debe incluir la totalidad del patrimonio.",
+      "Los contribuyentes deberán tener CUIT o CUIL.",
+      "Mantener actualizado su domicilio fiscal, su código de actividad y poseer un domicilio fiscal electrónico registrado.",
+      "Por su parte, los no residentes, en caso de corresponder, deberán designar un representante.",
+      "La adhesión al régimen podrá efectuarse siempre que la liquidación del impuesto sobre los bienes personales del período fiscal 2023, sin aplicar las disposiciones del REIBP, arroje impuesto determinado."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/adhesion-al-regimen-especial-de-ingreso-del-impuesto-sobre-los-bienes-personales-reibp",
+      "titulo": "Adhesión al Régimen Especial de Ingreso del Impuesto sobre los Bienes Personales (REIBP) – Nuevo Pacto Fiscal | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:23:40.434Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia exacta del trámite.",
+    "Si el trámite requiere turno."
+  ]
+}

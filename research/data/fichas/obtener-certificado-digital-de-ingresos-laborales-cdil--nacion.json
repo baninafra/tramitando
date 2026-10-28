@@ -1,0 +1,97 @@
+{
+  "tramite": {
+    "slug": "obtener-certificado-digital-de-ingresos-laborales-cdil",
+    "nombre": "Obtener certificado digital de ingresos laborales",
+    "nombre_busqueda": "obtener certificado digital de ingresos laborales cdil",
+    "resumen": "Es un trámite gratuito en línea para trabajadores en relación de dependencia que permite descargar los últimos 6 períodos fiscales mensuales de sus remuneraciones.",
+    "sinonimos": [
+      "CDIL",
+      "certificado digital ingresos laborales",
+      "certificado digital de ingresos laborales"
+    ],
+    "temas": [
+      "trabajo-y-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Trabajadores en relación de dependencia"
+    ],
+    "requisitos": [
+      {
+        "texto": "Clave fiscal",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave de homebanking de la entidad bancaria con la que operás habitualmente",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Entrá a la web de ARCA con tu clave fiscal"
+      },
+      {
+        "texto": "Adherí primero el servicio Trabajo en Blanco en la opción Administración de Relaciones de Clave Fiscal"
+      },
+      {
+        "texto": "Seleccioná ARCA, Servicios Interactivos y buscá el servicio Trabajo en Blanco para confirmarlo"
+      },
+      {
+        "texto": "Salí del sitio de ARCA y volvé a entrar para usar el servicio Trabajo en Blanco"
+      },
+      {
+        "texto": "Seleccioná la opción Nuevo certificado"
+      },
+      {
+        "texto": "Ingresá al sitio web de la entidad bancaria con que operás habitualmente"
+      },
+      {
+        "texto": "Consigná el CUIT de la entidad u organismo ante el cual lo presentarán"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "10 minutos",
+    "consejos": [
+      "Si no se consigna la identificación del destinatario del certificado, este será emitido con la leyenda Para ser presentado ante quien corresponda"
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 0,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/obtener-certificado-digital-de-ingresos-laborales-cdil"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-certificado-digital-de-ingresos-laborales-cdil",
+      "titulo": "Obtener Certificado Digital de Ingresos Laborales - CDIL | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-26T22:39:06.567Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de validez nacional de títulos y estudios"
+  ]
+}

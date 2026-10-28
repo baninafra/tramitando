@@ -1,0 +1,108 @@
+{
+  "tramite": {
+    "slug": "ingresar-al-pais-productos-medicos-de-uso-compasivo",
+    "nombre": "Ingresar al país productos médicos de uso compasivo",
+    "nombre_busqueda": "ingresar al pais productos medicos uso compasivo",
+    "resumen": "Para traer un producto médico no comercializado para uso personal, necesitás gestionar una autorización ante la ANMAT a través de la plataforma Trámites a Distancia. El trámite es gratuito y requiere documentación técnica y clínica específica.",
+    "sinonimos": [
+      "autorizacion uso compasivo anmat",
+      "importacion medicos compasivo"
+    ],
+    "temas": [
+      "salud-y-prevencion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMAT",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A los pacientes de una enfermedad que requiere productos médicos de uso compasivo o sus representantes legales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Estar adherido al servicio Trámites a Distancia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Historia del dispositivo con autorizaciones certificadas en otros países y legalización diplomática.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ensayo clínico para la indicación que se propone.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copias de publicaciones de estudios clínicos en Index Medicus con traducción si no están en castellano o inglés.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración jurada del fabricante sobre investigación en ensayo clínico controlado y ensayos preclínicos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informe de los antecedentes clínicos del paciente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Justificación del riesgo beneficio firmada por el médico tratante y avalada por el comité de ética.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Consentimiento informado firmado por el paciente o su representante legal en caso de incapacidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación firmada y sellada en todas sus fojas por el médico responsable.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma Trámites a Distancia con tu clave fiscal."
+      },
+      {
+        "texto": "Accedé al trámite Importación de productos médicos por uso compasivo."
+      },
+      {
+        "texto": "Completá el formulario en línea y adjuntá la documentación."
+      },
+      {
+        "texto": "Recibí la notificación por TAD con la autorización."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Pasá a retirar tu envío con la autorización y la documentación que te pide el ente u organismo que recibió el producto."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si tenés que subsanar la información o un documento, recibirás una notificación para introducir los cambios en tu pedido."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/ingresar-al-pais-productos-medicos-de-uso-compasivo",
+      "titulo": "Ingresar al país productos médicos de uso compasivo | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T16:52:09.053Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite."
+  ]
+}

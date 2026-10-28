@@ -1,0 +1,108 @@
+{
+  "tramite": {
+    "slug": "inscripcion-apertura-yo-cierre-sucursales-sociedad-comercial-inspeccion",
+    "nombre": "Inscribir la apertura y/o cierre de sucursales de una sociedad comercial en la Inspección",
+    "nombre_busqueda": "Inscribir apertura o cierre de sucursales en la Inspección",
+    "resumen": "Este trámite permite a las sociedades comerciales inscribir la apertura o cierre de sucursales en la Inspección General de Justicia. Se requiere presentar formularios específicos, dictámenes de precalificación profesional y copias de escrituras públicas o instrumentos privados, dependiendo del tipo de sociedad y la jurisdicción.",
+    "sinonimos": [
+      "Inscripción de sucursales en la Inspección",
+      "Registro de apertura de sucursales",
+      "Registro de cierre de sucursales"
+    ],
+    "temas": [
+      "comercio-e-industria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": "IGJ",
+    "web": "https://www.argentina.gob.ar/servicio/inscribir-la-apertura-yo-cierre-de-sucursales-de-una-sociedad-comercial-en-la-inspeccion"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Sociedades domiciliadas en jurisdicción provincial que abran o cierren sucursales en la Ciudad Autónoma de Buenos Aires.",
+      "Sociedades domiciliadas en la Ciudad Autónoma de Buenos Aires que abran o cierren sucursales en jurisdicción provincial."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de apertura/cierre de sucursal en la Ciudad de Buenos Aires por una sociedad domiciliada en jurisdicción provincial.",
+        "aclaracion": "Obtenerlo en Formularios IGJ, completarlo, abonarlo y presentarlo."
+      },
+      {
+        "texto": "Dictamen de precalificación profesional emitido por escribano público, abogado o graduado en ciencias económicas.",
+        "aclaracion": "Conforme al art. 50, inc. 2 del Anexo \"A\" de la Resolución General I.G.J. Nº 7/15. Presentar copia protocolar (fotocopia de margen ancho de 8 cm)."
+      },
+      {
+        "texto": "Primer testimonio de escritura pública o instrumento privado original.",
+        "aclaracion": "Conforme al art. 50, incs. 1 y 2, según corresponda, del Anexo \"A\" de la Resolución General I.G.J. Nº 7/15. Contener la decisión de apertura/cierre, ubicación, designación del representante, datos de identidad completos y facultades conforme al art. 93 del Anexo \"A\". Presentar copia simple y protoc…"
+      },
+      {
+        "texto": "Certificado emitido por el Registro Público de la jurisdicción de origen.",
+        "aclaracion": "Acredite que la inscripción de la sociedad se encuentra vigente. En defecto, el profesional dictaminante deberá acreditar el haber comprobado dicha vigencia."
+      },
+      {
+        "texto": "Comprobante de pago de la tasa retributiva de servicios.",
+        "aclaracion": "Solo para sociedades de personas (sociedades colectivas, en comandita simple y de capital e industria) o de responsabilidad limitada."
+      },
+      {
+        "texto": "Declaración Jurada sobre la condición de Persona Expuesta Políticamente del representante designado.",
+        "aclaracion": "Conforme art. 511 del Anexo \"A\" de la Resolución General IGJ N° 7/15. El poder otorgado al representante podrá ser protocolizado en escritura pública, la que se inscribirá conjuntamente."
+      },
+      {
+        "texto": "Certificado de anotaciones personales.",
+        "aclaracion": "Acredite que la sociedad no se encuentra inhibida para disponer de sus bienes, expedido por el Registro de la Propiedad Inmueble de la Ciudad Autónoma de Buenos Aires. Solo para cierre de sucursal en la Ciudad Autónoma de Buenos Aires."
+      },
+      {
+        "texto": "Copia certificada del instrumento inscripto en jurisdicción provincial.",
+        "aclaracion": "Solo si no surje la ubicación de la sucursal, el nombre y los datos del representante designado en el instrumento. Deberá brindarse esta información en escrito por separado suscripto por el representante legal."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el formulario del trámite y toda la documentación indicada anteriormente en la Mesa General de Entradas de la Inspección General de Justicia, Av. Paseo Colón 291, previa solicitud de turno."
+      },
+      {
+        "texto": "Una vez finalizado, retiralo por Av. Paseo Colón 291, previa solicitud de turno."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La apertura de sucursal u otra representación en jurisdicción provincial deberás informarla a la Inspección General de Justicia dentro de los 30 días de inscripta.",
+      "El cierre de sucursal u otra representación en jurisdicción provincial deberás informarla a la Inspección General de Justicia dentro de los 30 días de inscripta."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Mesa General de Entradas de la Inspección General de Justicia",
+      "direccion": "Av. Paseo Colón 291",
+      "localidad": "Av. Paseo Colón 291",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-la-apertura-yo-cierre-de-sucursales-de-una-sociedad-comercial-en-la-inspeccion"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribir-la-apertura-yo-cierre-de-sucursales-de-una-sociedad-comercial-en-la-inspeccion",
+      "titulo": "Inscribir la apertura y/o cierre de sucursales de una sociedad comercial en la Inspección General de Justicia | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T17:10:42.402Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto indica que los contenidos de la Guía de trámites están en proceso de actualización de acuerdo a la normativa vigente."
+  ]
+}

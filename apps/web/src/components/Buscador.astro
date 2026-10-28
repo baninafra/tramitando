@@ -1,0 +1,59 @@
+---
+// Buscador: formulario GET a /buscar. Si hay una ubicación guardada, se suma sola a la búsqueda.
+import Icono from './Icono.astro';
+
+interface Props {
+  tamano?: 'grande' | 'compacto';
+  valor?: string;
+}
+const { tamano = 'grande', valor = '' } = Astro.props;
+const id = `buscar-${tamano}`;
+---
+<form class:list={['buscador', tamano]} action="/buscar" method="get" role="search" data-buscador>
+  <label for={id} class:list={[{ 'visualmente-oculto': tamano === 'compacto' }]}>
+    {tamano === 'grande' ? '¿Qué trámite tenés que hacer?' : 'Buscá un trámite'}
+  </label>
+  <div class="fila">
+    <input
+      id={id} class="entrada" type="search" name="q" value={valor}
+      placeholder={tamano === 'grande' ? 'Ej.: renovar el DNI' : 'Buscá un trámite'}
+      autocomplete="off" enterkeyhint="search"
+    />
+    <input type="hidden" name="prov" disabled data-prov />
+    <input type="hidden" name="muni" disabled data-muni />
+    <button class="btn btn-primario" type="submit">
+      {tamano === 'grande' ? 'Buscar' : <><Icono nombre="search" /><span class="visualmente-oculto">Buscar</span></>}
+    </button>
+  </div>
+</form>
+
+<script>
+  import { leerUbicacion } from '../scripts/ubicacion';
+  const u = leerUbicacion();
+  if (u) {
+    document.querySelectorAll<HTMLFormElement>('[data-buscador]').forEach((f) => {
+      const prov = f.querySelector<HTMLInputElement>('[data-prov]')!;
+      prov.value = u.prov; prov.disabled = false;
+      if (u.muni) {
+        const muni = f.querySelector<HTMLInputElement>('[data-muni]')!;
+        muni.value = u.muni; muni.disabled = false;
+      }
+    });
+  }
+</script>
+
+<style>
+  .buscador { display: grid; gap: var(--espacio-2); width: 100%; }
+  label { font: var(--t-titulo-3); }
+  .fila { position: relative; display: flex; gap: var(--espacio-2); }
+  .entrada { padding-left: var(--espacio-4); }
+  .grande .entrada { min-height: 56px; font-size: 18px; }
+  .grande .btn { min-height: 56px; padding-inline: var(--espacio-5); }
+  /* Compacto: una sola píldora con el botón adentro, como el lugar de al lado. */
+  .compacto .entrada { min-height: 44px; padding-right: 52px; background: var(--superficie); border-color: transparent; font-size: 16px; }
+  @media (hover: hover) { .compacto .entrada:hover { border-color: var(--borde); } }
+  .compacto .entrada:focus { border-color: var(--foco); background: var(--fondo); }
+  .compacto .btn { position: absolute; right: 4px; top: 4px; width: 36px; height: 36px; min-height: 0; padding: 0; }
+  .compacto .btn :global(.icono) { width: 16px; height: 16px; }
+  input[type='search']::-webkit-search-cancel-button { cursor: pointer; }
+</style>

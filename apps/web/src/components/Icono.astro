@@ -1,0 +1,20 @@
+---
+import { iconos, type NombreIcono } from './iconos';
+
+interface Props {
+  nombre: NombreIcono;
+  class?: string;
+  /** Si el ícono transmite algo que el texto de al lado no dice, pasá una etiqueta. */
+  etiqueta?: string;
+}
+const { nombre, class: clase, etiqueta } = Astro.props;
+---
+<svg
+  class:list={['icono', clase]}
+  viewBox="0 0 24 24"
+  aria-hidden={etiqueta ? undefined : 'true'}
+  role={etiqueta ? 'img' : undefined}
+  aria-label={etiqueta}
+  focusable="false"
+  set:html={iconos[nombre]}
+/>

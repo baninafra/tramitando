@@ -1,0 +1,71 @@
+{
+  "tramite": {
+    "slug": "mis-tasas-e-ingresos-brutos",
+    "nombre": "Mis tasas e ingresos brutos",
+    "nombre_busqueda": "Ver mis tasas y pagos",
+    "resumen": "Permite consultar el calendario impositivo, vencimientos y el estado de los pagos realizados en la Municipalidad de San Antonio de Areco.",
+    "sinonimos": [
+      "Consulta de tasas",
+      "Ver mis pagos",
+      "Calendario impositivo"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "planes-de-pago-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060735",
+  "organismo": {
+    "nombre": "Municipalidad San Antonio de Areco",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Contribuyentes con CUIT habilitado en el sistema."
+    ],
+    "requisitos": [
+      {
+        "texto": "CUIT habilitado en el sistema",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sistema con tu usuario y contraseña."
+      },
+      {
+        "texto": "Seguís el calendario impositivo para ver vencimientos."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si sos nuevo, necesitás crear una cuenta antes de ingresar.",
+      "El sistema verifica la cuenta por la área de recaudaciones."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://boletas.areco.gob.ar:8008/usuarios/",
+      "titulo": "Municipalidad San Antonio de Areco - Portal de Autogestión de Contribuyentes: Mis Tasas e Ingresos Brutos",
+      "bloques": [
+        "resumen",
+        "quien",
+        "consejos",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T10:03:25.406Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos para ingresar al sistema si ya tenés cuenta.",
+    "No se especifican requisitos para crear una cuenta nueva."
+  ]
+}

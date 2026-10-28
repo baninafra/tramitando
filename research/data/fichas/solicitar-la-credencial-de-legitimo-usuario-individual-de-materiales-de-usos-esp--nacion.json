@@ -1,0 +1,107 @@
+{
+  "tramite": {
+    "slug": "solicitar-credencial-legitimo-uso-especial",
+    "nombre": "Solicitar credencial de Legítimo Usuario de Materiales de Usos Especiales",
+    "nombre_busqueda": "credencial chaleco antibalas",
+    "resumen": "Para obtener la credencial de Legítimo Usuario de Materiales de Usos Especiales (chalecos antibalas o vehículos blindados), necesitás cumplir con requisitos de edad y presentar documentación específica en Sede Central o Delegaciones de RENAR.",
+    "sinonimos": [
+      "credencial Legítimo Usuario",
+      "credencial chaleco antibalas",
+      "credencial vehículo blindado"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro Nacional de Armas",
+    "sigla": "RENAR",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas mayores de 21 años que requieran la tenencia de chalecos antibalas y vehículos blindados para transporte de personas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Ser mayor de 21 años de edad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ley 23.283 y 23.412 correspondientes para usuarios de armas de uso civil o uso civil condicional.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento Nacional de Identidad.",
+        "aclaracion": "Si sos extranjero, necesitás acreditar Radicación Permanente o TRANSITORIA VIGENTE en el país mediante el Certificado de Radicación o el DNI."
+      },
+      {
+        "texto": "Domicilio de guarda del material.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de antecedentes penales.",
+        "aclaracion": "Su fecha de emisión no debe superar los 60 días corridos al momento de presentar los papeles."
+      },
+      {
+        "texto": "Medios de vida lícitos.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá la solicitud electrónica para la credencial de Legítimo Usuario individual de Armas de Fuego."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de RENAR que prefieras."
+      },
+      {
+        "texto": "Retirá la documentación emitida por RENAR en la delegación en la que iniciaste el trámite o pedí que te la manden por correo."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central del organismo",
+      "direccion": "Bartolomé Mitre 1465/9",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-la-credencial-de-legitimo-usuario-individual-de-materiales-de-usos-especiales"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-credencial-de-legitimo-usuario-individual-de-materiales-de-usos-especiales",
+      "titulo": "Solicitar la credencial de Legítimo Usuario individual de Materiales de Usos Especiales (chalecos antibalas o vehículos blindados) | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T09:24:50.854Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T09:24:50.854Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto menciona que el trámite se realiza en Sede Central o Delegaciones, pero no especifica si se requiere turno ni la lista completa de delegaciones.",
+    "No se especifica el monto exacto de la tasa en la página principal, solo se indica que se debe consultar el arancel vigente."
+  ]
+}

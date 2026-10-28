@@ -1,0 +1,94 @@
+{
+  "tramite": {
+    "slug": "cambiar-razon-social-de-empresa-nacional",
+    "nombre": "Cambiar razón social de empresa nacional",
+    "nombre_busqueda": "cambiar razon social empresa nacional",
+    "resumen": "Trámite gratuito en línea para empresas de transporte de carga con permiso originario que deseen modificar su nombre manteniendo la misma CUIT.",
+    "sinonimos": [],
+    "temas": [
+      "cuit-y-clave-fiscal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas argentinas de transporte de carga con permiso originario."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de solicitud",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nuevo título de propiedad del vehículo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contrato de leasing o comodato (si algún dominio está bajo esa modalidad)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nuevo RUTA vigente de los dominios",
+        "aclaracion": null
+      },
+      {
+        "texto": "Modificación de contrato social o estatuto",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ultima acta de directorio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poder de representación a nombre de la nueva empresa",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario CI1 (declaración jurada de socios o accionistas)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario CI2 (declaración jurada de vehículos y seguros)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Presentá la documentación a través de TAD."
+      },
+      {
+        "texto": "La clave fiscal debe ser de nivel 3."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/cambiar-razon-social-de-empresa-nacional",
+      "titulo": "Cambiar razón social de empresa nacional | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T04:21:52.583Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el plazo de resolución del trámite."
+  ]
+}

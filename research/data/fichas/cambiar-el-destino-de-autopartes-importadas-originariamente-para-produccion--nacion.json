@@ -1,0 +1,92 @@
+{
+  "tramite": {
+    "slug": "cambiar-el-destino-de-autopartes-importadas-originariamente-para-produccion",
+    "nombre": "Cambiar el destino de autopartes importadas originariamente para producción",
+    "nombre_busqueda": "cambiar destino autopartes importadas produccion",
+    "resumen": "Este trámite permite cambiar el destino de autopartes importadas para producción hacia el mercado de reposición, requiriendo autorización y pago de la diferencia de aranceles extrazona.",
+    "sinonimos": [],
+    "temas": [
+      "comercio-e-industria",
+      "tasa-inmobiliaria-y-servicios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas físicas o jurídicas titulares de establecimientos industriales radicados en el país que estén acogidas al Régimen de Aduana en Factoría (RAF).",
+      "Empresas adheridas al Registro de Productores de autopartes."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener CUIT y Clave Fiscal (nivel 2 o superior).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contar con Trámites a Distancia (TAD) asociado a ARCA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estar acogidas al Régimen de Aduana en Factoría (RAF).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estar acogidas al Régimen de Importación de Autopartes al 2%.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Justificar el cambio de destino.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá en Trámites a Distancia (TAD) con tu CUIT y clave fiscal."
+      },
+      {
+        "texto": "Adjuntá la documentación requerida: La información para completar el Formulario de cambio de destino de autopartes."
+      },
+      {
+        "texto": "Adjuntá la documentación requerida: Copia del Despacho Estatuto Poder."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Tené en cuenta que vas a tener que justificar el cambio de destino ante la autoridad de aplicación, antes de que se cumpla 1 año desde que importaste las autopartes."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/cambiar-el-destino-de-autopartes-importadas-originariamente-para-produccion",
+      "titulo": "Cambiar el destino de autopartes importadas originariamente para producción | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:35:29.907Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La información para completar el Formulario de cambio de destino de autopartes",
+    "Copia del Despacho Estatuto Poder",
+    "Resolución ex SI N° 122/2001",
+    "Decreto 939/2004",
+    "Decreto N° 688/2002",
+    "Resolución General N° 1673/2004",
+    "El monto exacto de la diferencia de aranceles extrazona correspondientes"
+  ]
+}

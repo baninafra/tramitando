@@ -1,0 +1,76 @@
+{
+  "tramite": {
+    "slug": "aperturas-de-partidas-geodesia",
+    "nombre": "Apertura de partidas geodesia",
+    "nombre_busqueda": "Apertura de partidas geodesia",
+    "resumen": "Trámite para ajustar las tasas que se emiten a los planos aprobados por la Dirección de Geodesia de la Provincia de Buenos Aires. Se realiza online y tarda 5 días hábiles.",
+    "sinonimos": [],
+    "temas": [
+      "catastro-e-inmuebles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060760",
+  "organismo": {
+    "nombre": "Municipalidad San Miguel",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Propietario de la parcela"
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia del plano de mensura (aprobado por geodesia)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Legajo parcelario",
+        "aclaracion": null
+      },
+      {
+        "texto": "Revaluo 901",
+        "aclaracion": null
+      },
+      {
+        "texto": "Libre de deuda de las parcelas que originan la nueva subdivisión (parcelario)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar a Portal de trámites."
+      },
+      {
+        "texto": "Iniciar sesión con clave AFIP/ANSES y seguir los pasos."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "5 días hábiles",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.msm.gov.ar/guia-tramites/catastro/aperturas-de-partidas-geodesia/",
+      "titulo": "Aperturas de Partidas – Geodesia - Municipalidad San Miguel",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T12:45:59.918Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del costo no se especifica en el texto, solo se menciona que depende de la Ordenanza Tarifaria y Fiscal Vigente.",
+    "No se indica si el trámite requiere turno."
+  ]
+}

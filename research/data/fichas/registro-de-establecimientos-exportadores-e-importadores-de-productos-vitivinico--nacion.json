@@ -1,0 +1,97 @@
+{
+  "tramite": {
+    "slug": "registro-de-establecimientos-exportadores-e-importadores-de-productos-vitivinicolas",
+    "nombre": "Registro de establecimientos exportadores e importadores de productos vitivinícolas",
+    "nombre_busqueda": "Registro de establecimientos exportadores e importadores de productos vitivinícolas",
+    "resumen": "Para exportar o importar vinos y/o mostos, tenés que inscribirte previamente en el Registro de Establecimientos del INV. La inscripción es definitiva y gratuita.",
+    "sinonimos": [],
+    "temas": [
+      "emprendedores-y-monotributo",
+      "comercio-e-industria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto Nacional de Vitivinicultura",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Toda persona física o jurídica que quiera exportar o importar productos vitivinícolas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia de CUIT.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia digital comprobante de inscripción ante ARCA como importador o exportador.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia digital de formulario Nº 1159 de inscripción como importador y exportador de productos vitivinícolas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia digital de los poderes o autorizaciones debidamente autenticados con las facultades otorgadas al apoderado.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma TAD."
+      },
+      {
+        "texto": "Completá los datos del solicitante."
+      },
+      {
+        "texto": "Seleccioná la Delegación del INV donde realizás el trámite."
+      },
+      {
+        "texto": "Adjuntá el formulario Nº 1159."
+      },
+      {
+        "texto": "Adjuntá poderes o autorizaciones."
+      },
+      {
+        "texto": "Hacé click en confirmar el trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/registro-de-establecimientos-exportadores-e-importadores-de-productos-vitivinicolas",
+      "titulo": "Registro de establecimientos exportadores e importadores de productos vitivinícolas | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T03:50:32.335Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T03:50:32.335Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La plataforma TAD es la que en el futuro reemplazará a la plataforma Trámites a Distancia (TAD)."
+  ]
+}

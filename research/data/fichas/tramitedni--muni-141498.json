@@ -1,0 +1,85 @@
+{
+  "tramite": {
+    "slug": "dni",
+    "nombre": "D.N.I.",
+    "nombre_busqueda": "DNI",
+    "resumen": "El DNI es un documento que identifica a los ciudadanos en Argentina. Puede ser tramitado de diferentes maneras según la situación.",
+    "sinonimos": [],
+    "temas": [
+      "dni"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141498",
+  "organismo": {
+    "nombre": "Municipalidad de Tancacha",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Ciudadanos argentinos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Robo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Deterioro",
+        "aclaracion": null
+      },
+      {
+        "texto": "Extravio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Caducidad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Recien Nacido",
+        "aclaracion": null
+      },
+      {
+        "texto": "Actualizacion 5-8 Años",
+        "aclaracion": null
+      },
+      {
+        "texto": "Actualizacion 14 Años",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cambio de Domicilio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Errores de Confeccion",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.tancacha.gob.ar/tramiteDNI.html",
+      "titulo": "Municipalidad de Tancacha",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T09:50:49.268Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los pasos detallados para cada tipo de trámite no están especificados en el texto."
+  ]
+}

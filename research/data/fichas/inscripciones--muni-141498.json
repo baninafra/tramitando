@@ -1,0 +1,72 @@
+{
+  "tramite": {
+    "slug": "inscripciones",
+    "nombre": "Inscripciones",
+    "nombre_busqueda": "Inscripciones",
+    "resumen": "La inscripción es el asiento registral que hace fe del nacimiento, matrimonio, defunciones o unión convivencial.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141498",
+  "organismo": {
+    "nombre": "Municipalidad de Tancacha",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan que hacer fe del hecho del nacimiento, matrimonio, defunciones o unión convivencial."
+    ],
+    "requisitos": [
+      {
+        "texto": "Inscripción de nacimientos",
+        "aclaracion": null
+      },
+      {
+        "texto": "Inscripción de matrimonios",
+        "aclaracion": null
+      },
+      {
+        "texto": "Inscripción de defunciones",
+        "aclaracion": null
+      },
+      {
+        "texto": "Inscripción de unión convivencial",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.tancacha.gob.ar/inscripciones.html",
+      "titulo": "Municipalidad de Tancacha",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T09:42:29.573Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina",
+    "Horarios de atención",
+    "Documentos específicos por tipo de inscripción",
+    "Costos si los hubiera",
+    "Plazos de atención",
+    "Requisitos para menores o casos especiales",
+    "Pasos detallados para realizar la inscripción",
+    "Si se requiere turno previo"
+  ]
+}

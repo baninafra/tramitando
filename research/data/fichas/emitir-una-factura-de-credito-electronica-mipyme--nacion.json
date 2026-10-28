@@ -1,0 +1,90 @@
+{
+  "tramite": {
+    "slug": "emitir-factura-credito-electronica-mipyme",
+    "nombre": "Emitir una factura de crédito electrónica MiPyME",
+    "nombre_busqueda": "Factura de crédito electrónica MiPyME",
+    "resumen": "Las MiPyMEs proveedoras de grandes empresas pueden acceder a financiamiento anticipado a través de la Factura de Crédito Electrónica MiPyME (FCEM), que mejora la certeza de cobro y facilita el acceso a crédito.",
+    "sinonimos": [
+      "Factura de crédito electrónica MiPyME",
+      "FCEM",
+      "Factura de crédito electrónica grandes empresas"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Argentina.gob.ar",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "MiPyMEs emisoras de comprobantes electrónicos a empresas grandes o a MiPyMEs adheridas como receptoras al Régimen de Factura de Crédito Electrónica MiPyME."
+    ],
+    "requisitos": [
+      {
+        "texto": "La operación corresponde a la compra-venta de bienes, locación de cosas muebles, prestación de servicios u obras.",
+        "aclaracion": null
+      },
+      {
+        "texto": "El monto total es igual o superior a 5549862, a partir del 14 de abril de 2026.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ambas partes tienen domicilio en el territorio nacional.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La MiPyME emisora registre su CBU.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la ARCA con tui CUIT y clave fiscal."
+      },
+      {
+        "texto": "Luego accedé a la sección Comprobantes en línea o al sistema de gestión con WebService."
+      },
+      {
+        "texto": "Generá la Factura de Crédito Electrónica MiPyME (FCEM) dirigida a una empresa grande o a una MiPyME adherida como receptora."
+      },
+      {
+        "texto": "Al emitirla, elegí entre: Transferirla al Agente de Depósito Colectivo (ADC) para negociarla en el Mercado de Capitales o Utilizar el Sistema de Circulación Abierta (SCA) para su descuento en el Sistema Bancario o Mercado de Capitales."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La empresa receptora tiene un plazo excepcional de 21 días corridos (hasta el 31 de octubre de 2026) para: Cancelarla, Rechazarla (solo por los motivos establecidos en el artículo 8° de la Ley 27.440) o Aceptarla expresamente.",
+      "Si no toma ninguna acción dentro del plazo, la factura se considera aceptada automáticamente (aceptación Tácita).",
+      "Una vez aceptada (explícita o tácitamente), la FCEM se convierte en un título ejecutivo y puede ser negociada en el Mercado de Capitales o en el Sistema Bancario para obtener su cobro anticipado.",
+      "Las MiPyMEs como las grandes empresas deben asegurarse de actualizar sus sistemas de facturación, para lo cual se encuentran disponibles los manuales técnicos para desarrolladores con las especificaciones necesarias para implementar el régimen correctamente."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/emitir-una-factura-de-credito-electronica-mipyme",
+      "titulo": "Emitir una Factura de Crédito Electrónica MiPyME | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-26T15:31:07.278Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa o costo de emisión no se especifica en el texto.",
+    "El plazo exacto de vigencia de la resolución que establece el monto mínimo no se especifica en el texto."
+  ]
+}

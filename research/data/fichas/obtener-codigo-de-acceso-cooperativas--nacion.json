@@ -1,0 +1,62 @@
+{
+  "tramite": {
+    "slug": "obtener-codigo-de-acceso-cooperativas",
+    "nombre": "Obtener código de acceso cooperativas",
+    "nombre_busqueda": "código de acceso cooperativas",
+    "resumen": "Es una clave que toda entidad debe contar para ingresar a la página web del INAES y realizar las transmisiones de datos y la consulta de sus trámites.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "INAE",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A Cooperativas",
+      "El representante legal deberá estar designado como Administrador de Relaciones en AFIP"
+    ],
+    "requisitos": [
+      {
+        "texto": "El representante legal deberá estar designado como Administrador de Relaciones en AFIP",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar a la plataforma TAD (Trámite a distancia) accediendo al siguiente link www.tramitesadistancia.gob.ar"
+      },
+      {
+        "texto": "Seleccionar el trámite solicitud de código de acceso"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-codigo-de-acceso-cooperativas",
+      "titulo": "Obtener Código de Acceso (Cooperativas) | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-26T22:50:11.276Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El representante legal deberá estar designado como Administrador de Relaciones en AFIP"
+  ]
+}

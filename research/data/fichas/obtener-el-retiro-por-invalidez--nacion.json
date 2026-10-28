@@ -1,0 +1,112 @@
+{
+  "tramite": {
+    "slug": "pensiones-no-contributivas-por-invalidez",
+    "nombre": "Solicitar el retiro por invalidez",
+    "nombre_busqueda": "retiro por invalidez anses",
+    "resumen": "Podés solicitar esta prestación si sos trabajador en relación de dependencia o autónomo y tenés una incapacidad laboral superior al 66%. Es gratis y requiere turno.",
+    "sinonimos": [
+      "retiro por invalidez",
+      "prestación por invalidez"
+    ],
+    "temas": [
+      "pensiones-no-contributivas-por-invalidez",
+      "discapacidad-y-accesibilidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANSES",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Trabajadores en relación de dependencia.",
+      "Trabajadores autónomos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener una incapacidad física o intelectual total del 66% o más, definida por una junta médica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "No haber alcanzado la edad y los años de aportes establecidos para acceder a la jubilación ordinaria.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cumplir con la condición de aportante regular o aportante irregular con derecho.",
+        "aclaracion": null
+      },
+      {
+        "texto": "No desempeñar cualquier actividad en relación de dependencia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI, LC, o LE. Si no contás con DNI deberás presentar constancia de DNI en trámite.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario PS.6.284 firmado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Original de estudios, diagnósticos y certificados médicos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Original de la nómina de las/los médicos que te asistieron y actualmente te asisten.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si contás con un dictamen de incapacidad por haber tenido un accidente laboral, tenés que presentarlo también.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá en Atención Virtual con tu CUIL y Clave de la Seguridad Social."
+      },
+      {
+        "texto": "Seleccioná la opción Retiro por Invalidez."
+      },
+      {
+        "texto": "Seguí los pasos."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Reuní la documentación personal y familiar correspondiente."
+      },
+      {
+        "texto": "Ingresá en una oficina de ANSES con turno previo."
+      },
+      {
+        "texto": "Llevá la documentación requerida."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-el-retiro-por-invalidez",
+      "titulo": "Obtener el retiro por invalidez | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T22:13:42.156Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica el plazo de atención ni los requisitos exactos para la condición de aportante irregular con derecho."
+  ]
+}

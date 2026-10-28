@@ -1,0 +1,72 @@
+{
+  "tramite": {
+    "slug": "estacionamiento-medido",
+    "nombre": "Estacionamiento Medido",
+    "nombre_busqueda": "Estacionamiento Medido Dolores",
+    "resumen": "Servicio de estacionamiento medido en la ciudad de Dolores que requiere la aplicación SEM Mobile para gestionar el pago y el uso de los espacios.",
+    "sinonimos": [
+      "SEM Dolores",
+      "SEM Mobile",
+      "Pago de estacionamiento"
+    ],
+    "temas": [
+      "estacionamiento-medido"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060238",
+  "organismo": {
+    "nombre": "Municipalidad de Dolores",
+    "sigla": null,
+    "web": "https://dolores.gob.ar"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que desee utilizar los espacios de estacionamiento medido en la ciudad de Dolores."
+    ],
+    "requisitos": [
+      {
+        "texto": "Aplicación SEM Mobile instalada en el dispositivo móvil.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Descargá la aplicación SEM Mobile de manera gratuita en Google Play Store."
+      },
+      {
+        "texto": "Ingresá con el mismo nombre de usuario y contraseña que utilizabas en la aplicación anterior SEM Dolores."
+      },
+      {
+        "texto": "Realizá el pago de la tasa correspondiente a través de la aplicación."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "A partir del 1 de enero de 2026, es necesario desinstalar la aplicación SEM Dolores e instalar SEM Mobile para continuar utilizando el servicio."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://dolores.gob.ar/estacionamiento/",
+      "titulo": "Estacionamiento - Municipalidad de Dolores",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T05:36:26.672Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa no se especifica en el texto.",
+    "No se detallan los requisitos específicos para casos especiales como menores o extranjeros."
+  ]
+}

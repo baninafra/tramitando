@@ -1,0 +1,138 @@
+{
+  "tramite": {
+    "slug": "deposito-en-custodia-de-obra-inedita-musica-o-letra",
+    "nombre": "Depósito en custodia de obra inédita música o letra",
+    "nombre_busqueda": "Depósito en custodia de obra inédita música o letra",
+    "resumen": "Este trámite opcional permite dejar en custodia de la DNDA la letra o la música de una obra inédita por tres años, protegiendo tu autoría. Podés hacerlo en línea o presencialmente.",
+    "sinonimos": [
+      "Depósito de obra inédita",
+      "Custodia de música o letra"
+    ],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional del Derecho de Autor",
+    "sigla": "DNDA",
+    "web": "https://www.argentina.gob.ar/servicio/deposito-en-custodia-de-obra-inedita-musica-o-letra"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Autores y/o titulares de la obra.",
+      "Cualquier persona que no sea el autor, siempre que esté apoderada a través de la plataforma TAD."
+    ],
+    "requisitos": [
+      {
+        "texto": "Comprobante de pago del trámite por depósito o transferencia bancaria de 550000 centavos al fondo cooperador ley 23.412 DNDA-SADAIC.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Una copia de la obra en cualquier soporte, dentro de un sobre cerrado de papel madera, tamaño A4 (mínimo).",
+        "aclaracion": null
+      },
+      {
+        "texto": "El sobre debe estar firmado en los puntos de cierre, por al menos uno de los autores o titulares.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos a proporcionar de los autores y/o titulares: Nombre completo, N° de cuil/cuit/cdi /Pasaporte, nacionalidad, estado civil, e-mail, teléfono, domicilio y porcentaje de titularidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de hacer depósito de letra, declarar también el nombre completo del autor/es de la música.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el autor es menor de edad: documentación que acredite vínculo, copia del DNI y constancia de CUIT, CUIL o CDI / del menor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si es autor fallecido: certificado de defunción.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresa a TAD-Depósito en custodia de obra inédita música o letra e iniciá el trámite."
+      },
+      {
+        "texto": "Completa los datos."
+      },
+      {
+        "texto": "Subí la documentación obligatoria y complementaria."
+      },
+      {
+        "texto": "El sistema te otorgará un número de Expediente Electrónico con dos carátulas: carátula de expediente y carátula variable."
+      },
+      {
+        "texto": "Para finalizar, presentá la obra (en formato cd, dvd, pendrive o papel) dentro de un sobre cerrado de papel madera, tamaño A4 (mínimo) y firmado en los puntos de cierre, identificado con título y nombre completo de el/los autores, y/o los titulares, abrochando afuera las dos carátulas ante la DNDA."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá tu obra inédita junto con las carátulas en la Sede Central de la DNDA (Moreno 1230, CABA), de lunes a viernes de 9:30 a 14:30 hs."
+      },
+      {
+        "texto": "Si tenés algún error, se te enviará una tarea de subsanación; caso contrario, se te otorgará la constancia de depósito en custodia por TAD."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "15 minutos",
+    "consejos": [
+      "Podés renovar el depósito por otros 3 años, dentro de los treinta días posteriores al vencimiento.",
+      "Si no lo renovás, la obra se destruye (Decreto 972/2024).",
+      "Para enviar por correo postal, guardá toda la documentación (carátulas y sobre que contiene la obra) en otro sobre y envíaselo a: DNDA, Moreno 1228 - C1091AAZ - Ciudad Autónoma de Buenos Aires."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 550000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/deposito-en-custodia-de-obra-inedita-musica-o-letra"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Sede Central DNDA",
+      "direccion": "Moreno 1230",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/deposito-en-custodia-de-obra-inedita-musica-o-letra"
+    },
+    {
+      "nombre": "DNDA - Correos",
+      "direccion": "Moreno 1228",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/deposito-en-custodia-de-obra-inedita-musica-o-letra"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/deposito-en-custodia-de-obra-inedita-musica-o-letra",
+      "titulo": "Depósito en custodia de obra inédita música o letra | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T04:55:40.719Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Vigencia exacta: 3 años (según texto, pero falta confirmación de fecha de inicio o resolución vigente).",
+    "Horario de atención al público para correos no especificado en el texto."
+  ]
+}

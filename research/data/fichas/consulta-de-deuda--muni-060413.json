@@ -1,0 +1,81 @@
+{
+  "tramite": {
+    "slug": "consulta-de-deuda-municipal",
+    "nombre": "Consulta de deuda tributaria municipal",
+    "nombre_busqueda": "Consulta deuda municipal",
+    "resumen": "Permite consultar la deuda tributaria del municipio de Junín a través de la plataforma Gestión Web.",
+    "sinonimos": [],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "planes-de-pago-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060413",
+  "organismo": {
+    "nombre": "Municipalidad de Junín",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas naturales y jurídicas que deseen consultar su deuda tributaria."
+    ],
+    "requisitos": [
+      {
+        "texto": "Usuario registrado en Gestión Web Junín.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma Gestión Web Junín."
+      },
+      {
+        "texto": "Registrá tu usuario si no lo tenés, aceptando la declaración jurada de veracidad de los datos."
+      },
+      {
+        "texto": "Ingresá con tu usuario y contraseña."
+      },
+      {
+        "texto": "Buscá el trámite de consulta de deuda tributaria."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si no podés validar automáticamente tu identidad, tu caso será procesado manualmente y recibirás una respuesta en la casilla de correo en 72 horas hábiles.",
+      "El correo de verificación puede demorar hasta 5 minutos en llegar."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://gestionweb.junin.gob.ar/",
+      "titulo": "Gestión web",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T14:01:34.896Z"
+    },
+    {
+      "url": "https://gestionweb.junin.gob.ar/registro;jsessionid=rHa2QWPn2g4QlutTuy7iLNgGaJWVSBVnvJnZJ3S8.ubuntuserver",
+      "titulo": "Gestión web",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:01:34.896Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos, plazos de respuesta exactos ni requisitos adicionales más allá del registro en la plataforma."
+  ]
+}

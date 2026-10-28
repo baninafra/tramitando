@@ -1,0 +1,99 @@
+{
+  "tramite": {
+    "slug": "reclamos-vecinales",
+    "nombre": "Centro de mediación comunitaria",
+    "nombre_busqueda": "Centro de mediación comunitaria",
+    "resumen": "El Municipio creó el Centro de Mediación Comunitaria para resolver conflictos entre vecinos y arribar a acuerdos evitando instancias judiciales.",
+    "sinonimos": [
+      "Centro de mediación vecinal",
+      "Mediación comunitaria Campana"
+    ],
+    "temas": [
+      "reclamos-vecinales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060126",
+  "organismo": {
+    "nombre": "Municipalidad de Campana",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Vecinos con domicilio en Campana."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de solicitud de mediación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotografía del formulario firmado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotografía del DNI (frente y dorso).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Complete el formulario de solicitud de mediación."
+      },
+      {
+        "texto": "Firmé el formulario."
+      },
+      {
+        "texto": "Escaneé el formulario y saqué una fotografía."
+      },
+      {
+        "texto": "Saqué una fotografía del DNI (frente y dorso)."
+      },
+      {
+        "texto": "Envíé todo por mail a cmc@campana.gov.ar."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Solicité turno al número 11-34406317."
+      },
+      {
+        "texto": "Presenté el formulario, la fotografía del mismo firmado, la fotografía del DNI y fui a la sede."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Centro de Mediación Comunitaria",
+      "direccion": "Jacob 662",
+      "localidad": "Jacob 662",
+      "horario": null,
+      "fuente_url": "https://www.campana.gob.ar/centro-de-mediacion-comunitaria/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.campana.gob.ar/centro-de-mediacion-comunitaria/",
+      "titulo": "Centro de Mediación Comunitaria – Municipalidad de Campana",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T11:31:10.684Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el plazo de resolución del conflicto.",
+    "No se especifica si el trámite requiere turno presencial o virtual."
+  ]
+}

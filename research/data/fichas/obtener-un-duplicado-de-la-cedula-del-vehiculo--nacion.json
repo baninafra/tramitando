@@ -1,0 +1,113 @@
+{
+  "tramite": {
+    "slug": "tramitar-duplicado-de-cedula-del-vehiculo",
+    "nombre": "Sacar el duplicado de la cédula del vehículo",
+    "nombre_busqueda": "duplicado cédula vehículo",
+    "resumen": "Si extraviaste, te robaron o se deterioró la cédula de tu auto o moto, podés tramitar el duplicado en línea y retirarlo en el Registro de Propiedad Automotor.",
+    "sinonimos": [
+      "duplicado cédula auto",
+      "cédula duplicada vehículo"
+    ],
+    "temas": [
+      "cedula-del-vehiculo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro de Propiedad Automotor",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Propietarios de autos o motos que hayan sufrido la pérdida, robo o deterioro de la cédula del vehículo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento identificatorio: DNI (LC o LE solo si tenés más de 75 años) si sos argentino; pasaporte si sos extranjero sin residencia; DNI si sos extranjero con residencia permanente; dni, ci, ci del país de origen o pasaporte si sos de países limítrofes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título del automotor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si sos el representante legal o apoderado, deberás presentar documentos que prueben esa representación que invocás.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si hay deterioro total o parcial de la cédula del vehículo, tendrás que llevarla al Registro cuando completes el trámite en forma presencial.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá la Solicitud electrónica (buscá aquí el trámite llamado duplicado de cédula) y continuá luego el trámite de manera presencial en el Registro."
+      },
+      {
+        "texto": "Aboná en línea los aranceles del trámite."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación en el Registro donde está radicado el vehículo y pagá allí los aranceles si no los pagaste en línea."
+      },
+      {
+        "texto": "Allí te entregarán unos formularios para que completes: Solicitud Tipo TP (la misma que completaste en línea, solo que en el registro la imprimirán y la deberás firmar)."
+      },
+      {
+        "texto": "Formulario 59: solo en caso de que el trámite lo realice un tercero, deberás completar este formulario."
+      },
+      {
+        "texto": "Retirá la nueva cédula del vehículo al día siguiente."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "24 horas",
+    "consejos": [
+      "La cédula del vehículo no tiene vencimiento para el titular.",
+      "Cuando el vehículo sea conducido por un tercero, su validez es de uno o tres años, de acuerdo con la fecha de expedición que consta en ella.",
+      "El Formulario 02 es gratuito solo si certificás la firma ante el Registro Seccional y presentás el trámite en ese momento."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-un-duplicado-de-la-cedula-del-vehiculo",
+      "titulo": "Obtener un duplicado de la cédula del vehículo | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T06:50:25.243Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-una-adicional-de-la-cedula-del-vehiculo",
+      "titulo": "Solicitar una adicional de la cédula del vehículo | Argentina.gob.ar",
+      "bloques": [
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T06:50:25.243Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T06:50:25.243Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los aranceles varían en función de si el vehículo es una moto o un auto. Los aranceles involucrados son: Cédula - Duplicado. Certificado de firma. Formulario TP. Solicitud deuda / multa / infracción. Formulario 13. Buscá estos aranceles en la guía, de acuerdo con la categoría de tu vehículo.",
+    "Si te corresponde: hacé la verificación física del vehículo en una planta habilitada."
+  ]
+}

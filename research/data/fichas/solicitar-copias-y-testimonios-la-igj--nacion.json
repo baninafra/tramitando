@@ -1,0 +1,90 @@
+{
+  "tramite": {
+    "slug": "solicitar-copias-y-testimonios-la-igj",
+    "nombre": "Solicitar copias y testimonios a la IGJ",
+    "nombre_busqueda": "Solicitar copias y testimonios a la IGJ",
+    "resumen": "Podés solicitar copias simples y certificadas de estatutos, inscripciones y balances de sociedades comerciales a través de la plataforma Trámites a Distancia (TAD). El trámite requiere habilitar el servicio ARCA y pagar una tasa según el tipo de trámite.",
+    "sinonimos": [
+      "Copias de sociedades comerciales IGJ",
+      "Testimonios de sociedades comerciales",
+      "Copias certificadas IGJ"
+    ],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": "IGJ",
+    "web": "https://www.argentina.gob.ar/servicio/solicitar-copias-y-testimonios-la-igj"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Sociedades comerciales con número correlativo mayor a 1.000.000.",
+      "Sociedades comerciales con número correlativo menor a 1.000.000.",
+      "Entidades civiles."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener habilitado el servicio Trámites a Distancia (TAD) a través de ARCA (clave fiscal nivel 2 o superior).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar un formulario por cada trámite a certificar si se solicitan únicamente inscripciones puntuales y aisladas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acompañar nuevos formularios debidamente timbrados (uno cada 100 copias) si el requerimiento supera las 100 fojas.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD."
+      },
+      {
+        "texto": "Seleccioná el trámite Copias y Testimonios."
+      },
+      {
+        "texto": "Completá el formulario y abonalo."
+      },
+      {
+        "texto": "Retirá la información solicitada, notificaciones y observaciones desde la casilla del usuario TAD."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Este trámite puede ser realizado mediante procedimiento urgente únicamente para las sociedades comerciales con número correlativo mayor a 1.000.000.",
+      "Para copias certificadas de sociedades comerciales con número correlativo a partir de 1.000.000, el límite es de 100 copias.",
+      "Para copias certificadas de sociedades comerciales con número correlativo menor a 1.000.000 y entidades civiles, el límite es de 100 copias.",
+      "Para balances, deberás contar con la fecha de cierre de los estados contables."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-copias-y-testimonios-la-igj",
+      "titulo": "Solicitar copias y testimonios a la IGJ | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:07:55.747Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica el monto exacto en centavos para el trámite común ni urgente, solo indica la cantidad de módulos.",
+    "El texto no especifica el plazo de entrega del trámite.",
+    "El texto no especifica si el trámite requiere turno."
+  ]
+}

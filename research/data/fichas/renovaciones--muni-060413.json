@@ -1,0 +1,85 @@
+{
+  "tramite": {
+    "slug": "renovacion-licencia-de-conducir",
+    "nombre": "Renovar la licencia de conducir",
+    "nombre_busqueda": "renovación de licencia de conducir en Junín",
+    "resumen": "La página indica qué documentación tenés que presentar para renovar una licencia de conducir particular o profesional.",
+    "sinonimos": [
+      "renovación de registro de conducir"
+    ],
+    "temas": [
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060413",
+  "organismo": {
+    "nombre": "Gobierno de Junín",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes renuevan una licencia de conducir de categoría particular o profesional."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Licencia vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Antecedentes penales.",
+        "aclaracion": "Si renovás una licencia de categoría profesional. Hacé este trámite 48 horas antes."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación indicada para tu categoría."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si renovás una licencia profesional, realizá el trámite de antecedentes penales 48 horas antes."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Licencia de Conducir",
+      "direccion": "Belgrano 43",
+      "localidad": "Junín (B)",
+      "horario": null,
+      "fuente_url": "https://www.junin.gob.ar/programa/renovaciones"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.junin.gob.ar/programa/renovaciones",
+      "titulo": "Renovaciones | Gobierno de Junín",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T13:58:07.230Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no informa los pasos completos para renovar la licencia.",
+    "El texto no indica si hace falta sacar turno.",
+    "El texto no indica el plazo de entrega ni el costo."
+  ]
+}

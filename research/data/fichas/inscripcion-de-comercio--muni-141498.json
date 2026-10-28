@@ -1,0 +1,90 @@
+{
+  "tramite": {
+    "slug": "inscripcion-de-comercio",
+    "nombre": "Inscribir comercio",
+    "nombre_busqueda": "Inscribir comercio",
+    "resumen": "Para inscribir un comercio en Tancacha, necesitás presentarte en el palacio municipal con varios documentos y pagar una tasa.",
+    "sinonimos": [],
+    "temas": [
+      "comercio-e-industria",
+      "habilitacion-comercial"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141498",
+  "organismo": {
+    "nombre": "Municipalidad de Tancacha",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Sr. contribuyente"
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota por duplicado solicitando apertura del comercio, indicando fecha, nombre de fantasía del local y rubro",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia constancia de CUIL",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia constancia de AFIP, monotributo o responsable inscripto según corresponda",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia contrato alquiler, planos de obra de gas y /o vivienda (caso de alquilar)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en el palacio municipal de 7 a 13 hs."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 700000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.tancacha.gob.ar/altaComercio.html"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.tancacha.gob.ar/altaComercio.html",
+      "titulo": "Municipalidad de Tancacha",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T12:11:39.699Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horario de atención en la página web no coincide con el horario mencionado en el texto (7 a 13 hs)",
+    "Dirección exacta del palacio municipal",
+    "Localidad donde se encuentra el palacio municipal",
+    "Si se requiere turno para realizar el trámite",
+    "Plazo de atención del trámite",
+    "Si el trámite se puede realizar por internet"
+  ]
+}

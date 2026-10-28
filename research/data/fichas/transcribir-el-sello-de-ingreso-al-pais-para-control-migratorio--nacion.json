@@ -1,0 +1,96 @@
+{
+  "tramite": {
+    "slug": "transcribir-sello-ingreso-pais",
+    "nombre": "Transcribir el sello de ingreso al país",
+    "nombre_busqueda": "Transcribir sello ingreso país",
+    "resumen": "Transcribí el sello de ingreso al país inserto en la documentación de viaje con la que entraste al país, en otra documentación de viaje obtenida, ya sea por robo, extravío o vencimiento.",
+    "sinonimos": [
+      "Transcribir sello de ingreso",
+      "Transcribir sello de entrada al país"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Migraciones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El trámite es de forma personal o a través de un tercero con poder suficiente para actuar en su nombre."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nuevo pasaporte emitido por autoridad competente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia certificada de la documentación anterior (si la tenés).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Denuncia policial (en caso de robo o extravío de la documentación con la que ingresaste al país).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia correspondiente que acredite tu ingreso.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el nuevo pasaporte emitido por autoridad competente."
+      },
+      {
+        "texto": "Acreditá tu ingreso mediante la constancia correspondiente."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/transcribir-el-sello-de-ingreso-al-pais-para-control-migratorio",
+      "titulo": "Transcribir el sello de ingreso al país para control migratorio | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-28T00:44:37.791Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T00:44:37.791Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/",
+      "titulo": "Inicio | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T00:44:37.791Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de las oficinas (Dirección Nacional de Migraciones y Delegaciones del interior del país).",
+    "Horario de atención específico (se menciona 8:00 a 21:00 hs pero no se confirma si aplica a todos los casos o es general).",
+    "Monto exacto de la tasa migratoria (se indica que hay un cuadro de tasas pero no se especifica el valor).",
+    "Vigencia del trámite (se menciona vencimiento de documentación pero no hay fecha de vigencia del trámite).",
+    "Si se requiere turno para realizar el trámite."
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "tramite": {
+    "slug": "dar-respuesta-notificaciones-de-la-gerencia-de-evaluacion",
+    "nombre": "Dar respuesta a notificaciones de la Gerencia de Evaluación",
+    "nombre_busqueda": "Dar respuesta a notificaciones de la Gerencia de Evaluación",
+    "resumen": "Las entidades aseguradoras o reaseguradoras pueden responder notificaciones de la SSN fuera de un trámite TAD usando su usuario de acceso a Trámites a Distancia (TAD) y clave fiscal.",
+    "sinonimos": [],
+    "temas": [
+      "legalizaciones-y-apostillados"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Seguros de la Nación",
+    "sigla": "SSN",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Las entidades aseguradoras o reaseguradoras."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener usuario de acceso a Trámites a Distancia (TAD).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota o documentación respaldatoria de la respuesta.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD, trámite Respuestas a notificaciones de la Gerencia de Evaluación, con clave fiscal."
+      },
+      {
+        "texto": "Operá como apoderado de la entidad a la que representás."
+      },
+      {
+        "texto": "Completá el formulario indicando el código SSN, el nombre de la compañía, el N.º GDE de la notificación recibida, el tema por el que fue notificado, el destinatario y un breve resumen de la respuesta."
+      },
+      {
+        "texto": "Adjuntá la nota o documentación respaldatoria de la respuesta."
+      },
+      {
+        "texto": "Confirmá el trámite."
+      },
+      {
+        "texto": "El apoderado firma el trámite a través de la pestaña MIS TRÁMITES."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Finalizado el proceso se creará formalmente el trámite con número de expediente. El trámite generado pasa a la SSN. La Superintendencia analizará la respuesta a la notificación y, si el Organismo requiere más información u otra documentación, se notificará por medio de TAD."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/dar-respuesta-notificaciones-de-la-gerencia-de-evaluacion",
+      "titulo": "Dar respuesta a notificaciones de la Gerencia de Evaluación | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T05:27:54.217Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica el plazo de respuesta ni el monto exacto en centavos, solo indica que es gratuito y permanente."
+  ]
+}

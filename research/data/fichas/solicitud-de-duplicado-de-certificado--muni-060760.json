@@ -1,0 +1,85 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-duplicado-de-certificado",
+    "nombre": "Solicitud de duplicado de certificado",
+    "nombre_busqueda": "Duplicado de certificado habilitación",
+    "resumen": "Para obtener un duplicado del Certificado de Habilitación cuando el original se extravió, se debe presentar documentación específica en la oficina de la municipalidad.",
+    "sinonimos": [
+      "Duplicado de habilitación",
+      "Certificado de habilitación nuevo"
+    ],
+    "temas": [
+      "habilitacion-comercial"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060760",
+  "organismo": {
+    "nombre": "Municipalidad San Miguel",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titular de un comercio que extravió su Certificado de Habilitación."
+    ],
+    "requisitos": [
+      {
+        "texto": "Resolución de Habilitación o Foto del Certificado de Habilitación original",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contrato de Locación, Comodato, o Boleto de Compra Venta",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de solicitud",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación requerida en la oficina."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "48 horas hábiles",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.msm.gov.ar/guia-tramites/habilitaciones/solicitud-de-duplicado-de-certificado/",
+      "titulo": "Solicitud de duplicado de certificado - Municipalidad San Miguel",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T13:34:38.461Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horarios de atención: De lunes a viernes de 8:00 a 14:00 hs.",
+    "WhatsApp de Ayuda en Línea: 11 3884-9649",
+    "Respaldo legal: Ordenanza Municipal 30/2019",
+    "Nombre de la oficina: Oficina en Sarmiento 1686",
+    "Vigencia del trámite: Ordenanza Municipal 30/2019",
+    "Requisitos para menores o casos especiales",
+    "Costos del trámite",
+    "Ubicación exacta de la oficina más allá de la calle",
+    "Procedimiento para sacar turno si aplica"
+  ]
+}

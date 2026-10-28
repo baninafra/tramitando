@@ -1,0 +1,131 @@
+{
+  "tramite": {
+    "slug": "actualizar-matricula-de-martillero-o-corredor",
+    "nombre": "Actualizar matrícula de martillero o corredor",
+    "nombre_busqueda": "Actualizar matrícula martillero corredor",
+    "resumen": "Actualizá tu matrícula de martillero o corredor en línea desde la plataforma TAD presentando el seguro de caución y el certificado de vigencia.",
+    "sinonimos": [
+      "Renovar matrícula martillero",
+      "Actualizar matrícula corredor",
+      "Seguro de caución martillero"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": "IGJ",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Martilleros inscriptos en la Inspección General de Justicia de la Ciudad Autónoma de Buenos Aires."
+    ],
+    "requisitos": [
+      {
+        "texto": "Datos del Matriculado (Nombre, CUIT, correlativo IGJ)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copía digital del Seguro de Caución",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copía digital del Formulario y Comprobante de pago",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al Sistema de Formularios Digitales de IGJ."
+      },
+      {
+        "texto": "Seleccioná el tipo de Matrícula correspondiente (Martillero o Martillero y Corredor)."
+      },
+      {
+        "texto": "Buscá y seleccioná el tipo de trámite 'Matrícula, Certificado de Vigencia y Seguro de Caución'."
+      },
+      {
+        "texto": "Verificá los datos del trámite, monto y confirmá."
+      },
+      {
+        "texto": "Completá los Datos del Matriculado, identificándolo en la base de datos IGJ mediante el Número Correlativo o Nombre."
+      },
+      {
+        "texto": "Seleccioná la forma de pago y guardá el comprobante en PDF."
+      },
+      {
+        "texto": "Ingresá en la Plataforma TAD."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 12000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/actualizar-matricula-de-martillero-o-corredor"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 48000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/actualizar-matricula-de-martillero-o-corredor"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 20000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/actualizar-matricula-de-martillero-o-corredor"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 80000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/actualizar-matricula-de-martillero-o-corredor"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/actualizar-matricula-de-martillero-o-corredor",
+      "titulo": "Actualizar matrícula de Martillero o Corredor | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:21:33.897Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/justicia/igj/calculador-modulos",
+      "titulo": "Calculá el costo de los trámites de IGJ | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T04:21:33.897Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del nuevo valor del módulo IGJ ($ 1.500) es 08/04/2024, pero no se especifica una fecha de vigencia actual para el trámite."
+  ]
+}

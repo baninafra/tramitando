@@ -1,0 +1,73 @@
+{
+  "tramite": {
+    "slug": "activar-estacionamiento-inteligente",
+    "nombre": "Activar estacionamiento inteligente",
+    "nombre_busqueda": "Activar estacionamiento inteligente",
+    "resumen": "Activá o finalizá tu estadía en espacios de estacionamiento habilitados de cobro a través de la APP Mi Muni o en comercios.",
+    "sinonimos": [
+      "Activar estacionamiento",
+      "Finalizar estacionamiento",
+      "Usar estacionamiento inteligente"
+    ],
+    "temas": [
+      "estacionamiento-medido"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060638",
+  "organismo": {
+    "nombre": "Municipalidad del Pilar",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que haya estacionado su vehículo en un lugar habilitado de cobro."
+    ],
+    "requisitos": [
+      {
+        "texto": "Descargar la APP Mi Muni y seguir los pasos correspondientes.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Activá o finalizá el estacionamiento desde la APP Mi Muni."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 375000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://pilar.gov.ar/tramites/estacionamiento-inteligente/"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://pilar.gov.ar/tramites/estacionamiento-inteligente/",
+      "titulo": "Estacionamiento Inteligente - Municipio Pilar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T16:21:42.988Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica si el trámite requiere turno."
+  ]
+}

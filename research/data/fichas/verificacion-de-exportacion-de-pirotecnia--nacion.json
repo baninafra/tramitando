@@ -1,0 +1,94 @@
+{
+  "tramite": {
+    "slug": "verificacion-de-exportacion-de-pirotecnia",
+    "nombre": "Verificación de exportación de pirotecnia",
+    "nombre_busqueda": "Verificación de exportación de pirotecnia",
+    "resumen": "Antes de sacar la pirotecnia del país, tenés que presentar la solicitud de verificación con la Ficha de Datos Técnicos, la lista de empaque y copias de las autorizaciones correspondientes.",
+    "sinonimos": [],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración Nacional de Medicamentos, Alimentos y Tecnología Química",
+    "sigla": "ANMaC",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Los exportadores."
+    ],
+    "requisitos": [
+      {
+        "texto": "Ficha de datos técnicos (FDT) N° 7, por duplicado, suscriptas por el representante legal o titular con certificación de firma en imprenta, sin espacios en blanco ni corrector, consignando el número de Autorización de Importación que la ampara.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Permiso de embarque oficializado o permiso de embarque provisorio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Lista de Empaque (Packing List) indicando los números con los datos técnicos correspondientes dependientes del medio de transporte (aéreo, marítimo o terrestre), Nº de contenedores y detalle de la mercadería (bultos, pallets, etc.) contenida en cada uno con su número de código y riesgo principal de…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copias de la Autorización de exportación oportunamente emitida por la ANMaC.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copias de la habilitación del vehículo para el transporte de sustancias peligrosas (para transporte terrestre).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "Verificación de exportación de pirotecnia",
+      "gratis": false,
+      "monto_centavos": 100000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/verificacion-de-exportacion-de-pirotecnia"
+    },
+    {
+      "modalidad": "Solicitud de Habilitación de Verificación de Exportación Fuera de Horario",
+      "gratis": false,
+      "monto_centavos": 50000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/verificacion-de-exportacion-de-pirotecnia"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/verificacion-de-exportacion-de-pirotecnia",
+      "titulo": "Verificación de exportación de pirotecnia | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T19:15:46.504Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el plazo de tiempo para realizar la verificación.",
+    "No se especifica si el trámite se puede realizar en línea o solo presencialmente.",
+    "No se especifica si se requiere sacar turno."
+  ]
+}

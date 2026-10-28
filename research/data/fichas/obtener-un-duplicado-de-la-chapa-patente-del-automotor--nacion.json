@@ -1,0 +1,91 @@
+{
+  "tramite": {
+    "slug": "obtener-un-duplicado-de-la-chapa-patente-del-automotor",
+    "nombre": "Obtener un duplicado de la chapa patente del automotor",
+    "nombre_busqueda": "duplicado chapa patente auto",
+    "resumen": "Si perdiste, te robaron o se deterioró la chapa de tu auto o moto, debés realizar el trámite para su reposición. Se puede hacer semipresencialmente o presencialmente.",
+    "sinonimos": [
+      "Reposición de placa metálica",
+      "Duplicado de chapa de vehículo"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro de la Propiedad Automotor",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Propietarios/as de autos o motos cuya chapa patente se haya deteriorado o haya sido robada."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento identificatorio: DNI (si sos argentino), pasaporte (si sos extranjero sin residencia), DNI (si sos extranjero con residencia permanente), dni, ci, ci del país de origen o pasaporte (si sos de países limítrofes).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título del vehículo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cédulas del vehículo. Si la pérdida o el robo afectó solamente a una de las placas, deberás presentar la restante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si sos el representante legal o apoderado, deberás presentar documentos que prueben esa representación que invocás.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá la Solicitud electrónica, buscando el trámite llamado reposición de placa metálica, para luego complementar la tramitación de manera presencial en el Registro."
+      },
+      {
+        "texto": "De forma opcional: podés abonar en línea."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate al registro con la documentación correspondiente y completá allí los formularios que te van a entregar: Solicitud TP Formulario 59 (solo en caso de que el trámite lo realice un tercero) o Formulario 02 (Formulario 59 solo en caso de que el trámite lo realice un tercero)."
+      },
+      {
+        "texto": "Pagá allí los aranceles."
+      },
+      {
+        "texto": "Te entregarán unas placas provisorias de papel en letras y números rojos, hasta la entrega de los duplicados de la chapa patente."
+      },
+      {
+        "texto": "Retirá las chapas definitivas en el plazo que te indiquen en el Registro."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-un-duplicado-de-la-chapa-patente-del-automotor",
+      "titulo": "Obtener un duplicado de la chapa patente del automotor | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T06:52:57.643Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica el monto exacto en centavos, solo dice que varían según el vehículo y que el Formulario 02 es gratuito si certificás la firma ante el Registro Seccional y presentás el trámite en ese momento."
+  ]
+}

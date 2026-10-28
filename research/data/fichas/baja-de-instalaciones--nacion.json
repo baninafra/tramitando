@@ -1,0 +1,83 @@
+{
+  "tramite": {
+    "slug": "baja-de-instalaciones",
+    "nombre": "Baja de instalaciones",
+    "nombre_busqueda": "Baja de instalaciones ANMaC",
+    "resumen": "Para solicitar la baja de instalaciones ante ANMaC, necesitás presentar documentación específica, pagar un arancel y cumplir con inspecciones policiales.",
+    "sinonimos": [],
+    "temas": [
+      "instalaciones-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMaC",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Las personas físicas o jurídicas inscriptas en este rubro que cesen sus actividades."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de solicitud especificando la petición, indicando rubros y documentación que se agrega, firmada por representante legal, con firma debidamente certificada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de habilitación original otorgado por la ANMaC.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Inspección policial certificando la inexistencia de explosivos en las instalaciones.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Libro de movimientos de explosivos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota en carácter de declaración jurada expresando que no posee el libro de movimientos de explosivos, en caso de no tenerlo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/baja-de-instalaciones"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/baja-de-instalaciones",
+      "titulo": "Baja de instalaciones | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T15:21:35.712Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia de la resolución que fija el arancel."
+  ]
+}

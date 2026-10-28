@@ -1,0 +1,65 @@
+{
+  "tramite": {
+    "slug": "reemplazo-de-licencia",
+    "nombre": "Reemplazo de Licencia",
+    "nombre_busqueda": "Reemplazo de Licencia",
+    "resumen": "Para obtener un reemplazo de licencia de conducir en Escobar, necesitás tu licencia actual y el pago de la tasa correspondiente.",
+    "sinonimos": [
+      "Renovación de licencia",
+      "Licencia vencida"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060252",
+  "organismo": {
+    "nombre": "Municipio de Escobar",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que tenga una licencia de conducir vigente o vencida."
+    ],
+    "requisitos": [
+      {
+        "texto": "Licencia de conducir original o fotocopia.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá tu licencia de conducir original o fotocopia."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://escobar360.escobar.gob.ar/login.aspx",
+      "titulo": "Escobar 360°",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T11:40:06.233Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se desconoce el monto de la tasa para el reemplazo de licencia.",
+    "Se desconoce si el trámite requiere agendar turno.",
+    "Se desconoce el plazo de entrega del documento.",
+    "Se desconoce la dirección de la oficina donde se realiza el trámite."
+  ]
+}

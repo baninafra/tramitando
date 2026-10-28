@@ -1,0 +1,105 @@
+{
+  "tramite": {
+    "slug": "realizar-controles-aduaneros-y-recibir-la-asignacion-de-canal",
+    "nombre": "Realizar controles aduaneros y recibir la asignación de canal",
+    "nombre_busqueda": "Control aduanero exportación canal verde naranja rojo",
+    "resumen": "El despachante presenta la destinación oficializada y la documentación complementaria ante el Servicio Aduanero para que verifique la realidad de la operación y asigne el canal de selectividad (verde, naranja o rojo).",
+    "sinonimos": [
+      "Control aduanero exportación",
+      "Asignación de canal aduanero",
+      "Verificación preliminar aduanera"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Servicio Aduanero",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Exportadores",
+      "Despachantes de Aduana"
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario OM-1993-A SIM en estado oficializado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Sobre contenedor verde OM-2133 SIM con la firma del declarante",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario OM-1993/2 SIM (hoja de valor de la mercadería)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Lista de empaque o detalle del contenido con nombre del exportador, contenido de cada bulto, tipo y cantidad, peso de los bultos, número de destinación y manifestación de si embarcás igual cantidad de unidades a la declarada bajo la fórmula Conforme cantidad de unidades con tilde en SI o NO",
+        "aclaracion": null
+      },
+      {
+        "texto": "Factura comercial electrónica E si la Aduana la pide o se usa en reemplazo de la lista de empaque siempre y cuando contenga la misma información que ésta debe incluir",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorizaciones de terceros organismos involucrados en caso de corresponder por ejemplo el SENASA",
+        "aclaracion": null
+      },
+      {
+        "texto": "Hoja de ruta para cargas terrestres que detalla las principales ciudades y rutas por las cuales transita el medio de transporte y el plazo para efectuar el recorrido previsto con destino a la Aduana de salida",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancias de control de peso o volumen firmadas por el personal aduanero interviniente cuando se venda por unidad de peso o volumen",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "El despachante se presenta ante el Servicio Aduanero con la destinación oficializada y la documentación exigida para el examen preliminar"
+      },
+      {
+        "texto": "Verificar la presencia real de la documentación exigida para la exportación"
+      },
+      {
+        "texto": "Verificar la coincidencia entre los datos de la declaración y los declarados en el sistema"
+      },
+      {
+        "texto": "Firmar en el permiso de embarque Formulario OM-1993A SIM y en el sobre contenedor OM-2133 SIM"
+      },
+      {
+        "texto": "El Servicio Aduanero efectúa la presentación de la destinación de exportación y el sistema SIM asigna automáticamente el canal de selectividad verde naranja o rojo"
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La vigencia del trámite es la misma de la solicitud de destinación de exportación contando a partir del día de su registro"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/realizar-controles-aduaneros-y-recibir-la-asignacion-de-canal",
+      "titulo": "Realizar controles aduaneros y recibir la asignación de canal | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:07:43.560Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica el plazo exacto de duración del trámite ni el monto de costos en centavos de peso"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "tramite": {
+    "slug": "registro-municipal-de-acceso-a-la-vivienda",
+    "nombre": "Registro Municipal de Acceso a la Vivienda",
+    "nombre_busqueda": "Registro Municipal de Acceso a la Vivienda",
+    "resumen": "Es un registro para personas que viven en la ciudad y tienen acceso a la vivienda propia.",
+    "sinonimos": [],
+    "temas": [
+      "vivienda-y-servicios-del-hogar",
+      "planes-de-vivienda-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060147",
+  "organismo": {
+    "nombre": "Municipalidad de Carlos Casares",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que viven en la ciudad y tienen acceso a la vivienda propia."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original y copia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago de la tasa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de la cédula de identidad.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Llevá tu DNI original y copia."
+      },
+      {
+        "texto": "Llevá el comprobante de pago de la tasa."
+      },
+      {
+        "texto": "Llevá la fotocopia de la cédula de identidad."
+      },
+      {
+        "texto": "Presentá los documentos en la oficina."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://casares.gob.ar/vivienda-propia/",
+      "titulo": "Vivienda Propia – Municipalidad de Carlos Casares",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T11:09:28.768Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere verificar si el trámite se puede realizar completamente online o solo presencialmente.",
+    "Se requiere confirmar si se necesita sacar turno y cómo hacerlo.",
+    "Se requiere confirmar el monto exacto de la tasa en centavos.",
+    "Se requiere confirmar si hay plazos de espera específicos."
+  ]
+}

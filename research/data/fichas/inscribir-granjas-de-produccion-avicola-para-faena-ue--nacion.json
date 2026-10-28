@@ -1,0 +1,90 @@
+{
+  "tramite": {
+    "slug": "inscripcion-granjas-produccion-avicola-faena-ue",
+    "nombre": "Inscribir granjas de producción avícola para faena a UE",
+    "nombre_busqueda": "Inscribir granjas avícolas para exportar a la Unión Europea",
+    "resumen": "Para exportar productos avícolas a la Unión Europea, los productores o empresas deben inscribir su establecimiento ante el Senasa mediante la Plataforma Trámites a Distancia.",
+    "sinonimos": [
+      "Inscripción de granjas avícolas para exportación a la UE",
+      "Registro de establecimientos avícolas para faena a la Unión Europea"
+    ],
+    "temas": [
+      "produccion-rural"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Productores o empresas interesados en exportar sus productos a la Unión Europea."
+    ],
+    "requisitos": [
+      {
+        "texto": "Datos del trámite.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitud de inscripción de establecimientos avícolas - faena Unión Europea.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la Plataforma Trámites a Distancia - TAD."
+      },
+      {
+        "texto": "Completá los datos solicitados."
+      },
+      {
+        "texto": "Subí la documentación solicitada."
+      },
+      {
+        "texto": "Al confirmar el trámite el sistema otorgará un número de expediente que lo identifica y también se podrá observar cada uno de los documentos que se adjuntaron y conforman el trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Para realizar este trámite necesitás declarar tu domicilio electrónico. Los usuarios externos que utilicen servicios o se encuentren inscriptos en registros del SENASA deberán constituirlo mediante el sistema SIGTrámites."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribir-granjas-de-produccion-avicola-para-faena-ue",
+      "titulo": "Inscribir granjas de producción avícola para faena a UE | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T17:06:07.364Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T17:06:07.364Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no se especifica en el texto, solo se indica que se debe abonar el arancel correspondiente.",
+    "La fecha de vigencia del trámite no se especifica en el texto, solo se menciona la Resolución Senasa N° 565/2015."
+  ]
+}

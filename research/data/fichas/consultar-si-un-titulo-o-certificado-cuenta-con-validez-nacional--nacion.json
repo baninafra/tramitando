@@ -1,0 +1,68 @@
+{
+  "tramite": {
+    "slug": "validacion-y-equivalencia-de-titulos",
+    "nombre": "Consultar si un título o certificado cuenta con validez nacional",
+    "nombre_busqueda": "validez nacional titulo certificado",
+    "resumen": "Consultá el alcance de un título o certificado educativo de forma gratuita con la Dirección de Validez Nacional de Títulos y Estudios.",
+    "sinonimos": [],
+    "temas": [
+      "educacion-y-estudios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección de Validez Nacional de Títulos y Estudios",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Estudiantes",
+      "Padres",
+      "Cualquier persona interesada"
+    ],
+    "requisitos": [
+      {
+        "texto": "Denominación completa del título y/o certificado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Institución educativa emisora (ciudad/ provincia)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Normativa aprobatoria del diseño curricular (plan de estudios) y la cohorte (año de inicio de los estudios)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Toda información que consideres necesaria",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consultar-si-un-titulo-o-certificado-cuenta-con-validez-nacional",
+      "titulo": "Consultar si un título o certificado cuenta con validez nacional | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T05:23:53.723Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El método de envío no se especifica en el texto, solo se indica que se debe comunicar por correo electrónico."
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "tramite": {
+    "slug": "transportar-semilla-en-proceso-de-fiscalizacion",
+    "nombre": "Transportar semilla en proceso de fiscalización",
+    "nombre_busqueda": "transportar semilla fiscalizada",
+    "resumen": "Para mover lotes de semilla fiscalizada desde la cosecha hasta la planta de procesamiento, el interesado debe generar un Documento Identificatorio de Semilla Fiscalizada en Tránsito (DISFT) y realizar el pago correspondiente.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto Nacional de Semillas",
+    "sigla": "INASE",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Persona física o jurídica inscripta y con la anualidad vigente en el Registro Nacional del Comercio y Fiscalización de Semillas (RNCyFS) para las categorías: Criadero Semillero, Productor, Procesador."
+    ],
+    "requisitos": [
+      {
+        "texto": "Instructivo de Generación de Anexo I",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitud INASE",
+        "aclaracion": null
+      },
+      {
+        "texto": "Transferencia de Pago vía eRecauda",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Generá el Documento Identificatorio de Semilla Fiscalizada en Tránsito (DISFT) mediante el Sistema de Gestión Online."
+      },
+      {
+        "texto": "Realizá la transferencia de pago vía eRecauda."
+      },
+      {
+        "texto": "Enviar la solicitud completa y el comprobante VEP del pago al correo electrónico de INASE."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 589100,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/transportar-semilla-en-proceso-de-fiscalizacion"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/transportar-semilla-en-proceso-de-fiscalizacion",
+      "titulo": "Transportar Semilla en Proceso de Fiscalización | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T01:06:27.891Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La vigencia del trámite no está especificada en el texto.",
+    "No se indica si el trámite requiere turno."
+  ]
+}

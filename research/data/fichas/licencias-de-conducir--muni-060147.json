@@ -1,0 +1,74 @@
+{
+  "tramite": {
+    "slug": "licencias-de-conducir-turnos-y-renovacion",
+    "nombre": "Sacar o renovar la licencia de conducir",
+    "nombre_busqueda": "turno licencia conducir carlos casares",
+    "resumen": "Podés sacar o renovar tu carnet de conducir en la Municipalidad de Carlos Casares. Tenés que sacar un turno online y presentarte en el día y horario elegido.",
+    "sinonimos": [
+      "renovación de carnet de conducir",
+      "nuevo carnet de conducir"
+    ],
+    "temas": [
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060147",
+  "organismo": {
+    "nombre": "Municipalidad de Carlos Casares",
+    "sigla": null,
+    "web": "https://casares.gob.ar"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes necesiten renovar o sacar un nuevo carnet de conducir."
+    ],
+    "requisitos": [
+      {
+        "texto": "Turno gestionado online",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la página de la Municipalidad de Carlos Casares."
+      },
+      {
+        "texto": "Elegí el día y el horario del turno disponible."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en la oficina en el día y horario del turno."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://casares.gob.ar/tramites/licencias-de-conducir/",
+    "plazo": null,
+    "consejos": [
+      "La atención es de lunes a viernes de 8.30 a 11.30 hs.",
+      "Hay cupos limitados de hasta siete turnos diarios cada media hora."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://casares.gob.ar/tramites/licencias-de-conducir/",
+      "titulo": "Licencias de Conducir – Municipalidad de Carlos Casares",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T12:16:52.055Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican los documentos a presentar.",
+    "No se indica el costo del trámite.",
+    "No se detalla la dirección exacta de la oficina."
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "tramite": {
+    "slug": "habilitacion-industrial",
+    "nombre": "Habilitación Industrial",
+    "nombre_busqueda": "Habilitación Industrial",
+    "resumen": "Trámite para habilitar industrias en el municipio, requiriendo documentación técnica, fiscal y de seguridad.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060260",
+  "organismo": {
+    "nombre": "Municipalidad de Esteban Echeverría",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de la actividad industrial."
+    ],
+    "requisitos": [
+      {
+        "texto": "Informe de zonificación emitido por la Dirección de Planificación Urbana y Territorial.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de solicitud de trámite (Anexo II) debidamente conformado, timbrado en Tesorería y liberado al dorso por Catastro, Alumbrado y Tasas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acompañar con el plano de obra, último recibo de Cap. I (Tributo Municipal por la Propiedad) y de Edesur.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Inscripción en AFIP - Constancia de CUIT.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Inscripción en ARBA - Constancia de domicilio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de ingresos brutos, convenio multilateral, según corresponda.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estatuto o contrato social inscripto, poder, actas de designación de autoridades y distribución de cargos vigentes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento Nacional de Identidad de la/del titular, apoderada/o, gerenta/e, presidenta/e, etc., según corresponda.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título de propiedad o boleto de compraventa, contrato de locación con la constancia de pago del impuesto de sellos o contrato de comodato acompañado de título de propiedad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de activos, debidamente conformado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de persona jurídica, presentar certificación de activos firmada por contador/a público/a nacional y certificada por el Consejo Profesional de Ciencias Económicas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nómina del personal empleado o libretas sanitarias (declaración jurada).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tarjetas de identificación y control de extintores acordes a la superficie del establecimiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado antisiniestral emitido por Policía de Bomberos de la Provincia de Buenos Aires o informe afín de profesional en la materia, debidamente colegiado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Empadronamiento en ACUMAR.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cálculo de nivel de complejidad ambiental ante el Ministerio de Ambiente de la Provincia de Buenos Aires (ex categorización de O.P.D.S.) y certificado de aptitud ambiental (Ley 11.459, decreto reglamentario 531/19 y mod.).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano de electromecánica, en caso de activar a partir de los 15 HP de potencia instalada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cumplimiento de requisitos particulares según la actividad y contralor, fiscalización o supervisión de organismo nacional o provincial (vrg. RUDAC, antecedentes penales, Ministerio de Agroindustria, ADA o AySA, etc.).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dos copias del plano de construcción, conforme a obra y aprobado, timbradas en Tesorería y certificadas por Obras Particulares.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En su defecto, copias del anteproyecto en estudio de aprobación con las mismas formalidades y formulario de 180 días.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración jurada (Anexo III) de condiciones higiénicas, sanitarias, de seguridad y adecuación del establecimiento a la actividad, completa y por triplicado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de antecedentes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Libreta Sanitaria.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación requerida en original y fotocopia para su cotejo o copia certificada por escribana/o pública/o."
+      },
+      {
+        "texto": "Firmando los formularios Anexo II, Anexo III y Activo Fijo al momento del ingreso del trámite con la registración de la firma."
+      },
+      {
+        "texto": "Realizá el pago de tasas en Tesorería."
+      },
+      {
+        "texto": "Acudí a la Dirección de General de Habilitaciones para la entrega de los formularios liberados al dorso por Catastro, Alumbrado y Tasas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de General de Habilitaciones",
+      "direccion": "Sofía T. de Santamarina 455",
+      "localidad": "Monte Grande",
+      "horario": null,
+      "fuente_url": "https://www.estebanecheverria.gob.ar/habilitacion-industrial/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.estebanecheverria.gob.ar/habilitacion-industrial/",
+      "titulo": "Habilitacion Industrial – Esteban Echeverría",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T00:27:00.890Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere verificar si el trámite se puede realizar completamente por internet o si es exclusivamente presencial.",
+    "Se requiere confirmar el plazo de tramitación exacto.",
+    "Se requiere confirmar si se requiere turno previo para la presentación de la documentación."
+  ]
+}

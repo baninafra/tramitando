@@ -1,0 +1,93 @@
+{
+  "tramite": {
+    "slug": "boletas-y-vencimientos",
+    "nombre": "Consulta y emisión de boletas tributarias municipales",
+    "nombre_busqueda": "Consulta y emisión de boletas tributarias municipales",
+    "resumen": "Permite consultar el estado de las deudas y emitir boletas de pago de tasas e impuestos municipales.",
+    "sinonimos": [
+      "Pago de tasas municipales",
+      "Consulta de deuda municipal",
+      "Emisión de boleta de pago"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "planes-de-pago-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060140",
+  "organismo": {
+    "nombre": "Municipalidad de Capitan Sarmiento",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona natural o jurídica que tenga deudas con la municipalidad."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI o CUIL del deudor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de cuenta bancaria donde se desea realizar el pago.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Código de barras de la boleta a pagar (si se consulta por boleta).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de expediente o comprobante de deuda (si se consulta por expediente).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio web de la municipalidad y buscá la sección de Pagos."
+      },
+      {
+        "texto": "Seleccioná la opción de Consulta y Emisión de Boletas Tributarias."
+      },
+      {
+        "texto": "Ingresá tu DNI o CUIL para identificar tu deuda."
+      },
+      {
+        "texto": "Consultá el estado de tu deuda y generá la boleta de pago."
+      },
+      {
+        "texto": "Realizá el pago mediante transferencia bancaria o en cajeros automáticos."
+      },
+      {
+        "texto": "Guardá el comprobante de pago y el ticket de la transferencia."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.capitansarmiento.gob.ar/pagos",
+      "titulo": "Pagos | Municipalidad De Cap",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T10:32:07.461Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de las tasas y impuestos no se especifica en el texto.",
+    "El plazo de vencimiento de las deudas no se especifica en el texto.",
+    "La dirección física de las oficinas no se especifica en el texto.",
+    "La modalidad de pago presencial no se especifica en el texto."
+  ]
+}

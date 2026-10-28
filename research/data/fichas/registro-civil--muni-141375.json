@@ -1,0 +1,115 @@
+{
+  "tramite": {
+    "slug": "pasaportes",
+    "nombre": "Sacar el pasaporte",
+    "nombre_busqueda": "Sacar el pasaporte",
+    "resumen": "Para sacar el pasaporte necesitás DNI y, si sos menor, partida de nacimiento y DNI de los padres. El trámite tiene opciones de costo y demora, y se puede hacer en la oficina.",
+    "sinonimos": [
+      "Tramitar pasaporte",
+      "Solicitar pasaporte"
+    ],
+    "temas": [
+      "pasaporte"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141375",
+  "organismo": {
+    "nombre": "Registro Civil",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Habitantes del país que residan en Anisacate o no.",
+      "Adultos.",
+      "Menores."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Partida de nacimiento",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del menor",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI de padre o madre",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pasaporte anterior (si lo tiene)",
+        "aclaracion": null
+      },
+      {
+        "texto": "El menor tiene que estar presente para el día del trámite",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Solicitá turno por teléfono o escribiendo por WhatsApp."
+      },
+      {
+        "texto": "Llevá los requisitos el día del turno."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://anisacatemunicipio.gob.ar/registro-civil/"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 2600000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://anisacatemunicipio.gob.ar/registro-civil/"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 2000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://anisacatemunicipio.gob.ar/registro-civil/"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://anisacatemunicipio.gob.ar/registro-civil/",
+      "titulo": "Registro Civil – Municipalidad de Anisacate",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T08:14:33.123Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina",
+    "Horarios de atención",
+    "Vigencia del trámite",
+    "Forma de pago exacta para DNICOMÚN y PASAPORTE COMÚN",
+    "Si se puede sacar por internet"
+  ]
+}

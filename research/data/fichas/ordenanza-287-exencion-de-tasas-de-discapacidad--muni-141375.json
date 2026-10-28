@@ -1,0 +1,66 @@
+{
+  "tramite": {
+    "slug": "exenciones-y-tasa-social",
+    "nombre": "Exención de tasas por discapacidad",
+    "nombre_busqueda": "Exención de tasas discapacidad",
+    "resumen": "La Ordenanza 287 exime de pagar tasas municipales a las personas con discapacidad que presenten el certificado único correspondiente.",
+    "sinonimos": [
+      "Exención tasas discapacidad",
+      "Libre de tasas discapacidad"
+    ],
+    "temas": [
+      "discapacidad-y-accesibilidad",
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141375",
+  "organismo": {
+    "nombre": "Municipalidad de Anisacate",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas con discapacidad que presenten el certificado único de discapacidad vigente."
+    ],
+    "requisitos": [
+      {
+        "texto": "Certificado único de discapacidad vigente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el certificado único de discapacidad vigente en la oficina de la municipalidad."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Verificá que el certificado de discapacidad esté vigente antes de presentarlo."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://anisacatemunicipio.gob.ar/download/ordenanza-287-exencion-de-tasas-de-discapacidad/",
+      "titulo": "ORDENANZA 287 (Exención de tasas de discapacidad) – Municipalidad de Anisacate",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-26T07:59:04.159Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia de la ordenanza.",
+    "El plazo para solicitar la exención.",
+    "Si se requiere turno para presentar el certificado."
+  ]
+}

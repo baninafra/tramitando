@@ -1,0 +1,99 @@
+{
+  "tramite": {
+    "slug": "final-de-obra",
+    "nombre": "Final de obra",
+    "nombre_busqueda": "Final de obra municipal",
+    "resumen": "Para cerrar una obra privada se debe terminar la construcción, solicitar inspección, abonar la tasa y presentar la baja de la conducción técnica. Luego se firma una declaración jurada y se retira la copia aprobada del plano.",
+    "sinonimos": [],
+    "temas": [
+      "obras-y-construccion",
+      "final-de-obra"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141372",
+  "organismo": {
+    "nombre": "Municipalidad de Alta Gracia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Propietarios de obras privadas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Terminar la obra.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitar la inspección de final de obra.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Abonar la tasa correspondiente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar la baja de la conducción técnica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Firmar la declaración jurada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Llevar la copia aprobada del plano.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercarse a la oficina de Obras Privadas."
+      },
+      {
+        "texto": "Firmar la declaración jurada."
+      },
+      {
+        "texto": "Retirar la copia aprobada del plano en un lapso no mayor a 30 días."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La copia aprobada del plano debe retirarse en un lapso no mayor a 30 días.",
+      "El horario de atención es de 7:00 a 14:00hs."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Obras Privadas",
+      "direccion": "Terminal de ómnibus de Alta Gracia – Planta alta Pte. Perón 1997 / 1977 3547 324590",
+      "localidad": "Terminal de ómnibus de Alta Gracia – Planta alta Pte. Perón 1997 / 1977 3547 324590",
+      "horario": null,
+      "fuente_url": "https://altagracia.gob.ar/subareas/final-de-obra/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://altagracia.gob.ar/subareas/final-de-obra/",
+      "titulo": "Final de obra – Municipalidad de Alta Gracia",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T07:50:29.376Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa correspondiente.",
+    "Si se requiere turno para la inspección o la firma de la declaración jurada."
+  ]
+}

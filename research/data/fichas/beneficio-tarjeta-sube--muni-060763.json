@@ -1,0 +1,90 @@
+{
+  "tramite": {
+    "slug": "beneficio-tarjeta-sube",
+    "nombre": "Beneficio Tarjeta SUBE",
+    "nombre_busqueda": "Beneficio Tarjeta SUBE",
+    "resumen": "Actualizá los atributos de la Tarjeta SUBE si sos estudiante, docente, jubilado o tenés discapacidad para acceder a beneficios en el valor del boleto.",
+    "sinonimos": [],
+    "temas": [
+      "tarjeta-sube",
+      "transporte-publico-y-viajes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060763",
+  "organismo": {
+    "nombre": "Municipalidad de San Nicolás de los Arroyos",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Estudiantes de primaria o secundaria",
+      "Docentes, auxiliares y porteros",
+      "Jubilados",
+      "Personas con Certificado Único de Discapacidad"
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener registrada la Tarjeta SUBE",
+        "aclaracion": null
+      },
+      {
+        "texto": "Subir foto de frente y dorso de DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Adjuntar un documento que justifique el beneficio solicitado",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Validá tus datos desde el botón INICIAR TRÁMITE a través de ARCA, Anses, Renaper, Mi Argentina o reconocimiento facial."
+      },
+      {
+        "texto": "Ingresá a la Oficina Virtual y seleccioná para quién estás tramitando el beneficio."
+      },
+      {
+        "texto": "Completá el formulario con los datos solicitados y la documentación requerida en formato PDF (máximo 10 MB)."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Utilizá la Terminal Automática SUBE (TAS) para validar los atributos."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dependencia municipal",
+      "direccion": "Corrientes 60",
+      "localidad": "Corrientes 60",
+      "horario": null,
+      "fuente_url": "https://www.sannicolasciudad.gob.ar/tramites/transporte/beneficio-tarjeta-sube"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.sannicolasciudad.gob.ar/tramites/transporte/beneficio-tarjeta-sube",
+      "titulo": "Beneficio Tarjeta SUBE | Transporte | Trámites | San Nicolás Ciudad",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T15:47:23.718Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el monto del trámite.",
+    "No se especifica el plazo de resolución."
+  ]
+}

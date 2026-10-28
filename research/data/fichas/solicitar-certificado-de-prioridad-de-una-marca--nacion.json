@@ -1,0 +1,100 @@
+{
+  "tramite": {
+    "slug": "solicitar-certificado-de-prioridad-de-una-marca",
+    "nombre": "Solicitar certificado de prioridad de una marca",
+    "nombre_busqueda": "certificado prioridad marca",
+    "resumen": "Solicitá un certificado de prioridad si presentás una solicitud de marca en otro país y necesitás fe de tu inicio de trámite en Argentina.",
+    "sinonimos": [
+      "certificado de depósito",
+      "certificado de prioridad INPI"
+    ],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto Nacional de la Propiedad Industrial",
+    "sigla": "INPI",
+    "web": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-prioridad-de-una-marca"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes presenten una solicitud de marca en otro país y necesiten un certificado de depósito que de fe de su inicio de trámite en Argentina."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de acta de la marca.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota correspondiente adjunta como documentación respaldatoria.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Correo electrónico para recibir el documento probatorio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave fiscal nivel 2 para ingresar al portal de trámites.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal de trámites con tu clave fiscal nivel 2."
+      },
+      {
+        "texto": "Mirá el instructivo para adherir el servicio del INPI en tu cuenta de ARCA."
+      },
+      {
+        "texto": "Accedé al menú marcas / trámites / escritos."
+      },
+      {
+        "texto": "Ingresá el número de acta."
+      },
+      {
+        "texto": "Seleccioná el código 720.000 escritos arancelados certificado de prioridad."
+      },
+      {
+        "texto": "Adjuntá la nota correspondiente en el cuadro DOCUMENTACIÓN RESPALDATORIA."
+      },
+      {
+        "texto": "Indicá un correo electrónico para recibir el documento probatorio."
+      },
+      {
+        "texto": "Finalizá y firmá digitalmente el trámite."
+      },
+      {
+        "texto": "Aboná el arancel correspondiente."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "15 días",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-prioridad-de-una-marca",
+      "titulo": "Solicitar certificado de prioridad de una marca | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:09:46.031Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Fecha de vigencia del arancel"
+  ]
+}

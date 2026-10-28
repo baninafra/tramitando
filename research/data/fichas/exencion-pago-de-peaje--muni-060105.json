@@ -1,0 +1,70 @@
+{
+  "tramite": {
+    "slug": "exencion-pago-de-peaje",
+    "nombre": "Exención del pago de peaje",
+    "nombre_busqueda": "Exención del pago de peaje",
+    "resumen": "Para retirar y colocar el TelePASE tenés un plazo de 90 días. El trámite se realiza en la Dirección de Políticas Públicas para Personas con Discapacidad.",
+    "sinonimos": [],
+    "temas": [
+      "discapacidad-y-accesibilidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060105",
+  "organismo": {
+    "nombre": "Municipio de Bolívar",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas con discapacidad que deseen retirar y colocar su TelePASE."
+    ],
+    "requisitos": [
+      {
+        "texto": "TelePASE.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate al peaje más cercano o comunicate con el Centro de Atención al Usuario de la Red para retirar y colocar tu TelePASE."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Tenés un plazo de 90 días para acercarte al peaje más cercano o comunicarte con el Centro de Atención al Usuario de la Red para retirar y colocar tu TelePASE."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Políticas Públicas para Personas con Discapacidad",
+      "direccion": "Av. San Martín 961",
+      "localidad": "Bolívar",
+      "horario": null,
+      "fuente_url": "https://www.bolivar.gob.ar/guia-de-tramites/exencion-pago-de-peaje"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bolivar.gob.ar/guia-de-tramites/exencion-pago-de-peaje",
+      "titulo": "Exención del pago de peaje, Bolívar Municipio",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T11:06:00.606Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica requisitos adicionales más allá del TelePASE."
+  ]
+}

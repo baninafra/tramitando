@@ -1,0 +1,50 @@
+---
+// Un tema con su descripción y la cantidad de trámites.
+import Icono from './Icono.astro';
+import type { NombreIcono } from './iconos';
+import type { Tema } from '../lib/data';
+
+interface Props {
+  tema: Tema;
+  /** Nivel del título, para respetar la jerarquía de la página. */
+  nivel?: 'h2' | 'h3';
+}
+const { tema, nivel: Titulo = 'h3' } = Astro.props;
+const cuenta = tema.cantidad === 1 ? '1 trámite' : `${tema.cantidad} trámites`;
+---
+<article class="tema">
+  <a class="cabecera" href={`/temas/${tema.slug}`}>
+    <span class="icono-caja"><Icono nombre={tema.icono as NombreIcono} /></span>
+    <span class="texto">
+      <Titulo class="nombre">{tema.nombre}</Titulo>
+      {tema.descripcion && <span class="descripcion">{tema.descripcion}</span>}
+    </span>
+    <span class="cuenta">{tema.cantidad > 0 ? cuenta : 'Próximamente'}</span>
+    <Icono nombre="arrow-up-right" class="ir" />
+  </a>
+</article>
+
+<style>
+  .tema { display: grid; align-content: start; background: var(--superficie); border-radius: var(--r-panel); padding: var(--espacio-2); }
+  .cabecera {
+    display: grid; grid-template-columns: auto minmax(0, 1fr) auto auto; gap: var(--espacio-2) var(--espacio-4);
+    align-items: start; padding: var(--espacio-4); border-radius: 20px;
+    color: var(--tinta); text-decoration: none; transition: background-color var(--t-hover) ease;
+  }
+  .icono-caja { display: grid; place-items: center; width: 44px; height: 44px; border-radius: 50%; background: var(--celeste-suave); color: var(--celeste-tinta); }
+  .icono-caja :global(.icono) { width: 20px; height: 20px; }
+  .texto { display: grid; gap: 4px; }
+  .nombre { font: 700 clamp(20px, 1.8vw, 26px)/1.2 var(--font-sans); letter-spacing: -0.02em; margin: 0; }
+  .descripcion { color: var(--tinta-2); font: var(--t-cuerpo-chico); max-width: 54ch; }
+  .cuenta { font: var(--t-etiqueta); color: var(--celeste-tinta); white-space: nowrap; padding-top: 6px; }
+  .cabecera :global(.ir) { width: 22px; height: 22px; color: var(--tinta-2); margin-top: 8px; transition: transform var(--t-ui) var(--ease-out), color var(--t-hover) ease; }
+  @media (hover: hover) {
+    .cabecera:hover { background: var(--celeste-suave); }
+    .cabecera:hover :global(.ir) { transform: translate(3px, -3px); color: var(--tinta); }
+  }
+  @media (max-width: 559px) {
+    .cabecera { grid-template-columns: auto minmax(0, 1fr) auto; }
+    .cabecera :global(.ir) { display: none; }
+    .cuenta { grid-column: 2; padding-top: 0; }
+  }
+</style>

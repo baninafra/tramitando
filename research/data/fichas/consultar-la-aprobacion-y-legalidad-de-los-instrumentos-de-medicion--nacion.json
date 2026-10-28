@@ -1,0 +1,80 @@
+{
+  "tramite": {
+    "slug": "consultar-aprobacion-legalidad-instrumentos-medicion",
+    "nombre": "Consultar la aprobación y legalidad de los instrumentos de medición",
+    "nombre_busqueda": "Consultar aprobación legalidad instrumentos medición",
+    "resumen": "Podés verificar si un instrumento de medición cumple con las normas establecidas por la Resolución 611/2019 ingresando a TAD con tu CUIT y clave fiscal.",
+    "sinonimos": [
+      "Verificar legalidad instrumento medición",
+      "Consultar aprobación metrología"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas físicas o jurídicas vinculadas a instrumentos de medición reglamentados."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener CUIT y clave fiscal nivel 2 o superior.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estar adherido al servicio de Trámites a Distancia (TAD) y tener condición de apoderado en el sistema.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD."
+      },
+      {
+        "texto": "Seleccioná la opción Consulta sobre aprobación y legalidad de instrumentos de medición."
+      },
+      {
+        "texto": "Completá el formulario indicando las características del instrumento (tipo, marca, modelo, número de serie, ubicación, calle, altura, código postal, localidad, provincia)."
+      },
+      {
+        "texto": "Adjuntá una foto o copia de la multa y una nota donde se indique el motivo de la consulta."
+      },
+      {
+        "texto": "Recibí el Informe notificado a través de Trámites a Distancia (TAD)."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá la normativa específica en la Ley de Metrología 19511 si necesitás más detalles."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consultar-la-aprobacion-y-legalidad-de-los-instrumentos-de-medicion",
+      "titulo": "Consultar la aprobación y legalidad de los instrumentos de medición | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T05:46:32.433Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo de respuesta del informe no está especificado en el texto."
+  ]
+}

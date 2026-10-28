@@ -1,0 +1,209 @@
+{
+  "tramite": {
+    "slug": "licencia-de-conducir",
+    "nombre": "Licencia de conducir",
+    "nombre_busqueda": "Licencia de conducir",
+    "resumen": "Para obtener, renovar o ampliar la licencia de conducir en la Municipalidad de Mercedes, se deben cumplir requisitos específicos según la edad y el caso, rendir un examen teórico-práctico y pagar las tasas municipales vigentes.",
+    "sinonimos": [
+      "Licencia de conducir",
+      "Permiso de conducir",
+      "Carnet de conducir"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060532",
+  "organismo": {
+    "nombre": "Municipalidad de Mercedes",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes deseen obtener, renovar o ampliar su licencia de conducir en la Municipalidad de Mercedes."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento (le, lc, dni) con domicilio actualizado, radicación en el partido y copia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Traer vehículo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización de ambos padres ante escribano público (original y fotocopia).",
+        "aclaracion": "Si sos menor de edad."
+      },
+      {
+        "texto": "Certificado de legalidad de la localidad donde fue emitida la licencia.",
+        "aclaracion": "Si la licencia no es de la ciudad de Mercedes."
+      },
+      {
+        "texto": "Casco reglamentario.",
+        "aclaracion": "Si se acerca en motovehículo."
+      },
+      {
+        "texto": "Denuncia de extravío de la licencia.",
+        "aclaracion": "Para duplicados por pérdida, robo o extravío."
+      },
+      {
+        "texto": "Condición excluyente: saber leer y escribir.",
+        "aclaracion": "Para profesionales primera vez."
+      },
+      {
+        "texto": "Certificado de Antecedentes Penales.",
+        "aclaracion": "Para profesionales primera vez."
+      },
+      {
+        "texto": "Licencia anterior y copia.",
+        "aclaracion": "Para renovación y ampliación de categoría."
+      },
+      {
+        "texto": "D.N.I. físico.",
+        "aclaracion": "Solo se acepta D.N.I. físico, no comprobantes en trámite."
+      },
+      {
+        "texto": "D.N.I. en mano.",
+        "aclaracion": "Para presentar en el trámite."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá tu número de DNI para verificar que se encuentra en condiciones de continuar con la reserva del turno."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá tu D.N.I. físico en el Centro de Emisión de Licencias."
+      },
+      {
+        "texto": "Rendiré el examen teórico-práctico."
+      },
+      {
+        "texto": "Retirá la licencia obtenida."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "5 años (18 a 65 años)",
+      "gratis": false,
+      "monto_centavos": 4430000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://licencias.mercedes.gob.ar/info"
+    },
+    {
+      "modalidad": "3 años (66 a 70 años)",
+      "gratis": false,
+      "monto_centavos": 3200000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://licencias.mercedes.gob.ar/info"
+    },
+    {
+      "modalidad": "2 años (Profesional hasta 45 años)",
+      "gratis": false,
+      "monto_centavos": 2620000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://licencias.mercedes.gob.ar/info"
+    },
+    {
+      "modalidad": "1 año (1 año, +71 años, 16 y 17 años original, profesional + 46 años)",
+      "gratis": false,
+      "monto_centavos": 2040000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://licencias.mercedes.gob.ar/info"
+    },
+    {
+      "modalidad": "1 año (+71 años; 16 y 17 años; Profesional + 46 años)",
+      "gratis": false,
+      "monto_centavos": 1750000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://licencias.mercedes.gob.ar/info"
+    },
+    {
+      "modalidad": "Duplicado",
+      "gratis": false,
+      "monto_centavos": 2600000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://licencias.mercedes.gob.ar/info"
+    },
+    {
+      "modalidad": "Ampliación",
+      "gratis": false,
+      "monto_centavos": 2360000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://licencias.mercedes.gob.ar/info"
+    },
+    {
+      "modalidad": "Reemplazo",
+      "gratis": false,
+      "monto_centavos": 2360000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://licencias.mercedes.gob.ar/info"
+    },
+    {
+      "modalidad": "Certificado de legalidad",
+      "gratis": false,
+      "monto_centavos": 1095000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://licencias.mercedes.gob.ar/info"
+    },
+    {
+      "modalidad": "Jubilación mínima, certificado social y discapacidad",
+      "gratis": false,
+      "monto_centavos": 1460000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://licencias.mercedes.gob.ar/info"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://licencias.mercedes.gob.ar/info",
+      "titulo": "Turnos para Licencia de Conducir - Municipalidad de Mercedes",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T15:04:08.783Z"
+    },
+    {
+      "url": "https://licencias.mercedes.gob.ar/",
+      "titulo": "Turnos para Licencia de Conducir - Municipalidad de Mercedes",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T15:04:08.783Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Fecha de vigencia de las tasas municipales.",
+    "Dirección del Centro de Emisión de Licencias.",
+    "Plazo de tramitación.",
+    "URL para sacar turno online."
+  ]
+}

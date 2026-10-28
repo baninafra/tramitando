@@ -1,0 +1,112 @@
+{
+  "tramite": {
+    "slug": "cambios-y-baja-de-habilitacion",
+    "nombre": "Cambiar el domicilio de un laboratorio de análisis de semillas habilitado",
+    "nombre_busqueda": "cambiar domicilio laboratorio semillas",
+    "resumen": "El laboratorio debe informar al INASE dentro de los 30 días tras el cambio. Se requiere pago de tasa, formularios específicos y documentación técnica como planos y registros de germinación.",
+    "sinonimos": [],
+    "temas": [
+      "cambios-y-baja-de-habilitacion",
+      "bromatologia-y-alimentos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto Nacional de Semillas",
+    "sigla": "INASE",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Todo laboratorio de análisis de semillas habilitado que desee realizar un cambio de domicilio o localización."
+    ],
+    "requisitos": [
+      {
+        "texto": "Comprobante de pago del trámite.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estar inscripto en el Registro Nacional de Comercio y Fiscalización de Semillas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario FO169 Solicitud de habilitación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario FO172 Listado de equipamiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de declaración del responsable legal informando el cambio de domicilio o localización (debe incluir el número de inscripción en el RNCyFS).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de plano o croquis a escala del laboratorio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del Plano de localización del laboratorio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del Control diario de la Cámara/s de Germinación (Registrando al menos 5 días).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Descargá, completá y cargá a través de la mesa de entradas digital el formulario de solicitud de cambio de localización y la documentación correspondiente, siguiendo los pasos del instructivo TAD Cambio de Domicilio."
+      },
+      {
+        "texto": "Una vez realizada la carga, envías por correo electrónico a [email protected] el número de trámite que le brindará el sistema junto con el comprobante de pago del trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "1 meses",
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 3705700,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/cambiar-el-domicilio-de-un-laboratorio-de-analisis-de-semillas-habilitado"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/cambiar-el-domicilio-de-un-laboratorio-de-analisis-de-semillas-habilitado",
+      "titulo": "Cambiar el domicilio de un laboratorio de análisis de semillas habilitado | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:38:10.221Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T04:38:10.221Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de envío de documentación por correo electrónico: [email protected]",
+    "Enlace del instructivo TAD Cambio de Domicilio",
+    "Fecha exacta de vigencia del trámite"
+  ]
+}

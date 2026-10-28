@@ -1,0 +1,91 @@
+{
+  "tramite": {
+    "slug": "informar-paradas-biologicas",
+    "nombre": "Informar paradas biológicas",
+    "nombre_busqueda": "informar parada biologica buque pesquero",
+    "resumen": "Los armadores de buques pesqueros de bandera argentina deben cumplir una parada efectiva en puerto entre las 00:00 y las 24:00 del día de inicio y finalización. El trámite es gratuito, se realiza en línea en 5 minutos y requiere un Domicilio Especial Electrónico y una nota de la empresa.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Propietarios y armadores de buques pesqueros de bandera argentina.",
+      "Personas humanas y jurídicas inscriptas en la Dirección de Normativa y Registro de la Pesca."
+    ],
+    "requisitos": [
+      {
+        "texto": "Domicilio Especial Electrónico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de la empresa armadora.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD."
+      },
+      {
+        "texto": "Completá la documentación solicitada con el nombre del buque, su matrícula nacional, cantidad de cuotas solicitadas y los datos del firmante (nombre, apellido, CUIL y calidad de firma)."
+      },
+      {
+        "texto": "Confirmá el trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "5 minutos",
+    "consejos": [
+      "La parada debe cumplirse entre las 00:00 y las 24:00 del día de inicio y finalización.",
+      "Si prevén realizar la última parada después del 1º de noviembre, deben informar antes de esa fecha el plazo en que será realizada."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/informar-paradas-biologicas",
+      "titulo": "Informar Paradas Biológicas | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T16:49:44.224Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T16:49:44.224Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/cdn-cgi/content?id=IsJeoq0aO_XKoTQABpiZ4KtKUIhtTdi_cNMVBUG52Bw-1792994585.0424411-1.2.1.1-pc3jDnoK5l4jXxwpLOmMozIkzUEEMn4m2RK05JG3qA_fqdA8nLUFhTSlELPjyOI.",
+      "titulo": "Lexicography: Unveiling the Science of Wordcraft",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T16:49:44.224Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia permanente no está especificada en el texto.",
+    "El organismo responsable específico dentro de la Dirección de Normativa y Registro de la Pesca no se detalla."
+  ]
+}

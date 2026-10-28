@@ -1,0 +1,88 @@
+{
+  "tramite": {
+    "slug": "control-antirrabico",
+    "nombre": "Control antirrábico",
+    "nombre_busqueda": "control antirrábico por mordedura de animal",
+    "resumen": "El control antirrábico observa al animal durante 10 días corridos desde el accidente potencialmente rábico. Si te muerde un animal, revisá la herida en un centro de salud para recibir atención y el comprobante que tenés que presentar en Zoonosis.",
+    "sinonimos": [
+      "control por mordedura de animal"
+    ],
+    "temas": [
+      "animales-y-zoonosis"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060648",
+  "organismo": {
+    "nombre": "Centro de Zoonosis del Municipio de Presidente Perón",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas mordidas por un animal, propio o de la calle, cuya lesión denote síntomas de violencia no habitual."
+    ],
+    "requisitos": [
+      {
+        "texto": "Comprobante con los datos del animal y de su propietario, entregado en el centro de salud.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a uno de los CAPS que realizan el control de mordeduras o al Hospital Zonal."
+      },
+      {
+        "texto": "Hacete revisar la herida para que determinen el tratamiento y te realicen las curaciones."
+      },
+      {
+        "texto": "Completá el comprobante con los datos del animal y de su propietario."
+      },
+      {
+        "texto": "Presentá el comprobante en el Centro de Zoonosis para realizar el control antirrábico."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "La observación del animal dura 10 días corridos desde el accidente potencialmente rábico.",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Unidad Sanitaria Dr. Arturo Illia",
+      "direccion": "Francisco Petrone 3653",
+      "localidad": "Francisco Petrone 3653",
+      "horario": null,
+      "fuente_url": "https://presidenteperon.gob.ar/zoonosis/control-antirrabico/"
+    },
+    {
+      "nombre": "Unidad Sanitaria Eva Perón",
+      "direccion": "Av. Jauretche 1131 y calle 12",
+      "localidad": "Av. Jauretche 1131 y calle 12",
+      "horario": null,
+      "fuente_url": "https://presidenteperon.gob.ar/zoonosis/control-antirrabico/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://presidenteperon.gob.ar/zoonosis/control-antirrabico/",
+      "titulo": "Control antirrábico – Presidente Perón",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T16:34:34.811Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa si el trámite requiere turno.",
+    "No se informa el costo del control antirrábico.",
+    "No se indica el plazo para completar el control del animal."
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "tramite": {
+    "slug": "licencia-de-conducir",
+    "nombre": "Licencia de conducir",
+    "nombre_busqueda": "Sacar licencia de conducir",
+    "resumen": "Se tramita la licencia de conducir original, renovación y duplicado en el Centro de Tránsito y Gestión. Se requiere turno online y presentar DNI con domicilio en San Fernando.",
+    "sinonimos": [
+      "Licencia de conducir original",
+      "Renovación de licencia de conducir",
+      "Duplicado de licencia de conducir"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060749",
+  "organismo": {
+    "nombre": "Area de Licencias de Conducir",
+    "sigla": null,
+    "web": "https://www.sanfernando.gob.ar/Area-de-licencias-de-conducir"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas con domicilio en San Fernando.",
+      "Principiantes mayores de 16 años.",
+      "Titulares de licencias vencidas más de 90 días.",
+      "Titulares de licencias profesionales."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original y 1 fotocopia.",
+        "aclaracion": "Debe tener domicilio en San Fernando."
+      },
+      {
+        "texto": "Licencia de conducir vencida más de 90 días (emitida por San Fernando).",
+        "aclaracion": "Original y 1 fotocopia."
+      },
+      {
+        "texto": "Licencia de conducir nacional vencida (emitida por otra Provincia o C.A.B.A).",
+        "aclaracion": "Original y 1 fotocopia."
+      },
+      {
+        "texto": "Certificado de finalización de la Charla de Educación Vial.",
+        "aclaracion": "Validez de 1 año."
+      },
+      {
+        "texto": "Certificado de Antecedentes Penales.",
+        "aclaracion": "Validez máxima de 30 días desde la emisión."
+      },
+      {
+        "texto": "Denuncia de extravío o robo.",
+        "aclaracion": "Realizada en registro civil o denuncia policial."
+      },
+      {
+        "texto": "Certificado de legalidad de la licencia.",
+        "aclaracion": "Expedido por el Municipio donde se realizó (excepto si es de un Municipio de la Provincia de Bs As, no incluye CABA)."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar a la página web y elegir 'Solicitar Turno'."
+      },
+      {
+        "texto": "Seleccionar 'Charla de Educación Vial' para anotarse."
+      },
+      {
+        "texto": "Una vez realizada la charla, solicitar un nuevo turno para realizar la licencia de conducir original."
+      },
+      {
+        "texto": "Ingresar a la página de boletas para imprimir y abonar los certificados (CENAT y CEPAT)."
+      },
+      {
+        "texto": "Pagar las boletas como mínimo 96 hs hábiles antes de asistir al Centro Emisor de Licencias."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Concurrir el día y horario del turno a la Dirección de Transito."
+      },
+      {
+        "texto": "Realizar el pago de trámite en la Dirección de Transito."
+      },
+      {
+        "texto": "Toma de datos personales y biométricos."
+      },
+      {
+        "texto": "Evaluación médica."
+      },
+      {
+        "texto": "Rendir examen teórico y práctico (el municipio no provee vehículos)."
+      },
+      {
+        "texto": "Para cuatriciclos, rendir examen práctico en pistas autorizadas por la DPPSV."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://www.sanfernando.gob.ar/Area-de-licencias-de-conducir",
+    "plazo": null,
+    "consejos": [
+      "Recordá llevar los comprobantes de pago de los certificados el día del turno.",
+      "Las boletas tienen una validez de 7 días para ser abonadas y 60 días para ser presentadas en el CEL.",
+      "Los certificados y tasas que se pagan tienen validez por 60 días desde el momento de pago."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Centro de Tránsito y Gestión",
+      "direccion": "Colectora Reguera 1447",
+      "localidad": "San Fernando",
+      "horario": null,
+      "fuente_url": "https://www.sanfernando.gob.ar/Area-de-licencias-de-conducir"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.sanfernando.gob.ar/Area-de-licencias-de-conducir",
+      "titulo": "San Fernando Municipio - Area de Licencias de Conducir",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T02:09:44.624Z"
+    },
+    {
+      "url": "https://licenciasba.dppsv.gba.gob.ar/licencias/boletas_cenat_cepat/public/solicitante/new",
+      "titulo": "Licencias BA",
+      "bloques": [
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T02:09:44.624Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el monto exacto de las tasas en el texto.",
+    "No se especifica el plazo exacto para la renovación automática de licencias."
+  ]
+}

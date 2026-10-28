@@ -1,0 +1,82 @@
+{
+  "tramite": {
+    "slug": "presentar-cruce-de-telegramas-en-anses",
+    "nombre": "Presentar cruce de telegramas en ANSES",
+    "nombre_busqueda": "Presentar cruce de telegramas ANSES",
+    "resumen": "Si te despidieron y hubo intercambio de telegramas, tenés que presentarlos en una oficina de ANSES para poder tramitar la prestación por desempleo.",
+    "sinonimos": [
+      "Presentar telegramas de despido",
+      "Cruce de telegramas ANSES"
+    ],
+    "temas": [
+      "trabajo-y-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración Nacional de Servicios Sociales para Empleados del Estado",
+    "sigla": "ANSES",
+    "web": "https://www.argentina.gob.ar/anses"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Trabajadores despedidos que hayan tenido un intercambio de telegramas con su empleador."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI (original y copia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Telegramas que hayas intercambiado con tu empleador.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Juntá los telegramas intercambiados con tu empleadora o empleador con motivo del despido."
+      },
+      {
+        "texto": "Presentate sin turno en una oficina de ANSES y llevá todos los telegramas."
+      },
+      {
+        "texto": "Ahí mismo completá el formulario de Requerimiento de Actuación Administrativa."
+      }
+    ],
+    "requiere_turno": false,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si se comprueba que fuiste despedido sin justa causa al presentar el formulario, te darán una constancia de confirmación que te permitirá comenzar a tramitar la prestación por desempleo."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/presentar-cruce-de-telegramas-en-anses",
+      "titulo": "Presentar cruce de telegramas en ANSES | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T00:39:42.385Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T00:39:42.385Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina de ANSES donde se debe presentar el trámite."
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "tramite": {
+    "slug": "inscripcion-de-nacimientos",
+    "nombre": "Inscribir protocolo de empresa familiar",
+    "nombre_busqueda": "Inscribir protocolo de empresa familiar",
+    "resumen": "La inscripción del protocolo en el Registro Público es voluntaria y permite a los terceros conocer su existencia y alcances. Solo corresponde a sociedades comerciales donde la totalidad de los socios están unidos por lazos de parentesco.",
+    "sinonimos": [],
+    "temas": [
+      "emprendedores-y-monotributo",
+      "monotributo-social-y-general",
+      "cuit-y-clave-fiscal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Justicia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Corresponden a las sociedades comerciales inscriptas en el Registro Público."
+    ],
+    "requisitos": [
+      {
+        "texto": "Completar el Formulario Protocolo de empresa familiar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pedir turno para Mesa General de Entradas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar Escritura pública o instrumento privado con firmas certificadas por escribano.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar Dictamen de precalificación profesional que consigne el cumplimiento de los requisitos establecidos en la resolución 19/2021 y de los requisitos generales exigidos por el Anexo A de la RG 7/2015 y sus modificaciones en cuanto correspondan.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Completá el Formulario, pagalo e imprimí los comprobantes."
+      },
+      {
+        "texto": "Presentá toda la documentación en Av. Paseo Colon 291, C.A.B.A."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La inscripción del protocolo en el Registro es voluntaria y se inscribirá un único protocolo por sociedad.",
+      "Cualquier inscripción ulterior se considerará una reforma y/o sustitución del anterior.",
+      "El protocolo familiar publicado deberá ser actualizado.",
+      "A falta de esta actualización se presume la vigencia del protocolo familiar registrado.",
+      "Si la conformidad de todos los socios con la registración del protocolo no surgiere de su texto, deberá acreditarse por instrumento separado a los fines de lo establecido por la Ley 25.326 de Protección de Datos Personales."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Mesa General de Entradas",
+      "direccion": "Av. Paseo Colon 291",
+      "localidad": "C.A.B.A.",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-protocolo-de-empresa-familiar"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribir-protocolo-de-empresa-familiar",
+      "titulo": "Inscribir protocolo de empresa familiar | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T17:05:35.956Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del trámite no está especificado en el texto, solo se indica que se debe calcular el valor del trámite.",
+    "La fecha de vigencia de la resolución 19/2015 no está especificada en el texto, solo se menciona como normativa vigente."
+  ]
+}

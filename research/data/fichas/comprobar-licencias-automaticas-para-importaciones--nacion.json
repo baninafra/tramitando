@@ -1,0 +1,86 @@
+{
+  "tramite": {
+    "slug": "comprobar-licencias-automaticas-para-importaciones",
+    "nombre": "Comprobar licencias automáticas para importaciones",
+    "nombre_busqueda": "comprobar licencias automáticas importaciones",
+    "resumen": "Podés verificar si las importaciones tienen licencias automáticas usando el Sistema Integral de Monitoreo de Importaciones (SIMI). Es un servicio gratuito en línea que requiere tener CUIT y clave fiscal nivel 2 en AFIP.",
+    "sinonimos": [
+      "verificar licencias automáticas importaciones",
+      "consultar licencias automáticas SIMI"
+    ],
+    "temas": [
+      "comercio-e-industria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan CUIT y clave fiscal nivel 2 en AFIP."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener CUIT y clave fiscal nivel 2 en AFIP.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Accedé al Sistema Integral de Monitoreo de Importaciones (SIMI) en línea."
+      },
+      {
+        "texto": "Ingresá con tu CUIT y clave fiscal nivel 2 de AFIP."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá las respuestas frecuentes en ABC para dudas sobre la declaración de la SIMI.",
+      "Revisá las pautas de gestión para la declaración de la SIMI antes de iniciar el trámite."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 0,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/comprobar-licencias-automaticas-para-importaciones"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/comprobar-licencias-automaticas-para-importaciones",
+      "titulo": "Comprobar licencias automáticas para importaciones | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:51:45.303Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T04:51:45.303Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica el plazo exacto para la verificación ni el tiempo de espera del sistema."
+  ]
+}

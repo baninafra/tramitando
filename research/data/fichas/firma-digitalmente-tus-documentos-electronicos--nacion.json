@@ -1,0 +1,85 @@
+{
+  "tramite": {
+    "slug": "firma-digital",
+    "nombre": "Firmá digitalmente tus documentos electrónicos",
+    "nombre_busqueda": "Firma digital documentos",
+    "resumen": "Para firmar documentos PDF, necesitás un Usuario y Contraseña, OTP y PIN obtenidos en la AR más cercana, más el archivo PDF a firmar.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes gestionaron la firma digital en la AR más cercana."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento en formato PDF a firmar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Usuario y Contraseña.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Código OTP generado desde la Aplicación de tu Teléfono Móvil.",
+        "aclaracion": null
+      },
+      {
+        "texto": "PIN.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la Plataforma de Firma Digital Remota con tu Usuario y Contraseña."
+      },
+      {
+        "texto": "Ingresá el Código OTP generado desde la Aplicación de tu Teléfono Móvil."
+      },
+      {
+        "texto": "Seleccioná la Autoridad de Registro a la que perteneces."
+      },
+      {
+        "texto": "Subí el Documento PDF que desees firmar."
+      },
+      {
+        "texto": "Ingresá el PIN y presioná el botón Firmar."
+      },
+      {
+        "texto": "Podrás Pre-Visualizar el Documento Firmado y si está correcto, debés descargar el mismo para concretar la firma."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/firma-digitalmente-tus-documentos-electronicos",
+      "titulo": "Firmá digitalmente tus documentos electrónicos | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T15:46:59.348Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Cómo se obtienen el Usuario, Contraseña, OTP y PIN."
+  ]
+}

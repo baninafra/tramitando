@@ -1,0 +1,81 @@
+{
+  "tramite": {
+    "slug": "licencia-de-conducir-original",
+    "nombre": "Sacar la licencia de conducir",
+    "nombre_busqueda": "licencia de conducir original",
+    "resumen": "Presentá la documentación indicada para tramitar la licencia de conducir original en Lezama. Si sos menor de edad, necesitás una autorización del juzgado de Paz.",
+    "sinonimos": [
+      "licencia de conducir original"
+    ],
+    "temas": [
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060466",
+  "organismo": {
+    "nombre": "Municipalidad de Lezama",
+    "sigla": null,
+    "web": "https://lezama.gov.ar/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés tramitar la licencia original. Si sos menor de edad, necesitás autorización del juzgado de Paz."
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia del DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de la licencia actual.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Libre deuda del Juzgado de Faltas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de los cursos obtenidos para el examen teórico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización del juzgado de Paz.",
+        "aclaracion": "Si sos menor de edad."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a tramitar la licencia con la documentación requerida."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si cambiaste tu domicilio u otro dato del DNI, tenés 90 días para acercarte a tramitar el reemplazo de tu licencia y conocer los requisitos vigentes.",
+      "No conduzcas en la vía pública cuando la licencia esté vencida."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://lezama.gov.ar/licencias-de-conducir/",
+      "titulo": "Municipalidad de Lezama",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:41:06.550Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa el costo de la licencia original.",
+    "No se indican los pasos para completar el trámite ni la oficina donde se realiza."
+  ]
+}

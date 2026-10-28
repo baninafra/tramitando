@@ -1,0 +1,800 @@
+{
+  "generado_en": "2026-10-23T01:48:33.990Z",
+  "portales": [
+    {
+      "jurisdiccion_id": "nacion",
+      "nombre": "Nación",
+      "estado": "ok",
+      "sitio": "https://www.argentina.gob.ar/",
+      "guia_url": "https://www.argentina.gob.ar/tad",
+      "listado_urls": [
+        "https://www.argentina.gob.ar/tad"
+      ],
+      "paginacion": null,
+      "regex_fichas": "^https://www\\.argentina\\.gob\\.ar/servicio/[a-z0-9-]+$",
+      "categorias": [
+        {
+          "nombre": "Documentación",
+          "url": "https://www.argentina.gob.ar/tema/documentacion"
+        },
+        {
+          "nombre": "Educación",
+          "url": "https://www.argentina.gob.ar/tema/educacion"
+        },
+        {
+          "nombre": "Transporte",
+          "url": "https://www.argentina.gob.ar/tema/transito-transporte"
+        },
+        {
+          "nombre": "Discapacidad",
+          "url": "https://www.argentina.gob.ar/salud/senadis"
+        },
+        {
+          "nombre": "Violencia y abuso",
+          "url": "https://www.argentina.gob.ar/tema/violenciayabuso"
+        },
+        {
+          "nombre": "Emergencias",
+          "url": "https://www.argentina.gob.ar/tema/emergencias"
+        },
+        {
+          "nombre": "Trabajo y empleo",
+          "url": "https://www.argentina.gob.ar/tema/trabajo-empleo"
+        },
+        {
+          "nombre": "Emprendimientos y pymes",
+          "url": "https://www.argentina.gob.ar/tema/emprendimientos-pymes"
+        },
+        {
+          "nombre": "Vacaciones",
+          "url": "https://www.argentina.gob.ar/tema/vacaciones"
+        },
+        {
+          "nombre": "Extranjeros",
+          "url": "https://www.argentina.gob.ar/tema/extranjeros"
+        },
+        {
+          "nombre": "Adultos mayores",
+          "url": "https://www.argentina.gob.ar/tema/adultosmayores"
+        },
+        {
+          "nombre": "Arte y cultura",
+          "url": "https://www.argentina.gob.ar/tema/artistas"
+        }
+      ],
+      "notas": "El buscador general de trámites digitales se encuentra en /tad y las fichas oficiales de trámites y servicios siguen el patrón /servicio/{nombre-del-tramite}. Los links provistos no exhiben parámetros de paginación explícitos."
+    },
+    {
+      "jurisdiccion_id": "prov-02",
+      "nombre": "Ciudad Autónoma de Buenos Aires",
+      "estado": "ok",
+      "sitio": "https://buenosaires.gob.ar/",
+      "guia_url": "https://buenosaires.gob.ar/gobierno/tramites",
+      "listado_urls": [
+        "https://buenosaires.gob.ar/gobierno/tramites"
+      ],
+      "paginacion": "?page=N",
+      "regex_fichas": "^https://(?:www\\.)?buenosaires\\.gob\\.ar/tramites/[a-z0-9-]+$",
+      "categorias": [],
+      "notas": "El catálogo general se encuentra en /gobierno/tramites y pagina con el parámetro ?page=N (empezando en ?page=1 para la segunda página de resultados). No se encontraron enlaces a páginas dedicadas de categorías entre los links provistos."
+    },
+    {
+      "jurisdiccion_id": "prov-06",
+      "nombre": "Buenos Aires",
+      "estado": "ok",
+      "sitio": "https://www.gba.gob.ar/",
+      "guia_url": "https://portal.gba.gob.ar/web/portal/",
+      "listado_urls": [
+        "https://portal.gba.gob.ar/web/portal/"
+      ],
+      "paginacion": null,
+      "regex_fichas": null,
+      "categorias": [
+        {
+          "nombre": "Registro de las Personas",
+          "url": "https://www.gba.gob.ar/registrodelaspersonas"
+        },
+        {
+          "nombre": "Línea 144",
+          "url": "https://linea144.gba.gob.ar/"
+        },
+        {
+          "nombre": "Seguridad Vial",
+          "url": "https://www.gba.gob.ar/seguridadvial"
+        },
+        {
+          "nombre": "Seguridad",
+          "url": "https://seguridad.gba.gob.ar/"
+        },
+        {
+          "nombre": "Continuemos estudiando",
+          "url": "https://continuemosestudiando.abc.gob.ar/"
+        },
+        {
+          "nombre": "Vacunación",
+          "url": "https://www.gba.gob.ar/vacunacion/"
+        }
+      ],
+      "notas": "El contenido provisto para el Portal de Trámites (portal.gba.gob.ar/web/portal/) no incluye listados detallados, parámetros de paginación ni enlaces a fichas individuales de trámites para inferir una expresión regular."
+    },
+    {
+      "jurisdiccion_id": "prov-10",
+      "nombre": "Catamarca",
+      "estado": "requiere_js",
+      "sitio": "https://portal.catamarca.gob.ar/",
+      "guia_url": null,
+      "listado_urls": [],
+      "paginacion": null,
+      "regex_fichas": null,
+      "categorias": [],
+      "notas": "Página protegida por verificación de seguridad de Cloudflare que requiere ejecución de JavaScript"
+    },
+    {
+      "jurisdiccion_id": "prov-14",
+      "nombre": "Córdoba",
+      "estado": "no_encontrado",
+      "sitio": "https://www.cba.gov.ar/",
+      "guia_url": null,
+      "listado_urls": [],
+      "paginacion": null,
+      "regex_fichas": null,
+      "categorias": [],
+      "notas": "La página devolvió un error 403 (Request blocked) de CloudFront y no hay links disponibles."
+    },
+    {
+      "jurisdiccion_id": "prov-18",
+      "nombre": "Corrientes",
+      "estado": "ok",
+      "sitio": "https://www.corrientes.gob.ar/",
+      "guia_url": "https://www.corrientes.gob.ar/tramites",
+      "listado_urls": [
+        "https://www.corrientes.gob.ar/tramites"
+      ],
+      "paginacion": null,
+      "regex_fichas": "^https://www\\.corrientes\\.gob\\.ar/tramites/[a-z0-9-]+$",
+      "categorias": [
+        {
+          "nombre": "Cultura",
+          "url": "https://www.corrientes.gob.ar/tramites?tag=Cultura"
+        },
+        {
+          "nombre": "Deportes",
+          "url": "https://www.corrientes.gob.ar/tramites?tag=Deportes"
+        },
+        {
+          "nombre": "Medio ambiente",
+          "url": "https://www.corrientes.gob.ar/tramites?tag=Medio-ambiente"
+        },
+        {
+          "nombre": "Obras e infraestructura",
+          "url": "https://www.corrientes.gob.ar/tramites?tag=Obras-e-infraestructura"
+        },
+        {
+          "nombre": "Pymes y emprendimientos",
+          "url": "https://www.corrientes.gob.ar/tramites?tag=Pymes-y-emprendimientos"
+        },
+        {
+          "nombre": "Salud",
+          "url": "https://www.corrientes.gob.ar/tramites?tag=Salud"
+        },
+        {
+          "nombre": "Seguridad",
+          "url": "https://www.corrientes.gob.ar/tramites?tag=Seguridad"
+        },
+        {
+          "nombre": "Trabajo",
+          "url": "https://www.corrientes.gob.ar/tramites?tag=Trabajo"
+        },
+        {
+          "nombre": "Vivienda",
+          "url": "https://www.corrientes.gob.ar/tramites?tag=Vivienda"
+        }
+      ],
+      "notas": "El listado de trámites se carga dinámicamente mediante JavaScript ('Cargando... Obteniendo información, por favor espere...'), por lo que no se visualizan enlaces directos a fichas individuales ni controles de paginación en el HTML estático provisto."
+    },
+    {
+      "jurisdiccion_id": "prov-22",
+      "nombre": "Chaco",
+      "estado": "ok",
+      "sitio": "https://chaco.gob.ar/",
+      "guia_url": "https://tramites.chaco.gob.ar/",
+      "listado_urls": [
+        "https://tramites.chaco.gob.ar/",
+        "https://consultatramites.chaco.gob.ar/"
+      ],
+      "paginacion": null,
+      "regex_fichas": null,
+      "categorias": [],
+      "notas": "El contenido provisto para tramites.chaco.gob.ar no incluye listado estático, fichas ni paginación (posiblemente sea una aplicación renderizada en el cliente/SPA o requiera búsqueda interactiva). En los enlaces provistos no figuran URLs directas a fichas de trámites individuales."
+    },
+    {
+      "jurisdiccion_id": "prov-26",
+      "nombre": "Chubut",
+      "estado": "ok",
+      "sitio": "https://www.chubut.gov.ar/",
+      "guia_url": "https://www.chubut.gob.ar/tramites",
+      "listado_urls": [
+        "https://www.chubut.gob.ar/tramites"
+      ],
+      "paginacion": null,
+      "regex_fichas": null,
+      "categorias": [
+        {
+          "nombre": "Registro Civil",
+          "url": "https://chubut.gob.ar/destacado?result_id=1291"
+        },
+        {
+          "nombre": "Inscripciones",
+          "url": "https://www.chubut.gob.ar/destacado?result_id=1277"
+        },
+        {
+          "nombre": "Inspección General de Justicia",
+          "url": "https://www.chubut.gob.ar/destacado?result_id=1276"
+        },
+        {
+          "nombre": "Instituto Provincial de la Vivienda",
+          "url": "https://chubut.gob.ar/destacado?result_id=1286"
+        }
+      ],
+      "notas": "La provincia canaliza la gestión y consulta de trámites a través del chatbot DINO por WhatsApp (+54 9 280 460-3466). En las páginas provistas no se identifican fichas individuales de trámites con URL propia, únicamente accesos por organismo/categoría."
+    },
+    {
+      "jurisdiccion_id": "prov-30",
+      "nombre": "Entre Ríos",
+      "estado": "ok",
+      "sitio": "https://www.entrerios.gov.ar/",
+      "guia_url": "https://portal.entrerios.gov.ar/pf/organismo-tramites",
+      "listado_urls": [
+        "https://portal.entrerios.gov.ar/pf/organismo-tramites"
+      ],
+      "paginacion": null,
+      "regex_fichas": "^https://portal\\.entrerios\\.gov\\.ar/pf/tramite/\\d+$",
+      "categorias": [],
+      "notas": "El portal cuenta con un buscador por organismo en /pf/organismo-tramites. En el contenido provisto no se observan URLs específicas para categorías de trámites ni parámetros de paginación."
+    },
+    {
+      "jurisdiccion_id": "prov-34",
+      "nombre": "Formosa",
+      "estado": "ok",
+      "sitio": "https://www.formosa.gob.ar/",
+      "guia_url": "https://www.formosa.gob.ar/tramites",
+      "listado_urls": [
+        "https://www.formosa.gob.ar/tramites",
+        "https://www.formosa.gob.ar/tramites/temas",
+        "https://www.formosa.gob.ar/tramites/organismos",
+        "https://www.formosa.gob.ar/tramites/destinatarios"
+      ],
+      "paginacion": null,
+      "regex_fichas": "^https://www\\.formosa\\.gob\\.ar/tramite/\\d+/[a-z0-9_-]+$",
+      "categorias": [
+        {
+          "nombre": "Buscar por Temas",
+          "url": "https://www.formosa.gob.ar/tramites/temas"
+        },
+        {
+          "nombre": "Buscar por Organismos",
+          "url": "https://www.formosa.gob.ar/tramites/organismos"
+        },
+        {
+          "nombre": "Buscar por Destinatarios",
+          "url": "https://www.formosa.gob.ar/tramites/destinatarios"
+        }
+      ],
+      "notas": "Las fichas de trámites utilizan la ruta singular '/tramite/{id}/{slug}', a diferencia de las secciones de listado y categorías que usan '/tramites'. No se observan parámetros de paginación explícitos en los datos provistos."
+    },
+    {
+      "jurisdiccion_id": "prov-38",
+      "nombre": "Jujuy",
+      "estado": "ok",
+      "sitio": "https://www.jujuy.gob.ar/",
+      "guia_url": "https://tramites.tu.jujuy.gob.ar/",
+      "listado_urls": [
+        "https://tramites.tu.jujuy.gob.ar/"
+      ],
+      "paginacion": null,
+      "regex_fichas": "^https://tramites\\.tu\\.jujuy\\.gob\\.ar/(?!grupo/|tujujuy-|contactos/?$)[a-z0-9-]+/?$",
+      "categorias": [
+        {
+          "nombre": "Identidad y Certificaciones",
+          "url": "https://tramites.tu.jujuy.gob.ar/grupo/identidad-y-certificaciones/"
+        },
+        {
+          "nombre": "Familia y Convivencia",
+          "url": "https://tramites.tu.jujuy.gob.ar/grupo/familia-y-convivencia/"
+        },
+        {
+          "nombre": "Educación y Cultura",
+          "url": "https://tramites.tu.jujuy.gob.ar/grupo/educacion-y-cultura/"
+        },
+        {
+          "nombre": "Deportes y Ocio",
+          "url": "https://tramites.tu.jujuy.gob.ar/grupo/deportes-y-ocio/"
+        },
+        {
+          "nombre": "Servicios Especializados",
+          "url": "https://tramites.tu.jujuy.gob.ar/grupo/servicios-especializados/"
+        },
+        {
+          "nombre": "Sectores Productivos",
+          "url": "https://tramites.tu.jujuy.gob.ar/grupo/sectores-productivos/"
+        },
+        {
+          "nombre": "Organizaciones y Empresas",
+          "url": "https://tramites.tu.jujuy.gob.ar/grupo/organizaciones-y-empresas/"
+        },
+        {
+          "nombre": "Seguridad y Denuncias",
+          "url": "https://tramites.tu.jujuy.gob.ar/grupo/seguridad-y-denuncias/"
+        },
+        {
+          "nombre": "Salud y Prevención",
+          "url": "https://tramites.tu.jujuy.gob.ar/grupo/salud-y-prevencion/"
+        },
+        {
+          "nombre": "Vivienda y Propiedad",
+          "url": "https://tramites.tu.jujuy.gob.ar/grupo/vivienda-y-propiedad/"
+        },
+        {
+          "nombre": "Servicios Públicos",
+          "url": "https://tramites.tu.jujuy.gob.ar/grupo/servicios-publicos/"
+        },
+        {
+          "nombre": "Obras Públicas y Contratistas del Estado",
+          "url": "https://tramites.tu.jujuy.gob.ar/grupo/obras-publicas-y-contratistas-del-estado/"
+        },
+        {
+          "nombre": "Gestión Ambiental",
+          "url": "https://tramites.tu.jujuy.gob.ar/grupo/gestion-ambiental/"
+        },
+        {
+          "nombre": "Identidad y Vida Personal",
+          "url": "https://tramites.tu.jujuy.gob.ar/grupo/identidad-y-vida-personal/"
+        },
+        {
+          "nombre": "Negocios y Economía",
+          "url": "https://tramites.tu.jujuy.gob.ar/grupo/negocios-y-economia/"
+        },
+        {
+          "nombre": "Bienestar y Protección Ciudadana",
+          "url": "https://tramites.tu.jujuy.gob.ar/grupo/bienestar-y-proteccion-ciudadana"
+        },
+        {
+          "nombre": "Propiedad, Habitat, Servicios y Obras",
+          "url": "https://tramites.tu.jujuy.gob.ar/grupo/propiedad-habitat-servicios-y-obras"
+        }
+      ],
+      "notas": "El portal estructura los trámites por áreas y subgrupos bajo la ruta /grupo/. Las fichas individuales cuelgan directamente de la raíz del dominio tramites.tu.jujuy.gob.ar."
+    },
+    {
+      "jurisdiccion_id": "prov-42",
+      "nombre": "La Pampa",
+      "estado": "ok",
+      "sitio": "https://www.lapampa.gob.ar/",
+      "guia_url": "https://portaldetramites.lapampa.gob.ar/",
+      "listado_urls": [
+        "https://portaldetramites.lapampa.gob.ar/"
+      ],
+      "paginacion": null,
+      "regex_fichas": "^https://portaldetramites\\.lapampa\\.gob\\.ar/tramites/[a-z0-9-]+$",
+      "categorias": [],
+      "notas": "En los links y texto provistos no se evidencian parámetros de paginación ni URLs específicas para las categorías/temáticas. La página principal del portal funciona como listado centralizado."
+    },
+    {
+      "jurisdiccion_id": "prov-46",
+      "nombre": "La Rioja",
+      "estado": "no_encontrado",
+      "sitio": "https://www.larioja.gob.ar/",
+      "guia_url": null,
+      "listado_urls": [],
+      "paginacion": null,
+      "regex_fichas": null,
+      "categorias": [],
+      "notas": "El sitio oficial no contiene una guía general, portal ni buscador de trámites ciudadanos, ni enlaces a una sección de trámites."
+    },
+    {
+      "jurisdiccion_id": "prov-50",
+      "nombre": "Mendoza",
+      "estado": "no_encontrado",
+      "sitio": "https://www.mendoza.gov.ar/",
+      "guia_url": null,
+      "listado_urls": [],
+      "paginacion": null,
+      "regex_fichas": null,
+      "categorias": [],
+      "notas": "La página devolvió un error 403 (Request blocked por CloudFront) y no hay contenido ni links disponibles."
+    },
+    {
+      "jurisdiccion_id": "prov-54",
+      "nombre": "Misiones",
+      "estado": "ok",
+      "sitio": "https://misiones.gob.ar/",
+      "guia_url": "https://misiones.gob.ar/servicios-on-line/",
+      "listado_urls": [
+        "https://misiones.gob.ar/servicios-on-line/"
+      ],
+      "paginacion": null,
+      "regex_fichas": null,
+      "categorias": [],
+      "notas": "El portal misiones.gob.ar no cuenta con un catálogo unificado de trámites estructurados en fichas individuales ni paginación, sino con un directorio de 'Servicios On Line' que enlaza directamente a plataformas y subsitios externos de cada organismo provincial (por ejemplo, Registro Civil, Boleto Estudiantil, ATM, etc.)."
+    },
+    {
+      "jurisdiccion_id": "prov-58",
+      "nombre": "Neuquén",
+      "estado": "ok",
+      "sitio": "https://www.neuquen.gob.ar/",
+      "guia_url": "https://www.neuquen.gob.ar/tramites/",
+      "listado_urls": [
+        "https://www.neuquen.gob.ar/tramites/"
+      ],
+      "paginacion": null,
+      "regex_fichas": null,
+      "categorias": [
+        {
+          "nombre": "Ministerio Jefatura de Gabinete",
+          "url": "https://www.neuquen.gob.ar/ministerio-de-jefatura-de-gabinete/"
+        },
+        {
+          "nombre": "Ministerio de Gobierno, Mujeres y Derechos Humanos",
+          "url": "https://www.neuquen.gob.ar/ministerio-de-gobierno-mujeres-derechos-humanos/"
+        },
+        {
+          "nombre": "Ministerio de Educación",
+          "url": "https://www.neuquen.gob.ar/ministerio-de-educacion-2/"
+        },
+        {
+          "nombre": "Ministerio de Economía, Producción e Industria",
+          "url": "https://www.neuquen.gob.ar/ministerio-de-economia-produccion-e-industria/"
+        },
+        {
+          "nombre": "Ministerio de Trabajo y Desarrollo Humano",
+          "url": "https://www.neuquen.gob.ar/ministerio-de-trabajo-y-desarrollo-humano/"
+        },
+        {
+          "nombre": "Ministerio de Juventud, Deportes y Cultura",
+          "url": "https://www.neuquen.gob.ar/ministerio-de-juventud-deporte-cultura/"
+        },
+        {
+          "nombre": "Ministerio de Salud",
+          "url": "https://www.neuquen.gob.ar/ministerio-de-salud/"
+        },
+        {
+          "nombre": "Ministerio de Seguridad",
+          "url": "https://www.neuquen.gob.ar/ministerio-de-seguridad/"
+        },
+        {
+          "nombre": "Ministerio de Energía",
+          "url": "https://www.neuquen.gob.ar/ministerio-de-energia/"
+        },
+        {
+          "nombre": "Ministerio de Infraestructura",
+          "url": "https://www.neuquen.gob.ar/ministerio-de-infraestructura/"
+        },
+        {
+          "nombre": "Ministerio de Turismo, Ambiente y Recursos Naturales",
+          "url": "https://www.neuquen.gob.ar/ministerio-de-turismo-ambiente-recursos-naturales/"
+        }
+      ],
+      "notas": "La sección de trámites no posee una estructura homogénea de fichas individuales ni paginación; funciona como un concentrador de accesos y enlaces externos a portales de distintos organismos y ministerios de la provincia."
+    },
+    {
+      "jurisdiccion_id": "prov-62",
+      "nombre": "Río Negro",
+      "estado": "no_encontrado",
+      "sitio": "https://www.rionegro.gov.ar/",
+      "guia_url": null,
+      "listado_urls": [],
+      "paginacion": null,
+      "regex_fichas": null,
+      "categorias": [],
+      "notas": "No se encontró un portal, buscador o guía general de trámites ni enlaces hacia los mismos entre los links disponibles."
+    },
+    {
+      "jurisdiccion_id": "prov-66",
+      "nombre": "Salta",
+      "estado": "ok",
+      "sitio": "https://www.salta.gob.ar/",
+      "guia_url": "http://atencionciudadana.salta.gob.ar/",
+      "listado_urls": [
+        "http://atencionciudadana.salta.gob.ar/"
+      ],
+      "paginacion": null,
+      "regex_fichas": null,
+      "categorias": [],
+      "notas": "Portal oficial de Atención Ciudadana y trámites de la Provincia de Salta"
+    },
+    {
+      "jurisdiccion_id": "prov-70",
+      "nombre": "San Juan",
+      "estado": "ok",
+      "sitio": "https://sisanjuan.gob.ar/",
+      "guia_url": "https://sisanjuan.gob.ar/info-servicios",
+      "listado_urls": [
+        "https://sisanjuan.gob.ar/info-servicios"
+      ],
+      "paginacion": "?start=N (offset que avanza de 6 en 6)",
+      "regex_fichas": "https://sisanjuan\\.gob\\.ar/23-[a-z0-9-]+/\\d{4}-\\d{2}-\\d{2}/\\d+-[a-z0-9-]+$",
+      "categorias": [
+        {
+          "nombre": "Gobernador Dr. Marcelo Orrego",
+          "url": "https://sisanjuan.gob.ar/23-secciones/gobernador"
+        },
+        {
+          "nombre": "Producción Trabajo e Innovación",
+          "url": "https://sisanjuan.gob.ar/23-secciones/produccion"
+        },
+        {
+          "nombre": "Educación",
+          "url": "https://sisanjuan.gob.ar/23-secciones/educacion"
+        },
+        {
+          "nombre": "Economía Finanzas y Hacienda",
+          "url": "https://sisanjuan.gob.ar/23-secciones/economia"
+        },
+        {
+          "nombre": "Gobierno",
+          "url": "https://sisanjuan.gob.ar/23-secciones/gobierno"
+        },
+        {
+          "nombre": "Desarrollo Humano",
+          "url": "https://sisanjuan.gob.ar/23-secciones/desarrollo-humano"
+        },
+        {
+          "nombre": "Prensa",
+          "url": "https://sisanjuan.gob.ar/23-secciones/prensa"
+        },
+        {
+          "nombre": "Obras Sanitarias",
+          "url": "https://sisanjuan.gob.ar/23-secciones/osse"
+        },
+        {
+          "nombre": "Turismo y Cultura",
+          "url": "https://sisanjuan.gob.ar/23-secciones/turismo-y-cultura"
+        },
+        {
+          "nombre": "Deporte",
+          "url": "https://sisanjuan.gob.ar/23-secciones/deportes"
+        },
+        {
+          "nombre": "Minería",
+          "url": "https://sisanjuan.gob.ar/23-secciones/mineria"
+        },
+        {
+          "nombre": "Infraestructura Agua y Energía",
+          "url": "https://sisanjuan.gob.ar/23-secciones/infraestructura"
+        },
+        {
+          "nombre": "Salud",
+          "url": "https://sisanjuan.gob.ar/23-secciones/salud"
+        },
+        {
+          "nombre": "Ambiente y Desarrollo Sustentable",
+          "url": "https://sisanjuan.gob.ar/23-secciones/ambiente"
+        },
+        {
+          "nombre": "Seguridad y Orden Público",
+          "url": "https://sisanjuan.gob.ar/23-secciones/seguridad"
+        }
+      ],
+      "notas": "La sección de trámites y servicios (/info-servicios) centraliza notas informativas estructuradas como trámites etiquetados. La paginación usa Joomla/K2 con saltos de 6 elementos (?start=6, ?start=12, etc.) hasta un total de al menos 42 páginas."
+    },
+    {
+      "jurisdiccion_id": "prov-74",
+      "nombre": "San Luis",
+      "estado": "ok",
+      "sitio": "https://www.sanluis.gov.ar/",
+      "guia_url": "https://sanluis.gov.ar/tramites-online/",
+      "listado_urls": [
+        "https://sanluis.gov.ar/tramites-online/"
+      ],
+      "paginacion": null,
+      "regex_fichas": "^https://sanluis\\.gov\\.ar/tramites-online/detalle\\.php\\?slug=[a-z0-9-]+$",
+      "categorias": [],
+      "notas": "Los 28 trámites disponibles se listan completos en la página de trámites online sin paginación; las categorías y organismos funcionan como filtros interactivos dentro de la misma vista sin URLs individuales provistas."
+    },
+    {
+      "jurisdiccion_id": "prov-78",
+      "nombre": "Santa Cruz",
+      "estado": "ok",
+      "sitio": "https://www.santacruz.gob.ar/",
+      "guia_url": "https://www.santacruz.gob.ar/tramites-y-servicios/ciudadano",
+      "listado_urls": [
+        "https://www.santacruz.gob.ar/tramites-y-servicios/ciudadano",
+        "https://www.santacruz.gob.ar/tramites-y-servicios/empresas",
+        "https://www.santacruz.gob.ar/tramites-y-servicios/gobierno"
+      ],
+      "paginacion": null,
+      "regex_fichas": null,
+      "categorias": [
+        {
+          "nombre": "Ciudadano",
+          "url": "https://www.santacruz.gob.ar/tramites-y-servicios/ciudadano"
+        },
+        {
+          "nombre": "Empresas",
+          "url": "https://www.santacruz.gob.ar/tramites-y-servicios/empresas"
+        },
+        {
+          "nombre": "Gobierno",
+          "url": "https://www.santacruz.gob.ar/tramites-y-servicios/gobierno"
+        }
+      ],
+      "notas": "El portal no posee un sistema unificado de fichas de trámites ni paginación; funciona como un directorio centralizado que enlaza directamente a múltiples subdominios y sistemas de gestión de cada organismo (registrocivil, adopcion, pesca, derechos humanos, iduv, etc.)."
+    },
+    {
+      "jurisdiccion_id": "prov-82",
+      "nombre": "Santa Fe",
+      "estado": "ok",
+      "sitio": "https://www.santafe.gob.ar/",
+      "guia_url": "https://www.santafe.gob.ar/index.php/tramites/modul1/index?m=home",
+      "listado_urls": [
+        "https://www.santafe.gob.ar/index.php/tramites/modul1/index?m=home",
+        "https://www.santafe.gob.ar/gestionesciudadanas/"
+      ],
+      "paginacion": null,
+      "regex_fichas": "https://www\\.santafe\\.gob\\.ar/index\\.php/tramites/modul1/index\\?m=descripcion&id=\\d+",
+      "categorias": [
+        {
+          "nombre": "Gobierno e Innovación Pública",
+          "url": "https://www.santafe.gov.ar/index.php/web/content/view/full/93805"
+        },
+        {
+          "nombre": "Economía",
+          "url": "https://www.santafe.gov.ar/index.php/web/content/view/full/93779"
+        },
+        {
+          "nombre": "Desarrollo Productivo",
+          "url": "https://www.santafe.gov.ar/index.php/web/content/view/full/93790"
+        },
+        {
+          "nombre": "Justicia y Seguridad",
+          "url": "https://www.santafe.gob.ar/index.php/web/content/view/full/93815"
+        },
+        {
+          "nombre": "Obras Públicas",
+          "url": "https://www.santafe.gov.ar/index.php/web/content/view/full/93822"
+        },
+        {
+          "nombre": "Salud",
+          "url": "https://www.santafe.gov.ar/index.php/web/content/view/full/93796"
+        },
+        {
+          "nombre": "Educación",
+          "url": "https://educacion.santafe.gob.ar/"
+        },
+        {
+          "nombre": "Igualdad y Desarrollo Humano",
+          "url": "https://www.santafe.gov.ar/index.php/web/content/view/full/93747"
+        },
+        {
+          "nombre": "Trabajo, Empleo y Seguridad Social",
+          "url": "https://www.santafe.gov.ar/index.php/web/content/view/full/93760"
+        },
+        {
+          "nombre": "Cultura",
+          "url": "https://www.santafecultura.gob.ar/"
+        },
+        {
+          "nombre": "Ambiente y Cambio Climático",
+          "url": "https://www.santafe.gob.ar/ms/ambiente/"
+        }
+      ],
+      "notas": "El sistema de trámites utiliza el módulo 'tramites/modul1/index' con parámetro 'm=descripcion&id=ID' para las fichas individuales y 'm=home' para el portal de gestiones. No se observa un esquema explícito de paginación en los enlaces provistos."
+    },
+    {
+      "jurisdiccion_id": "prov-86",
+      "nombre": "Santiago del Estero",
+      "estado": "ok",
+      "sitio": "https://www.sde.gob.ar/",
+      "guia_url": "http://turnos.sde.gob.ar/tramites",
+      "listado_urls": [
+        "http://turnos.sde.gob.ar/tramites"
+      ],
+      "paginacion": null,
+      "regex_fichas": "^https?://turnos\\.sde\\.gob\\.ar/tramites/\\d+$",
+      "categorias": [],
+      "notas": "El portal de trámites corresponde al Sistema de Turnos de la provincia, el cual lista los trámites disponibles en una única tabla interactiva sin paginación visible ni categorías por URL."
+    },
+    {
+      "jurisdiccion_id": "prov-90",
+      "nombre": "Tucumán",
+      "estado": "ok",
+      "sitio": "https://www.tucuman.gob.ar/",
+      "guia_url": "http://www.guiadetramites.tucuman.gov.ar/",
+      "listado_urls": [
+        "https://guiadetramites.tucuman.gob.ar/"
+      ],
+      "paginacion": null,
+      "regex_fichas": "https?://guiadetramites\\.tucuman\\.gob\\.ar/tramite/\\d+/[a-z0-9-]+\\.html.*",
+      "categorias": [
+        {
+          "nombre": "Adultos Mayores",
+          "url": "https://guiadetramites.tucuman.gob.ar/tematica/2/adultos-mayores.html"
+        },
+        {
+          "nombre": "Menores",
+          "url": "https://guiadetramites.tucuman.gob.ar/tematica/8/menores.html"
+        },
+        {
+          "nombre": "Vivienda",
+          "url": "https://guiadetramites.tucuman.gob.ar/tematica/950/vivienda.html"
+        },
+        {
+          "nombre": "Trabajo y empleo",
+          "url": "https://guiadetramites.tucuman.gob.ar/tematica/11/trabajo-y-empleo.html"
+        },
+        {
+          "nombre": "Turismo y Cultura",
+          "url": "https://guiadetramites.tucuman.gob.ar/tematica/3/turismo-y-cultura.html"
+        },
+        {
+          "nombre": "Educación",
+          "url": "https://guiadetramites.tucuman.gob.ar/tematica/4/educacion.html"
+        },
+        {
+          "nombre": "Mujer",
+          "url": "https://guiadetramites.tucuman.gob.ar/tematica/6/mujer.html"
+        },
+        {
+          "nombre": "Jóvenes",
+          "url": "https://guiadetramites.tucuman.gob.ar/tematica/7/jovenes.html"
+        },
+        {
+          "nombre": "Salud",
+          "url": "https://guiadetramites.tucuman.gob.ar/tematica/9/salud.html"
+        },
+        {
+          "nombre": "Seguridad",
+          "url": "https://guiadetramites.tucuman.gob.ar/tematica/10/seguridad.html"
+        },
+        {
+          "nombre": "Empleado público",
+          "url": "https://guiadetramites.tucuman.gob.ar/tematica/5/empleado-publico.html"
+        },
+        {
+          "nombre": "Ciudadanía",
+          "url": "https://guiadetramites.tucuman.gob.ar/tematica/12219/ciudadania.html"
+        },
+        {
+          "nombre": "Economía y Producción",
+          "url": "https://guiadetramites.tucuman.gob.ar/tematica/12218/economia-y-produccion.html"
+        }
+      ],
+      "notas": "No se observa paginación explícita en los enlaces provistos de la página principal. Conviene ingresar por la portada o recorrer directamente cada una de las temáticas/categorías."
+    },
+    {
+      "jurisdiccion_id": "prov-94",
+      "nombre": "Tierra del Fuego",
+      "estado": "ok",
+      "sitio": "https://www.tierradelfuego.gob.ar/",
+      "guia_url": "https://www.tierradelfuego.gob.ar/ciudadania/",
+      "listado_urls": [
+        "https://www.tierradelfuego.gob.ar/ciudadania/"
+      ],
+      "paginacion": null,
+      "regex_fichas": null,
+      "categorias": [
+        {
+          "nombre": "TDF Segura",
+          "url": "https://www.tierradelfuego.gob.ar/veranoseguro/"
+        },
+        {
+          "nombre": "Créditos",
+          "url": "https://www.tierradelfuego.gob.ar/requisitos-para-creditos/"
+        },
+        {
+          "nombre": "Registro Civil",
+          "url": "https://www.tierradelfuego.gob.ar/registro-civil/"
+        },
+        {
+          "nombre": "Defensa al Consumidor",
+          "url": "https://www.tierradelfuego.gob.ar/defensa-del-consumidor/"
+        },
+        {
+          "nombre": "Subsidio de Gas",
+          "url": "https://www.tierradelfuego.gob.ar/programas-especificos-subsidio-tarifa-de-gas/"
+        }
+      ],
+      "notas": "La página /ciudadania/ funciona como portal centralizador de accesos y servicios ciudadanos. Entre los links provistos no figuran fichas de trámites individuales con un patrón de URL diferenciable del resto de las páginas institucionales."
+    }
+  ]
+}

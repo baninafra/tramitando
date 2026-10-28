@@ -1,0 +1,103 @@
+{
+  "tramite": {
+    "slug": "licencia-de-conducir-original",
+    "nombre": "Licencia de conducir - Original",
+    "nombre_busqueda": "Licencia de conducir original",
+    "resumen": "Trámite para obtener la primera licencia de conducir en La Costa. Requiere DNI, curso de educación vial, examen teórico y práctico, y pago de arancel.",
+    "sinonimos": [
+      "Licencia original",
+      "Obtener licencia por primera vez"
+    ],
+    "temas": [
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060420",
+  "organismo": {
+    "nombre": "Municipalidad de La Costa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas mayores de 16 años."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI en mano o digital en la aplicación Mi Argentina (original y copia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Audiometría vigente del año corriente (en caso de problemas auditivos).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si tiene 16 o 17 años, debe contar con la autorización respectiva firmada por ambos padres, sin excepción, ante Juzgado de Paz o escribano público.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado impreso del Curso Nacional de Educación Vial Digital para la categoría elegida (auto, moto o ambos en el caso de optar por las dos categorías).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Traer el vehículo respectivo para el examen práctico, el cual deberá contar con la documentación correspondiente para su circulación (Ley 24.449), conducido por persona habilitada (moto o auto; en el caso de la moto, de la cilindrada a la que se quiere acceder).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el DNI en mano o digital en la aplicación Mi Argentina (original y copia)."
+      },
+      {
+        "texto": "Presentá la Audiometría vigente del año corriente (en caso de problemas auditivos)."
+      },
+      {
+        "texto": "Si sos menor de 18 años, presentá la autorización firmada por ambos padres, sin excepción, ante Juzgado de Paz o escribano público."
+      },
+      {
+        "texto": "Presentá el Certificado impreso del Curso Nacional de Educación Vial Digital para la categoría elegida."
+      },
+      {
+        "texto": "Traé el vehículo respectivo para el examen práctico, con la documentación correspondiente para su circulación, conducido por persona habilitada."
+      },
+      {
+        "texto": "Rendí el examen teórico y práctico."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 2850000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://lacosta.gob.ar/requisitos-y-tramites/"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://lacosta.gob.ar/requisitos-y-tramites/",
+      "titulo": "La Costa » Requisitos y Trámites - La Costa",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T07:12:46.115Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el plazo de tiempo para la tramitación.",
+    "No se especifica si se requiere turno."
+  ]
+}

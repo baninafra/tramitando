@@ -1,0 +1,91 @@
+{
+  "tramite": {
+    "slug": "salud-municipal",
+    "nombre": "Salud municipal",
+    "nombre_busqueda": "Salud Villa Ascasubi",
+    "resumen": "La Municipalidad de Villa Ascasubi ofrece controles de salud, vacunación y campañas de prevención en el Hospital Municipal Eva Perón y el Centro APS.",
+    "sinonimos": [
+      "Centro de Salud Villa Ascasubi",
+      "Hospital Municipal Eva Perón"
+    ],
+    "temas": [
+      "salud-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141505",
+  "organismo": {
+    "nombre": "Municipalidad de Villa Ascasubi",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que necesite controles de salud en la localidad."
+    ],
+    "requisitos": [
+      {
+        "texto": "Presentación de DNI o documento de identidad válido.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cita previa si se requiere para controles específicos.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acudí al Hospital Municipal Eva Perón o al Centro APS."
+      },
+      {
+        "texto": "Ingresá al consultorio correspondiente."
+      },
+      {
+        "texto": "Realizá los exámenes o controles solicitados."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Llevá tu historial médico si tenés uno.",
+      "Acordá los horarios de atención antes de ir."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Hospital Municipal Eva Perón",
+      "direccion": "Hospital Municipal Eva Perón",
+      "localidad": "Villa Ascasubi",
+      "horario": null,
+      "fuente_url": "https://villaascasubi.gob.ar/secciones/salud/"
+    },
+    {
+      "nombre": "Centro APS",
+      "direccion": "Centro APS",
+      "localidad": "Villa Ascasubi",
+      "horario": null,
+      "fuente_url": "https://villaascasubi.gob.ar/secciones/salud/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://villaascasubi.gob.ar/secciones/salud/",
+      "titulo": "Salud | Municipalidad de Villa Ascasubi",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T09:55:16.837Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horarios exactos de atención en el Hospital Municipal Eva Perón y Centro APS.",
+    "Si se requiere cita previa para los controles de salud."
+  ]
+}

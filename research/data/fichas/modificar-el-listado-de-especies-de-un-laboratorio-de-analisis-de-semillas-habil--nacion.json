@@ -1,0 +1,90 @@
+{
+  "tramite": {
+    "slug": "modificar-listado-especies-laboratorio-analisis-semillas",
+    "nombre": "Modificar el listado de especies de un laboratorio de análisis de semillas habilitado",
+    "nombre_busqueda": "Modificar listado especies laboratorio semillas",
+    "resumen": "El Director Técnico de un laboratorio de análisis de semillas habilitado puede solicitar la inclusión o baja de especies mediante la carga de formularios en la mesa de entradas digital y el envío de comprobante de pago.",
+    "sinonimos": [],
+    "temas": [
+      "bromatologia-y-alimentos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto Nacional de Semillas",
+    "sigla": "INASE",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Al Director Técnico de un laboratorio de análisis de semillas habilitado que requiera modificar el listado de especies de un laboratorio habilitado."
+    ],
+    "requisitos": [
+      {
+        "texto": "Estar inscripto en el Registro Nacional de Fiscalización de Semillas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago del trámite.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario FO170 Listado de especies a habilitar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario FO172 Listado de equipamiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de declaración del Director Técnico informando las modificaciones realizadas en el formulario de modificación del listado de especies, la misma debe incluir el número de inscripto en el RNCyFS.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Descargá, completá y cargá a través de la mesa de entradas digital el formulario de inclusión de especies y la nota de declaración, siguiendo los pasos descriptos en el instructivo carga de documentos en tad."
+      },
+      {
+        "texto": "Una vez realizada la carga, envías por correo electrónico a [email protected] el número de trámite que le brindará el sistema junto con el comprobante de pago del trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "30 días",
+    "consejos": [
+      "Hasta el 31/03 más próximo, pasado ese lapso se renovará con el pago de la anualidad de la categoría I subcategoría 1, en los casos en los que se continúe cumpliendo con todos los requisitos técnicos."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 3753300,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/modificar-el-listado-de-especies-de-un-laboratorio-de-analisis-de-semillas-habilitado"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/modificar-el-listado-de-especies-de-un-laboratorio-de-analisis-de-semillas-habilitado",
+      "titulo": "Modificar el listado de especies de un laboratorio de análisis de semillas habilitado | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-27T05:56:09.004Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La dirección de correo electrónico exacta para el envío del comprobante de pago no se especifica en el texto, solo aparece como [email protected]."
+  ]
+}

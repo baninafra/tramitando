@@ -1,0 +1,105 @@
+{
+  "tramite": {
+    "slug": "consulta-infracciones-vehiculares",
+    "nombre": "Consulta de infracciones vehiculares y fotomultas",
+    "nombre_busqueda": "Consulta infracciones vehiculares",
+    "resumen": "Permite consultar faltas y multas de vehículos mediante DNI, dominio o dirección, y emitir libre deuda.",
+    "sinonimos": [
+      "Consulta de faltas vehiculares",
+      "Consulta de multas vehiculares",
+      "Consulta de infracciones vehiculares"
+    ],
+    "temas": [
+      "infracciones-y-multas",
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060490",
+  "organismo": {
+    "nombre": "Municipio de Lomas de Zamora",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en verificar faltas o multas de un vehículo."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del propietario o conductor del vehículo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dominio del vehículo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dirección del vehículo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio web del Municipio de Lomas de Zamora."
+      },
+      {
+        "texto": "Seleccioná la opción de Consulta de Faltas."
+      },
+      {
+        "texto": "Escribí el DNI, dominio o dirección del vehículo para buscar la infracción."
+      },
+      {
+        "texto": "Revisá los resultados mostrados en pantalla."
+      },
+      {
+        "texto": "Si querés pagar, elegí la forma de pago disponible."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://webextra.lomasdezamora.gov.ar/infracciones/",
+      "titulo": "MLZ - SE 1.0",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T14:58:37.254Z"
+    },
+    {
+      "url": "https://webextra.lomasdezamora.gov.ar/infracciones/ConsultaFaltasNuevoMP.aspx",
+      "titulo": "Municipio de Lomas de Zamora",
+      "bloques": [
+        "requisitos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T14:58:37.254Z"
+    },
+    {
+      "url": "https://webextra.lomasdezamora.gov.ar/infracciones/libredeuda.aspx",
+      "titulo": "MLZ - SE 1.0",
+      "bloques": [
+        "requisitos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T14:58:37.254Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los montos exactos de las multas no se especifican en el texto.",
+    "El plazo para pagar las infracciones no se indica en el texto.",
+    "La dirección exacta de las oficinas para atención presencial no se especifica en el texto."
+  ]
+}

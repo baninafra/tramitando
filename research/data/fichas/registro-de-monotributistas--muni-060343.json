@@ -1,0 +1,97 @@
+{
+  "tramite": {
+    "slug": "registro-de-monotributistas",
+    "nombre": "Registro de Monotributistas",
+    "nombre_busqueda": "inscribirse como monotributista en General Paz",
+    "resumen": "Inscripción de comercios monotributistas en la Municipalidad de General Paz. Se completa un formulario online con datos del comercio y se adjunta la constancia de AFIP.",
+    "sinonimos": [
+      "Alta de monotributista municipal",
+      "Registro de comercios monotributistas"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060343",
+  "organismo": {
+    "nombre": "Municipalidad de General Paz",
+    "sigla": null,
+    "web": "https://municipalidaddegeneralpaz.gob.ar"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Comercios inscriptos como monotributistas en AFIP."
+    ],
+    "requisitos": [
+      {
+        "texto": "CUIT",
+        "aclaracion": null
+      },
+      {
+        "texto": "Apellido",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombres",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de teléfono",
+        "aclaracion": null
+      },
+      {
+        "texto": "Correo electrónico",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número del comercio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Razón social",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia actualizada de inscripción en AFIP",
+        "aclaracion": "Debe ser un único archivo. El nombre del archivo debe ser: Número de Comercio + Razón Social (ej: Nro1234ElComercioSA.pdf)."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario con tu CUIT, datos personales, teléfono, email, número de comercio y razón social."
+      },
+      {
+        "texto": "Adjuntá la constancia actualizada de inscripción en AFIP en un único archivo con el nombre indicado."
+      },
+      {
+        "texto": "Hacé clic en Enviar Datos."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://municipalidaddegeneralpaz.gob.ar/index.php/registro-de-monotributistas/",
+      "titulo": "Registro de Monotributistas",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T12:55:29.375Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se indica el costo del trámite.",
+    "No se indica el plazo de resolución.",
+    "No se especifica si el trámite requiere turno."
+  ]
+}

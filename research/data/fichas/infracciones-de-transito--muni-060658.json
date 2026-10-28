@@ -1,0 +1,92 @@
+{
+  "tramite": {
+    "slug": "infracciones-de-transito",
+    "nombre": "Infracciones de transito",
+    "nombre_busqueda": "Infracciones de transito",
+    "resumen": "Tramite para consultar y pagar multas por infracciones de transito en la ciudad de Quilmes.",
+    "sinonimos": [],
+    "temas": [
+      "infracciones-y-multas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060658",
+  "organismo": {
+    "nombre": "Agencia de Fiscalizacion y Control Comunal",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier ciudadano que tenga una infracción de transito registrada."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original o fotocopia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de la tarjeta de credito o debito.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de la cuenta bancaria.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de la cuenta de banco online.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de la cuenta de banco virtual.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio web de la Agencia de Fiscalizacion y Control Comunal."
+      },
+      {
+        "texto": "Buscá el trámite de Infracciones de transito."
+      },
+      {
+        "texto": "Ingresá con tu usuario y contraseña de Mi Quilmes Digital."
+      },
+      {
+        "texto": "Consultá el estado de tu deuda y obtengá las boletas para el pago."
+      },
+      {
+        "texto": "Realizá el pago de la multa a través de los medios de pago disponibles."
+      },
+      {
+        "texto": "Guardá el comprobante de pago."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mi.quilmes.gov.ar/tramites/313/infracciones-de-transito",
+      "titulo": "Infracciones de transito",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-28T06:18:55.726Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de las multas no se especifica en el texto.",
+    "El plazo para pagar las multas no se especifica en el texto.",
+    "La dirección de las oficinas no se especifica en el texto.",
+    "Si el trámite requiere turno no se especifica en el texto."
+  ]
+}

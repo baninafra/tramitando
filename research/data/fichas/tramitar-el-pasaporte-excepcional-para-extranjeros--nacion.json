@@ -1,0 +1,127 @@
+{
+  "tramite": {
+    "slug": "tramitar-el-pasaporte-excepcional-para-extranjeros",
+    "nombre": "Tramitar el pasaporte excepcional para extranjeros",
+    "nombre_busqueda": "Pasaporte excepcional extranjeros",
+    "resumen": "Este trámite está destinado a extranjeros residentes en la Argentina que acrediten cuestiones humanitarias o de fuerza mayor debidamente fundadas y ya hayan recibido el DNI expedido por el Renaper.",
+    "sinonimos": [],
+    "temas": [
+      "pasaporte",
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Renaper",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Extranjeros residentes en la Argentina que acrediten cuestiones humanitarias o de fuerza mayor debidamente fundadas y presenten DNI expedido por el Renaper."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI vigente emitido por la Dirección Nacional del Renaper.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditación en forma fehaciente de cuestiones humanitarias o de fuerza mayor debidamente fundadas que justifiquen la expedición del Pasaporte excepcional para extranjeros.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copias de los certificados de nacionalidad, excepto que acrediten cuestiones humanitarias o de fuerza mayor debidamente fundadas que impidan la presentación del mismo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI de padre o madre.",
+        "aclaracion": "Si sos menor de 18 años no emancipado."
+      },
+      {
+        "texto": "Partida de nacimiento traducida y apostillada.",
+        "aclaracion": "Si sos menor de 18 años no emancipado."
+      },
+      {
+        "texto": "Testimonio judicial de la designación de la/s persona/s que ejerza/n la tutela, la curatela, o en su defecto la autorización judicial correspondiente (cuando la persona se presenta con quien realiza el trámite).",
+        "aclaracion": "Si sos persona con capacidad restringida o incapaz."
+      },
+      {
+        "texto": "DNI de la/s persona/s que ejerza/n la tutela, la curatela o de la persona autorizada judicialmente.",
+        "aclaracion": "Si sos persona con capacidad restringida o incapaz."
+      },
+      {
+        "texto": "Consentimiento expreso de quien ejerza la responsabilidad parental, la tutela o la curatela con la indicación de que su ejercicio no se encuentra limitado para prestarlo, debiendo, en caso contrario, suplir su falta con autorización judicial.",
+        "aclaracion": "Si sos persona con capacidad restringida o incapaz."
+      },
+      {
+        "texto": "Sentencia judicial emitida por juzgado competente.",
+        "aclaracion": "Si sos menor emancipado."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a la Mesa de Entradas del Renaper, ubicada en Tte. Gral. Juan Domingo Perón 664 (CABA), de lunes a viernes de 9 a 13 hs."
+      },
+      {
+        "texto": "Entregá la documentación requerida."
+      },
+      {
+        "texto": "Allí enviarán a analizar la documentación y luego te notificarán la resolución mediante carta documento."
+      },
+      {
+        "texto": "En caso de aprobación, deberás regresar al mismo lugar, sin turno previo, para completar el trámite."
+      },
+      {
+        "texto": "Allí te tomarán los datos personales, foto y huellas digitales."
+      },
+      {
+        "texto": "Aboná el trámite."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 10000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/tramitar-el-pasaporte-excepcional-para-extranjeros"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Mesa de Entradas del Renaper",
+      "direccion": "Tte. Gral. Juan Domingo Perón 664",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/tramitar-el-pasaporte-excepcional-para-extranjeros"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tramitar-el-pasaporte-excepcional-para-extranjeros",
+      "titulo": "Tramitar el Pasaporte excepcional para extranjeros | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T23:40:11.131Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo no está especificado en el texto.",
+    "No se especifican requisitos para personas con capacidad restringida o incapaces en el texto."
+  ]
+}

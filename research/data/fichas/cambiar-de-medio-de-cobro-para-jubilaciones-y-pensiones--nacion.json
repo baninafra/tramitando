@@ -1,0 +1,104 @@
+{
+  "tramite": {
+    "slug": "cambios-y-bajas-de-jubilaciones-y-pensiones",
+    "nombre": "Cambiar de medio de cobro para jubilaciones y pensiones",
+    "nombre_busqueda": "cambiar medio de cobro jubilacion pensiones anses",
+    "resumen": "Podés elegir otro medio de cobro para tu jubilación o pensión si ya la cobraste por primera vez. Es un trámite gratuito que se puede hacer por internet con Mi ANSES o presencialmente en una oficina.",
+    "sinonimos": [
+      "cambiar agente pagador jubilacion",
+      "cambiar banco jubilacion anses"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración Nacional de Seguros Sociales",
+    "sigla": "ANSES",
+    "web": "https://www.argentina.gob.ar/servicio/cambiar-de-medio-de-cobro-para-jubilaciones-y-pensiones"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Jubilados y pensionados de ANSES que hayan cobrado por primera vez en la entidad asignada al momento de iniciar el trámite de su jubilación y pensión."
+    ],
+    "requisitos": [
+      {
+        "texto": "Haber cobrado por primera vez en la entidad asignada al momento de tramitar la jubilación o pensión.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave de la Seguridad Social.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos de contacto (celular y correo electrónico verificados en mi ANSES).",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario PS 6.37 - Solicitud cambio agente pagador completo (para presentar en ANSES, con turno previo).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a mi ANSES."
+      },
+      {
+        "texto": "Confirmá que tus datos personales y de contacto estén actualizados y verificados."
+      },
+      {
+        "texto": "Vas a recibir un código de validación por correo electrónico o a tu celular (SMS)."
+      },
+      {
+        "texto": "Ingresá en Cobros/Cambiar lugar de cobro jubilaciones y pensiones."
+      },
+      {
+        "texto": "Seleccioná la jubilación o pensión, hacé clic en Cambiar medio de cobro y seguí los pasos."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el DNI y el Formulario PS 6.37 - Solicitud cambio agente pagador completo en una oficina de ANSES con turno previo."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://www.argentina.gob.ar/turnos",
+    "plazo": null,
+    "consejos": [
+      "Quienes cobran la Pensión no Contributiva por Invalidez solo pueden hacer este trámite presencialmente, con turno previo."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/cambiar-de-medio-de-cobro-para-jubilaciones-y-pensiones",
+      "titulo": "Cambiar de medio de cobro para jubilaciones y pensiones | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T15:04:35.570Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-26T15:04:35.570Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo exacto para completar el trámite."
+  ]
+}

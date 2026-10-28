@@ -1,0 +1,97 @@
+{
+  "tramite": {
+    "slug": "cesion-de-creditos",
+    "nombre": "Cesión de créditos",
+    "nombre_busqueda": "cesion de creditos",
+    "resumen": "El trámite permite a las entidades financieras beneficiarias de la cesión de créditos presentar la documentación necesaria ante la Secretaría de Obras Públicas para proceder a la notificación.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Secretaría de Obras Públicas",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Las entidades financieras beneficiarias de la cesión de créditos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de Elevación (Formulario)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta de Notificación Notarial certificada por Escribano Público",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contrato de Cesión de Créditos entre las partes",
+        "aclaracion": null
+      },
+      {
+        "texto": "Factura/s Cedida/s",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUIT y datos bancarios del Cesionario de los créditos",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUIT del Cedente de los créditos",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Obra",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar a la Plataforma TAD."
+      },
+      {
+        "texto": "Seleccionar iniciar trámite 'Cesión de Créditos'."
+      },
+      {
+        "texto": "Confirmar sus datos y verificar que los datos precargados sean correctos."
+      },
+      {
+        "texto": "Completar el Formulario 'Información básica de la Obra'."
+      },
+      {
+        "texto": "Adjuntar la documentación requerida."
+      },
+      {
+        "texto": "Confirmar trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/cesion-de-creditos",
+      "titulo": "Cesión de créditos | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T04:39:12.982Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no menciona costos, plazos ni la necesidad de sacar turno."
+  ]
+}

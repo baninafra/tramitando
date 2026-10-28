@@ -1,0 +1,141 @@
+{
+  "tramite": {
+    "slug": "alta-asignaciones-familiares-retirados-pensionistas-militares",
+    "nombre": "Solicitar el alta de las asignaciones familiares",
+    "nombre_busqueda": "alta de asignaciones familiares para retirados y pensionistas militares",
+    "resumen": "Podés pedir que te paguen asignaciones familiares a través de tus haberes de retiro o pensión militar. El monto depende de los ingresos del grupo familiar y de la zona de residencia; si vivís en el exterior, no te corresponde cobrarlas.",
+    "sinonimos": [
+      "alta de asignaciones familiares del IAF",
+      "asignaciones familiares para retirados militares"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones",
+      "familia-y-pareja"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares",
+    "sigla": "IAF",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Retirados y pensionistas militares con haberes dentro de los topes vigentes para cobrar asignaciones familiares, que no las estén percibiendo por otra entidad."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de Declaración Jurada de Asignaciones Familiares e Ingresos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI de quien solicita.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI de tu cónyuge o conviviente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia autenticada y legible de las partidas de nacimiento de tus hijos menores de 18 años o de tus hijos con discapacidad, sin límite de edad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI, fecha de nacimiento y CUIL de tus hijos menores de 18 años o de tus hijos con discapacidad, sin límite de edad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia autenticada del acta de matrimonio o certificado de convivencia para acreditar tu estado civil.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Recibo de haberes actualizado.",
+        "aclaracion": "Si trabajás en relación de dependencia o percibís un haber previsional."
+      },
+      {
+        "texto": "Constancia de la categoría y copia del ticket de aporte.",
+        "aclaracion": "Si sos autónomo o monotributista."
+      },
+      {
+        "texto": "Certificación negativa de ambos padres, solicitada ante ANSES.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Historia laboral de ambos padres, solicitada ante ANSES.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Registro Único de Beneficiarios (RUB) de ambos padres, solicitado ante ANSES.",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUNA de ambos padres, solicitada ante ANSES.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Reuní la documentación completa."
+      },
+      {
+        "texto": "Llevá la documentación a la sede central o a cualquier delegación del IAF, de lunes a viernes de 08:00 a 13:00."
+      },
+      {
+        "texto": "Enviá la documentación requerida por correo postal al Instituto de Ayuda Financiera, División Salario Familiar, Cerrito 572 (C1010AAL), Ciudad Autónoma de Buenos Aires."
+      },
+      {
+        "texto": "Ingresá al portal eIAF Beneficiarios con tu CUIL y contraseña si ya estás registrado."
+      },
+      {
+        "texto": "Dejá tu solicitud en el apartado «Sistema Integrado de Consultas»."
+      },
+      {
+        "texto": "Seguí los pasos que te indique el personal de Atención al Público."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Las asignaciones pueden pagarse mensualmente o por única vez, según el tipo de asignación.",
+      "El pago se calcula según el rango de ingresos familiares y la zona de residencia.",
+      "Para la asignación por hijo con discapacidad no se aplican topes mínimos ni máximos de ingresos; el monto depende del rango de ingresos familiares.",
+      "La asignación debe cobrarla en su totalidad uno solo de los progenitores y a través de un solo organismo.",
+      "Si trabajás en otro lugar, informá cada cambio en tus ingresos para mantener actualizada la base de datos del IAF."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": true,
+      "monto_centavos": null,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-el-alta-de-las-asignaciones-familiares-para-retirados-y-pensionistas-militares"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-el-alta-de-las-asignaciones-familiares-para-retirados-y-pensionistas-militares",
+      "titulo": "Solicitar el alta de las asignaciones familiares para retirados y pensionistas militares | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T13:56:34.285Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se indica cuánto tarda la resolución del trámite.",
+    "No se informa si necesitás turno para la atención presencial.",
+    "No se indica la dirección de las delegaciones del IAF.",
+    "No se detalla el procedimiento para registrarte en el portal eIAF Beneficiarios."
+  ]
+}

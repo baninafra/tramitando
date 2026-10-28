@@ -1,0 +1,114 @@
+{
+  "tramite": {
+    "slug": "inhumaciones-y-traslados",
+    "nombre": "Inhumación",
+    "nombre_busqueda": "Inhumación cementerio",
+    "resumen": "Trámite para realizar una inhumación en el cementerio municipal, que incluye costos específicos para el servicio y trámites complementarios como cierre de nicho o traslado.",
+    "sinonimos": [
+      "Inscripción en cementerio",
+      "Enterramiento",
+      "Servicios funerarios"
+    ],
+    "temas": [
+      "cementerio-y-servicios-funebres"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060007",
+  "organismo": {
+    "nombre": "Municipalidad de Adolfo Alsina",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en realizar una inhumación."
+    ],
+    "requisitos": [
+      {
+        "texto": "Pago de la tasa de inhumación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pago de la tasa de cierre de nicho (si aplica).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pago de la tasa de placas (si aplica).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pago de la tasa de traslado interno (si aplica).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 33500,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.adolfoalsina.gov.ar/cementerio/"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 25000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.adolfoalsina.gov.ar/cementerio/"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 6000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.adolfoalsina.gov.ar/cementerio/"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 50000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.adolfoalsina.gov.ar/cementerio/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Municipalidad de Adolfo Alsina",
+      "direccion": "Rivadavia y Pellegrini",
+      "localidad": "Carhué",
+      "horario": null,
+      "fuente_url": "https://www.adolfoalsina.gov.ar/cementerio/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.adolfoalsina.gov.ar/cementerio/",
+      "titulo": "Cementerio - Municipalidad de Adolfo Alsina",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "costo",
+        "donde",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T19:18:38.153Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere verificar si se necesita sacar turno para realizar el trámite.",
+    "Se requiere verificar si hay requisitos adicionales como documentos a presentar o constancias previas.",
+    "Se requiere verificar si el trámite se puede realizar completamente por internet o solo presencialmente."
+  ]
+}

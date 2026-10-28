@@ -1,0 +1,98 @@
+{
+  "tramite": {
+    "slug": "solicitud-oxigenoterapia-region-sanitaria-vi",
+    "nombre": "Solicitud para oxigenoterapia a la Región Sanitaria VI",
+    "nombre_busqueda": "Solicitud oxigenoterapia Quilmes",
+    "resumen": "Trámite para solicitar y renovar oxigenoterapia en la Región Sanitaria VI de Quilmes. Requiere documentación médica y personal, con plazos de espera y costos variables según el caso.",
+    "sinonimos": [
+      "Solicitud oxigenoterapia",
+      "Renovación oxigenoterapia",
+      "Trámite oxígeno Región Sanitaria VI"
+    ],
+    "temas": [
+      "salud-municipal",
+      "medicamentos-y-farmacia-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060658",
+  "organismo": {
+    "nombre": "Secretaría de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que necesiten oxigenoterapia en la Región Sanitaria VI",
+      "Tutores o representantes legales de menores de edad"
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original y copia",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta de nacimiento original y copia",
+        "aclaracion": "Si sos menor de edad."
+      },
+      {
+        "texto": "DNI del padre o madre (si el menor tiene uno)",
+        "aclaracion": "Si sos menor de edad."
+      },
+      {
+        "texto": "Receta médica original y copia",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de la Región Sanitaria VI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de la Región Sanitaria VI (si es renovación)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acudí a la Región Sanitaria VI con toda la documentación original y copia."
+      },
+      {
+        "texto": "Presentá el expediente en la oficina correspondiente."
+      },
+      {
+        "texto": "Esperá el turno asignado para la atención."
+      },
+      {
+        "texto": "Recibí la constancia de tramitación o la resolución correspondiente."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá los plazos de espera actuales en la página de la Región Sanitaria VI.",
+      "Llegá con tiempo suficiente para sacar turno y presentar documentación."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mi.quilmes.gov.ar/tramites/146/solicitud-para-oxigenoterapia-a-la-region-sanitaria-vi-inicio-y-renovacion",
+      "titulo": "Solicitud para oxigenoterapia a la Región Sanitaria VI (inicio y renovación)",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T11:32:10.611Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se especifica que el trámite requiere turno, pero no se indica si se puede sacar por internet ni cuál es la URL.",
+    "No se especifica el monto de la tasa ni si hay exenciones para ciertos casos en el texto.",
+    "No se especifica el plazo de espera ni el tiempo de atención en la oficina."
+  ]
+}

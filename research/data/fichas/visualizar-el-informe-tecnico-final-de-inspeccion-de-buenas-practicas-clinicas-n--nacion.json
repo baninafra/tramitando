@@ -1,0 +1,87 @@
+{
+  "tramite": {
+    "slug": "visualizar-el-informe-tecnico-final-de-inspeccion-de-buenas-practicas-clinicas-notificado",
+    "nombre": "Visualizar el informe técnico final de inspección de buenas prácticas clínicas notificado",
+    "nombre_busqueda": "visualizar informe técnico inspección ANMAT",
+    "resumen": "Podés consultar el informe técnico final de una inspección de buenas prácticas clínicas realizada por ANMAT desde la plataforma TAD, previa alta en el sistema.",
+    "sinonimos": [
+      "informe inspección ANMAT",
+      "hallazgos inspección clínica"
+    ],
+    "temas": [
+      "salud-y-prevencion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMAT",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Centros de investigación y patrocinadores que llevan a cabo estudios de farmacología clínica."
+    ],
+    "requisitos": [
+      {
+        "texto": "Realizar previamente su trámite de alta en el sistema (si aún no lo ha realizado).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar en la plataforma TAD."
+      },
+      {
+        "texto": "Seleccionar 'NOTIFICACIONES' en la barra superior."
+      },
+      {
+        "texto": "Ingresar en la solapa 'DOCUMENTOS EXTERNOS'."
+      },
+      {
+        "texto": "Seleccionar en 'ACCIONES' para Visualizar el Informe Técnico Final."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/visualizar-el-informe-tecnico-final-de-inspeccion-de-buenas-practicas-clinicas-notificado",
+      "titulo": "Visualizar el Informe Técnico Final de inspección de buenas prácticas clínicas notificado vía TAD | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T18:58:56.795Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T18:58:56.795Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/",
+      "titulo": "Inicio | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T18:58:56.795Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina para consultas presenciales.",
+    "Horarios de atención de ANMAT."
+  ]
+}

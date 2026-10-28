@@ -1,0 +1,101 @@
+{
+  "tramite": {
+    "slug": "obtener-inscripcion-legitimo-usuario-colectivo-agencia-seguridad",
+    "nombre": "Obtener la inscripción de Legítimo Usuario Colectivo (Agencia de Seguridad)",
+    "nombre_busqueda": "Inscripción Legítimo Usuario Colectivo Agencia de Seguridad",
+    "resumen": "Este trámite permite a las agencias de seguridad obtener la inscripción para brindar servicios con armas y materiales controlados. Se requiere presentar documentación completa en el Centro de Atención de ANMaC y pagar una tasa anual.",
+    "sinonimos": [
+      "Inscripción Legítimo Usuario Colectivo ANMaC",
+      "Registro de Agencias de Seguridad"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Agencia Nacional de Materiales Controlados",
+    "sigla": "ANMaC",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Agencias de seguridad"
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota en papel oficial de la entidad explicando los motivos de la solicitud, actos y tipo de material que solicitan, con firma certificada del representante legal o titular de la empresa, identificando sucursales e identificando al Director técnico, jefe de seguridad o responsable del material contr…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Credencial vigente de Legítimo Usuario o, en caso de no serlo, DNI más certificado de antecedentes penales del titular del Usuario Colectivo o de los representantes legales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Adecuar las condiciones de seguridad para la guarda de los materiales de acuerdo a la legislación vigente (Resolución 119/18).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia certificada del instrumento constitutivo de la sociedad y sus modificaciones, con la constancia de su inscripción en el Registro Público de Comercio, la Inspección General de Justicia y el INAC según corresponda.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Instrumentos que acrediten la representación legal de la sociedad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Inscripción ante AFIP, constancia actualizada y último pago del tributo correspondiente (Impuesto a las ganancias, IVA y aportes y contribuciones al S.U.S.S.).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Habilitación ante la autoridad jurisdiccional competente, con expresa mención de los rubros autorizados especificando que se lo habilita 'con uso de armas de fuego', domicilio de la sede y designación del Director Técnico o Jefe de Seguridad (que deberá ser Legítimo Usuario con credencial vigente).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a solicitudes electrónicas para dar inicio al trámite de inscripción o reinscripción y solicitá el pago de tasa anual que se presenta en el mes inmediato anterior a su vencimiento."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 10000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/obtener-la-inscripcion-de-legitimo-usuario-colectivo-agencia-de-seguridad"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-la-inscripcion-de-legitimo-usuario-colectivo-agencia-de-seguridad",
+      "titulo": "Obtener la Inscripción de Legítimo Usuario Colectivo (Agencia de Seguridad) | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T22:49:43.614Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere verificar si el trámite requiere sacar turno en línea antes de presentarse presencialmente."
+  ]
+}

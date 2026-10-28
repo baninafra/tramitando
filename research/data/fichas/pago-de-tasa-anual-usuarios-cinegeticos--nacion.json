@@ -1,0 +1,116 @@
+{
+  "tramite": {
+    "slug": "pago-de-tasa-anual-usuarios-cinegeticos",
+    "nombre": "Pago de tasa anual usuarios cinegéticos",
+    "nombre_busqueda": "Pago tasa anual cinegéticos",
+    "resumen": "Este trámite permite abonar la tasa anual obligatoria para la categoría Usuarios Cinegéticos, que incluye cotos de caza, operadores y campos de caza. Se debe realizar el pago mediante estampilla y presentar documentación completa en el Centro de Atención de ANMaC.",
+    "sinonimos": [],
+    "temas": [
+      "pesca-deportiva-y-actividades-al-aire-libre"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMaC",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Categoría Usuarios Cinegéticos, que incluye cotos de caza, operadores cinegéticos, campos de caza, organizadores de eventos y demás actividades relacionadas con la caza deportiva con armas de fuego."
+    ],
+    "requisitos": [
+      {
+        "texto": "Realizar el pago mediante una estampilla por el importe de: $1000",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración Jurada ANEXO II (debés completarla en su totalidad con los datos del usuario a registrar. A su vez, tiene que estar certificada.)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Inscripción vigente correspondiente a cada jurisdicción extendida por la autoridad correspondiente, sea provincial o nacional, en las que el Legítimo Usuario Cinegético desarrolla la actividad cinegética.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Designar un responsable técnico, el mismo debe acreditar condición de Legitimo Usuario de Armas de Uso Civil Condicional vigente, informando su número de legajo y declarar que posee conocimientos relativos a la actividad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditar la contratación de un seguro de responsabilidad civil, por los riesgos derivados de la actividad cinegética, por un monto no inferior a $ 1.000.000 (en el mismo no se deberá omitir la zona o domicilio de riesgo cubierto).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de autorización de transporte de armas y municiones (si corresponde).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Libro Registro Oficial de Municiones ($1000) (obligatorio en caso de inscripción).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Libro Registro Oficial de Cazadores ($500) (obligatorio en caso de inscripción).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      },
+      {
+        "texto": "Retirá la documentación emitida por el ANMaC en la delegación en la que iniciaste el trámite o pedí que te la manden por correo."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 100000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/pago-de-tasa-anual-usuarios-cinegeticos"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/pago-de-tasa-anual-usuarios-cinegeticos"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 50000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/pago-de-tasa-anual-usuarios-cinegeticos"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/pago-de-tasa-anual-usuarios-cinegeticos",
+      "titulo": "Pago de tasa anual Usuarios Cinegéticos | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-26T23:18:12.481Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Fecha de vigencia del trámite",
+    "Requisito de turno para el Centro de Atención de ANMaC"
+  ]
+}

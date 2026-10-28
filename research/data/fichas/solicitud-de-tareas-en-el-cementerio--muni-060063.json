@@ -1,0 +1,88 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-tareas-en-el-cementerio",
+    "nombre": "Solicitud de tareas en el cementerio",
+    "nombre_busqueda": "Solicitud de tareas en el cementerio",
+    "resumen": "Para solicitar tareas en el Cementerio Municipal de Balcarce, necesitás ser familiar directo mayor de 18 años y presentar constancia de vínculo, DNI y planilla de pago.",
+    "sinonimos": [],
+    "temas": [
+      "cementerio-y-servicios-funebres"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060063",
+  "organismo": {
+    "nombre": "Municipalidad de Balcarce",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Familiar directo mayor de 18 años"
+    ],
+    "requisitos": [
+      {
+        "texto": "Presentar constancia de vínculo de familiar directo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia DNI",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentar la planilla en el cementerio municipal."
+      },
+      {
+        "texto": "Completá la planilla en el cementerio."
+      },
+      {
+        "texto": "Generá el cupón de pago en el sector cajas de la planta baja de la Municipalidad."
+      },
+      {
+        "texto": "Presentá el comprobante de pago y la planilla en el cementerio."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Cementerio Municipal",
+      "direccion": "Av. 39 y calle 62",
+      "localidad": "Balcarce",
+      "horario": null,
+      "fuente_url": "https://balcarce-app.gob.ar/portal_servicios/servicio/solicitud-de-tareas-en-el-cementerio"
+    },
+    {
+      "nombre": "Municipalidad de Balcarce",
+      "direccion": "Av. Del Valle Nº 602",
+      "localidad": "Balcarce",
+      "horario": null,
+      "fuente_url": "https://balcarce-app.gob.ar/portal_servicios/servicio/solicitud-de-tareas-en-el-cementerio"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://balcarce-app.gob.ar/portal_servicios/servicio/solicitud-de-tareas-en-el-cementerio",
+      "titulo": "Portal de Servicios | Modernizacion Balcarce",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "costo",
+        "donde",
+        "pasos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T03:10:55.266Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica el monto exacto en centavos para el pago del trámite."
+  ]
+}

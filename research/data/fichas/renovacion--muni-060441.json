@@ -1,0 +1,126 @@
+{
+  "tramite": {
+    "slug": "renovacion-de-licencia-de-conducir",
+    "nombre": "Renovación de licencia de conducir",
+    "nombre_busqueda": "Renovar licencia de conducir La Plata",
+    "resumen": "Renová su licencia de conducir desde 30 días antes hasta 90 días después de su vencimiento. Debe presentar DNI vigente, licencia actual y pagar los timbrados correspondientes.",
+    "sinonimos": [
+      "Renovación de carnet de conducir",
+      "Renovar carnet de conducir"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060441",
+  "organismo": {
+    "nombre": "Municipalidad de La Plata",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que tenga domicilio en La Plata y su licencia esté vencida entre 30 días antes y 90 días después de la fecha de vencimiento.",
+      "Extranjeros con Radicación Temporaria que tengan domicilio en La Plata."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI vigente con domicilio en La Plata (original y copia legible, frente y contrafrente).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de DNI en trámite acompañado de un DNI anterior o DNI digital en Mi Argentina (si no tiene el último DNI vigente).",
+        "aclaracion": "Solo si no tiene el último DNI vigente."
+      },
+      {
+        "texto": "Licencia de conducir original y fotocopia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Exposición de extravío o denuncia de robo (si no posee la licencia).",
+        "aclaracion": "Solo si no posee la licencia."
+      },
+      {
+        "texto": "Certificado de antecedentes penales con vigencia de 30 días (si tiene o desea acceder a las categorías profesionales C, D y E).",
+        "aclaracion": "Solo si tiene o desea acceder a las categorías C, D y E."
+      },
+      {
+        "texto": "Certificado de Legalidad expedido por las autoridades otorgantes (si la licencia es de otra jurisdicción).",
+        "aclaracion": "Solo si la licencia es de otra jurisdicción."
+      },
+      {
+        "texto": "Resolución de infracciones en los juzgados correspondientes (si tiene infracciones).",
+        "aclaracion": "Solo si tiene infracciones."
+      },
+      {
+        "texto": "Pago de los timbrados Provincial (CEPAT) y Nacional (CENAT).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de domicilio vial electrónico (por única vez).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Consultá si posee infracciones en la Provincia de Buenos Aires y en la Municipalidad de La Plata antes de realizar el trámite."
+      },
+      {
+        "texto": "Descargá, imprimí y aboná las boletas de pago de los certificados (CENAT y CEPAT) con los medios de pago indicados."
+      },
+      {
+        "texto": "Solicitá tu turno online."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Concurrí al Centro Emisor de Licencias (CEL) con todos los documentos y comprobantes de pago."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://turnos.laplata.gob.ar/misdatos",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://tramites.laplata.gob.ar/licencias/renovacion.html",
+      "titulo": "Licencias - Municipalidad de La Plata",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:34:50.741Z"
+    },
+    {
+      "url": "https://turnos.laplata.gob.ar/misdatos",
+      "titulo": "Turnos online - Municipalidad de La Plata",
+      "bloques": [
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T14:34:50.741Z"
+    },
+    {
+      "url": "https://licenciasba.dppsv.gba.gob.ar/licencias/boletas_cenat_cepat/public/solicitante/new",
+      "titulo": "Licencias BA",
+      "bloques": [
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:34:50.741Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Monto exacto de los timbrados CEPAT y CENAT.",
+    "Plazo de atención en el CEL.",
+    "Dirección exacta del Centro Emisor de Licencias (CEL) en La Plata."
+  ]
+}

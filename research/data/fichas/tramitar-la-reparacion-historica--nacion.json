@@ -1,0 +1,90 @@
+{
+  "tramite": {
+    "slug": "tramitar-la-reparacion-historica",
+    "nombre": "Tramitar la Reparación Histórica",
+    "nombre_busqueda": "Reparación Histórica ANSES",
+    "resumen": "Consultá si te corresponde la actualización de montos de jubilaciones y pensiones ingresando en mi ANSES. Si aceptás la propuesta, necesitás un abogado patrocinante para suscribir el acuerdo y proceder a la liquidación.",
+    "sinonimos": [
+      "Reajuste de haberes",
+      "Reparación Histórica jubilaciones",
+      "Reajuste pensiones"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración Nacional de Seguros Sociales",
+    "sigla": "ANSES",
+    "web": "https://www.argentina.gob.ar/anses"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de jubilaciones y pensiones que hayan iniciado (o no) un juicio por reajuste de haberes antes del 30 de mayo de 2016 y estén alcanzados por el programa."
+    ],
+    "requisitos": [
+      {
+        "texto": "Cobrar una jubilación y/o pensión y estar incluido en el programa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ingresá a mi ANSES con tu CUIL y Clave de la Seguridad Social.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener una abogado patrocinante.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá en mi ANSES con tu CUIL y Clave de la Seguridad Social."
+      },
+      {
+        "texto": "Dentro de Jubilaciones y Pensiones buscá Reparación Histórica y consultá si te corresponde."
+      },
+      {
+        "texto": "Revisá la propuesta y, si estás de acuerdo, aceptá los Términos y Condiciones."
+      },
+      {
+        "texto": "Designá un abogado ingresando el número de CUIT del abogado que te representará."
+      },
+      {
+        "texto": "Confirmá que tu abogado acepte tu designación y los términos y condiciones ingresando en mi ANSES."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate con tu abogado en una oficina de ANSES para suscribir el acuerdo."
+      }
+    ],
+    "requiere_turno": false,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tramitar-la-reparacion-historica",
+      "titulo": "Tramitar la Reparación Histórica | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-28T00:37:38.726Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto varía según el caso, se puede consultar en Reparación Histórica dentro de mi ANSES.",
+    "A las personas que tengan juicio iniciado se les pagará el 50% del retroactivo y el otro 50% en cuotas trimestrales (iguales, consecutivas y actualizadas por el índice de movilidad) durante 3 años.",
+    "A las personas que no tengan juicio iniciado se les pagará un retroactivo desde el momento de suscripción del acuerdo, en caso de corresponder.",
+    "La fecha de vigencia exacta no está especificada en el texto."
+  ]
+}

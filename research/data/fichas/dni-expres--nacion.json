@@ -1,0 +1,107 @@
+{
+  "tramite": {
+    "slug": "dni-expres",
+    "nombre": "DNI exprés",
+    "nombre_busqueda": "DNI exprés",
+    "resumen": "Recibí tu DNI en tu domicilio en menos de 96 horas hábiles tras presentarte en un Centro de Documentación Renaper con los requisitos y el pago correspondiente.",
+    "sinonimos": [],
+    "temas": [
+      "dni"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Renaper",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A todos los ciudadanos argentinos que necesiten, con la urgencia que presta esta modalidad, realizar alguno de los siguientes trámites: DNI Actualización de 5 a 8 años; DNI Actualización de mayor de 14 años; DNI ejemplar nuevo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Si tenés tu DNI anterior, llevalo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si es para un menor de 14 años, se agrega: Acompañamiento del padre, madre o representante legal; y su DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditación del representante legal, si corresponde: Oficio judicial o testimonio de tutela del menor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización de representación firmada y sellada por la autoridad competente que corresponda.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Oficio judicial o testimonio de guarda provisoria con fines de adopción.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Sacá turno para uno de los Centros de Documentación Renaper habilitados para la modalidad DNI exprés desde la app Mi Argentina o consultá en un Registro Civil la modalidad de turno y el pago."
+      },
+      {
+        "texto": "Si lo realizás en un Centro de Documentación de Renaper, presentate en la oficina elegida en el día y horario del turno, con los requisitos de tu trámite, los datos de la reserva del turno y el comprobante de pago del trámite."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": "15 minutos",
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 2600000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/dni-expres"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/dni-expres",
+      "titulo": "DNI exprés | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T15:29:09.480Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/interior/dni/centros-de-atencion-renaper",
+      "titulo": "Centros de Documentación Renaper | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T15:29:09.480Z"
+    },
+    {
+      "url": "https://mi.argentina.gob.ar/turnos/seleccion-turno/1737",
+      "titulo": "Ingresar | Mi Argentina",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T15:29:09.480Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de las oficinas",
+    "Localidad de las oficinas",
+    "Nombre de las oficinas"
+  ]
+}

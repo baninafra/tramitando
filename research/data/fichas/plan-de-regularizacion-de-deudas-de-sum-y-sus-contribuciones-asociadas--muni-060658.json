@@ -1,0 +1,79 @@
+{
+  "tramite": {
+    "slug": "plan-de-regularizacion-de-deudas-de-sum-y-sus-contribuciones-asociadas",
+    "nombre": "Plan de regularización de deudas de SUM y sus contribuciones asociadas",
+    "nombre_busqueda": "Regularizar deuda SUM Quilmes",
+    "resumen": "Permite regularizar deudas de la Tasa de Servicios Urbanos (SUM) y sus contribuciones asociadas mediante la imputación de pagos pendientes.",
+    "sinonimos": [
+      "Pago de deuda SUM",
+      "Regularización deudas Quilmes",
+      "Pago de tasas urbanas"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "planes-de-pago-municipales",
+      "libre-deuda-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060658",
+  "organismo": {
+    "nombre": "Secretaría de Hacienda",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que tenga deudas pendientes de pago en SUM y sus contribuciones asociadas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Boleta vigente de la deuda a regularizar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que acredite el pago de los montos pendientes (comprobantes de transferencia, cheque, efectivo, etc.).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la boleta vigente de la deuda a regularizar."
+      },
+      {
+        "texto": "Presentá la documentación que acredite el pago de los montos pendientes."
+      },
+      {
+        "texto": "Imputá los pagos pendientes en el sistema correspondiente."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá el estado de tu deuda antes de iniciar el trámite para verificar los montos exactos.",
+      "Guardá copias de todos los comprobantes de pago que presentés para la imputación."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mi.quilmes.gov.ar/tramites/231/plan-de-regularizacion-de-deudas-de-sum-y-sus-contribuciones-asociadas",
+      "titulo": "Plan de Regularización de deudas de SUM y sus contribuciones asociadas",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T08:01:55.560Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se especifica el monto exacto de la imputación o los plazos de vencimiento de la deuda.",
+    "Se indica si el trámite se puede realizar completamente por internet o solo la imputación final.",
+    "Se detalla si se requiere turno para la presentación presencial."
+  ]
+}

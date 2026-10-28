@@ -1,0 +1,116 @@
+{
+  "tramite": {
+    "slug": "aprobacion-de-envases-para-mercancias-peligrosas",
+    "nombre": "Aprobación de envases para mercancías peligrosas",
+    "nombre_busqueda": "aprobación de envases para mercancías peligrosas",
+    "resumen": "La Prefectura Naval Argentina otorga el certificado de aprobación de envases para transportar por buque productos químicos líquidos peligrosos a granel, gases a granel y sustancias nocivas líquidas.",
+    "sinonimos": [
+      "certificado de aprobación de envases",
+      "aprobación de envases para transporte marítimo",
+      "envases para mercancías peligrosas"
+    ],
+    "temas": [
+      "transporte-publico-y-viajes"
+    ],
+    "temas_propuestos": [
+      {
+        "slug": "transporte-de-mercancias-peligrosas",
+        "nombre": "Transporte de mercancías peligrosas",
+        "padre": "transporte-publico-y-viajes"
+      }
+    ]
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Prefectura Naval Argentina",
+    "sigla": "PNA",
+    "web": "https://www.argentina.gob.ar/prefecturanaval"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Toda persona física o jurídica que contrate a su nombre el transporte de mercancías peligrosas por vía marítima o fluvial."
+    ],
+    "requisitos": [
+      {
+        "texto": "Presentá la documentación técnica del envase que pide el instructivo.",
+        "aclaracion": "El instructivo lo brinda la División Mercancías y Residuos Peligrosos."
+      },
+      {
+        "texto": "Reuní los datos técnicos del envase y de los lugares donde se fabrica y se llena el producto.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Reuní la documentación y los datos técnicos que pide el instructivo."
+      },
+      {
+        "texto": "Presentá todo en la División Mercancías y Residuos Peligrosos o, si tu empresa está en el interior, en la Dependencia Jurisdiccional."
+      },
+      {
+        "texto": "Pagá el arancel que se calcula según la cantidad de certificados y la movilidad, más el peaje y los viáticos si corresponden."
+      },
+      {
+        "texto": "Si iniciaste el trámite en el interior, coordiná con la División el día y la hora de la inspección."
+      },
+      {
+        "texto": "Esperá la recepción de la información y la confección del certificado por la División Documentación y Certificación."
+      },
+      {
+        "texto": "Retirá el certificado de aprobación."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "10 días hábiles desde que presentás la documentación, condicionado a que cumplas todos los requisitos.",
+    "consejos": [
+      "El certificado dura 5 años. Tenés que convalidarlo todos los años antes de la fecha de otorgamiento; si no, pierde validez.",
+      "Si la documentación está incompleta, tenés que volver todas las veces necesarias hasta completarla.",
+      "El trámite tiene silencio administrativo positivo: si no hay respuesta en 10 días hábiles, se entiende otorgado."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Edificio Guardacostas, Dirección de Protección Ambiental, División Mercancías y Residuos Peligrosos",
+      "direccion": "Avenida Eduardo Madero 235, 4to piso, oficina 4.37",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": "Lunes a viernes de 8:00 a 13:00",
+      "fuente_url": "https://www.argentina.gob.ar/servicio/aprobacion-de-envases-para-el-transporte-por-buques-de-mercancias-peligrosas"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/aprobacion-de-envases-para-el-transporte-por-buques-de-mercancias-peligrosas",
+      "titulo": "Aprobación de Envases para el transporte por buques de mercancías peligrosas",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:30:58.622Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/prefecturanaval/aranceles",
+      "titulo": "Aranceles",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T04:30:58.622Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto del arancel no está en las páginas: hay que consultar el Cuadro Tarifario de Aranceles del Decreto 2756/75.",
+    "La página de Aranceles dice que el cuadro tarifario estará disponible próximamente.",
+    "No se informan los montos de peaje ni de viáticos.",
+    "No se detalla la documentación exacta que pide el instructivo.",
+    "No se indican direcciones de las delegaciones de Prefectura del interior.",
+    "No se aclara si el trámite requiere turno."
+  ]
+}

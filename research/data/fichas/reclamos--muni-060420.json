@@ -1,0 +1,75 @@
+{
+  "tramite": {
+    "slug": "gestion-de-reclamos-denuncias-y-sugerencias-de-servicios-municipales",
+    "nombre": "Gestión de reclamos, denuncias y sugerencias de servicios municipales",
+    "nombre_busqueda": "Gestión de reclamos, denuncias y sugerencias de servicios municipales",
+    "resumen": "Podés hacer un reclamo, denuncia, consulta o sugerencia sobre los servicios de la Municipalidad de La Costa de forma online o presencial.",
+    "sinonimos": [
+      "Centro de Gestión de Reclamos",
+      "Información al Consumidor"
+    ],
+    "temas": [
+      "gobierno-y-participacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060420",
+  "organismo": {
+    "nombre": "Municipalidad de La Costa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Si tenés un reclamo, denuncia, consulta o sugerencia referido a los servicios que brinda la Municipalidad"
+    ],
+    "requisitos": [
+      {
+        "texto": "Adjuntar DNI del titular",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Para completar el formulario online, hacé click aquí"
+      },
+      {
+        "texto": "Una vez ingresado el reclamo, dentro de los próximos días, revisá tu correo electrónico que declaraste en el formulario para verificar si recibiste comunicación del organismo"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://lacosta.gob.ar/reclamos/",
+      "titulo": "La Costa » Centro de Gestión de Reclamos - La Costa",
+      "bloques": [
+        "resumen",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T14:26:28.077Z"
+    },
+    {
+      "url": "https://lacosta.gob.ar/oficina-municipal-de-informacion-al-consumidor/",
+      "titulo": "La Costa » Información al Consumidor - La Costa",
+      "bloques": [
+        "requisitos",
+        "pasos",
+        "consejos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T14:26:28.077Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo de respuesta no está especificado en el texto.",
+    "No se especifican requisitos adicionales para casos especiales como menores o extranjeros.",
+    "No se especifican costos adicionales por modalidad."
+  ]
+}

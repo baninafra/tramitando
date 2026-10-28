@@ -1,0 +1,112 @@
+{
+  "tramite": {
+    "slug": "certificar-supervivencia-y-estado-civil-para-obtener-el-alta-de-pension-militar",
+    "nombre": "Certificar supervivencia y estado civil para obtener el alta de pensión militar",
+    "nombre_busqueda": "Certificar supervivencia y estado civil para obtener el alta de pensión militar",
+    "resumen": "Cumplimentá el formulario de Supervivencia y Estado Civil para el alta del beneficio pensionario en el IAF. Es gratuito y se puede hacer presencialmente, por correo o por SIC.",
+    "sinonimos": [
+      "Certificado de supervivencia para pensionistas",
+      "Formulario de supervivencia IAF",
+      "Alta de pension militar"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Futuros pensionistas cuyo beneficio ya haya sido otorgado e informado al IAF por la Fuerza respectiva."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del titular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Supervivencia y Estado Civil (si sos pensionista mujer).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Supervivencia Simple para pensionistas masculinos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración de Estado Patrimonial (si sos pensionista estudiante mayor de 21 años y menor de 26 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de Relevamiento de Pensionistas Rehabilitadas (si se trata de tu segundo beneficio pensionario).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá con tu CUIL y contraseña al portal eIAF Beneficiarios o en la App eIAF."
+      },
+      {
+        "texto": "Dejanos tu solicitud en el apartado Sistema Integrado de Consultas."
+      },
+      {
+        "texto": "Personal de Atención al Público te indicará los pasos a seguir para realizar el trámite."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate con la documentación requerida a la sede central del IAF, Cerrito 572 – CABA o las Delegaciones del Interior."
+      },
+      {
+        "texto": "Entregá el Certificado de Supervivencia dependiendo de tu situación."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si hacés el trámite por correo postal, la firma en el formulario debe estar certificada por personal del IAF, autoridad policial, militar o notarial.",
+      "Si usás notaría, acompañá las constancias notariales y el timbrado correspondiente al Instituto de Ayuda Financiera - Cerrito 572 (C1010AAL) – Ciudad Autónoma de Buenos Aires."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede central del IAF",
+      "direccion": "Cerrito 572",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/certificar-supervivencia-y-estado-civil-para-obtener-el-alta-de-pension-militar"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/certificar-supervivencia-y-estado-civil-para-obtener-el-alta-de-pension-militar",
+      "titulo": "Certificar Supervivencia y Estado Civil para obtener el alta de pensión militar. | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-26T05:17:17.919Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/iaf",
+      "titulo": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares | Argentina.gob.ar",
+      "bloques": [
+        "donde"
+      ],
+      "consultada_en": "2026-10-26T05:17:17.919Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el plazo de tiempo para la resolución del trámite.",
+    "No se especifica si se requiere turno para la sede central o delegaciones del interior."
+  ]
+}

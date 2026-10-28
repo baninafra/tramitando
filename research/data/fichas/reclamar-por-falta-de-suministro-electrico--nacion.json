@@ -1,0 +1,118 @@
+{
+  "tramite": {
+    "slug": "reclamos-falta-suministro-electrico",
+    "nombre": "Reclamar por falta de suministro eléctrico",
+    "nombre_busqueda": "Reclamar falta de luz",
+    "resumen": "Podés reclamar la restitución del servicio y una bonificación por cortes prolongados o reiterados si no se trata de una interrupción programada.",
+    "sinonimos": [
+      "Reclamo falta de luz",
+      "Reclamo interrupción servicio eléctrico"
+    ],
+    "temas": [
+      "servicios-urbanos-y-reclamos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ENReGE",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Usuarios de EDENOR y EDESUR."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de identificación según la distribuidora: número de cliente para EDESUR; número de cuenta para EDENOR.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de reclamo ante la distribuidora.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fecha/s y hora/s de inicio y de finalización de la/s deficiencia/s y/o del/los corte/s registrado/s.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tu domicilio (entre qué calles, localidad, barrio, partido, código postal).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio donde querés recibir las comunicaciones relativas a tu reclamo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario de reclamo disponible en la página oficial."
+      },
+      {
+        "texto": "En la opción Seleccioná el tipo de reclamo a realizar, optá por Corte prolongado o Corte reiterado."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Dirijite a la sede de Suipacha 615, Ciudad Autónoma de Buenos Aires, de lunes a viernes de 09:00 a 17:00."
+      },
+      {
+        "texto": "Pedí turno previo antes de dirigirte a nuestra sede."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Antes de reclamar por falta de suministro, asegurate de que no se trate de un corte programado.",
+      "Tené presente que EDENOR y EDESUR deben notificar con al menos 48 horas de antelación toda interrupción del servicio por alguna obra planificada.",
+      "Descartado el corte programado, podés reclamar la restitución del servicio y una bonificación por corte prolongado o por cortes reiterados."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede ENReGE",
+      "direccion": "Suipacha 615",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/reclamar-por-falta-de-suministro-electrico"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reclamar-por-falta-de-suministro-electrico",
+      "titulo": "Reclamar por falta de suministro eléctrico | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:42:50.261Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/enre/gestion-de-reclamos/formularios-online/formulario-atencion-usuarios",
+      "titulo": "Para reclamar por otras deficiencias en el servicio de EDENOR / EDESUR | Argentina.gob.ar",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T02:42:50.261Z"
+    },
+    {
+      "url": "https://www.enre.gov.ar/web/bibliotd.nsf/($PorNroA%C3%B1o2)/3FF84C3D748E250D03258C38005CB695?opendocument",
+      "titulo": "Normativa",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T02:42:50.261Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite.",
+    "El plazo estimado de respuesta o resolución del reclamo.",
+    "El monto exacto de la bonificación por corte prolongado o reiterado."
+  ]
+}

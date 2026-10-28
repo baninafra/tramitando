@@ -1,0 +1,91 @@
+{
+  "tramite": {
+    "slug": "pensiones-no-contributivas-vejez",
+    "nombre": "Obtener la prestación por edad avanzada",
+    "nombre_busqueda": "prestacion por edad avanzada anses",
+    "resumen": "Solicitá esta prestación gratuita si tenés 70 años y al menos 10 años de aportes. El trámite es presencial y requiere un turno.",
+    "sinonimos": [
+      "prestación por edad avanzada",
+      "prestación por vejez"
+    ],
+    "temas": [
+      "pensiones-no-contributivas-vejez",
+      "adultos-mayores"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANSES",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Trabajadoras/es en relación de dependencia.",
+      "Trabajadoras/es autónomos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener 70 años de edad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener 10 años de aportes, de los cuales por lo menos 5 deben haber sido trabajados durante los últimos 8 años anteriores al cese de la actividad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "No acreditar tareas como personal de casas particulares.",
+        "aclaracion": null
+      },
+      {
+        "texto": "No cobrar otra jubilación, pensión o retiro civil o militar nacional, provincial o municipal.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Solicitá un turno en ANSES."
+      },
+      {
+        "texto": "Presentate el día del turno en la oficina de ANSES con la documentación."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-la-prestacion-por-edad-avanzada",
+      "titulo": "Obtener la prestación por edad avanzada | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T06:53:40.053Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-turnos-en-anses",
+      "titulo": "Solicitar turnos en ANSES | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T06:53:40.053Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La documentación específica solicitada en la cartilla no se detalló en el texto.",
+    "El plazo de atención no se especificó en el texto.",
+    "La fecha de vigencia de la resolución no se especificó en el texto."
+  ]
+}

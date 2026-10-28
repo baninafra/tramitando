@@ -1,0 +1,83 @@
+{
+  "tramite": {
+    "slug": "motovehiculos-alta",
+    "nombre": "Alta de motovehículos",
+    "nombre_busqueda": "Dar de alta motovehículo",
+    "resumen": "Para dar de alta un motovehículo nuevo en el Registro Municipal, se requiere presentar documentación original y copia del título de propiedad, factura de compra y certificado de aduana si es importado.",
+    "sinonimos": [
+      "Inscripción de motovehículo",
+      "Registro de motovehículo"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que desee dar de alta un motovehículo nuevo en el Registro Municipal."
+    ],
+    "requisitos": [
+      {
+        "texto": "Original y copia del título de propiedad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Original y copia de Factura de compra",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Aduana, si es importado",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación original y copia del título de propiedad, factura de compra y certificado de aduana si es importado."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Área Automotores",
+      "direccion": "Alsina 43",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/motovehiculos/alta/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/tramites/motovehiculos/alta/",
+      "titulo": "Alta de Motovehículos | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T02:39:45.548Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se indica que los costos son variables.",
+    "No se especifica el monto exacto de la tasa.",
+    "No se indica si se requiere turno."
+  ]
+}

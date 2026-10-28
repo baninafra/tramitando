@@ -1,0 +1,85 @@
+{
+  "tramite": {
+    "slug": "informar-valuation-inversiones-punto-391241",
+    "nombre": "Informar la valuación de las inversiones según punto 39.1.2.4.1",
+    "nombre_busqueda": "Informar valuación inversiones punto 39.1.2.4.1",
+    "resumen": "Las entidades aseguradoras y reaseguradoras deben informar a la Superintendencia de Seguros de la Nación la valuación de inversiones a valor técnico según el punto 39.1.2.4.1 del RGAA.",
+    "sinonimos": [],
+    "temas": [
+      "jubilaciones-y-pensiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Seguros de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Las entidades aseguradoras y reaseguradoras que informan a la SSN."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener usuario de acceso a Trámites a Distancia (TAD).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta del Órgano de Administración en la que se decidió valuar los títulos conforme lo previsto en el punto 39.1.2.4.1.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD, trámite Información de valuación de inversiones según punto 39.1.2.4.1, con clave fiscal."
+      },
+      {
+        "texto": "Operá como apoderado de la entidad a la que representás."
+      },
+      {
+        "texto": "Establecé el firmante ingresando el CUIL/CUIT del presidente de la aseguradora."
+      },
+      {
+        "texto": "Adjuntá el acta del Órgano de Administración."
+      },
+      {
+        "texto": "Indicá el código SSN, el nombre de la compañía, el código SSN de inversiones, la especie, el valor nominal, el valor técnico de la operación, el precio de la operación, el código de afectación SSN, la cartera y la fecha de compra."
+      },
+      {
+        "texto": "Confirmá el trámite."
+      },
+      {
+        "texto": "Cargá la documentación para que cada firmante reciba una notificación en su mail y realice su tarea de firma en TAD a través de la pestaña MIS TRÁMITES."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El trámite tendrá vigencia permanente.",
+      "Si el Organismo requiere más información u otra documentación, se notificará por medio de TAD."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/informar-la-valuacion-de-las-inversiones-segun-punto-391241",
+      "titulo": "Informar la valuación de las inversiones según punto 39.1.2.4.1 | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T16:45:06.428Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de oficinas para trámites presenciales."
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "tramite": {
+    "slug": "unificacion-de-aportes",
+    "nombre": "Unificar sus aportes en la misma obra social o prepaga",
+    "nombre_busqueda": "Unificar aportes cónyuges",
+    "resumen": "Permite a cónyuges o concubinos en relación de dependencia, monotributistas o del servicio doméstico tener el mismo Agente del Seguro. El trámite es gratuito y se realiza con el formulario Unificación de Aportes.",
+    "sinonimos": [
+      "Unificación de aportes",
+      "Unificar aportes",
+      "Unificar agente del seguro"
+    ],
+    "temas": [
+      "obra-social-y-prepaga",
+      "aportes-e-historia-laboral"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Beneficiarios de Obras Sociales Nacionales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario Unificación de Aportes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Matrimonio o concubinato.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación laboral extendida por el empleador actual (modelo) y fotocopia del último recibo de sueldo, o pagos de monotributo, o pagos del servicio doméstico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de F.184 / F.152 ARCA (ex AFIP), alta como monotributista social y como efector del Ministerio de desarrollo Social.",
+        "aclaracion": "En caso de pertenecer al régimen de Monotributo."
+      },
+      {
+        "texto": "Fotocopia de F.102 ARCA (ex AFIP) y en caso de adherentes F.575 ARCA.",
+        "aclaracion": "En caso de pertenecer al régimen de Servicio Doméstico."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el Formulario."
+      },
+      {
+        "texto": "Ingresá la documentación por Trámites a Distancia (TAD)."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Solicitá el turno en línea con usuario de Mi Argentina o creando tu cuenta."
+      },
+      {
+        "texto": "Hacelo personalmente si vivís en AMBA."
+      },
+      {
+        "texto": "Hacelo personalmente en delegaciones de todo el país."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central",
+      "direccion": "Bartolomé Mitre 434 - Planta Baja - CABA - C1035AAN",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-unificacion-de-aportes"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-unificacion-de-aportes",
+      "titulo": "Solicitar unificación de aportes | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T17:23:23.531Z"
+    }
+  ],
+  "sin_confirmar": [
+    "¿Cuál es el plazo de tramitación?",
+    "¿Se requiere turno en línea o presencial?"
+  ]
+}

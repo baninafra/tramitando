@@ -1,0 +1,70 @@
+---
+import Base from '../../layouts/Base.astro';
+import FichaTramite from '../../components/FichaTramite.astro';
+import Icono from '../../components/Icono.astro';
+import { obtenerOrganismo } from '../../lib/data';
+
+const datos = await obtenerOrganismo(Astro.params.slug!);
+if (!datos) return Astro.rewrite('/404');
+const { organismo, tramites, oficinas, lugar } = datos;
+const nombre = organismo.sigla ? `${organismo.nombre} (${organismo.sigla})` : organismo.nombre;
+const jsonld = {
+  '@context': 'https://schema.org',
+  '@type': 'GovernmentOrganization',
+  name: organismo.nombre,
+  alternateName: organismo.sigla,
+  url: organismo.web,
+  areaServed: lugar === 'Nación' ? 'Argentina' : lugar,
+};
+---
+<Base titulo={`${organismo.sigla ?? organismo.nombre}: trámites y oficinas`} descripcion={organismo.descripcion} jsonld={jsonld}>
+  <div class="contenedor">
+    <nav class="migas" aria-label="Estás en">
+      <ol><li><a href="/">Inicio</a></li><li>Organismos</li><li aria-current="page">{organismo.sigla ?? organismo.nombre}</li></ol>
+    </nav>
+    <header class="cabecera">
+      <p class="chip">{lugar}</p>
+      <h1>{nombre}</h1>
+      <p class="bajada">{organismo.descripcion}</p>
+      <a class="btn-texto" href={organismo.web} target="_blank" rel="noopener">
+        Ver el sitio oficial<Icono nombre="external-link" /><span class="visualmente-oculto"> (se abre en una pestaña nueva)</span>
+      </a>
+    </header>
+
+    <section class="bloque" aria-labelledby="sus-tramites">
+      <h2 id="sus-tramites">Sus trámites</h2>
+      <ul class="lista-tramites">
+        {tramites.map((t) => <li><FichaTramite tarjeta={t} /></li>)}
+      </ul>
+    </section>
+
+    {oficinas.length > 0 && (
+      <section class="bloque" aria-labelledby="sus-oficinas">
+        <h2 id="sus-oficinas">Oficinas</h2>
+        <ul class="oficinas">
+          {oficinas.map((o) => (
+            <li>
+              <h3>{o.nombre}</h3>
+              <p>{o.direccion}, {o.localidad}</p>
+              {o.horario && <p class="horario"><Icono nombre="clock" />{o.horario}</p>}
+              <a href={o.mapaUrl} target="_blank" rel="noopener"><Icono nombre="map-pin" class="mini" />Ver en el mapa<span class="visualmente-oculto"> (se abre en una pestaña nueva)</span></a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+  </div>
+</Base>
+
+<style>
+  .cabecera { display: grid; gap: var(--espacio-3); justify-items: start; padding-block: var(--espacio-4) var(--espacio-6); }
+  .chip { font: var(--t-nota); color: var(--tinta-2); }
+  .cabecera .btn { padding-inline: 0; }
+  .bloque { display: grid; gap: var(--espacio-4); margin-bottom: var(--espacio-7); }
+  .oficinas { list-style: none; padding: 0; display: grid; gap: var(--espacio-4); grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr)); }
+  /* Mismas tarjetas que en la ficha: bordes redondeados y el ícono del mapa pegado al link. */
+  .oficinas li { border-radius: 22px; display: grid; gap: var(--espacio-2); align-content: start; background: var(--superficie); padding: var(--espacio-5); }
+  .oficinas a { display: inline-flex; align-items: center; gap: 4px; justify-self: start; }
+  .oficinas a :global(.icono.mini) { width: 16px; height: 16px; }
+  .horario { display: flex; gap: var(--espacio-2); align-items: center; color: var(--tinta-2); font: var(--t-cuerpo-chico); }
+</style>

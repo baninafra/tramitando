@@ -1,0 +1,101 @@
+{
+  "tramite": {
+    "slug": "pasaporte",
+    "nombre": "Pasaporte",
+    "nombre_busqueda": "Pasaporte",
+    "resumen": "Obtén tu primer ejemplar o un nuevo pasaporte emitido por el Ministerio del Interior a través del Registro Nacional de las Personas. El documento se envía por correo al domicilio declarado.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141498",
+  "organismo": {
+    "nombre": "Municipalidad de Tancacha",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Menores de 18 años en compañía de ambos progenitores o tutor legal.",
+      "Mayores de 18 años."
+    ],
+    "requisitos": [
+      {
+        "texto": "Partida de nacimiento actualizada (para menores de 18 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI vigente (para menores de 18 años, si está vencido pueden actualizarlo junto con el pasaporte).",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI vigente (para mayores de 18 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de corresponder, llevar sentencia de tutela (para menores de 18 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Visa en pasaporte anterior (si la tenés, decilo al hacer el trámite).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Concurrí al Centro de Documentación Rápida o al Registro Civil donde se inició el trámite."
+      },
+      {
+        "texto": "Llevá tu DNI y el comprobante del trámite realizado."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El pasaporte será enviado por correo al domicilio declarado por el ciudadano.",
+      "Si no recibís el pasaporte, deberás concurrir al Centro de Documentación Rápida o al Registro Civil donde se inició el trámite, con DNI y comprobante del trámite realizado.",
+      "La vigencia es de 10 años para mayores de 18 años y 5 años para menores de 18 años desde la fecha de emisión."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 10000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.tancacha.gob.ar/pasaporte.html"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 20000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.tancacha.gob.ar/pasaporte.html"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.tancacha.gob.ar/pasaporte.html",
+      "titulo": "Municipalidad de Tancacha - Pasaporte",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T09:43:50.301Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta del Centro de Documentación Rápida o del Registro Civil donde se inicia el trámite."
+  ]
+}

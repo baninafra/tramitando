@@ -1,0 +1,75 @@
+{
+  "tramite": {
+    "slug": "libreta-sanitaria-empresas-urgente-caps",
+    "nombre": "Libreta Sanitaria para Empresas Urgente con Turno en CAPS",
+    "nombre_busqueda": "Libreta sanitaria empresas urgente CAPS",
+    "resumen": "Trámite municipal para que empleados de empresas obtengan o renoven su libreta sanitaria de forma urgente en Centros de Atención Primaria de la Salud (CAPS).",
+    "sinonimos": [
+      "Libreta sanitaria empresas",
+      "Libreta sanitaria urgente CAPS"
+    ],
+    "temas": [
+      "carnet-sanitario"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060028",
+  "organismo": {
+    "nombre": "Municipio de Almirante Brown",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empleados de empresas"
+    ],
+    "requisitos": [
+      {
+        "texto": "Carga de datos personales/empresa",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Solicitá turno en el CAPS para tus empleados."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Libreta Básica requiere 8 hs. de ayuno."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Centro de Atención Primaria de Salud N° 18",
+      "direccion": "Calle Pte. Perón 888",
+      "localidad": "Burzaco",
+      "horario": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/libreta-sanitaria-para-empresas-urgente-con-turno-en-caps/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.brown.gob.ar/tramites/libreta-sanitaria-para-empresas-urgente-con-turno-en-caps/",
+      "titulo": "Libreta Sanitaria para Empresas Urgente con Turno en CAPS",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T07:42:11.904Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos para menores o casos especiales.",
+    "No se especifican montos de costos.",
+    "No se especifica plazo de espera.",
+    "No se especifica si el trámite se puede hacer totalmente online sin ir a la oficina."
+  ]
+}

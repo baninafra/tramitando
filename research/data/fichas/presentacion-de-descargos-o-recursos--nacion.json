@@ -1,0 +1,92 @@
+{
+  "tramite": {
+    "slug": "presentacion-de-descargos-o-recursos",
+    "nombre": "Presentación de descargos o recursos",
+    "nombre_busqueda": "Presentación de descargos o recursos",
+    "resumen": "Podés presentar un descargo contra cargos o una presentación de recursos contra actos administrativos. El trámite es gratuito y se puede hacer por internet o presencialmente.",
+    "sinonimos": [],
+    "temas": [
+      "legalizaciones-y-apostillados"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Comisión Nacional de Regulación del Transporte",
+    "sigla": "CNRT",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en formular un descargo contra cargos o una presentación de recursos contra actos administrativos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Carátula de descargo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de descargo o recurso",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de expediente o número de acta",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentos probatorios",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD con tu CUIT y clave fiscal."
+      },
+      {
+        "texto": "La clave fiscal debe ser de nivel 3."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en la sede central de la CNRT ubicada en Maipú 88, CABA de lunes a viernes de 9 a 15 h."
+      },
+      {
+        "texto": "O en nuestras delegaciones regionales que se encuentran en el interior del país."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede central de la CNRT",
+      "direccion": "Maipú 88, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/presentacion-de-descargos-o-recursos"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/presentacion-de-descargos-o-recursos",
+      "titulo": "Presentación de descargos o recursos | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T00:21:34.070Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si el trámite requiere turno, no se especifica en el texto."
+  ]
+}

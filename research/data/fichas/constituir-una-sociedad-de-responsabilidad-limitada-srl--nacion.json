@@ -1,0 +1,133 @@
+{
+  "tramite": {
+    "slug": "constituir-srl",
+    "nombre": "Constituir una sociedad de responsabilidad limitada srl",
+    "nombre_busqueda": "Constituir una SRL",
+    "resumen": "Para constituir una SRL se debe presentar el formulario de constitución y la documentación requerida en la Mesa General de Entradas de la Inspección General de Justicia. El trámite puede ser común o urgente, y opcionalmente se puede solicitar la rúbrica de libros contables.",
+    "sinonimos": [
+      "Crear una SRL",
+      "Inscribir una SRL",
+      "Fundar una sociedad de responsabilidad limitada"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": "IGJ",
+    "web": "https://www.argentina.gob.ar/justicia/igj"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes deseen constituir una sociedad de responsabilidad limitada."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de constitución de sociedades.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de Reserva de denominación social, si se hubiere efectuado y estuviese vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario 185 de la AFIP.",
+        "aclaracion": "Obligatorio para modalidad urgente, opcional para común."
+      },
+      {
+        "texto": "Dictamen de precalificación profesional conforme al art. 50, inc. 2 del Anexo A de la Resolución General I.G.J. Nº 7/15.",
+        "aclaracion": "Emitido por escribano público si es escritura pública, o por abogado si es instrumento privado. Incluye dictamen de graduado en ciencias económicas si los bienes aportados no son sumas de dinero."
+      },
+      {
+        "texto": "Primer testimonio de escritura pública de constitución o instrumento privado original con sus firmas certificadas por escribano público.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Instrumento de fijación de la sede social, si no conste en el acto constitutivo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que acredite la aceptación del cargo por parte de los integrantes de los órganos de administración y fiscalización, si no comparecieron al acto constitutivo.",
+        "aclaracion": "Con firmas certificadas notarialmente."
+      },
+      {
+        "texto": "Documentación que acredite la constitución de la garantía que deben prestar los gerentes titulares.",
+        "aclaracion": "Puede acompañarse copia de la póliza de seguro de caución si el gerente la obtuvo."
+      },
+      {
+        "texto": "Constancia de la publicación prevista por el art. 10 de la Ley Nº 19.550 en el Boletín Oficial.",
+        "aclaracion": "Se debe presentar la impresión firmada por el interesado, representante legal, persona autorizada o el profesional dictaminante."
+      },
+      {
+        "texto": "Acreditación de la integración de los aportes.",
+        "aclaracion": "Original de la boleta del depósito en Banco Nación para aportes dinerarios (mínimo 25% del capital social) o documentación para aportes no dinerarios."
+      },
+      {
+        "texto": "Copia simple y protocolar de la documentación indicada en los apartados anteriores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago de la tasa retributiva de servicios.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración Jurada sobre la condición de Persona Expuesta Políticamente.",
+        "aclaracion": "Debe ser presentada por los administradores y miembros del órgano de fiscalización."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el formulario del trámite y toda la documentación indicada en la Mesa General de Entradas de la Inspección General de Justicia."
+      },
+      {
+        "texto": "Retirá el trámite finalizado en la sede central de la Inspección General de Justicia."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede central de la Inspección General de Justicia",
+      "direccion": "Av. Paseo Colón 291",
+      "localidad": "Av. Paseo Colón 291",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/constituir-una-sociedad-de-responsabilidad-limitada-srl"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/constituir-una-sociedad-de-responsabilidad-limitada-srl",
+      "titulo": "Constituir una Sociedad de Responsabilidad Limitada (SRL) | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-26T15:02:46.734Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/justicia/igj/calculador-modulos",
+      "titulo": "Calculá el costo de los trámites de IGJ | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T15:02:46.734Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa no está especificado en el texto, se debe calcular mediante el calculador de módulos de IGJ.",
+    "La fecha de vigencia del nuevo valor del módulo IGJ es 08/04/2024, pero no se indica si este valor es permanente o temporal."
+  ]
+}

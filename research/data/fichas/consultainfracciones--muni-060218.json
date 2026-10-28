@@ -1,0 +1,70 @@
+{
+  "tramite": {
+    "slug": "consulta-infracciones-de-transito",
+    "nombre": "Consulta de infracciones de tránsito",
+    "nombre_busqueda": "Consulta de infracciones de tránsito",
+    "resumen": "Permité consultar si tenés infracciones de tránsito en el Juzgado de Faltas de Chascomús.",
+    "sinonimos": [
+      "Consulta de multas de tránsito",
+      "Verificar infracciones de tránsito"
+    ],
+    "temas": [
+      "infracciones-y-multas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060218",
+  "organismo": {
+    "nombre": "Juzgado de Faltas",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en verificar si tiene infracciones de tránsito."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento de identidad.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acudí al Juzgado de Faltas."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Juzgado de Faltas",
+      "direccion": "Soler 56",
+      "localidad": "Chascomús",
+      "horario": null,
+      "fuente_url": "https://chascomus.gob.ar/municipio/estaticas/consultaInfracciones"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://chascomus.gob.ar/municipio/estaticas/consultaInfracciones",
+      "titulo": "Municipalidad de Chascomús",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T22:54:44.605Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere sacar turno para realizar la consulta.",
+    "No se especifica el monto de la consulta."
+  ]
+}

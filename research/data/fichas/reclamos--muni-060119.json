@@ -1,0 +1,100 @@
+{
+  "tramite": {
+    "slug": "reclamos-vecinales",
+    "nombre": "Ingreso y seguimiento de reclamos vecinales de servicios públicos",
+    "nombre_busqueda": "Reclamos vecinales Brandsen",
+    "resumen": "Podés cargar un reclamo indicando tu nombre, DNI, teléfono y dirección, seleccionando el tipo de problema (alumbrado, cloacas, residuos, etc.) y enviándolo para que sea derivado al área correspondiente.",
+    "sinonimos": [
+      "Reclamos municipales Brandsen",
+      "Denuncias vecinales Brandsen",
+      "Quejas servicios públicos Brandsen"
+    ],
+    "temas": [
+      "reclamos-vecinales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060119",
+  "organismo": {
+    "nombre": "Municipalidad de Brandsen",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier vecino o residente de la localidad."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nombre completo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Teléfono.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dirección del problema.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tipo de reclamo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la página de reclamos de la Municipalidad de Brandsen."
+      },
+      {
+        "texto": "Completá el formulario con tu nombre, apellido, DNI, teléfono y dirección."
+      },
+      {
+        "texto": "Seleccioná el tipo de reclamo (alumbrado, cloacas, ramas y pasto, calles y zanjeo, recolección de residuos, etc.)."
+      },
+      {
+        "texto": "Escribí una descripción detallada del problema."
+      },
+      {
+        "texto": "Hacé clic en Enviar reclamo."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://brandsen.gob.ar/reclamos",
+      "titulo": "Municipalidad de Brandsen - El lugar que nos merecemos",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T11:41:14.096Z"
+    },
+    {
+      "url": "https://brandsen.gob.ar/",
+      "titulo": "Municipalidad de Brandsen - El lugar que nos merecemos",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T11:41:14.096Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican plazos de respuesta ni tiempos de atención.",
+    "No se indican costos para el envío de reclamos.",
+    "No se detallan requisitos específicos para casos especiales (menores, extranjeros, empresas)."
+  ]
+}

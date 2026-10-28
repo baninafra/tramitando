@@ -1,0 +1,80 @@
+{
+  "tramite": {
+    "slug": "planes-de-pago-municipales",
+    "nombre": "Plan de pago online",
+    "nombre_busqueda": "Plan de pago tasas municipales",
+    "resumen": "Generá un plan de pago online para regularizar tu deuda en tasas municipales. Podés elegir la financiación y abonar de manera online o imprimir la boleta.",
+    "sinonimos": [
+      "Plan de pago tasas",
+      "Regularización tasas municipales"
+    ],
+    "temas": [
+      "planes-de-pago-municipales",
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060763",
+  "organismo": {
+    "nombre": "Municipalidad de San Nicolás de los Arroyos",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de tasas municipales con deuda a regularizar."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de DNI y número de trámite del titular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de CUIT y Clave Fiscal.",
+        "aclaracion": "Si querés ingresar a través de AFIP."
+      },
+      {
+        "texto": "Número de inmueble, de rodado o de cuenta según la tasa a regularizar.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá tus datos al sistema."
+      },
+      {
+        "texto": "Validá tus datos seleccionando la opción que prefieras: afip, anses, renaper o Mi Argentina."
+      },
+      {
+        "texto": "Seleccioná la tasa, luego los períodos a incluir y la financiación."
+      },
+      {
+        "texto": "Generá el plan de pago."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.sannicolasciudad.gob.ar/tramites/pago-de-tasas-inmuebles-y-rodados/plan-de-pago-on-line",
+      "titulo": "Plan de pago online | Pago de tasas | Trámites | San Nicolás Ciudad",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T15:35:36.274Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos de tasas ni plazos de vencimiento."
+  ]
+}

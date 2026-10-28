@@ -1,0 +1,84 @@
+{
+  "tramite": {
+    "slug": "cobro-sellado-registro-de-conducir",
+    "nombre": "Cobro sellado registro de conducir",
+    "nombre_busqueda": "cobro sellado registro de conducir",
+    "resumen": "Es el cobro de un sellado de libre deuda para poder completar el trámite del Registro de Conducir. Se realiza en el mostrador de Finanzas Rentas.",
+    "sinonimos": [
+      "sellado libre deuda registro de conducir",
+      "cobro sellado carnet de conducir"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060245",
+  "organismo": {
+    "nombre": "Municipalidad de Ensenada",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El Ciudadano de Ensenada, en condiciones de sacar el Registro de Conducir."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario del Juzgado de Faltas",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el Formulario del Juzgado de Faltas en el mostrador de Finanzas Rentas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "Sellado",
+      "gratis": false,
+      "monto_centavos": 500000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.ensenada.gov.ar/cobro-sellado-registro-de-conducir/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Finanzas Rentas",
+      "direccion": "San Martín y Pte. Perón",
+      "localidad": "Ensenada",
+      "horario": null,
+      "fuente_url": "https://www.ensenada.gov.ar/cobro-sellado-registro-de-conducir/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.ensenada.gov.ar/cobro-sellado-registro-de-conducir/",
+      "titulo": "COBRO SELLADO REGISTRO DE CONDUCIR – Municipalidad de Ensenada",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T23:17:41.162Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horario de atención: De lunes a viernes de 7:30 a 14:30 horas.",
+    "Si hay multas varias, el costo varía según su categoría.",
+    "Vigente desde: No se especifica fecha exacta en el texto."
+  ]
+}

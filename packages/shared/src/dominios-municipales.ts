@@ -1,0 +1,43 @@
+/**
+ * Sitios de municipios que no usan .gob.ar / .gov.ar (por ejemplo un .com.ar propio), tomados de fuentes
+ * oficiales (ReFeGLo del Ministerio del Interior y gba.gob.ar) y verificados: la página responde y lleva el
+ * nombre del municipio. Lo genera `npm run investigar -- verificar-dominios`; no editar a mano.
+ */
+export const DOMINIOS_MUNICIPALES: Record<string, string> = {
+  "adelvalleturismo.com.ar": "Municipalidad de Aristóbulo del Valle (Misiones): sitio según ReFeGLo (Min. Interior)",
+  "alvarezweb.com.ar": "Municipalidad de Álvarez (Santa Fe): sitio según ReFeGLo (Min. Interior)",
+  "caleufulp.com.ar": "Municipalidad de Caleufú (La Pampa): sitio según ReFeGLo (Min. Interior)",
+  "colazo.org": "Municipalidad de Colazo (Córdoba): sitio según ReFeGLo (Min. Interior)",
+  "coloniabossi.com.ar": "Municipalidad de Colonia Bossi (Santa Fe): sitio según ReFeGLo (Min. Interior)",
+  "comunacafferata.com": "Municipalidad de Cafferata (Santa Fe): sitio según ReFeGLo (Min. Interior)",
+  "comunadebouquet.com.ar": "Municipalidad de Bouquet (Santa Fe): sitio según ReFeGLo (Min. Interior)",
+  "comunadehersilia.com.ar": "Municipalidad de Hersilia (Santa Fe): sitio según ReFeGLo (Min. Interior)",
+  "comunadejosefina.webnode.com.ar": "Municipalidad de Josefina (Santa Fe): sitio según ReFeGLo (Min. Interior)",
+  "comunadepinero.com": "Municipalidad de Piñero (Santa Fe): sitio según ReFeGLo (Min. Interior)",
+  "comunadevila.com.ar": "Municipalidad de Vila (Santa Fe): sitio según ReFeGLo (Min. Interior)",
+  "comunadezavalla.com": "Municipalidad de Zavalla (Santa Fe): sitio según ReFeGLo (Min. Interior)",
+  "comunamontesdeoca.com.ar": "Municipalidad de Montes de Oca (Santa Fe): sitio según ReFeGLo (Min. Interior)",
+  "comunapujatonorte.com.ar": "Municipalidad de Pujato Norte (Santa Fe): sitio según ReFeGLo (Min. Interior)",
+  "gobiernodelasheras.com": "Municipalidad de General Las Heras (Buenos Aires): sitio según ReFeGLo (Min. Interior)",
+  "lacarolinasanluis.com.ar": "Municipalidad de La Carolina (San Luis): sitio según ReFeGLo (Min. Interior)",
+  "margarita.com.ar": "Municipalidad de Margarita (Santa Fe): sitio según ReFeGLo (Min. Interior)",
+  "munballesterossud.com": "Municipalidad de Ballesteros Sud (Córdoba): sitio según ReFeGLo (Min. Interior)",
+  "mungralsanmartin.webnode.com.ar": "Municipalidad de General San Martín (La Rioja): sitio según ReFeGLo (Min. Interior)",
+  "municipalidaddealbardon.com": "Municipalidad de Albardón (San Juan): sitio según ReFeGLo (Min. Interior)",
+  "municipalidaddequebrachoherrado.com": "Municipalidad de Quebracho Herrado (Córdoba): sitio según ReFeGLo (Min. Interior)",
+  "municipalidadvera.com": "Municipalidad de Vera (Santa Fe): sitio según ReFeGLo (Min. Interior)",
+  "municipiocharata.com.ar": "Municipalidad de Charata (Chaco): sitio según ReFeGLo (Min. Interior)",
+  "munigobcosta.com": "Municipalidad de Gobernador Costa (Chubut): sitio según ReFeGLo (Min. Interior)",
+  "munirfrontera.com": "Municipalidad de Rosario de la Frontera (Salta): sitio según ReFeGLo (Min. Interior)",
+  "ricardone.com.ar": "Municipalidad de Ricardone (Santa Fe): sitio según ReFeGLo (Min. Interior)",
+  "romang.home.blog": "Municipalidad de Romang (Santa Fe): sitio según ReFeGLo (Min. Interior)",
+  "sanesteban.com.ar": "Municipalidad de San Esteban (Córdoba): sitio según ReFeGLo (Min. Interior)",
+  "sanisidrodelules.com": "Municipalidad de San Isidro de Lules (Tucumán): sitio según ReFeGLo (Min. Interior)",
+  "sanjosedelassalinas.com": "Municipalidad de San José de las Salinas (Córdoba): sitio según ReFeGLo (Min. Interior)",
+  "santaanadelosguacaras.com": "Municipalidad de Santa Ana de los Guácaras (Corrientes): sitio según ReFeGLo (Min. Interior)",
+  "sanvicente.com.ar": "Municipalidad de San Vicente (Santa Fe): sitio según ReFeGLo (Min. Interior)",
+  "turismofiambala.com.ar": "Municipalidad de Fiambalá (Catamarca): sitio según ReFeGLo (Min. Interior)",
+  "villaamelia.com.ar": "Municipalidad de Villa Amelia (Santa Fe): sitio según ReFeGLo (Min. Interior)",
+  "villahuidobro.com.ar": "Municipalidad de Villa Huidobro (Córdoba): sitio según ReFeGLo (Min. Interior)",
+  "villalosaromos.gob.ar": "Municipalidad de Villa Los Aromos (Córdoba): sitio según ReFeGLo (Min. Interior)",
+};

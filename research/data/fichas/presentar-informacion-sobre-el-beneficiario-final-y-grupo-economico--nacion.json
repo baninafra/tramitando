@@ -1,0 +1,109 @@
+{
+  "tramite": {
+    "slug": "presentar-informacion-sobre-el-beneficiario-final-y-grupo-economico",
+    "nombre": "Presentar información sobre el beneficiario final y grupo económico",
+    "nombre_busqueda": "Beneficiario final aseguradoras",
+    "resumen": "Las aseguradoras y reaseguradoras deben cargar datos de accionistas y beneficiarios finales en el sistema TAD, adjuntando documentación en PDF y generando una DDJJ con código de barra.",
+    "sinonimos": [
+      "Beneficiario final aseguradoras",
+      "Grupo económico aseguradoras",
+      "Beneficiario final reaseguradoras"
+    ],
+    "temas": [
+      "cuil-y-clave-de-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Seguros de la Nación",
+    "sigla": "SSN",
+    "web": "https://www.argentina.gob.ar/servicio/presentar-informacion-sobre-el-beneficiario-final-y-grupo-economico"
+  },
+  "contenido": {
+    "quien_puede": [
+      "A compañías aseguradoras, reaseguradoras locales y sociedades de productores."
+    ],
+    "requisitos": [
+      {
+        "texto": "Usuario y clave de acceso del sitio http://login.ssn.gob.ar, opción Sistema de Beneficiario Final.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cargar la totalidad de los accionistas directos de la Entidad aseguradora o reaseguradora, y sus Beneficiarios Finales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informar si pertenece o no a un Grupo o Conglomerado económico e identificar quienes lo componen.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Adjuntar en el sistema la documentación en pdf solicitada de accionistas y beneficiario finales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Generar la DDJJ de beneficiario final con su respectivo código de barra.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener usuario de acceso a Trámite a Distancia (TAD).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Completar el formulario TAD, transcribiendo el código de barra que se encuentra en la DDJJ de beneficiario final e informando el Cuit de representante legal encargado de firmar la DDJJ.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Adjuntar la DDJJ en pdf en TAD.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Iniciar el proceso de firmas.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar a TAD, Declaración Jurada de Beneficiario Final y Grupo en carácter de administrador o apoderado."
+      },
+      {
+        "texto": "Completar el formulario TAD, transcribiendo el código de barra que se encuentra en la DDJJ de beneficiario final e informando el Cuit de representante legal encargado de firmar la DDJJ."
+      },
+      {
+        "texto": "Adjuntar la DDJJ en pdf en TAD."
+      },
+      {
+        "texto": "Iniciar el proceso de firmas."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Periodicidad del trámite anual o ante modificaciones.",
+      "Cooperativas o mutuales la informan Grupo o Conglomerado Económico y su Consejo de Administración.",
+      "Las consultas se realizan únicamente por casilla de mail a [email protected]."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/presentar-informacion-sobre-el-beneficiario-final-y-grupo-economico",
+      "titulo": "Presentar información sobre el Beneficiario Final y Grupo Económico | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T07:30:22.951Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina para trámites presenciales."
+  ]
+}

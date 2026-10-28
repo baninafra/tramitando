@@ -1,0 +1,123 @@
+{
+  "tramite": {
+    "slug": "obtencion-y-renovacion-licencias-de-conducir",
+    "nombre": "Obtención y renovación de licencias de conducir",
+    "nombre_busqueda": "Licencia de conducir San Cayetano",
+    "resumen": "Para obtener o renovar la licencia de conducir en San Cayetano, necesitás DNI, aprobar exámenes médicos y teóricos/prácticos, y pagar arancel provincial y tasa municipal.",
+    "sinonimos": [
+      "Licencia de conducir original",
+      "Licencia de conducir renovación",
+      "Carnet de conducir San Cayetano"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060742",
+  "organismo": {
+    "nombre": "Municipalidad de San Cayetano",
+    "sigla": null,
+    "web": "https://sancayetano.gob.ar/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas con domicilio en San Cayetano",
+      "Jóvenes de 16 y 17 años con autorización de sus padres",
+      "Personas mayores de 65 años",
+      "Personas mayores de 70 años"
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI con domicilio en San Cayetano",
+        "aclaracion": null
+      },
+      {
+        "texto": "Correo electrónico",
+        "aclaracion": null
+      },
+      {
+        "texto": "Licencia anterior (para renovación)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización de los padres (para jóvenes de 16 y 17 años)",
+        "aclaracion": "Si sos menor de edad."
+      },
+      {
+        "texto": "Examen teórico aprobado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Examen práctico aprobado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Examen médico y psicológico",
+        "aclaracion": "Solo para mayores de 70 años."
+      },
+      {
+        "texto": "Planilla para examen médico",
+        "aclaracion": null
+      },
+      {
+        "texto": "Foto para inicio de trámite",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Solicitá turno con profesional médico en el Hospital Municipal o por WhatsApp 2983-354353."
+      },
+      {
+        "texto": "Cumplimentá la documentación y entregá la planilla para examen médico."
+      },
+      {
+        "texto": "Aprobá el examen médico."
+      },
+      {
+        "texto": "Aprobá el examen teórico."
+      },
+      {
+        "texto": "Aprobá el examen práctico."
+      },
+      {
+        "texto": "Retirá la licencia por la Oficina correspondiente."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://sancayetano.gob.ar/obtencion-y-renovacion-licencias-de-conducir/",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina correspondiente",
+      "direccion": "Av. San Martín 451",
+      "localidad": "San Cayetano",
+      "horario": null,
+      "fuente_url": "https://sancayetano.gob.ar/obtencion-y-renovacion-licencias-de-conducir/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://sancayetano.gob.ar/obtencion-y-renovacion-licencias-de-conducir/",
+      "titulo": "Obtención y Renovación Licencias de Conducir - San Cayetano | Municipalidad",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T10:06:13.055Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel provincial y la tasa municipal no se especifica en el texto.",
+    "El plazo de tiempo para completar el trámite no se indica."
+  ]
+}

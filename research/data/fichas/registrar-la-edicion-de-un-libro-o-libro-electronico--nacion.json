@@ -1,0 +1,166 @@
+{
+  "tramite": {
+    "slug": "registrar-la-edicion-de-un-libro-o-libro-electronico",
+    "nombre": "Registrar la edición de un libro o libro electrónico",
+    "nombre_busqueda": "Registrar edición libro DNDA",
+    "resumen": "Si sos editor de una obra publicada en formato papel o electrónico, tenés que inscribirla en la DNDA en un plazo máximo de 90 días desde la fecha de publicación.",
+    "sinonimos": [],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional del Derecho de Autor",
+    "sigla": "DNDA",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Editores de obras literarias publicadas en formato papel o electrónico."
+    ],
+    "requisitos": [
+      {
+        "texto": "Comprobante de pago del trámite por depósito o transferencia bancaria.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago de la tasa por depósito o transferencia bancaria.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ejemplares de la obra según la tirada y la ciudad de edición.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cuadro de catalogación con mención de autor, editor, número de edición, lugar, fecha y N° de ISBN.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pie de imprenta con fecha de impresión y datos de la imprenta.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos a proporcionar de los autores (nombre completo o seudónimo, N° de cuil/cuit/cdi o Pasaporte).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos a proporcionar de los titulares (nombre completo o razón social, N° de cuil/cuit/cdi o Pasaporte, nacionalidad, estado civil, correo electrónico, teléfono, domicilio y porcentaje de titularidad).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que acredite vínculo si el autor es menor de edad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de CUIT, CUIL o CDI del menor si es autor extranjero.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de defunción si el autor falleció.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estatuto y última designación de autoridades si el titular es persona jurídica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización privada del autor firmada y certificada ante autoridad bancaria, judicial, policial o Escribano Público si no sos el autor/titular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Carta poder concedida por el autor ante Escribano Público si no sos el autor/titular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el escribano no es de la Ciudad de Buenos Aires, su firma debe estar legalizada ante el Colegio de Escribanos de la localidad correspondiente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de cuil/cuit/cdi o Pasaporte del autor o titular.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD - Inscripción de obra publicada - Edición Literaria e iniciá el trámite."
+      },
+      {
+        "texto": "Completá los datos requeridos."
+      },
+      {
+        "texto": "Subí la documentación obligatoria y complementaria."
+      },
+      {
+        "texto": "El sistema te otorgará un número de expediente electrónico, anotalo y tenelo presente para cualquier consulta posterior en la DNDA."
+      },
+      {
+        "texto": "Si elegiste la opción Modo de Depósito Digital NO, leé el detalle del punto 5."
+      },
+      {
+        "texto": "Si elegiste la opción Modo de Depósito Digital SI, leé el punto 6."
+      },
+      {
+        "texto": "Si elegiste la opción Modo de Depósito Digital NO, dentro del expediente generado encontrarás 3 archivos para descargar e imprimir: 1.datos de la obra a registrar, 2.carátula variable y 3.carátulas del expediente."
+      },
+      {
+        "texto": "Para finalizar el trámite, deberás presentar o enviar la obra y la impresión de los tres archivos a la Dirección Nacional del Derecho de Autor Sede Central."
+      },
+      {
+        "texto": "Si elegiste la opción Modo de Depósito Digital SI, una vez iniciado el expediente recibirás una comunicación en la cual se te detallará el procedimiento para la carga digital de la obra."
+      },
+      {
+        "texto": "Si tenés algún error, se te enviará una tarea de subsanación; caso contrario se te otorgará el certificado por TAD."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La obra debe estar publicada previo al inicio del trámite.",
+      "El plazo máximo para la inscripción es de 90 días a contar desde la fecha de publicación."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 230000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/registrar-la-edicion-de-un-libro-o-libro-electronico"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 411,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/registrar-la-edicion-de-un-libro-o-libro-electronico"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/registrar-la-edicion-de-un-libro-o-libro-electronico",
+      "titulo": "Registrar la edición de un libro o libro electrónico | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T03:06:41.138Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia del trámite.",
+    "Si el trámite requiere turno."
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "tramite": {
+    "slug": "solicitar-alta-o-modificacion-de-ente-en-e-sidif",
+    "nombre": "Solicitar alta o modificación de ente en E-SIDIF",
+    "nombre_busqueda": "Solicitar alta o modificación de ente en E-SIDIF",
+    "resumen": "Este trámite permite a Obras Sociales y Proveedores del Sistema Integrado de Información Financiera declarar sus datos bancarios e impositivos para acceder al cobro de facturación o reintegros.",
+    "sinonimos": [],
+    "temas": [
+      "cuil-y-clave-de-seguridad-social",
+      "aportes-e-historia-laboral"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Servicios de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Obras Sociales Nacionales inscriptas",
+      "Proveedores en la Superintendencia de Servicios de Salud"
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario 1 – Autorización de Acreditación de Pagos",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario 2 - Declaración de Datos Complementarios",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación del Formulario 1 por el Banco donde se posee la cuenta",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación digitalizada",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a Tramites A Distancia (TAD) cerrando la cuenta 'Nunca me registré'"
+      },
+      {
+        "texto": "Completá los formularios 1 y 2"
+      },
+      {
+        "texto": "Certificá el Formulario 1 por el Banco donde tenés la cuenta"
+      },
+      {
+        "texto": "Digitalizá los formularios"
+      },
+      {
+        "texto": "Remití la documentación por TAD"
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación en la Mesa de Entrada de la Sede Central (Bartolomé Mitre 434 - Planta Baja - CABA - C1036AAH) o en la Delegación más próxima al domicilio de la Obra Social"
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central",
+      "direccion": "Bartolomé Mitre 434 - Planta Baja - CABA - C1036AAH",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-alta-o-modificacion-de-ente-en-e-sidif"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-alta-o-modificacion-de-ente-en-e-sidif",
+      "titulo": "Solicitar alta o modificación de ente en E-SIDIF | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T04:14:07.890Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica el plazo de atención ni el monto exacto en centavos, aunque indica que el trámite es gratuito."
+  ]
+}

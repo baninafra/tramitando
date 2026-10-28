@@ -1,0 +1,112 @@
+{
+  "tramite": {
+    "slug": "rectificacion-de-tasa",
+    "nombre": "Expediente de rectificación de Tasa",
+    "nombre_busqueda": "Rectificar tasa alumbrado limpieza",
+    "resumen": "Trámite para solicitar la corrección de la Tasa de alumbrado, limpieza y conservación de la vía pública. Se requiere presentar una nota con los motivos y datos catastrales.",
+    "sinonimos": [],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "tasa-inmobiliaria-y-servicios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Solicitante con datos catastrales del bien inmueble."
+    ],
+    "requisitos": [
+      {
+        "texto": "Solicitud explicando los motivos, fundamentos y toda otra documentación que avale la presentación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que respalde el requerimiento de rectificación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos catastrales para una correcta identificación del bien inmueble.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota dirigida al Sr. Intendente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Motivos que respalden lo solicitado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos catastrales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de partida (identificación del bien inmueble involucrado).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Abonar el acto administrativo en las cajas del Municipio, ingresando por Alsina 43."
+      },
+      {
+        "texto": "Presentar una nota dirigida al Sr. Intendente en la Mesa de Entradas del Municipio, Alsina 65, junto con la documentación que respalda el requerimiento de rectificación."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Cajas del Municipio",
+      "direccion": "Alsina 43",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/catastro/rectificacion-de-tasa/"
+    },
+    {
+      "nombre": "Mesa de Entradas del Municipio",
+      "direccion": "Alsina 65",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/catastro/rectificacion-de-tasa/"
+    },
+    {
+      "nombre": "Departamento Catastro",
+      "direccion": "Chiclana 453",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/catastro/rectificacion-de-tasa/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/tramites/catastro/rectificacion-de-tasa/",
+      "titulo": "Expediente de rectificación de Tasa | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T20:37:13.202Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se especifica si el trámite requiere turno.",
+    "Se especifica el plazo de resolución."
+  ]
+}

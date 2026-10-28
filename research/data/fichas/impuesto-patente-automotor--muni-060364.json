@@ -1,0 +1,89 @@
+{
+  "tramite": {
+    "slug": "alta-de-motovehiculos-0km",
+    "nombre": "Alta de motovehículos (0KM)",
+    "nombre_busqueda": "Alta de motovehículos 0km",
+    "resumen": "Para dar de alta un motovehículo nuevo en el Impuesto Automotor, necesitás traer el título del automotor, tu DNI y la factura de compra.",
+    "sinonimos": [
+      "Alta de motovehículo nuevo",
+      "Alta de motovehículo 0km"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "patente-automotor-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060364",
+  "organismo": {
+    "nombre": "Municipalidad de General Rodríguez",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en dar de alta un motovehículo nuevo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Título del Automotor",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Factura de compra",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá los requisitos en la oficina."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://generalrodriguez.gob.ar/turnos/tributarios/",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Impuesto de Automotores",
+      "direccion": "Impuesto de Automotores 2 de Abril 756, Planta Baja",
+      "localidad": "Impuesto de Automotores 2 de Abril 756, Planta Baja",
+      "horario": null,
+      "fuente_url": "https://generalrodriguez.gob.ar/tramites/impuesto-patente-automotor"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://generalrodriguez.gob.ar/tramites/impuesto-patente-automotor",
+      "titulo": "Impuesto Automotor | Municipalidad de General Rodriguez",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T14:00:49.309Z"
+    },
+    {
+      "url": "https://generalrodriguez.gob.ar/turnos/tributarios/",
+      "titulo": "Agendar un turno con Municipalidad de General Rodríguez",
+      "bloques": [
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:00:49.309Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos ni plazos de espera exactos."
+  ]
+}

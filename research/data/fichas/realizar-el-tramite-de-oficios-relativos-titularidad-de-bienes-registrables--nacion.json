@@ -1,0 +1,98 @@
+{
+  "tramite": {
+    "slug": "oficios-titularidad-bienes-registrables",
+    "nombre": "Oficios relativos a titularidad de bienes registrables",
+    "nombre_busqueda": "Oficio titularidad bienes registrables",
+    "resumen": "Trámite exclusivo para cambios de denominación, transformación, fusión y escisión de bienes. Requiere presentación presencial en sede central de IGJ con turno previo.",
+    "sinonimos": [],
+    "temas": [
+      "catastro-e-inmuebles",
+      "tasa-inmobiliaria-y-servicios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": "IGJ",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Aplicable a trámites ya inscriptos de cambio de denominación, transformación, fusión y escisión."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario denominado Oficio relativo a titularidad de bienes registrables (uno por cada bien).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dictamen de precalificación profesional, emitido por abogado, conforme al artículo 47 inciso 2 del Anexo A de la Resolución General IGJ 15/2024.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Oficio dirigido al registro correspondiente, en tres ejemplares, impreso en ambas caras, sin fecha ni firma (conforme artículo 158 de la Resolución General IGJ 15/2024).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informe de dominio por cada bien.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de CUIT de las sociedades involucradas.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Completá el formulario correspondiente, imprimilo y abonalo."
+      },
+      {
+        "texto": "Solicitá un turno para la Mesa de Entradas (solo sede central de IGJ)."
+      },
+      {
+        "texto": "Presentá toda la documentación requerida."
+      },
+      {
+        "texto": "Retirá el oficio librado por la sede de IGJ, previa solicitud de turno."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede central de IGJ",
+      "direccion": "Av. Paseo Colón 291",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/realizar-el-tramite-de-oficios-relativos-titularidad-de-bienes-registrables"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/realizar-el-tramite-de-oficios-relativos-titularidad-de-bienes-registrables",
+      "titulo": "Realizar el trámite de oficios relativos a titularidad de bienes registrables | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:13:51.582Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Monto exacto del costo del trámite.",
+    "Fecha exacta de vigencia del trámite.",
+    "Si el trámite es gratis."
+  ]
+}

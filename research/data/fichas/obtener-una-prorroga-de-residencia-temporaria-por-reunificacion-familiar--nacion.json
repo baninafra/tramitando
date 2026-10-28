@@ -1,0 +1,133 @@
+{
+  "tramite": {
+    "slug": "obtener-prorroga-residencia-temporaria-reunificacion-familiar",
+    "nombre": "Obtener una prórroga de residencia temporaria por reunificación familiar",
+    "nombre_busqueda": "prorroga residencia reunificación familiar",
+    "resumen": "Para personas extranjeras con residencia por reunificación familiar que deseen prorrogar su estancia. Se requiere documentación personal, antecedentes penales y acreditación de domicilio.",
+    "sinonimos": [
+      "prórroga residencia reunificación",
+      "prórroga residencia familiar"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria",
+      "residencias-temporarias-y-permanentes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Migraciones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas extranjeras que hayan obtenido residencia por reunificación familiar y deseen prorrogar dicha residencia."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento Nacional de Identidad o pasaporte válido y vigente (todas las nacionalidades).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento de viaje y retorno del MERCOSUR (solo para nacionales MERCOSUR).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de nacionalidad emitido por autoridad consular (solo si no hay DNI o pasaporte), con fotografía y legalizado por el Ministerio de Relaciones Exteriores, Comercio Internacional y Culto de la Nación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de antecedentes penales argentinos, emitido por el Registro Nacional de Reincidencia (solo exigible a mayores de 16 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Partida de nacimiento o matrimonio debidamente legalizada que acredite el vínculo familiar alegado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento que acredite la identidad del dador de criterio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Para menores de 18 años: partida de nacimiento legalizada y autorización de uno de los padres, quien deberá presentarse con DNI vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si los padres no residen en el país: el menor debe contar con un tutor designado que acredite residencia legal y demuestre la designación mediante instrumento público.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación expedida en el extranjero debe estar legalizada ante el Consulado Argentino o apostillada según la Convención de La Haya, o legalizada por el consulado del país emisor en Argentina (solo en documentos del MERCOSUR).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación expedida por representaciones consulares en el territorio nacional debe estar legalizada por el Ministerio de Relaciones Exteriores, Comercio Internacional y Culto, excepto MERCOSUR.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación en idioma extranjero debe tener traducción al castellano por traductor público nacional y estar legalizada por el Colegio de Traductores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La documentación a presentar deberá ser original.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá tu trámite a distancia ingresando en el sistema RaDEX."
+      },
+      {
+        "texto": "Registrate como usuario."
+      },
+      {
+        "texto": "Completá el formulario de solicitud y aboná las tasas correspondientes."
+      },
+      {
+        "texto": "Adjuntá la documentación y datos requeridos según el tipo de residencia a la que quieras aplicar."
+      },
+      {
+        "texto": "Si cumplís con los requisitos para formalizar tu solicitud, recibirás un email con la fecha de tu cita presencial."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Las tramitaciones ante la Dirección Nacional de Migraciones son personales y sencillas; no se necesita la asistencia de un gestor."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-una-prorroga-de-residencia-temporaria-por-reunificacion-familiar",
+      "titulo": "Obtener una prórroga de residencia temporaria por Reunificación Familiar | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-27T07:05:55.096Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T07:05:55.096Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de las tasas migratorias no está especificado en el texto.",
+    "El plazo de vigencia de la prórroga no está especificado en el texto.",
+    "La dirección de las oficinas no está especificada en el texto."
+  ]
+}

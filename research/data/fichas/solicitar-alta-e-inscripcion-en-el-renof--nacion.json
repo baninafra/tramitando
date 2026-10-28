@@ -1,0 +1,118 @@
+{
+  "tramite": {
+    "slug": "solicitar-alta-e-inscripcion-en-el-renof",
+    "nombre": "Solicitar alta e inscripción en el ReNOF",
+    "nombre_busqueda": "Inscripción ReNOF",
+    "resumen": "Para prestar servicios ferroviarios de pasajeros o cargas en la Red Ferroviaria Nacional, se debe inscribirse como Operador en el Registro Nacional de Operadores Ferroviarios cumpliendo los requisitos de la Disposición CNRT 219/2021.",
+    "sinonimos": [
+      "Inscripción como Operador Ferroviario",
+      "Registro Nacional de Operadores Ferroviarios"
+    ],
+    "temas": [
+      "transporte-publico-y-viajes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Comisión Nacional de Regulación del Transporte",
+    "sigla": "CNRT",
+    "web": "https://www.argentina.gob.ar/servicio/solicitar-alta-e-inscripcion-en-el-renof"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas humanas o jurídicas en condiciones de prestar servicios ferroviarios de pasajeros y cargas con eficiencia y seguridad."
+    ],
+    "requisitos": [
+      {
+        "texto": "Matrícula de comerciante (para personas humanas) o inscripción en Inspección General de Justicia/Registro Público de Comercio (para sociedades).",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI de todas las personas declaradas en los formularios de inscripción.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia certificada del Poder para representaciones societarias.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constitución de domicilio especial en CABA y denuncia de domicilio legal y electrónico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario ReNOF N°1 completado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario ReNOF N°2 completado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación detallada en Requisitos Particulares y Preguntas Frecuentes.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago del servicio solicitado.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar la solicitud por TAD."
+      },
+      {
+        "texto": "Usar clave fiscal de nivel 3."
+      },
+      {
+        "texto": "Descargar y completar el Formulario ReNOF N°1."
+      },
+      {
+        "texto": "Descargar y completar el Formulario ReNOF N°2."
+      },
+      {
+        "texto": "Según corresponda, adjuntar la documentación detallada en los Requisitos Particulares y Preguntas Frecuentes."
+      },
+      {
+        "texto": "Ingresar a Gestión Electrónica de Pagos para presentar el comprobante de pago del servicio solicitado."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La inscripción otorgada mantendrá su vigencia siempre que se cumplan satisfactoriamente las revisiones anuales."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-alta-e-inscripcion-en-el-renof",
+      "titulo": "Solicitar alta e inscripción en el ReNOF | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T04:30:01.608Z"
+    },
+    {
+      "url": "https://gep.cnrt.gob.ar/cuenta/login",
+      "titulo": "CNRT - Gestión Electrónica de Pagos",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T04:30:01.608Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Monto exacto del costo del servicio solicitado.",
+    "Fecha de vigencia de la inscripción inicial.",
+    "Plazo para completar la inscripción."
+  ]
+}

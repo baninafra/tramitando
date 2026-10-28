@@ -1,0 +1,101 @@
+{
+  "tramite": {
+    "slug": "inscripcion-al-registro-nacional-de-puertos",
+    "nombre": "Inscripción al Registro Nacional de Puertos",
+    "nombre_busqueda": "Inscripción al Registro Nacional de Puertos",
+    "resumen": "Es el trámite inicial obligatorio donde los puertos deben registrarse de forma obligatoria para realizar futuros trámites a distancia.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Control de Puertos y Vías Navegables",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Todos los ámbitos acuáticos y terrestres naturales o artificiales e instalaciones fijas aptos para las maniobras de fondeo, atraque y desatraque y permanencia en buques o artefactos navales para efectuar operaciones de transferencia de cargas entre los modos de transportes acuático y terrestre o em…",
+      "Las plataformas fijas o flotantes para alijo o completamiento de cargas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Contar con CUIT y Clave Fiscal",
+        "aclaracion": null
+      },
+      {
+        "texto": "Completar el formulario Datos técnicos del puerto",
+        "aclaracion": "Para completar la latitud y longitud del muelle se deberá tomar de referencia el punto medio del muelle."
+      },
+      {
+        "texto": "Adjuntar el documento Memoria Descriptiva",
+        "aclaracion": "Se debe incluir la actividad del puerto, las formas operativas, los tipos de cargas opera, el equipamiento y otros datos de interés. Los aspectos físicos del puerto, la descripción de las instalaciones y su funcionamiento. Accesos terrestres (ferroviarios y viales) y acuáticos (canales de conexión…"
+      },
+      {
+        "texto": "Adjuntar el documento Plano de la Jurisdicción Portuaria",
+        "aclaracion": "Incluir obras acuáticas y terrestres - instalaciones portuarias comprendidas dentro de la poligonal que sirvió de base para la mensura (con indicación de los lados y los ángulos correspondientes)."
+      },
+      {
+        "texto": "Adjuntar el documento Plano de planta general",
+        "aclaracion": "De existir, incluir reserva para futuras ampliaciones. Incluir Accesos terrestres: ferroviarios y viales. Accesos acuáticos: canales de conexión con mar abierto o vías troncales, radas o sitios de fondeo para los buques, aclarando si son auxiliares o pertenecientes a otro puerto."
+      },
+      {
+        "texto": "Adjuntar la Última Batimetría del puerto",
+        "aclaracion": "Solo si se cuenta con el mismo."
+      },
+      {
+        "texto": "Adjuntar Fotos actuales del puerto",
+        "aclaracion": null
+      },
+      {
+        "texto": "Adjuntar Descripción del plan de Emergencia",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TaD"
+      },
+      {
+        "texto": "Buscá el trámite denominado Inscripción al Registro Nacional de Puertos, dentro de los trámites del Ministerio de Transporte."
+      },
+      {
+        "texto": "Ingresa tu CUIT y Clave Fiscal"
+      },
+      {
+        "texto": "Completá el formulario y adjuntá la documentación requerida"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Este registro es válido hasta que haya cambios en la implantación física del puerto o de carácter jurídico, como cambios de titularidad."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/instructivo-para-solicitar-la-inscripcion-al-registro-nacional-de-puertos",
+      "titulo": "Instructivo para solicitar la inscripción al Registro Nacional de Puertos | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T05:51:21.281Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La vigencia del registro no tiene fecha exacta, solo se menciona que es válido hasta cambios en la implantación física o jurídica del puerto."
+  ]
+}

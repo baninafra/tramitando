@@ -1,0 +1,96 @@
+{
+  "tramite": {
+    "slug": "pagos-virtuales-tasas-municipales",
+    "nombre": "Pago Virtual de Tasas Municipales",
+    "nombre_busqueda": "Pago virtual tasas Daireaux",
+    "resumen": "El sistema permite consultar y pagar las tasas municipales de Daireaux en línea. Se requiere registro previo con credenciales de usuario y contraseña.",
+    "sinonimos": [
+      "Pago online tasas",
+      "Pago virtual municipal Daireaux"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060231",
+  "organismo": {
+    "nombre": "Municipalidad de Daireaux",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que tenga cuenta en el sistema de Pago Virtual de la Municipalidad de Daireaux."
+    ],
+    "requisitos": [
+      {
+        "texto": "Cuenta de usuario en el sistema de Pago Virtual.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio de Pago Virtual de Tasas de la Municipalidad de Daireaux."
+      },
+      {
+        "texto": "Presioná el botón [Ingresar]."
+      },
+      {
+        "texto": "Introducí tu usuario y contraseña."
+      },
+      {
+        "texto": "Seguí las instrucciones del sistema para consultar y pagar las tasas."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si no tenés cuenta, presioná [Nueva Registración] y completá los datos para recibir un mail de confirmación.",
+      "Si olvidás tus credenciales, presioná [Olvide mi contraseña]."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://pagosweb.daireaux.gob.ar/",
+      "titulo": "Sistema de Pago Virtual Bienvenidos al sitio de Pago Virtual de Tasas de la Municipalidad de Daireaux",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T23:25:29.434Z"
+    },
+    {
+      "url": "https://pagosweb.daireaux.gob.ar/IndexPage",
+      "titulo": "Sistema de Pago Virtual Bienvenidos al sitio de Pago Virtual de Tasas de la Municipalidad de Daireaux",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T23:25:29.434Z"
+    },
+    {
+      "url": "https://pagosweb.daireaux.gob.ar/LoginForm",
+      "titulo": "Sistema de Pago Virtual Ingreso Usuario Contraseña",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T23:25:29.434Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos de las tasas.",
+    "No se especifican plazos de pago.",
+    "No se especifican requisitos adicionales para casos especiales (menores, extranjeros, etc.)."
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "tramite": {
+    "slug": "informe-de-deudas",
+    "nombre": "Informe de deudas",
+    "nombre_busqueda": "Informe de deudas municipal",
+    "resumen": "Se expide un informe de situación de deudas necesario para iniciar ciertos trámites. El trámite se realiza en el mostrador de Finanzas Rentas y entrega el resultado en el acto.",
+    "sinonimos": [
+      "Informe de situación de deudas",
+      "Situación de deuda"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060245",
+  "organismo": {
+    "nombre": "Municipalidad de Ensenada",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier contribuyente que lo solicite."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de presentación firmada con datos personales aclaratorios.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la nota de presentación firmada con datos personales aclaratorios en el mostrador de Finanzas Rentas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 500,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.ensenada.gov.ar/informe-de-deudas/"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 100,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.ensenada.gov.ar/informe-de-deudas/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Finanzas Rentas",
+      "direccion": "San Martín y Pte. Perón",
+      "localidad": "San Martín y Pte. Perón",
+      "horario": null,
+      "fuente_url": "https://www.ensenada.gov.ar/informe-de-deudas/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.ensenada.gov.ar/informe-de-deudas/",
+      "titulo": "INFORME DE DEUDAS – Municipalidad de Ensenada",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T23:32:37.851Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horario de atención: De lunes a viernes de 7:30 a 14:30 horas.",
+    "Vigencia del trámite: No se especifica fecha exacta."
+  ]
+}

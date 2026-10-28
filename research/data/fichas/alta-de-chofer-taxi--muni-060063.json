@@ -1,0 +1,103 @@
+{
+  "tramite": {
+    "slug": "alta-de-chofer-taxi",
+    "nombre": "Alta de chofer taxi",
+    "nombre_busqueda": "Alta de chofer taxi",
+    "resumen": "Para realizar el alta de chofer taxi se necesita licencia de conducir D1, libreta sanitaria y documentación específica. El trámite tiene costo y se finaliza con pago de valores.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias",
+      "taxis-remises-y-escolares"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060063",
+  "organismo": {
+    "nombre": "Municipalidad de Balcarce",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que tengan licencia de conducir con categoría D1"
+    ],
+    "requisitos": [
+      {
+        "texto": "Libreta Sanitaria (Inspección General)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Licencia de conducir con categorías D1",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificación del Tribunal de Faltas (Dirección de Recursos)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de domicilio (Registro civil)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tarjeta Azul o permiso de escribano",
+        "aclaracion": null
+      },
+      {
+        "texto": "2 fotos carnet 4x4",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación requerida en la Dirección de Inspección General."
+      },
+      {
+        "texto": "Realizá el pago de los valores establecidos en la Ord. Impositiva desde la Dirección de Recursos."
+      },
+      {
+        "texto": "Recibí la notificación al solicitante y el fin del trámite."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Inspección General",
+      "direccion": "Av. San Martin 3646",
+      "localidad": "Balcarce",
+      "horario": null,
+      "fuente_url": "https://balcarce-app.gob.ar/portal_servicios/servicio/alta-de-chofer-taxi"
+    },
+    {
+      "nombre": "Dirección de Recursos",
+      "direccion": "1er. Piso Palacio Municipal",
+      "localidad": "Balcarce",
+      "horario": null,
+      "fuente_url": "https://balcarce-app.gob.ar/portal_servicios/servicio/alta-de-chofer-taxi"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://balcarce-app.gob.ar/portal_servicios/servicio/alta-de-chofer-taxi",
+      "titulo": "Portal de Servicios | Modernizacion Balcarce",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "costo",
+        "donde",
+        "pasos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T20:43:19.866Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del trámite no se especifica en el texto.",
+    "No se indica si se requiere turno para realizar el trámite."
+  ]
+}

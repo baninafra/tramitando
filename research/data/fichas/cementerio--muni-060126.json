@@ -1,0 +1,89 @@
+{
+  "tramite": {
+    "slug": "nichos-y-parcelas",
+    "nombre": "Arrendamiento de nicho",
+    "nombre_busqueda": "Alquilar nicho cementerio",
+    "resumen": "Para arrendar un nicho en el Cementerio Municipal de Campana, necesitás iniciar el trámite en el cementerio y luego presentar el memorandum en el Centro de Atención al Contribuyente.",
+    "sinonimos": [
+      "Alquiler de nicho",
+      "Contratación de parcela",
+      "Arriendo de lugar cementerio"
+    ],
+    "temas": [
+      "nichos-y-parcelas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060126",
+  "organismo": {
+    "nombre": "Municipalidad de Campana",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Vecinos que deseen arrendar un nicho."
+    ],
+    "requisitos": [
+      {
+        "texto": "MEMO (otorgado por el cementerio)",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del arrendatario",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Iniciá el trámite en el cementerio municipal ubicado en Av. Luraschi y Dorrego."
+      },
+      {
+        "texto": "Recibí el memorandum municipal."
+      },
+      {
+        "texto": "Presentá el memorandum municipal en el Centro de Atención al Contribuyente ubicado en la Avda. Varela 750."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Cementerio Municipal",
+      "direccion": "Av. Luraschi y Dorrego",
+      "localidad": "Av. Luraschi y Dorrego",
+      "horario": null,
+      "fuente_url": "https://www.campana.gob.ar/cementerio/"
+    },
+    {
+      "nombre": "Centro de Atención al Contribuyente",
+      "direccion": "Avda. Varela 750",
+      "localidad": "Avda. Varela 750",
+      "horario": null,
+      "fuente_url": "https://www.campana.gob.ar/cementerio/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.campana.gob.ar/cementerio/",
+      "titulo": "Cementerio – Municipalidad de Campana",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T09:51:38.362Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa de Derechos de Cementerio no se especifica en el texto.",
+    "El plazo para completar el trámite no se indica."
+  ]
+}

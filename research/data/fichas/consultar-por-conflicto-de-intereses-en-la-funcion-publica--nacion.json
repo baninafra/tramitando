@@ -1,0 +1,96 @@
+{
+  "tramite": {
+    "slug": "consultar-conflicto-intereses-funcion-publica",
+    "nombre": "Consultar por conflicto de intereses en la función pública",
+    "nombre_busqueda": "conflicto de intereses funcionaria funcionaria",
+    "resumen": "Si sos funcionario público o lo fuiste, podés usar esta herramienta para saber si te encontrás ante un conflicto de intereses. El resultado se basa en casos ya resueltos por la Oficina Anticorrupción.",
+    "sinonimos": [],
+    "temas": [
+      "gobierno-y-participacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Oficina Anticorrupción",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Funcionarios públicos actuales.",
+      "Quienes vayan a serlo.",
+      "Quienes lo han sido anteriormente."
+    ],
+    "requisitos": [
+      {
+        "texto": "Vinculación con la función pública.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dispositivo con acceso a Internet.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá el trámite de consulta ingresando al simulador de conflicto de intereses."
+      },
+      {
+        "texto": "Definí tu perfil como consultante: Soy funcionario público, Voy a ser funcionario público o Fui funcionario público."
+      },
+      {
+        "texto": "Seleccioná la circunstancia que motiva tu consulta."
+      },
+      {
+        "texto": "Completá, paso a paso, las opciones que te va dando el simulador hasta llegar a la respuesta final."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "10 minutos",
+    "consejos": [
+      "Tené en cuenta que el simulador no agota la multiplicidad de situaciones que podrían ocurrir en la vida real.",
+      "Si luego de utilizarlo considerás que algún factor relevante de tu caso no fue contemplado, comunicate con la Oficina Anticorrupción.",
+      "Podés consultar en línea el buscador de Resoluciones emitidas sobre conflicto de intereses."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consultar-por-conflicto-de-intereses-en-la-funcion-publica",
+      "titulo": "Consultar por conflicto de intereses en la función pública | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T05:16:10.734Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/anticorrupcion",
+      "titulo": "Oficina Anticorrupción | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T05:16:10.734Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T05:16:10.734Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El resultado que obtengas en el simulador estará basado en la normativa utilizada en casos ya resueltos por la Oficina Anticorrupción."
+  ]
+}

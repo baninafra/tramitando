@@ -1,0 +1,65 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-copia-de-plano",
+    "nombre": "Solicitud de copia de plano",
+    "nombre_busqueda": "Copia de plano obra",
+    "resumen": "Solicita una copia de plano para trámites de obra en el municipio de Quilmes.",
+    "sinonimos": [
+      "Certificación de copia de plano",
+      "Copia de plano de obra"
+    ],
+    "temas": [
+      "permiso-de-obra-y-planos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060658",
+  "organismo": {
+    "nombre": "Secretaría de Desarrollo Urbano y Obra Pública",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en realizar una obra."
+    ],
+    "requisitos": [
+      {
+        "texto": "Solicitud de copia de plano.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la solicitud de copia de plano en la oficina correspondiente."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mi.quilmes.gov.ar/tramites/6/solicitud-de-copia-de-plano",
+      "titulo": "Solicitud de copia de plano - Mi Quilmes Digital",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T04:26:58.361Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se desconoce si el trámite requiere turno.",
+    "Se desconoce el plazo de entrega.",
+    "Se desconoce si se puede realizar completamente por internet.",
+    "Se desconoce el costo del trámite.",
+    "Se desconocen las oficinas donde se puede realizar el trámite."
+  ]
+}

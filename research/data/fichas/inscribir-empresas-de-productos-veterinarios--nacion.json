@@ -1,0 +1,100 @@
+{
+  "tramite": {
+    "slug": "inscripcion-de-firmas-de-productos-veterinarios",
+    "nombre": "Inscripción de firmas de productos veterinarios",
+    "nombre_busqueda": "Inscripción de firmas de productos veterinarios",
+    "resumen": "Para elaborar, depositar o comercializar productos veterinarios o sus materias primas, necesitás habilitar el establecimiento ante el Senasa. El trámite se realiza en línea por TAD o presencialmente en oficinas del Senasa.",
+    "sinonimos": [
+      "Registro de firmas de productos veterinarios",
+      "Inscripción de firmas de productos veterinarios - Droguerías",
+      "Inscripción de firmas de productos veterinarios - Principios activos",
+      "Inscripción de firmas de productos veterinarios - Firmas con planta"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Toda persona interesada en elaborar, depositar o comercializar productos veterinarios o sus materias primas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Declarar domicilio electrónico mediante el sistema SIGTrámites.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Solicitar vía correo electrónico la Guía de Preguntas Frecuentes al correo indicado en la página.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al TRAMITE TAD de interés (Droguerías - Principios Activos - Firmas con planta)."
+      },
+      {
+        "texto": "Seleccioná la inscripción al Registro de firmas de productos veterinarios correspondiente."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Poder solicitar una entrevista con un técnico, acordando antelación de 24 a 48 horas según disponibilidad."
+      },
+      {
+        "texto": "Presentarse en Carlos Calvo N° 66, PB - CABA."
+      },
+      {
+        "texto": "Aboná el arancel que corresponda."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La entrevista con técnico se realiza de lunes a viernes, de 9 a 12hs y de 14 a 16hs, con duración máxima de 30 minutos.",
+      "Para consultas orientativas, podés comunicarte con el ámbito de atención y asistencia primaria del Senasa."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Productos Veterinarios",
+      "direccion": "Carlos Calvo N° 66, PB, C1107ADR, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-empresas-de-productos-veterinarios"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribir-empresas-de-productos-veterinarios",
+      "titulo": "Inscribir empresas de productos veterinarios | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T16:56:55.440Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T16:56:55.440Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no se especifica en el texto, solo se indica que se debe abonar según corresponda.",
+    "La fecha de vigencia del trámite no se especifica en el texto, solo se menciona la Resolución Senasa N° 11/2025."
+  ]
+}

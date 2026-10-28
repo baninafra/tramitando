@@ -1,0 +1,120 @@
+{
+  "tramite": {
+    "slug": "obtener-cuil",
+    "nombre": "Obtener CUIL",
+    "nombre_busqueda": "Obtener CUIL",
+    "resumen": "El Código Único de Identificación Laboral (CUIL) es necesario al inicio de la actividad laboral y se utiliza para cobrar prestaciones y realizar trámites. Se genera automáticamente al sacar el DNI de un menor o se solicita presencialmente en ANSES.",
+    "sinonimos": [
+      "Código Único de Identificación Laboral",
+      "CUIL"
+    ],
+    "temas": [
+      "cuil-y-clave-de-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración Nacional de la Seguridad Social",
+    "sigla": "ANSES",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Argentinos y extranjeros que quieran trabajar en relación de dependencia en nuestro país.",
+      "Argentinos que tengan asignada una Clave Única de Identificación Tributaria (CUIT) no necesitan tramitar el CUIL.",
+      "Para los argentinos, el CUIL se genera automáticamente al sacar el DNI de un menor."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Partida de nacimiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI de los padres.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI para extranjero/naturalizado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Expediente de migraciones donde conste el tipo de residencia vigente y el ingreso al país.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pasaporte en el que conste tipo de residencia, la cual no debe ser turista o permanente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Permiso de ingreso al país expedido por Consulados o en virtud de Convenios Internacionales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Partida de nacimiento con la información del menor y los padres.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si fue emitida en el extranjero debe estar legalizada o apostillada y si no está en español debe ser traducida.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del hijo y de los padres.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Testimonio o copia de la sentencia de adopción.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento del país de origen, formulario de solicitud de aplicación certificado en caso de existir un Convenio Internacional.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate sin turno previo a la oficina de ANSES más cercana a tu domicilio para la asignación de CUIL o la modificación de un dato filiatorio."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-cuil",
+      "titulo": "Obtener CUIL | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T06:24:50.038Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-constancia-de-cuil",
+      "titulo": "Solicitar constancia de CUIL | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T06:24:50.038Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica si el trámite requiere turno o no, solo menciona que se puede gestionar sin turno previo."
+  ]
+}

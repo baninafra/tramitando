@@ -1,0 +1,77 @@
+{
+  "tramite": {
+    "slug": "libreta-sanitaria-tramite-empresa-simple-turno-caps",
+    "nombre": "Libreta Sanitaria Trámite para Empresa Simple con Turno en CAPS",
+    "nombre_busqueda": "Libreta sanitaria empresa simple turno caps",
+    "resumen": "Trámite municipal para que empleados de empresas gestionen la obtención o renovación de la libreta sanitaria mediante atención programada en Centros de Atención Primaria de la Salud (CAPS), en modalidad simple y con turno previo.",
+    "sinonimos": [],
+    "temas": [
+      "carnet-sanitario",
+      "salud-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060028",
+  "organismo": {
+    "nombre": "Municipio de Almirante Brown",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empleados de empresas"
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de Pago",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Sacá Turno"
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La confirmación de su turno se realiza una vez pagada la boleta. Verifique realizarlo antes del vencimiento de la misma."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "CAPS N° 18",
+      "direccion": "Centro de Atención Primaria de Salud N° 18 - Calle Pte. Perón 888",
+      "localidad": "Burzaco",
+      "horario": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/libreta-sanitaria-tramite-para-empresa-simple-con-turno-en-caps/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.brown.gob.ar/tramites/libreta-sanitaria-tramite-para-empresa-simple-con-turno-en-caps/",
+      "titulo": "Libreta Sanitaria Trámite para Empresa Simple con Turno en CAPS",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T01:56:19.963Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del derecho de oficina no se especifica en el texto.",
+    "El plazo de espera para obtener la libreta tras sacar el turno no se especifica en el texto.",
+    "La dirección completa de la oficina no se especifica en el texto."
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "tramite": {
+    "slug": "matrimonio-convivencial",
+    "nombre": "Matrimonio convivencial",
+    "nombre_busqueda": "Unión convivencial",
+    "resumen": "Trámite para registrar la unión entre dos personas que conviven en modo singular, público, notorio, estable y permanente. Se puede iniciar digitalmente con cuenta CiDi nivel 2 o presencialmente en el Registro Civil.",
+    "sinonimos": [
+      "Unión convivencial",
+      "Matrimonio civil"
+    ],
+    "temas": [
+      "matrimonios-y-uniones-convivenciales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141498",
+  "organismo": {
+    "nombre": "Registro Civil",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas mayores de edad y capaces.",
+      "Parejas que no estén unidas por vínculos de parentesco en línea recta en todos los grados, ni colateral hasta el segundo grado.",
+      "Parejas que no estén unidas por vínculos de parentesco por afinidad en línea recta.",
+      "Parejas que no tengan impedimento de ligamen ni otra convivencia registrada simultáneamente."
+    ],
+    "requisitos": [
+      {
+        "texto": "Mantener la convivencia durante un periodo no inferior a dos años.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI de ambos convivientes con domicilio en común en la Provincia de Córdoba con antigüedad superior a dos años.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dos testigos mayores de edad con DNI que no sean parientes en ningún grado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración jurada completa y suscripta.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pacto de convivencia con firma certificada por escribano público o escritura según corresponda.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Actas de nacimiento actualizadas si hay inconsistencias entre DDJJ y documentación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Actas de nacimiento legalizadas si nacieron en otras provincias.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Actas de nacimiento apostilladas o visadas por el consulado argentino y traducidas si nacieron en otros países.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciar en el servicio Mi Registro Civil de la plataforma Ciudadano Digital (CiDi)."
+      },
+      {
+        "texto": "Generar cuenta nivel 1 de CiDi si no la tenés y verificarla para pasar al nivel 2."
+      },
+      {
+        "texto": "Completar información y adjuntar documentación en las secciones guiadas por el sistema."
+      },
+      {
+        "texto": "La oficina de registro civil seleccionada contactará para firmar la Declaración Jurada y tomar testimonio de testigos."
+      },
+      {
+        "texto": "Presentar pruebas documentales que acrediten la convivencia en la cita."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Solicitar turno en el Registro Civil correspondiente al domicilio de convivencia."
+      },
+      {
+        "texto": "Presentarse el día del turno con toda la documentación requerida y aportar datos de los testigos."
+      },
+      {
+        "texto": "El Registro Civil tomará la solicitud y la remitirá a la Dirección General para estudio."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si nacieron en otras provincias, deberán proveer actas de nacimiento actualizadas.",
+      "Si nacieron en otros países, deberán proveer actas apostilladas o visadas por el consulado argentino y debidamente traducidas."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 570000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.tancacha.gob.ar/unionConvivencial.html"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1140000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.tancacha.gob.ar/unionConvivencial.html"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1710000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.tancacha.gob.ar/unionConvivencial.html"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.tancacha.gob.ar/unionConvivencial.html",
+      "titulo": "Unión Convivencial",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T09:51:26.951Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Plazo de tramitación exacto no especificado en el texto.",
+    "Dirección exacta de la oficina de Registro Civil no especificada en el texto."
+  ]
+}

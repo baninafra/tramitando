@@ -1,0 +1,102 @@
+{
+  "tramite": {
+    "slug": "habilitacion-comercial",
+    "nombre": "Habilitación comercial",
+    "nombre_busqueda": "habilitar un comercio",
+    "resumen": "Presentá la documentación en Mesa de Entrada Municipal para iniciar la habilitación de un comercio. Después, pagá el Inicio de Expediente y la Tasa de Habilitación, y solicitá un Certificado de Libre Deuda.",
+    "sinonimos": [
+      "habilitación de un comercio"
+    ],
+    "temas": [
+      "habilitacion-comercial"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060322",
+  "organismo": {
+    "nombre": "Municipalidad de General La Madrid",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés iniciar el trámite para habilitar un comercio."
+    ],
+    "requisitos": [
+      {
+        "texto": "Inscripción en AFIP y ARBA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título o documentación que acredite que sos propietario, locatario, comodatario o tenedor legítimo del inmueble.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informe antisiniestral de Bomberos de la Provincia de Buenos Aires.",
+        "aclaracion": "Según la actividad."
+      },
+      {
+        "texto": "Certificado de Aptitud Ambiental.",
+        "aclaracion": "Según la actividad."
+      },
+      {
+        "texto": "Libreta Sanitaria.",
+        "aclaracion": "Según la actividad."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Dirigite a Mesa de Entrada Municipal y presentá la documentación requerida."
+      },
+      {
+        "texto": "Completá la declaración jurada que te soliciten."
+      },
+      {
+        "texto": "Esperá a que Mesa de Entrada agregue la Nomenclatura Catastral, que obtiene en la página de ARBA."
+      },
+      {
+        "texto": "Dirigite a la Oficina de Recaudación y pagá el Inicio de Expediente y la Tasa de Habilitación."
+      },
+      {
+        "texto": "Solicitá un Certificado de Libre Deuda."
+      },
+      {
+        "texto": "Esperá el Informe Técnico y el croquis del local, que realizará la Dirección de Bromatología."
+      },
+      {
+        "texto": "Tramitá ReBa después de obtener la habilitación."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La habilitación se renueva según el artículo 22 de la Ordenanza 1947/18."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.lamadrid.gob.ar/habilitacion-comercial/",
+      "titulo": "Habilitación Comercial – Municipalidad de General La Madrid",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T12:45:23.574Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no indica los montos del Inicio de Expediente ni de la Tasa de Habilitación.",
+    "El texto no precisa para qué actividades se requieren los requisitos específicos."
+  ]
+}

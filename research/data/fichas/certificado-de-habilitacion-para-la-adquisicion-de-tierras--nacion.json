@@ -1,0 +1,130 @@
+{
+  "tramite": {
+    "slug": "certificado-de-habilitacion-para-la-adquisicion-de-tierras",
+    "nombre": "Certificado de habilitación para la adquisición de tierras",
+    "nombre_busqueda": "Certificado de habilitación para la adquisición de tierras",
+    "resumen": "Es un trámite obligatorio para personas extranjeras que quieran comprar tierras rurales en Argentina. Se hace en línea con la documentación requerida y se paga una tasa basada en el valor de la escritura.",
+    "sinonimos": [],
+    "temas": [
+      "catastro-e-inmuebles",
+      "tasa-inmobiliaria-y-servicios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registro Nacional de Tierras Rurales",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas jurídicas y humanas extranjeras que quieran adquirir tierra rural en la República Argentina.",
+      "Excepciones: personas humanas de nacionalidad extranjera con diez años de residencia continua, permanente y comprobada en el país.",
+      "Excepciones: quienes tengan hijos argentinos y demuestren una residencia permanente, continua y comprobada en el país de cinco años.",
+      "Excepciones: unidas en matrimonio con ciudadano/a argentino/a con cinco años de anterioridad a la constitución o transmisión de los derechos pertinentes y demuestren residencia continua, permanente y comprobada en el país por igual término."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento de identidad o pasaporte.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de CUIT o CDI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estatuto o Instrumento Constitutivo (para personas jurídicas).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Registro de Accionistas (para personas jurídicas).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Sede social (para personas jurídicas).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Última inscripción del órgano de administración (para personas jurídicas).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de CUIT del inmueble.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título de dominio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado Catastral.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Valuación fiscal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano Catastral.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de cumplimiento de Artículo 10 de la Ley N° 26737 firmada por profesional idóneo matriculado en la jurisdicción donde se encuentra la tierra a adquirir.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario con 3 puntos de coordenadas en sistema decimal.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a http://tramitesadistancia.gob.ar con tu Clave Fiscal."
+      },
+      {
+        "texto": "Completá los datos y adjuntá la documentación detallada."
+      },
+      {
+        "texto": "Si la documentación es completa y no hay errores, comenzá la tramitación."
+      },
+      {
+        "texto": "Si hay errores o faltantes, se emitirá una vista para subsanar en un plazo de 15 días."
+      },
+      {
+        "texto": "Si venció el plazo de subsanación, se notificará la caducidad del trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El registro requerirá la conformidad previa del Organismo de Agua Provincial y, en caso de corresponder, la Previa Conformidad de Zonas de fronteras.",
+      "Se solicitará vía TAD que informes el monto por el cual se va a formalizar la Escritura para el cálculo de la tasa.",
+      "El importe de la boleta debe calcularse en función del uno por mil del valor de la Escritura y debe ser abonado previo a la emisión del Certificado.",
+      "Una vez formalizada la escritura, tenés que remitir vía TAD dentro del plazo de 120 días para corroborar que la operación se efectivizó y el Certificado se utilizó."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/certificado-de-habilitacion-para-la-adquisicion-de-tierras",
+      "titulo": "Certificado de habilitación para la adquisición de tierras | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:37:31.813Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La documentación a adjuntar no debe superar los 20MB.",
+    "Los tipos de archivos aceptados son pdf, doc, docx, xlsx, jpg, jpeg, png, bmp, gif, tiff, tif, html, dwf.",
+    "Se puede consolidar todos los documentos en un archivo."
+  ]
+}

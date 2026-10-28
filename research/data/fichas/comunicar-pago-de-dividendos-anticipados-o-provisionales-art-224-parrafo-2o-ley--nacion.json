@@ -1,0 +1,100 @@
+{
+  "tramite": {
+    "slug": "comunicar-pago-de-dividendos-anticipados-o-provisionales",
+    "nombre": "Comunicar pago de dividendos anticipados o provisionales",
+    "nombre_busqueda": "Comunicar pago de dividendos anticipados",
+    "resumen": "Para comunicar el pago de dividendos anticipados o provisionales según el art. 224, párrafo 2º de la Ley 19.550, necesitás presentar un formulario específico junto a varios documentos técnicos y una precalificación profesional.",
+    "sinonimos": [
+      "Comunicación de dividendos anticipados",
+      "Dividendos provisionales art 224"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Solicitantes que deban comunicar el pago de dividendos anticipados o provisionales según la normativa vigente."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de Comunicación de pago de dividendos anticipados o provisionales, distribución prima de emisión y reducción de prima.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dictamen de precalificación profesional conforme al art. 50, inc. 2 del Anexo A de la Resolución General I.G.J. Nº 07/15 emitido por graduado en ciencias económicas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta de la reunión del órgano de administración, suscripta por el representante legal, que resulte en la aprobación del pago de los dividendos anticipados.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informe del Síndico o Comisión Fiscalizadora, de fecha igual o anterior a la de la reunión del órgano de administración, con opinión fundada sobre la viabilidad y razonabilidad de la distribución.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Balance Especial del período considerado para la distribución, firmado por el representante legal, síndico o comisión fiscalizadora y auditor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Transcripción a libros rubricados de la documentación: balance especial, informe de Síndico o Comisión Fiscalizadora y Acta de reunión del órgano de administración.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Completá los formularios y solicitá turno para Mesa de Entradas."
+      },
+      {
+        "texto": "Presentá el formulario del trámite y toda la documentación indicada anteriormente en la Mesa General de Entradas de la Inspección General de Justicia, Av. Paseo Colón 291."
+      },
+      {
+        "texto": "Retirá el trámite por Av. Paseo Colón 291, previa solicitud de turno."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Mesa General de Entradas de la Inspección General de Justicia",
+      "direccion": "Av. Paseo Colón 291",
+      "localidad": "Av. Paseo Colón 291",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/comunicar-pago-de-dividendos-anticipados-o-provisionales-art-224-parrafo-2o-ley-no-19550"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/comunicar-pago-de-dividendos-anticipados-o-provisionales-art-224-parrafo-2o-ley-no-19550",
+      "titulo": "Comunicar pago de dividendos anticipados o provisionales (art. 224, párrafo 2º, Ley Nº 19.550) | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T05:03:39.296Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto menciona que el trámite tiene costos (20 módulos para común, 80 para urgente) pero no especifica el monto exacto en centavos, por lo que se deja el array de costos vacío y se anota la falta de monto en sin_confirmar.",
+    "El texto indica que el plazo es de diez días hábiles desde la decisión, pero no especifica una fecha de vigencia o inicio del trámite, por lo que se deja null en plazo y se anota la falta de fecha exacta en sin_confirmar."
+  ]
+}

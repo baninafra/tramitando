@@ -1,0 +1,72 @@
+{
+  "tramite": {
+    "slug": "baja-de-comercios",
+    "nombre": "Baja de comercios",
+    "nombre_busqueda": "Baja de comercio",
+    "resumen": "Para dar de baja un comercio en el municipio de Esteban Echeverría, se debe presentar la baja de oficio en la Dirección General de Habilitaciones del Palacio Municipal.",
+    "sinonimos": [
+      "Baja de habilitación comercial",
+      "Cierre de comercio"
+    ],
+    "temas": [
+      "comercio-e-industria",
+      "habilitacion-comercial",
+      "cambios-y-baja-de-habilitacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060260",
+  "organismo": {
+    "nombre": "Municipio de Esteban Echeverría",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de habilitación comercial que deseen dar de baja su comercio."
+    ],
+    "requisitos": [
+      {
+        "texto": "Baja de oficio",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la baja de oficio en la Dirección General de Habilitaciones."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Palacio Municipal",
+      "direccion": "Sofía T. de Santamarina 455",
+      "localidad": "Monte Grande",
+      "horario": null,
+      "fuente_url": "https://www.estebanecheverria.gob.ar/baja-de-comercios/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.estebanecheverria.gob.ar/baja-de-comercios/",
+      "titulo": "Baja de Comercios – Esteban Echeverría",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T00:30:26.720Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se desconoce si se requiere turno para realizar la baja de comercio.",
+    "Se desconoce el plazo de vigencia de la baja o el tiempo de espera en la oficina."
+  ]
+}

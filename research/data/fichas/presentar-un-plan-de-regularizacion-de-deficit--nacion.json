@@ -1,0 +1,94 @@
+{
+  "tramite": {
+    "slug": "presentar-un-plan-de-regularizacion-de-deficit",
+    "nombre": "Presentar un plan de regularización de déficit",
+    "nombre_busqueda": "Plan de regularización de déficit aseguradora",
+    "resumen": "Entidades aseguradoras con déficit en sus estados contables deben presentar un plan ante la Superintendencia de Seguros de la Nación (SSN) para regularizar su situación financiera.",
+    "sinonimos": [
+      "Plan de saneamiento de déficit",
+      "Regularización de capital asegurador"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Seguros de la Nación",
+    "sigla": "SSN",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Entidades aseguradoras y/o reaseguradoras que se encuentren en déficit."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener usuario de acceso a Trámites a Distancia (TAD).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plan de Regularización de Déficit.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación respaldatoria de lo propuesto en el plan (optativo).",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de déficit de cobertura: informe detallado sobre los motivos que provocaron el déficit.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia certificada por Escribano Público del Acta de Directorio en la que conste la aprobación del informe y del plan.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD, trámite 'Plan de Regularización de Déficit', con clave fiscal."
+      },
+      {
+        "texto": "Operá como apoderado de la entidad a la que representas."
+      },
+      {
+        "texto": "Completá el formulario, establecé los firmantes y adjuntá la documentación solicitada."
+      },
+      {
+        "texto": "Confirmá el trámite."
+      },
+      {
+        "texto": "Cada firmante deberá firmar a través de TAD."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si el déficit surje de un ajuste que cambie la situación declarada por la entidad, deberás presentar el plan dentro de los 15 días del emplazamiento.",
+      "La SSN te emplazará a presentar el plan de regularización y saneamiento en los casos que el déficit surja de un ajuste que cambie la situación declarada por la entidad."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/presentar-un-plan-de-regularizacion-de-deficit",
+      "titulo": "Presentar un Plan de Regularización de Déficit | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T01:48:06.100Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo exacto para presentar el plan de regularización no está especificado en el texto, solo se menciona que debe hacerse dentro de los 15 días del emplazamiento en casos de ajuste."
+  ]
+}

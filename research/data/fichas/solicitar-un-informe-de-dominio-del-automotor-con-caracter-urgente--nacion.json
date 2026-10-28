@@ -1,0 +1,84 @@
+{
+  "tramite": {
+    "slug": "solicitar-informe-dominio-automotor-urgente",
+    "nombre": "Solicitar un informe de dominio urgente",
+    "nombre_busqueda": "informe de dominio urgente del automotor",
+    "resumen": "Pedí un informe para conocer la situación jurídica de un vehículo matriculado en el país. Presentá la documentación en el Registro antes de las 11.30 h y retiralo ese mismo día.",
+    "sinonimos": [
+      "informe de dominio urgente del automotor",
+      "informe urgente de dominio"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Registros de la Propiedad Automotor",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Si vas a comprar un vehículo, podés pedirlo.",
+      "Si vendés un vehículo, también podés pedirlo."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI.",
+        "aclaracion": "Si sos argentino."
+      },
+      {
+        "texto": "Pasaporte.",
+        "aclaracion": "Si sos extranjero sin residencia."
+      },
+      {
+        "texto": "DNI, cédula de identidad, cédula de identidad del país de origen o pasaporte.",
+        "aclaracion": "Si sos de un país limítrofe."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Registro antes de las 11.30 h."
+      },
+      {
+        "texto": "Completá los formularios 02 y 99 que te entreguen en el Registro."
+      },
+      {
+        "texto": "Pagá los aranceles correspondientes."
+      },
+      {
+        "texto": "Retirá el informe ese mismo día."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "Retirás el informe ese mismo día. La presentación de la documentación, el pago si no lo hiciste en línea y el retiro requieren una asistencia presencial dentro de las primeras tres horas de atención…",
+    "consejos": [
+      "La constancia de documento en trámite no acredita identidad."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-un-informe-de-dominio-del-automotor-con-caracter-urgente",
+      "titulo": "Solicitar un informe de dominio del automotor con carácter urgente | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T16:22:49.595Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El costo exacto depende del tipo de vehículo y de los aranceles vigentes; la página no informa los montos.",
+    "La página no indica si necesitás turno."
+  ]
+}

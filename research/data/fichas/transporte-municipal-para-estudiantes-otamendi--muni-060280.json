@@ -1,0 +1,69 @@
+{
+  "tramite": {
+    "slug": "inscripcion-transporte-estudiantes-otamendi",
+    "nombre": "Inscribirte al transporte para estudiantes",
+    "nombre_busqueda": "inscripción al transporte municipal para estudiantes de Otamendi",
+    "resumen": "Inscribite al minibús municipal para estudiantes de nivel superior que viajan entre Otamendi y Mar del Plata o Miramar. La página informa que las inscripciones abren el 13 de febrero y que el servicio comienza el lunes 16 de marzo de 2026.",
+    "sinonimos": [
+      "transporte estudiantil Otamendi"
+    ],
+    "temas": [
+      "transporte-publico-y-viajes",
+      "educacion-y-estudios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060280",
+  "organismo": {
+    "nombre": "Municipio de General Alvarado",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Estudiantes de nivel superior, terciario o universitario, que usan el servicio entre Otamendi y Mar del Plata o entre Otamendi y Miramar."
+    ],
+    "requisitos": [
+      {
+        "texto": "Ser estudiante de nivel superior, terciario o universitario.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Usar el servicio Otamendi–Mar del Plata o Otamendi–Miramar.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al enlace de inscripción para anotarte."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mga.gov.ar/transporte-municipal-para-estudiantes-otamendi/",
+      "titulo": "Transporte Municipal para Estudiantes - Municipio Gral Alvarado",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T12:38:22.641Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El enlace de inscripción no aparece como URL en el texto disponible.",
+    "No se informa si hay que sacar turno.",
+    "No se informa el costo del servicio.",
+    "No se indica cuánto tarda el trámite.",
+    "No se indica la fecha exacta de apertura de inscripciones ni el año al que corresponden las fechas informadas."
+  ]
+}

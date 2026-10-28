@@ -1,0 +1,86 @@
+{
+  "tramite": {
+    "slug": "consulta-y-pago-de-tasas-municipales",
+    "nombre": "Consultar y pagar tasas municipales",
+    "nombre_busqueda": "Tasas Web de Las Flores",
+    "resumen": "Consultá facturas, deudas y servicios asociados, simulá planes de pago para el impuesto automotor y pagá online. También podés acercarte a Tesorería.",
+    "sinonimos": [
+      "Tasas Web",
+      "pago de impuestos municipales"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060455",
+  "organismo": {
+    "nombre": "Municipalidad de Las Flores",
+    "sigla": null,
+    "web": "https://lasflores.gob.ar/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés gestionar tus impuestos municipales desde una computadora o celular."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de partida, CUIL o CUIT, patente o legajo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio de Tasas Web con tu número de partida, CUIL o CUIT, patente o legajo."
+      },
+      {
+        "texto": "Consultá tus facturas, el detalle de tu deuda y los servicios asociados."
+      },
+      {
+        "texto": "Si necesitás pagar el impuesto automotor en cuotas, simulá los planes disponibles y elegí uno."
+      },
+      {
+        "texto": "Pagá online con tarjeta de débito, billetera virtual o transferencia bancaria."
+      },
+      {
+        "texto": "Descargá la factura si la necesitás."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a la ventanilla de Tesorería de la Municipalidad de Las Flores."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Tesorería de la Municipalidad de Las Flores",
+      "direccion": "Av. Rivadavia 385",
+      "localidad": "Av. Rivadavia 385",
+      "horario": null,
+      "fuente_url": "https://lasflores.gob.ar/tramites/tasas/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://lasflores.gob.ar/tramites/tasas/",
+      "titulo": "Tasas Municipales - Las Flores",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T14:32:47.458Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no informa el costo del trámite."
+  ]
+}

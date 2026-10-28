@@ -1,0 +1,106 @@
+{
+  "tramite": {
+    "slug": "pase-estudiantil",
+    "nombre": "Pase estudiantil",
+    "nombre_busqueda": "Pase Estudiantil para estudiantes secundarios",
+    "resumen": "Gestioná el Pase Estudiantil para viajar gratis en colectivo a la escuela en las localidades del Partido de Pinamar. El carnet es personal e intransferible y se presenta al subir al colectivo.",
+    "sinonimos": [
+      "boleto estudiantil gratuito"
+    ],
+    "temas": [
+      "transporte-publico-y-viajes",
+      "educacion-y-estudios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060644",
+  "organismo": {
+    "nombre": "Secretaría de Cultura y Educación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Estudiantes de nivel secundario de escuelas del Partido de Pinamar."
+    ],
+    "requisitos": [
+      {
+        "texto": "Pase estudiantil impreso con una foto carnet actualizada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pase completado por la institución educativa, firmado por la dirección y con el sello medalla institucional en la juntura de la foto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de alumno regular.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Descargá e imprimí el pase y pegá una foto carnet actualizada."
+      },
+      {
+        "texto": "Pedí a tu institución educativa que complete tus datos, firme el pase y coloque el sello medalla institucional en la juntura de la foto."
+      },
+      {
+        "texto": "Llevá el pase, una fotocopia de tu DNI y el certificado de alumno regular a la Secretaría de Cultura y Educación para que validen y habiliten tu carnet."
+      },
+      {
+        "texto": "Presentá el carnet al subir al colectivo para viajar a la escuela."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El pase es personal e intransferible. Desde el 1 de abril de 2024, para usar el boleto estudiantil gratuito se necesita presentar el carnet; no se aceptan otras constancias."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": true,
+      "monto_centavos": null,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://pinamar.gob.ar/paseestudiantil2024/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Secretaría de Cultura y Educación",
+      "direccion": "Avenida Bunge al 2100",
+      "localidad": "Avenida Bunge al 2100",
+      "horario": null,
+      "fuente_url": "https://pinamar.gob.ar/paseestudiantil2024/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://pinamar.gob.ar/paseestudiantil2024/",
+      "titulo": "Pase estudiantil para nivel secundario – Municipalidad de Pinamar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T16:28:10.828Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se informa si necesitás turno para validar el carnet.",
+    "No se informa cuánto tarda la validación.",
+    "No se indica si el servicio de boleto gratuito requiere algún pago por el carnet."
+  ]
+}

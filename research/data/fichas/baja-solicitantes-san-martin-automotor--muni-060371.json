@@ -1,0 +1,127 @@
+{
+  "tramite": {
+    "slug": "baja-solicitantes-san-martin-automotor",
+    "nombre": "Baja solicitantes San Martín automotor",
+    "nombre_busqueda": "Baja solicitantes automotor San Martín",
+    "resumen": "Trámite para dar de baja a un solicitante automotor en el municipio de San Martín. Requiere documentación específica y pago de tasas.",
+    "sinonimos": [
+      "Baja solicitante automotor",
+      "Dar de baja solicitante automotor"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "patente-automotor-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060371",
+  "organismo": {
+    "nombre": "Municipalidad de San Martín",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Solicitantes automotor que deseen dar de baja su inscripción."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original y fotocopia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cédula de identidad original y fotocopia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de domicilio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de baja de patente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de baja de cédula.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de baja de matrícula.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de baja de placa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de baja de vehículo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de baja de permiso de circulación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de baja de permiso de estacionamiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de baja de permiso de circulación y estacionamiento.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá todos los documentos requeridos en la oficina."
+      },
+      {
+        "texto": "Pagá la tasa correspondiente."
+      },
+      {
+        "texto": "Recibí el comprobante de pago y el certificado de baja."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 150000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://sanmartin.gob.ar/tramites/baja-solicitantes-san-martin-automotor"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Trámites Automotores",
+      "direccion": "Av. San Martín 1250",
+      "localidad": "San Martín",
+      "horario": null,
+      "fuente_url": "https://sanmartin.gob.ar/tramites/baja-solicitantes-san-martin-automotor"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://sanmartin.gob.ar/tramites/baja-solicitantes-san-martin-automotor",
+      "titulo": "Baja solicitantes San Martín automotor",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T13:50:49.312Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere verificar si el trámite se puede realizar completamente online o solo presencialmente.",
+    "Se requiere confirmar el plazo de atención estimado para el trámite."
+  ]
+}

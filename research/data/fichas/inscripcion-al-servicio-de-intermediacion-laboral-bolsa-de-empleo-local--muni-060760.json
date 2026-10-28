@@ -1,0 +1,79 @@
+{
+  "tramite": {
+    "slug": "inscripcion-al-servicio-de-intermediacion-laboral",
+    "nombre": "Inscripción al servicio de intermediación laboral",
+    "nombre_busqueda": "Inscripción al servicio de intermediación laboral",
+    "resumen": "La oficina de empleo gestiona búsquedas laborales para vecinos del partido mayores de 18 años. Se realiza una entrevista para conocer el perfil ocupacional y determinar para qué tipo de búsquedas hay que contactarse.",
+    "sinonimos": [],
+    "temas": [
+      "busqueda-de-empleo-y-seguro-de-desempleo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060760",
+  "organismo": {
+    "nombre": "Municipalidad San Miguel",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Vecinos del partido de San Miguel",
+      "Mayores de 18 años"
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI que certifique residencia en el partido de San Miguel",
+        "aclaracion": null
+      },
+      {
+        "texto": "CV (si se cuenta con él)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Servicio a nombre propio y/ o constancia otorgada por registro civil que confirmen la dirección (si el DNI está desactualizado)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en la oficina de empleo para realizar la entrevista que conocerá tu perfil ocupacional."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de empleo",
+      "direccion": "Av. R Balbin, entre L. Alem y D.F Sarmiento",
+      "localidad": "Av. R Balbin, entre L. Alem y D.F Sarmiento",
+      "horario": null,
+      "fuente_url": "https://www.msm.gov.ar/guia-tramites/empleo/inscripcion-al-servicio-de-intermediacion-laboral-bolsa-de-empleo-local/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.msm.gov.ar/guia-tramites/empleo/inscripcion-al-servicio-de-intermediacion-laboral-bolsa-de-empleo-local/",
+      "titulo": "Inscripción al servicio de intermediación laboral - Municipalidad San Miguel",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T13:20:09.631Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Cómo sacar el turno",
+    "Horarios de atención"
+  ]
+}

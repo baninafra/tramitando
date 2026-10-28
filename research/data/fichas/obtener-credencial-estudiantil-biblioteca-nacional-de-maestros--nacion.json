@@ -1,0 +1,93 @@
+{
+  "tramite": {
+    "slug": "obtener-credencial-estudiantil-biblioteca-nacional-de-maestros",
+    "nombre": "Obtener credencial estudiantil Biblioteca Nacional de Maestros",
+    "nombre_busqueda": "credencial estudiantil biblioteca nacional maestros",
+    "resumen": "Solicitá la credencial personal e intransferible para acceder al préstamo de libros y material de la Biblioteca Nacional de Maestros si sos estudiante de nivel secundario, terciario o universitario que residí a menos de 200 km del establecimiento.",
+    "sinonimos": [
+      "credencial estudiantil BNM",
+      "credencial biblioteca nacional maestros"
+    ],
+    "temas": [
+      "educacion-y-estudios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Biblioteca Nacional de Maestros",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Estudiantes de nivel secundario, terciario o universitario que residan en un radio no mayor a 200 Km. de la Biblioteca Nacional de Maestros."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original y fotocopia del DNI (anverso y reverso)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Original y fotocopia del último pago de un servicio a tu nombre",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de alumno regular de la institución donde estudiás",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de solicitud de credencial completo",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá toda la documentación solicitada en Sala de Lectura, Pizzurno 953 -PB, CABA, de lunes a viernes de 8.30 a 19 h."
+      },
+      {
+        "texto": "Te tomarán digitalmente una foto."
+      },
+      {
+        "texto": "Retirá la credencial, en ella figuran: tus datos personales, la categoría, tu foto y un código de barras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "10 minutos",
+    "consejos": [
+      "Toda la documentación que presentes debe tener no más de 30 días de emitida.",
+      "La entrega de la credencial se realiza en el momento de efectuar el trámite."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sala de Lectura",
+      "direccion": "Pizzurno 953 -PB, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/obtener-credencial-estudiantil-biblioteca-nacional-de-maestros"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-credencial-estudiantil-biblioteca-nacional-de-maestros",
+      "titulo": "Obtener credencial estudiantil (Biblioteca Nacional de Maestros) | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T23:03:54.252Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Vigencia exacta no especificada en el texto (se menciona 2 años)",
+    "Horarios de atención confirmados para todos los días de la semana"
+  ]
+}

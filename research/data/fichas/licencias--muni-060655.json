@@ -1,0 +1,106 @@
+{
+  "tramite": {
+    "slug": "licencia-de-conducir-reemplazo",
+    "nombre": "Licencia de conducir - Reemplazo",
+    "nombre_busqueda": "Licencia de conducir reemplazo",
+    "resumen": "Trámite para reflejar cambios de datos en la licencia como domicilio o nombre. Requiere DNI vigente, licencia actual y resolución de infracciones.",
+    "sinonimos": [
+      "Licencia de conducir reemplazo",
+      "Licencia de conducir cambio datos"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060655",
+  "organismo": {
+    "nombre": "Municipalidad de Punta Indio",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que tenga licencia de conducir vigente y que haya sufrido una modificación de datos."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI vigente con domicilio en Punta Indio (original y copia legible frente y contra frente)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de DNI en trámite acompañado de un DNI anterior o DNI digital en Mi Argentina",
+        "aclaracion": "Si no tiene el último DNI vigente (robo o extravío)"
+      },
+      {
+        "texto": "Licencia de conducir y fotocopia",
+        "aclaracion": null
+      },
+      {
+        "texto": "Exposición de extravío o denuncia de robo",
+        "aclaracion": "Si no posee la licencia de conducir"
+      },
+      {
+        "texto": "Certificado de antecedentes penales",
+        "aclaracion": "Si la licencia tiene categorías profesionales D y E"
+      },
+      {
+        "texto": "Certificado de Legalidad expedido por las autoridades otorgantes",
+        "aclaracion": "Si la licencia es de otra jurisdicción"
+      },
+      {
+        "texto": "Resolución de infracciones en los juzgados correspondientes",
+        "aclaracion": "Si la licencia contiene infracciones"
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Constituir Domicilio Vial Electrónico en https://sso.gba.gob.ar/web/login/W3B1"
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Concurrir al municipio correspondiente si el domicilio no es en Punta Indio."
+      },
+      {
+        "texto": "Presentar los documentos requeridos y resolver la deuda municipal si la tiene."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://puntaindio.gov.ar/pages/licencias/licencias.php",
+      "titulo": "Licencias de Conducir",
+      "bloques": [
+        "resumen",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T04:24:25.672Z"
+    },
+    {
+      "url": "https://puntaindio.gov.ar/pages/licencias/reemplazo.php",
+      "titulo": "Licencias - Municipalidad de Punta Indio",
+      "bloques": [
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T04:24:25.672Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de la oficina para el trámite presencial",
+    "Horarios de atención de la oficina",
+    "Monto de los derechos de oficina en delegación",
+    "Monto de los timbrados Provincial y Nacional",
+    "Plazo de atención del trámite",
+    "Si se requiere turno para el trámite presencial"
+  ]
+}

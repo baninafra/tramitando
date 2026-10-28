@@ -1,0 +1,86 @@
+{
+  "tramite": {
+    "slug": "exenciones-y-tasa-social",
+    "nombre": "Exención de Impuesto a los Automotores",
+    "nombre_busqueda": "Exención de impuesto a los automotores Balcarce",
+    "resumen": "Permite que personas con discapacidad no paguen el impuesto municipal a los vehículos. Es un trámite gratuito que se realiza en la planta baja del Palacio Municipal.",
+    "sinonimos": [
+      "Exención de impuesto automotor Balcarce",
+      "Libre de impuesto automotor discapacidad"
+    ],
+    "temas": [
+      "discapacidad-y-accesibilidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060063",
+  "organismo": {
+    "nombre": "Municipalidad de Balcarce",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas con discapacidad o sus representantes legales"
+    ],
+    "requisitos": [
+      {
+        "texto": "Certificado de discapacidad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título propiedad automotor",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota al intendente",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Servicio en domicilio actual",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tarjeta verde",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Palacio Municipal",
+      "direccion": "Av. del Valle Nº 602",
+      "localidad": "Balcarce",
+      "horario": null,
+      "fuente_url": "https://balcarce-app.gob.ar/portal_servicios/servicio/excencion-de-impuesto-a-los-automotores"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://balcarce-app.gob.ar/portal_servicios/servicio/excencion-de-impuesto-a-los-automotores",
+      "titulo": "Portal de Servicios | Modernizacion Balcarce",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T03:18:11.688Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el plazo de tramitación.",
+    "No se especifica si se requiere turno."
+  ]
+}

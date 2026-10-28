@@ -1,0 +1,70 @@
+{
+  "tramite": {
+    "slug": "bromatologia-y-alimentos",
+    "nombre": "Libreta Sanitaria",
+    "nombre_busqueda": "Libreta Sanitaria San Martín",
+    "resumen": "Trámite para obtener la libreta sanitaria en el municipio de San Martín. Se requiere DNI y pago de tasa.",
+    "sinonimos": [],
+    "temas": [
+      "carnet-sanitario",
+      "salud-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060371",
+  "organismo": {
+    "nombre": "Municipalidad de San Martín",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que viva en el municipio de San Martín."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original y copia.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acudí a la oficina de Bromatología."
+      },
+      {
+        "texto": "Presentá tu DNI original y copia."
+      },
+      {
+        "texto": "Pagá la tasa correspondiente."
+      },
+      {
+        "texto": "Recibí tu libreta sanitaria."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://sanmartin.gob.ar/tramites/bromatologia-libreta-sanitaria",
+      "titulo": "Libreta Sanitaria - San Martín",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T01:55:05.126Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina de Bromatología.",
+    "Horarios de atención.",
+    "Monto exacto de la tasa en centavos.",
+    "Si se requiere turno."
+  ]
+}

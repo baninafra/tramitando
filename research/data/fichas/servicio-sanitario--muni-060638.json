@@ -1,0 +1,71 @@
+{
+  "tramite": {
+    "slug": "certificados-e-informes-de-libre-deuda",
+    "nombre": "Certificados e informes de libre deuda",
+    "nombre_busqueda": "Certificado de libre deuda servicios sanitarios",
+    "resumen": "Obtengá el certificado de libre deuda de un servicio sanitario para acreditar que no tenés deudas pendientes.",
+    "sinonimos": [
+      "Certificado de libre deuda",
+      "Informe de libre deuda"
+    ],
+    "temas": [
+      "tasa-inmobiliaria-y-servicios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060638",
+  "organismo": {
+    "nombre": "Municipalidad del Pilar",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que necesite acreditar la libre deuda de un servicio sanitario."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de suministro",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Con toda la documentación requerida dirigite a Ituzaingó 750, Pilar Centro de Lunes a Viernes de 08:00 a 15:00 hs."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Servicios Sanitarios",
+      "direccion": "Ituzaingó 750",
+      "localidad": "Pilar Centro",
+      "horario": null,
+      "fuente_url": "https://pilar.gov.ar/tramites/servicio-sanitario/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://pilar.gov.ar/tramites/servicio-sanitario/",
+      "titulo": "Servicios Sanitarios - Municipio Pilar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T16:33:53.715Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horarios de atención de la oficina: Lunes a viernes de 08:00 a 15:00 hs."
+  ]
+}

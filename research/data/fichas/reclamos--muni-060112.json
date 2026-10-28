@@ -1,0 +1,81 @@
+{
+  "tramite": {
+    "slug": "reclamos-y-denuncias-de-derechos-del-consumidor",
+    "nombre": "Reclamos y denuncias de derechos del consumidor",
+    "nombre_busqueda": "Reclamos y denuncias de derechos del consumidor",
+    "resumen": "Denuncie problemas con servicios públicos, telefonía, bancos, electrodomésticos, medicina prepaga y seguros en la OMIC de Bragado.",
+    "sinonimos": [
+      "Denuncias de derechos del consumidor",
+      "Reclamos al consumidor Bragado",
+      "Defensa del consumidor municipal"
+    ],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060112",
+  "organismo": {
+    "nombre": "Municipalidad de Bragado",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en denunciar."
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia de DNI, LE o LC del denunciante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ticket, factura de compra, presupuesto o contrato que acredite la relación de consumo por triplicado.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el formulario completo y la documentación acompañante en la OMIC."
+      },
+      {
+        "texto": "Recibí el formulario para dar curso a su reclamo."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si envía el formulario por mail, recuerde presentar el resto de la documentación en la oficina local a la mayor brevedad."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "OMIC",
+      "direccion": "Alsina 124",
+      "localidad": "Bragado",
+      "horario": null,
+      "fuente_url": "https://www.bragado.gov.ar/omic/reclamos/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bragado.gov.ar/omic/reclamos/",
+      "titulo": "Reclamos - Municipalidad de Bragado",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T11:34:42.318Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el plazo de respuesta.",
+    "No se especifica el costo del trámite."
+  ]
+}

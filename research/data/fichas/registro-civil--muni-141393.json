@@ -1,0 +1,106 @@
+{
+  "tramite": {
+    "slug": "solicitudes-de-partidas-de-nacimiento-matrimonio-defuncion-y-uniones-convivenciales",
+    "nombre": "Solicitudes de partidas de nacimiento, matrimonio, defunción y uniones convivenciales",
+    "nombre_busqueda": "Solicitar acta nacimiento matrimonio defuncion",
+    "resumen": "Se tramitan a través de la plataforma Ciudadano Digital. Se requiere tener 14 años cumplidos para iniciar el proceso.",
+    "sinonimos": [
+      "Solicitud de acta civil",
+      "Obtener partida de nacimiento",
+      "Solicitar matrimonio digital"
+    ],
+    "temas": [
+      "documentos-e-identidad",
+      "partidas-y-actas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141393",
+  "organismo": {
+    "nombre": "Registro Civil",
+    "sigla": null,
+    "web": "https://www.malagueno.gob.ar/registro-civil"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Tener 14 años cumplidos"
+    ],
+    "requisitos": [
+      {
+        "texto": "Iniciá sesión en la plataforma Ciudadano Digital",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Buscá 'Mi Registro Civil' en la plataforma Ciudadano Digital"
+      },
+      {
+        "texto": "Hacé click en 'Solicitar partidas de Nacimiento, Matrimonio, Defunción y Uniones Convivenciales'"
+      },
+      {
+        "texto": "Completá el formulario"
+      },
+      {
+        "texto": "Seleccioná el modo de envío"
+      },
+      {
+        "texto": "Hacé click en enviar solicitud"
+      },
+      {
+        "texto": "Hacé click en enviar solicitud nuevamente"
+      },
+      {
+        "texto": "Recibirás el acta digital vía mail y también en la sección 'Mis Documentos' de CiDi"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Cuando el acta sea encontrada, se enviará el cupón de pago vía mail"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.malagueno.gob.ar/registro-civil/",
+      "titulo": "Registro Civil – Municipalidad de Malagueño – Córdoba, Argentina",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T09:19:22.300Z"
+    },
+    {
+      "url": "https://www.malagueno.gob.ar/",
+      "titulo": "Municipalidad de Malagueño – Córdoba, Argentina",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T09:19:22.300Z"
+    },
+    {
+      "url": "https://www.malagueno.gob.ar/gobierno/",
+      "titulo": "Gobierno – Municipalidad de Malagueño – Córdoba, Argentina",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T09:19:22.300Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto del cupón de pago no se especifica en el texto",
+    "El plazo de entrega no se especifica en el texto"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "tramite": {
+    "slug": "sistema-de-turnos-online-de-la-municipalidad-de-la-plata",
+    "nombre": "Sistema de turnos online de la municipalidad de la plata",
+    "nombre_busqueda": "sistema de turnos online municipalidad la plata",
+    "resumen": "Gestioná tus turnos para trámites con la municipalidad de la plata ingresando con tu DEM o registrándote si no tenés cuenta.",
+    "sinonimos": [
+      "turnos municipalidad la plata",
+      "sistema de turnos online la plata"
+    ],
+    "temas": [
+      "gobierno-y-participacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060441",
+  "organismo": {
+    "nombre": "Municipalidad de La Plata",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes estén registrados en el DEM o quienes quieran registrarse para sacar turnos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Usuario y contraseña del DEM",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sistema de turnos."
+      },
+      {
+        "texto": "Seleccioná la opción de ingresar con DEM si tenés cuenta."
+      },
+      {
+        "texto": "O seleccioná la opción de ingresar sin DEM si no tenés cuenta."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://turnos.laplata.gob.ar/",
+      "titulo": "Sistema de turnos de la Municipalidad de La Plata",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T07:55:33.512Z"
+    },
+    {
+      "url": "https://turnos.laplata.gob.ar/faq",
+      "titulo": "Preguntas frecuentes",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T07:55:33.512Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos adicionales más allá del acceso al sistema."
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "tramite": {
+    "slug": "inscripcion-plan-ayuda-energetica",
+    "nombre": "Inscripción al Plan de Ayuda Energética",
+    "nombre_busqueda": "Plan de ayuda energética General Paz",
+    "resumen": "Podés inscribirte en el plan de ayuda energética completando un formulario online con tus datos personales y el monto de tu factura.",
+    "sinonimos": [
+      "Ayuda energética",
+      "Plan de ayuda a la energía"
+    ],
+    "temas": [
+      "subsidios-a-los-servicios-publicos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060343",
+  "organismo": {
+    "nombre": "Municipalidad de General Paz",
+    "sigla": "MGP",
+    "web": "https://municipalidaddegeneralpaz.gob.ar"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas con domicilio en el partido de General Paz."
+    ],
+    "requisitos": [
+      {
+        "texto": "Apellido y nombres",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de teléfono",
+        "aclaracion": null
+      },
+      {
+        "texto": "Correo electrónico",
+        "aclaracion": null
+      },
+      {
+        "texto": "Indicar si registrás deuda",
+        "aclaracion": null
+      },
+      {
+        "texto": "Monto de la factura",
+        "aclaracion": "Debe ser hasta $50.000, entre $50.000 y $100.000, o más de $100.000."
+      },
+      {
+        "texto": "Mes y año de la factura",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al formulario del Plan de Ayuda Energética en la web de la municipalidad."
+      },
+      {
+        "texto": "Completá tus datos personales: apellido, nombres, domicilio, teléfono y email."
+      },
+      {
+        "texto": "Indicá si tenés deuda y seleccioná el rango del monto de tu factura."
+      },
+      {
+        "texto": "Elegí el mes y el año de la factura."
+      },
+      {
+        "texto": "Hacé clic en 'Enviar Datos'."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": false,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://municipalidaddegeneralpaz.gob.ar/index.php/plan-ayuda-energetica/",
+      "titulo": "Plan ayuda energética",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T12:53:08.893Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si el trámite es gratuito o tiene algún costo asociado.",
+    "Cuánto tarda en procesarse la solicitud.",
+    "Si hay requisitos adicionales como DNI o comprobante de domicilio."
+  ]
+}

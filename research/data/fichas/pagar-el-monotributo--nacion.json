@@ -1,0 +1,102 @@
+{
+  "tramite": {
+    "slug": "pagar-monotributo",
+    "nombre": "Pagar el monotributo",
+    "nombre_busqueda": "Pagar monotributo",
+    "resumen": "Cumplí con tu obligación de pago mensual hasta el día 20 de cada mes. Podés hacerlo desde internet, cajeros automáticos, débito automático o tarjetas de crédito.",
+    "sinonimos": [
+      "Pago monotributo",
+      "Abonar cuota monotributo"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo",
+      "monotributo-social-y-general"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Economía",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes hayan adherido al régimen de monotributo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Contar con cuenta bancaria o tarjeta de crédito.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contar con clave de homebanking para utilizar tu cuenta bancaria por Internet.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Que tu entidad bancaria opere con VEP.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener incorporado a tu Clave Fiscal el servicio Presentación de DDJJ y Pagos.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá con tu clave fiscal y generá el volante electrónico de pago (VEP) a través del servicio CCMA."
+      },
+      {
+        "texto": "Accedé a la entidad de pago y seleccioná la opción Pagos ARCA."
+      },
+      {
+        "texto": "Ingresá al Acceso con Clave Fiscal de ARCA, ingresá tu número de cuit/cuil/cdi y tu Clave."
+      },
+      {
+        "texto": "Seleccioná Presentación de DDJJ y Pagos y elegí la opción VEP desde Deuda."
+      },
+      {
+        "texto": "Tildá el recuadro del período a pagar y presioná el botón Generar VEP."
+      },
+      {
+        "texto": "Ingresá en pantalla a la entidad de pago elegida y pagá el VEP con tu clave bancaria."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "20",
+    "consejos": [
+      "Si el vencimiento cae en feriado o día no hábil, el pago vence al primer día hábil siguiente.",
+      "El pago se considera realizado en término cuando la fecha y el horario del comprobante acrediten que lo hiciste antes de la finalización del horario del prestador."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/pagar-el-monotributo",
+      "titulo": "Pagar el monotributo | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-26T23:10:25.657Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-volante-electronico-de-pagos-vep",
+      "titulo": "Obtener Volante Electrónico de Pagos -VEP | Argentina.gob.ar",
+      "bloques": [
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T23:10:25.657Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la cuota mensual."
+  ]
+}

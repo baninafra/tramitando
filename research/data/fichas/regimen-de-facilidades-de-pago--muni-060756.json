@@ -1,0 +1,116 @@
+{
+  "tramite": {
+    "slug": "planes-de-pago-municipales",
+    "nombre": "Régimen de facilidades de pago",
+    "nombre_busqueda": "Régimen de facilidades de pago",
+    "resumen": "Regularizá tu deuda con descuentos exclusivos pagando en 1 o 3 cuotas. Podés optar por bonificaciones en intereses y multas.",
+    "sinonimos": [
+      "Pago en cuotas",
+      "Facilidades de pago",
+      "Pago a plazos"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "planes-de-pago-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060756",
+  "organismo": {
+    "nombre": "Municipalidad de San Isidro",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan deuda con el Municipio"
+    ],
+    "requisitos": [
+      {
+        "texto": "Deuda con el Municipio",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a https://tesi.sanisidro.gob.ar/"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "Pago al contado",
+      "gratis": false,
+      "monto_centavos": 50000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://arsi.gob.ar/regimen-de-facilidades-de-pago/"
+    },
+    {
+      "modalidad": "Pago en 3 cuotas",
+      "gratis": false,
+      "monto_centavos": 25000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://arsi.gob.ar/regimen-de-facilidades-de-pago/"
+    },
+    {
+      "modalidad": "Pago en 6 y 12",
+      "gratis": false,
+      "monto_centavos": 30000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://arsi.gob.ar/regimen-de-facilidades-de-pago/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Mesa General de Entradas",
+      "direccion": "Av. Centenario 77",
+      "localidad": "Av. Centenario 77",
+      "horario": null,
+      "fuente_url": "https://arsi.gob.ar/regimen-de-facilidades-de-pago/"
+    },
+    {
+      "nombre": "Oficina de Tasas Inmobiliarias",
+      "direccion": "Av. Centenario 77",
+      "localidad": "Av. Centenario 77",
+      "horario": null,
+      "fuente_url": "https://arsi.gob.ar/regimen-de-facilidades-de-pago/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://arsi.gob.ar/regimen-de-facilidades-de-pago/",
+      "titulo": "RÉGIMEN DE FACILIDADES DE PAGO – ARSI",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T12:27:04.490Z"
+    },
+    {
+      "url": "https://arsi.gob.ar/medios-de-pago-electronicos/",
+      "titulo": "Medios de Pago Electrónicos – ARSI",
+      "bloques": [
+        "pasos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T12:27:04.490Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la deuda no se especifica en el texto.",
+    "El plazo máximo para regularizar la deuda no se especifica en el texto.",
+    "La fecha de vigencia del régimen no se especifica en el texto."
+  ]
+}

@@ -1,0 +1,64 @@
+---
+import Base from '../layouts/Base.astro';
+import FichaTramite from '../components/FichaTramite.astro';
+import Icono from '../components/Icono.astro';
+import { buscar, masBuscados, resolverUbicacion } from '../lib/data';
+
+const q = (Astro.url.searchParams.get('q') ?? '').trim().slice(0, 120);
+const lugar = (await resolverUbicacion(Astro.url.searchParams.get('prov'), Astro.url.searchParams.get('muni'))) ?? {};
+const nombreLugar = lugar.municipio ? `${lugar.municipio.nombre}, ${lugar.provincia?.nombre}` : lugar.provincia?.nombre;
+const hayBusqueda = q !== '' || !!lugar.provincia;
+const resultados = hayBusqueda ? await buscar(q, lugar) : [];
+const sugeridos = resultados.length === 0 ? await masBuscados(3) : [];
+
+const titulo = q ? `Resultados para "${q}"` : nombreLugar ? `Trámites en ${nombreLugar}` : 'Buscá un trámite';
+const sinUbicacion = q ? `/buscar?${new URLSearchParams({ q })}` : '/buscar';
+---
+<Base titulo={titulo} descripcion="Resultados de búsqueda de trámites en tramitando." indexar={false} valorBusqueda={q}>
+  <div class="contenedor">
+    <header class="cabecera-resultados">
+      <h1>{titulo}</h1>
+      {hayBusqueda && (
+        <p class="resumen" role="status">
+          {resultados.length === 0 ? 'No encontramos trámites' : resultados.length === 1 ? '1 trámite' : `${resultados.length} trámites`}
+          {nombreLugar && <> para <strong>{nombreLugar}</strong> · <a href={sinUbicacion}>Ver en todo el país</a></>}
+        </p>
+      )}
+    </header>
+
+    {resultados.length > 0 && (
+      <ul class="lista-tramites">
+        {resultados.map((t) => <li><FichaTramite tarjeta={t} nivel="h2" /></li>)}
+      </ul>
+    )}
+
+    {resultados.length === 0 && (
+      <div class="vacio">
+        {hayBusqueda ? (
+          <>
+            <p><strong>Probá con otras palabras.</strong> Escribí el trámite como lo dirías vos, por ejemplo "sacar el registro" o "partida de nacimiento".</p>
+            <p>Si el trámite que buscás todavía no está, lo vamos sumando de a poco.</p>
+          </>
+        ) : (
+          <p>Escribí qué trámite tenés que hacer en el buscador de arriba.</p>
+        )}
+        <h2>Los más buscados</h2>
+        <ul class="lista-tramites">
+          {sugeridos.map((t) => <li><FichaTramite tarjeta={t} /></li>)}
+        </ul>
+      </div>
+    )}
+
+    <p class="ayuda"><Icono nombre="info" />Cada tarjeta muestra cuándo verificamos el dato por última vez contra la fuente oficial.</p>
+  </div>
+</Base>
+
+<style>
+  .cabecera-resultados { display: grid; gap: var(--espacio-2); padding-block: var(--espacio-6) var(--espacio-5); }
+  .resumen { color: var(--tinta-2); }
+  .vacio { display: grid; gap: var(--espacio-4); }
+  .vacio > p { max-width: var(--ancho-texto); }
+  .vacio h2 { margin-top: var(--espacio-5); }
+  .ayuda { display: flex; gap: var(--espacio-2); align-items: flex-start; margin-top: var(--espacio-6); font: var(--t-nota); color: var(--tinta-suave); }
+  .ayuda :global(.icono) { width: 16px; height: 16px; }
+</style>

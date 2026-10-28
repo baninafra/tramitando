@@ -1,0 +1,62 @@
+{
+  "tramite": {
+    "slug": "actualizar-documento-de-idoneidad",
+    "nombre": "Actualizar documento de idoneidad",
+    "nombre_busqueda": "Actualizar documento de idoneidad",
+    "resumen": "Si tu permiso originario venció y no hiciste el permiso complementario en el otro país, podés actualizar el documento de idoneidad de forma gratuita en línea.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas argentinas de transporte de carga con permiso originario que aún no han realizado la solicitud de permiso complementario en el país de destino."
+    ],
+    "requisitos": [
+      {
+        "texto": "Clave fiscal de nivel 3",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá el trámite en TAD."
+      },
+      {
+        "texto": "Seguí las instrucciones de la plataforma."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/actualizar-documento-de-idoneidad",
+      "titulo": "Actualizar documento de idoneidad | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T04:15:39.169Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica un plazo de tiempo para realizar la actualización."
+  ]
+}

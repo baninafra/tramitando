@@ -1,0 +1,84 @@
+{
+  "tramite": {
+    "slug": "eximicion-de-turnos-para-una-farmacia",
+    "nombre": "Eximición de turnos para una farmacia",
+    "nombre_busqueda": "Eximición de turnos farmacia",
+    "resumen": "Solicitá la eximición del Turno Obligatorio para farmacias que cumplen turnos voluntarios de 24 horas los 365 días del año. El trámite es gratuito y se realiza en línea.",
+    "sinonimos": [
+      "Exención turno farmacia",
+      "No hacer turno farmacia"
+    ],
+    "temas": [
+      "medicamentos-y-farmacia-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El titular o apoderado."
+    ],
+    "requisitos": [
+      {
+        "texto": "Completar formulario de solicitud online en TAD.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Disposición de Habilitación del Establecimiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota indicando el nombre de la farmacia, ubicada a menos de 1000 m., que cumple turnos voluntarios de 24 horas los 365 días del año, y firmada por el Director Técnico de la Farmacia solicitante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Disposición de alta del Director Técnico actual",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave fiscal nivel 2 o superior de la AFIP o Apoderamiento en trámites a distancia para realizar el registro.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al TAD, con clave fiscal y número de CUIT."
+      },
+      {
+        "texto": "Completá el formulario de solicitud online en TAD."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Para hacer el Trámite a Distancia (TAD) se recomienda ingresar a la página desde una CPU a través del Mozilla Firefox o el Google Chrome, no mediante celulares u otros dispositivos móviles porque se han detectado inconvenientes."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/eximicion-de-turnos-para-una-farmacia",
+      "titulo": "Eximición de turnos para una farmacia | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T15:29:30.953Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia de la Resolución Ministerial N° 1938/2025 que hace gratuito el trámite no está especificada en el texto."
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "tramite": {
+    "slug": "registrar-obras-artisticas-ya-exhibidas",
+    "nombre": "Registrar obras artísticas ya exhibidas",
+    "nombre_busqueda": "Registrar obras artísticas ya exhibidas",
+    "resumen": "Protección de obras artísticas como dibujos, esculturas o fotografías que ya hayan sido exhibidas, presentando documentación y pago de tasas.",
+    "sinonimos": [],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional del Derecho de Autor",
+    "sigla": "DNDA",
+    "web": "https://www.argentina.gob.ar/servicio/registrar-obras-artisticas-ya-exhibidas"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Artistas plásticos, fotógrafos, diseñadores y otros que quieran registrar la autoría de sus obras ya exhibidas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Comprobante de pago del trámite por depósito o transferencia bancaria.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago de la tasa por depósito o transferencia bancaria.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Imágenes de la obra a registrar (frente, perfil, etc.).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ficha técnica con nombre de la colección (si corresponde), título de la obra, nombre y apellido del autor, breve descripción de la obra y datos de los autores y titulares.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresa a TAD Inscripción de obra publicada – Artística."
+      },
+      {
+        "texto": "Completá los datos requeridos."
+      },
+      {
+        "texto": "Subí la documentación obligatoria y complementaria."
+      },
+      {
+        "texto": "El sistema te otorgará un número de expediente electrónico, anotalo y tenelo presente para cualquier consulta posterior en la DNDA."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá o enviá la obra y la impresión de los tres archivos (datos de la obra, carátula variable y carátulas del expediente) a la Dirección Nacional del Derecho de Autor Sede Central."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El trámite no estará concluido hasta que no se haya enviado a la DNDA la obra con su carátula correspondiente."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 230000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/registrar-obras-artisticas-ya-exhibidas"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/registrar-obras-artisticas-ya-exhibidas",
+      "titulo": "Registrar obras artísticas ya exhibidas | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T03:11:04.076Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa depende del valor comercial de la obra."
+  ]
+}

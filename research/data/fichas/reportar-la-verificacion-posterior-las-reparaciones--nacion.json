@@ -1,0 +1,70 @@
+{
+  "tramite": {
+    "slug": "reportar-verificacion-posterior-reparaciones",
+    "nombre": "Reportar la verificación posterior a las reparaciones",
+    "nombre_busqueda": "Reportar verificación posterior reparaciones instrumentos medición",
+    "resumen": "Organismos de Certificación acreditados por el OAA deben reportar la verificación posterior a las reparaciones de instrumentos de medición mediante la planilla de descargas en Trámites a Distancia.",
+    "sinonimos": [
+      "Reporte de verificación posterior reparaciones",
+      "Verificación posterior reparaciones instrumentos medición"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Subsecretaría de Defensa del Consumidor y Lealtad Comercial",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Organismos de Certificación acreditados por el Organismo Argentino de Acreditación (OAA) para los Reglamentos Técnicos y Metrológicos aplicables en el ámbito de la Ley N° 19.511."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener CUIT y clave fiscal nivel 2 o superior en ARCA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estar adherido al servicio de Trámites a Distancia (TAD) y tener condición de apoderado en el sistema.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá el trámite a través de Trámites a Distancia (TAD) ante la Subsecretaría de Defensa del Consumidor y Lealtad Comercial."
+      },
+      {
+        "texto": "Completá la planilla de reportes de la sección Descargas con la información detallada."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La Secretaría cuenta con un plazo de 5 días para dar conformidad a este reporte una vez presentada la solicitud."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reportar-la-verificacion-posterior-las-reparaciones",
+      "titulo": "Reportar la Verificación Posterior a las Reparaciones | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T03:49:28.515Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica el monto del trámite, por lo que el array costos está vacío."
+  ]
+}

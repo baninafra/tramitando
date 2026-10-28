@@ -1,0 +1,120 @@
+{
+  "tramite": {
+    "slug": "denunciar-servicios-de-transporte-ferroviario",
+    "nombre": "Denunciar servicios de transporte ferroviario",
+    "nombre_busqueda": "Denunciar servicios de transporte ferroviario",
+    "resumen": "Podés denunciar el servicio público de transporte ferroviario de pasajeros de jurisdicción nacional ante la CNRT. Es un trámite gratuito que se puede hacer en línea, por teléfono o presencialmente.",
+    "sinonimos": [],
+    "temas": [
+      "transporte-publico-y-viajes",
+      "trenes-y-micros"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Comisión Nacional de Regulación del Transporte",
+    "sigla": "CNRT",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que considere que no se cumplen los derechos del servicio de transporte ferroviario."
+    ],
+    "requisitos": [
+      {
+        "texto": "Una nota con la mayor cantidad de detalles acerca de la situación planteada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número y constancia del reclamo brindados por la empresa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Apellido y nombre.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "País.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Correo electrónico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos del servicio.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresa para denunciar servicios de transporte ferroviario."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Entrá en Mi Argentina o creá tu cuenta."
+      },
+      {
+        "texto": "Sacá turno."
+      },
+      {
+        "texto": "Acercate con toda la documentación a la sede central, Maipú 88, CABA, de lunes a viernes de 9 a 15 hs, o a las delegaciones regionales que se encuentran en el interior del país."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El prestador del servicio tiene 30 días corridos para darte una respuesta.",
+      "Si no ocurre la respuesta o no te resulta satisfactoria, podés comunicarte con nosotros para que la CNRT trate tu denuncia."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede central",
+      "direccion": "Maipú 88, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/denunciar-servicios-de-transporte-ferroviario"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/denunciar-servicios-de-transporte-ferroviario",
+      "titulo": "Denunciar servicios de transporte ferroviario | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T04:42:12.509Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T04:42:12.509Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La URL exacta para ingresar a denunciar servicios de transporte ferroviario en línea.",
+    "El número de teléfono específico para sacar turno en línea."
+  ]
+}

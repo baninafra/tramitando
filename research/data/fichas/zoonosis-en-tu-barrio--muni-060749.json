@@ -1,0 +1,71 @@
+{
+  "tramite": {
+    "slug": "castraciones-y-vacunas",
+    "nombre": "Castración y vacunación en tu barrio",
+    "nombre_busqueda": "Veterinaria en tu barrio",
+    "resumen": "Operativos gratuitos de castración, desparasitación y vacunación antirrábica para perros y gatos. Solo para vecinos de los barrios donde se realizan.",
+    "sinonimos": [
+      "Veterinaria en tu barrio",
+      "Operativo veterinario"
+    ],
+    "temas": [
+      "castraciones-y-vacunas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060749",
+  "organismo": {
+    "nombre": "Municipio de San Fernando",
+    "sigla": null,
+    "web": "https://www.sanfernando.gob.ar"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Vecinos de los barrios donde se realizan los operativos"
+    ],
+    "requisitos": [
+      {
+        "texto": "Concurrir con DNI con domicilio en la zona o facturas que acrediten la dirección.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Concurrir al Centro de Atención Vecinal en el horario del operativo."
+      },
+      {
+        "texto": "Presentar el DNI y acreditar el domicilio en la zona."
+      },
+      {
+        "texto": "Esperar por orden de llegada para recibir los 20 turnos disponibles (10 caninos y 10 felinos)."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Llegar temprano, ya que los turnos se asignan por orden de llegada."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.sanfernando.gob.ar/zoonosis-en-tu-barrio",
+      "titulo": "San Fernando Municipio - Veterinaria en tu barrio",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T01:43:49.241Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el horario exacto de los operativos.",
+    "No se especifica la ubicación exacta de los operativos."
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "tramite": {
+    "slug": "permiso-de-espectaculos-publicos",
+    "nombre": "Permiso de espectáculos públicos",
+    "nombre_busqueda": "Permiso de espectáculos públicos",
+    "resumen": "Trámite para comerciantes habilitados que quieran realizar espectáculos públicos. Se requiere una nota detallada con la información del evento y documentos de identidad según el tipo de solicitante.",
+    "sinonimos": [],
+    "temas": [
+      "espectaculos-y-eventos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060760",
+  "organismo": {
+    "nombre": "Municipalidad San Miguel",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Persona física mayor de 18 años que posea un comercio habilitado con compatibilidad para espectáculos públicos.",
+      "Sociedad que posea un comercio habilitado con compatibilidad para espectáculos públicos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota detallada con la información solicitada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Habilitación Municipal del comercio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI del titular.",
+        "aclaracion": "Unipersonal"
+      },
+      {
+        "texto": "Fotocopia del DNI del presidente y estatuto.",
+        "aclaracion": "Sociedad"
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la nota detallada con la información del evento (descripción, lugar, fecha, horario, cantidad de asistentes, cobro de entrada y servicio de buffet) en la Dirección General de Habilitaciones."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "48 horas hábiles",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección General de Habilitaciones",
+      "direccion": "Sarmiento 1686",
+      "localidad": "Sarmiento 1686",
+      "horario": null,
+      "fuente_url": "https://www.msm.gov.ar/guia-tramites/habilitaciones/permiso-de-espectaculos-publicos/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.msm.gov.ar/guia-tramites/habilitaciones/permiso-de-espectaculos-publicos/",
+      "titulo": "Permiso de espectáculos públicos - Municipalidad San Miguel",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T13:14:24.621Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el monto de la tasa o costo del trámite.",
+    "No se especifica si se requiere turno para la presentación del trámite."
+  ]
+}

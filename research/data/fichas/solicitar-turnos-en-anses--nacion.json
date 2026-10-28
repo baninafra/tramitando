@@ -1,0 +1,81 @@
+{
+  "tramite": {
+    "slug": "solicitar-turnos-en-anses",
+    "nombre": "Solicitar turnos en ANSES",
+    "nombre_busqueda": "Solicitar turno ANSES",
+    "resumen": "Podés solicitar un turno para ser atendido en una oficina de ANSES de forma gratuita por internet. Necesitás tener tus datos acreditados en la base de datos y un dispositivo con acceso a internet.",
+    "sinonimos": [
+      "Pedir turno ANSES",
+      "Reservar turno ANSES",
+      "Agendar turno ANSES"
+    ],
+    "temas": [
+      "centros-de-salud-y-turnos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración Nacional de Servicios Sociales para Personas Mayores",
+    "sigla": "ANSES",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A cualquier persona que tenga que realizar un trámite o consulta en ANSES."
+    ],
+    "requisitos": [
+      {
+        "texto": "Contar con un dispositivo (celular o computadora) con acceso a internet.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener tus datos personales acreditados en la base de datos de ANSES.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a Solicitud de turnos."
+      },
+      {
+        "texto": "Seleccioná el trámite que necesitás realizar."
+      },
+      {
+        "texto": "Elegí la oficina de ANSES y fecha que te convenga."
+      },
+      {
+        "texto": "Al finalizar, el sistema te otorgará una constancia de turno con un número de registro y la información de tu turno."
+      },
+      {
+        "texto": "Podés ingresar a Consulta de turnos para obtener la información del lugar, fecha y hora de tu turno."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-turnos-en-anses",
+      "titulo": "Solicitar turnos en ANSES | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-28T04:34:51.774Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia de la página no está indicada explícitamente.",
+    "No se especifican requisitos adicionales para casos especiales como menores o extranjeros."
+  ]
+}

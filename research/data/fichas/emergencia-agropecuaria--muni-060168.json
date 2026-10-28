@@ -1,0 +1,76 @@
+{
+  "tramite": {
+    "slug": "emergencias-agropecuarias",
+    "nombre": "Emergencia agropecuaria",
+    "nombre_busqueda": "Emergencia agropecuaria",
+    "resumen": "Trámite para productores agropecuarios que necesitan apoyo ante afectaciones en sus predios, requiriendo documentación específica y evaluación por la Comisión Local.",
+    "sinonimos": [],
+    "temas": [
+      "produccion-rural"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060168",
+  "organismo": {
+    "nombre": "Municipalidad de Castelli",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Productores agropecuarios"
+    ],
+    "requisitos": [
+      {
+        "texto": "Documentación respaldatoria del uso del predio (contrato de arrendamiento, título de propiedad, otros)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de Inscripción en AFIP (CUIT con identificación de actividad agropecuaria)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Completá toda la documentación con los datos requeridos y acercala a la oficina de Producción ubicada en la planta baja del palacio Municipal, en Avenida de Mayo 205."
+      },
+      {
+        "texto": "La solicitud será evaluada por la Comisión Local de Emergencia Agropecuaria, la cual podrá aprobar o rechazar el pedido una vez analizado el porcentaje de afectación."
+      },
+      {
+        "texto": "Si la solicitud es aprobada, un agente municipal se pondrá en contacto con el productor."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Producción",
+      "direccion": "Avenida de Mayo 205",
+      "localidad": "Castelli",
+      "horario": null,
+      "fuente_url": "https://www.castelli.gob.ar/emergencia-agropecuaria/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.castelli.gob.ar/emergencia-agropecuaria/",
+      "titulo": "Emergencia Agropecuaria – Municipalidad de Castelli",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T04:52:58.516Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos de costos.",
+    "No se especifican plazos de tiempo."
+  ]
+}

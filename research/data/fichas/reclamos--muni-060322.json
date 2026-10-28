@@ -1,0 +1,76 @@
+{
+  "tramite": {
+    "slug": "centro-de-reclamos-ciudadanos",
+    "nombre": "Centro de Reclamos Ciudadanos",
+    "nombre_busqueda": "hacer un reclamo municipal",
+    "resumen": "Registrá un problema en tu barrio y recibí un número de ticket para seguir el reclamo. También podés consultar el estado de un reclamo que ya hiciste.",
+    "sinonimos": [
+      "reclamo municipal",
+      "reclamos vecinales"
+    ],
+    "temas": [
+      "reclamos-vecinales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060322",
+  "organismo": {
+    "nombre": "Municipalidad de General La Madrid",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés registrar un problema en tu barrio o consultar el estado de un reclamo que ya hiciste."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de ticket para consultar el estado de un reclamo.",
+        "aclaracion": "Si querés hacer el seguimiento de un reclamo ya registrado."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Elegí la categoría y la dirección del problema."
+      },
+      {
+        "texto": "Adjuntá una foto si tenés."
+      },
+      {
+        "texto": "Recibí por email el número de ticket para hacer el seguimiento."
+      },
+      {
+        "texto": "Esperá la respuesta del área correspondiente por email con la fecha o solución."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": false,
+    "turno_url": null,
+    "plazo": "Los reclamos son atendidos en días hábiles; la página no informa un plazo de resolución.",
+    "consejos": [
+      "Para emergencias, llamá al 100 (Bomberos) o al 101 (Policía)."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.lamadrid.gob.ar/reclamos/",
+      "titulo": "Reclamos – Municipalidad de General La Madrid",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T12:48:04.018Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La página no precisa quiénes pueden registrar un reclamo.",
+    "La página no informa requisitos para registrar un reclamo nuevo.",
+    "La página no indica si hay un costo."
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "tramite": {
+    "slug": "inscribirse-en-el-registro-de-prestadores-medicos",
+    "nombre": "Inscribirse en el registro de prestadores médicos",
+    "nombre_busqueda": "registro de prestadores médicos ANSV",
+    "resumen": "Inscribí un centro médico ante la Agencia Nacional de Seguridad Vial para que funcione como prestador habilitado. Es gratuito, se hace online por TAD y la ANSV valida la documentación en hasta 5 días hábiles.",
+    "sinonimos": [
+      "registro de prestadores médicos",
+      "habilitar un centro médico para la licencia de conducir",
+      "inscripción de médicos en la ANSV"
+    ],
+    "temas": [
+      "licencia-de-conducir",
+      "salud-y-prevencion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Agencia Nacional de Seguridad Vial",
+    "sigla": "ANSV",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Médicos y médicas responsables de centros médicos, como personas humanas.",
+      "Instituciones de salud, como personas jurídicas."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI vigente",
+        "aclaracion": "Solo si sos persona humana."
+      },
+      {
+        "texto": "Constancia de CUIT",
+        "aclaracion": "Solo si sos persona humana."
+      },
+      {
+        "texto": "Habilitación jurisdiccional",
+        "aclaracion": "La piden tanto a personas humanas como jurídicas."
+      },
+      {
+        "texto": "Otros datos requeridos en el formulario",
+        "aclaracion": "Solo si sos persona humana."
+      },
+      {
+        "texto": "Contrato social y sus modificaciones",
+        "aclaracion": "Solo si sos persona jurídica."
+      },
+      {
+        "texto": "Designación de autoridades",
+        "aclaracion": "Solo si sos persona jurídica."
+      },
+      {
+        "texto": "Poderes legales",
+        "aclaracion": "Solo si sos persona jurídica."
+      },
+      {
+        "texto": "Otros datos requeridos en el formulario",
+        "aclaracion": "Solo si sos persona jurídica."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma de TAD con tu usuario de ARCA, ANSES, Mi Argentina o DNI."
+      },
+      {
+        "texto": "Completá o validá tus datos."
+      },
+      {
+        "texto": "Seleccioná si sos persona humana o jurídica."
+      },
+      {
+        "texto": "Adjuntá la documentación que corresponde a tu caso."
+      },
+      {
+        "texto": "Completá los datos que pide el formulario."
+      },
+      {
+        "texto": "Enviá la solicitud y esperá la validación."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "Hasta 5 días hábiles para que la Agencia Nacional de Seguridad Vial evalúe la documentación.",
+    "consejos": [
+      "Cuando la ANSV aprueba la solicitud, el centro queda habilitado para operar como prestador."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "Inscripción en el registro",
+      "gratis": true,
+      "monto_centavos": null,
+      "vigente_desde": null,
+      "nota": "El trámite es gratuito.",
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribirse-en-el-registro-de-prestadores-medicos"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribirse-en-el-registro-de-prestadores-medicos",
+      "titulo": "Inscribirse en el registro de prestadores médicos | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T00:13:39.155Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se explica cómo se obtiene la habilitación jurisdiccional.",
+    "No se aclara si el trámite requiere turno.",
+    "No se detalla qué otros datos pide el formulario."
+  ]
+}

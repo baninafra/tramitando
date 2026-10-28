@@ -1,0 +1,108 @@
+{
+  "tramite": {
+    "slug": "solicitar-matricula-de-corredor",
+    "nombre": "Solicitar matrícula de corredor",
+    "nombre_busqueda": "Solicitar matrícula de corredor",
+    "resumen": "Para obtener la matrícula de Corredor no inmobiliario en la Ciudad Autónoma de Buenos Aires, necesitás presentar varios documentos protocolizados, una nota de presentación y pagar una tasa.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad",
+      "emprendedores-y-monotributo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Interesados en obtener la matrícula de Corredor, con domicilio en la Ciudad Autónoma de Buenos Aires."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario denominado Matrícula de Corredores no inmobiliarios.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado emitido por el Registro Nacional de Reincidencia y Estadística Carcelaria que acredite la inexistencia de antecedentes penales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia del Archivo General del Poder Judicial sobre pedidos de quiebra contra el interesado o presentación en concurso preventivo del mismo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de presentación donde deberás indicar los datos personales del solicitante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración jurada, por escrito, de dos testigos con sus firmas certificadas por Escribano Público.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de depósito bancario en pesos argentinos intransferible a la orden de la Inspección General de Justicia o seguro de caución.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia protocolar de la documentación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia certificada y legalizada del título universitario conforme a la Ley Nº 20.266, reformada por la Ley Nº 25.028 o certificado de aprobación de examen de idoneidad si lo hubiere obtenido con anterioridad a la vigencia de dicha reforma legal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago de la tasa retributiva de servicios a nombre de quien lo solicita.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si sos menor de edad, deberás presentar, junto al resto de la documentación, copia auténtica del instrumento de la emancipación civil o la autorización para el ejercicio del comercio con la constancia de su inscripción.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el formulario del trámite y toda la documentación indicada en la Mesa General de Entradas de la Inspección General de Justicia."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 50000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-matricula-de-corredor"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-matricula-de-corredor",
+      "titulo": "Solicitar matrícula de Corredor | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T10:06:06.605Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La constancia del Archivo General del Poder Judicial sobre pedidos de quiebra contra el interesado o presentación en concurso preventivo del mismo debe solicitarse en el Palacio de Tribunales, Talcahuano Nº 550, subsuelo, de 8:00 a 13:00 hs., mediante la presentación de una nota."
+  ]
+}

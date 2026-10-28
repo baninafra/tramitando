@@ -1,0 +1,139 @@
+{
+  "tramite": {
+    "slug": "prorroga-residencia-temporaria-estudiante",
+    "nombre": "Obtener una prórroga de residencia temporaria como estudiante",
+    "nombre_busqueda": "prorroga residencia temporaria estudiante",
+    "resumen": "Se otorga una prórroga de un año a personas extranjeras que obtuvieron residencia como estudiantes y desean extender su permanencia en el país cursando estudios reconocidos.",
+    "sinonimos": [
+      "extensión residencia estudiante",
+      "prórroga residencia temporaria"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria",
+      "residencias-temporarias-y-permanentes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Migraciones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas extranjeras que hayan obtenido una residencia temporaria en la categoría de estudiante y deseen extender su permanencia.",
+      "Alumnos regulares en establecimientos educativos públicos o privados reconocidos oficialmente."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento Nacional de Identidad o Pasaporte válido y vigente (todas las nacionalidades).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Nacionalidad emitido por autoridad Consular, con fotografía y legalizado por el Ministerio de Relaciones Exteriores, Comercio Internacional y Culto de la Nación (solo si no se tiene DNI o Pasaporte).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Antecedentes Penales Argentinos emitido por el Registro Nacional de Reincidencia (Solo exigible a mayores de 16 años).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de alumno regular, legalizado por el Ministerio de Educación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado analítico con materias aprobadas, legalizado por el Ministerio de Educación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de la institución (si se trata de Postgrado o Maestría), legalizada por el Ministerio de Educación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación expedida en el extranjero debe contar con la legalización del Consulado Argentino o ser Apostillada (si el país ratificó el Convenio de La Haya).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación expedida por representaciones consulares en el territorio nacional debe contar con la legalización del Ministerio de Relaciones Exteriores, Comercio Internacional y Culto (excepto MERCOSUR).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación en idioma extranjero debe contar con traducción al castellano efectuada por Traductor Público Nacional y legalizada por el Colegio de Traductores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La documentación a presentar debe ser original.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá tu trámite a distancia ingresando en el sistema RaDEX."
+      },
+      {
+        "texto": "Registrate como usuario."
+      },
+      {
+        "texto": "Completá el formulario de solicitud y aboná las tasas correspondientes."
+      },
+      {
+        "texto": "Adjuntá la documentación y datos requeridos según el tipo de residencia a la que quieras aplicar."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Si cumplís con los requisitos para formalizar tu solicitud, recibirás un email con la fecha de tu cita presencial."
+      },
+      {
+        "texto": "Presentá la documentación original y el Certificado de Antecedentes Penales Argentinos (si es mayor de 16 años) el día de la cita."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "1 años",
+    "consejos": [
+      "Las tramitaciones ante la Dirección Nacional de Migraciones son personales y sencillas, no se necesita la asistencia de un gestor.",
+      "Es necesario que te encuentres dentro del territorio de la República Argentina.",
+      "Podés realizar tu trámite con cita preferencial abonando un monto adicional."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-una-prorroga-de-residencia-temporaria-como-estudiante",
+      "titulo": "Obtener una prórroga de residencia temporaria como estudiante | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T06:45:35.732Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T06:45:35.732Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/cdn-cgi/content?id=zbioIdjH3uHEzNLybzJKLVLQUmRhcTQ2cmDoLP7VnA8-1792994882.872248-1.2.1.1-dyeoHzwv7nJQwHwvdwuhoDiw6jpLWIcNaw1yK6HuxwrkMtiqzYAfnaYIYOtJO6JZ",
+      "titulo": "Nutrigenomics: The Science of Personalized Nutrition",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T06:45:35.732Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de las tasas migratorias no está especificado en el texto, solo se indica que se deben abonar en el sistema RaDEX.",
+    "La fecha de vigencia de la resolución que otorga la prórroga no está especificada en el texto, solo se menciona que es de un año."
+  ]
+}

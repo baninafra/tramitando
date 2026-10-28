@@ -1,0 +1,162 @@
+{
+  "tramite": {
+    "slug": "habilitacion-comercial",
+    "nombre": "Habilitación comercial",
+    "nombre_busqueda": "Habilitación comercial",
+    "resumen": "Trámite para habilitar locales comerciales en Bahía Blanca. Requiere documentación personal, planos civiles y cumplimiento de requisitos específicos según la actividad.",
+    "sinonimos": [],
+    "temas": [
+      "comercio-e-industria",
+      "habilitacion-comercial"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titular de la actividad comercial",
+      "Socios en caso de sociedad"
+    ],
+    "requisitos": [
+      {
+        "texto": "Planilla de Consulta de habilitación realizada en la web",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano Civil conforme a obra y a uso con sellos municipales",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informe Técnico visado por el Colegio de incumbencia y actualizado (si es construcción sin permiso)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de consulta de habilitaciones generado por Ventanilla Única",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de DNI del titular",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción en AFIP",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción en ARBA",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de Empadronamiento Fiscal (firmar ante funcionario municipal)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración de activo fijo (firmar ante funcionario municipal)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de Cumplimiento Tributario para Habilitación emitido por Departamento de Recaudación",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contrato social inscripto (en caso de sociedad)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Condiciones de la instalación eléctrica",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informe seguridad por profesional matriculado (casos a pedido del Dpto. Habilitaciones)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Oblea de matafuego con carga vigente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Manipulador de alimentos, cursado y aprobado (en caso de ser solicitado por el Dpto de Habilitaciones)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cumplimiento de requisitos mínimos para locales donde elaboren alimentos (si aplica)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Registrarse en el sitio de Habilitaciones del municipio y darse de alta con DNI y contraseña."
+      },
+      {
+        "texto": "Hacer clic en Ingresar nueva consulta, seleccionar el tipo de habilitación y solicitar la planilla de consulta de habilitaciones comerciales."
+      },
+      {
+        "texto": "Ingresar la planilla de consulta de habilitaciones con datos personales/razón social, datos comerciales y características edilicias y de la actividad a desarrollar."
+      },
+      {
+        "texto": "Al concluir grabar todo."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentar la documentación solicitada en el Departamento de Habilitaciones."
+      },
+      {
+        "texto": "Se acompaña luego al contribuyente hasta Recaudaciones, se calcula la tasa de Habilitación Comercial y abona en caja."
+      },
+      {
+        "texto": "Posteriormente retira constancia de habilitación en trámite en Departamento de Habilitaciones."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Departamento de Habilitaciones",
+      "direccion": "Alsina 43",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/habilitaciones/comerciales/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/tramites/habilitaciones/comerciales/",
+      "titulo": "Habilitaciones Comerciales | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T08:26:22.553Z"
+    },
+    {
+      "url": "https://www.bahia.gob.ar/tramites/habilitaciones/comerciales/requisitos-minimos-para-locales-donde-elaboren-alimentos/",
+      "titulo": "Requisitos mínimos para locales donde elaboren alimentos | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "requisitos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T08:26:22.553Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Vigencia del trámite",
+    "Requisitos específicos para construcción sin permiso (intervención Departamento de Obras Particulares)",
+    "Horarios de atención (solo se indica rango general)"
+  ]
+}

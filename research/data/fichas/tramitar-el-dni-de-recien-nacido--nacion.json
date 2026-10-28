@@ -1,0 +1,109 @@
+{
+  "tramite": {
+    "slug": "tramitar-dni-recien-nacido",
+    "nombre": "Tramitar el DNI de recién nacido",
+    "nombre_busqueda": "DNI recién nacido",
+    "resumen": "Si sos mamá o papá de un bebé recién nacido, tenés que tramitarle su primer ejemplar de DNI. Con este trámite tu hijo será incorporado a la base de datos del Renaper y así podrás validar su identidad.",
+    "sinonimos": [
+      "DNI primer ejemplar",
+      "DNI recién nacido"
+    ],
+    "temas": [
+      "dni"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Renaper",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A todas las personas que nunca hayan tramitado un DNI, desde el nacimiento hasta los seis (6) meses de edad."
+    ],
+    "requisitos": [
+      {
+        "texto": "Copia certificada de la partida de nacimiento con o sin oblea, la que deberá contar con sello y firma del oficial público en tinta o extendida con firma digital, sin importar su fecha de expedición.",
+        "aclaracion": null
+      },
+      {
+        "texto": "O Certificado de nacimiento original con o sin oblea o número manuscrito, con firma del oficial público o extendida digitalmente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado médico si corresponde acreditar algún impedimento, alteración o excepción relativo a la toma de datos biométricos (foto, huella o firma).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acompañamiento del padre, madre o representante legal; y su DNI.",
+        "aclaracion": "Si es para un menor de 14 años."
+      },
+      {
+        "texto": "Acreditación del representante legal, cuando corresponda: Oficio judicial o testimonio de tutela del menor. Es otorgada por el juzgado. Debe contar con sello y firma del juez o del Secretario o funcionario autorizado a extender oficios en cumplimiento de mandas judiciales.",
+        "aclaracion": "Si es para un menor de 14 años."
+      },
+      {
+        "texto": "Si el menor se encuentra en un hogar: Autorización de representación firmada y sellada por la autoridad competente que corresponda.",
+        "aclaracion": "Si es para un menor de 14 años."
+      },
+      {
+        "texto": "Oficio judicial o testimonio de guarda provisoria con fines de adopción. Debe contar con sello y firma del juez, secretario o funcionario autorizado a extender oficios en cumplimiento de mandas judiciales.",
+        "aclaracion": "Si es para un menor de 14 años."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Elegí el Registro Civil más cercano a tu domicilio o sacá turno para un Centro de Documentación Renaper en la app Mi Argentina."
+      },
+      {
+        "texto": "Guardá la constancia de solicitud de trámite y hacé el seguimiento online con tu ID desde aquí."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en la oficina elegida con la constancia de turno."
+      },
+      {
+        "texto": "Retiralo en la oficina con la constancia de solicitud de trámite."
+      },
+      {
+        "texto": "O, si va el correo a tu domicilio, recibilo vos o alguien mayor de 18 años con la constancia de solicitud de trámite."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tramitar-el-dni-de-recien-nacido",
+      "titulo": "Tramitar el DNI de recién nacido | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T17:54:12.620Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T17:54:12.620Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica si se requiere turno para menores de 14 años o si hay excepciones para casos especiales.",
+    "El texto no indica si se puede realizar el trámite exclusivamente online sin necesidad de acudir a una oficina para la entrega del documento.",
+    "El texto no especifica si se requiere turno para casos de personas mayores de 14 años o mayores de 14 años."
+  ]
+}

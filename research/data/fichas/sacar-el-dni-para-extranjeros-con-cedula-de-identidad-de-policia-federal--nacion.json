@@ -1,0 +1,99 @@
+{
+  "tramite": {
+    "slug": "sacar-el-dni-para-extranjeros-con-cedula-de-identidad-de-policia-federal",
+    "nombre": "Sacar el DNI para extranjeros con cédula de identidad de policía federal",
+    "nombre_busqueda": "Sacar el DNI para extranjeros con cédula de identidad de policía federal",
+    "resumen": "Si sos extranjero con residencia antes del 12 de diciembre de 1984 y tenés la Cédula de Identidad de Policía Federal, podés sacar el nuevo DNI con turno en la sede de Hipólito Irigoyen 952 o en la sede de Av. Antártida Argentina 1355.",
+    "sinonimos": [],
+    "temas": [
+      "dni",
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Extranjeros que tramitaron la residencia antes del 12 de diciembre de 1984 y tienen la Cédula emitida por la Policía Federal."
+    ],
+    "requisitos": [
+      {
+        "texto": "Cédula de Identidad donde conste que tenés la radicación permanente, en buen estado de conservación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Radicación que expide la Dirección Nacional de Migraciones.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Pedí un turno en línea para la sede que te corresponda: si tenés la residencia, elegí la opción de Hipólito Irigoyen 952; si no la tenés, sacá el turno para Av. Antártida Argentina 1355, donde también podés iniciar el trámite de residencia."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Te presentás ese día con la documentación correspondiente y al finalizar el trámite te entregan una constancia de DNI en trámite."
+      },
+      {
+        "texto": "Aguardá a que el DNI llegue a tu domicilio por Correo Postal."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Esta constancia no es una acreditación de identidad."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 30000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/sacar-el-dni-para-extranjeros-con-cedula-de-identidad-de-policia-federal"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Sede Hipólito Irigoyen 952",
+      "direccion": "Hipólito Irigoyen 952",
+      "localidad": "Ciudad de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/sacar-el-dni-para-extranjeros-con-cedula-de-identidad-de-policia-federal"
+    },
+    {
+      "nombre": "Sede Av. Antártida Argentina 1355",
+      "direccion": "Av. Antártida Argentina 1355",
+      "localidad": "Ciudad de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/sacar-el-dni-para-extranjeros-con-cedula-de-identidad-de-policia-federal"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/sacar-el-dni-para-extranjeros-con-cedula-de-identidad-de-policia-federal",
+      "titulo": "Sacar el DNI para extranjeros con Cédula de Identidad de Policía Federal | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T04:11:23.998Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Fecha de vigencia del trámite",
+    "Plazo de entrega del DNI",
+    "Dirección exacta de la sede para quienes no tienen residencia"
+  ]
+}

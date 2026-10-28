@@ -1,0 +1,76 @@
+{
+  "tramite": {
+    "slug": "exposiciones-civiles",
+    "nombre": "Exposiciones Civiles",
+    "nombre_busqueda": "Exposición civil",
+    "resumen": "Trámite para resolver conflictos entre vecinos, como accidentes en la vía pública sin lesionados o desvinculación de hogar.",
+    "sinonimos": [
+      "Exposición civil entre vecinos",
+      "Conflictos vecinales"
+    ],
+    "temas": [
+      "seguridad-y-denuncias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060638",
+  "organismo": {
+    "nombre": "Municipalidad del Pilar",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Vecinos o personas involucradas en conflictos entre vecinos."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Dirijite con toda la documentación requerida a Moreno 681 en Pilar Centro."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Mediación Comunitaria",
+      "direccion": "Pilar Centro Moreno 681",
+      "localidad": "Pilar Centro",
+      "horario": null,
+      "fuente_url": "https://pilar.gov.ar/tramites/mediacion-comunitaria/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://pilar.gov.ar/tramites/mediacion-comunitaria/",
+      "titulo": "Mediación Comunitaria - Municipio Pilar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T16:37:28.033Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horarios de atención: lunes a viernes de 8 a 15 horas.",
+    "Número de teléfono: 0800 345 6864.",
+    "Correo electrónico: mediacioncomunitaria@pilar.gov.ar",
+    "Vigencia del trámite."
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "tramite": {
+    "slug": "solicitar-emision-del-documento-de-transito-dte-para-animales-vivos-y-subproductos-de",
+    "nombre": "Solicitar emisión del documento de tránsito DTe para animales vivos y subproductos",
+    "nombre_busqueda": "solicitar emision documento transito dte animales vivos subproductos",
+    "resumen": "Para el movimiento de animales y subproductos dentro del territorio argentino tenés que tramitar el Documento de Tránsito Electrónico (DT-e). Es un trámite semipresencial que requiere inscripción en el Registro Nacional Sanitario de Productores Agropecuarios (RENSPA) y declaración de domicilio electrónico.",
+    "sinonimos": [
+      "emision documento transito dte animales vivos",
+      "documento transito dte subproductos origen animal"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Toda persona física o jurídica responsable ante el organismo de la tenencia permanente o transitoria de animales o subproductos de origen animal que requiera realizar el movimiento de los mismos.",
+      "Productores agropecuarios / consignatarios de hacienda que requieran realizar movimientos de animales cualquier especie y también los subproductos de los mismos dentro del territorio argentino."
+    ],
+    "requisitos": [
+      {
+        "texto": "Inscripción en el Registro Nacional Sanitario de Productores Agropecuarios (RENSPA).",
+        "aclaracion": null
+      },
+      {
+        "texto": "En el caso de que sea realizado por un tercero, se requiere la autorización por parte del titular del Renspa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Movimientos de animales por autogestión: Clave fiscal tramitada en ARCA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "A partir del 1 de julio de 2018 será obligatoria la autogestión para los DT-e donde intervenga un consignatario de hacienda.",
+        "aclaracion": null
+      },
+      {
+        "texto": "A partir del 1 de agosto de 2018 para los establecimientos de engorde a corral.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Los DT-e de salida de Remate Feria se seguirán emitiendo a través del personal del Senasa, hasta tanto se modifique el sistema para poder realizarlos por autogestión, salvo en aquellos eventos que tengan como ORGANIZADOR y CONSIGNATARIO a la misma persona (mismo CUIT).",
+        "aclaracion": null
+      },
+      {
+        "texto": "En este último caso el rol a utilizar debe ser organizador de eventos concentradores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Registro obligatorio de domicilio electrónico mediante el sistema SIGTrámites.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar al sitio web de la ARCA."
+      },
+      {
+        "texto": "Por primera única vez, adherir al servicio SIGAD y SIGSA."
+      },
+      {
+        "texto": "Abonar el arancel que corresponda, ver los Medios de pago habilitados – Senasa."
+      },
+      {
+        "texto": "Completá los campos para la emisión de DT-e en el sistema SIGSA."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Andá a las oficinas del Senasa autorizadas y presentá la documentación."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Vigencia: Hasta la fecha de Vencimiento del Documento de Tránsito Electrónico (DT-e)."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Sanidad Animal Coordinación General de Sistemas de Gestión Sanitaria",
+      "direccion": "Av. Paseo Colón 367, piso 4º cfrente, C1063ACD, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-emision-del-documento-de-transito-dte-para-animales-vivos-y-subproductos-de"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-emision-del-documento-de-transito-dte-para-animales-vivos-y-subproductos-de",
+      "titulo": "Solicitar emisión del documento de tránsito (DTe) para animales vivos y subproductos de origen animal | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:51:19.976Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T08:51:19.976Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/centros-regionales",
+      "titulo": "Centros Regionales | Argentina.gob.ar",
+      "bloques": [
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T08:51:19.976Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no se especifica en el texto, consultar las Normativas relacionadas con los costos del trámite.",
+    "La fecha exacta de vigencia del documento no se especifica en el texto, solo se menciona que vence hasta la fecha de Vencimiento del Documento de Tránsito Electrónico (DT-e)."
+  ]
+}

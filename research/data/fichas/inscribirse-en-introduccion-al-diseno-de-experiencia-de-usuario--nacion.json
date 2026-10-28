@@ -1,0 +1,84 @@
+{
+  "tramite": {
+    "slug": "inscripcion-a-cursos-online",
+    "nombre": "Inscribirse en cursos online",
+    "nombre_busqueda": "Inscribirse en cursos online",
+    "resumen": "Podés inscribirte en cursos online gratuitos a través de la plataforma Mi Argentina. El trámite es autoasistido y no requiere turno.",
+    "sinonimos": [
+      "Inscripción cursos online",
+      "Matricularse cursos virtuales"
+    ],
+    "temas": [
+      "cursos-y-formacion-laboral"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas interesadas, sin conocimiento previo de la temática."
+    ],
+    "requisitos": [
+      {
+        "texto": "Contar con una cuenta de Mi Argentina para ingresar a la plataforma.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Hacé clic en el botón Inscribirse que figura en esta página."
+      },
+      {
+        "texto": "Ingresá a Mi Argentina con tu CUIL y contraseña personal."
+      },
+      {
+        "texto": "Pulsá Ingresar para ver tu nombre en la esquina superior derecha."
+      },
+      {
+        "texto": "Hacé clic en Matricularme para estar dentro del curso."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribirse-en-introduccion-al-diseno-de-experiencia-de-usuario",
+      "titulo": "Inscribirse en Introducción al diseño de experiencia de usuario | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T17:38:42.295Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien",
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-26T17:38:42.295Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha límite de inscripción es hasta el 9 de noviembre.",
+    "La cursada se realiza del 3 de noviembre al 14 de diciembre.",
+    "La carga horaria estimada es de 10 horas.",
+    "El curso incluye descarga de certificado de participación tras completar la encuesta de satisfacción."
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "tramite": {
+    "slug": "pago-de-tasas-por-poda-de-arboles",
+    "nombre": "Pago de tasas por poda de árboles",
+    "nombre_busqueda": "Pago tasas arboles poda anisacate",
+    "resumen": "La Municipalidad de Anisacate cobra tasas por la poda de árboles en el predio del propietario. El monto depende del tipo de poda y la cantidad de árboles.",
+    "sinonimos": [
+      "Pago tasa poda arboles",
+      "Tasa poda verde anisacate"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "poda-y-arbolado"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141375",
+  "organismo": {
+    "nombre": "Municipalidad de Anisacate",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Propietarios de predios en el área de influencia de la Municipalidad de Anisacate."
+    ],
+    "requisitos": [
+      {
+        "texto": "Presentar el título de propiedad del predio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar el DNI del propietario o del representante legal.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acudí a la oficina de la Municipalidad de Anisacate."
+      },
+      {
+        "texto": "Presentá el título de propiedad y el DNI."
+      },
+      {
+        "texto": "Completá el formulario de solicitud de pago de tasas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá el monto exacto de la tasa según el tipo de poda y la cantidad de árboles antes de ir a la oficina."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://anisacatemunicipio.gob.ar/download/ordenanza-150-arboles-por-tasas/",
+      "titulo": "ORDENANZA 150 (Arboles por tasas) – Municipalidad de Anisacate",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T08:07:42.515Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa por poda de árboles.",
+    "La dirección exacta de la oficina para realizar el pago.",
+    "Si se requiere turno para realizar el trámite.",
+    "El plazo estimado para la resolución de la solicitud."
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "tramite": {
+    "slug": "inscripcion-de-defunciones",
+    "nombre": "Inscripción de defunciones",
+    "nombre_busqueda": "Inscribir defunción",
+    "resumen": "Este trámite permite solicitar la inscripción del fallecimiento de una persona en el registro civil correspondiente a la localidad de fallecimiento.",
+    "sinonimos": [],
+    "temas": [
+      "partidas-y-actas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141498",
+  "organismo": {
+    "nombre": "Municipalidad de Tancacha",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "La persona que solicita la inscripción del fallecimiento."
+    ],
+    "requisitos": [
+      {
+        "texto": "Certificado médico de defunción emitido por un profesional habilitado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del fallecido (original).",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI de la persona que solicita la inscripción del fallecimiento (original y copia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Que la inscripción se realice dentro de las 48hs hábiles luego de ocurrido el fallecimiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Caso de muerte fetal: DNI de los progenitores y Certificado de Defunción fetal (original y copia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Caso de persona nacida con vida: Se debe realizar la inscripción del nacimiento, la inscripción de la defunción y presentar el DNI de los progenitores.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Persona sin DNI por haberse extraviado, robado o hurtado: Exposición o denuncia policial de extravío, robo o hurto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración Jurada de identidad con dos testigos de conocimiento ante la autoridad competente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1050000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.tancacha.gob.ar/defunciones.html"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 500000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.tancacha.gob.ar/defunciones.html"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.tancacha.gob.ar/defunciones.html",
+      "titulo": "Municipalidad de Tancacha",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T09:49:04.251Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina para realizar el trámite.",
+    "Horarios de atención de la oficina.",
+    "Vigencia exacta del trámite según la resolución vigente."
+  ]
+}

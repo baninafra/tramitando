@@ -1,0 +1,127 @@
+{
+  "tramite": {
+    "slug": "registro-de-profesionales-de-obras-particulares",
+    "nombre": "Registro de profesionales de obras particulares",
+    "nombre_busqueda": "Registro de profesionales de obras particulares",
+    "resumen": "Declaración jurada para publicar datos de contacto como profesional en la Municipalidad de Chacabuco.",
+    "sinonimos": [],
+    "temas": [
+      "obras-y-construccion",
+      "profesionales-de-la-construccion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060210",
+  "organismo": {
+    "nombre": "Municipalidad de Chacabuco",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Profesionales que deseen publicar sus datos de contacto como profesional en la Municipalidad de Chacabuco."
+    ],
+    "requisitos": [
+      {
+        "texto": "Apellido",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombre",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fecha de nacimiento",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio electrónico",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio real",
+        "aclaracion": null
+      },
+      {
+        "texto": "Teléfono",
+        "aclaracion": null
+      },
+      {
+        "texto": "Teléfono alternativo",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de CUIT",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título profesional",
+        "aclaracion": null
+      },
+      {
+        "texto": "Credencial del colegio o consejo profesional o comprobante de pago de matrícula vigente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Foto actual (de frente, tipo carnet)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comentarios u observaciones particulares",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario con tus datos personales y profesionales."
+      },
+      {
+        "texto": "Adjuntá el documento de DNI en formato PDF."
+      },
+      {
+        "texto": "Adjuntá la constancia de CUIT en formato PDF."
+      },
+      {
+        "texto": "Seleccioná tu título profesional y adjuntalo en PDF."
+      },
+      {
+        "texto": "Adjuntá tu credencial del colegio o consejo profesional, o el comprobante de pago de matrícula vigente, en PDF."
+      },
+      {
+        "texto": "Adjuntá una foto actual de frente, tipo carnet."
+      },
+      {
+        "texto": "Inscribí tus comentarios u observaciones particulares."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://tramites.chacabuco.gob.ar/profesionales/",
+      "titulo": "Registro de Profesionales",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T04:54:35.517Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos de quién puede realizar el trámite más allá de la intención de publicar datos.",
+    "No se especifican plazos de respuesta o validación del registro.",
+    "No se especifican costos asociados al trámite."
+  ]
+}

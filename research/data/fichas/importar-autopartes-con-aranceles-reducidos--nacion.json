@@ -1,0 +1,104 @@
+{
+  "tramite": {
+    "slug": "importar-autopartes-con-aranceles-reducidos",
+    "nombre": "Importar autopartes con aranceles reducidos",
+    "nombre_busqueda": "importar autopartes aranceles reducidos",
+    "resumen": "Las empresas fabricantes de productos automotores pueden importar autopartes con aranceles reducidos del 2% o 8% si cumplen requisitos específicos y tienen certificación de INTI.",
+    "sinonimos": [],
+    "temas": [
+      "emprendedores-y-monotributo",
+      "comercio-e-industria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas fabricantes de productos automotores",
+      "Empresas que incorporen autopartes importadas a sus procesos"
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener CUIT y Clave Fiscal (nivel 2 o superior)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contar con Trámites a Distancia (TAD) asociado a ARCA",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contar con certificación de carácter de fabricante otorgada por el Instituto Nacional de Tecnología Industrial (INTI) o la Cámara Empresarial con personería jurídica representativa del sector",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener una empresa fabricante de productos automotores",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD con tu CUIT y clave fiscal"
+      },
+      {
+        "texto": "Escribí en el buscador 'Registro de Productores (Exención arancelaria 2%)'"
+      },
+      {
+        "texto": "Adjuntá la información para completar el formulario de inscripción"
+      },
+      {
+        "texto": "Adjuntá el certificado de fabricante"
+      },
+      {
+        "texto": "Adjuntá una nota en carácter de Declaración Jurada de los bienes a importar en formato Excel, especificando los bienes a importar, su descripción específica, su posición arancelaria en la Nomenclatura Común del Mercosur (NCM) y la descripción de los bienes que con ellos se producen"
+      },
+      {
+        "texto": "Una vez completado el trámite, vas a recibir un mensaje en Notificaciones de TAD con el resultado"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/importar-autopartes-con-aranceles-reducidos",
+      "titulo": "Importar autopartes con aranceles reducidos | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T16:28:21.537Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/produccion/consulta-importar-autopartes-con-aranceles-reducidos",
+      "titulo": "Envianos tu consulta sobre el trámite de importar autopartes con aranceles reducidos | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T16:28:21.537Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T16:28:21.537Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los montos exactos de los aranceles reducidos (2% y 8%) aplican según las categorías específicas de los bienes importados y no se detallan en el texto como valores fijos en pesos."
+  ]
+}

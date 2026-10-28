@@ -1,0 +1,100 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-actualizacion-de-monografia-del-producto-en-investigacion",
+    "nombre": "Solicitud de actualización de monografía del producto en investigación",
+    "nombre_busqueda": "Actualizar monografía producto investigación",
+    "resumen": "Este trámite permite a los patrocinadores de estudios clínicos actualizar la monografía de un producto en investigación ante ANMAT. Se requiere presentar la versión final del documento, el resumen de cambios y el último EFCA4 presentado.",
+    "sinonimos": [
+      "Actualización MPI",
+      "Actualización monografía clínica"
+    ],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMAT",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Patrocinadores de estudios clínicos que presenten solicitud de presentación de actualización de monografía del producto en investigación (EFCA 4) dentro del ámbito de aplicación y alcance de la Disposición 7516/25."
+    ],
+    "requisitos": [
+      {
+        "texto": "Monografía del producto en investigación actualizada (versión final)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Resumen de los cambios realizados contra la última edición enviada",
+        "aclaracion": null
+      },
+      {
+        "texto": "Último EFCA4 presentado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Disposición Autorizante",
+        "aclaracion": null
+      },
+      {
+        "texto": "Recibo de pago del trámite",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario EFCA 4 completo",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Presentá la solicitud en la plataforma de ensayos clínicos ECLIN si el estudio fue autorizado en dicha plataforma."
+      },
+      {
+        "texto": "Presentá la solicitud a través de la plataforma de Trámites a Distancia (TAD) con la carátula correspondiente si el estudio fue autorizado previamente a la implementación de ECLIN o si hay estudios aprobados en ambos sistemas."
+      },
+      {
+        "texto": "Si no hay nueva actualización anual sobre el Producto en Investigación, presentá una nota con la información bajo la carátula \"ANMA00206 - Comunicaciones sobre Ensayos de Farmacología Clínica\" explicándolo."
+      },
+      {
+        "texto": "Asegurá que la información de fecha y versión del documento consignada en el campo correspondiente coincida con el documento que obra en el PDF."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitud-de-actualizacion-de-monografia-del-producto-en-investigacion",
+      "titulo": "Solicitud de actualización de monografía del producto en investigación | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T16:58:24.621Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T16:58:24.621Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere un monto de pago para el trámite, pero no se especifica en el texto.",
+    "No se indica si el trámite requiere turno.",
+    "No se especifica el plazo de resolución del trámite."
+  ]
+}

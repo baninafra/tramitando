@@ -1,0 +1,71 @@
+{
+  "tramite": {
+    "slug": "tasa-vial",
+    "nombre": "Pagar la tasa vial",
+    "nombre_busqueda": "tasa por conservación de caminos rurales",
+    "resumen": "La tasa financia la conservación, reparación y mejorado de calles y caminos rurales municipales. El importe se establece en la Ordenanza Impositiva Anual y varía según la cantidad de hectáreas.",
+    "sinonimos": [
+      "Tasa por Conservación, Reparación y Mejorado de la Red Vial Municipal"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "caminos-rurales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060287",
+  "organismo": {
+    "nombre": "Municipalidad de General Alvear",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "La página describe la tasa para quienes deben abonarla según la escala de hectáreas."
+    ],
+    "requisitos": [
+      {
+        "texto": "La escala contempla de 0 a 200 hectáreas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La escala contempla más de 200 y hasta 500 hectáreas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La escala contempla más de 500 y hasta 1000 hectáreas.",
+        "aclaracion": null
+      },
+      {
+        "texto": "La escala contempla más de 1000 hectáreas.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://munialvear.gov.ar/tasa-vial/",
+      "titulo": "Tasa Vial - Municipalidad de General Alvear",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T12:41:57.359Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no detalla cómo se realiza el pago ni si el trámite se completa en línea o en una oficina.",
+    "El texto no especifica los importes de la tasa.",
+    "El texto no indica quiénes deben abonarla ni cómo se determina la cantidad de hectáreas aplicable."
+  ]
+}

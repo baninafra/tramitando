@@ -1,0 +1,72 @@
+{
+  "tramite": {
+    "slug": "defensa-del-consumidor",
+    "nombre": "Defensa del Consumidor - Reclamos ante OMIC",
+    "nombre_busqueda": "Reclamos OMIC Bahía Blanca",
+    "resumen": "El reclamo debe hacerse por escrito ante la empresa prestadora del servicio. Si no hay respuesta en los plazos establecidos, se puede formalizar el reclamo ante OMIC.",
+    "sinonimos": [
+      "Reclamos ante OMIC",
+      "Quejas OMIC",
+      "Denuncias OMIC"
+    ],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "OMIC",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier usuario que tenga que reclamar por alguna cuestión sobre cualquier servicio público."
+    ],
+    "requisitos": [
+      {
+        "texto": "Reclamo por escrito ante la empresa prestadora del servicio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Libro de quejas (opcional).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota en duplicado (opcional).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informe técnico sobre la falla (si aplica).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/omic/reclamos/",
+      "titulo": "Reclamos | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T03:06:35.496Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se especifica que el reclamo se debe hacer en primer lugar siempre por escrito ante la empresa prestadora, pero no se detalla el procedimiento exacto para formalizar el reclamo ante OMIC si la empresa no responde.",
+    "No se especifica la dirección, horario ni requisitos para acudir a OMIC para formalizar el reclamo si la empresa no responde.",
+    "No se especifica el monto de los costos para formalizar el reclamo ante OMIC."
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "tramite": {
+    "slug": "avisos-de-obra",
+    "nombre": "Aviso de obra",
+    "nombre_busqueda": "avisos de obra",
+    "resumen": "Comunicá a la Dirección General de Obras Particulares trabajos de poca envergadura que no requieren permiso de obra y están detallados en el artículo 20 de la Ordenanza 10681.",
+    "sinonimos": [
+      "aviso de obra"
+    ],
+    "temas": [
+      "obras-y-construccion",
+      "permiso-de-obra-y-planos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060441",
+  "organismo": {
+    "nombre": "Dirección General de Obras Particulares",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés hacer el trámite como propietario o profesional."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota dirigida al Director General de Obras Particulares para solicitar el aviso de obra.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos de la propiedad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos del profesional responsable.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descripción de las tareas que no requieren permiso de obra, según el artículo 21 de la Ordenanza 10681/10.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de dominio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Timbrado correspondiente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Prepará una nota para solicitar el aviso de obra e incluí los datos de la propiedad, del profesional responsable, la descripción de las tareas y las fotos."
+      },
+      {
+        "texto": "Llevá el certificado de dominio y el timbrado correspondiente."
+      },
+      {
+        "texto": "Sacá un turno previo en línea."
+      },
+      {
+        "texto": "Presentá la documentación en forma presencial."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://turnos.laplata.gob.ar/misdatos",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Centro Administrativo Municipal",
+      "direccion": "Diagonal 80 N° 942 esquina 48",
+      "localidad": "La Plata",
+      "horario": null,
+      "fuente_url": "https://tramites.laplata.gob.ar/obrasparticulares/avisos-de-obra.html"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://tramites.laplata.gob.ar/obrasparticulares/avisos-de-obra.html",
+      "titulo": "Obras Particulares - Municipalidad de La Plata",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T14:16:38.498Z"
+    },
+    {
+      "url": "https://cam.laplata.gob.ar/index.html",
+      "titulo": "Centro Administrativo Municipal",
+      "bloques": [
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T14:16:38.498Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no precisa el monto del timbrado.",
+    "No se indica el plazo del trámite.",
+    "No se especifica la URL para solicitar el turno de Avisos de Obra."
+  ]
+}

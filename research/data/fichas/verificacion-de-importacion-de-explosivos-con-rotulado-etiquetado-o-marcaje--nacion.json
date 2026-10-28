@@ -1,0 +1,84 @@
+{
+  "tramite": {
+    "slug": "verificacion-importacion-explosivos",
+    "nombre": "Verificación de importación de explosivos con rotulado, etiquetado o marcaje",
+    "nombre_busqueda": "Verificación importación explosivos rotulado",
+    "resumen": "Trámite para solicitar la verificación de importación de explosivos sin rotulado, etiquetado o marcaje de origen, requiriendo presentación de documentación específica y pago de tasas.",
+    "sinonimos": [
+      "Verificación importación explosivos sin marcaje",
+      "Solicitud verificación explosivos ANMaC"
+    ],
+    "temas": [
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración Nacional de Medicamentos, Alimentos y Tecnología",
+    "sigla": "ANMaC",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El usuario que opte por esta modalidad de solicitud de verificación."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documentación comprendida en el apartado 3 del Anexo II de la Disp. 162/18.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditación indubitada de la imposibilidad de lograr que los productos ingresen al país rotulados, etiquetados o marcados de origen según la exigencia de las normas jurídicas de aplicación en el territorio nacional.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Información suficiente que permita la identificación del material sin inducir a error o engaño.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del Certificado de Registro del Producto extendido por la ANMaC.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Centro de Atención de ANMaC que prefieras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 100000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/verificacion-de-importacion-de-explosivos-con-rotulado-etiquetado-o-marcaje"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/verificacion-de-importacion-de-explosivos-con-rotulado-etiquetado-o-marcaje",
+      "titulo": "Verificación de Importación de explosivos con rotulado, etiquetado o marcaje | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T00:46:35.830Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere sacar turno o concurrir presencialmente, pero no se especifica si se puede hacerlo online ni si se necesita turno en el texto."
+  ]
+}

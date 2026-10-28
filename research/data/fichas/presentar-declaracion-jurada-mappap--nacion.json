@@ -1,0 +1,99 @@
+{
+  "tramite": {
+    "slug": "presentar-declaracion-jurada-mappap",
+    "nombre": "Presentar Declaración Jurada MAPPAP",
+    "nombre_busqueda": "Presentar Declaración Jurada MAPPAP",
+    "resumen": "Debes presentar esta declaración si eres autoridad superior en la administración pública nacional al asumir, cambiar o cesar un cargo. Se realiza online con tu clave fiscal.",
+    "sinonimos": [
+      "Declaración Jurada MAPPAP",
+      "Declaración Jurada de Actividades Anteriores a la Función Pública",
+      "Declaración Jurada de Actividades al Egreso de la Función Pública"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Oficina Anticorrupción",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes ejercen cargos de autoridad superior en la administración pública nacional, centralizada y descentralizada, incluidas las autoridades superiores de todos los organismos de la Administración Pública Nacional, centralizada y descentralizada en cualquiera de sus formas, entidades autárquicas,…",
+      "Jefe/a de Gabinete de Ministros, Ministro/a, Secretario/a, Subsecretario/a."
+    ],
+    "requisitos": [
+      {
+        "texto": "Clave fiscal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI argentino.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración Jurada de Actividades Anteriores a la Función Pública con tu información personal y tus antecedentes laborales de los últimos tres (3) años anteriores al inicio del cargo por el cual es la primera vez que presentas esta declaración jurada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración Jurada de Actividades Anteriores a la Función Pública con tu información personal y tus antecedentes laborales de los últimos tres (3) años anteriores al inicio del nuevo cargo por el cual presentas esta declaración jurada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración Jurada de Actividades Anteriores a la Función Pública con tu información personal y tus antecedentes laborales de los últimos tres (3) años anteriores al inicio del cargo por el cual presentaste esta declaración jurada y necesitas corregir algún error.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración Jurada de Actividades al Egreso de la Función Pública con tu información personal y laboral al cese del cargo y hasta un (1) año posterior al egreso de la función pública.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la Plataforma de Trámites a Distancia TAD con tu clave fiscal."
+      },
+      {
+        "texto": "Seleccioná el trámite correspondiente: Inscripción, Rectificación/Actualización o Declaración Jurada de Actividades al Egreso de la Función Pública."
+      },
+      {
+        "texto": "Completá el formulario con la información solicitada."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/presentar-declaracion-jurada-mappap",
+      "titulo": "Presentar Declaración Jurada MAPPAP | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T00:54:12.231Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/anticorrupcion",
+      "titulo": "Oficina Anticorrupción | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T00:54:12.231Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia del trámite.",
+    "El plazo exacto en días hábiles para presentar la declaración tras una novedad."
+  ]
+}

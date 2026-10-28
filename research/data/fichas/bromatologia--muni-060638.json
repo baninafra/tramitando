@@ -1,0 +1,95 @@
+{
+  "tramite": {
+    "slug": "carnet-de-manipulacion-de-alimentos",
+    "nombre": "Carnet de manipulación de alimentos",
+    "nombre_busqueda": "Carnet manipulador alimentos",
+    "resumen": "El carnet de manipulador de alimentos reemplaza la libreta sanitaria y tiene una vigencia de 3 años. Se requiere examen aprobado, DNI, foto y pago de tasa.",
+    "sinonimos": [
+      "Carnet manipulador",
+      "Libreta sanitaria",
+      "Carnet manipulador de alimentos"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060638",
+  "organismo": {
+    "nombre": "Municipio Pilar",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes necesiten determinar su aptitud física para trabajar en actividades vinculadas a la manipulación de alimentos."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Foto",
+        "aclaracion": null
+      },
+      {
+        "texto": "Carnet",
+        "aclaracion": null
+      },
+      {
+        "texto": "Recibo de pago abonado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Examen aprobado",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Enviar por email el DNI (foto de ambos lados en formato PDF), la foto y el carnet (JPG o PNG con tamaño menor a 25 MB)."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Solicitar el recibo en la oficina de lunes a viernes de 08 a 14hs y abonarlo en efectivo, débito de banco o QR (no cheque, no transferencia)."
+      },
+      {
+        "texto": "Presentarse en la oficina con el material de estudio para rendir el examen de forma presencial."
+      },
+      {
+        "texto": "Rendir el examen en Av. Honorio Pueyrredón, Ruta 25 n° 1837, Villa Rosa, Buenos Aires, en el día y horario acordado."
+      },
+      {
+        "texto": "Recibir el carnet digital vía correo electrónico una vez aprobado el examen."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://pilar.gov.ar/tramites/bromatologia/",
+      "titulo": "Bromatología - Municipio Pilar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T16:33:00.012Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica el monto exacto de la tasa, solo indica consultar en la oficina."
+  ]
+}

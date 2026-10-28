@@ -1,0 +1,88 @@
+{
+  "tramite": {
+    "slug": "presentar-denuncias-de-capitalizacion-y-ahorro",
+    "nombre": "Presentar denuncias de capitalización y ahorro",
+    "nombre_busqueda": "Presentar denuncias de capitalización y ahorro",
+    "resumen": "Podés presentar una denuncia gratuita ante la Inspección General de Justicia sobre entidades de capitalización y ahorro que no estén autorizadas o incumplan su contrato. No necesitás patrocinio letrado.",
+    "sinonimos": [],
+    "temas": [
+      "seguridad-y-denuncias",
+      "denuncias-anonimas-y-policiales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": "IGJ",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en presentar una denuncia sobre entidades de capitalización y ahorro."
+    ],
+    "requisitos": [
+      {
+        "texto": "Relato de los hechos denunciados.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Denominación social de la entidad o sociedad contra la cual se realiza la denuncia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de la documentación pertinente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dirección de correo electrónico para recibir notificaciones.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá toda la documentación indicada en Mesa General de Entradas de la Inspección General de Justicia, Av. Paseo Colón 291."
+      },
+      {
+        "texto": "Esperá que os notifiquen mediante Vista, disponible por 10 días en Mesa General de Entradas del Organismo."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Las denuncias que involucren conflictos de derechos subjetivos entre el denunciante y la entidad administradora, sus concesionarios, agentes, o intermediarios, como así también de los agentes de los fabricantes o importadores de los bienes, deberán presentarse ante la autoridad de aplicación de la…"
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Mesa General de Entradas de la Inspección General de Justicia",
+      "direccion": "Av. Paseo Colón 291",
+      "localidad": "Av. Paseo Colón 291",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/presentar-denuncias-de-capitalizacion-y-ahorro"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/presentar-denuncias-de-capitalizacion-y-ahorro",
+      "titulo": "Presentar denuncias de Capitalización y Ahorro | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T01:06:55.839Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La dirección exacta del Departamento Control Federal de Ahorro para envío por carta certificada (Avenida Paseo Colón 285, 3er. piso) no se especifica en el texto.",
+    "El correo electrónico para consultas y reclamos no aparece en el texto."
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "tramite": {
+    "slug": "duplicado-de-certificado-especialista",
+    "nombre": "Duplicado de certificado de especialista",
+    "nombre_busqueda": "Duplicado de certificado por pérdida o robo especialista",
+    "resumen": "Trámite gratuito para obtener el duplicado del certificado de especialista de médicos, odontólogos, enfermeras, psicólogos y otros profesionales en el ámbito de la Ciudad Autónoma de Buenos Aires.",
+    "sinonimos": [
+      "Duplicado de certificado de especialista",
+      "Duplicado de certificado por pérdida o robo especialista"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Salud de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Profesionales que hayan obtenido el Certificado de Especialista otorgado por el Ministerio de Salud de la Nación."
+    ],
+    "requisitos": [
+      {
+        "texto": "Matrícula Nacional vigente (anverso y reverso).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Denuncia de Robo o extravío del Certificado de Especialista.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar al TAD."
+      },
+      {
+        "texto": "Seleccionar 'Solicitud de duplicado/Solicitud de certificado para presentar en el extranjero' con clave fiscal."
+      },
+      {
+        "texto": "Completar la DECLARACIÓN JURADA online en TAD."
+      },
+      {
+        "texto": "Subir la documentación requerida (Matrícula Nacional y Denuncia)."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Para hacer el Trámite a Distancia se recomienda ingresar desde una CPU a través del Mozilla Firefox o el Google Chrome, no mediante celulares.",
+      "El área de Especialistas procederá al análisis de la documentación presentada; en caso de cumplir con los requisitos, se recibirá una notificación vía TAD con el lugar, fecha y horario de continuidad del trámite."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/duplicado-de-certificado-por-perdida-o-robo",
+      "titulo": "Duplicado de certificado por pérdida o robo | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T15:42:30.091Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T15:42:30.091Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia del trámite.",
+    "El plazo estimado de resolución del expediente."
+  ]
+}

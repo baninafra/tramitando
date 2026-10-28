@@ -1,0 +1,113 @@
+{
+  "tramite": {
+    "slug": "informes-periodicos-finales-y-incumplimientos-graves-estudios-clinicos",
+    "nombre": "Presentar informes periódicos, finales y de incumplimientos graves",
+    "nombre_busqueda": "informes periodicos finales estudios clinicos anmat",
+    "resumen": "Los patrocinadores de estudios clínicos deben presentar informes periódicos, finales o de incumplimientos graves ante la ANMAT a través de la plataforma TAD.",
+    "sinonimos": [
+      "informes clínicos ANMAT",
+      "EFCA 5.1 y 5.2",
+      "informes de seguridad clínicos"
+    ],
+    "temas": [
+      "salud-y-prevencion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMAT",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Patrocinadores de estudios clínicos que presenten ante la ANMAT informes periódicos, finales y de incumplimientos graves dentro del ámbito de aplicación y alcance de la Disposición 7516/25."
+    ],
+    "requisitos": [
+      {
+        "texto": "Disposición Autorizante",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario EFCA 5.1 completo y firmado por el patrocinador",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario/s EFCA 5.2 completo/s y firmado/s por el investigador y patrocinador para cada uno de los centros dados de alta en el país",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informes del Comité Independiente de Monitoreo de Datos emitidos durante el período comprendido en el informe periódico (excepto si se presentaron bajo el formato de informes de seguridad)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Accedé a la plataforma de Trámites a Distancia (TAD) en tramitesadistancia.gob.ar."
+      },
+      {
+        "texto": "Ingresá al trámite 'Informes periódicos, finales y de desvíos en estudios de investigación clínica en farmacología'."
+      },
+      {
+        "texto": "Completá los formularios EFCA 5.1 y 5.2 con los datos requeridos según el tipo de informe (periódico, final o incumplimiento grave)."
+      },
+      {
+        "texto": "Verificá la correcta caratulación del trámite antes de enviarlo."
+      },
+      {
+        "texto": "Firmap y fechá los informes EFCA 5.1 y 5.2."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/instructivo-de-presentacion-de-informes-periodicos-finales-y-de-incumplimientos-graves",
+      "titulo": "Instructivo de presentación de informes periódicos, finales y de incumplimientos graves | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T05:36:40.091Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La periodicidad de la presentación está dada por la fecha de la disposición autorizante.",
+    "Los centros de investigación dados de alta con posterioridad deberán adaptar la presentación de los informes a la presentación global.",
+    "Se debe seleccionar el estado actual del estudio en todo el país: activo, cerrado y/o suspensión temporal.",
+    "Se debe detallar el período comprendido correspondiente al informe presentado.",
+    "Los informes deben ser consecutivos sin quedar días/semanas/meses no comprendidos en informes previos desde el alta del centro.",
+    "Se debe introducir la fecha en que fue autorizado el estudio en el país.",
+    "Se debe detallar los cambios administrativos que hubieran ocurrido en el estudio de referencia y que no hayan requerido una enmienda o presentación por expediente específico.",
+    "Este campo deberá completarse solo en caso de tratarse de informe final del estudio en el país: Número de participantes enrolados en el mundo.",
+    "Este campo deberá completarse solo en caso de tratarse de informe final del estudio en el país: Breve resumen de datos de eficacia y seguridad.",
+    "Este campo deberá completarse solo en caso de tratarse de informe final del estudio en el país: Datos de publicación.",
+    "Se debe detallar investigador principal, centro de investigación y seleccionar la situación del centro: Centro no iniciado/Estudio en curso/Finalizado.",
+    "Todos los centros de investigación dados de alta en el país deben incorporarse en el informe para dar cumplimiento a lo establecido en la normativa.",
+    "En caso de que algún/os de los centros no se incluya en el informe deberá detallarse en el siguiente recuadro.",
+    "Se debe detallar investigador principal, centro de investigación y seleccionar la situación por la que no se ha incluido la información del centro: Centro ya finalizado/Informe pendiente/Centro dado de baja.",
+    "En caso de seleccionar que el informe se encuentra pendiente se deberá presentar bajo nuevo expediente ni bien se encuentre disponible de modo de cumplir con los plazos que contempla la normativa.",
+    "En caso de que se hayan presentado, se deberá especificar fecha de la presentación ante ANMAT y descripción del evento y motivo de la seriedad del evento: fallecimiento, amenaza a la vida, requiere hospitalización o prolongación de la hospitalización, resulta en incapacidad o invalidez persistente o significativa, es una anomalía congénita o defecto de nacimiento o es medicamento significativo según criterio médico.",
+    "Si se han presentado otros expedientes ante la ANMAT relacionados con el estudio se deberá detallar el número de expediente y describir brevemente el motivo de la presentación.",
+    "Se debe detallar los números de participantes: Nº participantes que firmaron FCI.",
+    "Se deben consignar todos los participantes que hayan firmado consentimiento informado.",
+    "Se deben consignar todos los participantes que, luego de firmar el consentimiento informado, no cumplieron los criterios de elegibilidad y resultaron ser fallos de screening.",
+    "Participantes que se les asignó rama de tratamiento y se encuentran recibiendo el tratamiento al momento de la presentación del informe.",
+    "Participantes que se les asignó rama de tratamiento y por algún motivo se los discontinuó de tratamiento y se encuentran en seguimiento al momento de la presentación del informe.",
+    "Participantes que han finalizado el tratamiento acorde a lo establecido en el protocolo y se encuentran en etapa de seguimiento al momento de la presentación del informe.",
+    "Si no hay participantes discontinuados se deberá seleccionar 'ninguno'. Si hay participantes discontinuados se deberá detallar el/los código/s del/de los participantes y el motivo de la discontinuación.",
+    "Si no hubo eventos adversos serios se deberá seleccionar 'ninguno'. Si hubo eventos adversos serios no RAMSIS se deberá detallar el/los código/s del/de los participantes y la descripción.",
+    "Si se han presentado previamente incumplimientos graves ocurridos en el centro de investigación deberá detallarse el número de expediente y una breve descripción.",
+    "En caso de que el informe consista en un informe de incumplimiento grave se deberá describir en este recuardro el incumplimiento incluyendo: análisis de causa- raíz, impacto, medidas correctivas implementadas/ a implementar, medidas preventivas implementadas/a implementar, fecha de ocurrencia del incumplimiento, fecha de detección del incumplimiento, si se ha presentado al CRI/CEI y detalle de la documentación respaldatoria adjunta, si aplica.",
+    "Tanto el investigador como el patrocinador deberán firmar y fechar el informe EFCA 5.2."
+  ]
+}

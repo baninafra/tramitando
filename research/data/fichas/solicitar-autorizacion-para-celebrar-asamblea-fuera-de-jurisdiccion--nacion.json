@@ -1,0 +1,103 @@
+{
+  "tramite": {
+    "slug": "solicitar-autorizacion-para-celebrar-asamblea-fuera-de-jurisdiccion",
+    "nombre": "Solicitar autorización para celebrar asamblea fuera de jurisdicción",
+    "nombre_busqueda": "autorización asamblea fuera de jurisdicción",
+    "resumen": "Las asociaciones civiles y fundaciones deben pedir permiso a la Inspección General de Justicia para reunir sus asambleas o consejos fuera de la Ciudad Autónoma de Buenos Aires.",
+    "sinonimos": [
+      "autorización asamblea fuera de jurisdicción",
+      "reunión consejo administración fuera de jurisdicción"
+    ],
+    "temas": [
+      "gobierno-y-participacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Asociaciones civiles",
+      "Fundaciones"
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de solicitud",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota de solicitud firmada por el representante legal o autorizado con facultades suficientes",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del acta de convocatoria a la asamblea con expresión suficiente de motivos",
+        "aclaracion": null
+      },
+      {
+        "texto": "Usuario de Trámites a Distancia (TAD)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Habilitación del servicio Trámites a distancia a través de AFIP con clave fiscal nivel 2 o superior o Mi Argentina",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario"
+      },
+      {
+        "texto": "Pagá el trámite"
+      },
+      {
+        "texto": "Descargá el PDF"
+      },
+      {
+        "texto": "Ingresá a TAD"
+      },
+      {
+        "texto": "Seleccioná el trámite"
+      },
+      {
+        "texto": "Completá el formulario con los datos que irá requiriendo el sistema"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Presentá el pedido con una anticipación no inferior a quince (15) días de la fecha de celebración de la Asamblea",
+      "La solicitud debe contener expresión de los motivos que fundamentan la solicitud",
+      "La anticipación se considerará con criterio restrictivo",
+      "Las asambleas no podrán llevarse a cabo fuera de la jurisdicción de su sede social sin contar con la previa autorización",
+      "Las asambleas celebradas en infracción podrán ser declaradas irregulares e ineficaces a los efectos administrativos"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-autorizacion-para-celebrar-asamblea-fuera-de-jurisdiccion",
+      "titulo": "Solicitar autorización para celebrar asamblea fuera de jurisdicción | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T04:31:43.206Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del costo no se especifica en el texto, solo se indica que debe calcularse según la categoría y módulos",
+    "La fecha de vigencia exacta no se especifica, solo se menciona que está en proceso de actualización de acuerdo a la normativa vigente"
+  ]
+}

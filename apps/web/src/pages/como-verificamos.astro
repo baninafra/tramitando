@@ -1,0 +1,39 @@
+---
+import PaginaFija from '../layouts/PaginaFija.astro';
+import Sello from '../components/Sello.astro';
+export const prerender = false;
+---
+<PaginaFija
+  titulo="Cómo verificamos"
+  descripcion="Cada dato de Tramitando sale de una fuente oficial y muestra la fecha en que se verificó. Así investigamos, revisamos y actualizamos las fichas."
+  bajada="Cada dato sale de una fuente oficial y muestra cuándo lo chequeamos."
+>
+  <h2>De dónde sale la información</h2>
+  <p>Solo usamos fuentes oficiales: sitios .gob.ar y .gov.ar, boletines oficiales y páginas de organismos y municipios. Redactamos con nuestras palabras y citamos la fuente de cada dato. Si un dato no tiene fuente, no se publica.</p>
+
+  <h2>Quién la revisa</h2>
+  <p>Las fichas las investiga y redacta un sistema automático que lee las fuentes oficiales. Nada se publica sin que una persona lo revise y lo apruebe, comparando cada dato con su fuente.</p>
+
+  <h2>Cada cuánto</h2>
+  <ul>
+    <li>Todas las semanas controlamos si cambió la página oficial de cada fuente.</li>
+    <li>Todos los meses revisamos los costos.</li>
+    <li>Cada tres meses revisamos la ficha completa.</li>
+    <li>Cuando alguien reporta un error con prueba, la ficha vuelve a revisión.</li>
+  </ul>
+
+  <h2>Qué significa cada sello</h2>
+  <ul class="sellos">
+    <li><Sello estado="verificado" fecha="2026-10-14" /> Revisamos la ficha completa contra la fuente oficial en esa fecha.</li>
+    <li><Sello estado="desactualizado" /> Pasó la fecha de revisión, la fuente cambió o hay un reporte pendiente. Chequeá en la fuente antes de ir.</li>
+    <li><Sello estado="sin-datos" /> Todavía no tenemos información de ese lugar. Te mostramos la versión provincial o nacional, si existe.</li>
+  </ul>
+
+  <h2>Si ves algo mal</h2>
+  <p>En cada ficha está el botón "¿Viste algo mal?". Mandanos la corrección con el link a la fuente oficial o una captura. Lo revisamos antes de cambiar la ficha.</p>
+</PaginaFija>
+
+<style>
+  .sellos { list-style: none; padding: 0 !important; gap: var(--espacio-4) !important; }
+  .sellos li { display: grid; gap: var(--espacio-2); justify-items: start; }
+</style>

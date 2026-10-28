@@ -1,0 +1,103 @@
+{
+  "tramite": {
+    "slug": "reclamos-servicio-electrico",
+    "nombre": "Reclamar por otras deficiencias del servicio eléctrico",
+    "nombre_busqueda": "Reclamar por otras deficiencias del servicio eléctrico",
+    "resumen": "Podés reclamar por oscilaciones de tensión y otras deficiencias del servicio eléctrico de EDENOR y EDESUR. El trámite es gratuito, requiere turno presencial y se realiza en la sede del ENReGE en Suipacha 615.",
+    "sinonimos": [
+      "Reclamo oscilaciones tensión eléctrica",
+      "Reclamo deficiencias servicio eléctrico"
+    ],
+    "temas": [
+      "servicios-urbanos-y-reclamos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ente Nacional Regulador del Gas y la Electricidad",
+    "sigla": "ENReGE",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Usuarios de EDENOR y EDESUR"
+    ],
+    "requisitos": [
+      {
+        "texto": "Presentá una factura a tu nombre",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el servicio no está a tu nombre, presentá una copia del título de propiedad o del contrato de alquiler, o de otro servicio a tu nombre, o del DNI donde conste el domicilio",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Llegá a la sede del ENReGE en Suipacha 615, Ciudad Autónoma de Buenos Aires"
+      },
+      {
+        "texto": "Pedí turno previo para asistir de lunes a viernes de 09:00 a 17:00"
+      },
+      {
+        "texto": "Presentá los datos y documentos requeridos: número de identificación según la distribuidora, número de reclamo ante la distribuidora, domicilio, domicilio donde querés recibir las comunicaciones y una breve descripción del problema"
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "No olvides reclamar ante la empresa antes de hacerlo ante el ENReGE"
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede del ENReGE",
+      "direccion": "Suipacha 615",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/reclamar-por-otras-deficiencias-del-servicio-electrico"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reclamar-por-otras-deficiencias-del-servicio-electrico",
+      "titulo": "Reclamar por otras deficiencias del servicio eléctrico | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:38:05.129Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/enre/gestion-de-reclamos/formularios-online/formulario-atencion-usuarios",
+      "titulo": "Para reclamar por otras deficiencias en el servicio de EDENOR / EDESUR | Argentina.gob.ar",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T02:38:05.129Z"
+    },
+    {
+      "url": "https://turnos.argentina.gob.ar/turnos/seleccionTurno/230",
+      "titulo": "Sistema Nacional de Turnos",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T02:38:05.129Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite",
+    "El plazo de respuesta del reclamo",
+    "El método para sacar el turno online"
+  ]
+}

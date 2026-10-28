@@ -1,0 +1,112 @@
+{
+  "tramite": {
+    "slug": "certificacion-distancia-farmacias",
+    "nombre": "Certificación de distancia entre farmacias",
+    "nombre_busqueda": "Certificación de distancia entre farmacias",
+    "resumen": "Para habilitar una farmacia se requiere certificar que no haya otra a menos de 300 metros. Se debe presentar una nota dirigida al Intendente junto con el formulario otorgado por la Dirección de Farmacia del Ministerio de Salud de la Provincia.",
+    "sinonimos": [],
+    "temas": [
+      "salud-y-prevencion",
+      "medicamentos-y-farmacia-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes deseen habilitar una farmacia."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario otorgado por la Dirección de Farmacia del Ministerio de Salud de la Provincia de Buenos Aires.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota dirigida al Sr. Intendente en la Mesa de Entradas del Municipio, Alsina 65, en la que se solicite la certificación de la distancia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Correo electrónico de contacto.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Abonar el Acto administrativo en las cajas del Municipio, ingresando por Alsina 43."
+      },
+      {
+        "texto": "Presentar la nota dirigida al Intendente junto con la documentación requerida en la Mesa de Entradas del Municipio, Alsina 65, y solicitar la certificación de la distancia."
+      },
+      {
+        "texto": "Se forma expediente y se remite al Departamento Territorial, área que certifica la distancia entre las farmacias."
+      },
+      {
+        "texto": "Abonar las certificaciones que correspondan en las cajas del Municipio, ingresando por Alsina 43."
+      },
+      {
+        "texto": "Recibir la notificación al requirente."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Farmacia del Ministerio de Salud de la Provincia de Buenos Aires",
+      "direccion": "Calle 51 Nº 1120 Planta, CP 1900",
+      "localidad": "La Plata",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/catastro/distancia-farmacias/"
+    },
+    {
+      "nombre": "Cajas del Municipio",
+      "direccion": "Alsina 43",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/catastro/distancia-farmacias/"
+    },
+    {
+      "nombre": "Mesa de Entradas del Municipio",
+      "direccion": "Alsina 65",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/catastro/distancia-farmacias/"
+    },
+    {
+      "nombre": "Departamento Territorial",
+      "direccion": "Chiclana 453",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/catastro/distancia-farmacias/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/tramites/catastro/distancia-farmacias/",
+      "titulo": "Certificación de distancia entre farmacias | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T20:51:55.379Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto no se especifica en el texto, solo se indica que varía según la inspección.",
+    "El plazo exacto no se especifica en el texto, solo se menciona que varía según la inspección."
+  ]
+}

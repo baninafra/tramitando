@@ -1,0 +1,97 @@
+{
+  "tramite": {
+    "slug": "turnos-presenciales-para-tramites-ante-la-anac",
+    "nombre": "Sacar turno presencial ANAC",
+    "nombre_busqueda": "Sacar turno presencial ANAC",
+    "resumen": "Podés sacar un turno para acercarte a la nueva sede de atención al usuario en CABA y realizar trámites que no están disponibles en Trámites a Distancia.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración Nacional de Aviación Civil",
+    "sigla": "ANAC",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan una cuenta de Mi Argentina."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota indicando el motivo de la solicitud y el destinatario.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación firmada en original.",
+        "aclaracion": "Si son copias, deben contener la frase ES COPIA y estar firmadas en original."
+      },
+      {
+        "texto": "VEP o Comprobante de Pago (si el trámite tiene arancel).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a tu cuenta de Mi Argentina."
+      },
+      {
+        "texto": "Elegí la opción Mis turnos."
+      },
+      {
+        "texto": "Ingresá 'ANAC' en el buscador."
+      },
+      {
+        "texto": "Elegí la opción Presentación de Documentación en Mesa de Entradas."
+      },
+      {
+        "texto": "Elegí la opción Sacar turno y seguí los pasos."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": "https://turnos.argentina.gob.ar/turnos/seleccionTurno/1068",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/turnos-presenciales-para-tramites-ante-la-anac",
+      "titulo": "Turnos presenciales para trámites ante la ANAC | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T19:02:02.686Z"
+    },
+    {
+      "url": "https://turnos.argentina.gob.ar/turnos/seleccionTurno/1068",
+      "titulo": "Sistema Nacional de Turnos",
+      "bloques": [
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T19:02:02.686Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T19:02:02.686Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de la nueva sede de atención al usuario en CABA.",
+    "Horarios de atención de la sede presencial.",
+    "Vigencia del turno."
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "tramite": {
+    "slug": "solicitar-autorizacion-ingreso-red-federal-laboratorios-alimentos",
+    "nombre": "Solicitar autorización ingreso red federal laboratorios alimentos",
+    "nombre_busqueda": "solicitar autorización ingreso red federal laboratorios alimentos",
+    "resumen": "Para ingresar a la Red Federal de Laboratorios de Alimentos, los laboratorios deben presentar un formulario en la plataforma TAD con documentación específica y pagar un arancel. El trámite tiene silencio administrativo positivo de 60 días hábiles.",
+    "sinonimos": [],
+    "temas": [
+      "bromatologia-y-alimentos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMAT",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Laboratorios que deseen ingresar a la Red Federal de Laboratorios de Alimentos."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de solicitud",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago del arancel",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título habilitante del director técnico",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificados de participación en pruebas interlaboratorio de los últimos 3 años",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado/s de acreditación de ensayos del OAA",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar a la plataforma TAD con la clave fiscal del interesado."
+      },
+      {
+        "texto": "Seleccionar la opción correspondiente si el laboratorio es o no miembro de RENALOA."
+      },
+      {
+        "texto": "Completar el formulario de solicitud con los datos del laboratorio."
+      },
+      {
+        "texto": "Adjuntar la documentación requerida."
+      },
+      {
+        "texto": "Detallar el alcance de la autorización."
+      },
+      {
+        "texto": "Pagar el arancel."
+      },
+      {
+        "texto": "Realizar las declaraciones de compromiso, confidencialidad, declaración de conflicto de intereses y aceptación de las condiciones expresadas en el Reglamento de la Red."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El plazo de silencio administrativo es de 60 días hábiles después de haber acreditado el cumplimiento de las condiciones.",
+      "Si la información enviada no cumple con los requisitos, el LNR solicitará completar la información faltante dentro de un plazo de 5 días hábiles a través de la plataforma TAD, de lo contrario se dará de baja la solicitud.",
+      "Recuerde que no se aceptará el envío de documentación de manera informal o fuera de este procedimiento una vez enviado el EE."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-autorizacion-para-ingreso-en-la-red-federal-de-laboratorios-de-alimentos",
+      "titulo": "Solicitar la autorización para ingreso en la Red Federal de Laboratorios de Alimentos | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T09:29:11.972Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no se especifica en el texto, consultá el listado y código de aranceles en la plataforma.",
+    "La fecha de vigencia del trámite no se especifica en el texto, se basa en la Disposición ANMAT N° 10875/17."
+  ]
+}

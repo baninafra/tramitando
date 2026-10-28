@@ -1,0 +1,70 @@
+{
+  "tramite": {
+    "slug": "solicitar-veedor",
+    "nombre": "Solicitar veedor",
+    "nombre_busqueda": "Solicitar veedor",
+    "resumen": "Para obras sociales nacionales, la autoridad debe solicitar la presencia de un veedor en la SSSalud con 60 días de antelación para la celebración de asambleas o reuniones del Consejo de Administración.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Servicios de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Obras Sociales Nacionales inscriptas en la Superintendencia de Servicios de Salud"
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de solicitud que consigne el nombre de la Obra Social, la RNOS, el domicilio donde se realizará la reunión, la fecha y hora de la misma, y la firma de la autoridad de la Obra Social",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación requerida en la Mesa de Entrada de la SSSalud sede central o delegación más próxima."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central SSSalud",
+      "direccion": "Bartolomé Mitre 434 - Planta Baja - CABA - C1036AAH",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-veedor"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-veedor",
+      "titulo": "Solicitar Veedor | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T16:44:58.261Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se indica que se puede enviar la solicitud de veedor vía mail a [email protected], pero no se especifica el formato ni los requisitos de ese envío.",
+    "No se especifica el plazo exacto de respuesta ni el tiempo de espera para la atención del trámite."
+  ]
+}

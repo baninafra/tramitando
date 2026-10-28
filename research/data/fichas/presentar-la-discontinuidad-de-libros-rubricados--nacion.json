@@ -1,0 +1,106 @@
+{
+  "tramite": {
+    "slug": "presentar-discontinuidad-libros-rubricados",
+    "nombre": "Presentar la discontinuidad de libros rubricados",
+    "nombre_busqueda": "Presentar discontinuidad libros rubricados",
+    "resumen": "Debes acreditar la discontinuación de los libros rubricados ante la Inspección General de Justicia en el plazo de 15 días desde la obtención de la autorización para el empleo de medios. Se requiere presentar documentación específica y abonar una tasa según el tipo de entidad.",
+    "sinonimos": [
+      "Discontinuidad de libros rubricados",
+      "Acreditación discontinuación libros"
+    ],
+    "temas": [
+      "legalizaciones-y-apostillados"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": "IGJ",
+    "web": "https://www.argentina.gob.ar/justicia/igj"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Representante legal y síndico, si lo hubiere, de asociaciones civiles, fundaciones, sociedades extranjeras, accionarias, incluidas en el art. 299, no accionarias, contratos asociativos, de fideicomiso, de capitalización y ahorro previo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Copia certificada de la/s foja/s donde conste la nota de discontinuación correspondiente a cada registro, suscripta/s por el representante legal y el síndico, si lo hubiere, o acta de constatación notarial de la discontinuación de los registros efectuada a requerimiento de los mencionados.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Escrito suscripto por el representante legal o apoderado con poderes suficientes del que surja el motivo de la presentación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de la autorización para el empleo de medios mecánicos, ópticos o similares previstos en el artículo 61 LGS otorgada por este organismo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Solicitá turno para Mesa de Entradas."
+      },
+      {
+        "texto": "Presentá el formulario del trámite y toda la documentación indicada anteriormente en la Mesa General de Entradas de la Inspección General de Justicia, Av. Paseo Colón 291."
+      },
+      {
+        "texto": "Retirá el trámite por Av. Paseo Colón 291, previa solicitud de turno."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": "15 días",
+    "consejos": [
+      "Si la presentación fuere posterior al plazo previsto, deberá iniciarse nuevo trámite ante este Organismo a fin de acreditar la discontinuación de los libros rubricados.",
+      "Si se presenta dentro del plazo previsto, no se requiere la presentación de formulario."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 150000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/presentar-la-discontinuidad-de-libros-rubricados"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Mesa General de Entradas de la Inspección General de Justicia",
+      "direccion": "Av. Paseo Colón 291",
+      "localidad": "Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/presentar-la-discontinuidad-de-libros-rubricados"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/presentar-la-discontinuidad-de-libros-rubricados",
+      "titulo": "Presentar la discontinuidad de libros rubricados | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T01:20:43.178Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/justicia/igj/calculador-modulos",
+      "titulo": "Calculá el costo de los trámites de IGJ | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T01:20:43.178Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Fecha exacta de vigencia del nuevo valor del módulo según Resolución del Ministerio de Justicia Nº 33/2024."
+  ]
+}

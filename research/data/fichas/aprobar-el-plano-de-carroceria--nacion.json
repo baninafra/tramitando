@@ -1,0 +1,116 @@
+{
+  "tramite": {
+    "slug": "aprobar-plano-de-carroceria",
+    "nombre": "Aprobar el plano de carrocería",
+    "nombre_busqueda": "aprobar plano de carrocería CNRT",
+    "resumen": "Aprobación de planos de carrocería nueva, de su modificación o de la modificación de chasis para vehículos de transporte de pasajeros M3 de más de 5 toneladas brutas, y equipamiento para M2 de entre 3500 y 5000 kg con más de nueve asientos. Se hace en línea por TAD.",
+    "sinonimos": [
+      "aprobación de plano de carrozado",
+      "plano de carrocería CNRT",
+      "modificación de carrocería o chasis"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "transporte-publico-y-viajes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Comisión Nacional de Regulación del Transporte",
+    "sigla": "CNRT",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas nacionales o extranjeras inscriptas que fabriquen carrocerías y/o equipamiento de Licencia de Configuración de Modelo (LCM) en vehículos de transporte de pasajeros."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota de solicitud de la empresa",
+        "aclaracion": null
+      },
+      {
+        "texto": "Plano correspondiente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Protocolo de especificaciones técnicas",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cálculo de cargas",
+        "aclaracion": null
+      },
+      {
+        "texto": "Clave fiscal de nivel 3",
+        "aclaracion": "La clave fiscal de la empresa tiene que ser de nivel 3."
+      },
+      {
+        "texto": "Pago del arancel correspondiente",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Reuní la nota de solicitud, el plano, el protocolo de especificaciones técnicas y el cálculo de cargas."
+      },
+      {
+        "texto": "Ingresá a TAD con la clave fiscal de nivel 3 de la empresa."
+      },
+      {
+        "texto": "Presentá la documentación a través de TAD."
+      },
+      {
+        "texto": "Generá la boleta de pago electrónico en Gestión Electrónica de Pagos y pagá el arancel."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "No necesitás un gestor: el trámite es ágil y lo podés hacer por tu cuenta."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "Aprobación de un plano de carrozado o de modificación de chasis",
+      "gratis": false,
+      "monto_centavos": 9450000,
+      "vigente_desde": null,
+      "nota": "Se abona con boleta de pago electrónico generada en Gestión Electrónica de Pagos.",
+      "fuente_url": "https://www.argentina.gob.ar/servicio/aprobar-el-plano-de-carroceria"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/aprobar-el-plano-de-carroceria",
+      "titulo": "Aprobar el Plano de Carrocería | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:33:49.892Z"
+    },
+    {
+      "url": "https://gep.cnrt.gob.ar/cuenta/login",
+      "titulo": "CNRT - Gestión Electrónica de Pagos",
+      "bloques": [
+        "pasos"
+      ],
+      "consultada_en": "2026-10-26T04:33:49.892Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se indica el plazo de resolución del trámite.",
+    "No se especifica si requiere turno.",
+    "No se detalla la fecha de vigencia del arancel.",
+    "No se informa una dirección o sede de atención."
+  ]
+}

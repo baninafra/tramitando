@@ -1,0 +1,87 @@
+{
+  "tramite": {
+    "slug": "obtener-constancia-de-inscripcion-al-monotributo",
+    "nombre": "Obtener constancia de inscripción al monotributo",
+    "nombre_busqueda": "constancia inscripción monotributo",
+    "resumen": "Podés obtener la constancia de inscripción al Monotributo en línea con tu número de CUIT en 5 minutos y sin costo.",
+    "sinonimos": [
+      "constancia de inscripción monotributo",
+      "verificar inscripción monotributo"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo",
+      "monotributo-social-y-general"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A todas las categorías de monotributo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de CUIT (los 11 dígitos sin guiones).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Código de seguridad que te muestra la pantalla.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la página de ARCA."
+      },
+      {
+        "texto": "Completá el número de CUIT (los 11 dígitos sin guiones) y el código de seguridad."
+      },
+      {
+        "texto": "Hacé clic en Consultar."
+      },
+      {
+        "texto": "Si querés imprimirla, usá la opción Imprimir pantalla en la parte superior derecha de la constancia."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "5 minutos",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-constancia-de-inscripcion-al-monotributo",
+      "titulo": "Obtener constancia de inscripción al monotributo | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T22:51:38.602Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T22:51:38.602Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina para trámite presencial (no aplica, es online).",
+    "Horarios de atención para trámite presencial (no aplica, es online)."
+  ]
+}

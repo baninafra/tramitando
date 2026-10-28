@@ -1,0 +1,74 @@
+{
+  "tramite": {
+    "slug": "pago-de-derechos-de-construccion",
+    "nombre": "Pago de derechos de construcción",
+    "nombre_busqueda": "Pago derechos construcción",
+    "resumen": "Este trámite permite liquidar los derechos de construcción mediante la presentación de la boleta correspondiente y el pago de la tasa.",
+    "sinonimos": [
+      "Liquidación de derechos de construcción",
+      "Pago derechos obra"
+    ],
+    "temas": [
+      "obras-y-construccion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060658",
+  "organismo": {
+    "nombre": "Secretaría de Desarrollo Urbano y Obra Pública",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Solicitante de la obra"
+    ],
+    "requisitos": [
+      {
+        "texto": "Boleta de pago de derechos de construcción",
+        "aclaracion": null
+      },
+      {
+        "texto": "Recibo de pago",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la boleta de pago de derechos de construcción."
+      },
+      {
+        "texto": "Pagá la tasa correspondiente."
+      },
+      {
+        "texto": "Retirá el recibo de pago."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mi.quilmes.gov.ar/tramites/60/pago-de-derechos-de-construccion",
+      "titulo": "Pago de derechos de construcción",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T03:57:47.273Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos adicionales en el texto.",
+    "No se especifican pasos adicionales en el texto.",
+    "No se especifica plazo en el texto.",
+    "No se especifica costo en el texto.",
+    "No se especifica dirección de oficina en el texto."
+  ]
+}

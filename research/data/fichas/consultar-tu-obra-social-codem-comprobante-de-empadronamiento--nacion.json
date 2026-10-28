@@ -1,0 +1,91 @@
+{
+  "tramite": {
+    "slug": "consultar-obra-social-codem",
+    "nombre": "Consultar tu obra social",
+    "nombre_busqueda": "Consultar obra social ANSES",
+    "resumen": "Podés consultar en línea cuál es tu obra social y los familiares a cargo desde ANSES de forma gratuita.",
+    "sinonimos": [
+      "Ver obra social",
+      "Consultar CODEM",
+      "Ver comprobante de empadronamiento"
+    ],
+    "temas": [
+      "obra-social-y-prepaga"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANSES",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A cualquier persona que esté afiliada a una obra social."
+    ],
+    "requisitos": [
+      {
+        "texto": "Un celular o computadora con acceso a internet.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tu número de DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tu número de CUIL.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a Consulta de Obra Social - CODEM."
+      },
+      {
+        "texto": "Ingresá tu número de DNI y/o CUIL."
+      },
+      {
+        "texto": "Seleccioná Continuar."
+      },
+      {
+        "texto": "El sistema te va a informar cuál es tu obra social y los familiares que tengas a tu cargo (si corresponde)."
+      },
+      {
+        "texto": "Podés descargar e imprimir tu comprobante."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consultar-tu-obra-social-codem-comprobante-de-empadronamiento",
+      "titulo": "Consultar tu obra social - CODEM (Comprobante de Empadronamiento) | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T05:36:46.129Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T05:36:46.129Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la página oficial de consulta de obra social no se especifica explícitamente en el texto, solo se menciona ingresar a 'Consulta de Obra Social - CODEM'."
+  ]
+}

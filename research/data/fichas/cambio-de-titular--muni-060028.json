@@ -1,0 +1,71 @@
+{
+  "tramite": {
+    "slug": "cambio-de-titular",
+    "nombre": "Cambio de titularidad de tasas",
+    "nombre_busqueda": "Cambio de titularidad tasas",
+    "resumen": "Trámite para cambiar la titularidad de las tasas por servicio general en el municipio de Almirante Brown.",
+    "sinonimos": [],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "tasa-inmobiliaria-y-servicios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060028",
+  "organismo": {
+    "nombre": "Municipio de Almirante Brown",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de tasas por servicio general."
+    ],
+    "requisitos": [
+      {
+        "texto": "Presentación del DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Escritura traslativa de Dominio",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el DNI y la Escritura traslativa de Dominio en la Oficina de impuestos."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de impuestos",
+      "direccion": "Rosales 1312",
+      "localidad": "Adrogué",
+      "horario": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/cambio-de-titular/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.brown.gob.ar/tramites/cambio-de-titular/",
+      "titulo": "Servicios Generales – Cambio de Titular",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T01:19:46.529Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos, plazos ni requisitos adicionales en el texto."
+  ]
+}

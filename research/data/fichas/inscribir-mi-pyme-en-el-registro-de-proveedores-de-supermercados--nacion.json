@@ -1,0 +1,94 @@
+{
+  "tramite": {
+    "slug": "inscripcion-de-proveedores-de-supermercados",
+    "nombre": "Inscribir mi PyME en el Registro de proveedores de supermercados",
+    "nombre_busqueda": "Inscribir mi PyME en el Registro de proveedores de supermercados",
+    "resumen": "Si sos una MiPyME ya inscrita en el registro MiPyME y proveés alimentos, bebidas o productos de higiene y limpieza, podés inscribirte gratuitamente para ser proveedor de supermercados y cumplir con la Ley de Góndolas.",
+    "sinonimos": [],
+    "temas": [
+      "emprendedores-y-monotributo",
+      "comercio-e-industria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Micros, pequeñas y medianas empresas que ya están inscritas al registro MiPyME.",
+      "Empresas que proveen alimentos, bebidas, productos de higiene personal y/o limpieza del hogar."
+    ],
+    "requisitos": [
+      {
+        "texto": "CUIT.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de transacción.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al formulario con tu CUIT y Número de transacción."
+      },
+      {
+        "texto": "Completá por sí o por no la Declaración Jurada."
+      },
+      {
+        "texto": "Indicá los datos de contacto del área comercial para que los supermercados puedan contactarte."
+      },
+      {
+        "texto": "Seleccioná todas las regiones donde ofreces tus productos."
+      },
+      {
+        "texto": "Seleccioná el/los rubros dentro de los que ofrecés productos."
+      },
+      {
+        "texto": "Seleccioná todas las categorías dentro de las cuales ofrecés productos."
+      },
+      {
+        "texto": "Indicá los productos que ofrecés dentro de la categoría según si el producto final es de origen nacional o importado."
+      },
+      {
+        "texto": "Verificá que la información que cargaste sea correcta y enviá el formulario."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribir-mi-pyme-en-el-registro-de-proveedores-de-supermercados",
+      "titulo": "Inscribir mi PyME en el Registro de proveedores de supermercados | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T17:02:07.966Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T17:02:07.966Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite."
+  ]
+}

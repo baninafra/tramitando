@@ -1,0 +1,69 @@
+{
+  "tramite": {
+    "slug": "bromatologia-y-alimentos",
+    "nombre": "Bromatología · Denuncias",
+    "nombre_busqueda": "Denunciar bromatología Ramallo",
+    "resumen": "Si detectaste un problema con alimentos o un comercio, podés denunciarlo completando el formulario online para que el equipo de Bromatología lo revise.",
+    "sinonimos": [],
+    "temas": [
+      "bromatologia-y-alimentos",
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060665",
+  "organismo": {
+    "nombre": "Municipalidad de Ramallo",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que detecte un problema con alimentos o un comercio."
+    ],
+    "requisitos": [
+      {
+        "texto": "Datos del denunciante: apellido, número de documento, fecha de nacimiento, teléfono y localidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos del denunciado: nombre y apellido o razón social, DNI o CUIT, localidad, domicilio y teléfono.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Detalle del reclamo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario de denuncias con los datos solicitados."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.ramallo.gob.ar/tramites/bromatologia-denuncias",
+      "titulo": "Bromatología · Denuncias",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T09:06:04.850Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica si el trámite tiene costo.",
+    "No se especifica el plazo de respuesta exacto.",
+    "No se especifica si se requiere turno."
+  ]
+}

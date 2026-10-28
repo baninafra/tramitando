@@ -1,0 +1,79 @@
+{
+  "tramite": {
+    "slug": "solicitar-desarchivo-registro-productos-fitosanitarios",
+    "nombre": "Solicitar desarchivo en el registro de productos fitosanitarios",
+    "nombre_busqueda": "solicitar desarchivo productos fitosanitarios biológicos fertilizantes",
+    "resumen": "Para empresas con productos inscriptos que necesitan desarchivar sus expedientes ante el Senasa. Es un trámite gratuito en línea, pero requiere declarar domicilio electrónico y presentar nota y comprobante de pago de aranceles adeudados.",
+    "sinonimos": [
+      "desarchivo expediente fitosanitario",
+      "desarchivo productos biológicos fertilizantes"
+    ],
+    "temas": [
+      "comercio-e-industria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas que tienen productos inscriptos y requieren el desarchivo de los respectivos expedientes."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota solicitando el desarchivo del expediente del producto.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago de aranceles.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declarar domicilio electrónico mediante el sistema SIGTrámites.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la Plataforma SIGTrámites y seguí instrucciones según Manual."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Protección Vegetal",
+      "direccion": "Azopardo N°1020, Piso PB, C1063ACD, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-desarchivo-en-el-registro-de-productos-fitosanitarios-biologicos-fertilizantes"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-desarchivo-en-el-registro-de-productos-fitosanitarios-biologicos-fertilizantes",
+      "titulo": "Solicitar desarchivo en el registro de productos fitosanitarios, biológicos, fertilizantes, enmiendas y bioinsumos | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:24:16.341Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere ingeniero agrónomo o representante legal incorporado en la declaración jurada presentada por la empresa para escribir a los correos electrónicos correspondientes."
+  ]
+}

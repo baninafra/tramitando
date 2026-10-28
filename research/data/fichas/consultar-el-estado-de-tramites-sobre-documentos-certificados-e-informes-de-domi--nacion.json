@@ -1,0 +1,77 @@
+{
+  "tramite": {
+    "slug": "consultar-estado-tramites-documentos",
+    "nombre": "Consultar el estado de trámites sobre documentos certificados e informes de dominio",
+    "nombre_busqueda": "Consultar estado de trámites documentos certificados",
+    "resumen": "Permite a cualquier ciudadano verificar el estado de trámites sobre documentos, certificados e informes de dominio de inmuebles radicados en la Ciudad Autónoma de Buenos Aires de forma gratuita y en línea.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier ciudadano que desee conocer el estado de su trámite."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener los datos del número de entrada del trámite.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tener los datos de la fecha de entrada del trámite.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al buscador."
+      },
+      {
+        "texto": "Completá el número de entrada y la fecha de entrada del trámite."
+      },
+      {
+        "texto": "Consultá."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/consultar-el-estado-de-tramites-sobre-documentos-certificados-e-informes-de-dominio",
+      "titulo": "Consultar el estado de trámites sobre documentos, certificados e informes de dominio | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T05:23:41.627Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T05:23:41.627Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La información específica sobre los tipos de documentos, certificados e informes de dominio que se pueden consultar no está detallada en el texto."
+  ]
+}

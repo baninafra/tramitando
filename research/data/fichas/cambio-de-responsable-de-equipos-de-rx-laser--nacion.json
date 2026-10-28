@@ -1,0 +1,82 @@
+{
+  "tramite": {
+    "slug": "cambio-de-responsable-de-equipos-de-rx-laser",
+    "nombre": "Cambio de responsable de equipos de rx laser",
+    "nombre_busqueda": "cambio de responsable equipos rx laser",
+    "resumen": "Es el trámite por el cual se modifica el responsable de uso de los equipos de RX y/o Laser habilitados por la Autoridad Sanitaria competente.",
+    "sinonimos": [],
+    "temas": [
+      "salud-y-prevencion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El Titular o Apoderado de la Habilitación del Equipo.",
+      "En el caso de solicitud de baja por desvinculación, podrá ser solicitado por el responsable saliente."
+    ],
+    "requisitos": [
+      {
+        "texto": "Completar nota de solicitud on line en TAD.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización individual de uso del nuevo responsable del equipo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Habilitación del Establecimiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación que acredite la desvinculación.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresa a TAD, identifícate con tu CUIT y Clave Fiscal y busca el trámite seleccionado."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Para hacer el Trámite a Distancia (TAD) se recomienda ingresar a la página desde una CPU a través del Mozilla Firefox o el Google Chrome, no mediante celulares u otros dispositivos móviles porque se han detectado inconvenientes."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/cambio-de-responsable-de-equipos-de-rx-laser",
+      "titulo": "Cambio de responsable de equipos de RX-LASER | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T04:35:32.143Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T04:35:32.143Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si tenés Documento Nacional de Identidad emitido por la República Argentina, podés sacar turno en línea y ganar tiempo."
+  ]
+}

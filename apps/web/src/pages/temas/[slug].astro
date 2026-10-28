@@ -1,0 +1,35 @@
+---
+// /temas/<tema> y /temas/<subtema>. La API devuelve el redirect de los slugs históricos.
+import PaginaTema from '../../components/PaginaTema.astro';
+import { obtenerTema, resolverUbicacion } from '../../lib/data';
+
+const slug = Astro.params.slug!;
+const prov = Astro.url.searchParams.get('prov') ?? undefined;
+const muni = Astro.url.searchParams.get('muni') ?? undefined;
+const paginaPedida = Number(Astro.url.searchParams.get('pagina') ?? '1');
+const pagina = Number.isFinite(paginaPedida) && paginaPedida >= 1 ? Math.floor(paginaPedida) : 1;
+
+const lugar = (await resolverUbicacion(prov, muni)) ?? {};
+const resultado = await obtenerTema(slug, lugar, pagina);
+if (!resultado) return Astro.rewrite('/404');
+
+const query = Astro.url.searchParams.toString();
+const sufijo = query ? `?${query}` : '';
+
+if (resultado.tipo === 'redirect') return Astro.redirect(`/temas/${resultado.slug}${sufijo}`, 301);
+
+const { datos } = resultado;
+if (datos.tema.esSituacion) return Astro.redirect(`/situaciones/${datos.tema.slug}${sufijo}`, 301);
+
+const lugarNombre = lugar.municipio
+  ? `${lugar.municipio.nombre}, ${lugar.provincia?.nombre}`
+  : lugar.provincia?.nombre;
+---
+<PaginaTema
+  datos={datos}
+  ruta={`/temas/${datos.tema.slug}`}
+  tipo="tema"
+  prov={prov}
+  muni={muni}
+  lugar={lugarNombre}
+/>

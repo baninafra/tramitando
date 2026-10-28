@@ -1,0 +1,138 @@
+{
+  "tramite": {
+    "slug": "obtencion-del-certificado-nacional-de-seguridad-de-la-navegacion-cnsn",
+    "nombre": "Obtención del certificado nacional de seguridad de la navegación cnsn",
+    "nombre_busqueda": "Certificado CNSN buque",
+    "resumen": "El trámite consiste en solicitar la obtención o renovación del certificado nacional de seguridad de la navegación para buques, presentando documentación original y pagando el arancel correspondiente.",
+    "sinonimos": [
+      "Certificado CNSN",
+      "Certificado Nacional de Seguridad de la Navegación"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Prefectura Naval Argentina",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Propietario, armador o agente marítimo (o persona debidamente autorizada con poder ante escribano público del buque legalizado por el colegio de escribanos)."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nota solicitud CNSN (original).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Inspecciones técnicas realizadas (copia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de matrícula (copia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "CNSN anterior (si es renovación, copia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Notificación anterior (si el CNSN fue restringido, copia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cumplimiento de la notificación anterior (original).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poder del mismo a favor del solicitante (original, si no es propietario).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Memorando de división técnica naval (si corresponde, original).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado anterior si el mismo se encuentra vigente (original).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentar la nota de solicitud para obtención o renovación del CNSN con copia de la totalidad de la documentación requerida (y los originales para su verificación)."
+      },
+      {
+        "texto": "Pagar el arancel correspondiente."
+      },
+      {
+        "texto": "Se gestionará memorando ante la división técnica naval."
+      },
+      {
+        "texto": "Recepción del CNSN y notificación respectiva."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "12 días",
+    "consejos": [
+      "El trámite lleva 12 días hábiles de su presentación, condicionados al cumplimiento de la totalidad de los requisitos establecidos.",
+      "El trámite se encuentra alcanzado por las consideraciones establecidas en el inciso b del art. 10 de la ley n° 19.549, respecto del silencio con sentido positivo.",
+      "El plazo estipulado para su configuración es de 60 días hábiles después de haber acreditado el cumplimiento de las condiciones previstas para el otorgamiento de la autorización administrativa.",
+      "La vigencia es de 10 años, aunque puede ser de 4, 6, 8 o 10 años dependiendo del tipo de buque, servicio, explotación específica, tipo de navegación al que está afectado y tonelaje de arqueo total.",
+      "Pueden ser restringidos por 60, 90, 120 o 180 días dependiendo de los pendientes ante la división técnica naval y registro nacional de buques."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Guardacostas",
+      "direccion": "Edificio Guardacostas, avenida Eduardo Madero 235",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/obtencion-del-certificado-nacional-de-seguridad-de-la-navegacion-cnsn"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtencion-del-certificado-nacional-de-seguridad-de-la-navegacion-cnsn",
+      "titulo": "Obtención del Certificado Nacional de Seguridad de la Navegación (CNSN) | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T22:18:11.522Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/prefecturanaval/aranceles",
+      "titulo": "Aranceles | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T22:18:11.522Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T22:18:11.522Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no se especifica en el texto, se debe consultar el cuadro tarifario de aranceles acorde valores establecidos decreto 2756/75.",
+    "La vigencia del CNSN puede variar entre 4, 6, 8 o 10 años dependiendo del tipo de buque, servicio, explotación específica, tipo de navegación al que está afectado y tonelaje de arqueo total.",
+    "Los buques pueden ser restringidos por 60, 90, 120 o 180 días dependiendo de los pendientes ante la división técnica naval y registro nacional de buques."
+  ]
+}

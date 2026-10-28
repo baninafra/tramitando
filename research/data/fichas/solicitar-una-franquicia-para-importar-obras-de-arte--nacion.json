@@ -1,0 +1,99 @@
+{
+  "tramite": {
+    "slug": "solicitar-franquicia-importar-obras-arte",
+    "nombre": "Solicitar franquicia para importar obras de arte",
+    "nombre_busqueda": "Franquicia importación obras de arte",
+    "resumen": "Compradores o importadores de obras de arte pueden optar por una franquicia del 50% sobre el IVA mediante una declaración jurada en línea. El trámite es gratuito y se realiza en 48 horas.",
+    "sinonimos": [
+      "Franquicia importación arte",
+      "Exención IVA obras de arte",
+      "Importación arte original"
+    ],
+    "temas": [
+      "cultura-deportes-y-turismo",
+      "marcas-y-derecho-de-autor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Compradores o importadores de obras de arte"
+    ],
+    "requisitos": [
+      {
+        "texto": "CUIL o CUIT y clave fiscal nivel 2 o superior o ser usuario registrado en la aplicación Mi Argentina",
+        "aclaracion": null
+      },
+      {
+        "texto": "Factura o declaración jurada de valor de la/s obra/s, digitalizada",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos precisos de la/s obra/s: autor, tipo de objeto, técnicas de producción, materiales, dimensiones expresadas en centímetros, su valor de mercado y la moneda",
+        "aclaracion": null
+      },
+      {
+        "texto": "Imágenes de la/s obra/s: las imágenes deben contar con un número identificador que luego tendrás que colocar al momento de completar los datos en el formulario del bien",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD- Obras de Arte / Aplicación de franquicia - Decreto N° 279/97 (modificado por el decreto N°1044/98)"
+      },
+      {
+        "texto": "Para validar tu identidad e iniciar el trámite, elegí una de las opciones: AFIP o Mi Argentina"
+      },
+      {
+        "texto": "Completá la información necesaria inicialmente. TAD te indicará cuál información es obligatoria"
+      },
+      {
+        "texto": "Llená el primer formulario con: País de procedencia de la obra de arte, cantidad de bienes, motivo -si es importación o compra en el mercado local-, su valor total y en qué moneda está expresado"
+      },
+      {
+        "texto": "Llená el segundo formulario llamado 'Detalle Bienes Culturales por Autor' con los datos del autor y de la/s obra/s de arte. Usá un formulario por autor. Si hay varios, clicá el signo más (+) azul después de los datos del autor"
+      },
+      {
+        "texto": "Adjuntá una imagen de cada obra de arte y la factura o declaración jurada de valor"
+      },
+      {
+        "texto": "Hacé clic en Confirmar Trámite"
+      },
+      {
+        "texto": "Recibí la notificación de emisión de la franquicia en el término de dos días hábiles administrativos"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "48 horas",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-una-franquicia-para-importar-obras-de-arte",
+      "titulo": "Solicitar una franquicia para importar obras de arte | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T17:08:05.416Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del decreto que autoriza el beneficio no se especifica en el texto"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "tramite": {
+    "slug": "libre-deuda-de-rodados",
+    "nombre": "Libre deuda de rodados",
+    "nombre_busqueda": "Libre deuda de rodados",
+    "resumen": "Constancia que acredita que el vehículo no tiene deudas con el municipio.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias",
+      "cedula-del-vehiculo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060763",
+  "organismo": {
+    "nombre": "Municipalidad de San Nicolás de los Arroyos",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de vehículos rodados."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documentación del vehículo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá desde el enlace oficial del trámite."
+      },
+      {
+        "texto": "Realizá la consulta desde la página web."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.sannicolasciudad.gob.ar/tramites/libre-de-deuda/libre-deuda-de-rodados",
+      "titulo": "Libre deuda de rodados | Libre deuda | Trámites | San Nicolás Ciudad",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T15:15:09.059Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere documentación específica del vehículo, pero no se detallan los documentos exactos en el texto.",
+    "No se especifica el plazo de entrega de la constancia."
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "tramite": {
+    "slug": "resoluciones-junta-electoral-municipal",
+    "nombre": "Resoluciones JEM",
+    "nombre_busqueda": "Resoluciones Junta Electoral Municipal",
+    "resumen": "Consulta las resoluciones de la Junta Electoral Municipal de Oliva para conocer los procedimientos electorales vigentes.",
+    "sinonimos": [],
+    "temas": [
+      "gobierno-y-participacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141477",
+  "organismo": {
+    "nombre": "Junta Electoral Municipal",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier ciudadano interesado en conocer las resoluciones de la JEM."
+    ],
+    "requisitos": [
+      {
+        "texto": "Acceso a internet.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio web oficial de la Ciudad de Oliva."
+      },
+      {
+        "texto": "Buscá la sección de Resoluciones de la Junta Electoral Municipal."
+      },
+      {
+        "texto": "Consultá el listado de resoluciones disponibles."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://ciudaddeoliva.gob.ar/resoluciones-junta-electoral-municipal",
+      "titulo": "Ciudad de Oliva",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T09:26:17.284Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica si hay plazos de consulta.",
+    "El texto no menciona si se requiere turno para consultas presenciales."
+  ]
+}

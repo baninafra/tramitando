@@ -1,0 +1,86 @@
+{
+  "tramite": {
+    "slug": "inscripcion-de-apiarios-de-crianza",
+    "nombre": "Inscribir en el registro de apiarios de crianza",
+    "nombre_busqueda": "Inscribir en el registro de apiarios de crianza",
+    "resumen": "Los apiarios que comercialicen material apícola vivo deben inscribirse obligatoriamente en el Registro Especial de Apiarios de Crianza. El trámite requiere una primera inspección sanitaria obligatoria y la presentación de la solicitud firmada por un inspector acreditado.",
+    "sinonimos": [],
+    "temas": [
+      "animales-y-zoonosis",
+      "castraciones-y-vacunas"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Establecimientos apícolas que se dedican a la comercialización de material apícola vivo (MAV)."
+    ],
+    "requisitos": [
+      {
+        "texto": "Estar inscriptos al Registro Nacional Sanitario de Productores Agropecuarios (Renspa).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar el Formulario de Inscripción al Registro Especial de Apiarios de Crianza completo, con el detalle de los Renspa involucrados en la producción para la comercialización de material apícola Vivo, consignando en primer lugar el apiario principal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar la Constancia del Registro Nacional de Productores Apícolas (Renapa) vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Realizar la Primera Inspección Sanitaria Obligatoria del apiario principal, realizada por un Inspector Sanitario Apícola acreditado ante el Senasa y designado como co-responsable sanitario del establecimiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declarar el domicilio electrónico mediante el sistema SIGTrámites.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Contactá un ISA acreditado para realizar la Primera Inspección Sanitaria Obligatoria del apiario principal."
+      },
+      {
+        "texto": "Presentá la Solicitud completada y firmada por un ISA acreditado en la oficina del Senasa de su jurisdicción."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribir-en-el-registro-de-apiarios-de-crianza",
+      "titulo": "Inscribir en el registro de apiarios de crianza | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T17:01:15.775Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T17:01:15.775Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de oficinas locales para la presentación presencial."
+  ]
+}

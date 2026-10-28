@@ -1,0 +1,77 @@
+{
+  "tramite": {
+    "slug": "presentar-declaracion-jurada-stock-semillas-granos-fibra-canamo",
+    "nombre": "Presentar la declaracion jurada de stock de semillas, granos y fibra de canamo",
+    "nombre_busqueda": "Presentar declaracion jurada stock canamo",
+    "resumen": "Si tenés licencia agrícola o industrial para producción de canamo, debés presentar dos declaraciones juradas anuales de stock de material vegetal (semillas, granos y fibra) a través de Trámites a Distancia (TAD).",
+    "sinonimos": [],
+    "temas": [
+      "produccion-rural"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas físicas o jurídicas con licencia agrícola o industrial para producción de canamo industrial emitida por ARICCAME."
+    ],
+    "requisitos": [
+      {
+        "texto": "Licencia agrícola o industrial vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de resolución por la que se otorgó la licencia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Archivo Excel 'Declaración de Stock' descargado y completado.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Descargá el archivo Excel 'Declaración de Stock' de la sección Descargas y completalo con la información correspondiente a tu producción."
+      },
+      {
+        "texto": "Ingresá a Trámites a Distancia (TAD) y completá la 'Declaración Jurada de stock de semillas, granos y fibra de canamo'."
+      },
+      {
+        "texto": "Adjuntá el archivo Excel de 'Declaración de Stock'."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La primera declaración debe presentarse hasta el 31 de mayo y la segunda hasta el 31 de octubre de cada año.",
+      "Incluso si no tuviste movimiento de stock, la presentación sigue siendo obligatoria y las DDJJ deben completarse en cero (0).",
+      "También tenés que presentar, en octubre, el plan de la nueva campaña de cultivo, incluyendo la georreferenciación y dimensiones de la misma, junto con el pago del arancel anual (Anexo III)."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/presentar-la-declaracion-jurada-de-stock-de-semillas-granos-y-fibra-de-canamo",
+      "titulo": "Presentar la Declaración Jurada de stock de semillas, granos y fibra de cáñamo | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T01:08:07.306Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Fecha exacta de vigencia del plazo (se indica mes y año, no fecha completa).",
+    "Valor exacto del arancel anual de la nueva campaña de cultivo."
+  ]
+}

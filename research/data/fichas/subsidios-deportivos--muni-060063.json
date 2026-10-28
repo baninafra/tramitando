@@ -1,0 +1,89 @@
+{
+  "tramite": {
+    "slug": "subsidios-deportivos",
+    "nombre": "Subsidio para deportistas",
+    "nombre_busqueda": "Subsidio deportistas Balcarce",
+    "resumen": "El trámite es para deportistas federados del Partido de Balcarce que cumplan con la Ordenanza Nº 173/16. Requiere presentar documentación específica y una nota de la federación.",
+    "sinonimos": [
+      "Subsidio deportistas Balcarce",
+      "Ayuda deportiva Balcarce"
+    ],
+    "temas": [
+      "deportes-y-cultura-local"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060063",
+  "organismo": {
+    "nombre": "Subsecretaría de Deporte y Recreación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Deportistas federados del Partido de Balcarce"
+    ],
+    "requisitos": [
+      {
+        "texto": "Cumplir con lo dispuesto con la Ordenanza Nº 173/16",
+        "aclaracion": null
+      },
+      {
+        "texto": "Completar la Solicitud de Subsidio y Declaración Jurada -deportistas (Ordenanza Nº 173/16)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Completar la Declaración Jurada (que no reciben becas deportivas)",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI del Deportista",
+        "aclaracion": "Si sos menor de edad, se debe presentar además del DNI del padre, madre o tutor"
+      },
+      {
+        "texto": "Nota de la Federación y/o Asociación",
+        "aclaracion": "Debiendo contener los siguientes puntos: cómo consiguió la clasificación al torneo o campeonato (ya sea Provincial, Nacional o Internacional), que sea deportista amateur federado y que debe ser un deportista sin cuestionamiento de mala conducta o actitudes fuera de las normas sociales y/o deportivas"
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Dirigirse a la Subsecretaría de Deporte y Recreación ubicada en calle 32 Nº 930 de 08:00 a 12:30 hs"
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El tramite finaliza con el pago del subsidio a través de un cheque."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Subsecretaría de Deporte y Recreación",
+      "direccion": "calle 32 Nº 931",
+      "localidad": "calle 32 Nº 931",
+      "horario": null,
+      "fuente_url": "https://balcarce-app.gob.ar/portal_servicios/servicio/subsidio-para-deportistas"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://balcarce-app.gob.ar/portal_servicios/servicio/subsidio-para-deportistas",
+      "titulo": "Portal de Servicios | Modernizacion Balcarce",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T11:30:33.500Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del subsidio no está indicada en el texto.",
+    "No se especifica si el trámite requiere turno."
+  ]
+}

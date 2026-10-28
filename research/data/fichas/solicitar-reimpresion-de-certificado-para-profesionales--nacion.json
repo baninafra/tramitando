@@ -1,0 +1,78 @@
+{
+  "tramite": {
+    "slug": "solicitar-reimpresion-de-certificado-para-profesionales",
+    "nombre": "Solicitar reimpresión de certificado para profesionales",
+    "nombre_busqueda": "Reimpresión certificado profesionales",
+    "resumen": "Si sos prestador profesional inscripto ante la Superintendencia de Servicios de Salud y perdiste tu certificado por robo o extravío, podés solicitar su reimpresión de forma gratuita enviando la documentación al correo electrónico.",
+    "sinonimos": [
+      "Reimpresión certificado de inscripción",
+      "Solicitud reimpresión certificado prestadores"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Servicios de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Prestadores profesionales inscriptos en el Registro Nacional de Prestadores de la Superintendencia de Servicios de Salud",
+      "Prestadores de las Obras Sociales Nacionales",
+      "Entidades de Medicina Prepaga"
+    ],
+    "requisitos": [
+      {
+        "texto": "Solicitud de inscripción de Profesional (ANEXO II – Formulario para descargar) con firma hológrafa del profesional, certificada por Banco o Escribano",
+        "aclaracion": null
+      },
+      {
+        "texto": "D.N.I. del profesional solicitante",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Si la inscripción la realizaste por la plataforma de Trámites a Distancia, podés reimprimir el certificado desde Mis trámites."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-reimpresion-de-certificado-para-profesionales",
+      "titulo": "Solicitar reimpresión de certificado para profesionales | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T16:24:49.452Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T16:24:49.452Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de envío de documentación por correo electrónico",
+    "Plazo de respuesta o resolución de la solicitud",
+    "Vigencia del certificado original requerida para la solicitud"
+  ]
+}

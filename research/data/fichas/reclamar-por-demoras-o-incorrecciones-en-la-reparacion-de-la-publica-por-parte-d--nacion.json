@@ -1,0 +1,92 @@
+{
+  "tramite": {
+    "slug": "reclamos-gas-via-publica",
+    "nombre": "Reclamar por demoras o incorrecciones en la reparación de la vía pública por parte de la prestadora de gas",
+    "nombre_busqueda": "Reclamar demoras reparación vía pública gas",
+    "resumen": "Si la empresa de gas hizo trabajos en la vía pública de forma defectuosa, incorrecta o tardía, podés reclamar ante el ENARGAS si ya intentaste resolverlo con ellos y no te satisfacen.",
+    "sinonimos": [],
+    "temas": [
+      "servicios-urbanos-y-reclamos",
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ente Nacional Regulador del Gas",
+    "sigla": "ENARGAS",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Clientes y/o usuarios."
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia del reclamo formulado ante la Prestadora.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descripción del reclamo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Hacé el reclamo ante la prestadora del servicio."
+      },
+      {
+        "texto": "Consultá las direcciones y números telefónicos de la empresa en tu factura de gas."
+      },
+      {
+        "texto": "Anotá el número de reclamo y el plazo estimativo para la resolución que te proporcione la prestadora."
+      },
+      {
+        "texto": "Completá este formulario."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Conservá siempre el número de tu reclamo ante la prestadora."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reclamar-por-demoras-o-incorrecciones-en-la-reparacion-de-la-publica-por-parte-de-la",
+      "titulo": "Reclamar por demoras o incorrecciones en la reparación de la vía pública por parte de la prestadora de gas | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:30:03.206Z"
+    },
+    {
+      "url": "https://www.enargas.gov.ar/secciones/oficina-virtual/oficina-virtual.php",
+      "titulo": "Oficina virtual ENARGAS",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T02:30:03.206Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T02:30:03.206Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica si se puede hacer el trámite en línea o presencialmente, ni si se requiere turno.",
+    "El texto no menciona plazos de resolución ni fechas de vigencia."
+  ]
+}

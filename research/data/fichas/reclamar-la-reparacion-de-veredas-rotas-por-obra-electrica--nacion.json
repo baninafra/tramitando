@@ -1,0 +1,108 @@
+{
+  "tramite": {
+    "slug": "reclamo-reparacion-veredas-obra-electrica",
+    "nombre": "Reclamar reparación veredas rotas obra eléctrica",
+    "nombre_busqueda": "Reparar veredas rotas obra eléctrica",
+    "resumen": "Reclamá ante el ENReGE la reparación de veredas dañadas por obras de EDENOR o EDESUR. Es gratuito, requiere turno presencial y no necesita documentación.",
+    "sinonimos": [
+      "Reparación veredas obra eléctrica",
+      "Veredas rotas EDENOR",
+      "Veredas rotas EDESUR"
+    ],
+    "temas": [
+      "servicios-urbanos-y-reclamos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ente Nacional Regulador del Gas y la Electricidad",
+    "sigla": "ENReGE",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Usuarios de EDENOR y EDESUR"
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de reclamo ante la distribuidora",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio afectado por la intervención de la distribuidora en la vía pública; la vereda quedó rota y/o sin las baldosas correspondientes (entre qué calles, localidad, barrio, partido, código postal)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio donde querés recibir las comunicaciones relativas a tu reclamo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de teléfono",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario de reclamo en la página del ENReGE."
+      },
+      {
+        "texto": "Seleccioná la opción Otros - Reparación de vereda en el tipo de reclamo."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "No olvides reclamar ante la empresa antes de hacerlo ante el ENReGE."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede del ENReGE",
+      "direccion": "Suipacha 615",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/reclamar-la-reparacion-de-veredas-rotas-por-obra-electrica"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reclamar-la-reparacion-de-veredas-rotas-por-obra-electrica",
+      "titulo": "Reclamar la reparación de veredas rotas por obra eléctrica | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:18:14.269Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/enre/gestion-de-reclamos/formularios-online/formulario-atencion-usuarios",
+      "titulo": "Para reclamar por otras deficiencias en el servicio de EDENOR / EDESUR | Argentina.gob.ar",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T02:18:14.269Z"
+    },
+    {
+      "url": "https://mi.argentina.gob.ar/turnos/seleccion-turno/237",
+      "titulo": "Ingresar | Mi Argentina",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T02:18:14.269Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Fecha de vigencia del trámite",
+    "URL para sacar turno"
+  ]
+}

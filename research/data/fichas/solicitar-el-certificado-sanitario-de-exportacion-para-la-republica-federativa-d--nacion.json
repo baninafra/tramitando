@@ -1,0 +1,80 @@
+{
+  "tramite": {
+    "slug": "solicitar-certificado-sanitario-exportacion-brasil",
+    "nombre": "Solicitar el certificado sanitario de exportación para la República Federativa de Brasil",
+    "nombre_busqueda": "certificado sanitario exportacion brasil",
+    "resumen": "Para exportar productos como vinagres, bebidas o materia prima a Brasil, necesitás un certificado sanitario. Podés hacerlo en línea en la plataforma TAD o presentando los documentos en ANMAT.",
+    "sinonimos": [
+      "certificado aptitud exportacion brasil",
+      "certificado sanitario anmat brasil"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "ANMAT",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes deseen exportar productos a Brasil."
+    ],
+    "requisitos": [
+      {
+        "texto": "Copia de factura correspondiente a los productos a exportar",
+        "aclaracion": null
+      },
+      {
+        "texto": "Análisis de laboratorio (en caso que se solicite un certificado de un lote ya analizado en el Instituto)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Buscar en la plataforma TAD los trámites disponibles para ANMAT o buscar por tipo de solicitud"
+      },
+      {
+        "texto": "Completar los documentos solicitados"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Para mayor información accedé acá"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-el-certificado-sanitario-de-exportacion-para-la-republica-federativa-de-brasil",
+      "titulo": "Solicitar el certificado sanitario de exportación para la República Federativa de Brasil | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T08:30:59.968Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T08:30:59.968Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite no está especificada en el texto.",
+    "No se menciona si el trámite requiere turno en la página oficial del trámite."
+  ]
+}

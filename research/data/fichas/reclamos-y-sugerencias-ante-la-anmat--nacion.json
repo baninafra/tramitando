@@ -1,0 +1,63 @@
+{
+  "tramite": {
+    "slug": "reclamos-y-sugerencias-ante-la-anmat",
+    "nombre": "Reclamos y sugerencias ante la ANMAT",
+    "nombre_busqueda": "Reclamos y sugerencias ante la ANMAT",
+    "resumen": "Podés hacer un reclamo o sugerencia en línea en 5 minutos sin costo. Es un procedimiento que no paraliza trámites en curso.",
+    "sinonimos": [],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración Nacional de Medicamentos, Alimentos y Tecnología Médica",
+    "sigla": "ANMAT",
+    "web": "https://www.argentina.gob.ar/servicio/reclamos-y-sugerencias-ante-la-anmat"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Clientes regulados y ciudadanos/as"
+    ],
+    "requisitos": [
+      {
+        "texto": "Ofrecer datos de contacto",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al Formulario Reclamos y/o Sugerencias en línea"
+      },
+      {
+        "texto": "Completá los datos requeridos y envialo"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "5 minutos",
+    "consejos": [
+      "Este procedimiento no es un recurso administrativo y no paraliza los plazos establecidos para los trámites en la normativa vigente"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reclamos-y-sugerencias-ante-la-anmat",
+      "titulo": "Reclamos y sugerencias ante la ANMAT | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T02:46:51.524Z"
+    }
+  ],
+  "sin_confirmar": []
+}

@@ -1,0 +1,88 @@
+{
+  "tramite": {
+    "slug": "altas-de-automotores-y-motovehiculos",
+    "nombre": "Altas de automotores y motovehículos",
+    "nombre_busqueda": "alta de patente auto moto",
+    "resumen": "Para dar de alta un auto o moto, necesitás presentar documentación original y copias en la Dirección de Tasas de Servicios Municipales. El trámite no tiene costo y se completa en una semana.",
+    "sinonimos": [
+      "alta de patente",
+      "alta de vehículo",
+      "alta de motovehículo"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "patente-automotor-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060760",
+  "organismo": {
+    "nombre": "Municipalidad San Miguel",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titular o persona autorizada"
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia de título (autos y motos)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia dni titular (autos y motos)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopias de baja y libre deuda de radicación anterior (autos y motos)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de factura de compra (solo motos en primera alta)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación solicitada en la Dirección de Tasas de Servicios Municipales."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "Una semana desde la entrega de la documentación.",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Tasas de Servicios Municipales",
+      "direccion": "Belgrano 1342",
+      "localidad": "Belgrano 1342",
+      "horario": null,
+      "fuente_url": "https://www.msm.gov.ar/guia-tramites/economia-finanzas/altas-de-rodados/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.msm.gov.ar/guia-tramites/economia-finanzas/altas-de-rodados/",
+      "titulo": "Altas de Automotores y Motovehículos - Municipalidad San Miguel",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T13:08:39.454Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horarios de atención: Lunes a viernes de 08 a 14hs.",
+    "Vigencia de la información: Ordenanza Tarifaria y Fiscal."
+  ]
+}

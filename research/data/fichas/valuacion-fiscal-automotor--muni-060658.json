@@ -1,0 +1,80 @@
+{
+  "tramite": {
+    "slug": "valuacion-fiscal-automotor",
+    "nombre": "Valoración fiscal automotor",
+    "nombre_busqueda": "Valoración fiscal automotor",
+    "resumen": "Trámite para actualizar el valor de los vehículos automotores en la base de datos municipal.",
+    "sinonimos": [],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060658",
+  "organismo": {
+    "nombre": "Secretaría de Hacienda",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Propietarios de vehículos automotores."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cédula de Identidad Automotor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de la Cédula de Identidad Automotor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el DNI original."
+      },
+      {
+        "texto": "Presentá la Cédula de Identidad Automotor."
+      },
+      {
+        "texto": "Presentá la fotocopia de la Cédula de Identidad Automotor."
+      },
+      {
+        "texto": "Presentá la fotocopia del DNI."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mi.quilmes.gov.ar/tramites/259/valuacion-fiscal-automotor",
+      "titulo": "Valoración fiscal automotor",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T08:08:08.030Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se especifica que el trámite se realiza en la Secretaría de Hacienda, pero no se indica la dirección exacta, localidad ni nombre de la oficina.",
+    "No se menciona si el trámite requiere turno ni cuál es el plazo de atención.",
+    "No se indican los montos de los costos ni si el trámite tiene costo."
+  ]
+}

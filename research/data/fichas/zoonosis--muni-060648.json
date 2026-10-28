@@ -1,0 +1,78 @@
+{
+  "tramite": {
+    "slug": "zoonosis",
+    "nombre": "Zoonosis",
+    "nombre_busqueda": "zoonosis municipal",
+    "resumen": "El centro de zoonosis realiza esterilizaciones, vacunación antirrábica gratuita y control antirrábico de perros mordedores. También organiza actividades de prevención de enfermedades.",
+    "sinonimos": [
+      "servicios de zoonosis"
+    ],
+    "temas": [
+      "animales-y-zoonosis"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060648",
+  "organismo": {
+    "nombre": "Centro de zoonosis",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "La página no especifica quiénes pueden solicitar estos servicios."
+    ],
+    "requisitos": [
+      {
+        "texto": "La página no informa requisitos.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": true,
+      "monto_centavos": null,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://presidenteperon.gob.ar/zoonosis/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Zoonosis",
+      "direccion": "Australia y Japón",
+      "localidad": "Australia y Japón",
+      "horario": null,
+      "fuente_url": "https://presidenteperon.gob.ar/zoonosis/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://presidenteperon.gob.ar/zoonosis/",
+      "titulo": "Zoonosis – Presidente Perón",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T16:34:04.822Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La página no indica quiénes pueden acceder a los servicios.",
+    "La página no detalla requisitos ni pasos para solicitar las actividades.",
+    "La página informa vacunación antirrábica gratuita, pero no especifica si las demás actividades tienen costo.",
+    "La página no informa si hace falta sacar turno ni cuánto tarda la atención."
+  ]
+}

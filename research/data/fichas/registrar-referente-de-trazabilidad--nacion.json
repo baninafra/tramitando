@@ -1,0 +1,82 @@
+{
+  "tramite": {
+    "slug": "registrar-referente-de-trazabilidad",
+    "nombre": "Registrar referente de trazabilidad",
+    "nombre_busqueda": "Registrar referente de trazabilidad",
+    "resumen": "Este trámite permite a las Obras Sociales Nacionales y Entidades de Medicina Prepaga registrar un profesional de auditoría médica como referente de trazabilidad ante la Superintendencia de Servicios de Salud.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Servicios de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Obras Sociales Nacionales",
+      "Entidades de Medicina Prepaga"
+    ],
+    "requisitos": [
+      {
+        "texto": "Datos del profesional perteneciente al área de auditoría médica: Nombre y apellido",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Matrícula profesional",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dirección de correo electrónico",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del instrumento de designación suscripto por la autoridad máxima de la entidad",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al Sistema de Consultas Online Obras Social o Entidades de Medicina Prepaga con tu usuario y contraseña."
+      },
+      {
+        "texto": "Cargá los datos solicitados en la pantalla y presioná el botón Guardá situado en la parte inferior."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "En caso de requerir información adicional, envías un mail a [email protected] con el siguiente formato: Asunto: Registrar referente de trazabilidad. Cuerpo del mail: Preguntas o consultas técnicas puntuales relacionadas a la carga online en un mail que no exceda las 250 palabras."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/registrar-referente-de-trazabilidad",
+      "titulo": "Registrar referente de trazabilidad | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T03:19:44.051Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica si el trámite requiere o no la presentación presencial."
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "tramite": {
+    "slug": "patente-automotor-municipal",
+    "nombre": "Patente Automotor Municipalizado",
+    "nombre_busqueda": "Patente automotor municipalizada",
+    "resumen": "Trámite para la alta, baja por cambio de radicación, robo o destrucción de patentes automotoras en la ciudad de Marcos Paz.",
+    "sinonimos": [
+      "Patente municipalizada",
+      "Patente automotor municipal"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "patente-automotor-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060525",
+  "organismo": {
+    "nombre": "Municipalidad de Marcos Paz",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que tenga un vehículo automotor municipalizado."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del propietario del vehículo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del DNI del propietario.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de radicación vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia del certificado de radicación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Ficha técnica del vehículo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de la ficha técnica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de pago de la tasa correspondiente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta de nacimiento del propietario (si es menor de edad).",
+        "aclaracion": "Si sos menor de edad."
+      },
+      {
+        "texto": "DNI del padre o madre (si el propietario es menor de edad).",
+        "aclaracion": "Si sos menor de edad."
+      },
+      {
+        "texto": "Fotocopia del DNI del padre o madre (si el propietario es menor de edad).",
+        "aclaracion": "Si sos menor de edad."
+      },
+      {
+        "texto": "Ficha técnica del vehículo (si el propietario es menor de edad).",
+        "aclaracion": "Si sos menor de edad."
+      },
+      {
+        "texto": "Comprobante de pago de la tasa correspondiente (si el propietario es menor de edad).",
+        "aclaracion": "Si sos menor de edad."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a la oficina de Patentes Automotoras de la Municipalidad de Marcos Paz."
+      },
+      {
+        "texto": "Presentá todos los documentos requeridos para el trámite."
+      },
+      {
+        "texto": "Completá el formulario correspondiente en la oficina."
+      },
+      {
+        "texto": "Pagá la tasa correspondiente si no lo hiciste con comprobante."
+      },
+      {
+        "texto": "Recibí el comprobante de pago y el número de radicación."
+      },
+      {
+        "texto": "Retirá tu documentación en la oficina de Patentes Automotoras."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://apps.marcospazdigital.gob.ar/patentes/patentes-auto.php",
+      "titulo": "Marcos Paz Digital",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T15:35:30.319Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de la oficina de Patentes Automotoras.",
+    "Horarios de atención de la oficina.",
+    "Monto exacto de las tasas en centavos de peso.",
+    "Plazo de atención del trámite.",
+    "Si se requiere turno y cómo sacarlo."
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "tramite": {
+    "slug": "licencia-de-conducir",
+    "nombre": "Licencia de conducir",
+    "nombre_busqueda": "Licencia de conducir",
+    "resumen": "Para obtener, renovar o ampliar la licencia de conducir en el Partido de Marcos Paz, se deben cumplir requisitos específicos según el caso (primera vez, renovación, ampliación, etc.), aprobar exámenes teórico y práctico, y presentar documentación original y fotocopiada. Los mayores de 70 años tienen requisitos médicos especiales.",
+    "sinonimos": [
+      "Permiso de conducir",
+      "Tarjeta de conducir",
+      "Carnet de conducir"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060525",
+  "organismo": {
+    "nombre": "Municipio de Marcos Paz",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que cumpla con los requisitos de edad y aptitud para conducir según la categoría solicitada.",
+      "Profesionales que deseen renovar su licencia para conducir en la provincia de Buenos Aires."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original con domicilio en el Partido de Marcos Paz y fotocopia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de poseer DNI digital, exhibirlo en la Aplicación Mi Argentina junto a una fotocopia de captura de pantalla de la misma.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Licencia de conducir original y fotocopia (en caso de renovación o ampliación).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Exposición civil por extravío o denuncia por robo (en caso de pérdida de la licencia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Libre de deuda de patentes de rodados Municipales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "No estar inscripto en el Registro de Deudores Alimentarios Morosos (RDAM).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificados o estudios actualizados de patologías si se padece alguna enfermedad o está bajo tratamiento médico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado donde acredite apto médico para conducir (mayores de 70 años sin excepción).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de antecedentes penales otorgado por la Dirección Nacional de Reincidencia (para la categoría profesional).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización de padre y madre o tutor completa ante escribano Público o Juez de Paz (para menores de edad).",
+        "aclaracion": "Si sos menor de edad."
+      },
+      {
+        "texto": "Certificado de Legalidad en caso de licencia expedida por Municipios que NO pertenecen a la Prov. de Bs. As. (para renovación).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Examen teórico aprobado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Examen práctico de manejo aprobado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Vehículo acorde a la clase solicitada y un acompañante con licencia habilitante para la clase que conduce (para el examen práctico).",
+        "aclaracion": null
+      },
+      {
+        "texto": "El vehículo debe contar con cédula verde, VTV y seguro del vehículo vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Antigüedad de un año con licencia particular (para categorías profesionales).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar a la Aplicación Mi Argentina para exhibir el DNI digital si se posee."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Concurrir a la Oficina de Licencias con la documentación original y fotocopiada requerida."
+      },
+      {
+        "texto": "Presentar el Libre de deuda de patentes de rodados Municipales."
+      },
+      {
+        "texto": "Aprobar los exámenes teórico y práctico en las dependencias de la oficina."
+      },
+      {
+        "texto": "Para el examen práctico, concurrir con el vehículo acorde a la clase solicitada y un acompañante con licencia habilitante."
+      },
+      {
+        "texto": "Retirar la licencia de conducir aprobada."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Licencias de Conducir",
+      "direccion": "LIBERTAD 2232, ESQUINA AGÜERO",
+      "localidad": "Marcos Paz",
+      "horario": null,
+      "fuente_url": "https://www.marcospaz.gov.ar/tr%C3%A1mites-y-servicios/tramitesyservicios1/licencias-de-conducir.html"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.marcospaz.gov.ar/tr%C3%A1mites-y-servicios/tramitesyservicios1/licencias-de-conducir.html",
+      "titulo": "Licencias de conducir - Municipio de Marcos Paz",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T15:20:43.628Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos de costos.",
+    "No se especifican plazos exactos de espera para la atención."
+  ]
+}

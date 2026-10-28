@@ -1,0 +1,114 @@
+{
+  "tramite": {
+    "slug": "inscripcion-tasa-servicios-municipales",
+    "nombre": "Inscripción de Tasa por otros Servicios Municipales",
+    "nombre_busqueda": "Inscripción de Tasa por otros Servicios Municipales",
+    "resumen": "Trámite para que personas físicas o jurídicas se inscriban como contribuyentes de tasas por servicios prestados por la Municipalidad, como mantenimiento de espacios públicos o infraestructura urbana.",
+    "sinonimos": [],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "tasa-inmobiliaria-y-servicios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas físicas o jurídicas con residencia permanente o transitoria en jurisdicción municipal.",
+      "Personas que tengan el uso o goce, real o potencial, de servicios directos e indirectos prestados en el Municipio.",
+      "Personas que utilicen y/o usufructúen infraestructura o bienes municipales o de dominio público situados en jurisdicción municipal."
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia y Original de D.N.I./L.E./L.C.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia y Original de servicio (luz, gas, teléfono, etc.) que acredite domicilio declarado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción en AFIP.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción en Ingresos Brutos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planilla de datos personales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Firma certificada de la Solicitud de Inscripción por personal municipal.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Generá constancia de inscripción en la AFIP."
+      },
+      {
+        "texto": "Descargá y completá la Solicitud de Inscripción en la Tasa por otros Servicios Municipales."
+      },
+      {
+        "texto": "Descargá y completá la Planilla Datos Personales."
+      },
+      {
+        "texto": "Presentate en forma personal en el Departamento de Recaudación, Seguridad e Higiene, con toda la documentación requerida."
+      },
+      {
+        "texto": "Se genera un número de contribuyente."
+      },
+      {
+        "texto": "Se genera una boleta de pago."
+      },
+      {
+        "texto": "Aboná en las cajas del Municipio conforme a la actividad declarada."
+      },
+      {
+        "texto": "Personal de Seguridad e Higiene te otorga una clave, mediante la cual cada dos meses se debe actualizar la declaración jurada."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Departamento de Recaudación, Seguridad e Higiene",
+      "direccion": "Alsina 43",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/tasas/inscripcion-indirectos-y-directos/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/tramites/tasas/inscripcion-indirectos-y-directos/",
+      "titulo": "Inscripción de Tasa por otros Servicios Municipales | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-27T20:32:05.827Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto de la tasa varía conforme a la actividad declarada.",
+    "No se especifica el plazo de realización del trámite."
+  ]
+}

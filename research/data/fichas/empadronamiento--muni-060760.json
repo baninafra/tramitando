@@ -1,0 +1,100 @@
+{
+  "tramite": {
+    "slug": "empadronamiento",
+    "nombre": "Empadronamiento",
+    "nombre_busqueda": "Empadronamiento",
+    "resumen": "El trámite de empadronamiento permite al contribuyente realizar actividades comerciales cumpliendo los requisitos establecidos en el Decreto Nº 239/96. Requiere presentar documentación, coordinar una inspección municipal y realizar un pago en la oficina de Tasas Comerciales.",
+    "sinonimos": [],
+    "temas": [
+      "comercio-e-industria",
+      "habilitacion-comercial"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060760",
+  "organismo": {
+    "nombre": "Municipalidad San Miguel",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El contribuyente que desee realizar actividades comerciales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento Nacional de Identidad (DNI).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contrato de Comodato o documento que acredite el uso del inmueble.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de un servicio a nombre del solicitante (luz, agua o gas).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación requerida en la oficina de Sarmiento 1686."
+      },
+      {
+        "texto": "Coordiná una inspección municipal."
+      },
+      {
+        "texto": "Tras la inspección, recibí el número de expediente por WhatsApp."
+      },
+      {
+        "texto": "Con el número de expediente, dirigite a Tasas Comerciales en Sarmiento 1550 (de 8:00 a 14:00 hs)."
+      },
+      {
+        "texto": "Registrá el primer pago."
+      },
+      {
+        "texto": "Retirá el documento de empadronamiento."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "24 horas hábiles",
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Oficina de Sarmiento 1686",
+      "direccion": "Sarmiento 1686",
+      "localidad": "Sarmiento 1686",
+      "horario": null,
+      "fuente_url": "https://www.msm.gov.ar/guia-tramites/habilitaciones/empadronamiento/"
+    },
+    {
+      "nombre": "Tasas Comerciales",
+      "direccion": "Sarmiento 1550",
+      "localidad": "Sarmiento 1550",
+      "horario": null,
+      "fuente_url": "https://www.msm.gov.ar/guia-tramites/habilitaciones/empadronamiento/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.msm.gov.ar/guia-tramites/habilitaciones/empadronamiento/",
+      "titulo": "Empadronamiento - Municipalidad San Miguel",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T13:57:42.201Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican los montos de las tasas o costos asociados al trámite.",
+    "No se especifican los requisitos para menores de edad o casos especiales."
+  ]
+}

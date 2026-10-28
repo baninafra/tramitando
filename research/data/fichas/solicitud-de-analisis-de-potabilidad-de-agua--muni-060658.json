@@ -1,0 +1,79 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-analisis-de-potabilidad-de-agua",
+    "nombre": "Solicitud de análisis de potabilidad de agua",
+    "nombre_busqueda": "Analisis potabilidad agua quilmes",
+    "resumen": "Solicitá un análisis de la calidad del agua de la red municipal. El trámite es gratuito y requiere que el agua provenga de la red de distribución de la ciudad.",
+    "sinonimos": [
+      "Análisis de agua potable",
+      "Control de calidad de agua",
+      "Informe de potabilidad"
+    ],
+    "temas": [
+      "salud-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060658",
+  "organismo": {
+    "nombre": "Municipalidad de Quilmes",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona natural o jurídica que requiera verificar la calidad del agua de la red municipal."
+    ],
+    "requisitos": [
+      {
+        "texto": "Solicitud en formato digital o físico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de que el agua proviene de la red de distribución de la ciudad.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al portal de trámites de la Municipalidad de Quilmes."
+      },
+      {
+        "texto": "Buscá el trámite 'Solicitud de análisis de potabilidad de agua'."
+      },
+      {
+        "texto": "Completá los datos de la solicitud y adjuntá el comprobante de la red."
+      },
+      {
+        "texto": "Realizá el pago si corresponde (si aplica)."
+      },
+      {
+        "texto": "Recibí el comprobante de envío y seguí el estado del trámite."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mi.quilmes.gov.ar/tramites/366/solicitud-de-analisis-de-potabilidad-de-agua",
+      "titulo": "Solicitud de análisis de potabilidad de agua",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T06:25:46.725Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del análisis si aplica, ya que la página indica que es gratuito pero no detalla si hay costos adicionales por muestreo externo.",
+    "El plazo estimado de entrega del informe de análisis."
+  ]
+}

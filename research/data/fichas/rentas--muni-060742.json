@@ -1,0 +1,112 @@
+{
+  "tramite": {
+    "slug": "pago-de-tasas-municipales",
+    "nombre": "Pago de tasas municipales",
+    "nombre_busqueda": "Pago de tasas municipales",
+    "resumen": "Aboná las tasas y servicios municipales a través de medios habilitados como Tarjeta de débito, Cuenta DNI, Homebanking o código QR. También podés descargar la boleta para pagar en Banco Provincia o Tesorería Municipal.",
+    "sinonimos": [
+      "Pago de tasas",
+      "Pago de servicios municipales",
+      "Pago de tasas San Cayetano"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060742",
+  "organismo": {
+    "nombre": "Municipalidad de San Cayetano",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El contribuyente"
+    ],
+    "requisitos": [
+      {
+        "texto": "Ingresar en https://www.tasaswebsancayetano.com.ar y seleccionar la tasa a abonar",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descargar la boleta si se desea pagar presencialmente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Completar el formulario para recibir la factura vía mail",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresar en https://www.tasaswebsancayetano.com.ar"
+      },
+      {
+        "texto": "Seleccionar la tasa a abonar"
+      },
+      {
+        "texto": "Elegir el medio de pago habilitado (Tarjeta de débito, Cuenta DNI, Homebanking o código QR)"
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Descargar la boleta"
+      },
+      {
+        "texto": "Pagar en Banco Provincia o Tesorería Municipal"
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "Costo de distribución para tasas recibidas en papel",
+      "gratis": false,
+      "monto_centavos": 1000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://sancayetano.gob.ar/pago-de-tasas-municipales/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Tesorería Municipal",
+      "direccion": "Av. San Martín 451",
+      "localidad": "San Cayetano",
+      "horario": null,
+      "fuente_url": "https://sancayetano.gob.ar/pago-de-tasas-municipales/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://sancayetano.gob.ar/pago-de-tasas-municipales/",
+      "titulo": "PAGO DE TASAS MUNICIPALES - San Cayetano | Municipalidad",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T10:11:45.663Z"
+    },
+    {
+      "url": "https://sancayetano.gob.ar/medios-de-pago-habilitados/",
+      "titulo": "Medios de pago habilitados - San Cayetano | Municipalidad",
+      "bloques": [
+        "requisitos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T10:11:45.663Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los montos específicos de las tasas no se indican en el texto.",
+    "La vigencia exacta del costo de distribución no se especifica más allá del año actual."
+  ]
+}

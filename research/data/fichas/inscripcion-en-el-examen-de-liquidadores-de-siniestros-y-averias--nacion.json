@@ -1,0 +1,138 @@
+{
+  "tramite": {
+    "slug": "inscripcion-examen-liquidadores-de-siniestros-y-averias",
+    "nombre": "Inscripción al examen de liquidadores de siniestros y averías",
+    "nombre_busqueda": "inscripción examen liquidador de siniestros y averías matrícula SSN",
+    "resumen": "Podés inscribirte en línea al examen de competencia para obtener la matrícula de Liquidador de Siniestros y Averías de la SSN. El trámite se hace por TAD y necesitás clave fiscal.",
+    "sinonimos": [
+      "matrícula de liquidador de siniestros y averías",
+      "examen de competencia para liquidadores",
+      "registro de liquidadores de siniestros y averías"
+    ],
+    "temas": [
+      "cursos-y-formacion-laboral"
+    ],
+    "temas_propuestos": [
+      {
+        "slug": "seguros-y-liquidadores-de-siniestros",
+        "nombre": "Seguros y liquidadores de siniestros",
+        "padre": "trabajo-y-seguridad-social"
+      }
+    ]
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Seguros de la Nación",
+    "sigla": "SSN",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes quieran obtener la matrícula de Liquidador de Siniestros y Averías y cumplan con los requisitos del examen."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tené usuario de acceso a Trámites a Distancia (clave fiscal).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá el DNI con domicilio actualizado, ambas caras.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá el título de estudios secundarios certificado por escribano o juez de paz.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pagá el derecho de examen con la boleta que generás en e-Recauda y presentá la constancia de pago.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá el certificado de reincidencia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentá tu currículum vitae.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Firmá el Acuerdo de Honestidad y presentalo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Digitalizá toda la documentación: el trámite se hace por TAD.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD con clave fiscal, al trámite Inscripción al examen para liquidadores de siniestros y averías, dentro del período que se indica en las fechas del examen."
+      },
+      {
+        "texto": "Completá los datos y adjuntá los documentos solicitados."
+      },
+      {
+        "texto": "Confirmá los datos que cargaste."
+      },
+      {
+        "texto": "Guardá el número de expediente que genera el sistema ante la SSN."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El organismo analiza la información que presentás y, si hay una observación, te la comunica.",
+      "El liquidador investiga cómo ocurrió un siniestro, define si la póliza cubre la avería y, si corresponde, propone un monto a indemnizar."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "Derecho de examen",
+      "gratis": false,
+      "monto_centavos": 3300000,
+      "vigente_desde": null,
+      "nota": "Valor para el año 2026.",
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscripcion-en-el-examen-de-liquidadores-de-siniestros-y-averias"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscripcion-en-el-examen-de-liquidadores-de-siniestros-y-averias",
+      "titulo": "Inscripción en el examen de Liquidadores de Siniestros y Averías | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T00:19:04.229Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/justicia/reincidencia/antecedentespenales/preguntas-frecuentes",
+      "titulo": "Preguntas frecuentes sobre el Certificado de Antecedentes Penales | Argentina.gob.ar",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T00:19:04.229Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/superintendencia-de-seguros/mercado-asegurador/liquidadores-de-siniestros-y-averias",
+      "titulo": "Liquidadores de siniestros y averías | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T00:19:04.229Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se indican las fechas del examen ni el plazo para inscribirse.",
+    "El texto no dice cuánto tarda la SSN en analizar la inscripción.",
+    "El costo de $33.000 corresponde al año 2026, sin fecha exacta de vigencia.",
+    "No se detallan oficinas de atención para este trámite."
+  ]
+}

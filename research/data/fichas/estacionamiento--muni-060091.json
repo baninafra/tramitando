@@ -1,0 +1,133 @@
+{
+  "tramite": {
+    "slug": "estacionamiento-medido",
+    "nombre": "Estacionamiento medido",
+    "nombre_busqueda": "Estacionamiento medido Berazategui",
+    "resumen": "El trámite permite adquirir crédito para estacionar en la ciudad mediante la App SEM MOBILE o en puntos de venta adheridos. Se debe ingresar la patente y finalizar el servicio en la aplicación.",
+    "sinonimos": [
+      "Estacionamiento puntual",
+      "Pago de estacionamiento",
+      "Estacionamiento SEM"
+    ],
+    "temas": [
+      "estacionamiento-medido"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060091",
+  "organismo": {
+    "nombre": "Municipalidad de Berazategui",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier usuario que desee estacionar en la ciudad."
+    ],
+    "requisitos": [
+      {
+        "texto": "Patente del vehículo (sin espacios).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Crédito en los puntos de venta o a través de Mercado Pago.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Celular para usar la App SEM MOBILE.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Descargá la App SEM MOBILE."
+      },
+      {
+        "texto": "Adquirí crédito en los puntos de venta o a través de Mercado Pago."
+      },
+      {
+        "texto": "Ingresá a la App y seleccioná 'Iniciar Estacionamiento'."
+      },
+      {
+        "texto": "Ingresá la patente del vehículo (sin espacios)."
+      },
+      {
+        "texto": "Finalizá el estacionamiento en la App seleccionando 'Finalizar Estacionamiento'."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Estacioná el vehículo."
+      },
+      {
+        "texto": "Dirigite a un punto de venta adherido."
+      },
+      {
+        "texto": "Solicitá 'Estacionamiento Puntual', indicá la patente y el tiempo de permanencia."
+      },
+      {
+        "texto": "Recibí el comprobante consignando patente y hora límite."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "1ra hora",
+      "gratis": false,
+      "monto_centavos": 50000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://berazategui.gob.ar/estacionamiento/"
+    },
+    {
+      "modalidad": "2da hora",
+      "gratis": false,
+      "monto_centavos": 70000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://berazategui.gob.ar/estacionamiento/"
+    },
+    {
+      "modalidad": "3ra hora y siguientes",
+      "gratis": false,
+      "monto_centavos": 100000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://berazategui.gob.ar/estacionamiento/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Atención al Usuario",
+      "direccion": "Calle 148 e/ 13 y Av. 14",
+      "localidad": "Calle 148 e/ 13 y Av. 14",
+      "horario": null,
+      "fuente_url": "https://berazategui.gob.ar/estacionamiento/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://berazategui.gob.ar/estacionamiento/",
+      "titulo": "Estacionamiento medido – Municipalidad de Berazategui",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T21:58:04.030Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horarios de atención de las oficinas.",
+    "Dirección exacta de la localidad de las oficinas.",
+    "Vigencia del trámite.",
+    "Dirección de los puntos de venta adheridos."
+  ]
+}

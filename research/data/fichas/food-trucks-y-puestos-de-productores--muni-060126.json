@@ -1,0 +1,95 @@
+{
+  "tramite": {
+    "slug": "permisos-y-registro-food-trucks-y-puestos-productores",
+    "nombre": "Permisos y registro para Food Trucks y Puestos de Productores",
+    "nombre_busqueda": "Registro Food Trucks y Puestos Productores Campana",
+    "resumen": "Para instalar un Food Truck en Campana necesitás inscribirte en el Registro Municipal de Food Trucks según la Ordenanza N°7108. También podés vender productos locales en las ferias.",
+    "sinonimos": [
+      "Registro Food Trucks Campana",
+      "Puestos de Productores Campana",
+      "Venta ambulante Campana"
+    ],
+    "temas": [
+      "ferias-y-venta-ambulante"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060126",
+  "organismo": {
+    "nombre": "Municipalidad de Campana",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Emprendedores gastronómicos interesados en instalar Food Trucks.",
+      "Productores locales y artesanos que quieran vender en ferias."
+    ],
+    "requisitos": [
+      {
+        "texto": "Ordenanza N°7108 vigente para Food Trucks.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario de pre carga para Food Trucks.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Llená el formulario de pre carga para Food Trucks."
+      },
+      {
+        "texto": "Contactá a mercadito@campana.gov.ar para participar vendiendo productos locales en ferias."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá las ordenanzas a través del link oficial.",
+      "Contactá por mail a foodtruck@campana.gob.ar para inscribirte en el Registro Municipal de Food Trucks."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.campana.gob.ar/food-trucks-y-puestos-de-productores/",
+      "titulo": "Food Trucks y Puestos de Productores – Municipalidad de Campana",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T09:56:45.302Z"
+    },
+    {
+      "url": "https://www.campana.gob.ar/turnos/",
+      "titulo": "Turnos, reclamos y solicitudes – Municipalidad de Campana",
+      "bloques": [
+        "resumen",
+        "quien",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T09:56:45.302Z"
+    },
+    {
+      "url": "https://www.campana.gob.ar/capacitate/",
+      "titulo": "Capacitate – Municipalidad de Campana",
+      "bloques": [
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T09:56:45.302Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere confirmación sobre si el formulario de pre carga se puede completar online o solo presencialmente.",
+    "Se requiere confirmación sobre los requisitos específicos para productores locales más allá del contacto por mail.",
+    "Se requiere confirmación sobre si se necesita turno para la inscripción de Food Trucks.",
+    "Se requiere confirmación sobre si hay costos asociados al registro o la ordenanza N°7108."
+  ]
+}

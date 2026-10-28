@@ -1,0 +1,144 @@
+{
+  "tramite": {
+    "slug": "solicitar-auditoria-de-buenas-practicas-de-manufactura-bpm-y-analisis-de-peligros-y-puntos",
+    "nombre": "Solicitar auditoría de buenas prácticas de manufactura (BPM) y análisis de peligros y puntos críticos de control (APPCC…",
+    "nombre_busqueda": "solicitar auditoría BPM y APPCC apícolas",
+    "resumen": "Trámite para solicitar al Senasa auditorías de implementación de Buenas Prácticas de Manufactura (BPM) o sistemas de inocuidad (APPCC/HACCP) en establecimientos habilitados por el Senasa. Se requiere domicilio electrónico y pago de arancel.",
+    "sinonimos": [
+      "auditoría BPM apícolas",
+      "auditoría APPCC apícolas",
+      "auditoría HACCP apícolas"
+    ],
+    "temas": [
+      "comercio-e-industria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares o apoderados de establecimientos exportadores habilitados por el Senasa (procesadores, depósitos o acopios) de miel o productos apícolas."
+    ],
+    "requisitos": [
+      {
+        "texto": "Solicitud dirigida al señor Director Regional del Centro Regional del Senasa correspondiente a la localización geográfica del establecimiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Razón social y número de establecimiento oficial.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tipo de auditoría solicitada: BPM, HACCP reconocimiento, HACCP revalidación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos de la persona de contacto (correo electrónico, teléfono).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Productos y líneas o grupos tecnológicos solicitados, de acuerdo a lo que corresponda.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Registro obligatorio de domicilio electrónico mediante el sistema SIGTrámites.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma TAD."
+      },
+      {
+        "texto": "Aboná el arancel que corresponda, ver los Medios de pago habilitados – Senasa."
+      },
+      {
+        "texto": "Esperá la comunicación para acordar fecha definitiva de auditoría del área del Senasa que corresponda (Área apícola del Centro Regional correspondiente o bien Área apícola de Senasa central)."
+      },
+      {
+        "texto": "Si corresponde, el trámite es finalizado con la entrega del certificado."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá las Normativas relacionadas con los costos del trámite.",
+      "Si tenés un trámite iniciado lo podés consultar de forma rápida y simple."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Inocuidad y Calidad Agroalimentaria",
+      "direccion": "Av. Paseo Colón Nº 367, piso 5º cfrente, C1063ACD, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-auditoria-de-buenas-practicas-de-manufactura-bpm-y-analisis-de-peligros-y-puntos"
+    },
+    {
+      "nombre": "sede del Centro Regional Metropolitano",
+      "direccion": "Azopardo 1020 - CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-auditoria-de-buenas-practicas-de-manufactura-bpm-y-analisis-de-peligros-y-puntos"
+    },
+    {
+      "nombre": "Laboratorio Central",
+      "direccion": "Talcahuano 1660 – Martínez, Provincia de Buenos Aires",
+      "localidad": "Martínez",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-auditoria-de-buenas-practicas-de-manufactura-bpm-y-analisis-de-peligros-y-puntos"
+    },
+    {
+      "nombre": "sede del Centro Regional Buenos Aires",
+      "direccion": "Mar de Plata, Provincia de Buenos Aires",
+      "localidad": "Mar de Plata",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-auditoria-de-buenas-practicas-de-manufactura-bpm-y-analisis-de-peligros-y-puntos"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-auditoria-de-buenas-practicas-de-manufactura-bpm-y-analisis-de-peligros-y-puntos",
+      "titulo": "Solicitar auditoría de buenas prácticas de manufactura (BPM) y análisis de peligros y puntos críticos de control (APPCC/HACCP) para establecimientos apícolas. | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T04:12:04.399Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T04:12:04.399Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T04:12:04.399Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica el monto exacto del arancel, solo indica que se debe abonar y consultar las normativas.",
+    "El texto no especifica un plazo de tiempo para la realización de la auditoría, solo menciona la fecha definitiva de acuerdo."
+  ]
+}

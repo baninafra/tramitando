@@ -1,0 +1,71 @@
+{
+  "tramite": {
+    "slug": "cedula-catastral",
+    "nombre": "Cédula Catastral",
+    "nombre_busqueda": "Cédula Catastral",
+    "resumen": "Documento que acredita la propiedad de un inmueble en el catastro municipal.",
+    "sinonimos": [],
+    "temas": [
+      "catastro-e-inmuebles"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060098",
+  "organismo": {
+    "nombre": "Municipalidad de Berisso",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Propietarios de inmuebles."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del propietario.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cédula de identidad del propietario.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de la cédula de identidad.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá los documentos en la oficina."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://timbrados.berisso.gob.ar/timbrados/5",
+      "titulo": "Timbrados",
+      "bloques": [
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T04:13:35.949Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos.",
+    "No se especifican pasos.",
+    "No se especifica quién puede hacerlo.",
+    "No se especifica el plazo.",
+    "No se especifica el costo.",
+    "No se especifica si requiere turno.",
+    "No se especifica la dirección de la oficina."
+  ]
+}

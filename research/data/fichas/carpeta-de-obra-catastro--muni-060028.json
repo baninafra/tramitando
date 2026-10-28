@@ -1,0 +1,78 @@
+{
+  "tramite": {
+    "slug": "carpeta-de-obra-catastro",
+    "nombre": "Carpeta de obra (catastro)",
+    "nombre_busqueda": "Carpeta de obra catastro",
+    "resumen": "Es el expediente oficial donde se registran todos los documentos, planos y autorizaciones relacionadas a una obra o construcción en un inmueble.",
+    "sinonimos": [],
+    "temas": [
+      "obras-y-construccion",
+      "permiso-de-obra-y-planos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060028",
+  "organismo": {
+    "nombre": "Municipio de Almirante Brown",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes tengan una obra o construcción en un inmueble."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Carpeta de obra completa.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Informe de dominio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Croquis de la parcela.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Municipalidad de Almirante Brown",
+      "direccion": "Rosales 1312",
+      "localidad": "Adrogué",
+      "horario": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/carpeta-de-obra-catastro/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.brown.gob.ar/tramites/carpeta-de-obra-catastro/",
+      "titulo": "Carpeta de Obra (Catastro)",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "resumen",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T19:19:33.465Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica si el trámite se puede hacer por internet.",
+    "No se especifica si requiere turno.",
+    "No se especifica el plazo de tramitación.",
+    "No se especifica el costo del trámite."
+  ]
+}

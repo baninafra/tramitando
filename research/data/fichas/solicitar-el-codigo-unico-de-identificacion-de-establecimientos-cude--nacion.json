@@ -1,0 +1,121 @@
+{
+  "tramite": {
+    "slug": "solicitar-cude",
+    "nombre": "Solicitar el código único de identificación de establecimientos",
+    "nombre_busqueda": "Solicitar CUDE",
+    "resumen": "Es necesario para cargar la declaración jurada anual de efluentes líquidos industriales. Se realiza online y es gratuito.",
+    "sinonimos": [
+      "Solicitar CUDE",
+      "Obtener código único de identificación de establecimientos"
+    ],
+    "temas": [
+      "ambiente-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección de Protección Ambiental",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes estén empadronados ante la Dirección de Protección Ambiental.",
+      "Quienes tengan los datos del establecimiento actualizados."
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia de ARCA actualizada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Razón Social.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio real y legal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Teléfonos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Correo electrónico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de CUIT.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de partida inmobiliaria y nomenclatura catastral.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Realizar una Presentación Ciudadana ante el Poder Ejecutivo, Ministerio del Interior."
+      },
+      {
+        "texto": "Incluir en observaciones el resto de la dependencia: Secretaría de Turismo, Ambiente y Deportes, Subsecretaría de Ambiente, Dirección de Protección Ambiental."
+      },
+      {
+        "texto": "Anexar la documentación descripta en los requisitos."
+      },
+      {
+        "texto": "Ingresar a Trámites a Distancia (TAD) a través del link oficial."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultar el manual con los pasos a seguir para la correcta carga de la correspondiente Declaración Jurada.",
+      "Verificar que el sistema esté operativo antes de iniciar el trámite."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Protección Ambiental de la Subsecretaría de Ambiente",
+      "direccion": "San Martín 451",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-el-codigo-unico-de-identificacion-de-establecimientos-cude"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-el-codigo-unico-de-identificacion-de-establecimientos-cude",
+      "titulo": "Solicitar el Código Único de Identificación de Establecimientos (CUDE) | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-27T08:52:40.249Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/servicio/presentar-la-declaracion-jurada-anual-de-efluentes-liquidos-industriales",
+      "titulo": "Presentar la declaración jurada anual de efluentes líquidos industriales | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:52:40.249Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto menciona que el trámite es necesario para la carga de la declaración jurada anual de efluentes líquidos industriales, pero no especifica si el CUDE se solicita directamente aquí o si se obtiene en otro trámite previo para luego usarlo en este.",
+    "No se especifica en el texto si el trámite requiere turno ni cuál es el plazo exacto para la solicitud del CUDE, aunque se menciona un plazo prorrogado para la declaración jurada."
+  ]
+}

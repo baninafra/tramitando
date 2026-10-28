@@ -1,0 +1,96 @@
+{
+  "tramite": {
+    "slug": "reclamo-errores-factura-celular",
+    "nombre": "Reclamar por errores en la factura del celular",
+    "nombre_busqueda": "Reclamar errores factura celular",
+    "resumen": "Si la empresa de telefonía no atiende tus reclamos sobre cargos mal facturados, podés solicitar la intervención del ENACOM presentando documentación específica.",
+    "sinonimos": [
+      "Reclamo ENACOM factura celular",
+      "Intervención ENACOM telefonía"
+    ],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ente Nacional de Comunicaciones",
+    "sigla": "ENACOM",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titulares de la línea móvil.",
+      "Apoderados con poder ante escribano público o carta poder con firma certificada por entidad bancaria o policial."
+    ],
+    "requisitos": [
+      {
+        "texto": "Fotocopia del documento de identidad (DNI, Pasaporte).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia completa de una factura reciente del servicio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fecha y número del reclamo otorgado por la empresa prestataria del servicio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Utra documentación que consideres de interés.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fotocopia de cualquier documentación que hayas enviado a la empresa o hayas recibido por parte de ella.",
+        "aclaracion": null
+      },
+      {
+        "texto": "F37b - Formulario general para iniciar reclamos sobre servicios de telefonía móvil y/o nota firmada por quien se presente, identificando el inconveniente y la fecha de inicio.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación en la Oficina de Atención al Público correspondiente a tu domicilio."
+      },
+      {
+        "texto": "Envialá por correo postal al Apartado Especial 114."
+      },
+      {
+        "texto": "Consultá el estado del trámite en la oficina en que lo iniciaste, en forma personal, teléfonica o por correo electrónico."
+      },
+      {
+        "texto": "Aguardá la notificación de la resolución del ENACOM."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Hacé el reclamo ante la empresa prestadora en primer lugar.",
+      "Si no te responden dentro de los siguientes 10 días hábiles o no considerás satisfecho tu pedido, podés solicitar la intervención del ENACOM."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reclamar-por-errores-en-la-factura-del-celular",
+      "titulo": "Reclamar por errores en la factura del celular | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T02:40:47.742Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de las oficinas de atención al público.",
+    "Monto de costos si aplica."
+  ]
+}

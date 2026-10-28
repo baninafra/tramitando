@@ -1,0 +1,87 @@
+{
+  "tramite": {
+    "slug": "reafectar-pagos-regimen-general-arca",
+    "nombre": "Reafectar pagos en el Régimen General de ARCA",
+    "nombre_busqueda": "Reafectar pagos ARCA",
+    "resumen": "Este trámite te permite reimputar pagos totales o parciales que se hayan realizado incorrectamente, ya sea por internet con clave fiscal o presencialmente.",
+    "sinonimos": [],
+    "temas": [
+      "cuil-y-clave-de-seguridad-social",
+      "aportes-e-historia-laboral"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración Federal de Ingresos Públicos",
+    "sigla": "AFIP",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "A contribuyentes del sistema tributario."
+    ],
+    "requisitos": [
+      {
+        "texto": "Clave fiscal.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario 399 completo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Originales y fotocopias de los tickets de pago.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento que acredite tu identidad como contribuyente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poder ante escribano, F. 3283 o autorización del titular si actuás en representación de éste.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio web de ARCA con clave fiscal, en el servicio Sistema de cuentas tributarias."
+      },
+      {
+        "texto": "Accedé al menú Transacciones - Reimputación de pagos contribuyente."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en la dependencia en la que estás inscripto/a con el formulario 399 completo."
+      },
+      {
+        "texto": "Podés reimputar los pagos que exceden el saldo del Impuesto determinado."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reafectar-pagos-en-el-regimen-general-de-arca",
+      "titulo": "Reafectar pagos en el Régimen General de ARCA | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T02:32:11.503Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto menciona que para períodos previos a julio de 2004 tenés que hacerlo en forma presencial en dependencias de ARCA, pero no especifica si esto cambia los requisitos online ni el plazo exacto.",
+    "No se especifica en el texto si el trámite requiere turno para hacerlo presencialmente."
+  ]
+}

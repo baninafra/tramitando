@@ -1,0 +1,78 @@
+{
+  "tramite": {
+    "slug": "solicitar-picto-ucth",
+    "nombre": "Solicitar PICTO UCTH",
+    "nombre_busqueda": "Solicitar PICTO UCTH",
+    "resumen": "Convocatoria para financiar proyectos de investigación en Unidades de Conocimiento Traslacional Hospitalarias (UCTH) con un subsidio máximo de 30 millones de pesos.",
+    "sinonimos": [],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Agencia I+D+i",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Grupos de investigación que se desempeñen en Unidades de Conocimiento Traslacional Hospitalarias (UCTH) registradas o en proceso de registro en el marco del Plan Nacional de Investigación Traslacional en Salud para la red de Hospitales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener un proyecto con antecedentes de investigación y práctica asistencial en ámbitos hospitalarios.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Las personas designadas como Investigador/a Responsable, integrantes del Grupo Responsable o como parte del Grupo Colaborador, deben estar registradas en CVar.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Realizar la presentación del proyecto a través del sistema de gestión de proyectos Agenciar."
+      },
+      {
+        "texto": "Una vez completados y verificados los datos que solicita el formulario y adjuntado el archivo de Descripción Técnica correspondiente, se deberá enviar la constancia avalada por la Institución Beneficiaria, hasta el último viernes de marzo, julio o noviembre a las 18 h."
+      },
+      {
+        "texto": "Luego de completar todos los datos del proyecto, presionar el botón GENERAR CONSTANCIA, así se generará el archivo para el aval institucional."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 300000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-picto-ucth"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-picto-ucth",
+      "titulo": "Solicitar PICTO UCTH | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T16:14:37.151Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia de la convocatoria no se especifica en el texto, solo se menciona una fecha prorrogada de edición de proyectos en diciembre de 2023."
+  ]
+}

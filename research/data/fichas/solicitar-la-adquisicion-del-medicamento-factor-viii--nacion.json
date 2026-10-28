@@ -1,0 +1,87 @@
+{
+  "tramite": {
+    "slug": "solicitar-adquisicion-medicamento-factor-viii",
+    "nombre": "Solicitar la adquisición del medicamento Factor VIII",
+    "nombre_busqueda": "Solicitar Factor VIII",
+    "resumen": "Este trámite permite a los Agentes del Seguro con beneficiarios menores de 21 años portadores de hemofilia A severa solicitar la compra de medicamentos especiales de Factor VIII a través de la plataforma SIGMAC.",
+    "sinonimos": [],
+    "temas": [
+      "prestaciones-medicas-e-incluir-salud",
+      "medicamentos-y-farmacia-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Servicios de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Agentes del Seguro que tengan beneficiarios hasta 21 años de edad inclusive portadores de hemofilia A severa en tratamiento con Factor VIII plasmático y recombinante, en presentaciones de 500UI y 1000UI."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documentación obligatoria para solicitar el alta del beneficiario al programa (empadronamiento): Nota de solicitud de alta al programa (Anexo III) dirigida al Superintendente de Servicios de Salud, con firma certificada por escribano público, que contenga nombre y apellido, número de beneficiario,…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Resumen de Historia Clínica firmado por el médico tratante y auditor médico, que incluya fecha de inicio del tratamiento, antecedentes y comorbilidades, tipo y dosis de Factor VIII utilizado (UI/kg y frecuencia).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Prescripción médica original extendida por médico hematólogo o tratante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Protocolos de laboratorio que incluyan nivel de Factor VIII y dosaje de inhibidor (cuando corresponda), firmados por profesional bioquímico o hematólogo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Consentimiento informado firmado por el paciente y el médico tratante.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Acceder a SIGMAC y cargar todos los archivos en formato PDF, según el instructivo vigente disponible en los canales oficiales de la Superintendencia de Servicios de Salud."
+      },
+      {
+        "texto": "Esperar la validación por parte de la Comisión Asesora Técnica, la cual se notificará mediante SIGMAC."
+      },
+      {
+        "texto": "En caso de observaciones o rechazo, se informarán los motivos."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La medicación es personal e intransferible.",
+      "El Beneficiario tendrá un máximo de 10 días hábiles para retirar la medicación una vez que la misma haya sido entregada en farmacia.",
+      "Una vez cumplido dicho plazo ya no podrá retirar la medicación.",
+      "Para poder solicitar una nueva provisión, el Beneficiario deberá cargar indefectiblemente la planilla de aplicación completa en la plataforma SIGMAC."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-la-adquisicion-del-medicamento-factor-viii",
+      "titulo": "Solicitar la adquisición del medicamento: Factor VIII | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T09:10:58.580Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite no está especificada en el texto, solo se mencionan resoluciones y la necesidad de cargar la planilla de aplicación completa."
+  ]
+}

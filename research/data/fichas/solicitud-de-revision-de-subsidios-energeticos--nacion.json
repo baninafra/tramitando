@@ -1,0 +1,73 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-revision-de-subsidios-energeticos",
+    "nombre": "Solicitud de revisión de subsidios energéticos",
+    "nombre_busqueda": "Revisión subsidios energía",
+    "resumen": "Permite a usuarios residenciales de energía eléctrica y/o gas solicitar una revisión de su situación particular respecto al acceso al subsidio, la cual está sujeta al análisis de la Secretaría de Energía.",
+    "sinonimos": [],
+    "temas": [
+      "subsidios-a-los-servicios-publicos"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Presidencia de la Nación",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Usuarios residenciales de energía eléctrica y/o gas por redes que consideran que se debe revisar y analizar nuevamente su situación particular respecto a su acceso al subsidio."
+    ],
+    "requisitos": [
+      {
+        "texto": "Número de gestión de la solicitud original brindado cuando te inscribiste al RASE.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI de todos los integrantes del grupo conviviente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Foto o archivo con las facturas del servicio que solicita reconsiderar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Toda aquella documentación que respalde tu solicitud de revisión, por ejemplo: la escritura de compra-venta de inmuebles, la denuncia de venta de automotor, el Certificado Único de Discapacidad, etc.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD y completá el formulario."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitud-de-revision-de-subsidios-energeticos",
+      "titulo": "Solicitud de Revisión de Subsidios Energéticos | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T23:35:49.385Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el monto del trámite.",
+    "No se especifica si requiere turno.",
+    "No se especifica el plazo de resolución."
+  ]
+}

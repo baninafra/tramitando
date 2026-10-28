@@ -1,0 +1,75 @@
+{
+  "tramite": {
+    "slug": "patente-automotor-municipal",
+    "nombre": "Patente de autos",
+    "nombre_busqueda": "Patente de autos",
+    "resumen": "Trámite para obtener la patente de los automotores en la Municipalidad de Adolfo Alsina, regulado por la Ordenanza Impositiva 2023.",
+    "sinonimos": [],
+    "temas": [
+      "patente-automotor-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060007",
+  "organismo": {
+    "nombre": "Municipalidad de Adolfo Alsina",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Propietarios de automotores"
+    ],
+    "requisitos": [
+      {
+        "texto": "Título del automotor para ser incorporado a sistema",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1935000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.adolfoalsina.gov.ar/patentes-y-rodado-de-autos/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Rentas",
+      "direccion": "Rivadavia y Pellegrini",
+      "localidad": "Carhué",
+      "horario": null,
+      "fuente_url": "https://www.adolfoalsina.gov.ar/patentes-y-rodado-de-autos/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.adolfoalsina.gov.ar/patentes-y-rodado-de-autos/",
+      "titulo": "Patentes y rodado de autos - Municipalidad de Adolfo Alsina",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien",
+        "costo",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T07:02:43.811Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La página menciona 'Rentas Automotores' pero no detalla el proceso específico para obtener la patente, solo menciona la ordenanza impositiva y el requisito de título del automotor para el sistema.",
+    "No se especifica el monto exacto de la patente en la página, solo se menciona un costo de $19.350 para inscripción como proveedor.",
+    "No se indica si se requiere turno para realizar el trámite.",
+    "No se especifica el plazo de tramitación."
+  ]
+}

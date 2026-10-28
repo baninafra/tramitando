@@ -1,0 +1,74 @@
+{
+  "tramite": {
+    "slug": "adhesion-a-factura-digital-tsg",
+    "nombre": "Adhesión a Factura Digital - Tasa de Servicios Generales",
+    "nombre_busqueda": "Adhesión a Factura Digital La Matanza",
+    "resumen": "Para abonar la tasa de servicios generales de la ciudad de La Matanza, se debe adherir a la Factura Digital mediante pago en línea, en cajeros o con débito automático.",
+    "sinonimos": [
+      "Pago TSG La Matanza",
+      "Factura Digital La Matanza",
+      "Abono Tasa Servicios Generales"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "tasa-inmobiliaria-y-servicios"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060427",
+  "organismo": {
+    "nombre": "Municipalidad de La Matanza",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que tenga una factura digital de la ciudad de La Matanza."
+    ],
+    "requisitos": [
+      {
+        "texto": "Factura digital con el código de pago.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio web de Factura Digital de La Matanza."
+      },
+      {
+        "texto": "Ingresá con tu clave de acceso y contraseña."
+      },
+      {
+        "texto": "Buscá tu factura y copiá el código de pago que aparece en ella."
+      },
+      {
+        "texto": "Seguí los pasos del sistema para ingresar los datos de tu cuenta bancaria y aboná el monto indicado."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://facturadigital.lamatanza.gov.ar/",
+      "titulo": "Factura Digital - La Matanza",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T14:12:17.857Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa de servicios generales no se indica en el texto.",
+    "No se especifica si el trámite requiere turno presencial."
+  ]
+}

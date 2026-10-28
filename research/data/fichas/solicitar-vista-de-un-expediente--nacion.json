@@ -1,0 +1,105 @@
+{
+  "tramite": {
+    "slug": "solicitar-vista-de-un-expediente",
+    "nombre": "Solicitar vista de un expediente",
+    "nombre_busqueda": "solicitar vista de un expediente cnce",
+    "resumen": "Para tomar conocimiento de las actuaciones de una investigación de la CNCE, podés solicitar la vista del expediente cumpliendo los requisitos detallados.",
+    "sinonimos": [],
+    "temas": [
+      "legalizaciones-y-apostillados",
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Comisión Nacional de Comercio Exterior",
+    "sigla": "CNCE",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Lectores/as apoderado/as de las partes acreditadas (ej: empresas, Cámaras, Representaciones Diplomáticas, entre otros).",
+      "Ser parte actuante en el Expediente solicitado (ej: presidente de la empresa, apoderado, letrado, entre otros).",
+      "Tener usuario en TAD."
+    ],
+    "requisitos": [
+      {
+        "texto": "Si sos representante legal o apoderado por una parte, enviá un correo electrónico a la mesa de entradas de la CNCE ([email protected]), en el que adjuntes una nota informando: Tu CUIT.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio especial electrónico.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de Expediente Electrónico del que desees solicitar la vista.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En el asunto del correo electrónico, aclará 'Solicita vista'.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si vas a realizar una presentación por primera vez y no has acreditado la personería jurídica, previamente debés enviar un correo electrónico a [email protected] y adjuntar la documentación que acredite el carácter de apoderado o representante legal: Poder (emitido por Escribano Público).",
+        "aclaracion": "Si sos representante legal o apoderado por una parte."
+      },
+      {
+        "texto": "En caso del representante legal de la empresa con cargo: Estatuto, última Acta de Designación de Autoridades y distribución de cargos.",
+        "aclaracion": "Si sos representante legal o apoderado por una parte."
+      },
+      {
+        "texto": "Si sos representante de empresa extranjera, los documentos que adjuntes deberán estar traducidos y apostillados.",
+        "aclaracion": "Si sos representante de empresa extranjera."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Si sos representante legal o apoderado por una parte, enviá un correo electrónico a la mesa de entradas de la CNCE ([email protected]), en el que adjuntes una nota informando: Tu CUIT."
+      },
+      {
+        "texto": "Domicilio especial electrónico."
+      },
+      {
+        "texto": "Número de Expediente Electrónico del que desees solicitar la vista."
+      },
+      {
+        "texto": "En el asunto del correo electrónico, aclará 'Solicita vista'."
+      },
+      {
+        "texto": "En un plazo máximo de 48 horas hábiles, vas a recibir una notificación para poder descargar la documentación desde su TAD, en la solapa 'Notificaciones/Documentos externos'."
+      },
+      {
+        "texto": "La constancia de la toma de vista se vincula automáticamente al Expediente Electrónico."
+      },
+      {
+        "texto": "Una vez emitida esa constancia, se considerará que la vista ha sido efectuada a partir del día siguiente de la notificación."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-vista-de-un-expediente",
+      "titulo": "Solicitar vista de un Expediente | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T16:46:21.305Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos de identidad o documentos personales para la mayoría de los casos.",
+    "No se especifican requisitos de pago o costos."
+  ]
+}

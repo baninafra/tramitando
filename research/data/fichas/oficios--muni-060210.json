@@ -1,0 +1,131 @@
+{
+  "tramite": {
+    "slug": "generacion-y-consulta-de-comprobantes-judiciales",
+    "nombre": "Generación y consulta de comprobantes judiciales",
+    "nombre_busqueda": "Oficios Judiciales",
+    "resumen": "Generá o consultá comprobantes de pago de derechos de oficina judiciales ingresando tu CUIT/CUIL y los datos del caso.",
+    "sinonimos": [
+      "Oficios Judiciales",
+      "Derecho de oficina",
+      "Comprobantes judiciales"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060210",
+  "organismo": {
+    "nombre": "Municipalidad de Chacabuco",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en generar o consultar comprobantes."
+    ],
+    "requisitos": [
+      {
+        "texto": "Nombre completo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Correo electrónico",
+        "aclaracion": null
+      },
+      {
+        "texto": "Confirmación del correo electrónico",
+        "aclaracion": null
+      },
+      {
+        "texto": "CUIT o CUIL",
+        "aclaracion": null
+      },
+      {
+        "texto": "Importe del pago",
+        "aclaracion": null
+      },
+      {
+        "texto": "Observaciones para uso judicial",
+        "aclaracion": null
+      },
+      {
+        "texto": "Juzgado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Departamento judicial",
+        "aclaracion": null
+      },
+      {
+        "texto": "Causa número",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autos",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la página de Oficios Judiciales."
+      },
+      {
+        "texto": "Seleccioná la opción de Generar comprobante de pago."
+      },
+      {
+        "texto": "Completá los datos solicitados: nombre, email, CUIT/CUIL, importe, observaciones, juzgado, departamento judicial, causa número y autos."
+      },
+      {
+        "texto": "Realizá el pago online."
+      },
+      {
+        "texto": "Guardá el comprobante generado."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://tramites.chacabuco.gob.ar/oficios/",
+      "titulo": "Oficios Judiciales - Municipalidad de Chacabuco",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T04:57:17.436Z"
+    },
+    {
+      "url": "https://tramites.chacabuco.gob.ar/oficios/solicitud.php",
+      "titulo": "Oficios Judiciales - Municipalidad de Chacabuco",
+      "bloques": [
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-28T04:57:17.436Z"
+    },
+    {
+      "url": "https://tramites.chacabuco.gob.ar/oficios/consulta.php",
+      "titulo": "Oficios Judiciales - Municipalidad de Chacabuco",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T04:57:17.436Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos de tasas ni plazos de generación de comprobantes.",
+    "No se indican direcciones de oficinas para atención presencial."
+  ]
+}

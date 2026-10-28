@@ -1,0 +1,110 @@
+{
+  "tramite": {
+    "slug": "oficios-judiciales-migraciones",
+    "nombre": "Oficios judiciales",
+    "nombre_busqueda": "Oficios judiciales migraciones",
+    "resumen": "Trámite arancelado para letradas/os y patrocinantes que soliciten informes, embargos de haberes o extrañamiento ante la Dirección Nacional de Migraciones.",
+    "sinonimos": [],
+    "temas": [
+      "migraciones-y-extranjeria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Migraciones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Letras/os",
+      "Patrocinantes",
+      "Apoderadas/os"
+    ],
+    "requisitos": [
+      {
+        "texto": "Oficio dirigido a la Dirección Nacional de Migraciones",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de pago de arancel",
+        "aclaracion": null
+      },
+      {
+        "texto": "Mayor cantidad de datos filiatorios de la persona motivo del pedido de informes",
+        "aclaracion": null
+      },
+      {
+        "texto": "Transcripción del auto judicial (si aplica)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Firma de funcionario judicial o letrado patrocinante/apoderado",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Generá el pago del arancel ingresando en la plataforma de pagos"
+      },
+      {
+        "texto": "Diligenciamiento del oficio a través de la aplicación DEOX- Diligenciamiento Electrónico de Oficios para entidades Externas al Poder Judicial, de la plataforma Lex 100"
+      },
+      {
+        "texto": "Envío del oficio a la casilla de la Dirección Nacional de Migraciones con CUIO 60000013814"
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Concurrí personalmente en los horarios señalados en la página web de Migraciones"
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Para Informes y cumplimentación de intimaciones de trámites de Sede Central, es necesario obtener turno previo para la atención presencial",
+      "La atención online está disponible a través del chat web de lunes a viernes de 8 a 15 hs"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/oficios-judiciales",
+      "titulo": "Oficios Judiciales | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T23:11:45.146Z"
+    },
+    {
+      "url": "https://pagos.dnm.gov.ar/tramite_online/index/index.php",
+      "titulo": "Radex | MODULO DE PAGO",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T23:11:45.146Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T23:11:45.146Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no se especifica en el texto, se debe consultar el cuadro de tasas migratorias",
+    "Los plazos de atención no se especifican en el texto"
+  ]
+}

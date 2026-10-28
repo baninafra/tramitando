@@ -1,0 +1,107 @@
+{
+  "tramite": {
+    "slug": "boleto-estudiantil-formulario-de-preinscripcion",
+    "nombre": "Formulario de preinscripción para boleto estudiantil",
+    "nombre_busqueda": "Formulario preinscripción boleto estudiantil",
+    "resumen": "Completá los datos del alumno para solicitar el boleto estudiantil gratuito en la Municipalidad de Luján.",
+    "sinonimos": [],
+    "temas": [
+      "educacion-y-estudios",
+      "pasajes-gratuitos-por-discapacidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060497",
+  "organismo": {
+    "nombre": "Municipalidad de Luján",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Alumnos que soliciten el boleto estudiantil gratuito."
+    ],
+    "requisitos": [
+      {
+        "texto": "Apellidos",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombres",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Fecha de nacimiento",
+        "aclaracion": null
+      },
+      {
+        "texto": "Teléfono",
+        "aclaracion": null
+      },
+      {
+        "texto": "Correo electrónico",
+        "aclaracion": null
+      },
+      {
+        "texto": "N° SUBE registrada a su nombre",
+        "aclaracion": null
+      },
+      {
+        "texto": "Dirección",
+        "aclaracion": null
+      },
+      {
+        "texto": "Localidad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Institución educativa",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nivel",
+        "aclaracion": null
+      },
+      {
+        "texto": "Año",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá los datos del alumno solicitando el boleto estudiantil gratuito."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.lujan.gob.ar/boleto.php",
+      "titulo": "Municipalidad de Lujan",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T15:00:50.756Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se desconoce si el trámite requiere turno.",
+    "Se desconoce si el trámite se puede realizar completamente por internet o si hay pasos presenciales.",
+    "Se desconoce el plazo de respuesta o tiempo de espera del trámite.",
+    "Se desconoce si hay costos asociados al trámite."
+  ]
+}

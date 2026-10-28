@@ -1,0 +1,75 @@
+{
+  "tramite": {
+    "slug": "estacionamiento-medido",
+    "nombre": "Estacionamiento Medido",
+    "nombre_busqueda": "Estacionamiento Medido Chascomús",
+    "resumen": "El sistema SEM permite activar el estacionamiento mediante la app, códigos QR o puntos de venta. Se pueden cargar créditos diarios o abonos por días.",
+    "sinonimos": [
+      "SEM Chascomús",
+      "Sistema de Estacionamiento Medido"
+    ],
+    "temas": [
+      "estacionamiento-medido"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060218",
+  "organismo": {
+    "nombre": "Municipalidad de Chascomús",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que desee utilizar el estacionamiento medido en la zona."
+    ],
+    "requisitos": [
+      {
+        "texto": "Código QR exhibido en la cartelería o aplicación SEM Chascomús instalada en el teléfono celular.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Instalá la aplicación SEM Chascomús en tu teléfono celular desde Play Store, iTunes o Microsoft Store."
+      },
+      {
+        "texto": "RegISTRATE en la aplicación si no lo has hecho previamente."
+      },
+      {
+        "texto": "Activá el estacionamiento escaneando el código QR que se exhibe en la cartelería o cargando créditos directamente en la app."
+      },
+      {
+        "texto": "Cargá créditos diarios o abonos por días (7, 15 o 30) desde la aplicación o en los puntos de venta."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Se puede obtener un abono diario, de 7 días, de 15 días o de 30 días con la app o en los puntos de venta.",
+      "Para tener crédito en la app, se puede cargar desde la misma app con tarjetas de cualquier banco o en los puntos de venta señalados en dicha app.",
+      "Si no está registrado, se puede enviar un SMS por única vez con la letra E al 23123."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://chascomus.gob.ar/municipio/estaticas/estacionamiento",
+      "titulo": "Municipalidad de Chascomús - Estacionamiento Medido",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "consejos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T22:56:33.011Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican montos de costo ni plazos de tiempo para el trámite."
+  ]
+}

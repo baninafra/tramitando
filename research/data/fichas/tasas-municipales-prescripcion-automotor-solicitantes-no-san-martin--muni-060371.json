@@ -1,0 +1,86 @@
+{
+  "tramite": {
+    "slug": "prescripcion-deuda-solicitantes-no-san-martin-automotor",
+    "nombre": "Prescripción de deuda - Solicitantes No San Martín - Automotor",
+    "nombre_busqueda": "Prescripción deuda automotor solicitantes no san martin",
+    "resumen": "Permiso para que la deuda municipal por tasas de automotor caduque si no se paga en el plazo establecido.",
+    "sinonimos": [
+      "Cancelación deuda automotor",
+      "Libre deuda automotor",
+      "Exoneración tasas automotor"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales",
+      "planes-de-pago-municipales",
+      "libre-deuda-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060371",
+  "organismo": {
+    "nombre": "Municipalidad de San Martín",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Solicitantes que tengan deuda con la Municipalidad de San Martín por tasas de automotor."
+    ],
+    "requisitos": [
+      {
+        "texto": "Copia del DNI del solicitante.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del DNI del conductor del vehículo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de la cédula de circulación del vehículo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del comprobante de pago de la tasa de automotor correspondiente al año en que se solicita la prescripción.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá los requisitos en la oficina de Tesorería."
+      },
+      {
+        "texto": "Completá el formulario de solicitud de prescripción."
+      },
+      {
+        "texto": "Recibí el comprobante de recepción del trámite."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá el plazo exacto de prescripción en la normativa vigente.",
+      "Verificá que la deuda corresponda al año indicado en el comprobante de pago."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://sanmartin.gob.ar/tramites/tasas-municipales-prescripcion-automotor-solicitantes-no-san-martin",
+      "titulo": "Prescripción de deuda - Solicitantes No San Martín - Automotor",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T13:59:41.429Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Plazo de prescripción exacto",
+    "Dirección de la oficina de Tesorería",
+    "Horarios de atención de la oficina"
+  ]
+}

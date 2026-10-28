@@ -1,0 +1,148 @@
+{
+  "tramite": {
+    "slug": "actualizar-dni-14-anos",
+    "nombre": "Actualizar el DNI de 14 años",
+    "nombre_busqueda": "actualizar dni 14 años",
+    "resumen": "Si naciste en Argentina y cumpliste 14 años, tenés que actualizar tu DNI. Con este trámite recibís un nuevo ejemplar y el Renaper te incorpora al Padrón Electoral.",
+    "sinonimos": [
+      "segunda actualización del DNI"
+    ],
+    "temas": [
+      "dni"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Renaper",
+    "sigla": "Renaper",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas nacidas en Argentina que cumplieron 14 años.",
+      "Entre 14 y 17 años: presentate con el DNI (si lo tenés), sin necesidad de acompañamiento.",
+      "Mayor de 18 años: presentate con el DNI (si lo tenés).",
+      "Mayor de 18 años sin DNI previo: presentate con copia certificada de la partida de nacimiento o certificado de nacimiento original con firma del oficial público o extendida digitalmente.",
+      "Si no tenés partida ni certificado: presentate con Información sumaria otorgada y firmada por funcionario habilitado del Juzgado de Paz, Dirección General o Provincial de Registro del Estado Civil y Capacidad de las Personas, o suscripta por la persona a cargo de la oficina seccional y ratificada m…",
+      "En la provincia de Buenos Aires, delegados o subdelegados del Registro Civil podrán firmarlo, acompañando el escaneo del último ejemplar digital vigente de ambos testigos.",
+      "Los testigos no podrán ser familiares.",
+      "En la Ciudad Autónoma de Buenos Aires, deberá estar legalizada por la Cámara de Apelaciones en lo Civil del Poder Judicial de la Nación.",
+      "Emitidas por el Servicio Penitenciario Federal (boletín público normativo número 582/2015).",
+      "Emitido por el Consulado Argentino correspondiente.",
+      "Importante: Los DNI a presentar siempre deben ser los de los progenitores que figuren en la partida de nacimiento."
+    ],
+    "requisitos": [
+      {
+        "texto": "Presentate con el DNI (si lo tenés).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia certificada de la partida de nacimiento con o sin oblea, la que deberá contar con sello y firma del oficial público en tinta o extendida con firma digital, sin importar su fecha de expedición.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de nacimiento original con o sin oblea o número manuscrito, con firma del oficial público o extendida digitalmente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Información sumaria otorgada y firmada por funcionario habilitado del Juzgado de Paz.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Información sumaria otorgada por la Dirección General o Provincial de Registro del Estado Civil y Capacidad de las Personas, o en su defecto, suscripta por la persona a cargo de la oficina seccional y ratificada mediante acto dispositivo de la citada Dirección General.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En el caso de la provincia de Buenos Aires, delegados o subdelegados del Registro Civil podrán firmarlo, acompañando el escaneo del último ejemplar digital vigente de ambos testigos.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Los testigos no podrán ser familiares.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En el caso de la Ciudad Autónoma de Buenos Aires, deberá de estar legalizada por la Cámara de Apelaciones en lo Civil del Poder Judicial de la Nación.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Emitidas por el Servicio Penitenciario Federal (boletín público normativo número 582/2015).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Emitido por el Consulado Argentino correspondiente.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Elegí el Registro Civil más cercano a tu domicilio o sacá turno para un Centro de Documentación Renaper en la app Mi Argentina."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentate en la oficina elegida con la constancia de turno y el comprobante de pago, si ya abonaste el trámite."
+      },
+      {
+        "texto": "Guardá la constancia de solicitud de trámite y hacé el seguimiento online con tu ID desde aquí."
+      },
+      {
+        "texto": "Retiralo en la oficina con la constancia de solicitud de trámite."
+      },
+      {
+        "texto": "O, si va el correo a tu domicilio, recibilo vos o alguien mayor de 18 años con la constancia de solicitud de trámite."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/actualizar-el-dni-de-14-anos"
+    }
+  ],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/actualizar-el-dni-de-14-anos",
+      "titulo": "Actualizar el DNI de 14 años | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T01:57:02.413Z"
+    },
+    {
+      "url": "https://mi.argentina.gob.ar/turnos/seleccion-turno/1070",
+      "titulo": "Ingresar | Mi Argentina",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T01:57:02.413Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T01:57:02.413Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Vigencia 15 años",
+    "¿Cuánto tiempo lleva?"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "tramite": {
+    "slug": "nueva-solicitud-reclamo",
+    "nombre": "Hacer una solicitud o reclamo",
+    "nombre_busqueda": "miOlava solicitud o reclamo",
+    "resumen": "Cargá una solicitud, pedido o reclamo al municipio en tres pasos. El formulario no sirve para emergencias.",
+    "sinonimos": [
+      "miOlava",
+      "reclamo municipal"
+    ],
+    "temas": [
+      "reclamos-vecinales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060595",
+  "organismo": {
+    "nombre": "Municipalidad del Partido de Olavarría",
+    "sigla": null,
+    "web": "https://www.olavarria.gov.ar/"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que quieran cargar una solicitud, un pedido o un reclamo."
+    ],
+    "requisitos": [
+      {
+        "texto": "Elegí una categoría para tu solicitud, pedido o reclamo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Elegí una categoría: aguas servidas, alumbrado público, animales domésticos, arbolado urbano, barrido domiciliario, calles urbanas, caminos rurales, comercios, control de plagas, control urbano, espacios verdes, recolección de residuos, reductor de velocidad, salud, semáforos, terrenos baldíos y veredas, tránsito, transporte público u otro."
+      },
+      {
+        "texto": "Completá los pasos del formulario para cargar tu solicitud, pedido o reclamo."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "No uses este formulario para emergencias. Para Bomberos llamá al 100, para Salud al 107 o para Policía al 911. También podés llamar al Centro de Monitoreo al 02284-419016 o 02284-419017, o escribir por WhatsApp a Vecinos en Red al 2284544817."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.olavarria.gov.ar/nueva-solicitud-reclamo/",
+      "titulo": "Nueva solicitud / reclamo | Municipalidad del Partido de Olavarría",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T15:40:51.175Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se detallan requisitos adicionales para cargar la solicitud.",
+    "No se informa si hace falta sacar turno.",
+    "No se especifica el plazo de respuesta."
+  ]
+}

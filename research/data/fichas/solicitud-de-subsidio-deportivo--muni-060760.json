@@ -1,0 +1,83 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-subsidio-deportivo",
+    "nombre": "Solicitud de subsidio deportivo",
+    "nombre_busqueda": "Solicitud de subsidio deportivo",
+    "resumen": "Trámite para deportistas amateurs de San Miguel que busquen fondos para actividades y competencias deportivas. Requiere llenar un formulario y presentarlo en la Subsecretaría de Deportes.",
+    "sinonimos": [
+      "Subsidio deportivo San Miguel",
+      "Ayuda para deportes amateurs"
+    ],
+    "temas": [
+      "deportes-y-cultura-local"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060760",
+  "organismo": {
+    "nombre": "Municipalidad San Miguel",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Deportistas amateurs de San Miguel"
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de solicitud de subsidio deportivo con la firma del solicitante o de un adulto responsable",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización de la autoridad escolar correspondiente (si se trata de una salida educativa)",
+        "aclaracion": "Solo para salidas educativas"
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Descargá el formulario de la web o solicitá una copia en la oficina de la Subsecretaría de Deportes."
+      },
+      {
+        "texto": "Completá el formulario y presentalo en la Subsecretaría de Deportes."
+      },
+      {
+        "texto": "Verificá la aprobación de la solicitud."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Subsecretaría de Deportes",
+      "direccion": "Club Bella Vista, Entre Ríos 851",
+      "localidad": "Club Bella Vista, Entre Ríos 851",
+      "horario": null,
+      "fuente_url": "https://www.msm.gov.ar/guia-tramites/deportes/solicitud-de-subsidio-deportivo/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.msm.gov.ar/guia-tramites/deportes/solicitud-de-subsidio-deportivo/",
+      "titulo": "Solicitud de Subsidio Deportivo - Municipalidad San Miguel",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien",
+        "donde",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T12:55:44.239Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el monto del subsidio ni si es gratuito.",
+    "No se especifica el plazo exacto de respuesta ni la vigencia del subsidio otorgado."
+  ]
+}

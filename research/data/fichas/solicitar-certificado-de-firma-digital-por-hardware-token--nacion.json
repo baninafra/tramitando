@@ -1,0 +1,134 @@
+{
+  "tramite": {
+    "slug": "solicitar-certificado-de-firma-digital-por-hardware-token",
+    "nombre": "Solicitar certificado de firma digital por hardware token",
+    "nombre_busqueda": "solicitar certificado firma digital token",
+    "resumen": "Trámite presencial gratuito para obtener un certificado de firma digital con token. Requiere dni, cuil/cuit y un dispositivo criptográfico certificado. Se debe sacar turno y presentarse en una Autoridad de Registro.",
+    "sinonimos": [
+      "certificado firma digital token",
+      "firma digital hardware",
+      "certificado firma digital presencial"
+    ],
+    "temas": [
+      "firma-digital"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Oficina Nacional de Tecnologías de la Información",
+    "sigla": "AC ONTI",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas humanas que deseen firmar digitalmente documentos y correos electrónicos.",
+      "Solicitantes que tengan número de CUIL o CUIT."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento Nacional de Identidad (DNI) original.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de CUIL o CUIT.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Un dispositivo criptográfico (token) que cumpla con el estándar FIPS 140-2 o FIPS 140-3 nivel 2 o superior.",
+        "aclaracion": null
+      },
+      {
+        "texto": "El dispositivo debe tener certificación NIST en estado ACTIVO o HISTÓRICO hasta 3 años del pase a dicha clasificación.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Sacá un turno en la Autoridad de Registro más cercana o consultá en AR con turnero propio."
+      },
+      {
+        "texto": "Completá el formulario de solicitud."
+      },
+      {
+        "texto": "Verificá que el correo electrónico ingresado sea personal y único del titular."
+      },
+      {
+        "texto": "En Aplicación seleccioná Ninguna y en Autoridad de Registro la misma que hayas seleccionado al momento de solicitar el turno."
+      },
+      {
+        "texto": "En datos de organización, completá con No aplica en todos los campos."
+      },
+      {
+        "texto": "Volvé a verificar que los datos coincidan con el DNI del solicitante y seleccioná Enviar Datos de Solicitud de Certificado."
+      },
+      {
+        "texto": "Accedé al link de verificación que recibí automáticamente en el correo electrónico declarado y confirmalo dentro de las 24 horas de vigencia."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentaos personalmente sin excepción ante la Autoridad de Registro donde solicitaste el turno."
+      },
+      {
+        "texto": "Llevá el dispositivo criptográfico y el DNI original."
+      },
+      {
+        "texto": "El oficial de registro realizará las validaciones correspondientes y verificará los requisitos del dispositivo."
+      },
+      {
+        "texto": "Si el oficial habilita la solicitud, insertá el dispositivo criptográfico y completá la solicitud para generar las claves."
+      },
+      {
+        "texto": "El oficial de registro aprobará la solicitud e instalará el certificado en el dispositivo."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://turnos.argentina.gob.ar/turnos/seleccionTurno/327",
+    "plazo": "15 minutos",
+    "consejos": [
+      "El trámite es personal y de modalidad presencial.",
+      "Si durante la vigencia del plazo de validez del certificado se producen modificaciones en los datos (nombre, apellido, CUIL o correo electrónico), deberás revocarlo y volver a tramitar un nuevo certificado presencialmente.",
+      "Los certificados que se otorgan son únicamente para personas humanas.",
+      "La tolerancia para cada turno otorgado será de 15 minutos."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-certificado-de-firma-digital-por-hardware-token",
+      "titulo": "Solicitar Certificado de Firma Digital por Hardware (token) | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T07:51:56.984Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/jefatura/innovacion-ciencia-y-tecnologia/innovacion/firma-digital/ac-onti",
+      "titulo": "Autoridad Certificante de la Oficina Nacional de Tecnologías de la Información (AC ONTI) | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T07:51:56.984Z"
+    },
+    {
+      "url": "https://turnos.argentina.gob.ar/turnos/seleccionTurno/327",
+      "titulo": "Sistema Nacional de Turnos",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T07:51:56.984Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia del trámite no está especificada en el texto, solo se menciona que el turno se rechazará si excede los 20 días hábiles luego de completar el formulario."
+  ]
+}

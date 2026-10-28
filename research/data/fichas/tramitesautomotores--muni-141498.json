@@ -1,0 +1,71 @@
+{
+  "tramite": {
+    "slug": "inscripcion-de-vehiculos",
+    "nombre": "Inscribir un vehículo",
+    "nombre_busqueda": "Inscribir vehículo Tancacha",
+    "resumen": "Para registrar un vehículo nuevo en el municipio, se debe presentar el documento de identidad del conductor y el título de propiedad del auto.",
+    "sinonimos": [
+      "Dar de alta vehículo",
+      "Registro de auto nuevo"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "patente-automotor-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-141498",
+  "organismo": {
+    "nombre": "Municipalidad de Tancacha",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El conductor del vehículo o su representante legal."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento de identidad del conductor.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Título de propiedad del vehículo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el documento de identidad del conductor."
+      },
+      {
+        "texto": "Presentá el título de propiedad del vehículo."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.tancacha.gob.ar/tramitesAutomotores.html",
+      "titulo": "Municipalidad de Tancacha - Automotores",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T09:31:57.521Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere confirmar si se necesita sacar turno antes de ir a la oficina.",
+    "Se requiere confirmar si hay costo por el trámite de inscripción.",
+    "Se requiere confirmar la dirección exacta de la oficina donde se realiza el trámite."
+  ]
+}

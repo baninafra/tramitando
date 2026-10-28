@@ -1,0 +1,69 @@
+{
+  "tramite": {
+    "slug": "solicitar-informe-tasas-abonadas-igj",
+    "nombre": "Solicitar un informe de tasas abonadas en la IGJ",
+    "nombre_busqueda": "informe de tasas pagadas en la IGJ",
+    "resumen": "Solicitá en línea un informe de las tasas que abonaste en la IGJ mediante TAD.",
+    "sinonimos": [
+      "informe de tasas pagadas en la IGJ"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": "IGJ",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés solicitar el informe si tenés habilitado el servicio TAD mediante ARCA, con clave fiscal nivel 2 o superior, o si tenés usuario de Mi Argentina."
+    ],
+    "requisitos": [
+      {
+        "texto": "Tener habilitado el servicio Trámites a Distancia (TAD) mediante ARCA, con clave fiscal nivel 2 o superior, o contar con usuario de Mi Argentina.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD."
+      },
+      {
+        "texto": "Seleccioná el trámite “Pedido de informes tasas o balances”."
+      },
+      {
+        "texto": "Completá la solicitud y abonala."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": false,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La información solicitada, las notificaciones y las observaciones se envían a la casilla del usuario TAD que inició el trámite."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-un-informe-de-tasas-abonadas-en-la-igj",
+      "titulo": "Solicitar un informe de tasas abonadas en la IGJ | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T16:23:06.487Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El costo figura como 5 módulos, pero la página no indica su valor en pesos."
+  ]
+}

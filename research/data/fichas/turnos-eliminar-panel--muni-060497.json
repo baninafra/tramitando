@@ -1,0 +1,71 @@
+{
+  "tramite": {
+    "slug": "reimpresion-y-cancelacion-de-turno-licencia-de-conducir",
+    "nombre": "Reimprimir o cancelar un turno para la licencia de conducir",
+    "nombre_busqueda": "reimprimir o cancelar turno de licencia de conducir",
+    "resumen": "Podés buscar un turno para tramitar la licencia de conducir con tu DNI y el número de ID del turno. El sistema permite confirmar su anulación.",
+    "sinonimos": [
+      "cancelar turno de licencia de conducir",
+      "reimprimir turno de licencia de conducir"
+    ],
+    "temas": [
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060497",
+  "organismo": {
+    "nombre": "Municipalidad de Luján",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas que tienen un turno para tramitar la licencia de conducir."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de ID del turno que querés anular.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá tu DNI y el número de ID del turno."
+      },
+      {
+        "texto": "Buscá el turno."
+      },
+      {
+        "texto": "Confirmá la anulación si querés cancelarlo."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://sistemas.lujan.gov.ar/turnosLicencias/formulario/eliminar/turnos_eliminar_panel.php",
+      "titulo": "Sistema de turnos (LICENCIAS DE CONDUCIR - Municipalidad de Luján)",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T14:53:15.272Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no indica si podés reimprimir el turno desde este sistema."
+  ]
+}

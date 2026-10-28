@@ -1,0 +1,99 @@
+{
+  "tramite": {
+    "slug": "consulta-y-liquidacion-de-tasas-y-tributos-municipales",
+    "nombre": "Consulta y Liquidación de Tasas y Tributos Municipales",
+    "nombre_busqueda": "Consulta y Liquidación de Tasas y Tributos Municipales",
+    "resumen": "Consultá deudas de tasas e impuestos municipales como servicios generales, seguridad, cementerios, patentes y marcas de vehículos desde la página oficial.",
+    "sinonimos": [
+      "Consulta de deudas municipales",
+      "Liquidación de tasas Chascomús",
+      "Pago de tributos municipales"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060218",
+  "organismo": {
+    "nombre": "Dirección de Ingresos Públicos",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Contribuyentes con deudas de tasas e impuestos municipales."
+    ],
+    "requisitos": [
+      {
+        "texto": "Apellido y nombres.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nro de CUIT/CUIL.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tipo imponible.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nro de cuenta.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la página de consulta tributaria."
+      },
+      {
+        "texto": "Escribí tu apellido y nombres."
+      },
+      {
+        "texto": "Ingresá tu número de CUIT o CUIL."
+      },
+      {
+        "texto": "Seleccioná el tipo imponible según tu deuda."
+      },
+      {
+        "texto": "Ingresá tu número de cuenta."
+      },
+      {
+        "texto": "Listá los períodos adeudados o las cuotas de convenio que querés consultar."
+      },
+      {
+        "texto": "Consultá la información."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://deuda.chascomus.gob.ar/consulta.php",
+      "titulo": "Dirección de Ingresos Púbicos - Municipalidad de Chascomús",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T10:53:45.598Z"
+    },
+    {
+      "url": "https://chascomus.gob.ar/",
+      "titulo": "Chascomus.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T10:53:45.598Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos, pasos, plazos, costos, oficinas ni consejos en el texto de las páginas oficiales."
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "tramite": {
+    "slug": "licencia-de-conducir",
+    "nombre": "Licencia de conducir",
+    "nombre_busqueda": "Licencia de conducir",
+    "resumen": "La Licencia Nacional de Conducir habilita a conducir vehículos en todo el país. Su obtención depende de la edad y la categoría, y tiene una vigencia que varía según el caso.",
+    "sinonimos": [
+      "Licencia nacional de conducir",
+      "Permiso de conducir"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060182",
+  "organismo": {
+    "nombre": "Municipalidad de Capital Federal",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que cumpla con los requisitos de edad y categoría según la Ley Nacional Nº 24.449 y la Ley Provincial Nº 13.927."
+    ],
+    "requisitos": [
+      {
+        "texto": "Solicitar TURNO PREVIO",
+        "aclaracion": null
+      },
+      {
+        "texto": "Concurrir a las oficinas de la Dirección de Tránsito",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estar al día con las obligaciones municipales y no registrar deuda exigible",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acceder al curso de seguridad vial para primeras licencias",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descargar Certificado de Antecedentes Penales para licencias profesionales",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Solicitá TURNO PREVIO"
+      },
+      {
+        "texto": "Concurrí a las oficinas de la Dirección de Tránsito"
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mcr.gob.ar/gestion/transito/licencias-de-conducir/",
+      "titulo": "LICENCIAS DE CONDUCIR - MCR",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T22:11:42.392Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Los montos exactos en centavos de peso no se especifican en el texto.",
+    "La dirección exacta de las oficinas no se especifica en el texto.",
+    "El plazo exacto para la tramitación no se especifica en el texto."
+  ]
+}

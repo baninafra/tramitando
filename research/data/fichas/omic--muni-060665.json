@@ -1,0 +1,75 @@
+{
+  "tramite": {
+    "slug": "defensa-del-consumidor",
+    "nombre": "Denunciar al consumidor",
+    "nombre_busqueda": "Denunciar al consumidor",
+    "resumen": "Hacé tu denuncia online ante la OMIC si tuviste un problema con una compra o un servicio. El equipo se pone en contacto con vos para asesorarte.",
+    "sinonimos": [
+      "Denunciar al consumidor",
+      "Oficina Municipal de Información al Consumidor",
+      "OMIC"
+    ],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060665",
+  "organismo": {
+    "nombre": "Oficina Municipal de Información al Consumidor",
+    "sigla": "OMIC",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona que tenga un problema con una compra o un servicio."
+    ],
+    "requisitos": [
+      {
+        "texto": "Datos del denunciante: apellido, nombre, número de documento, fecha de nacimiento, teléfono y localidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Datos del denunciado: nombre y apellido o razón social, DNI o CUIT, localidad, domicilio y teléfono.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Detalle del reclamo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá el formulario online de denuncias."
+      },
+      {
+        "texto": "Contanos qué pasó en el detalle del reclamo."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "El equipo de la OMIC se pone en contacto con vos una vez completado el formulario."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.ramallo.gob.ar/tramites/omic",
+      "titulo": "Municipalidad de Ramallo",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-28T08:58:44.281Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica si hay costo para realizar la denuncia."
+  ]
+}

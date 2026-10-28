@@ -1,0 +1,115 @@
+{
+  "tramite": {
+    "slug": "residencias-temporarias-y-permanentes",
+    "nombre": "Obtener una prórroga de residencia temporaria como deportista",
+    "nombre_busqueda": "prorroga residencia deportista",
+    "resumen": "Para deportistas extranjeros con residencia temporaria, necesitás documentación personal, acreditación de domicilio y nota de tu club. El trámite se inicia online en RaDEX y requiere una cita presencial.",
+    "sinonimos": [
+      "extensión residencia deportista",
+      "prórroga permanencia deportista"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria",
+      "residencias-temporarias-y-permanentes"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Seguridad Nacional",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas extranjeras que hayan obtenido una residencia temporaria en la categoría de deportista y deseen extender su permanencia."
+    ],
+    "requisitos": [
+      {
+        "texto": "Documento Nacional de Identidad o Pasaporte válido y vigente (todas las nacionalidades).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Nacionalidad emitido por autoridad Consular, con fotografía y legalizado por el Ministerio de Relaciones Exteriores, Comercio Internacional y Culto de la Nación.",
+        "aclaracion": "Solo para quienes no tengan DNI o Pasaporte."
+      },
+      {
+        "texto": "Certificado de Antecedentes Penales Argentinos emitido por el Registro Nacional de Reincidencia.",
+        "aclaracion": "Solo exigible a mayores de 16 años. No es necesaria su tramitación por fuera si se hace en RaDEX."
+      },
+      {
+        "texto": "Acreditación de Domicilio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nota del club o institución a la que pertenece solicitando la prórroga de su residencia para llevar a cabo actividades en él.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación expedida en el extranjero legalizada por el Consulado Argentino o Apostillada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Traducción al castellano efectuada por Traductor Público Nacional y legalizada por el Colegio de Traductores.",
+        "aclaracion": "Solo para documentación en idioma extranjero."
+      },
+      {
+        "texto": "Documentación original.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá tu trámite a distancia ingresando en el sistema RaDEX."
+      },
+      {
+        "texto": "Registrate como usuario."
+      },
+      {
+        "texto": "Completá el formulario de solicitud."
+      },
+      {
+        "texto": "Aboná las tasas correspondientes."
+      },
+      {
+        "texto": "Adjuntá la documentación y datos requeridos según el tipo de residencia a la que quieras aplicar."
+      },
+      {
+        "texto": "Recibí un email con la fecha de tu cita presencial si cumplís con los requisitos para formalizar tu solicitud."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/obtener-una-prorroga-de-residencia-temporaria-como-deportista",
+      "titulo": "Obtener una prórroga de residencia temporaria como deportista | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-27T06:43:09.570Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T06:43:09.570Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina para la cita presencial.",
+    "Horario de atención de la oficina.",
+    "Monto exacto de las tasas migratorias."
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "tramite": {
+    "slug": "solicitar-certificacion-de-analisis-de-peligros-y-puntos-de-control-critico-appcc",
+    "nombre": "Solicitar certificación de análisis de peligros y puntos de control crítico APPCC",
+    "nombre_busqueda": "Certificación APPCC Senasa",
+    "resumen": "Los establecimientos elaboradores de alimentos de origen animal habilitados por el Senasa pueden solicitar la verificación y constancia de la implementación del Sistema de Análisis de Peligros y Puntos de Control Crítico (APPCC) en línea.",
+    "sinonimos": [
+      "Certificación APPCC",
+      "Verificación APPCC",
+      "Constancia APPCC"
+    ],
+    "temas": [
+      "salud-y-prevencion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Todo establecimiento elaborador de alimentos de origen animal habilitado por Senasa."
+    ],
+    "requisitos": [
+      {
+        "texto": "Cumplir con los requisitos sanitarios y de calidad establecidos por el país de destino.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Registrar domicilio electrónico mediante el sistema SIGTrámites.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "El establecimiento interesado debe enviar la solicitud al correo electrónico."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "7 días hábiles",
+    "consejos": [
+      "Consultá las Normativas relacionadas con los costos del trámite.",
+      "Ver los Medios de pago habilitados – Senasa."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-certificacion-de-analisis-de-peligros-y-puntos-de-control-critico-appcc-en",
+      "titulo": "Solicitar certificación de análisis de peligros y puntos de control crítico (APPCC) en establecimientos elaboradores de productos de origen animal | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo"
+      ],
+      "consultada_en": "2026-10-27T07:35:20.160Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T07:35:20.160Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no se especifica en el texto, consultá las Normativas relacionadas con los costos del trámite.",
+    "La dirección exacta de la oficina de atención no se especifica en el texto, consultá los Medios de pago habilitados – Senasa."
+  ]
+}

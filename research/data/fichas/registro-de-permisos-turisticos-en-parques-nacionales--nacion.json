@@ -1,0 +1,95 @@
+{
+  "tramite": {
+    "slug": "registro-de-permisos-turisticos-en-parques-nacionales",
+    "nombre": "Registro de permisos turísticos en parques nacionales",
+    "nombre_busqueda": "registro de permisos turísticos parques nacionales",
+    "resumen": "Para habilitar actividades turísticas en parques nacionales, necesitás estar inscripto como prestador, tener CUIT y Clave fiscal, y presentar documentación en PDF en TAD.",
+    "sinonimos": [],
+    "temas": [
+      "turismo-y-parques-nacionales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Administración de Parques Nacionales",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Toda persona humana o jurídica ya inscripta como Prestador Turístico en Parques Nacionales."
+    ],
+    "requisitos": [
+      {
+        "texto": "CUIT y Clave fiscal nivel 2 o superior.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Haber completado previamente la Inscripción en el Registro de Prestadores Turísticos (es obligatorio).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación en formato PDF, legible, vigente y completa, según la actividad que quieras habilitar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Abonar deuda con la APN mediante el VEP si la tenés.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a TAD, trámite 'Inscripción de Permisos Turísticos de Parques Nacionales'."
+      },
+      {
+        "texto": "Validá los 'Datos del Solicitante' o editalos, según corresponda, y continuá."
+      },
+      {
+        "texto": "Seleccioná la actividad a desarrollar y cargá la documentación requerida."
+      },
+      {
+        "texto": "Clickeá la opción 'Documentación General para todos los prestadores' y, si corresponde, alguna de las otras."
+      },
+      {
+        "texto": "El sistema realizará validaciones automáticas y luego la Intendencia del área protegida realizará los análisis técnicos y documentales."
+      },
+      {
+        "texto": "Si el trámite cumple con los requisitos, se emite el Informe de Factibilidad o Acto Administrativo, según corresponda, y se te notificará."
+      },
+      {
+        "texto": "El sistema emite el/los VEP correspondientes al canon (derechos de explotación)."
+      },
+      {
+        "texto": "Realizá el pago en 25 días corridos."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La presentación de la documentación no implica en modo alguno autorización para el desarrollo del servicio propuesto.",
+      "La viabilidad de las propuestas será sometida a consideración de la APN, de conformidad con los lineamientos normativos vigentes."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/registro-de-permisos-turisticos-en-parques-nacionales",
+      "titulo": "Registro de Permisos Turísticos en Parques Nacionales | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T03:23:45.220Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Consultá los aranceles para el costo.",
+    "El plazo de 25 días corridos para realizar el pago es un plazo de pago, no de tramitación total."
+  ]
+}

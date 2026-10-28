@@ -1,0 +1,110 @@
+{
+  "tramite": {
+    "slug": "reserva-de-turnos-licencia-de-conducir",
+    "nombre": "Reserva de turnos de licencia de conducir",
+    "nombre_busqueda": "Reservar turno licencia conducir",
+    "resumen": "Para reservar un turno de licencia de conducir, necesitás completar tus datos personales, elegir una sucursal y seleccionar una fecha y hora disponible.",
+    "sinonimos": [
+      "Reservar turno licencia",
+      "Turno licencia conducir"
+    ],
+    "temas": [
+      "vehiculos-y-licencias",
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060098",
+  "organismo": {
+    "nombre": "Berisso",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes deseen realizar trámites de licencia de conducir."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI y Nro. Documento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Calle, Nro. Calle, Subnumero S/N, 1/2 Piso, Dpto., Manzana.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Teléfono y Email.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Código enviado al Email.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá tus datos personales (Nombre, Apellido, Tipo Documento, Nro. Documento, Domicilio, Teléfono y Email)."
+      },
+      {
+        "texto": "Verificá el código enviado a tu email."
+      },
+      {
+        "texto": "Seleccioná una fecha y hora para ver los turnos disponibles."
+      },
+      {
+        "texto": "Confirmá tu turno."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": true,
+    "turno_url": "https://licencias.berisso.gob.ar/nuevo-turno",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Casa Central",
+      "direccion": "Av. Montevideo y 2",
+      "localidad": "Av. Montevideo y 2",
+      "horario": null,
+      "fuente_url": "https://licencias.berisso.gob.ar/nuevo-turno"
+    },
+    {
+      "nombre": "Delegación La Franja",
+      "direccion": "Av. 122 y 19",
+      "localidad": "Av. 122 y 19",
+      "horario": null,
+      "fuente_url": "https://licencias.berisso.gob.ar/nuevo-turno"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://licencias.berisso.gob.ar/nuevo-turno",
+      "titulo": "Nuevo Turno - Licencias de Conducir",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T11:13:07.349Z"
+    },
+    {
+      "url": "https://licencias.berisso.gob.ar/",
+      "titulo": "Sistema de Turnos - Licencias de Conducir",
+      "bloques": [
+        "quien",
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T11:13:07.349Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere no poseer infracciones impagas en el momento de realizar el trámite.",
+    "Se sugiere consultar en otras jurisdicciones si hay infracciones impagas.",
+    "El monto del trámite no se especifica en el texto."
+  ]
+}

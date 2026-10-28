@@ -1,0 +1,107 @@
+{
+  "tramite": {
+    "slug": "denunciar-por-aumento-indebido-de-cuota-por-rango-etario",
+    "nombre": "Denunciar aumento indebido de cuota por rango etario",
+    "nombre_busqueda": "Denunciar aumento indebido de cuota por rango etario",
+    "resumen": "Podés denunciar a tu Prepaga por aumentos indebidos de cuota por cambio de rango etario. El trámite es gratuito y se inicia generando un expediente en forma presencial o por TAD.",
+    "sinonimos": [],
+    "temas": [
+      "seguro-y-circulacion",
+      "familia-y-pareja"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Servicios de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Usuarios de Entidades de Medicina Prepaga o de planes superadores de Agentes del Seguro."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de Denuncia completo y firmado por el titular.",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI de la persona titular, apoderado o gestor (de ambos lados).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del DNI grupo familiar (de ambos lados).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia credencial del usuario y del grupo familiar.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Factura anterior al del aumento indebido y posteriores, hasta la fecha de presentación del reclamo.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación válida: Facturas A/ B ó C. Composición de cuota.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante emitido por la entidad de medicina prepaga donde conste fecha de ingreso (credencial, contrato suscripto por las partes, etc.).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma de Trámites a Distancia para iniciar el trámite con tu usuario de ARCA (ex AFIP) o de Mi Argentina."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Descargá, imprimí y completá el Formulario de Denuncia."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central",
+      "direccion": "Bartolomé Mitre 434 - Planta Baja - CABA - C1036AAH",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/denunciar-por-aumento-indebido-de-cuota-por-rango-etario"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/denunciar-por-aumento-indebido-de-cuota-por-rango-etario",
+      "titulo": "Denunciar por aumento indebido de cuota por rango etario | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T04:34:02.416Z"
+    },
+    {
+      "url": "https://turnos.argentina.gob.ar/turnos/seleccionTurno/3019",
+      "titulo": "Sistema Nacional de Turnos",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T04:34:02.416Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite según la Resolución 951/2025 no está especificada con exactitud en el texto.",
+    "El método para solicitar turnos en línea no se detalla en el texto."
+  ]
+}

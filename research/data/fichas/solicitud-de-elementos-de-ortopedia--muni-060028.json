@@ -1,0 +1,78 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-elementos-de-ortopedia",
+    "nombre": "Solicitud de elementos de ortopedia",
+    "nombre_busqueda": "Solicitud de elementos de ortopedia",
+    "resumen": "Trámite municipal para gestionar la entrega de dispositivos ortopédicos, como prótesis, sillas de ruedas o muletas, destinados a personas con discapacidad o necesidades especiales.",
+    "sinonimos": [],
+    "temas": [
+      "discapacidad-y-accesibilidad",
+      "salud-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060028",
+  "organismo": {
+    "nombre": "Municipio de Almirante Brown",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas con discapacidad o necesidades especiales que tengan DNI con domicilio en Almirante Brown."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI con domicilio en Almirante Brown.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Orden médica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Negativa ANSES.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comodato firmado.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Centro de acceso a derechos para personas con discapacidad",
+      "direccion": "Erezcano 1252",
+      "localidad": "Erezcano 1252",
+      "horario": null,
+      "fuente_url": "https://www.brown.gob.ar/tramites/solicitud-de-elementos-de-ortopedia/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.brown.gob.ar/tramites/solicitud-de-elementos-de-ortopedia/",
+      "titulo": "Solicitud de Elementos de Ortopedia",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "donde"
+      ],
+      "consultada_en": "2026-10-28T01:38:25.211Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se requiere confirmar si el trámite se realiza en línea o exclusivamente presencial.",
+    "Se requiere confirmar si se necesita sacar turno y cómo hacerlo.",
+    "Se requiere confirmar el plazo de atención del trámite.",
+    "Se requiere confirmar si hay costos asociados al trámite.",
+    "Se requiere confirmar la dirección exacta de la oficina para el retiro de los elementos."
+  ]
+}

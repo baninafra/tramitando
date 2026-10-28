@@ -1,0 +1,114 @@
+{
+  "tramite": {
+    "slug": "solicitar-certificado-dominio-automotor",
+    "nombre": "Solicitar certificado de dominio del automotor",
+    "nombre_busqueda": "certificado dominio automotor",
+    "resumen": "El trámite permite obtener un certificado de dominio que congela la situación jurídica del vehículo por 15 días hábiles, útil para futuros compradores o autoridades judiciales. Se puede realizar en línea o presencialmente.",
+    "sinonimos": [
+      "certificado de dominio vehiculo",
+      "certificado dominio automotor"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Dirección Nacional de Registros de la Propiedad Automotor",
+    "sigla": "DNRPA",
+    "web": "https://www.argentina.gob.ar/servicio/solicitar-un-certificado-de-dominio-del-automotor"
+  },
+  "contenido": {
+    "quien_puede": [
+      "Ser titular registral del vehículo",
+      "Ser autoridad judicial",
+      "Ser futuro comprador del vehículo"
+    ],
+    "requisitos": [
+      {
+        "texto": "Ser titular registral del vehículo o ser autoridad judicial",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documento identificatorio: DNI si sos argentino; pasaporte si sos extranjero sin residencia; DNI si sos extranjero con residencia permanente; dni, ci, ci del país de origen o pasaporte si sos de países limítrofes",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentos que prueben la representación si sos representante legal o apoderado",
+        "aclaracion": "Si sos representante legal o apoderado"
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la página web de la DNRPA Certificado de dominio"
+      },
+      {
+        "texto": "Completá la solicitud electrónica"
+      },
+      {
+        "texto": "Realizá el pago de los aranceles en línea"
+      },
+      {
+        "texto": "Recibí el certificado en tu correo electrónico"
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación en el Registro"
+      },
+      {
+        "texto": "Pagá allí los aranceles y completá el Formulario 02 que te entregarán"
+      },
+      {
+        "texto": "Retirá el certificado al día siguiente"
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "24 horas",
+    "consejos": [
+      "El certificado de dominio congela la situación jurídica del vehículo por 15 días hábiles",
+      "El Formulario 02 es gratuito si certificás la firma ante el Registro Seccional y presentás el trámite en ese momento",
+      "El Formulario TP es gratuito si realizás el trámite en línea"
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-un-certificado-de-dominio-del-automotor",
+      "titulo": "Solicitar un certificado de dominio del automotor | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T17:07:44.725Z"
+    },
+    {
+      "url": "https://www.dnrpa.gov.ar/portal_dnrpa/aranceles2.php",
+      "titulo": "Registros de la Propiedad Automotor",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T17:07:44.725Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T17:07:44.725Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de las oficinas para trámite presencial",
+    "Monto exacto de los aranceles en centavos",
+    "Vigencia exacta del trámite en formato AAAA-MM-DD"
+  ]
+}

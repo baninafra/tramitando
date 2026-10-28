@@ -1,0 +1,133 @@
+{
+  "tramite": {
+    "slug": "emitir-boletas-de-tasas-inspeccion-general-de-justicia",
+    "nombre": "Emitir boletas de tasas Inspección General de Justicia",
+    "nombre_busqueda": "Emitir boletas tasas IGJ",
+    "resumen": "Generá y pagá las boletas de tasas anuales, de constitución o retributivas de servicios de la Inspección General de Justicia a través del portal oficial.",
+    "sinonimos": [
+      "Boletas tasas IGJ",
+      "Pago tasas IGJ",
+      "Tasa anual IGJ"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Sociedades accionarias",
+      "Sociedades por acciones",
+      "Trámites registrales",
+      "Solicitudes de rúbrica de libros"
+    ],
+    "requisitos": [
+      {
+        "texto": "Número correlativo",
+        "aclaracion": null
+      },
+      {
+        "texto": "Denominación social",
+        "aclaracion": null
+      },
+      {
+        "texto": "Código de seguridad de 5 caracteres numéricos",
+        "aclaracion": null
+      },
+      {
+        "texto": "N° CUIT de la sociedad",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá el trámite en el portal."
+      },
+      {
+        "texto": "Seleccioná el tipo de tasa (constitución, retributiva de servicio o anual)."
+      },
+      {
+        "texto": "Identificá la sociedad registrada o en formación."
+      },
+      {
+        "texto": "Ingresá el código de seguridad de 5 caracteres numéricos."
+      },
+      {
+        "texto": "Imprimí la boleta."
+      },
+      {
+        "texto": "Generá la boleta si venció el plazo de 14 días corridos."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La boleta es válida para pagar dentro de los 14 días corridos de haberse generado.",
+      "Una vez transcurrido el plazo, generá una nueva boleta.",
+      "La fecha de vencimiento constará en la boleta.",
+      "El vencimiento de la tasa anual 2025 fue para el 15/12/2025 según Resolución 1159/2025."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede central IGJ",
+      "direccion": "Av. Paseo Colón 291",
+      "localidad": "Av. Paseo Colón 291",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/emitir-boletas-de-tasas-inspeccion-general-de-justicia"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/emitir-boletas-de-tasas-inspeccion-general-de-justicia",
+      "titulo": "Emitir boletas de Tasas - Inspección General de Justicia | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T15:27:20.441Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/justicia/igj/tasa-anual-igj",
+      "titulo": "Tasa anual IGJ | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T15:27:20.441Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T15:27:20.441Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de las tasas no está especificado en el texto.",
+    "La fecha de vigencia de la boleta no está confirmada en el texto."
+  ]
+}

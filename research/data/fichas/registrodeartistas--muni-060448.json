@@ -1,0 +1,70 @@
+{
+  "tramite": {
+    "slug": "inscripcion-registro-artistas",
+    "nombre": "Inscribirse en el Registro de Artistas",
+    "nombre_busqueda": "inscripción en el registro de artistas de Laprida",
+    "resumen": "El Municipio de Laprida tiene un registro para cantantes, bailarines, músicos, bandas, artistas plásticos, sonidistas y otros artistas. Para inscribirte, dirigite al Complejo Municipal de las Artes.",
+    "sinonimos": [
+      "registro de artistas de Laprida"
+    ],
+    "temas": [
+      "registro-de-artistas-y-propiedad-intelectual"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060448",
+  "organismo": {
+    "nombre": "Municipalidad de Laprida",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Podés inscribirte si sos cantante, bailarín, músico, integrás una banda, sos artista plástico, sonidista u otro tipo de artista."
+    ],
+    "requisitos": [
+      {
+        "texto": "La página no informa qué documentación o requisitos necesitás para inscribirte.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Dirigite al Complejo Municipal de las Artes para inscribirte, de 8 a 20 h."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Complejo Municipal de las Artes",
+      "direccion": "Santamarina 1322",
+      "localidad": "Santamarina 1322",
+      "horario": null,
+      "fuente_url": "https://www.laprida.gov.ar/index.php/contenido/p/registrodeartistas"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.laprida.gov.ar/index.php/contenido/p/registrodeartistas",
+      "titulo": "Municipalidad de Laprida",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "donde",
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T14:30:15.154Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La página no informa qué documentación o requisitos necesitás para inscribirte.",
+    "No se informa si necesitás sacar turno."
+  ]
+}

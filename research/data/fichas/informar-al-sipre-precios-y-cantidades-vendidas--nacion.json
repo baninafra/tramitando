@@ -1,0 +1,77 @@
+{
+  "tramite": {
+    "slug": "informar-al-sipre-precios-y-cantidades-vendidas",
+    "nombre": "Informar al SIPRE precios y cantidades vendidas",
+    "nombre_busqueda": "informar al sipre precios y cantidades vendidas",
+    "resumen": "Debes informar mensualmente bajo declaración jurada los precios de venta vigentes y las cantidades vendidas de los productos que comercializás.",
+    "sinonimos": [],
+    "temas": [
+      "cuil-y-clave-de-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ministerio de Economía",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas que se desempeñen en actividades económicas comprendiendo la producción, distribución y comercialización mayorista y minorista de bienes."
+    ],
+    "requisitos": [
+      {
+        "texto": "CUIT",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de Registro Único de la Matriz Productiva (RUMP)",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio web y generá un usuario y contraseña."
+      },
+      {
+        "texto": "Completá el formulario de pre-inscripción."
+      },
+      {
+        "texto": "Cargá el archivo con toda la documentación solicitada bajo declaración jurada."
+      },
+      {
+        "texto": "Recibí un correo electrónico confirmando que se procesó correctamente la carga."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La carga debe hacerse entre el 1 y el 10 de cada mes con la información correspondiente al mes previo.",
+      "En caso de que sea necesario rectificar los datos cargados, se podrá hacer entre los días 11 y 15 del mes de carga."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/informar-al-sipre-precios-y-cantidades-vendidas",
+      "titulo": "Informar al SIPRE precios y cantidades vendidas | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T16:38:50.515Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia del trámite no está confirmada en el texto."
+  ]
+}

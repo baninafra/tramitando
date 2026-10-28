@@ -1,0 +1,89 @@
+{
+  "tramite": {
+    "slug": "ingreso-electronica-estudiante-internacional",
+    "nombre": "Ingreso electrónico estudiante internacional",
+    "nombre_busqueda": "Ingreso electrónico estudiante internacional",
+    "resumen": "Permiso de ingreso para estudiantes extranjeros a cursos de menos de dos días dictados por instituciones educativas reconocidas.",
+    "sinonimos": [
+      "TIE estudiante internacional",
+      "Ingreso electrónico movilidad"
+    ],
+    "temas": [
+      "migraciones-y-extranjeria",
+      "visas-y-autorizaciones-de-viaje"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Migraciones",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El ingresante",
+      "El requirente: Entidad educativa debidamente inscripta en el Registro Nacional Único de Requirentes (Re.N.U.R.E.)",
+      "El apoderado del Requirente: Con poder/designación con facultades suficientes (ante escribano público)"
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia de inscripción electrónica al curso pretendido suscripta por el responsable de la entidad educativa, que se encuentre registrado ante el Re.N.U.R.E. para tales fines.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pasaporte válido y vigente.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Foto del ingresante tomada al momento de la carga del trámite. No es válida una imagen anterior. (Debe tomarse únicamente del rostro con un fondo blanco y ser presentada en formato JPG)",
+        "aclaracion": null
+      },
+      {
+        "texto": "En el caso de estudiantes menores, autorización de sus padres y acreditar la designación de un representante legal en el Territorio Nacional.",
+        "aclaracion": "Si sos menor de edad."
+      },
+      {
+        "texto": "Cuando la permanencia en el país sea de 6 meses o más, certificado que acredite fehacientemente que no registra condenas anteriores ni procesos penales en trámite, emitido por las autoridades competentes de los países donde haya residido por un plazo superior a UN (1) año, durante el transcurso de…",
+        "aclaracion": "Si sos mayor de 16 años y la permanencia será de 6 meses o más."
+      },
+      {
+        "texto": "Toda documentación expedida en el extranjero deberá contar con la legalización del Consulado Argentino, sito en el país emisor del documento, o apostillada, si el país hubiera ratificado el Convenio de La Haya, y su correspondiente traducción al idioma español.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Iniciá tu trámite a distancia ingresando en Tramitación de Ingreso Electrónico- TIE 24H"
+      },
+      {
+        "texto": "Debes adjuntar la documentación y datos requeridos según el tipo de ingreso que solicites."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/tramitacion-de-ingreso-electronica-estudiante-internacional-de-movilidad",
+      "titulo": "Tramitación de Ingreso Electrónica - Estudiante Internacional de Movilidad | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T18:05:03.447Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa migratoria no se especifica en el texto, solo se indica que se debe consultar el cuadro tasas migratorias.",
+    "El plazo de resolución del trámite no se especifica en el texto."
+  ]
+}

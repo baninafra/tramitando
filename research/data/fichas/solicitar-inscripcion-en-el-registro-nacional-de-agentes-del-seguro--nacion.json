@@ -1,0 +1,102 @@
+{
+  "tramite": {
+    "slug": "inscripcion-registro-nacional-agentes-seguro",
+    "nombre": "Solicitar inscripción en el Registro Nacional de Agentes del Seguro",
+    "nombre_busqueda": "inscripción agentes seguro salud",
+    "resumen": "Las entidades comprendidas en el art. 1º de la Ley Nº 26.682 deben solicitar su inscripción en el Registro Nacional de Agentes del Seguro (RNAS) si deciden aplicar los fondos percibidos para prestaciones de salud.",
+    "sinonimos": [],
+    "temas": [
+      "trabajo-y-seguridad-social",
+      "cuil-y-clave-de-seguridad-social"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Superintendencia de Servicios de Salud",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Entidades comprendidas en el art. 1º de la Ley Nº 26.682 que decidan aplicar los fondos percibidos con destino a las prestaciones de salud."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de Declaración Jurada suscrita por el representante legal de la Entidad.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Estatuto o instrumento constitutivo vigente aprobado por la autoridad de aplicación que corresponda.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Programa de Prestaciones Medico Asistenciales para los beneficiarios incluidos en el Sistema Nacional del Seguro de Salud.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Últimos 2 Balances Generales Anuales, cerrados a la fecha de la presentación y certificados por el Consejo Profesional correspondiente a su jurisdicción.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta o instrumento de la última elección de autoridades, inscripta ante la autoridad de aplicación que corresponda.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acta o instrumento que apruebe la solicitud de inscripción en el Registro Nacional de Agentes del Seguro (RNAS).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma de Trámites A Distancia con tu usuario apoderado en AFIP de la razón social a la que representás."
+      },
+      {
+        "texto": "Confirmá los datos del solicitante y hacé clic en Continuar."
+      },
+      {
+        "texto": "Seleccioná la opción 'entidad comprendida en el art. 1º de la ley 26.682 (INC. I) ART. 1 LEY 23.660'."
+      },
+      {
+        "texto": "Completá el formulario de Datos del trámite y adjuntá la documentación solicitada."
+      },
+      {
+        "texto": "Verificá que la documentación cargada se encuentre completa y hacé clic en Confirmar Trámite para generar el expediente."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Para poder solicitar su inscripción en el Registro Nacional de Agentes del Seguro (RNAS), deberás contar previamente con la inscripción definitiva o provisoria en el Registro Nacional de Entidades de Medicina Prepaga (RNEMP)."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-inscripcion-en-el-registro-nacional-de-agentes-del-seguro",
+      "titulo": "Solicitar inscripción en el Registro Nacional de Agentes del Seguro | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T08:55:35.507Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T08:55:35.507Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha de vigencia del trámite no está especificada en el texto.",
+    "El plazo de resolución no está especificado en el texto."
+  ]
+}

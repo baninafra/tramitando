@@ -1,0 +1,267 @@
+{
+  "tramite": {
+    "slug": "licencia-de-conducir",
+    "nombre": "Licencia para conducir",
+    "nombre_busqueda": "Licencia para conducir",
+    "resumen": "Tramite para obtener la licencia de conducir original o renovar, con requisitos específicos según edad, estado de salud y tipo de licencia (particular o profesional).",
+    "sinonimos": [
+      "Licencia nacional de conducir",
+      "Permiso de conducir",
+      "Licencia de conducir original"
+    ],
+    "temas": [
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060427",
+  "organismo": {
+    "nombre": "Municipio de La Matanza",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Argentinos o argentinos naturalizados con DNI digitalizado y domicilio en La Matanza.",
+      "Jóvenes de 16 a 21 años que deseen su primera licencia.",
+      "Personas con licencia anterior de CABA u otra provincia.",
+      "Personas que hayan cambiado de jurisdicción.",
+      "Personas mayores de 65 años.",
+      "Personas mayores de 70 años.",
+      "Personas insulinas dependientes.",
+      "Embarazadas.",
+      "Menores de 17 años.",
+      "Deudores alimentarios."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI digitalizado con domicilio en La Matanza.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Curso virtual Mi Primera Licencia Nacional de Conducir (solo para 16 a 21 años).",
+        "aclaracion": "Solo para primera vez."
+      },
+      {
+        "texto": "Certificado de legalidad de la licencia anterior (si aplica).",
+        "aclaracion": "Si va a sacar la licencia por primera vez y tiene licencia de CABA u otra provincia."
+      },
+      {
+        "texto": "Certificado de su médico tratante donde se especifique tratamiento, medicación, control metabólico y aptitud para conducir (si es insulino dependiente).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado del obstetra que especifique que el embarazo es sin riesgo (si es embarazada).",
+        "aclaracion": "Solo hasta con 24 semanas de gestación."
+      },
+      {
+        "texto": "Autorización de ambos padres o tutor firmada ante escribano público.",
+        "aclaracion": "Si sos menor de 17 años."
+      },
+      {
+        "texto": "Examen teórico y práctico.",
+        "aclaracion": "A partir de los 65 años."
+      },
+      {
+        "texto": "Certificado médico de aptitud física donde conste que se encuentra apto para conducir vehículos.",
+        "aclaracion": "A partir de los 70 años."
+      },
+      {
+        "texto": "Declaración Jurada de Salud descargada y completada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Regularización de la situación deudora alimentaria dentro de los 45 días de vigencia de la licencia provisoria.",
+        "aclaracion": "Si sos deudor alimentario."
+      },
+      {
+        "texto": "Informe del Registro Nacional de Antecedentes del Tránsito.",
+        "aclaracion": "Si cambió de jurisdicción."
+      },
+      {
+        "texto": "Entrega de la licencia anterior.",
+        "aclaracion": "Si cambió de jurisdicción."
+      },
+      {
+        "texto": "Licencia original o renovación según corresponda.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Evaluaciones psicofísicas, teóricas y prácticas en Centros de Emisión de Licencias (para licencias profesionales jurisdiccionales).",
+        "aclaracion": "Solo para licencias profesionales jurisdiccionales."
+      },
+      {
+        "texto": "Evaluaciones psicofísicas y instancias de capacitación o exámenes mediante prestadores externos habilitados por la ANSV (para licencias profesionales interjurisdiccionales).",
+        "aclaracion": "Solo para licencias profesionales interjurisdiccionales."
+      },
+      {
+        "texto": "Nota modelo de pedido de devolución (si aplica).",
+        "aclaracion": "Solo para devolución por pago erróneo."
+      },
+      {
+        "texto": "Recibos por los que solicita la devolución.",
+        "aclaracion": "Solo para devolución por pago erróneo."
+      },
+      {
+        "texto": "Título de Propiedad de dominio.",
+        "aclaracion": "Solo para devolución por pago erróneo."
+      },
+      {
+        "texto": "Alta en la nueva jurisdicción.",
+        "aclaracion": "Solo para devolución por pago erróneo."
+      },
+      {
+        "texto": "Deuda generada en la nueva jurisdicción por los períodos reclamados.",
+        "aclaracion": "Solo para devolución por pago erróneo."
+      },
+      {
+        "texto": "Comprobantes de pago (si aplica).",
+        "aclaracion": "Solo para devolución por duplicidad."
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la web de la Agencia Nacional de Seguridad Vial (ANSV) para realizar el curso virtual Mi Primera Licencia Nacional de Conducir."
+      },
+      {
+        "texto": "Ingresá a la web de la Agencia Nacional de Seguridad Vial (ANSV) para realizar el curso virtual Mi Primera Licencia Nacional de Conducir."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá toda la documentación original y copia en la Dirección de Descentralización Tributaria Yrigoyen 2147, San Justo."
+      },
+      {
+        "texto": "Realizá el cambio de jurisdicción en el nuevo Municipio antes de los 90 días."
+      },
+      {
+        "texto": "Realizá las evaluaciones psicofísicas, teóricas y prácticas en los Centros de Emisión de Licencias correspondientes."
+      },
+      {
+        "texto": "Realizá las evaluaciones psicofísicas y las instancias de capacitación o exámenes correspondientes mediante prestadores externos habilitados por la Agencia Nacional de Seguridad Vial (ANSV)."
+      },
+      {
+        "texto": "Finalizá el trámite en el Centro de Emisión de Licencias de Conducir."
+      },
+      {
+        "texto": "Realizá el trámite en la nueva sede ubicada en Arieta y Asamblea, La Tablada."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": "https://www.lamatanza.gov.ar/tramites/36/details",
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "Clase A y B - Licencia Original (Primera vez) - Personas hasta 64 años",
+      "gratis": false,
+      "monto_centavos": 2264800,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.lamatanza.gov.ar/tramites/41/details"
+    },
+    {
+      "modalidad": "Clase A y B - Licencia Original (Primera vez) - Personas desde 65 años en adelante",
+      "gratis": false,
+      "monto_centavos": 2099200,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.lamatanza.gov.ar/tramites/41/details"
+    },
+    {
+      "modalidad": "Renovación de Licencias Categoría Particular - Personas desde 65 años en adelante",
+      "gratis": false,
+      "monto_centavos": 2174000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.lamatanza.gov.ar/tramites/41/details"
+    },
+    {
+      "modalidad": "Renovación de Licencias Categoría Particular - Clase F - Personas hasta 64 años",
+      "gratis": false,
+      "monto_centavos": 1993400,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.lamatanza.gov.ar/tramites/41/details"
+    },
+    {
+      "modalidad": "Renovación de Licencias Categoría Profesional - Argentinos o argentinos nat",
+      "gratis": false,
+      "monto_centavos": 2264800,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.lamatanza.gov.ar/tramites/41/details"
+    },
+    {
+      "modalidad": "Renovación de Licencias Categoría Particular - Personas hasta 64 años",
+      "gratis": false,
+      "monto_centavos": 2159000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.lamatanza.gov.ar/tramites/41/details"
+    },
+    {
+      "modalidad": "Renovación de Licencias Categoría Particular - Personas desde 65 años en adelante",
+      "gratis": false,
+      "monto_centavos": 2029100,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.lamatanza.gov.ar/tramites/41/details"
+    },
+    {
+      "modalidad": "Renovación de Licencias Categoría Profesional - Clase F - Personas hasta 64 años",
+      "gratis": false,
+      "monto_centavos": 1931300,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.lamatanza.gov.ar/tramites/41/details"
+    },
+    {
+      "modalidad": "Renovación de Licencias Categoría Profesional - Clase F - Personas desde 65 años en adelante",
+      "gratis": false,
+      "monto_centavos": 2008400,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.lamatanza.gov.ar/tramites/41/details"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Dirección de Descentralización Tributaria",
+      "direccion": "Yrigoyen 2147, San Justo",
+      "localidad": "San Justo",
+      "horario": null,
+      "fuente_url": "https://www.lamatanza.gov.ar/tramites/41/details"
+    },
+    {
+      "nombre": "Nueva sede",
+      "direccion": "Arieta y Asamblea, La Tablada",
+      "localidad": "La Tablada",
+      "horario": null,
+      "fuente_url": "https://www.lamatanza.gov.ar/tramites/41/details"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.lamatanza.gov.ar/tramites/41/details",
+      "titulo": "Municipio de La Matanza - Corazon de La Provincia - Licencia para conducir - Tramitación",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T14:50:34.309Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Horarios de atención para trámites.",
+    "Plazo exacto del trámite.",
+    "Dirección exacta de las oficinas de atención al público."
+  ]
+}

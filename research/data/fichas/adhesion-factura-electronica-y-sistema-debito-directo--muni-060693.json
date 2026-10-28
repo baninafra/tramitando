@@ -1,0 +1,70 @@
+{
+  "tramite": {
+    "slug": "adhesion-factura-electronica-y-sistema-debito-directo",
+    "nombre": "Adhesión factura electrónica y sistema débito directo",
+    "nombre_busqueda": "Adhesión factura electrónica y débito directo",
+    "resumen": "Formulario para adherir al sistema de facturación electrónica y débito directo en la Municipalidad de Roque Pérez.",
+    "sinonimos": [
+      "Adhesión factura electrónica",
+      "Adhesión débito directo"
+    ],
+    "temas": [
+      "tasas-e-impuestos-municipales"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060693",
+  "organismo": {
+    "nombre": "Municipalidad de Roque Pérez",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona interesada en adherir al sistema."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario adhesión factura electrónica",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario adhesión sistema débito directo",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.roqueperez.gob.ar/content/adhesion-factura-electronica-y-sistema-debito-directo",
+      "titulo": "Adhesión factura electrónica y sistema débito directo",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "quien"
+      ],
+      "consultada_en": "2026-10-28T09:48:54.646Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de la oficina",
+    "Localidad de la oficina",
+    "Nombre de la oficina",
+    "Portal del trámite",
+    "Vigencia desde",
+    "Pasos online",
+    "Pasos presenciales",
+    "Requiere turno",
+    "URL de turno",
+    "Plazo estimado",
+    "Consejos adicionales"
+  ]
+}

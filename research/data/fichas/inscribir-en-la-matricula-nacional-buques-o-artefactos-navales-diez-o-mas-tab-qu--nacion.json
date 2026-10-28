@@ -1,0 +1,123 @@
+{
+  "tramite": {
+    "slug": "inscribir-buque-matricula-extranjera",
+    "nombre": "Inscribir buque matrícula extranjera",
+    "nombre_busqueda": "Inscribir buque matrícula extranjera",
+    "resumen": "Para buques de diez o más toneladas que vengan de matrícula extranjera, necesitás constancias de verificación, autorizaciones de incorporación y contrato de compra-venta legalizados. El trámite se hace presencialmente en la Prefectura Naval y lleva 30 días hábiles.",
+    "sinonimos": [
+      "Inscripción buque matrícula extranjera",
+      "Inscripción buque arqueo bruto diez toneladas"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Prefectura Naval Argentina",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Propietarios de buques y embarcaciones."
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia de verificación u homologación del buque o artefacto naval emitido por la Prefectura con la firma de un Oficial, debiendo constar en la solicitud el número de expediente por el cual se verificó y que se dio cumplimiento a los recaudos técnicos establecidos por la Ordenanza vigente (inter…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización de incorporación en la Matrícula Nacional de buques de transporte o pesqueros artículo 56 de la Ley Nº 20.094 – Ley de la Navegación, otorgada por la Secretaría de Gestión de Transporte o la Secretaría de Agricultura, Ganadería y Pesca de la Nación u Organismos que los pudieran sustitu…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Pasavante de navegación otorgado por el Cónsul Argentino con destino en el país de donde proviene el buque o artefacto naval, si corresponde.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización de incorporación en la Matrícula Nacional de buques de transporte o pesqueros, acorde artículo 56 de la Ley Nº 20.094 – Ley de la Navegación, otorgada por la Secretaría de Gestión de Transporte o la Secretaría de Agricultura, Ganadería y Pesca de la Nación u Organismos que los pudieran…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Contrato de compra-venta suscripto conforme a la ley de la bandera del buque o artefacto naval, acorde artículo 598 de la Ley Nº 20.094 - Ley de la Navegación o conforme a la ley del lugar de celebración, si el buque o artefacto naval al momento de la venta se encontraba sin bandera (artículo 201.0…",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cese de bandera apostillado, o con la correspondiente cadena de legalizaciones, y si estuviera redactado en idioma extranjero, traducido y legalizado.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Llevá la documentación completa: constancia de verificación, autorizaciones de incorporación, pasavante de navegación, contrato de compra-venta legalizado y cese de bandera apostillado."
+      },
+      {
+        "texto": "Presentá el formulario tipo del Anexo Nº 8 de la Ordenanza N° 9/02 DPSN en la Dependencia de la Prefectura Naval Argentina donde el buque tenga su lugar de amarre o en la que corresponda al domicilio del propietario o en el Registro Nacional de Buques."
+      },
+      {
+        "texto": "Acredité el domicilio en el país mediante Documento Nacional de Identidad o constancia de la Dirección Nacional de Migraciones si no pudieras acreditarlo con el DNI."
+      },
+      {
+        "texto": "Designá un Escribano para autorizar la escritura de matrícula indicándole el número de registro notarial, jurisdicción y domicilio."
+      },
+      {
+        "texto": "El trámite se iniciará con el formulario tipo cuyo modelo obra en el Anexo Nº 8 de la Ordenanza N° 9/02 DPSN, destinado a la inscripción de buques en la Matrícula Mercante Nacional."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": "30 días hábiles",
+    "consejos": [
+      "El trámite lleva 30 días hábiles desde que el expediente ingresa al Organismo y su contestación se hace desde la Dependencia que interviene directamente a la casilla de correo electrónico informada por el propietario en el documento.",
+      "Consultá el Cuadro tarifario de aranceles acorde valores establecidos Decreto 1528/07 para conocer el monto exacto de la tasa vigente a la fecha de presentación del trámite."
+    ]
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 655000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-en-la-matricula-nacional-buques-o-artefactos-navales-diez-o-mas-tab-que-hayan"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Registro Nacional de Buques",
+      "direccion": "Av. Eduardo Madero 235 - CP 1106 (Ciudad Autónoma de Buenos Aires)",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/inscribir-en-la-matricula-nacional-buques-o-artefactos-navales-diez-o-mas-tab-que-hayan"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/inscribir-en-la-matricula-nacional-buques-o-artefactos-navales-diez-o-mas-tab-que-hayan",
+      "titulo": "Inscribir en la matrícula nacional buques o artefactos navales diez o más TAB que hayan pertenecido a matrícula extranjera | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "plazo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T16:56:21.103Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/prefecturanaval/gestion-de-pagos",
+      "titulo": "Gestión de pagos | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-26T16:56:21.103Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Si el valor de compra resulte mayor a la suma equivalente a CIENTO OCHENTA (180) SALARIOS MÍNIMOS, VITALES Y MÓVILES, el propietario deberá justificar el origen de los fondos con los que adquirió la embarcación mediante certificación extendida por contador público matriculado, debidamente intervenida por el Consejo Profesional de Ciencias Económicas."
+  ]
+}

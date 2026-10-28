@@ -1,0 +1,147 @@
+{
+  "tramite": {
+    "slug": "presentar-declaracion-jurada-para-funcionarios-publicos",
+    "nombre": "Presentar Declaración Jurada para funcionarios públicos",
+    "nombre_busqueda": "Presentar Declaración Jurada para funcionarios públicos",
+    "resumen": "Funcionarios públicos deben presentar una Declaración Jurada Patrimonial Integral según su nivel jerárquico. El trámite es gratuito y se realiza online en ARCA o presencialmente en el área de Recursos Humanos.",
+    "sinonimos": [
+      "Declaración Jurada Patrimonial Integral",
+      "DJPI",
+      "Declaración Jurada de Alta",
+      "Declaración Jurada de Baja",
+      "Declaración Jurada Anual"
+    ],
+    "temas": [
+      "gobierno-y-participacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Oficina Anticorrupción",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Funcionarios del Sector Público Nacional desde el Presidente hasta los Directores Nacionales o equivalentes.",
+      "Funcionarios o empleados públicos integrantes de comisiones de compras y contrataciones.",
+      "Responsables de otorgar habilitaciones administrativas para el ejercicio de cualquier actividad o de controlar su funcionamiento.",
+      "Encargados de controlar o fiscalizar ingresos públicos.",
+      "Responsables de tareas de dirección, organización o coordinación relacionadas con los objetivos propios del área a su cargo.",
+      "Otros cargos o funciones detallados en el artículo 5º de la Ley 25188."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario F-1245 con información personal, patrimonial y antecedentes laborales.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Formulario F-1246 si está casado, conviviendo con pareja o tiene hijos menores no emancipados.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de la transmisión electrónica de la DJPI a ARCA (acuse de recibo).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Sobre con carátula específica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Manuales de usuario para la presentación (si aplica).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Material audiovisual de apoyo (si aplica).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Firmas de puño y letra en los formularios.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de Transacción del Acuse de Recibo del Formulario F-1245.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá al sitio web de ARCA registrándote como usuario con Clave Fiscal de nivel 2."
+      },
+      {
+        "texto": "Completá la información que requiere el aplicativo en Mis Aplicaciones Web/Oficina Anticorrupción/Declaración Jurada Patrimonial Integral - F 1245."
+      },
+      {
+        "texto": "Si presentás formularios de Ganancias Régimen General y/o Bienes Personales en ARCA, el sistema capturará la información de la DJPI Anual."
+      },
+      {
+        "texto": "Si no se captura la información (Ganancias Régimen Simplificado o REIBP), ingresá la información manualmente."
+      },
+      {
+        "texto": "Si estás casado, conviviendo o tenés hijos menores no emancipados, confeccioná manualmente e imprimí el Formulario ARCA 1246."
+      },
+      {
+        "texto": "Imprimí los formularios (F-1245 transmitido por ARCA y F-1246 si corresponde), firmlas de puño y letra y colocalos en un sobre identificado con la carátula."
+      },
+      {
+        "texto": "Completá todos los datos y firmla la carátula."
+      },
+      {
+        "texto": "No olvides colocar el Número de Transacción que aparece en el Acuse de Recibo del Formulario F-1245."
+      },
+      {
+        "texto": "Abrochá un acuse de recibo por fuera del sobre y firmla también."
+      },
+      {
+        "texto": "Imprimí una segunda copia y conservala junto con el sobre."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Entregá toda la documentación en el área de Recursos Humanos del organismo o jurisdicción en la que te desempeñás."
+      },
+      {
+        "texto": "Recibí uno de los ejemplares del acuse de recibo firmado por la autoridad receptora que te quedará como constancia de cumplimiento."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La declaración jurada debe efectuarse anualmente, salvo en caso de inicio y cese en el cargo.",
+      "La información pública correspondiente a las Declaraciones Juradas será publicada por la Oficina Anticorrupción dentro de los 10 días hábiles de trasmitida a través de la plataforma de ARCA."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Mesa de Ayuda de la Dirección Nacional del Sistema de Declaraciones Juradas",
+      "direccion": "25 de Mayo 544",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/presentar-declaracion-jurada-para-funcionarios-publicos"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/presentar-declaracion-jurada-para-funcionarios-publicos",
+      "titulo": "Presentar Declaración Jurada para funcionarios públicos | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T00:57:33.331Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia de la declaración jurada.",
+    "Si el trámite requiere turno."
+  ]
+}

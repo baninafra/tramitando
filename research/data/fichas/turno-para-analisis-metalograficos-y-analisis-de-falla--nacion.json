@@ -1,0 +1,85 @@
+{
+  "tramite": {
+    "slug": "turno-para-analisis-metalograficos-y-analisis-de-falla",
+    "nombre": "Turno para análisis metalográficos y análisis de falla",
+    "nombre_busqueda": "turno analisis metalograficos cnea",
+    "resumen": "Solicitá el turno para realizar análisis de microestructuras de metales y aleaciones en el Centro Atómico Constituyentes. Se cotiza según el servicio y se requiere constancia de AFIP.",
+    "sinonimos": [
+      "análisis metalográficos cnea",
+      "análisis de falla metalograficos"
+    ],
+    "temas": [
+      "documentos-e-identidad"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Comisión Nacional de Energía Atómica",
+    "sigla": "CNEA",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Centros de investigación relacionados con museos, ciencia y técnica",
+      "Organismos o entidades públicas",
+      "Todas las industrias, incluyendo cemento, cosmética, arqueología, pictografía, producción de energía, dispositivos médicos, entre otros"
+    ],
+    "requisitos": [
+      {
+        "texto": "Descripción de ensayo solicitado y fotografías de la pieza (.pdf)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de AFIP para la facturación",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Completá y enviá el formulario de solicitud de servicio"
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Concurrá con la muestra al Centro Atómico Constituyentes - CAC"
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/turno-para-analisis-metalograficos-y-analisis-de-falla",
+      "titulo": "análisis metalográficos o metalografía",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T18:54:56.029Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T18:54:56.029Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta del Centro Atómico Constituyentes - CAC",
+    "Método de pago específico (efectivo o transferencia) y datos de la cuenta bancaria",
+    "Plazo total del trámite desde la solicitud hasta la entrega de resultados",
+    "URL del formulario de solicitud de servicio",
+    "Requisitos específicos para menores de edad o casos especiales"
+  ]
+}

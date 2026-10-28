@@ -1,0 +1,71 @@
+{
+  "tramite": {
+    "slug": "inicio-de-carpeta-de-obra",
+    "nombre": "Inicio de carpeta de obra",
+    "nombre_busqueda": "Inicio carpeta obra",
+    "resumen": "Trámite para iniciar el expediente de una obra en el municipio de Quilmes.",
+    "sinonimos": [],
+    "temas": [
+      "obras-y-construccion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060658",
+  "organismo": {
+    "nombre": "Secretaría de Hacienda",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Solicitante de la obra"
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del propietario",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia del plano de la obra",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copia de la escritura de propiedad",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el DNI del propietario."
+      },
+      {
+        "texto": "Llevá una copia del plano de la obra."
+      },
+      {
+        "texto": "Llevá una copia de la escritura de propiedad."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://mi.quilmes.gov.ar/tramites/121/inicio-de-carpeta-de-obra",
+      "titulo": "Inicio de carpeta de obra",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-28T08:27:01.316Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifican requisitos adicionales en el texto."
+  ]
+}

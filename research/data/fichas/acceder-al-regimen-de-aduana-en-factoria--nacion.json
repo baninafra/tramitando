@@ -1,0 +1,86 @@
+{
+  "tramite": {
+    "slug": "acceso-a-regimen-aduana-factoria",
+    "nombre": "Acceder al Régimen de Aduana en Factoría",
+    "nombre_busqueda": "acceder al régimen de aduana en factoría",
+    "resumen": "Permite importar materias primas y componentes para fabricar bienes destinados a la exportación o para consumo, sin pagar impuestos hasta que se realicen las operaciones.",
+    "sinonimos": [
+      "Régimen de Aduana en Factoría",
+      "Importación para exportación"
+    ],
+    "temas": [
+      "emprendedores-y-monotributo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Secretaría de Industria",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Empresas que necesiten importar productos para consumo o para fabricar otros bienes que luego serán exportados."
+    ],
+    "requisitos": [
+      {
+        "texto": "Acta-Convenio con la entidad que agrupe a la actividad industrial que corresponda a tu empresa.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acercate a Av. Julio A. Roca 651, 1º piso, sector 30 (CABA) para recibir asesoramiento sobre el programa."
+      },
+      {
+        "texto": "Suscribí un Acta-Convenio con la entidad que agrupe a la actividad industrial que corresponda a tu empresa."
+      },
+      {
+        "texto": "Pedí la inclusión al régimen ante la Secretaría de Industria y la AFIP."
+      },
+      {
+        "texto": "Presentá la documentación correspondiente en Mesa de Entradas de la Secretaría, ubicada en la Av. Julio A. Roca 651, Planta Baja, Sector 11 y 12 (CABA) de lunes a viernes de 11 a 16 hs."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si tenés dudas o consultas sobre el trámite, completá el formulario de contacto."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Secretaría de Industria",
+      "direccion": "Av. Julio A. Roca 651, 1º piso, sector 30",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/acceder-al-regimen-de-aduana-en-factoria"
+    },
+    {
+      "nombre": "Mesa de Entradas de la Secretaría",
+      "direccion": "Av. Julio A. Roca 651, Planta Baja, Sector 11 y 12",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/acceder-al-regimen-de-aduana-en-factoria"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/acceder-al-regimen-de-aduana-en-factoria",
+      "titulo": "Acceder al Régimen de Aduana en Factoría | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-26T02:49:48.799Z"
+    }
+  ],
+  "sin_confirmar": []
+}

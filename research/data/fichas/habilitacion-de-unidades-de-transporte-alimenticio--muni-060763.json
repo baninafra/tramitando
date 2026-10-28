@@ -1,0 +1,115 @@
+{
+  "tramite": {
+    "slug": "habilitacion-comercial",
+    "nombre": "Habilitación de unidades de transporte de carga",
+    "nombre_busqueda": "Habilitación de unidades de transporte de carga",
+    "resumen": "Trámite para habilitar vehículos que transportan mercaderías perecederas, no perecederas y cargas en general. La habilitación tiene validez por un año.",
+    "sinonimos": [
+      "Habilitación de unidades de transporte alimenticio",
+      "Habilitación de unidades de transporte de carga"
+    ],
+    "temas": [
+      "comercio-e-industria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060763",
+  "organismo": {
+    "nombre": "San Nicolás Ciudad",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titular del vehículo",
+      "Persona jurídica"
+    ],
+    "requisitos": [
+      {
+        "texto": "Nombre y apellido del titular del vehículo",
+        "aclaracion": null
+      },
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de inscripción de AFIP",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio real",
+        "aclaracion": null
+      },
+      {
+        "texto": "Domicilio electrónico en donde serán enviadas todas las comunicaciones",
+        "aclaracion": null
+      },
+      {
+        "texto": "Poder, estatutos, contrato social o documentación que respalde la personería invocada",
+        "aclaracion": "Persona jurídica"
+      },
+      {
+        "texto": "Título de propiedad",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado de Verificación Técnica Vehicular (VTV) vigente",
+        "aclaracion": null
+      },
+      {
+        "texto": "Póliza vigente de seguro de responsabilidad civil y comprobante de pago",
+        "aclaracion": null
+      },
+      {
+        "texto": "Tres (3) fotografías del vehículo: frente, perfil y parte trasera",
+        "aclaracion": null
+      },
+      {
+        "texto": "Declaración Jurada Bromatológica online",
+        "aclaracion": "Solo para transporte de mercadería perecedera y no perecedera"
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá tus datos al sistema."
+      },
+      {
+        "texto": "Validá tus datos seleccionando la opción que prefieras: afip, anses, renaper o Mi Argentina."
+      },
+      {
+        "texto": "Completá el formulario online con la información solicitada y adjuntá la documentación en formato PDF."
+      },
+      {
+        "texto": "El sistema te dará la opción de completar la Declaración Jurada."
+      },
+      {
+        "texto": "Recibirás por correo electrónico el código QR habilitante."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.sannicolasciudad.gob.ar/tramites/transporte/habilitacion-de-unidades-de-transporte-alimenticio",
+      "titulo": "Habilitación de unidades de transporte de carga | Transporte | Trámites | San Nicolás Ciudad",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T15:52:51.296Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el monto del trámite.",
+    "No se especifica el plazo exacto de tramitación."
+  ]
+}

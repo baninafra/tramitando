@@ -1,0 +1,105 @@
+{
+  "tramite": {
+    "slug": "solicitar-extension-de-certificado-de-productos-veterinarios",
+    "nombre": "Solicitar extensión de certificado de productos veterinarios",
+    "nombre_busqueda": "extensión certificado productos veterinarios senasa",
+    "resumen": "Podés solicitar la extensión de un certificado de producto veterinario ya aprobado en el Senasa si una empresa cede parte de su producción a otra para que lo comercialice con otro nombre. El trámite se realiza en línea por SIG-Trámites y requiere declarar jurada la información.",
+    "sinonimos": [
+      "extensión registro productos veterinarios",
+      "transferencia certificado veterinario"
+    ],
+    "temas": [
+      "animales-y-zoonosis"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Titular, director técnico o apoderado de establecimientos de productos veterinarios"
+    ],
+    "requisitos": [
+      {
+        "texto": "Juego de rótulos del producto en cuestión con las modificaciones correspondientes que hacen a los datos del Elaborador y Director técnico",
+        "aclaracion": null
+      },
+      {
+        "texto": "Artes de impresión de todas las presentaciones con las que se comercializará el producto",
+        "aclaracion": null
+      },
+      {
+        "texto": "Número de trámite generado en SIG-Trámites",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Accedé a SIG-Trámites"
+      },
+      {
+        "texto": "Completá el formulario de solicitud"
+      },
+      {
+        "texto": "Consultá el estado del trámite con tu ID o número de trámite"
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Si iniciaste el trámite por SIG-Trámites, podés conocer el estado del mismo mediante tu ID o número de trámite desde el enlace de consulta de expedientes.",
+      "Puede solicitar una entrevista con un técnico con antelación de 24 a 48 horas según disponibilidad para los días martes y jueves, de 9 a 11 y de 14 a 16, con una duración máxima de 30 minutos."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Sanidad Animal - Dirección de Productos Veterinarios",
+      "direccion": "Carlos Calvo N° 66, PB, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-extension-de-certificado-de-productos-veterinarios"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-extension-de-certificado-de-productos-veterinarios",
+      "titulo": "Solicitar extensión de certificado de productos veterinarios | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:47:42.328Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T08:47:42.328Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/formularios/consulta-de-expedientes",
+      "titulo": "Expedientes | Argentina.gob.ar",
+      "bloques": [
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:47:42.328Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Monto exacto del arancel",
+    "Fecha de vigencia del trámite"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "tramite": {
+    "slug": "cobrar-haberes-personal-militar-retirado",
+    "nombre": "Cobrar los haberes del personal militar retirado o sus pensionistas",
+    "nombre_busqueda": "Cobrar haberes militares retirados",
+    "resumen": "El IAF envía mensualmente los haberes a la sucursal de Banco Nación o a la entidad apoderada designada. Es un trámite gratuito que requiere solo el DNI del titular.",
+    "sinonimos": [
+      "Cobro de haberes militares",
+      "Pago de pensiones militares",
+      "Retiros militares IAF"
+    ],
+    "temas": [
+      "jubilaciones-y-pensiones"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Retirados y pensionistas militares con el alta del beneficio en el IAF."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI del titular del beneficio.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si hay apoderado designado, ambos DNIs (titular y apoderado).",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Los haberes estarán disponibles para el cobro por ventanilla dentro de los 20 días a partir de la fecha de pago."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/cobrar-los-haberes-del-personal-militar-retirado-o-sus-pensionistas",
+      "titulo": "Cobrar los haberes del personal militar retirado o sus pensionistas. | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-26T04:43:39.380Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/iaf",
+      "titulo": "Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares | Argentina.gob.ar",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T04:43:39.380Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-26T04:43:39.380Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección de las oficinas para el cobro por ventanilla.",
+    "Horarios de atención de las oficinas del Banco Nación o entidades apoderadas."
+  ]
+}

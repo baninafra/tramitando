@@ -1,0 +1,86 @@
+{
+  "tramite": {
+    "slug": "habilitacion-comercial",
+    "nombre": "Habilitación comercial",
+    "nombre_busqueda": "Habilitación comercial",
+    "resumen": "Trámite para obtener la habilitación comercial en el municipio de San Martín. Requiere presentación de documentos y pago de tasas.",
+    "sinonimos": [
+      "Habilitación de comercio",
+      "Habilitación de industria"
+    ],
+    "temas": [
+      "comercio-e-industria",
+      "habilitacion-comercial",
+      "tasas-e-impuestos-municipales",
+      "tasa-de-comercio-e-industria"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060371",
+  "organismo": {
+    "nombre": "Municipalidad de San Martín",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier persona natural o jurídica que desee habilitar un comercio o industria en el municipio."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original y fotocopia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cédula de identidad de la empresa (si aplica).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobante de domicilio actualizado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Planilla de pago de tasas.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá los documentos en la oficina de comercio e industrias."
+      },
+      {
+        "texto": "Pagá la tasa correspondiente."
+      },
+      {
+        "texto": "Recibí la habilitación comercial."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Verificá que el comprobante de domicilio coincida con la dirección del local."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://sanmartin.gob.ar/tramites/comercios-e-industrias-habilitaciones-comerciales",
+      "titulo": "Habilitaciones comerciales",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T01:40:20.421Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Dirección exacta de la oficina.",
+    "Monto exacto de la tasa.",
+    "Fecha de vigencia del trámite."
+  ]
+}

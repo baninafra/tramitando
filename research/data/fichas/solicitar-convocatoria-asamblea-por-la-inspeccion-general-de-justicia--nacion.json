@@ -1,0 +1,132 @@
+{
+  "tramite": {
+    "slug": "solicitar-convocatoria-asamblea-por-la-inspeccion-general-de-justicia",
+    "nombre": "Solicitar convocatoria a asamblea por la Inspección General de Justicia",
+    "nombre_busqueda": "Solicitar convocatoria a asamblea por la Inspección General de Justicia",
+    "resumen": "Este trámite permite que asociaciones civiles, fundaciones y sociedades accionarias soliciten a la Inspección General de Justicia que convoque una asamblea. Se requiere completar un formulario específico, abonar una tasa según el tipo de entidad y presentar la documentación junto al formulario en la Mesa General de Entradas.",
+    "sinonimos": [
+      "Solicitud de convocatoria a asamblea por la Inspección General de Justicia",
+      "Convocatoria a asamblea por la Inspección General de Justicia"
+    ],
+    "temas": [
+      "gobierno-y-participacion"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Inspección General de Justicia",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Asociaciones civiles, extranjeras sin fines de lucro, asociaciones civiles de segundo y tercer grado, fundaciones, sociedades accionarias y sociedades incluidas en el art. 299 Ley 19.550."
+    ],
+    "requisitos": [
+      {
+        "texto": "Formulario de 'Solicitud de convocatoria a asamblea por la Inspección General de Justicia' completado e impreso.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Escrito de presentación que acredite la personería del presentante (director, síndico, accionista o asociado) con nombre, apellido y domicilio constituido.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nombre social, sede social y datos de inscripción o autorización de la entidad denunciada.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Relación circunstanciada de los hechos y las razones o motivos que fundamentan la petición.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Acreditación de que ya fueron agotados los mecanismos legales y/o estatutarios para obtener la convocatoria sin necesidad de solicitarla a la Inspección General de Justicia.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Orden del día pretendido para la convocatoria.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Firma del peticionante con patrocinio letrado, en su caso.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Documentación adicional específica para fundaciones: Formulario 'Solicitud de convocatoria a reuniones del consejo de administración por la Inspección General de Justicia'.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Completá el formulario y solicitá turno para Mesa General de Entradas de la Inspección General de Justicia."
+      },
+      {
+        "texto": "Presentá el formulario del trámite y toda la documentación indicada anteriormente en la Mesa General de Entradas de la Inspección General de Justicia."
+      },
+      {
+        "texto": "Retirá el formulario una vez finalizado, previa solicitud de turno."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 6000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-convocatoria-asamblea-por-la-inspeccion-general-de-justicia"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 10000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-convocatoria-asamblea-por-la-inspeccion-general-de-justicia"
+    },
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 12000000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-convocatoria-asamblea-por-la-inspeccion-general-de-justicia"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Mesa General de Entradas de la Inspección General de Justicia",
+      "direccion": "Av. Paseo Colón 291",
+      "localidad": "Av. Paseo Colón 291",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-convocatoria-asamblea-por-la-inspeccion-general-de-justicia"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-convocatoria-asamblea-por-la-inspeccion-general-de-justicia",
+      "titulo": "Solicitar convocatoria a asamblea por la Inspección General de Justicia | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:28:24.018Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El valor exacto del trámite debe calcularse según los módulos correspondientes.",
+    "La fecha de vigencia del trámite no está especificada en el texto."
+  ]
+}

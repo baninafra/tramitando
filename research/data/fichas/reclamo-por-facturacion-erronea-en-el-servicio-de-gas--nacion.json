@@ -1,0 +1,118 @@
+{
+  "tramite": {
+    "slug": "reclamo-por-facturacion-erronea-en-el-servicio-de-gas",
+    "nombre": "Reclamo por facturación errónea en el servicio de gas",
+    "nombre_busqueda": "Reclamo facturación gas errónea",
+    "resumen": "Si la queja ante la Prestadora no fue satisfecha, podés reclamar ante el ENARGAS. Mientras se tramita el reclamo, no estarás obligado a abonar la factura.",
+    "sinonimos": [
+      "Reclamo factura gas incorrecta",
+      "Queja facturación gas errónea"
+    ],
+    "temas": [
+      "defensa-del-consumidor"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Ente Nacional Regulador del Gas",
+    "sigla": "ENARGAS",
+    "web": "https://www.enargas.gob.ar"
+  },
+  "contenido": {
+    "quien_puede": [
+      "El cliente y/o el usuario."
+    ],
+    "requisitos": [
+      {
+        "texto": "Constancia del reclamo formulado ante la Prestadora.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Copias de las facturas reclamadas (opcional).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descripción del reclamo.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Efectuá la queja ante la Prestadora del Servicio y exijé el número de reclamo y el plazo estimativo para la resolución."
+      },
+      {
+        "texto": "Si la Distribuidora no responde dentro de 15 días o su respuesta es insatisfactoria, completá el formulario de reclamo en la página web del ENARGAS."
+      },
+      {
+        "texto": "Adjuntá la documentación respaldatoria si la tenés."
+      }
+    ],
+    "pasos_presencial": [
+      {
+        "texto": "Personalmente en la Sede Central, Suipacha 636, C1008AAN, Ciudad Autónoma de Buenos Aires, o en la Sede más próxima a tu domicilio, días hábiles de 10 a 16 hs."
+      },
+      {
+        "texto": "O por teléfono o fax: 0800-333-4444, mismo horario."
+      },
+      {
+        "texto": "O por correo postal gratuito al Apartado Especial Nº 600 (C1000WAF) Correo Central."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Conserve el número de su reclamo.",
+      "Si no está conforme con la facturación, la prestación del servicio, la gestión de la deuda o tenés inconvenientes con el suministro, primero debés realizar el reclamo ante la prestadora de gas."
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Sede Central",
+      "direccion": "Suipacha 636, C1008AAN, Ciudad Autónoma de Buenos Aires",
+      "localidad": "Ciudad Autónoma de Buenos Aires",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/reclamo-por-facturacion-erronea-en-el-servicio-de-gas"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/reclamo-por-facturacion-erronea-en-el-servicio-de-gas",
+      "titulo": "Reclamo por facturación errónea en el servicio de gas | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T03:19:07.062Z"
+    },
+    {
+      "url": "https://www.enargas.gob.ar/secciones/contacto/reclamos-formulario.php",
+      "titulo": "ENReGE",
+      "bloques": [
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T03:19:07.062Z"
+    },
+    {
+      "url": "https://www.enargas.gov.ar/secciones/oficina-virtual/oficina-virtual.php",
+      "titulo": "Oficina virtual ENARGAS",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T03:19:07.062Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo exacto para la resolución del reclamo ante el ENARGAS.",
+    "Si el trámite requiere turno para presentarse presencialmente."
+  ]
+}

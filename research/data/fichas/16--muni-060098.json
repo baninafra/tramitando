@@ -1,0 +1,73 @@
+{
+  "tramite": {
+    "slug": "certificado-de-localizacion-comercial",
+    "nombre": "Certificado de Localización Comercial",
+    "nombre_busqueda": "Certificado de Localización Comercial",
+    "resumen": "Documento que acredita la ubicación de un establecimiento comercial en el municipio.",
+    "sinonimos": [],
+    "temas": [
+      "habilitacion-comercial"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060098",
+  "organismo": {
+    "nombre": "Municipalidad de Berisso",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Quienes deseen obtener el certificado."
+    ],
+    "requisitos": [
+      {
+        "texto": "Presentar el DNI del titular del establecimiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar el DNI del representante legal si el establecimiento es de persona jurídica.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar la documentación que acredite la ubicación del establecimiento.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Acudí a la oficina de Timbrados de la Municipalidad de Berisso."
+      },
+      {
+        "texto": "Presentá los documentos requeridos."
+      },
+      {
+        "texto": "Recibí el Certificado de Localización Comercial."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://timbrados.berisso.gob.ar/timbrados/16",
+      "titulo": "Timbrados",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos"
+      ],
+      "consultada_en": "2026-10-27T10:54:05.828Z"
+    }
+  ],
+  "sin_confirmar": [
+    "No se especifica el costo del trámite.",
+    "No se especifica el plazo de emisión.",
+    "No se especifica si se requiere turno."
+  ]
+}

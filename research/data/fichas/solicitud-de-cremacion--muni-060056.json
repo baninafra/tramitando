@@ -1,0 +1,133 @@
+{
+  "tramite": {
+    "slug": "solicitud-de-cremacion",
+    "nombre": "Solicitud de cremación",
+    "nombre_busqueda": "Solicitud de cremación",
+    "resumen": "Trámite presencial para solicitar la cremación de restos óseos o de cuerpo completo. Requiere documentación que acredite el vínculo familiar y el certificado médico de defunción. El costo varía según si el fallecido es residente de Bahía Blanca o de la zona.",
+    "sinonimos": [],
+    "temas": [
+      "cementerio-y-servicios-funebres"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Ser familiar directo de la persona fallecida."
+    ],
+    "requisitos": [
+      {
+        "texto": "Certificado médico de defunción.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Certificado médico donde conste que no contiene marca paso o cualquier aparato con pila (solo para fallecidos recientes, si hace más de un año que falleció no es necesario).",
+        "aclaracion": null
+      },
+      {
+        "texto": "Comprobar legalmente el vínculo con el fallecido.",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de fallecimiento de cónyuge: Acta de Matrimonio actualizada, fotocopia de la primera y segunda hoja del DNI.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si la persona fallecida es viuda: El trámite deberá ser realizado por los hijos. Se deberá presentar la libreta de familia donde se conste hijos totales; estos deberán concurrir con sus actas de nacimiento y fotocopia de la primera y segunda hoja del DNI.",
+        "aclaracion": "Si la persona fallecida es viuda."
+      },
+      {
+        "texto": "Fallecimiento de un hijo: deberán concurrir sus padres con el acta de nacimiento del difunto, y fotocopia del documento de identidad de ambos, primera y segunda hoja.",
+        "aclaracion": "Si el fallecido es un hijo."
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentarse en el Cementerio con la documentación requerida."
+      },
+      {
+        "texto": "Abonar el valor de la cremación."
+      },
+      {
+        "texto": "Se le otorga un turno de cremación."
+      },
+      {
+        "texto": "El día siguiente de la cremación se entregan las cenizas."
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "Cremación residentes en Bahía Blanca (cuyo domicilio establecido en el DNI sea como mínimo de 3 años)",
+      "gratis": false,
+      "monto_centavos": 13943825,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/cementerio/solicitud-de-cremacion/"
+    },
+    {
+      "modalidad": "Cremación de restos óseos residentes en Bahía Blanca",
+      "gratis": false,
+      "monto_centavos": 6693036,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/cementerio/solicitud-de-cremacion/"
+    },
+    {
+      "modalidad": "Cremaciones de fallecidos en la zona",
+      "gratis": false,
+      "monto_centavos": 21194614,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/cementerio/solicitud-de-cremacion/"
+    },
+    {
+      "modalidad": "Cremación de restos óseos de la zona",
+      "gratis": false,
+      "monto_centavos": 11155060,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/cementerio/solicitud-de-cremacion/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Cementerio",
+      "direccion": "Pablo Lejarraga 1198",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/cementerio/solicitud-de-cremacion/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/tramites/cementerio/solicitud-de-cremacion/",
+      "titulo": "Solicitud de cremación | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T09:05:27.383Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El plazo de entrega de las cenizas no está especificado en el texto, solo se menciona que se entregan el día siguiente.",
+    "La fecha de vigencia del trámite no está especificada en el texto."
+  ]
+}

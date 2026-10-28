@@ -1,0 +1,98 @@
+{
+  "tramite": {
+    "slug": "consultas-biblioteca-museo-bellas-artes",
+    "nombre": "Consultas en la biblioteca del museo nacional de bellas artes",
+    "nombre_busqueda": "consultas biblioteca museo bellas artes",
+    "resumen": "Servicio gratuito de consulta de materiales bibliográficos y referencia especializada en arte para artistas, investigadores y público interesado.",
+    "sinonimos": [
+      "consultas biblioteca museo nacional",
+      "acceso materiales bellas artes"
+    ],
+    "temas": [
+      "cultura-deportes-y-turismo"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Museo Nacional de Bellas Artes",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Artistas",
+      "Investigadores",
+      "Docentes",
+      "Estudiantes",
+      "Público interesado en la temática"
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI",
+        "aclaracion": null
+      },
+      {
+        "texto": "Reserva previa de turno vía mail",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Realizá la reserva previa de turno vía mail a biblioteca.mnba@culture.gob.ar"
+      },
+      {
+        "texto": "Acudí al Museo Nacional de Bellas Artes en la Avenida Del Libertador 1473"
+      },
+      {
+        "texto": "Consultá los materiales bibliográficos en sala o solicitá referencia especializada en arte"
+      }
+    ],
+    "requiere_turno": true,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "Consultá previamente el catálogo en línea antes de ir",
+      "La atención es de martes a viernes de 11 a 17 h y sábados de 10.30 a 15.30 h"
+    ]
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Museo Nacional de Bellas Artes",
+      "direccion": "Avenida Del Libertador 1473",
+      "localidad": "Avenida Del Libertador 1473",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/realizar-consultas-en-la-biblioteca-del-museo-nacional-de-bellas-artes"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/realizar-consultas-en-la-biblioteca-del-museo-nacional-de-bellas-artes",
+      "titulo": "Realizar consultas en la Biblioteca del Museo Nacional de Bellas Artes | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T07:55:18.569Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "requisitos"
+      ],
+      "consultada_en": "2026-10-27T07:55:18.569Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El texto no especifica el plazo exacto de espera para obtener el turno",
+    "El texto no especifica la dirección exacta de la localidad donde se encuentra la oficina"
+  ]
+}

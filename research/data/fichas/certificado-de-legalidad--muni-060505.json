@@ -1,0 +1,102 @@
+{
+  "tramite": {
+    "slug": "certificado-de-legalidad-de-licencia-de-conducir",
+    "nombre": "Certificado de legalidad de licencia de conducir",
+    "nombre_busqueda": "Certificado de legalidad licencia conducir",
+    "resumen": "Este certificado acredita la validez de una licencia de conducir y sus datos. Es necesario para renovar la clase en provincias, radicarse en el exterior o presentarlo en empresas de transporte.",
+    "sinonimos": [
+      "Certificado de legalidad de licencia",
+      "Constancia de validez de licencia"
+    ],
+    "temas": [
+      "licencia-de-conducir"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060505",
+  "organismo": {
+    "nombre": "Municipalidad de Magdalena",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Cualquier ciudadano que tenga una licencia de conducir vigente."
+    ],
+    "requisitos": [
+      {
+        "texto": "DNI original y copia (frente y dorso)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Licencia de conducir original y copia",
+        "aclaracion": null
+      },
+      {
+        "texto": "Autorización del titular si tramita un tercero",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá el DNI y la licencia de conducir en el Juzgado de Faltas."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [
+    {
+      "modalidad": "General",
+      "gratis": false,
+      "monto_centavos": 1250000,
+      "vigente_desde": null,
+      "nota": null,
+      "fuente_url": "https://magdalena.gob.ar/detalle-guia-de-tramites-y-servicios/certificado-de-legalidad/"
+    }
+  ],
+  "oficinas": [
+    {
+      "nombre": "Juzgado de Faltas",
+      "direccion": "Brenan N° 970",
+      "localidad": "Magdalena",
+      "horario": null,
+      "fuente_url": "https://magdalena.gob.ar/detalle-guia-de-tramites-y-servicios/certificado-de-legalidad/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://magdalena.gob.ar/detalle-guia-de-tramites-y-servicios/certificado-de-legalidad/",
+      "titulo": "Certificado de Legalidad : Magdalena",
+      "bloques": [
+        "resumen",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "quien"
+      ],
+      "consultada_en": "2026-10-27T15:37:23.381Z"
+    }
+  ],
+  "sin_confirmar": [
+    "Se especifica que no es necesario para los municipios de la Provincia de Buenos Aires.",
+    "Se especifica que no es necesario para radicar a otro país si se tramita la licencia en el exterior.",
+    "Se especifica que el trámite se gestiona en el Juzgado de Faltas.",
+    "Se especifica que se debe remitir el comprobante de depósito por fax o email.",
+    "Se especifica que el pago se realiza en Banco Provincia de Buenos Aires.",
+    "Se especifica que el domicilio del Banco Provincia de Buenos Aires es Brenan N° 970.",
+    "Se especifica que el número de cuenta es 50011/1.",
+    "Se especifica que el CBU es 0140083001697005001113.",
+    "Se especifica que el titular de la cuenta es Municipalidad de Magdalena.",
+    "Se especifica que la CUIT es 30-67716214-3.",
+    "Se especifica que el email de licencias es licencias_magdalena@yahoo.com.ar.",
+    "Se especifica que el fax es (02221) 453373 interno 1124.",
+    "Se especifica que el teléfono es (02221) 452217 interno 1118.",
+    "Se especifica que el plazo no está indicado en el texto.",
+    "Se especifica que no se requiere turno según el texto."
+  ]
+}

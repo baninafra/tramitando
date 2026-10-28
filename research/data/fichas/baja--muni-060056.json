@@ -1,0 +1,113 @@
+{
+  "tramite": {
+    "slug": "baja-de-motovehiculo",
+    "nombre": "Baja de Motovehículo",
+    "nombre_busqueda": "Baja de motovehículo",
+    "resumen": "Para dar de baja un motovehículo en el Registro Municipal se deben cumplir requisitos específicos según la situación (cambio de radicación, robo/hurto) y presentar la documentación correspondente.",
+    "sinonimos": [
+      "Dar de baja motovehículo",
+      "Baja motovehículo municipio"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "muni-060056",
+  "organismo": {
+    "nombre": "Municipio de Bahía Blanca",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "El titular del motovehículo o un tercero con poder extendido por ante Escribano Público."
+    ],
+    "requisitos": [
+      {
+        "texto": "Completar formulario de solicitud",
+        "aclaracion": null
+      },
+      {
+        "texto": "Original y copia del título con cambio de radicación efectuado",
+        "aclaracion": null
+      },
+      {
+        "texto": "Original y copia del DNI (1ª y 2ª hoja y cambios de domicilio)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Libre deuda de infracciones de tránsito otorgado por el Tribunal Municipal de Faltas (Blandengues Nº152), emitido con fecha posterior a la inscripción de transferencia",
+        "aclaracion": null
+      },
+      {
+        "texto": "Libre deuda de patentes (Alsina 65, Automotores)",
+        "aclaracion": null
+      },
+      {
+        "texto": "Si el trámite lo realiza un tercero, acreditar identidad y adjuntar poder extendido por ante Escribano Público",
+        "aclaracion": null
+      },
+      {
+        "texto": "En caso de no presentar originales, las copias estarán autenticadas por Notario",
+        "aclaracion": null
+      },
+      {
+        "texto": "Constancia de Titularidad emitida por el Registro del Automotor",
+        "aclaracion": null
+      },
+      {
+        "texto": "Original y copia del Formulario Nº04 del Registro del Automotor",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [],
+    "pasos_presencial": [
+      {
+        "texto": "Presentá la documentación completa en el Registro Municipal."
+      }
+    ],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Área automotores",
+      "direccion": "Alsina 43",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/motovehiculos/baja/"
+    },
+    {
+      "nombre": "Registro del Automotor",
+      "direccion": "Alsina 65",
+      "localidad": "Bahía Blanca",
+      "horario": null,
+      "fuente_url": "https://www.bahia.gob.ar/tramites/motovehiculos/baja/"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.bahia.gob.ar/tramites/motovehiculos/baja/",
+      "titulo": "Baja de Motovehículo | Municipio de Bahía Blanca (Buenos Aires, Argentina)",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "donde",
+        "plazo",
+        "resumen",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-28T02:42:19.200Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto de la tasa no se especifica en el texto, solo se indica que es variable.",
+    "El plazo de atención no se especifica en el texto, solo se indica el horario de atención."
+  ]
+}

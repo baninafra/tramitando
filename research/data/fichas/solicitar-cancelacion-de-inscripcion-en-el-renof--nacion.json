@@ -1,0 +1,79 @@
+{
+  "tramite": {
+    "slug": "solicitar-cancelacion-de-inscripcion-en-el-renof",
+    "nombre": "Solicitar cancelación de inscripción en el ReNOF",
+    "nombre_busqueda": "cancelar inscripción ReNOF",
+    "resumen": "Realizá el trámite para cancelar la inscripción en el Registro Nacional de Operadores Ferroviarios de forma gratuita y en línea.",
+    "sinonimos": [
+      "cancelar operador ferroviario ReNOF",
+      "baja inscripción ReNOF"
+    ],
+    "temas": [
+      "vehiculos-y-licencias"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Comisión Nacional de Regulación del Transporte",
+    "sigla": "CNRT",
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Personas humanas o jurídicas reconocidas como operadores ferroviarios en el ReNOF que requieran voluntariamente la cancelación de tal condición."
+    ],
+    "requisitos": [
+      {
+        "texto": "Acreditar haber notificado fehacientemente al administrador de la infraestructura su decisión de dejar de prestar el servicio, acompañando constancia de la correspondiente recepción.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Presentar la documentación que acredite la inexistencia de deudas u obligaciones pendientes de cumplimiento de cualquier índole, con el Administrador de la Infraestructura sobre la que haya prestado servicios.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Descargar y completar el Formulario ReNOF N°3.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá la solicitud por TAD."
+      },
+      {
+        "texto": "Asegurate de que tu clave fiscal sea de nivel 3."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": [
+      "La cancelación de la inscripción en el Registro de Operadores Ferroviarios (ReNOF) operará a partir de las cero horas (00:00 hs) del día siguiente a la notificación del Acto Administrativo que así lo disponga.",
+      "Dicha actuación deberá ser cumplimentada por la CNRT en un plazo no mayor a 30 días corridos desde la fecha de la correcta y completa presentación de esta solicitud, acompañada de toda la documentación que hace a su pertinente tratamiento.",
+      "La cancelación voluntaria por parte del operador no dará derecho, en ningún caso, a la devolución de los aranceles abonados."
+    ]
+  },
+  "costos": [],
+  "oficinas": [],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-cancelacion-de-inscripcion-en-el-renof",
+      "titulo": "Solicitar cancelación de inscripción en el ReNOF | Argentina.gob.ar",
+      "bloques": [
+        "resumen",
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T08:09:25.999Z"
+    }
+  ],
+  "sin_confirmar": [
+    "La fecha exacta de vigencia del trámite.",
+    "El plazo exacto para la cancelación de la inscripción."
+  ]
+}

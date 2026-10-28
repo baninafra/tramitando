@@ -1,0 +1,130 @@
+{
+  "tramite": {
+    "slug": "solicitar-reponer-servicio-de-inspeccion-en-establecimientos-de-faena-de-animales",
+    "nombre": "Solicitar reponer servicio de inspección en establecimientos de faena de animales",
+    "nombre_busqueda": "Reponer servicio de inspección Senasa",
+    "resumen": "Los establecimientos de faena de animales pueden solicitar la reposición del Servicio de Inspección Veterinaria (SIV) oficial ante el Senasa. El trámite se realiza en línea a través de la plataforma TAD y requiere la presentación de documentación específica y el pago de un arancel.",
+    "sinonimos": [
+      "Reposición de inspección veterinaria",
+      "Solicitud de visita de inspección Senasa",
+      "Restitución de servicio de inspección"
+    ],
+    "temas": [
+      "salud-municipal"
+    ],
+    "temas_propuestos": []
+  },
+  "jurisdiccion_id": "nacion",
+  "organismo": {
+    "nombre": "Senasa",
+    "sigla": null,
+    "web": null
+  },
+  "contenido": {
+    "quien_puede": [
+      "Establecimientos de faena de animales terrestres, de procesamiento de productos de origen animal y de la pesca y acuicultura, incluidas embarcaciones y flotantes."
+    ],
+    "requisitos": [
+      {
+        "texto": "Clave fiscal ARCA validada, nivel 2 o superior para adhesión al sistema TAD a través de la plataforma de ARCA.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Computadora con conexión a internet.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Cupón de pago, debidamente abonado.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Centro Regional correspondiente a la ubicación industrial de la planta.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nº Oficial del establecimiento.",
+        "aclaracion": null
+      },
+      {
+        "texto": "Nº de Registro, si posee.",
+        "aclaracion": null
+      }
+    ],
+    "pasos_online": [
+      {
+        "texto": "Ingresá a la plataforma TAD."
+      },
+      {
+        "texto": "Corroborá que estén correctos los datos del solicitante."
+      },
+      {
+        "texto": "Completá los datos del trámite: Centro Regional correspondiente a la ubicación industrial de la planta y el N° oficial de establecimiento."
+      },
+      {
+        "texto": "Completá el N° de Registro, si posee."
+      },
+      {
+        "texto": "Adjuntá el comprobante de pago."
+      },
+      {
+        "texto": "El sistema te otorga un número del expediente generado para el control que deberás guardar."
+      }
+    ],
+    "pasos_presencial": [],
+    "requiere_turno": null,
+    "turno_url": null,
+    "plazo": null,
+    "consejos": []
+  },
+  "costos": [],
+  "oficinas": [
+    {
+      "nombre": "Dirección Nacional de Inocuidad y Calidad de Productos de Origen Animal",
+      "direccion": "Av. Paseo Colón N° 367, Piso 5° cfrente, C1063ACD, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-reponer-servicio-de-inspeccion-en-establecimientos-de-faena-de-animales"
+    },
+    {
+      "nombre": "Dirección de Inocuidad de Pesca y Acuicultura",
+      "direccion": "Av. Paseo Colón N° 367, Piso 5° Contrafrente, C1063ACD, CABA",
+      "localidad": "CABA",
+      "horario": null,
+      "fuente_url": "https://www.argentina.gob.ar/servicio/solicitar-reponer-servicio-de-inspeccion-en-establecimientos-de-faena-de-animales"
+    }
+  ],
+  "fuentes": [
+    {
+      "url": "https://www.argentina.gob.ar/servicio/solicitar-reponer-servicio-de-inspeccion-en-establecimientos-de-faena-de-animales",
+      "titulo": "Solicitar reponer servicio de inspección en establecimientos de faena de animales terrestres, pesca y acuicultura, pesca y acuicultura. Reposición del servicio de inspección | Argentina.gob.ar",
+      "bloques": [
+        "quien",
+        "requisitos",
+        "pasos",
+        "costo",
+        "consejos"
+      ],
+      "consultada_en": "2026-10-27T16:29:15.472Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/senasa/medios-de-pago-habilitados-senasa",
+      "titulo": "Medios de pago habilitados - Senasa | Argentina.gob.ar",
+      "bloques": [
+        "costo"
+      ],
+      "consultada_en": "2026-10-27T16:29:15.472Z"
+    },
+    {
+      "url": "https://www.argentina.gob.ar/turnos",
+      "titulo": "Sacá tu turno",
+      "bloques": [
+        "resumen"
+      ],
+      "consultada_en": "2026-10-27T16:29:15.472Z"
+    }
+  ],
+  "sin_confirmar": [
+    "El monto exacto del arancel no se especifica en el texto.",
+    "El plazo de espera para la visita de inspección no se indica."
+  ]
+}
